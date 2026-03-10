@@ -9,7 +9,7 @@ def get_inner_details(scraper, link):
         "salary": "Not Available",
         "age_limit": "Not Available", 
         "application_fee": "Not Available",
-        "apply_mode": "Offline", # ପ୍ରଥମରୁ Offline ଥିବ, ଯଦି Apply Online ଲେଖା ମିଳିଲା ତେବେ Online ହୋଇଯିବ
+        "apply_mode": "Offline", 
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "Not Available"
@@ -22,55 +22,73 @@ def get_inner_details(scraper, link):
         response = scraper.get(link)
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # ୧. ଟେବୁଲ୍ ସ୍କାନିଂ ଏବଂ ସ୍ମାର୍ଟ୍ ଲିଙ୍କ୍ ଖୋଜା (Row by Row)
+        # ୧. ମାଷ୍ଟରମାଇଣ୍ଡ ଟ୍ରିକ୍: ଏକ୍ସ-ରେ ଭିଜନ୍ (ପୁରା ପେଜ୍ ରେ Apply Mode ଖୋଜିବ)
+        page_text = soup.text.lower()
+        if 'apply online' in page_text or 'online application' in page_text:
+            details['apply_mode'] = "Online"
+        
+        # ୨. ଟେବୁଲ୍ ଭିତରେ ସ୍କାନିଂ (ଏଥର ବୋକା ବନିବନି)
         tables = soup.find_all('table')
         for table in tables:
             rows = table.find_all('tr')
+            fee_header_found = False # ଫିସ୍ ର ଫାଲତୁ ହେଡିଂ କୁ ଧରିବା ପାଇଁ ଜାଲ
+            
             for row in rows:
                 text = row.text.lower()
+                row_clean = row.text.replace('\n', ' ').strip()
                 
-                # ବୟସ, ଫିସ୍, ଦରମା, ପୋଷ୍ଟ
+                # ବୟସ, ପୋଷ୍ଟ ଏବଂ ଦରମା
                 if 'age limit' in text and details['age_limit'] == "Not Available":
-                    details['age_limit'] = row.text.replace('\n', ' ').strip()
-                elif ('application fee' in text or 'examination fee' in text) and details['application_fee'] == "Not Available":
-                    details['application_fee'] = row.text.replace('\n', ' ').strip()
+                    details['age_limit'] = row_clean
                 elif ('no of posts' in text or 'total vacancy' in text) and details['total_posts'] == "Not Available":
-                    details['total_posts'] = row.text.replace('\n', ' ').replace('no of posts', '').replace('total vacancy', '').strip()
+                    details['total_posts'] = row_clean.replace('no of posts', '').replace('total vacancy', '').strip()
                 elif ('salary' in text or 'scale of pay' in text or 'pay scale' in text) and details['salary'] == "Not Available":
-                    details['salary'] = row.text.replace('\n', ' ').strip()
+                    details['salary'] = row_clean
                 elif 'syllabus' in text and details['syllabus'] == "Not Available":
-                    details['syllabus'] = row.text.replace('\n', ' ').strip()
+                    details['syllabus'] = row_clean
 
-                # Apply Mode ଚେକ୍ (ଯଦି ଧାଡ଼ିରେ Apply Online ଲେଖାଅଛି)
-                if 'apply online' in text:
-                    details['apply_mode'] = "Online"
+                # ମାଷ୍ଟରମାଇଣ୍ଡ ଟ୍ରିକ୍: ଫିସ୍ ହେଡିଂ ବ୍ଲକର୍
+                if details['application_fee'] == "Not Available":
+                    if 'application fee' in text or 'examination fee' in text:
+                        # ଯଦି ଧାଡ଼ିରେ ଟଙ୍କା, ନମ୍ବର କିମ୍ବା Nil ଅଛି ତେବେ ଅସଲି ଡାଟା
+                        if any(char.isdigit() for char in row_clean) or 'rs' in text or 'rupee' in text or 'nil' in text or 'exempted' in text:
+                            details['application_fee'] = row_clean
+                        else:
+                            fee_header_found = True # ଏହା ଖାଲି ହେଡିଂ, ଆସନ୍ତା ଧାଡ଼ିରେ ଅସଲି ଟଙ୍କା ଥିବ
+                    elif fee_header_found:
+                        # ଏହା ହେଉଛି ହେଡିଂ ର ତଳ ଧାଡ଼ି (ଯେମିତିକି Rs. 200/-)
+                        if any(char.isdigit() for char in row_clean) or 'rs' in text or 'rupee' in text or 'nil' in text or 'exempted' in text:
+                            details['application_fee'] = row_clean
+                        fee_header_found = False
 
-                # Official Notification (Click here ସମସ୍ୟାର ସମାଧାନ)
-                if ('official notification' in text or 'detail notification' in text) and details['official_notification'] == "Not Available":
-                    a_tags = row.find_all('a')
-                    for a in a_tags:
-                        href = a.get('href', '')
-                        # ଖାଲି ଲିଙ୍କ୍ (#) ଏବଂ FreeJobAlert କୁ ଛାଡି ଅରିଜିନାଲ୍ ଆଣିବ
-                        if href and href != '#' and ('freejobalert.com' not in href.lower() or '.pdf' in href.lower()):
-                            details['official_notification'] = href
-                            break
-                
-                # Official Website (Click here ସମସ୍ୟାର ସମାଧାନ)
-                if 'official website' in text and details['official_website'] == "Not Available":
-                    a_tags = row.find_all('a')
-                    for a in a_tags:
-                        href = a.get('href', '')
-                        if href and href != '#' and 'freejobalert.com' not in href.lower():
-                            details['official_website'] = href
-                            break
-
-        # ୨. ଲୁଚିଥିବା ଫିସ୍ ଖୋଜିବା
+        # ଲୁଚିଥିବା ଫିସ୍ (ଯଦି ଟେବୁଲ୍ ବାହାରେ ଥାଏ)
         if details['application_fee'] == "Not Available":
             for p in soup.find_all(['p', 'li']):
                 p_text = p.text.lower()
-                if 'fee' in p_text and ('rs.' in p_text or 'rupees' in p_text):
+                if 'fee' in p_text and ('rs.' in p_text or 'rupees' in p_text or 'nil' in p_text):
                     details['application_fee'] = p.text.strip()
                     break
+
+        # ୩. ମାଷ୍ଟରମାଇଣ୍ଡ ଟ୍ରିକ୍: ୩୬୦-ଡିଗ୍ରୀ ରାଡାର (ଟେବୁଲ୍ ବାହାରେ ଏବଂ ଭିତରେ ସବୁଆଡେ ଲିଙ୍କ୍ ଖୋଜିବ)
+        links = soup.find_all('a')
+        for a in links:
+            if not a.get('href'): continue
+            
+            link_text = a.text.lower().strip()
+            href = a['href']
+            
+            # Anti-FreeJobAlert Shield (ଖାଲି ଲିଙ୍କ୍ ଆଉ ଫାଲତୁ ଲିଙ୍କ୍ ବ୍ଲକ୍)
+            if href == '#' or ('freejobalert.com' in href.lower() and '.pdf' not in href.lower()):
+                continue
+            
+            # Official Notification PDF 
+            if ('notification' in link_text or 'detail' in link_text or 'download' in link_text) and details['official_notification'] == "Not Available":
+                if 'pdf' in link_text or '.pdf' in href.lower() or 'notification' in link_text:
+                    details['official_notification'] = href
+                    
+            # Official Website
+            elif ('official website' in link_text or 'website' in link_text) and details['official_website'] == "Not Available":
+                details['official_website'] = href
                     
     except Exception as e:
         pass 
@@ -109,7 +127,6 @@ def get_jobs(url, filename):
                         print(f"  -> ଭିତର ପେଜ୍ ଚେକ୍ କରୁଛି: {post_name[:20]}...")
                         inner_data = get_inner_details(scraper, job_link)
 
-                        # ଏଠାରୁ FreeJobAlert ର 'link' କୁ ସମ୍ପୂର୍ଣ୍ଣ ଡିଲିଟ୍ କରାଯାଇଛି 
                         jobs_data.append({
                             "date": post_date,
                             "board": board_name,
