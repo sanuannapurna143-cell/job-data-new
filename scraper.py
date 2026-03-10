@@ -64,28 +64,22 @@ def get_inner_details(scraper, link):
                     else:
                         details['total_posts'] = row_clean.replace('no of posts', '').replace('total vacancy', '').strip()
                         
-                # Salary ର ସ୍ମାର୍ଟ ଲଜିକ୍
-                elif ('salary' in text or 'scale of pay' in text or 'pay scale' in text or 'pay matrix' in text or 'remuneration' in text or 'stipend' in text) and details['salary'] == "Not Available":
-                    if 'rs' in text or 'rupee' in text or '₹' in text or any(char.isdigit() for char in row_clean):
-                        if len(cols) >= 2:
-                            for col in cols[1:]:
-                                if 'rs' in col.text.lower() or 'rupee' in col.text.lower() or any(c.isdigit() for c in col.text):
-                                    details['salary'] = col.text.replace('\n', ' ').strip()
-                                    break
-                            if details['salary'] == "Not Available":
-                                details['salary'] = row_clean
-                        else:
-                            details['salary'] = row_clean
+                # ନୂଆ ଚାଲାକି ଲଜିକ୍: ଯଦି ଡାହାଣ ପଟେ କିଛି ବି ଲେଖାଅଛି (ଯେମିତି "As per NESTS guidelines"), ସିଧା ଆଣିବ!
+                elif ('salary' in text or 'scale of pay' in text or 'pay scale' in text or 'pay matrix' in text or 'remuneration' in text or 'stipend' in text) and 'qualification' not in text and details['salary'] == "Not Available":
+                    if len(cols) >= 2:
+                        details['salary'] = cols[1].text.replace('\n', ' ').strip()
                     else:
-                        salary_header_found = True
+                        if 'rs' in text or 'rupee' in text or '₹' in text or 'level' in text or 'as per' in text:
+                            details['salary'] = row_clean
+                        else:
+                            salary_header_found = True
                 
                 elif salary_header_found and details['salary'] == "Not Available":
-                    if 'rs' in text or 'rupee' in text or '₹' in text or any(char.isdigit() for char in row_clean):
+                    if 'qualification' in text or 'age limit' in text or 'post' in text:
+                        salary_header_found = False
+                    else:
                         if len(cols) >= 2:
-                            for col in cols:
-                                if 'rs' in col.text.lower() or any(c.isdigit() for c in col.text):
-                                    details['salary'] = col.text.replace('\n', ' ').strip()
-                                    break
+                            details['salary'] = cols[1].text.replace('\n', ' ').strip()
                         else:
                             details['salary'] = row_clean
                         salary_header_found = False
@@ -93,7 +87,6 @@ def get_inner_details(scraper, link):
                 elif 'syllabus' in text and details['syllabus'] == "Not Available":
                     details['syllabus'] = row_clean
 
-                # Fee ର ସ୍ମାର୍ଟ ଲଜିକ୍
                 if details['application_fee'] == "Not Available":
                     if 'application fee' in text or 'examination fee' in text:
                         if any(char.isdigit() for char in row_clean) or 'rs' in text or 'rupee' in text or 'nil' in text or 'exempted' in text or '₹' in text:
@@ -115,7 +108,7 @@ def get_inner_details(scraper, link):
         if details['salary'] == "Not Available":
             for p in soup.find_all(['p', 'li']):
                 p_text = p.text.lower()
-                if ('salary' in p_text or 'pay' in p_text or 'remuneration' in p_text) and ('rs' in p_text or 'rupee' in p_text or '₹' in p_text):
+                if ('salary' in p_text or 'pay' in p_text or 'remuneration' in p_text) and ('rs' in p_text or 'rupee' in p_text or '₹' in p_text or 'as per' in p_text):
                     details['salary'] = p.text.strip()
                     break
 
@@ -168,7 +161,7 @@ def get_jobs(url, filename):
                     if len(cols) >= 6:
                         post_date = cols[0].text.strip()
                         board_name = cols[1].text.strip()
-                        post_name = cols[2].text.strip() # ବାହାର ନାମ ଯେଉଁଥିରେ ନମ୍ବର ଥାଏ!
+                        post_name = cols[2].text.strip()
                         qualification = cols[3].text.strip()
                         last_date = cols[5].text.strip()
                         
@@ -185,12 +178,10 @@ def get_jobs(url, filename):
 
                         final_total_posts = inner_data['total_posts']
                         if final_total_posts == "Not Available":
-                            # ଭୁଲ୍ ସୁଧାର: ଏବେ 'post_name' ରୁ ହିଁ ନମ୍ବର ଖୋଜିବ
                             match = re.search(r'(\d+)\s*(?:post|vacancy|posts|vacancies)', post_name, re.IGNORECASE)
                             if match:
                                 final_total_posts = match.group(1)
                             else:
-                                # ଯଦି "Dental Surgeon - 124" ଏମିତି ଥାଏ
                                 match2 = re.search(r'-\s*(\d+)', post_name)
                                 if match2:
                                     final_total_posts = match2.group(1)
@@ -201,7 +192,7 @@ def get_jobs(url, filename):
                             "title": final_title,
                             "qualification": qualification,
                             "last_date": last_date,
-                            "total_posts": final_total_posts, # ଏଥର ଗ୍ୟାରେଣ୍ଟି ପୋଷ୍ଟ ଆସିବ!
+                            "total_posts": final_total_posts,
                             "salary": inner_data['salary'],
                             "age_limit": inner_data['age_limit'],
                             "application_fee": inner_data['application_fee'],
