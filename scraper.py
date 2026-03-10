@@ -2,6 +2,7 @@ import cloudscraper
 from bs4 import BeautifulSoup
 import json
 import time
+import re  # ନୂଆ ଯୋଡାଗଲା (Title ରୁ ନମ୍ବର ବାହାର କରିବା ପାଇଁ)
 
 def get_inner_details(scraper, link):
     details = {
@@ -18,16 +19,14 @@ def get_inner_details(scraper, link):
         return details
     
     try:
-        time.sleep(5) # Block ରୁ ବଞ୍ଚିବା ପାଇଁ
+        time.sleep(5) 
         response = scraper.get(link)
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # ୧. ମାଷ୍ଟରମାଇଣ୍ଡ ଟ୍ରିକ୍: ଏକ୍ସ-ରେ ଭିଜନ୍ (ପୁରା ପେଜ୍ ରେ Apply Mode ଖୋଜିବ)
         page_text = soup.text.lower()
         if 'apply online' in page_text or 'online application' in page_text:
             details['apply_mode'] = "Online"
         
-        # ୨. ଟେବୁଲ୍ ଭିତରେ ସ୍କାନିଂ (ଫିସ୍ ହେଡିଂ ବ୍ଲକର୍ ସହ)
         tables = soup.find_all('table')
         for table in tables:
             rows = table.find_all('tr')
@@ -37,53 +36,53 @@ def get_inner_details(scraper, link):
                 text = row.text.lower()
                 row_clean = row.text.replace('\n', ' ').strip()
                 
-                # ବୟସ, ପୋଷ୍ଟ ଏବଂ ଦରମା
                 if 'age limit' in text and details['age_limit'] == "Not Available":
                     details['age_limit'] = row_clean
                 elif ('no of posts' in text or 'total vacancy' in text) and details['total_posts'] == "Not Available":
                     details['total_posts'] = row_clean.replace('no of posts', '').replace('total vacancy', '').strip()
-                elif ('salary' in text or 'scale of pay' in text or 'pay scale' in text) and details['salary'] == "Not Available":
+                    
+                # Salary ପାଇଁ ନୂଆ ଶବ୍ଦ ଯୋଡାଗଲା (remuneration, pay matrix, stipend)
+                elif ('salary' in text or 'scale of pay' in text or 'pay scale' in text or 'pay matrix' in text or 'remuneration' in text or 'stipend' in text) and details['salary'] == "Not Available":
                     details['salary'] = row_clean
+                    
                 elif 'syllabus' in text and details['syllabus'] == "Not Available":
                     details['syllabus'] = row_clean
 
-                # ଫିସ୍ ର ସଠିକ୍ ଟଙ୍କା ଖୋଜିବା
                 if details['application_fee'] == "Not Available":
                     if 'application fee' in text or 'examination fee' in text:
-                        if any(char.isdigit() for char in row_clean) or 'rs' in text or 'rupee' in text or 'nil' in text or 'exempted' in text:
+                        if any(char.isdigit() for char in row_clean) or 'rs' in text or 'rupee' in text or 'nil' in text or 'exempted' in text or '₹' in text:
                             details['application_fee'] = row_clean
                         else:
                             fee_header_found = True
                     elif fee_header_found:
-                        if any(char.isdigit() for char in row_clean) or 'rs' in text or 'rupee' in text or 'nil' in text or 'exempted' in text:
+                        if any(char.isdigit() for char in row_clean) or 'rs' in text or 'rupee' in text or 'nil' in text or 'exempted' in text or '₹' in text:
                             details['application_fee'] = row_clean
                         fee_header_found = False
 
-        # ଲୁଚିଥିବା ଫିସ୍ (ଯଦି ଟେବୁଲ୍ ବାହାରେ ଥାଏ)
         if details['application_fee'] == "Not Available":
             for p in soup.find_all(['p', 'li']):
                 p_text = p.text.lower()
-                if 'fee' in p_text and ('rs.' in p_text or 'rupees' in p_text or 'nil' in p_text):
+                if 'fee' in p_text and ('rs.' in p_text or 'rupees' in p_text or 'nil' in p_text or '₹' in p_text):
                     details['application_fee'] = p.text.strip()
                     break
 
-        # ୩. ନୂଆ ଏବଂ ସବୁଠୁ ଶକ୍ତିଶାଳୀ ଲିଙ୍କ୍ ଖୋଜା (The "Full Line" Scanner)
+        # Salary ଯଦି ଟେବୁଲ ବାହାରେ ଥାଏ
+        if details['salary'] == "Not Available":
+            for p in soup.find_all(['p', 'li']):
+                p_text = p.text.lower()
+                if ('salary' in p_text or 'pay' in p_text or 'remuneration' in p_text) and ('rs' in p_text or 'rupee' in p_text or '₹' in p_text):
+                    details['salary'] = p.text.strip()
+                    break
+
         for element in soup.find_all(['li', 'tr', 'p']):
             text = element.text.lower()
             a_tags = element.find_all('a')
-            
             for a in a_tags:
                 href = a.get('href', '')
-                
-                # ଫାଲତୁ ଲିଙ୍କ୍ ବ୍ଲକ୍ (Anti-FreeJobAlert Shield)
                 if not href or href == '#' or ('freejobalert.com' in href.lower() and '.pdf' not in href.lower()):
                     continue
-                    
-                # Official Website ଖୋଜିବା
                 if 'official website' in text and details['official_website'] == "Not Available":
                     details['official_website'] = href
-                    
-                # Official Notification ଖୋଜିବା
                 elif ('notification' in text or 'detail' in text) and details['official_notification'] == "Not Available":
                     details['official_notification'] = href
                     
@@ -105,7 +104,6 @@ def get_jobs(url, filename):
             if 'Post Date' in table.text or 'Qualification' in table.text:
                 rows = table.find_all('tr')
                 
-                # ସବୁ ଚାକିରି ଆଣିବ (rows[1:])
                 for row in rows[1:]:
                     cols = row.find_all('td')
                     if len(cols) >= 6:
@@ -124,13 +122,20 @@ def get_jobs(url, filename):
                         print(f"  -> ଭିତର ପେଜ୍ ଚେକ୍ କରୁଛି: {post_name[:20]}...")
                         inner_data = get_inner_details(scraper, job_link)
 
+                        # Title ରୁ Total Posts ଖୋଜିବା ଲଜିକ୍
+                        final_total_posts = inner_data['total_posts']
+                        if final_total_posts == "Not Available":
+                            match = re.search(r'(\d+)\s*(?:post|vacancy|posts|vacancies)', post_name, re.IGNORECASE)
+                            if match:
+                                final_total_posts = match.group(1)
+
                         jobs_data.append({
                             "date": post_date,
                             "board": board_name,
                             "title": post_name,
                             "qualification": qualification,
                             "last_date": last_date,
-                            "total_posts": inner_data['total_posts'],
+                            "total_posts": final_total_posts, # ଏବେ ସବୁଥିରେ ପୋଷ୍ଟ ଆସିବ!
                             "salary": inner_data['salary'],
                             "age_limit": inner_data['age_limit'],
                             "application_fee": inner_data['application_fee'],
@@ -148,7 +153,6 @@ def get_jobs(url, filename):
     except Exception as e:
         print(f"ଅସୁବିଧା ହେଲା {filename} ରେ: {e}")
 
-# ଆମର ସବୁ ରାଜ୍ୟର ଲିଷ୍ଟ
 job_sources = {
     "odisha_jobs.json": "https://www.freejobalert.com/odisha-government-jobs/",
     "central_jobs.json": "https://www.freejobalert.com/government-jobs/",
