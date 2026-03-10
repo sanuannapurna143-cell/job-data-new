@@ -9,10 +9,10 @@ def get_inner_details(scraper, link):
         "salary": "Not Available",
         "age_limit": "Not Available", 
         "application_fee": "Not Available",
-        "apply_link": "Not Available",
-        "official_notification": "Not Available",
+        "apply_mode": "Offline", # ପ୍ରଥମରୁ Offline ଥିବ, ଯଦି Apply Online ଲେଖା ମିଳିଲା ତେବେ Online ହୋଇଯିବ
         "syllabus": "Not Available",
-        "official_website": "Not Available"
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
     }
     if not link:
         return details
@@ -22,13 +22,14 @@ def get_inner_details(scraper, link):
         response = scraper.get(link)
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # ୧. ଟେବୁଲ୍ ସ୍କାନିଂ (ଦରମା, ବୟସ, ଟୋଟାଲ ପୋଷ୍ଟ ଏବଂ ସିଲାବସ୍ ଟେକ୍ସଟ୍)
+        # ୧. ଟେବୁଲ୍ ସ୍କାନିଂ ଏବଂ ସ୍ମାର୍ଟ୍ ଲିଙ୍କ୍ ଖୋଜା (Row by Row)
         tables = soup.find_all('table')
         for table in tables:
             rows = table.find_all('tr')
             for row in rows:
                 text = row.text.lower()
                 
+                # ବୟସ, ଫିସ୍, ଦରମା, ପୋଷ୍ଟ
                 if 'age limit' in text and details['age_limit'] == "Not Available":
                     details['age_limit'] = row.text.replace('\n', ' ').strip()
                 elif ('application fee' in text or 'examination fee' in text) and details['application_fee'] == "Not Available":
@@ -40,6 +41,29 @@ def get_inner_details(scraper, link):
                 elif 'syllabus' in text and details['syllabus'] == "Not Available":
                     details['syllabus'] = row.text.replace('\n', ' ').strip()
 
+                # Apply Mode ଚେକ୍ (ଯଦି ଧାଡ଼ିରେ Apply Online ଲେଖାଅଛି)
+                if 'apply online' in text:
+                    details['apply_mode'] = "Online"
+
+                # Official Notification (Click here ସମସ୍ୟାର ସମାଧାନ)
+                if ('official notification' in text or 'detail notification' in text) and details['official_notification'] == "Not Available":
+                    a_tags = row.find_all('a')
+                    for a in a_tags:
+                        href = a.get('href', '')
+                        # ଖାଲି ଲିଙ୍କ୍ (#) ଏବଂ FreeJobAlert କୁ ଛାଡି ଅରିଜିନାଲ୍ ଆଣିବ
+                        if href and href != '#' and ('freejobalert.com' not in href.lower() or '.pdf' in href.lower()):
+                            details['official_notification'] = href
+                            break
+                
+                # Official Website (Click here ସମସ୍ୟାର ସମାଧାନ)
+                if 'official website' in text and details['official_website'] == "Not Available":
+                    a_tags = row.find_all('a')
+                    for a in a_tags:
+                        href = a.get('href', '')
+                        if href and href != '#' and 'freejobalert.com' not in href.lower():
+                            details['official_website'] = href
+                            break
+
         # ୨. ଲୁଚିଥିବା ଫିସ୍ ଖୋଜିବା
         if details['application_fee'] == "Not Available":
             for p in soup.find_all(['p', 'li']):
@@ -47,33 +71,6 @@ def get_inner_details(scraper, link):
                 if 'fee' in p_text and ('rs.' in p_text or 'rupees' in p_text):
                     details['application_fee'] = p.text.strip()
                     break
-
-        # ୩. ସ୍ମାର୍ଟ ଏବଂ କ୍ଲିନ୍ ଲିଙ୍କ୍ ସ୍କାନର୍ (Anti-FreeJobAlert Shield ସହ)
-        links = soup.find_all('a')
-        for a in links:
-            if not a.get('href'): continue
-            
-            link_text = a.text.lower().strip()
-            href = a['href']
-            
-            # ଯଦି ଲିଙ୍କ୍ ରେ freejobalert ଅଛି କିନ୍ତୁ ତାହା pdf ନୁହେଁ, ତେବେ ତାକୁ ସିଧା ରିଜେକ୍ଟ କର
-            is_fja_link = 'freejobalert.com' in href.lower()
-            is_pdf = '.pdf' in href.lower()
-            if is_fja_link and not is_pdf:
-                continue
-            
-            # Apply Online ଲିଙ୍କ୍
-            if 'apply online' in link_text and details['apply_link'] == "Not Available":
-                details['apply_link'] = href
-                
-            # Official Notification (PDF)
-            elif ('notification' in link_text or 'detail' in link_text or 'download' in link_text) and details['official_notification'] == "Not Available":
-                if 'pdf' in link_text or is_pdf or 'notification' in link_text:
-                    details['official_notification'] = href
-                    
-            # Official Website
-            elif 'official website' in link_text and details['official_website'] == "Not Available":
-                details['official_website'] = href
                     
     except Exception as e:
         pass 
@@ -93,7 +90,7 @@ def get_jobs(url, filename):
             if 'Post Date' in table.text or 'Qualification' in table.text:
                 rows = table.find_all('tr')
                 
-                # rows[1:] ମାନେ ସବୁ ଚାକିରି ଆଣିବ, କେବଳ ୧୦ଟା ନୁହେଁ
+                # ସବୁ ଚାକିରି ଆଣିବ (rows[1:])
                 for row in rows[1:]:
                     cols = row.find_all('td')
                     if len(cols) >= 6:
@@ -112,22 +109,21 @@ def get_jobs(url, filename):
                         print(f"  -> ଭିତର ପେଜ୍ ଚେକ୍ କରୁଛି: {post_name[:20]}...")
                         inner_data = get_inner_details(scraper, job_link)
 
-                        # ଆମର ନୂଆ ୧୧ଟି ଯାକ ଡାଟା ଗୋଟିଏ ଜାଗାରେ
+                        # ଏଠାରୁ FreeJobAlert ର 'link' କୁ ସମ୍ପୂର୍ଣ୍ଣ ଡିଲିଟ୍ କରାଯାଇଛି 
                         jobs_data.append({
                             "date": post_date,
                             "board": board_name,
                             "title": post_name,
                             "qualification": qualification,
                             "last_date": last_date,
-                            "link": job_link,
                             "total_posts": inner_data['total_posts'],
                             "salary": inner_data['salary'],
                             "age_limit": inner_data['age_limit'],
                             "application_fee": inner_data['application_fee'],
-                            "apply_link": inner_data['apply_link'],
-                            "official_notification": inner_data['official_notification'],
+                            "apply_mode": inner_data['apply_mode'],
                             "syllabus": inner_data['syllabus'],
-                            "official_website": inner_data['official_website']
+                            "official_website": inner_data['official_website'],
+                            "official_notification": inner_data['official_notification']
                         })
                 break 
 
