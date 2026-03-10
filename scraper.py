@@ -27,11 +27,11 @@ def get_inner_details(scraper, link):
         if 'apply online' in page_text or 'online application' in page_text:
             details['apply_mode'] = "Online"
         
-        # ୨. ଟେବୁଲ୍ ଭିତରେ ସ୍କାନିଂ (ଏଥର ବୋକା ବନିବନି)
+        # ୨. ଟେବୁଲ୍ ଭିତରେ ସ୍କାନିଂ (ଫିସ୍ ହେଡିଂ ବ୍ଲକର୍ ସହ)
         tables = soup.find_all('table')
         for table in tables:
             rows = table.find_all('tr')
-            fee_header_found = False # ଫିସ୍ ର ଫାଲତୁ ହେଡିଂ କୁ ଧରିବା ପାଇଁ ଜାଲ
+            fee_header_found = False
             
             for row in rows:
                 text = row.text.lower()
@@ -47,16 +47,14 @@ def get_inner_details(scraper, link):
                 elif 'syllabus' in text and details['syllabus'] == "Not Available":
                     details['syllabus'] = row_clean
 
-                # ମାଷ୍ଟରମାଇଣ୍ଡ ଟ୍ରିକ୍: ଫିସ୍ ହେଡିଂ ବ୍ଲକର୍
+                # ଫିସ୍ ର ସଠିକ୍ ଟଙ୍କା ଖୋଜିବା
                 if details['application_fee'] == "Not Available":
                     if 'application fee' in text or 'examination fee' in text:
-                        # ଯଦି ଧାଡ଼ିରେ ଟଙ୍କା, ନମ୍ବର କିମ୍ବା Nil ଅଛି ତେବେ ଅସଲି ଡାଟା
                         if any(char.isdigit() for char in row_clean) or 'rs' in text or 'rupee' in text or 'nil' in text or 'exempted' in text:
                             details['application_fee'] = row_clean
                         else:
-                            fee_header_found = True # ଏହା ଖାଲି ହେଡିଂ, ଆସନ୍ତା ଧାଡ଼ିରେ ଅସଲି ଟଙ୍କା ଥିବ
+                            fee_header_found = True
                     elif fee_header_found:
-                        # ଏହା ହେଉଛି ହେଡିଂ ର ତଳ ଧାଡ଼ି (ଯେମିତିକି Rs. 200/-)
                         if any(char.isdigit() for char in row_clean) or 'rs' in text or 'rupee' in text or 'nil' in text or 'exempted' in text:
                             details['application_fee'] = row_clean
                         fee_header_found = False
@@ -69,26 +67,25 @@ def get_inner_details(scraper, link):
                     details['application_fee'] = p.text.strip()
                     break
 
-        # ୩. ମାଷ୍ଟରମାଇଣ୍ଡ ଟ୍ରିକ୍: ୩୬୦-ଡିଗ୍ରୀ ରାଡାର (ଟେବୁଲ୍ ବାହାରେ ଏବଂ ଭିତରେ ସବୁଆଡେ ଲିଙ୍କ୍ ଖୋଜିବ)
-        links = soup.find_all('a')
-        for a in links:
-            if not a.get('href'): continue
+        # ୩. ନୂଆ ଏବଂ ସବୁଠୁ ଶକ୍ତିଶାଳୀ ଲିଙ୍କ୍ ଖୋଜା (The "Full Line" Scanner)
+        for element in soup.find_all(['li', 'tr', 'p']):
+            text = element.text.lower()
+            a_tags = element.find_all('a')
             
-            link_text = a.text.lower().strip()
-            href = a['href']
-            
-            # Anti-FreeJobAlert Shield (ଖାଲି ଲିଙ୍କ୍ ଆଉ ଫାଲତୁ ଲିଙ୍କ୍ ବ୍ଲକ୍)
-            if href == '#' or ('freejobalert.com' in href.lower() and '.pdf' not in href.lower()):
-                continue
-            
-            # Official Notification PDF 
-            if ('notification' in link_text or 'detail' in link_text or 'download' in link_text) and details['official_notification'] == "Not Available":
-                if 'pdf' in link_text or '.pdf' in href.lower() or 'notification' in link_text:
-                    details['official_notification'] = href
+            for a in a_tags:
+                href = a.get('href', '')
+                
+                # ଫାଲତୁ ଲିଙ୍କ୍ ବ୍ଲକ୍ (Anti-FreeJobAlert Shield)
+                if not href or href == '#' or ('freejobalert.com' in href.lower() and '.pdf' not in href.lower()):
+                    continue
                     
-            # Official Website
-            elif ('official website' in link_text or 'website' in link_text) and details['official_website'] == "Not Available":
-                details['official_website'] = href
+                # Official Website ଖୋଜିବା
+                if 'official website' in text and details['official_website'] == "Not Available":
+                    details['official_website'] = href
+                    
+                # Official Notification ଖୋଜିବା
+                elif ('notification' in text or 'detail' in text) and details['official_notification'] == "Not Available":
+                    details['official_notification'] = href
                     
     except Exception as e:
         pass 
