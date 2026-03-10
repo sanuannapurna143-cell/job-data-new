@@ -6,12 +6,12 @@ import re
 
 def get_inner_details(scraper, link):
     details = {
-        "full_title": "Not Available", # ନୂଆ ଯୋଡାଗଲା (ଲମ୍ବା ନାମ ପାଇଁ)
+        "full_title": "Not Available",
         "total_posts": "Not Available",
         "salary": "Not Available",
         "age_limit": "Not Available", 
         "application_fee": "Not Available",
-        "apply_mode": "Not Available", # ଏବେ ଏହା ସ୍ମାର୍ଟ୍ ଭାବେ କାମ କରିବ
+        "apply_mode": "Not Available",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "Not Available"
@@ -24,24 +24,27 @@ def get_inner_details(scraper, link):
         response = scraper.get(link)
         soup = BeautifulSoup(response.text, 'html.parser')
         
+        page_text = soup.text.lower()
+        if 'apply online' in page_text or 'online application' in page_text:
+            details['apply_mode'] = "Online"
+        
         tables = soup.find_all('table')
         for table in tables:
             rows = table.find_all('tr')
             fee_header_found = False
+            salary_header_found = False
             
             for row in rows:
                 text = row.text.lower()
                 row_clean = row.text.replace('\n', ' ').strip()
-                cols = row.find_all(['td', 'th']) # କଲମ୍ ରୁ ସିଧା ଡାଟା ଆଣିବା ପାଇଁ
+                cols = row.find_all(['td', 'th'])
                 
-                # ୧. ଲମ୍ବା ପୋଷ୍ଟ ନାମ ଆଣିବା
                 if 'post name' in text and details['full_title'] == "Not Available":
                     if len(cols) >= 2:
                         details['full_title'] = cols[1].text.strip()
                     else:
                         details['full_title'] = row.text.replace('\n', ' ').strip()
                 
-                # ୨. ସଠିକ୍ ଆପ୍ଲାଏ ମୋଡ୍ ଆଣିବା
                 elif 'apply mode' in text and details['apply_mode'] == "Not Available":
                     if len(cols) >= 2:
                         details['apply_mode'] = cols[1].text.strip()
@@ -61,16 +64,36 @@ def get_inner_details(scraper, link):
                     else:
                         details['total_posts'] = row_clean.replace('no of posts', '').replace('total vacancy', '').strip()
                         
+                # Salary ର ସ୍ମାର୍ଟ ଲଜିକ୍
                 elif ('salary' in text or 'scale of pay' in text or 'pay scale' in text or 'pay matrix' in text or 'remuneration' in text or 'stipend' in text) and details['salary'] == "Not Available":
-                    if len(cols) >= 2:
-                        details['salary'] = cols[1].text.replace('\n', ' ').strip()
+                    if 'rs' in text or 'rupee' in text or '₹' in text or any(char.isdigit() for char in row_clean):
+                        if len(cols) >= 2:
+                            for col in cols[1:]:
+                                if 'rs' in col.text.lower() or 'rupee' in col.text.lower() or any(c.isdigit() for c in col.text):
+                                    details['salary'] = col.text.replace('\n', ' ').strip()
+                                    break
+                            if details['salary'] == "Not Available":
+                                details['salary'] = row_clean
+                        else:
+                            details['salary'] = row_clean
                     else:
-                        details['salary'] = row_clean
+                        salary_header_found = True
+                
+                elif salary_header_found and details['salary'] == "Not Available":
+                    if 'rs' in text or 'rupee' in text or '₹' in text or any(char.isdigit() for char in row_clean):
+                        if len(cols) >= 2:
+                            for col in cols:
+                                if 'rs' in col.text.lower() or any(c.isdigit() for c in col.text):
+                                    details['salary'] = col.text.replace('\n', ' ').strip()
+                                    break
+                        else:
+                            details['salary'] = row_clean
+                        salary_header_found = False
                         
                 elif 'syllabus' in text and details['syllabus'] == "Not Available":
                     details['syllabus'] = row_clean
 
-                # ଫିସ୍ ଲଜିକ୍
+                # Fee ର ସ୍ମାର୍ଟ ଲଜିକ୍
                 if details['application_fee'] == "Not Available":
                     if 'application fee' in text or 'examination fee' in text:
                         if any(char.isdigit() for char in row_clean) or 'rs' in text or 'rupee' in text or 'nil' in text or 'exempted' in text or '₹' in text:
@@ -82,7 +105,6 @@ def get_inner_details(scraper, link):
                             details['application_fee'] = row_clean
                         fee_header_found = False
 
-        # ଲୁଚିଥିବା ଫିସ୍
         if details['application_fee'] == "Not Available":
             for p in soup.find_all(['p', 'li']):
                 p_text = p.text.lower()
@@ -90,7 +112,6 @@ def get_inner_details(scraper, link):
                     details['application_fee'] = p.text.strip()
                     break
 
-        # ଲୁଚିଥିବା ଦରମା
         if details['salary'] == "Not Available":
             for p in soup.find_all(['p', 'li']):
                 p_text = p.text.lower()
@@ -98,7 +119,6 @@ def get_inner_details(scraper, link):
                     details['salary'] = p.text.strip()
                     break
 
-        # ୩. ଲିଙ୍କ୍ ଖୋଜିବା ଏବଂ Apply Mode ର ବ୍ୟାକଅପ୍ ପ୍ଲାନ୍
         apply_link_found = False
         for element in soup.find_all(['li', 'tr', 'p']):
             text = element.text.lower()
@@ -109,7 +129,6 @@ def get_inner_details(scraper, link):
                 if not href or href == '#' or ('freejobalert.com' in href.lower() and '.pdf' not in href.lower()):
                     continue
                 
-                # ଯଦି ଅସଲି Apply ଲିଙ୍କ୍ ମିଳିଲା
                 if 'apply online' in text or 'apply here' in text:
                     apply_link_found = True
 
@@ -118,7 +137,6 @@ def get_inner_details(scraper, link):
                 elif ('notification' in text or 'detail' in text) and details['official_notification'] == "Not Available":
                     details['official_notification'] = href
                     
-        # Apply Mode ର ଫାଇନାଲ୍ ଚେକ୍
         if details['apply_mode'] == "Not Available":
             if apply_link_found:
                 details['apply_mode'] = "Online"
@@ -150,7 +168,7 @@ def get_jobs(url, filename):
                     if len(cols) >= 6:
                         post_date = cols[0].text.strip()
                         board_name = cols[1].text.strip()
-                        post_name = cols[2].text.strip()
+                        post_name = cols[2].text.strip() # ବାହାର ନାମ ଯେଉଁଥିରେ ନମ୍ବର ଥାଏ!
                         qualification = cols[3].text.strip()
                         last_date = cols[5].text.strip()
                         
@@ -163,27 +181,31 @@ def get_jobs(url, filename):
                         print(f"  -> ଭିତର ପେଜ୍ ଚେକ୍ କରୁଛି: {post_name[:20]}...")
                         inner_data = get_inner_details(scraper, job_link)
 
-                        # ସଠିକ୍ ଏବଂ ଲମ୍ବା ନାମ ବାଛିବା
                         final_title = inner_data['full_title'] if inner_data['full_title'] != "Not Available" else post_name
 
-                        # ପୋଷ୍ଟ୍ ସଂଖ୍ୟା ଖୋଜିବା
                         final_total_posts = inner_data['total_posts']
                         if final_total_posts == "Not Available":
-                            match = re.search(r'(\d+)\s*(?:post|vacancy|posts|vacancies)', final_title, re.IGNORECASE)
+                            # ଭୁଲ୍ ସୁଧାର: ଏବେ 'post_name' ରୁ ହିଁ ନମ୍ବର ଖୋଜିବ
+                            match = re.search(r'(\d+)\s*(?:post|vacancy|posts|vacancies)', post_name, re.IGNORECASE)
                             if match:
                                 final_total_posts = match.group(1)
+                            else:
+                                # ଯଦି "Dental Surgeon - 124" ଏମିତି ଥାଏ
+                                match2 = re.search(r'-\s*(\d+)', post_name)
+                                if match2:
+                                    final_total_posts = match2.group(1)
 
                         jobs_data.append({
                             "date": post_date,
                             "board": board_name,
-                            "title": final_title,  # ଏଠାରେ ଲମ୍ବା ନାମ ଯିବ
+                            "title": final_title,
                             "qualification": qualification,
                             "last_date": last_date,
-                            "total_posts": final_total_posts,
+                            "total_posts": final_total_posts, # ଏଥର ଗ୍ୟାରେଣ୍ଟି ପୋଷ୍ଟ ଆସିବ!
                             "salary": inner_data['salary'],
                             "age_limit": inner_data['age_limit'],
                             "application_fee": inner_data['application_fee'],
-                            "apply_mode": inner_data['apply_mode'], # ଏଠାରେ ପରଫେକ୍ଟ Online/Offline ଆସିବ
+                            "apply_mode": inner_data['apply_mode'],
                             "syllabus": inner_data['syllabus'],
                             "official_website": inner_data['official_website'],
                             "official_notification": inner_data['official_notification']
