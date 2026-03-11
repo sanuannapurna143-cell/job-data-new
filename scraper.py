@@ -28,8 +28,43 @@ def get_inner_details(scraper, link):
         
         page_text = soup.text.lower()
         
-        # 1. SOB TABLE SCAN KORBE (Not just first table)
         tables = soup.find_all('table')
+        for table in tables:
+            rows = table.find_all('tr')
+            if not rows: continue
+            
+            headers = [th.text.lower().strip() for th in rows[0].find_all(['th', 'td'])]
+            salary_idx, qual_idx, fee_idx = -1, -1, -1
+            
+            for i, h in enumerate(headers):
+                if 'salary' in h or 'stipend' in h or 'pay' in h or 'remuneration' in h: salary_idx = i
+                if 'qualification' in h or 'degree' in h: qual_idx = i
+                if 'fee' in h: fee_idx = i
+                
+            if len(rows) > 1 and (salary_idx != -1 or qual_idx != -1 or fee_idx != -1):
+                for row in rows[1:]:
+                    cols = row.find_all('td')
+                    if not cols: continue
+                    
+                    if salary_idx != -1 and salary_idx < len(cols):
+                        val = cols[salary_idx].text.replace('\n', ' ').strip()
+                        if val and 'post name' not in val.lower() and 'stipend' not in val.lower():
+                            if details['salary'] == "Not Available" or len(val) > len(details['salary']):
+                                details['salary'] = val
+                            
+                    if qual_idx != -1 and qual_idx < len(cols):
+                        val = cols[qual_idx].text.replace('\n', ' ').strip()
+                        if val and 'post name' not in val.lower():
+                            # ଯଦି ନୂଆ ଯୋଗ୍ୟତା ଲମ୍ବା ଅଛି, ତେବେ ତାକୁ ରଖିବ!
+                            if details['qualification'] == "Not Available" or len(val) > len(details['qualification']):
+                                details['qualification'] = val
+                            
+                    if fee_idx != -1 and fee_idx < len(cols):
+                        val = cols[fee_idx].text.replace('\n', ' ').strip()
+                        if val and 'category' not in val.lower():
+                            if details['application_fee'] == "Not Available" or len(val) > len(details['application_fee']):
+                                details['application_fee'] = val
+
         for table in tables:
             rows = table.find_all('tr')
             for row in rows:
@@ -37,31 +72,51 @@ def get_inner_details(scraper, link):
                 row_clean = row.text.replace('\n', ' ').strip()
                 cols = row.find_all(['td', 'th'])
                 
-                # Full Title
                 if 'post name' in text and details['full_title'] == "Not Available":
                     if len(cols) >= 2: details['full_title'] = cols[1].text.strip()
                 
-                # Apply Mode
                 elif 'apply mode' in text and details['apply_mode'] == "Not Available":
                     if len(cols) >= 2: details['apply_mode'] = cols[1].text.strip()
                     else:
                         val = row_clean.lower().replace('apply mode', '').replace(':', '').strip()
                         details['apply_mode'] = val.title() if val else "Not Available"
 
-                # Inner Total Posts
-                elif ('no of posts' in text or 'total vacancy' in text or 'vacancy' in text) and details['total_posts'] == "Not Available":
-                    if len(cols) >= 2: details['total_posts'] = cols[1].text.replace('\n', ' ').strip()
-                        
-                # Salary theke asha
-                elif ('salary' in text or 'scale of pay' in text or 'pay scale' in text) and details['salary'] == "Not Available":
-                    if len(cols) >= 2: details['salary'] = cols[1].text.replace('\n', ' ').strip()
+                # ସାଧାରଣ ଟେବୁଲ୍ ରୁ ଯୋଗ୍ୟତା (Longest Match Logic)
+                elif ('qualification' in text or 'educational qualification' in text) and 'fee' not in text:
+                    val = cols[1].text.replace('\n', ' ').strip() if len(cols) >= 2 else row_clean
+                    if details['qualification'] == "Not Available" or len(val) > len(details['qualification']):
+                        details['qualification'] = val
 
-                # Syllabus
+                elif 'age limit' in text:
+                    val = cols[1].text.replace('\n', ' ').strip() if len(cols) >= 2 else row_clean
+                    if details['age_limit'] == "Not Available" or len(val) > len(details['age_limit']):
+                        details['age_limit'] = val
+                        
+                elif ('no of posts' in text or 'total vacancy' in text or 'vacancy' in text):
+                    val = cols[1].text.replace('\n', ' ').strip() if len(cols) >= 2 else ""
+                    if val and (details['total_posts'] == "Not Available" or len(val) > len(details['total_posts'])):
+                        details['total_posts'] = val
+                        
+                elif ('salary' in text or 'scale of pay' in text or 'pay scale' in text):
+                    val = cols[1].text.replace('\n', ' ').strip() if len(cols) >= 2 else ""
+                    if val and (details['salary'] == "Not Available" or len(val) > len(details['salary'])):
+                        details['salary'] = val
+
                 elif 'syllabus' in text and details['syllabus'] == "Not Available":
                     details['syllabus'] = row_clean
+                    
+                if 'application fee' in text or 'examination fee' in text:
+                    val = cols[1].text.replace('\n', ' ').strip() if len(cols) >= 2 else ""
+                    if val and (details['application_fee'] == "Not Available" or len(val) > len(details['application_fee'])):
+                        details['application_fee'] = val
 
-        # 2. DEEP SCAN - HEADINGS ER NICHE (For Details)
-        # Avoid korar jonne bad words (Sidebar er faltu link theke bachar jonne)
+        bad_words = ['post name', 'category', 'application fee', 'consolidated stipend', 'consolidated stipend (per month)', 'stipend', 'salary', 'qualification']
+        for key in ['salary', 'qualification', 'application_fee']:
+            val_lower = details[key].lower().strip()
+            if any(bad == val_lower for bad in bad_words):
+                details[key] = "Not Available"
+
+        # DEEP SCAN FUNCTION (ପୁରା ଡିଟେଲ୍ସ ଆଣିବା ପାଇଁ)
         avoid_words = ['answer key', 'admit card', 'result', 'syllabus 202', 'online form', 'recruitment 202', 'download mobile app', 'telegram', 'whatsapp']
 
         def extract_full_details(keywords):
@@ -77,7 +132,7 @@ def get_inner_details(scraper, link):
                                 if not any(bad in li_text.lower() for bad in avoid_words):
                                     content.append(li_text)
                         elif nxt.name in ['p', 'table']:
-                            p_text = nxt.get_text(separator=" | ", strip=True)
+                            p_text = nxt.get_text(separator=" ", strip=True) # ସ୍ପେସ୍ ଦେଇ ଯୋଡିବ
                             if p_text and not any(bad in p_text.lower() for bad in avoid_words):
                                 content.append(p_text)
                         nxt = nxt.find_next_sibling()
@@ -86,29 +141,28 @@ def get_inner_details(scraper, link):
                         return " || ".join(content)
             return "Not Available"
 
-        # DEEP SCAN APPLY KORA HOLO:
+        # DEEP SCAN କୁ ଆପ୍ଲାଏ କରିବା (Longest Match Logic ସହ)
         
-        # Age Limit Deep Scan
         age_data = extract_full_details(['age limit', 'age relaxation'])
-        if age_data != "Not Available": details['age_limit'] = age_data
+        if age_data != "Not Available" and (details['age_limit'] == "Not Available" or len(age_data) > len(details['age_limit'])): 
+            details['age_limit'] = age_data
 
-        # Selection Process Deep Scan
         selection_data = extract_full_details(['selection process', 'selection procedure'])
-        if selection_data != "Not Available": details['selection_process'] = selection_data
+        if selection_data != "Not Available": 
+            details['selection_process'] = selection_data
 
-        # Salary / Stipend Deep Scan
         salary_data = extract_full_details(['salary', 'pay scale', 'stipend', 'remuneration'])
-        if salary_data != "Not Available": details['salary'] = salary_data
+        if salary_data != "Not Available" and (details['salary'] == "Not Available" or len(salary_data) > len(details['salary'])): 
+            details['salary'] = salary_data
 
-        # Qualification Deep Scan
         qual_data = extract_full_details(['qualification', 'educational qualification'])
-        if qual_data != "Not Available": details['qualification'] = qual_data
+        if qual_data != "Not Available" and (details['qualification'] == "Not Available" or len(qual_data) > len(details['qualification'])): 
+            details['qualification'] = qual_data
 
-        # Application Fee Deep Scan
         fee_data = extract_full_details(['application fee', 'examination fee'])
-        if fee_data != "Not Available": details['application_fee'] = fee_data
+        if fee_data != "Not Available" and (details['application_fee'] == "Not Available" or len(fee_data) > len(details['application_fee'])): 
+            details['application_fee'] = fee_data
 
-        # 3. LINK SCANNER
         apply_link_found = False
         for element in soup.find_all(['li', 'tr', 'p']):
             text = element.text.lower()
@@ -121,11 +175,10 @@ def get_inner_details(scraper, link):
                 if 'official website' in text and details['official_website'] == "Not Available": details['official_website'] = href
                 elif ('notification' in text or 'detail' in text) and details['official_notification'] == "Not Available": details['official_notification'] = href
                     
-        # Apply Mode Backup
         if details['apply_mode'] == "Not Available" or details['apply_mode'] == "":
             if apply_link_found or 'apply online' in page_text: details['apply_mode'] = "Online"
             elif 'walk-in' in page_text or 'walk in' in page_text: details['apply_mode'] = "Walk-in"
-            else: details['apply_mode'] = "Offline / Notification Dekhun"
+            else: details['apply_mode'] = "Offline / Notification ଦେଖନ୍ତୁ"
                     
     except Exception as e:
         pass 
@@ -160,11 +213,15 @@ def get_jobs(url, filename):
                         if a_tag and 'href' in a_tag.attrs:
                             job_link = a_tag['href']
 
-                        print(f"  -> Vitorer page deep check korchhi: {post_name[:20]}...")
+                        print(f"  -> ଭିତର ପେଜ୍ ଚେକ୍ କରୁଛି: {post_name[:20]}...")
                         inner_data = get_inner_details(scraper, job_link)
 
                         final_title = inner_data['full_title'] if inner_data['full_title'] != "Not Available" else post_name
-                        final_qualification = inner_data['qualification'] if inner_data['qualification'] != "Not Available" else outer_qualification
+                        
+                        # ଶେଷ ବ୍ରହ୍ମାସ୍ତ୍ର: ଯଦି ବାହାର ଯୋଗ୍ୟତା ଭିତର ଯୋଗ୍ୟତା ଠାରୁ ଲମ୍ବା ଅଛି, ତେବେ ବାହାରଟା ଆଣିବ!
+                        final_qualification = inner_data['qualification']
+                        if final_qualification == "Not Available" or len(outer_qualification) > len(final_qualification):
+                            final_qualification = outer_qualification
 
                         final_total_posts = inner_data['total_posts']
                         if final_total_posts == "Not Available" or final_total_posts.lower() == "not mentioned":
@@ -178,7 +235,7 @@ def get_jobs(url, filename):
                             "date": post_date,
                             "board": board_name,
                             "title": final_title,
-                            "qualification": final_qualification, 
+                            "qualification": final_qualification, # ପୁରା ୧୦୦% ଲମ୍ବା ଯୋଗ୍ୟତା ଆସିବ!
                             "last_date": last_date,
                             "total_posts": final_total_posts,
                             "salary": inner_data['salary'],
@@ -194,10 +251,10 @@ def get_jobs(url, filename):
 
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(jobs_data, f, ensure_ascii=False, indent=4)
-        print(f"Success! {filename} master deep scan complete.")
+        print(f"ସଫଳତା! {filename} master deep scan complete.")
 
     except Exception as e:
-        print(f"Error aschhe {filename} te: {e}")
+        print(f"Error ଆସିଲା {filename} ରେ: {e}")
 
 job_sources = {
     "odisha_jobs.json": "https://www.freejobalert.com/odisha-government-jobs/",
@@ -213,5 +270,5 @@ for file, url in job_sources.items():
     get_jobs(url, file)
     
     if current < total_files:
-        print("\nState change korar age 2 minute wait korchhi...\n")
+        print("\nରାଜ୍ୟ ବଦଳାଇବା ପୂର୍ବରୁ ୨ ମିନିଟ୍ ବିଶ୍ରାମ...\n")
         time.sleep(120)
