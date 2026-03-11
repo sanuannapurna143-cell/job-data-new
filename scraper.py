@@ -256,10 +256,46 @@ def get_jobs(url, filename):
     except Exception as e:
         print(f"Error ଆସିଲା {filename} ରେ: {e}")
 
+# ଆମର ସବୁ ଚାକିରିର ଲିଷ୍ଟ (Categories + States)
 job_sources = {
-    "odisha_jobs.json": "https://www.freejobalert.com/odisha-government-jobs/",
+    # ୧. ମୁଖ୍ୟ କାଟେଗୋରୀ (Category Jobs)
+    "bank_jobs.json": "https://www.freejobalert.com/bank-jobs/",
+    "teaching_jobs.json": "https://www.freejobalert.com/teaching-jobs/",
+    "engineering_jobs.json": "https://www.freejobalert.com/engineering-jobs/",
+    "railway_jobs.json": "https://www.freejobalert.com/railway-jobs/",
+    "police_defence_jobs.json": "https://www.freejobalert.com/police-defence-jobs/",
+    
+    # ୨. ରାଜ୍ୟ ଅନୁଯାୟୀ ଚାକିରି (State Jobs)
     "central_jobs.json": "https://www.freejobalert.com/government-jobs/",
-    "andhra_jobs.json": "https://www.freejobalert.com/ap-government-jobs/"
+    "odisha_jobs.json": "https://www.freejobalert.com/odisha-government-jobs/",
+    "andhra_jobs.json": "https://www.freejobalert.com/ap-government-jobs/",
+
+    "assam_jobs.json": "https://www.freejobalert.com/assam-government-jobs/",
+    "bihar_jobs.json": "https://www.freejobalert.com/bihar-government-jobs/",
+    "cg_jobs.json": "https://www.freejobalert.com/chhattisgarh-government-jobs/",
+    "delhi_jobs.json": "https://www.freejobalert.com/delhi-government-jobs/",
+    "goa_jobs.json": "https://www.freejobalert.com/goa-government-jobs/",
+    "gujarat_jobs.json": "https://www.freejobalert.com/gujarat-government-jobs/",
+    "haryana_jobs.json": "https://www.freejobalert.com/haryana-government-jobs/",
+    "hp_jobs.json": "https://www.freejobalert.com/hp-government-jobs/",
+    "jharkhand_jobs.json": "https://www.freejobalert.com/jharkhand-government-jobs/",
+    "karnataka_jobs.json": "https://www.freejobalert.com/karnataka-government-jobs/",
+    "kerala_jobs.json": "https://www.freejobalert.com/kerala-government-jobs/",
+    "mp_jobs.json": "https://www.freejobalert.com/mp-government-jobs/",
+    "maharashtra_jobs.json": "https://www.freejobalert.com/maharashtra-government-jobs/",
+    "manipur_jobs.json": "https://www.freejobalert.com/manipur-government-jobs/",
+    "meghalaya_jobs.json": "https://www.freejobalert.com/meghalaya-government-jobs/",
+    "mizoram_jobs.json": "https://www.freejobalert.com/mizoram-government-jobs/",
+    "nagaland_jobs.json": "https://www.freejobalert.com/nagaland-government-jobs/",
+    "punjab_jobs.json": "https://www.freejobalert.com/punjab-government-jobs/",
+    "rajasthan_jobs.json": "https://www.freejobalert.com/rajasthan-government-jobs/",
+    "sikkim_jobs.json": "https://www.freejobalert.com/sikkim-government-jobs/",
+    "tamilnadu_jobs.json": "https://www.freejobalert.com/tn-government-jobs/",
+    "telangana_jobs.json": "https://www.freejobalert.com/telangana-government-jobs/",
+    "tripura_jobs.json": "https://www.freejobalert.com/tripura-government-jobs/",
+    "up_jobs.json": "https://www.freejobalert.com/up-government-jobs/",
+    "uttarakhand_jobs.json": "https://www.freejobalert.com/uttarakhand-government-jobs/",
+    "wb_jobs.json": "https://www.freejobalert.com/wb-government-jobs/"
 }
 
 total_files = len(job_sources)
@@ -270,5 +306,5 @@ for file, url in job_sources.items():
     get_jobs(url, file)
     
     if current < total_files:
-        print("\nରାଜ୍ୟ ବଦଳାଇବା ପୂର୍ବରୁ ୨ ମିନିଟ୍ ବିଶ୍ରାମ...\n")
+        print(f"\n[{current}/{total_files}] ପରବର୍ତ୍ତୀ ଲିଙ୍କ୍ କୁ ଯିବା ପୂର୍ବରୁ ୨ ମିନିଟ୍ ବିଶ୍ରାମ...\n")
         time.sleep(120)
