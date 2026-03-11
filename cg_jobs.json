@@ -1,22 +1,6 @@
 [
     {
         "date": "11/03/2026",
-        "board": "NIT Raipur",
-        "title": "Principal Technical Officer (ICT)",
-        "qualification": "B.E./ B.Tech. or M.Sc./MCA Degree in relevant field with first class or equivalent grade (6.5 in 10 point scale or 60% marks) and consistently excellent academic record.",
-        "last_date": "15-04-2026",
-        "total_posts": "1",
-        "salary": "Pay Level-14 (7th CPC)",
-        "age_limit": "Maximum age limit is 56 years",
-        "application_fee": "Rs. 1770/- (Rs. 1500 + applicable GST)",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nitrr.ac.in/",
-        "official_notification": "https://nitrr.ac.in/downloads/recruitment/recruitment2026/ICT/Detailed%20Advertisement.pdf"
-    },
-    {
-        "date": "11/03/2026",
         "board": "IOCL",
         "title": "Trade Apprentice, Technician Apprentice, Graduate Apprentice",
         "qualification": "Matric + ITI / Class 12th / Diploma in Engineering / Any Graduate Degree (as per discipline)",
@@ -30,6 +14,22 @@
         "syllabus": "Not Available",
         "official_website": "https://iocl.com/",
         "official_notification": "https://iocl.com/admin/img/Apprenticeships/Files/b2f1aa3dfa1a4ab7b2fc92ab6af4a339.pdf"
+    },
+    {
+        "date": "11/03/2026",
+        "board": "NIT Raipur",
+        "title": "Principal Technical Officer (ICT)",
+        "qualification": "B.E./ B.Tech. or M.Sc./MCA Degree in relevant field with first class or equivalent grade (6.5 in 10 point scale or 60% marks) and consistently excellent academic record.",
+        "last_date": "15-04-2026",
+        "total_posts": "1",
+        "salary": "Pay Level-14 (7th CPC)",
+        "age_limit": "Maximum age limit is 56 years",
+        "application_fee": "Rs. 1770/- (Rs. 1500 + applicable GST)",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitrr.ac.in/",
+        "official_notification": "https://nitrr.ac.in/downloads/recruitment/recruitment2026/ICT/Detailed%20Advertisement.pdf"
     },
     {
         "date": "10/03/2026",

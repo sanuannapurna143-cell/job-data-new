@@ -1,6 +1,22 @@
 [
     {
         "date": "11/03/2026",
+        "board": "HAL",
+        "title": "Visiting Doctors",
+        "qualification": "MBBS",
+        "last_date": "31-03-2026",
+        "total_posts": "5",
+        "salary": "Visiting Doctors on Part-time basis: Rs. 1,700/- to Rs.1,900/- per visit + Rs. 200/- conveyance charges per visit.",
+        "age_limit": "The maximum age limit for candidates is 63 years.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Shortlisting based on eligibility criteria, experience/marks || Personal Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.hal-india.co.in",
+        "official_notification": "https://hal-india.co.in/backend//wp-content/uploads/career/Notification_Visiting%20Doctors%20on%20part%20time%20basis_1773206619.pdf"
+    },
+    {
+        "date": "11/03/2026",
         "board": "NIT Warangal",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "M.E/M.Tech/B.E./B.Tech or equivalent degree in Computer Science Engineering/ Information Technology/Artificial Intelligence (AI) and Data Science/ Artificial Intelligence and Machine Learning/ Computer Science and Engineering (IoT)/ Computer Science and Engineering (Networks)/Computer Science & Information Security",

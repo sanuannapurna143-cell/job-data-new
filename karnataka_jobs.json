@@ -1,6 +1,38 @@
 [
     {
         "date": "11/03/2026",
+        "board": "BEL",
+        "title": "Deputy Engineer / (E-II)",
+        "qualification": "B.E./B.Tech/B.Sc. Engg. in Civil Engineering, Bachelor of Architecture (B.Arch), M.Sc. in Horticulture",
+        "last_date": "01-04-2026",
+        "total_posts": "35",
+        "salary": "Rs. 40,000 - 3% - Rs. 1,40,000/- Per Month",
+        "age_limit": "Maximum Age: 28 years || Age Relaxation: OBC (NCL): +3 years; SC/ST: +5 years; PwBD (>=40% disability): +10 years over and above category relaxation; Ex-Servicemen: as per Government guidelines",
+        "application_fee": "Rs. 400/- + 18% GST",
+        "selection_process": "Written Test || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bel-india.in",
+        "official_notification": "https://bel-india.in/wp-content/uploads/2026/03/FTE-CS-ADVT-.pdf"
+    },
+    {
+        "date": "11/03/2026",
+        "board": "BEL",
+        "title": "Assistant Manager, Deputy Manager",
+        "qualification": "Bachelor’s Degree in Law (LL.B / B.L), LLM (Preference)",
+        "last_date": "01-04-2026",
+        "total_posts": "1",
+        "salary": "The selected candidates will receive a salary in the range of Rs. 50,000 to Rs. 1,60,000 per month.",
+        "age_limit": "Maximum Age Limit: 32 years. || Age Relaxation: PwBD candidates can avail relaxation of +10 years, and Ex-Servicemen will be granted relaxation as per Government guidelines.",
+        "application_fee": "Rs. 708/- (Rs. 600 + 18% GST)",
+        "selection_process": "Written Test (85 marks) || Interview (15 marks)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.bel-india.in",
+        "official_notification": "https://bel-india.in/wp-content/uploads/2026/03/Detailed-Advertisement-Legal-BG.Cx-.pdf"
+    },
+    {
+        "date": "11/03/2026",
         "board": "IDBI Bank",
         "title": "Junior Assistant Manager (JAM) – Grade “O” (Regional)",
         "qualification": "Any Bachelors Degree",
@@ -14,6 +46,22 @@
         "syllabus": "Not Available",
         "official_website": "https://www.idbi.bank.in",
         "official_notification": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-O-2-year-exp-March072026.pdf"
+    },
+    {
+        "date": "11/03/2026",
+        "board": "BSNL",
+        "title": "Senior Executive Trainee (SET) – Direct Recruitment",
+        "qualification": "Full-time BE/B.Tech in Electronics/Telecom/Computer Science/IT/Electrical/Instrumentation or equivalent with minimum 60% marks",
+        "last_date": "31-03-2026",
+        "total_posts": "120",
+        "salary": "Rs. 24,900 – 50,500/- (IDA E-3 Pay Scale)",
+        "age_limit": "Minimum Age: 21 Years || Maximum Age: 30 Years (as on last date 07-03-2026) || Age relaxation as per Government/BSNL rules.",
+        "application_fee": "Rs. 2,500/-",
+        "selection_process": "Computer Based Test (CBT) || Document Verification || Medical Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bsnl.co.in",
+        "official_notification": "https://externalexam.bsnl.co.in/Extension.pdf"
     },
     {
         "date": "11/03/2026",
@@ -190,22 +238,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.bhel.com/",
         "official_notification": "https://careers.bhel.in/static/Advertisement_PTMC_SBD.pdf"
-    },
-    {
-        "date": "02/03/2026",
-        "board": "BSNL",
-        "title": "Senior Executive Trainee (SET) – Direct Recruitment",
-        "qualification": "Full-time BE/B.Tech in Electronics/Telecom/Computer Science/IT/Electrical/Instrumentation or equivalent with minimum 60% marks",
-        "last_date": "31-03-2026",
-        "total_posts": "120",
-        "salary": "Rs. 24,900 – 50,500/- (IDA E-3 Pay Scale)",
-        "age_limit": "Minimum Age: 21 Years || Maximum Age: 30 Years (as on last date 07-03-2026) || Age relaxation as per Government/BSNL rules.",
-        "application_fee": "Rs. 2,500/-",
-        "selection_process": "Computer Based Test (CBT) || Document Verification || Medical Examination",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bsnl.co.in",
-        "official_notification": "https://externalexam.bsnl.co.in/Extension.pdf"
     },
     {
         "date": "02/03/2026",

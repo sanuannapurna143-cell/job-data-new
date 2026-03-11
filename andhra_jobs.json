@@ -1,6 +1,22 @@
 [
     {
         "date": "11/03/2026",
+        "board": "DWCWEO Eluru",
+        "title": "Psycho Social Counselor",
+        "qualification": "Diploma, Professional Degree",
+        "last_date": "25-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20,000 Per Month",
+        "age_limit": "Minimum Age: 25 years || Maximum Age: 42 years || Age Relaxation: SC & ST category relaxation 5 years",
+        "application_fee": "Nil",
+        "selection_process": "Qualification evaluation (50 marks) || Experience evaluation (30 marks) || Committee marks (20 marks)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://eluru.ap.gov.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3eccbc87e4b5ce2fe28308fd9f2a7baf3/uploads/2026/03/17731388481893.pdf"
+    },
+    {
+        "date": "11/03/2026",
         "board": "HBCHRC Visakhapatnam",
         "title": "Institutional Review Board (IRB) Administrator, Jr Trial Coordinator",
         "qualification": "PG in Science or Degree/Diploma in Clinical Research for Administrator; Graduation in Science with PG diploma in Clinical Research for Coordinator.",

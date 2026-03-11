@@ -1,6 +1,38 @@
 [
     {
         "date": "11/03/2026",
+        "board": "UPSSSC",
+        "title": "Various Group C (Level-2, Level-6)",
+        "qualification": "PET-2025 qualified with scorecard, Post Graduate in relevant Science, B.Com, LLB, Diploma in Engineering, Intermediate Science",
+        "last_date": "22-04-2026",
+        "total_posts": "115",
+        "salary": "Level-6 (Rs. 35400-112400), GP Rs. 4200",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 40 years || Age relaxation will be provided as per Government orders for SC/ST/OBC/EWS etc.",
+        "application_fee": "Rs. 25 (Processing Fee)",
+        "selection_process": "Shortlisting based on PET-2025 Normalized Score || Main Written Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://upsssc.gov.in",
+        "official_notification": "https://upsssc.gov.in/ViewPdf.aspx?IErkSJ1zmT8v6nE0KeY3gy4ltEbfCt7U+YeeLcxsi1g="
+    },
+    {
+        "date": "11/03/2026",
+        "board": "Bank of Baroda",
+        "title": "Business Correspondent Coordinator",
+        "qualification": "Graduate with Computer Knowledge",
+        "last_date": "27-03-2026",
+        "total_posts": "1",
+        "salary": "Fixed Component: Rs. 15,000/- || Variable Component: Rs. 15,000/- || Conveyance Expenses Reimbursement: Rs. 4,000/- per month || Mobile Expenses: Rs. 200/- per month (Fixed)",
+        "age_limit": "Young Candidates: Minimum age 21 years, Maximum age 45 years. || Retired Bank Employees: Maximum age for continuation of BC supervisors is 65 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Interview process by a committee headed by Regional Head",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://bankofbaroda.bank.in",
+        "official_notification": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-03/Detailed-Advertisement-for-Website-11-17.pdf"
+    },
+    {
+        "date": "11/03/2026",
         "board": "MNNIT Allahabad",
         "title": "Research Assistant",
         "qualification": "B.Tech/ B.E, M.E/ M.Tech, M.Sc",

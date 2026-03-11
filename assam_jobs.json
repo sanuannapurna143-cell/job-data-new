@@ -1,6 +1,38 @@
 [
     {
         "date": "11/03/2026",
+        "board": "BSNL",
+        "title": "Senior Executive Trainee (SET) – Direct Recruitment",
+        "qualification": "Full-time BE/B.Tech in Electronics/Telecom/Computer Science/IT/Electrical/Instrumentation or equivalent with minimum 60% marks",
+        "last_date": "31-03-2026",
+        "total_posts": "120",
+        "salary": "Rs. 24,900 – 50,500/- (IDA E-3 Pay Scale)",
+        "age_limit": "Minimum Age: 21 Years || Maximum Age: 30 Years (as on last date 07-03-2026) || Age relaxation as per Government/BSNL rules.",
+        "application_fee": "Rs. 2,500/-",
+        "selection_process": "Computer Based Test (CBT) || Document Verification || Medical Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bsnl.co.in",
+        "official_notification": "https://externalexam.bsnl.co.in/Extension.pdf"
+    },
+    {
+        "date": "11/03/2026",
+        "board": "WAMUL NEDFL",
+        "title": "Senior Manager, Assistant Manager/ Deputy Manager (Purchase), Assistant Manager/ Deputy Manager (Human Resources)",
+        "qualification": "B.Sc, B.Tech/ B.E, M.Sc, MBA/ PGDM",
+        "last_date": "26-03-2026",
+        "total_posts": "Not Available",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Document Verification || Written Test || Personal Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://recruitment.purabi.coop/",
+        "official_notification": "https://recruitment.purabi.coop/files/REOI_11_03_2026.pdf"
+    },
+    {
+        "date": "11/03/2026",
         "board": "IIT Guwahati",
         "title": "Research Associate",
         "qualification": "Ph.D. in Chemical/Metallurgy/Mechanical/Energy Engineering",
@@ -273,22 +305,6 @@
     },
     {
         "date": "02/03/2026",
-        "board": "BSNL",
-        "title": "Senior Executive Trainee (SET) – Direct Recruitment",
-        "qualification": "Full-time BE/B.Tech in Electronics/Telecom/Computer Science/IT/Electrical/Instrumentation or equivalent with minimum 60% marks",
-        "last_date": "31-03-2026",
-        "total_posts": "120",
-        "salary": "Rs. 24,900 – 50,500/- (IDA E-3 Pay Scale)",
-        "age_limit": "Minimum Age: 21 Years || Maximum Age: 30 Years (as on last date 07-03-2026) || Age relaxation as per Government/BSNL rules.",
-        "application_fee": "Rs. 2,500/-",
-        "selection_process": "Computer Based Test (CBT) || Document Verification || Medical Examination",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bsnl.co.in",
-        "official_notification": "https://externalexam.bsnl.co.in/Extension.pdf"
-    },
-    {
-        "date": "02/03/2026",
         "board": "WAMUL",
         "title": "Executive - Institutional Sales & Logistics",
         "qualification": "Full time Graduate/MBA/PGDM or any Post Graduate in Sales & Marketing with minimum 3-5 years experience in Institutional Sales & Logistics",
@@ -397,7 +413,7 @@
         "apply_mode": "Offline (Email)",
         "syllabus": "Not Available",
         "official_website": "https://www.nits.ac.in",
-        "official_notification": "/cdn-cgi/l/email-protection#a9cdc0c7c8c4c8c7c0cbc0dadec8c5e9c1dcc487c7c0ddda87c8ca87c0c7"
+        "official_notification": "/cdn-cgi/l/email-protection#0d6964636c606c63646f647e7a6c614d657860236364797e236c6e236463"
     },
     {
         "date": "27/02/2026",

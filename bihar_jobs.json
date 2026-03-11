@@ -1,6 +1,22 @@
 [
     {
         "date": "11/03/2026",
+        "board": "BPSC",
+        "title": "Assistant Prosecution Officer (Abhiyojan Padadhikari)",
+        "qualification": "Law Graduate (LLB) with eligibility for Advocate registration",
+        "last_date": "20-03-2026",
+        "total_posts": "300",
+        "salary": "Pay Level-9 (as per 7th Pay Commission)",
+        "age_limit": "21-37 years (UR Male) as on 01.08.2026 (relaxations applicable)",
+        "application_fee": "Not Available",
+        "selection_process": "Preliminary Exam:2 Objective Papers (GS-100 marks, Law-150 marks) || Main Exam:8 Descriptive Papers (Total 1000 marks) || Interview:100 marks || Final merit on Main + Interview marks",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bpsc.bihar.gov.in/",
+        "official_notification": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-132026-APO-Pre_BPSC-20260225-cjdpw3.pdf"
+    },
+    {
+        "date": "11/03/2026",
         "board": "IDBI Bank",
         "title": "Junior Assistant Manager (JAM) – Grade “O” (Regional)",
         "qualification": "Any Bachelors Degree",
@@ -174,22 +190,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.buxar.nic.in",
         "official_notification": "https://cdn.s3waas.gov.in/s34f4adcbf8c6f66dcfc8a3282ac2bf10a/uploads/2026/02/17721054766635.pdf"
-    },
-    {
-        "date": "25/02/2026",
-        "board": "BPSC",
-        "title": "Assistant Prosecution Officer (Abhiyojan Padadhikari)",
-        "qualification": "Law Graduate (LLB) with eligibility for Advocate registration",
-        "last_date": "20-03-2026",
-        "total_posts": "300",
-        "salary": "Pay Level-9 (as per 7th Pay Commission)",
-        "age_limit": "21-37 years (UR Male) as on 01.08.2026 (relaxations applicable)",
-        "application_fee": "Not Available",
-        "selection_process": "Preliminary Exam:2 Objective Papers (GS-100 marks, Law-150 marks) || Main Exam:8 Descriptive Papers (Total 1000 marks) || Interview:100 marks || Final merit on Main + Interview marks",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bpsc.bihar.gov.in/",
-        "official_notification": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-132026-APO-Pre_BPSC-20260225-cjdpw3.pdf"
     },
     {
         "date": "25/02/2026",
