@@ -28,39 +28,8 @@ def get_inner_details(scraper, link):
         
         page_text = soup.text.lower()
         
+        # 1. SOB TABLE SCAN KORBE (Not just first table)
         tables = soup.find_all('table')
-        for table in tables:
-            rows = table.find_all('tr')
-            if not rows: continue
-            
-            headers = [th.text.lower().strip() for th in rows[0].find_all(['th', 'td'])]
-            salary_idx, qual_idx, fee_idx = -1, -1, -1
-            
-            for i, h in enumerate(headers):
-                if 'salary' in h or 'stipend' in h or 'pay' in h or 'remuneration' in h: salary_idx = i
-                if 'qualification' in h or 'degree' in h: qual_idx = i
-                if 'fee' in h: fee_idx = i
-                
-            if len(rows) > 1 and (salary_idx != -1 or qual_idx != -1 or fee_idx != -1):
-                for row in rows[1:]:
-                    cols = row.find_all('td')
-                    if not cols: continue
-                    
-                    if salary_idx != -1 and salary_idx < len(cols) and details['salary'] == "Not Available":
-                        val = cols[salary_idx].text.strip()
-                        if val and 'post name' not in val.lower() and 'stipend' not in val.lower():
-                            details['salary'] = val.replace('\n', ' ')
-                            
-                    if qual_idx != -1 and qual_idx < len(cols) and details['qualification'] == "Not Available":
-                        val = cols[qual_idx].text.strip()
-                        if val and 'post name' not in val.lower():
-                            details['qualification'] = val.replace('\n', ' ')
-                            
-                    if fee_idx != -1 and fee_idx < len(cols) and details['application_fee'] == "Not Available":
-                        val = cols[fee_idx].text.strip()
-                        if val and 'category' not in val.lower():
-                            details['application_fee'] = val.replace('\n', ' ')
-
         for table in tables:
             rows = table.find_all('tr')
             for row in rows:
@@ -68,75 +37,78 @@ def get_inner_details(scraper, link):
                 row_clean = row.text.replace('\n', ' ').strip()
                 cols = row.find_all(['td', 'th'])
                 
+                # Full Title
                 if 'post name' in text and details['full_title'] == "Not Available":
                     if len(cols) >= 2: details['full_title'] = cols[1].text.strip()
                 
+                # Apply Mode
                 elif 'apply mode' in text and details['apply_mode'] == "Not Available":
                     if len(cols) >= 2: details['apply_mode'] = cols[1].text.strip()
                     else:
                         val = row_clean.lower().replace('apply mode', '').replace(':', '').strip()
                         details['apply_mode'] = val.title() if val else "Not Available"
 
-                elif ('qualification' in text or 'educational qualification' in text) and 'fee' not in text and details['qualification'] == "Not Available":
-                    if len(cols) >= 2: details['qualification'] = cols[1].text.replace('\n', ' ').strip()
-                    else: details['qualification'] = row_clean
-
-                elif 'age limit' in text and details['age_limit'] == "Not Available":
-                    if len(cols) >= 2: details['age_limit'] = cols[1].text.replace('\n', ' ').strip()
-                    else: details['age_limit'] = row_clean
-                        
-                # INNER TOTAL POSTS FIX
+                # Inner Total Posts
                 elif ('no of posts' in text or 'total vacancy' in text or 'vacancy' in text) and details['total_posts'] == "Not Available":
                     if len(cols) >= 2: details['total_posts'] = cols[1].text.replace('\n', ' ').strip()
                         
+                # Salary theke asha
                 elif ('salary' in text or 'scale of pay' in text or 'pay scale' in text) and details['salary'] == "Not Available":
                     if len(cols) >= 2: details['salary'] = cols[1].text.replace('\n', ' ').strip()
 
+                # Syllabus
                 elif 'syllabus' in text and details['syllabus'] == "Not Available":
                     details['syllabus'] = row_clean
-                    
-                if details['application_fee'] == "Not Available":
-                    if 'application fee' in text or 'examination fee' in text:
-                        if len(cols) >= 2: details['application_fee'] = cols[1].text.replace('\n', ' ').strip()
 
-        bad_words = ['post name', 'category', 'application fee', 'consolidated stipend', 'consolidated stipend (per month)', 'stipend', 'salary', 'qualification']
-        for key in ['salary', 'qualification', 'application_fee']:
-            val_lower = details[key].lower().strip()
-            if any(bad == val_lower for bad in bad_words):
-                details[key] = "Not Available"
+        # 2. DEEP SCAN - HEADINGS ER NICHE (For Details)
+        # Avoid korar jonne bad words (Sidebar er faltu link theke bachar jonne)
+        avoid_words = ['answer key', 'admit card', 'result', 'syllabus 202', 'online form', 'recruitment 202', 'download mobile app', 'telegram', 'whatsapp']
 
-        # PROPER AGE LIMIT FIX
-        if details['age_limit'] == "Not Available" or len(details['age_limit']) < 5:
-            for tag in soup.find_all(['h2', 'h3', 'h4', 'strong', 'b', 'p']):
-                if 'age limit' in tag.get_text().lower() and len(tag.get_text()) < 50:
+        def extract_full_details(keywords):
+            for tag in soup.find_all(['h2', 'h3', 'h4', 'strong', 'b']):
+                tag_text = tag.get_text().lower()
+                if any(kw in tag_text for kw in keywords) and len(tag_text) < 50:
+                    content = []
                     nxt = tag.find_next_sibling()
-                    age_text = ""
-                    while nxt and nxt.name not in ['h2', 'h3', 'h4', 'table']:
-                        age_text += nxt.get_text(strip=True) + " | "
+                    while nxt and nxt.name not in ['h2', 'h3', 'h4', 'script', 'style']:
+                        if nxt.name in ['ul', 'ol']:
+                            for li in nxt.find_all('li'):
+                                li_text = li.get_text(strip=True)
+                                if not any(bad in li_text.lower() for bad in avoid_words):
+                                    content.append(li_text)
+                        elif nxt.name in ['p', 'table']:
+                            p_text = nxt.get_text(separator=" | ", strip=True)
+                            if p_text and not any(bad in p_text.lower() for bad in avoid_words):
+                                content.append(p_text)
                         nxt = nxt.find_next_sibling()
-                    if age_text.strip():
-                        details['age_limit'] = age_text.strip(" | ")
-                        break
+                    
+                    if content:
+                        return " || ".join(content)
+            return "Not Available"
 
-        # SELECTION PROCESS BUG FIX (Sidebar Ad theke bachanor jonne)
-        selection_keywords = ['selection process', 'selection procedure']
-        for tag in soup.find_all(['h2', 'h3', 'h4', 'strong', 'b', 'p']):
-            if any(kw in tag.get_text().lower() for kw in selection_keywords) and len(tag.get_text()) < 50:
-                nxt = tag.find_next_sibling()
-                items = []
-                while nxt and nxt.name not in ['h2', 'h3', 'h4', 'table']:
-                    if nxt.name in ['ul', 'ol']:
-                        for li in nxt.find_all('li'):
-                            li_text = li.get_text(strip=True)
-                            # Sidebar er faltu link ignore korar filter
-                            if not any(bad in li_text.lower() for bad in ['answer key', 'admit card', 'result', 'syllabus', 'online form', 'recruitment']):
-                                items.append(li_text)
-                        break
-                    nxt = nxt.find_next_sibling()
-                if items:
-                    details['selection_process'] = ", ".join(items)
-                    break
+        # DEEP SCAN APPLY KORA HOLO:
+        
+        # Age Limit Deep Scan
+        age_data = extract_full_details(['age limit', 'age relaxation'])
+        if age_data != "Not Available": details['age_limit'] = age_data
 
+        # Selection Process Deep Scan
+        selection_data = extract_full_details(['selection process', 'selection procedure'])
+        if selection_data != "Not Available": details['selection_process'] = selection_data
+
+        # Salary / Stipend Deep Scan
+        salary_data = extract_full_details(['salary', 'pay scale', 'stipend', 'remuneration'])
+        if salary_data != "Not Available": details['salary'] = salary_data
+
+        # Qualification Deep Scan
+        qual_data = extract_full_details(['qualification', 'educational qualification'])
+        if qual_data != "Not Available": details['qualification'] = qual_data
+
+        # Application Fee Deep Scan
+        fee_data = extract_full_details(['application fee', 'examination fee'])
+        if fee_data != "Not Available": details['application_fee'] = fee_data
+
+        # 3. LINK SCANNER
         apply_link_found = False
         for element in soup.find_all(['li', 'tr', 'p']):
             text = element.text.lower()
@@ -149,6 +121,7 @@ def get_inner_details(scraper, link):
                 if 'official website' in text and details['official_website'] == "Not Available": details['official_website'] = href
                 elif ('notification' in text or 'detail' in text) and details['official_notification'] == "Not Available": details['official_notification'] = href
                     
+        # Apply Mode Backup
         if details['apply_mode'] == "Not Available" or details['apply_mode'] == "":
             if apply_link_found or 'apply online' in page_text: details['apply_mode'] = "Online"
             elif 'walk-in' in page_text or 'walk in' in page_text: details['apply_mode'] = "Walk-in"
@@ -162,7 +135,7 @@ def get_inner_details(scraper, link):
 def get_jobs(url, filename):
     scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False})
     try:
-        print(f"Betha khujchhi: {filename}...")
+        print(f"Deep Scan Start: {filename}...")
         response = scraper.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
         jobs_data = []
@@ -187,13 +160,12 @@ def get_jobs(url, filename):
                         if a_tag and 'href' in a_tag.attrs:
                             job_link = a_tag['href']
 
-                        print(f"  -> Vitorer page check korchhi: {post_name[:20]}...")
+                        print(f"  -> Vitorer page deep check korchhi: {post_name[:20]}...")
                         inner_data = get_inner_details(scraper, job_link)
 
                         final_title = inner_data['full_title'] if inner_data['full_title'] != "Not Available" else post_name
                         final_qualification = inner_data['qualification'] if inner_data['qualification'] != "Not Available" else outer_qualification
 
-                        # INNER TOTAL POSTS Prioirty Logic
                         final_total_posts = inner_data['total_posts']
                         if final_total_posts == "Not Available" or final_total_posts.lower() == "not mentioned":
                             match = re.search(r'(\d+)\s*(?:post|vacancy|posts|vacancies)', post_name, re.IGNORECASE)
@@ -222,7 +194,7 @@ def get_jobs(url, filename):
 
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(jobs_data, f, ensure_ascii=False, indent=4)
-        print(f"Success! {filename} save hoye gechhe.")
+        print(f"Success! {filename} master deep scan complete.")
 
     except Exception as e:
         print(f"Error aschhe {filename} te: {e}")
