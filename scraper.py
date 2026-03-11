@@ -13,6 +13,7 @@ def get_inner_details(scraper, link):
         "application_fee": "Not Available",
         "apply_mode": "Not Available",
         "syllabus": "Not Available",
+        "qualification": "Not Available", # ନୂଆ: ଭିତରୁ ଲମ୍ବା ଯୋଗ୍ୟତା ଆଣିବା ପାଇଁ
         "official_website": "Not Available",
         "official_notification": "Not Available"
     }
@@ -23,10 +24,6 @@ def get_inner_details(scraper, link):
         time.sleep(5) 
         response = scraper.get(link)
         soup = BeautifulSoup(response.text, 'html.parser')
-        
-        page_text = soup.text.lower()
-        if 'apply online' in page_text or 'online application' in page_text:
-            details['apply_mode'] = "Online"
         
         tables = soup.find_all('table')
         for table in tables:
@@ -45,12 +42,20 @@ def get_inner_details(scraper, link):
                     else:
                         details['full_title'] = row.text.replace('\n', ' ').strip()
                 
+                # Apply Mode କୁ ସିଧା ଟେବୁଲ୍ ରୁ ଆଣିବା (ଫାଲତୁ ଅନଲାଇନ୍ ଆସିବନି)
                 elif 'apply mode' in text and details['apply_mode'] == "Not Available":
                     if len(cols) >= 2:
                         details['apply_mode'] = cols[1].text.strip()
                     else:
                         val = row_clean.lower().replace('apply mode', '').replace(':', '').strip()
                         details['apply_mode'] = val.title() if val else "Not Available"
+
+                # ନୂଆ: Qualification କୁ ଭିତର ଟେବୁଲ୍ ରୁ ଖୋଜିବା
+                elif ('qualification' in text or 'educational qualification' in text) and 'fee' not in text and details['qualification'] == "Not Available":
+                    if len(cols) >= 2:
+                        details['qualification'] = cols[1].text.replace('\n', ' ').strip()
+                    else:
+                        details['qualification'] = row_clean
 
                 elif 'age limit' in text and details['age_limit'] == "Not Available":
                     if len(cols) >= 2:
@@ -64,7 +69,6 @@ def get_inner_details(scraper, link):
                     else:
                         details['total_posts'] = row_clean.replace('no of posts', '').replace('total vacancy', '').strip()
                         
-                # ନୂଆ ଚାଲାକି ଲଜିକ୍: ଯଦି ଡାହାଣ ପଟେ କିଛି ବି ଲେଖାଅଛି (ଯେମିତି "As per NESTS guidelines"), ସିଧା ଆଣିବ!
                 elif ('salary' in text or 'scale of pay' in text or 'pay scale' in text or 'pay matrix' in text or 'remuneration' in text or 'stipend' in text) and 'qualification' not in text and details['salary'] == "Not Available":
                     if len(cols) >= 2:
                         details['salary'] = cols[1].text.replace('\n', ' ').strip()
@@ -113,6 +117,7 @@ def get_inner_details(scraper, link):
                     break
 
         apply_link_found = False
+        page_text_lower = soup.text.lower()
         for element in soup.find_all(['li', 'tr', 'p']):
             text = element.text.lower()
             a_tags = element.find_all('a')
@@ -130,10 +135,11 @@ def get_inner_details(scraper, link):
                 elif ('notification' in text or 'detail' in text) and details['official_notification'] == "Not Available":
                     details['official_notification'] = href
                     
-        if details['apply_mode'] == "Not Available":
-            if apply_link_found:
+        # Apply Mode ର ବ୍ୟାକଅପ୍ ପ୍ଲାନ୍ (କେବଳ ଯଦି ଟେବୁଲ୍ ରେ ନମିଳେ)
+        if details['apply_mode'] == "Not Available" or details['apply_mode'] == "":
+            if apply_link_found or 'apply online' in page_text_lower:
                 details['apply_mode'] = "Online"
-            elif 'walk-in' in soup.text.lower() or 'walk in' in soup.text.lower():
+            elif 'walk-in' in page_text_lower or 'walk in' in page_text_lower:
                 details['apply_mode'] = "Walk-in"
             else:
                 details['apply_mode'] = "Offline / Notification ଦେଖନ୍ତୁ"
@@ -162,7 +168,7 @@ def get_jobs(url, filename):
                         post_date = cols[0].text.strip()
                         board_name = cols[1].text.strip()
                         post_name = cols[2].text.strip()
-                        qualification = cols[3].text.strip()
+                        outer_qualification = cols[3].text.strip() # ବାହାର ଯୋଗ୍ୟତା
                         last_date = cols[5].text.strip()
                         
                         job_link = ""
@@ -175,6 +181,9 @@ def get_jobs(url, filename):
                         inner_data = get_inner_details(scraper, job_link)
 
                         final_title = inner_data['full_title'] if inner_data['full_title'] != "Not Available" else post_name
+
+                        # ଲମ୍ବା Qualification ଆଣିବା ଲଜିକ୍
+                        final_qualification = inner_data['qualification'] if inner_data['qualification'] != "Not Available" else outer_qualification
 
                         final_total_posts = inner_data['total_posts']
                         if final_total_posts == "Not Available":
@@ -190,13 +199,13 @@ def get_jobs(url, filename):
                             "date": post_date,
                             "board": board_name,
                             "title": final_title,
-                            "qualification": qualification,
+                            "qualification": final_qualification, # ଏଥର ଲମ୍ବା ଆସିବ!
                             "last_date": last_date,
                             "total_posts": final_total_posts,
                             "salary": inner_data['salary'],
                             "age_limit": inner_data['age_limit'],
                             "application_fee": inner_data['application_fee'],
-                            "apply_mode": inner_data['apply_mode'],
+                            "apply_mode": inner_data['apply_mode'], # ଏଥର ସଠିକ୍ ଆସିବ!
                             "syllabus": inner_data['syllabus'],
                             "official_website": inner_data['official_website'],
                             "official_notification": inner_data['official_notification']
