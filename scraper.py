@@ -12,7 +12,7 @@ def get_inner_details(scraper, link):
         "age_limit": "Not Available", 
         "application_fee": "Not Available",
         "apply_mode": "Not Available",
-        "selection_process": "Not Available", # ନୂଆ: ପିଲାଙ୍କ ପାଇଁ ସିଲେକ୍ସନ୍ ପ୍ରୋସେସ୍
+        "selection_process": "Not Available", 
         "syllabus": "Not Available",
         "qualification": "Not Available", 
         "official_website": "Not Available",
@@ -28,13 +28,11 @@ def get_inner_details(scraper, link):
         
         page_text = soup.text.lower()
         
-        # ୧. ମଣିଷ ଭଳିଆ ଟେବୁଲ୍ ପଢିବା (Vertical Column Tracking for Salary, Qual, Fee)
         tables = soup.find_all('table')
         for table in tables:
             rows = table.find_all('tr')
             if not rows: continue
             
-            # ହେଡିଂ କଲମ୍ ନମ୍ବର ଖୋଜିବା
             headers = [th.text.lower().strip() for th in rows[0].find_all(['th', 'td'])]
             salary_idx, qual_idx, fee_idx = -1, -1, -1
             
@@ -43,7 +41,6 @@ def get_inner_details(scraper, link):
                 if 'qualification' in h or 'degree' in h: qual_idx = i
                 if 'fee' in h: fee_idx = i
                 
-            # ଯଦି ହେଡିଂ ମିଳିଲା, ତେବେ ତଳ ଧାଡ଼ିରୁ ସଠିକ୍ ଡାଟା ଆଣିବା (ହେଡିଂ କୁ ଇଗନୋର୍ କରି)
             if len(rows) > 1 and (salary_idx != -1 or qual_idx != -1 or fee_idx != -1):
                 for row in rows[1:]:
                     cols = row.find_all('td')
@@ -64,7 +61,6 @@ def get_inner_details(scraper, link):
                         if val and 'category' not in val.lower():
                             details['application_fee'] = val.replace('\n', ' ')
 
-        # ୨. ସାଧାରଣ ବାମ-ଡାହାଣ ପଢିବା (ଅନ୍ୟାନ୍ୟ ଜିନିଷ ପାଇଁ)
         for table in tables:
             rows = table.find_all('tr')
             for row in rows:
@@ -89,7 +85,8 @@ def get_inner_details(scraper, link):
                     if len(cols) >= 2: details['age_limit'] = cols[1].text.replace('\n', ' ').strip()
                     else: details['age_limit'] = row_clean
                         
-                elif ('no of posts' in text or 'total vacancy' in text) and details['total_posts'] == "Not Available":
+                # INNER TOTAL POSTS FIX
+                elif ('no of posts' in text or 'total vacancy' in text or 'vacancy' in text) and details['total_posts'] == "Not Available":
                     if len(cols) >= 2: details['total_posts'] = cols[1].text.replace('\n', ' ').strip()
                         
                 elif ('salary' in text or 'scale of pay' in text or 'pay scale' in text) and details['salary'] == "Not Available":
@@ -102,25 +99,44 @@ def get_inner_details(scraper, link):
                     if 'application fee' in text or 'examination fee' in text:
                         if len(cols) >= 2: details['application_fee'] = cols[1].text.replace('\n', ' ').strip()
 
-        # ୩. ହେଡିଂ ବ୍ଲକର୍ (ଯଦି କୌଣସି ହେଡିଂ ଧରାପଡିଛି, ତାକୁ କାଟିଦେବ)
         bad_words = ['post name', 'category', 'application fee', 'consolidated stipend', 'consolidated stipend (per month)', 'stipend', 'salary', 'qualification']
         for key in ['salary', 'qualification', 'application_fee']:
             val_lower = details[key].lower().strip()
             if any(bad == val_lower for bad in bad_words):
                 details[key] = "Not Available"
 
-        # ୪. Selection Process ଖୋଜିବା (ପିଲାଙ୍କ ପାଇଁ)
-        selection_keywords = ['selection process', 'selection procedure']
-        for tag in soup.find_all(['h2', 'h3', 'h4', 'strong', 'b', 'p']):
-            if any(kw in tag.get_text().lower() for kw in selection_keywords):
-                next_ul = tag.find_next(['ul', 'ol'])
-                if next_ul:
-                    items = [li.get_text(strip=True) for li in next_ul.find_all('li')]
-                    if items:
-                        details['selection_process'] = ", ".join(items)
+        # PROPER AGE LIMIT FIX
+        if details['age_limit'] == "Not Available" or len(details['age_limit']) < 5:
+            for tag in soup.find_all(['h2', 'h3', 'h4', 'strong', 'b', 'p']):
+                if 'age limit' in tag.get_text().lower() and len(tag.get_text()) < 50:
+                    nxt = tag.find_next_sibling()
+                    age_text = ""
+                    while nxt and nxt.name not in ['h2', 'h3', 'h4', 'table']:
+                        age_text += nxt.get_text(strip=True) + " | "
+                        nxt = nxt.find_next_sibling()
+                    if age_text.strip():
+                        details['age_limit'] = age_text.strip(" | ")
                         break
 
-        # ୫. ଅଫିସିଆଲ୍ ଲିଙ୍କ୍
+        # SELECTION PROCESS BUG FIX (Sidebar Ad theke bachanor jonne)
+        selection_keywords = ['selection process', 'selection procedure']
+        for tag in soup.find_all(['h2', 'h3', 'h4', 'strong', 'b', 'p']):
+            if any(kw in tag.get_text().lower() for kw in selection_keywords) and len(tag.get_text()) < 50:
+                nxt = tag.find_next_sibling()
+                items = []
+                while nxt and nxt.name not in ['h2', 'h3', 'h4', 'table']:
+                    if nxt.name in ['ul', 'ol']:
+                        for li in nxt.find_all('li'):
+                            li_text = li.get_text(strip=True)
+                            # Sidebar er faltu link ignore korar filter
+                            if not any(bad in li_text.lower() for bad in ['answer key', 'admit card', 'result', 'syllabus', 'online form', 'recruitment']):
+                                items.append(li_text)
+                        break
+                    nxt = nxt.find_next_sibling()
+                if items:
+                    details['selection_process'] = ", ".join(items)
+                    break
+
         apply_link_found = False
         for element in soup.find_all(['li', 'tr', 'p']):
             text = element.text.lower()
@@ -136,7 +152,7 @@ def get_inner_details(scraper, link):
         if details['apply_mode'] == "Not Available" or details['apply_mode'] == "":
             if apply_link_found or 'apply online' in page_text: details['apply_mode'] = "Online"
             elif 'walk-in' in page_text or 'walk in' in page_text: details['apply_mode'] = "Walk-in"
-            else: details['apply_mode'] = "Offline / Notification ଦେଖନ୍ତୁ"
+            else: details['apply_mode'] = "Offline / Notification Dekhun"
                     
     except Exception as e:
         pass 
@@ -146,7 +162,7 @@ def get_inner_details(scraper, link):
 def get_jobs(url, filename):
     scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False})
     try:
-        print(f"ଖୋଜୁଛି: {filename}...")
+        print(f"Betha khujchhi: {filename}...")
         response = scraper.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
         jobs_data = []
@@ -171,14 +187,15 @@ def get_jobs(url, filename):
                         if a_tag and 'href' in a_tag.attrs:
                             job_link = a_tag['href']
 
-                        print(f"  -> ଭିତର ପେଜ୍ ଚେକ୍ କରୁଛି: {post_name[:20]}...")
+                        print(f"  -> Vitorer page check korchhi: {post_name[:20]}...")
                         inner_data = get_inner_details(scraper, job_link)
 
                         final_title = inner_data['full_title'] if inner_data['full_title'] != "Not Available" else post_name
                         final_qualification = inner_data['qualification'] if inner_data['qualification'] != "Not Available" else outer_qualification
 
+                        # INNER TOTAL POSTS Prioirty Logic
                         final_total_posts = inner_data['total_posts']
-                        if final_total_posts == "Not Available":
+                        if final_total_posts == "Not Available" or final_total_posts.lower() == "not mentioned":
                             match = re.search(r'(\d+)\s*(?:post|vacancy|posts|vacancies)', post_name, re.IGNORECASE)
                             if match: final_total_posts = match.group(1)
                             else:
@@ -195,7 +212,7 @@ def get_jobs(url, filename):
                             "salary": inner_data['salary'],
                             "age_limit": inner_data['age_limit'],
                             "application_fee": inner_data['application_fee'],
-                            "selection_process": inner_data['selection_process'], # ପିଲାଙ୍କୁ ଦେଖାଇବା ପାଇଁ ଆଡ୍ ହେଲା
+                            "selection_process": inner_data['selection_process'], 
                             "apply_mode": inner_data['apply_mode'], 
                             "syllabus": inner_data['syllabus'],
                             "official_website": inner_data['official_website'],
@@ -205,10 +222,10 @@ def get_jobs(url, filename):
 
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(jobs_data, f, ensure_ascii=False, indent=4)
-        print(f"ସଫଳତା! {filename} ସେଭ୍ ହୋଇଗଲା।")
+        print(f"Success! {filename} save hoye gechhe.")
 
     except Exception as e:
-        print(f"ଅସୁବିଧା ହେଲା {filename} ରେ: {e}")
+        print(f"Error aschhe {filename} te: {e}")
 
 job_sources = {
     "odisha_jobs.json": "https://www.freejobalert.com/odisha-government-jobs/",
@@ -224,5 +241,5 @@ for file, url in job_sources.items():
     get_jobs(url, file)
     
     if current < total_files:
-        print("\nରାଜ୍ୟ ବଦଳାଇବା ପୂର୍ବରୁ ୨ ମିନିଟ୍ ବିଶ୍ରାମ...\n")
+        print("\nState change korar age 2 minute wait korchhi...\n")
         time.sleep(120)
