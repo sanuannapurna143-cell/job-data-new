@@ -1,6 +1,22 @@
 [
     {
         "date": "12/03/2026",
+        "board": "Central University of Tamil Nadu",
+        "title": "Guest Faculty",
+        "qualification": "Master's degree with 55% marks, SLET/NET/Ph.D and/or industrial experience.",
+        "last_date": "15-03-2026",
+        "total_posts": "4",
+        "salary": "Rs. 500 per teaching hours subject to a maximum of Rs. 25,000 Per Month",
+        "age_limit": "Maximum age limit of 70 years for superannuated teachers.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://cutn.ac.in",
+        "official_notification": "https://cutn.ac.in/wp-content/uploads/2026/03/Recruitment_Notification_for-Teaching_09032026.pdf"
+    },
+    {
+        "date": "12/03/2026",
         "board": "EIL",
         "title": "Junior Secretary",
         "qualification": "Graduate Degree (non-Fine Arts, 60%+), English Shorthand 90 wpm, Typing 40 wpm, Computer Applications/MS Office Certificate (3+ months)",
