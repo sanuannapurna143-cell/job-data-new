@@ -1,6 +1,22 @@
 [
     {
         "date": "12/03/2026",
+        "board": "District Court Deoria",
+        "title": "Counselor",
+        "qualification": "Graduate in Sociology or Psychology, Experience in social service, Preference: Master's in Social Work, Preference: 2 years experience in family counseling",
+        "last_date": "23-03-2026",
+        "total_posts": "4",
+        "salary": "Rs. 1,000/- per working day or Rs. 24,000/- per month whichever is less",
+        "age_limit": "Minimum Age: 35 years || Maximum Age: 65 years",
+        "application_fee": "Nil",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://deoria.dcourts.gov.in",
+        "official_notification": "https://www.allahabadhighcourt.in/event/event_24972_12-03-2026.pdf"
+    },
+    {
+        "date": "12/03/2026",
         "board": "CMOH  Kushinagar",
         "title": "Dental Surgeon",
         "qualification": "Bachelor of Dental Science (BDS)",

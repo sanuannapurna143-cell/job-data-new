@@ -1,6 +1,22 @@
 [
     {
         "date": "12/03/2026",
+        "board": "Gujarat University",
+        "title": "Chief Security Officer",
+        "qualification": "Graduate in any stream, 15 Years Service from Police / Defence",
+        "last_date": "17-03-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://gujaratuniversity.ac.in",
+        "official_notification": "https://beta.gujaratuniversity.ac.in/data/pdfs/Recruitment/Contractual%20Post%20for%20Chief%20Security%20Officer.pdf"
+    },
+    {
+        "date": "12/03/2026",
         "board": "RARI Ahmedabad",
         "title": "Senior Research Fellow",
         "qualification": "B.A.M.S. Degree from any Recognized University",

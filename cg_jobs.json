@@ -1,6 +1,22 @@
 [
     {
         "date": "12/03/2026",
+        "board": "IIT Bhilai",
+        "title": "Junior Research Fellow (Computer Science and Engineering)",
+        "qualification": "B.Tech/B.E./M.Sc. in CS/CSE/ECE/AI/Data Science (60% min, 55% SC/ST) with GATE/NET/DST Inspire, M.Tech/M.E. in CS/CSE/ECE/AI/DSAI/related fields, B.Tech/B.E./M.Sc. in relevant fields + 2 years relevant experience",
+        "last_date": "27-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 36000 + 16 % HRA Per Month",
+        "age_limit": "Max: 33 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitbhilai.ac.in",
+        "official_notification": "https://www.iitbhilai.ac.in/index.php?pid=adv_mar26_11"
+    },
+    {
+        "date": "12/03/2026",
         "board": "NIT Raipur",
         "title": "Junior Research Fellow",
         "qualification": "B.E./B.Tech. and M.E./M.Tech",

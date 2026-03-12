@@ -1,6 +1,38 @@
 [
     {
         "date": "12/03/2026",
+        "board": "IITM",
+        "title": "IITM Research Fellow",
+        "qualification": "Post Graduate degree in Physical Sciences, Chemical Sciences, Mathematical Sciences, or M.Tech. in Atmospheric/Oceanic Sciences, or Master's degree in Engineering. Must have qualified CSIR-UGC NET/UGC NET/ICAR NET/GATE/JEST. Bachelor's degree must include Physics and Mathematics.",
+        "last_date": "27-04-2026",
+        "total_posts": "20",
+        "salary": "Rs. 37,000/- p.m. plus admissible HRA",
+        "age_limit": "Max 28 years (Relaxable for SC/ST/OBC/PwBD/Women)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tropmet.res.in/",
+        "official_notification": "https://www.tropmet.res.in/jobs_pdf/1773294963IITM_RF_advertisement_PER_03_2026.pdf"
+    },
+    {
+        "date": "12/03/2026",
+        "board": "DLSA Gondia",
+        "title": "Assistant Legal Aid Defense Counsel",
+        "qualification": "Practice in criminal law from 3 years, Good oral and written communication skills,",
+        "last_date": "27-03-2026",
+        "total_posts": "2",
+        "salary": "Rs. 30000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Not Available",
+        "selection_process": "Fair, transparent and competitive selection process adopted by DLSA under guidance of SLSA || Selection purely based on merit taking into account knowledge, skills, practice and experience of candidates || Selection carried out by Selection Committee under Chairmanship of Principal District & Sessions Judge || Final approval by Executive Chairman, SLSA",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://gondia.dcourts.gov.in",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec048ed36a8485e30937b99c0d247e9c/uploads/2026/03/2026031174.pdf"
+    },
+    {
+        "date": "12/03/2026",
         "board": "ACTREC",
         "title": "Technician (Photographer/Medical Graphics)",
         "qualification": "Graduate, Diploma in Computer Arts (Graphics)",
