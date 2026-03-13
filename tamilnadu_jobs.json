@@ -10,7 +10,7 @@
         "age_limit": "Maximum Age Limit: 42 years",
         "application_fee": "Nil",
         "selection_process": "Completed applications must be submitted by 5:00 PM on March 23, 2026.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://chennai.nic.in",
         "official_notification": "https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2026/03/17733227546631.pdf"
@@ -938,7 +938,7 @@
         "age_limit": "There is no upper age limit specified for TET eligibility. Relaxations in qualifying marks apply: 50% for BC/BCM/MBC/DNC/PWD and 40% for SC/SCA/ST.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://trb.tn.gov.in/",
         "official_notification": "https://trb.tn.gov.in/admin/pdf/9558657728TET.pdf"

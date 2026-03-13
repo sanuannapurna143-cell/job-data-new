@@ -1,6 +1,38 @@
 [
     {
         "date": "13/03/2026",
+        "board": "HBCH&RC Muzaffarpur",
+        "title": "Assistant Security Officer",
+        "qualification": "Any Graduate",
+        "last_date": "25-03-2026",
+        "total_posts": "1",
+        "salary": "Rs.35,400/- per month",
+        "age_limit": "Max: 35 years for civilian candidates",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://tmc.gov.in",
+        "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=InNad2r+YFncsm9AERS7nQ=="
+    },
+    {
+        "date": "13/03/2026",
+        "board": "ESIC",
+        "title": "Professor",
+        "qualification": "As per NMC (MCI) TEQ Rules as amended. Must have up-dated Medical Registration Certificate.",
+        "last_date": "26-03-2026",
+        "total_posts": "10",
+        "salary": "Fixed Basic- 1,18,500/- & other allowance. Tax and other deductions will be as per prevailing norms.",
+        "age_limit": "Maximum Age Limit: 69 years (Not Exceeding). || Engagement is till 70 years of age.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Selection will be made on the basis of acquired academic credentials and performance of candidate in interview before the Selection Board. || Offer of Appointment will be sent through E-mail.",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mcpatna.esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_No_06_of_2026_for_Recruitment_of_Professor_in_Super_Specialty_Departments_on_contract_basis_English_1773374254.pdf"
+    },
+    {
+        "date": "13/03/2026",
         "board": "HBCHRC Muzaffarpur",
         "title": "Assistant Medical Social Worker, Technician (Phlebotomist)",
         "qualification": "Post graduate degree (MSW), Diploma",

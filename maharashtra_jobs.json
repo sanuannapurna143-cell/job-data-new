@@ -1,6 +1,22 @@
 [
     {
         "date": "13/03/2026",
+        "board": "ESIC",
+        "title": "Medical Officer",
+        "qualification": "M.B.B.S",
+        "last_date": "25-03-2026",
+        "total_posts": "Not Available",
+        "salary": "as per Maharashtra Government GR dated 29/05/2020",
+        "age_limit": "Maximum Age: 68 years as on 01-01-2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_Walk_in_Interview_under_the_jurisdiction_of_this_office_1773396652.pdf"
+    },
+    {
+        "date": "13/03/2026",
         "board": "Mahavitaran",
         "title": "Apprentice",
         "qualification": "ITI",
