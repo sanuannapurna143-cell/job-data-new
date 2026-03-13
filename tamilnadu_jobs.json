@@ -1,6 +1,22 @@
 [
     {
         "date": "13/03/2026",
+        "board": "DCPU Chennai",
+        "title": "Accountant",
+        "qualification": "B.Com or equivalent, Computer knowledge with Tally, 1 year Accounts experience",
+        "last_date": "23-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 18,536/- Per Month",
+        "age_limit": "Maximum Age Limit: 42 years",
+        "application_fee": "Nil",
+        "selection_process": "Completed applications must be submitted by 5:00 PM on March 23, 2026.",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://chennai.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2026/03/17733227546631.pdf"
+    },
+    {
+        "date": "13/03/2026",
         "board": "AIIMS",
         "title": "Nursing Officer",
         "qualification": "B.Sc. (Hons.) Nursing / B.Sc. Nursing OR Post Basic B.Sc. Nursing OR Diploma in General Nursing & Midwifery with valid registration + 2 years experience (for Diploma holders)",
@@ -922,7 +938,7 @@
         "age_limit": "There is no upper age limit specified for TET eligibility. Relaxations in qualifying marks apply: 50% for BC/BCM/MBC/DNC/PWD and 40% for SC/SCA/ST.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://trb.tn.gov.in/",
         "official_notification": "https://trb.tn.gov.in/admin/pdf/9558657728TET.pdf"

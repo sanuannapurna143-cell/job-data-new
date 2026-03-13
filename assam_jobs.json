@@ -1,6 +1,22 @@
 [
     {
         "date": "13/03/2026",
+        "board": "Directorate of Sports and Youth Welfare Assam",
+        "title": "Head Coach",
+        "qualification": "Diploma in Coaching",
+        "last_date": "25-03-2026",
+        "total_posts": "2",
+        "salary": "Rs. 100000 - 150000 Per Month",
+        "age_limit": "Max: 50 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://dsyw.assam.gov.in",
+        "official_notification": "https://sportsauthorityofindia.nic.in/sai_new/public/assets/uploads/jobs/431a7f74-6446-46d1-812b-5c81f7fecabf.pdf"
+    },
+    {
+        "date": "13/03/2026",
         "board": "IIT Guwahati",
         "title": "Assistant Project Scientist",
         "qualification": "Bachelor's Degree in Chemistry",
@@ -525,7 +541,7 @@
         "apply_mode": "Offline (Email)",
         "syllabus": "Not Available",
         "official_website": "https://www.nits.ac.in",
-        "official_notification": "/cdn-cgi/l/email-protection#9bfff2f5faf6faf5f2f9f2e8ecfaf7dbf3eef6b5f5f2efe8b5faf8b5f2f5"
+        "official_notification": "/cdn-cgi/l/email-protection#d6b2bfb8b7bbb7b8bfb4bfa5a1b7ba96bea3bbf8b8bfa2a5f8b7b5f8bfb8"
     },
     {
         "date": "27/02/2026",

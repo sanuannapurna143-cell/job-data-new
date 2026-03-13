@@ -1,6 +1,22 @@
 [
     {
         "date": "13/03/2026",
+        "board": "AIIMS",
+        "title": "Nursing Officer",
+        "qualification": "B.Sc. (Hons.) Nursing / B.Sc. Nursing OR Post Basic B.Sc. Nursing OR Diploma in General Nursing & Midwifery with valid registration + 2 years experience (for Diploma holders)",
+        "last_date": "16-03-2026",
+        "total_posts": "2551",
+        "salary": "Pay Level-07 in the Pay Matrix || Pre-revised Pay Band-2 of ₹9300-34800 with Grade Pay of ₹4600/- || Usual allowances as admissible to Central Government Servants of similar status stationed at respective cities of respective Institutes/Hospitals.",
+        "age_limit": "Minimum Age: 18 Years || Maximum Age: 30 Years || Age relaxation applicable as per rules for SC/ST (5 years), OBC (3 years), PwBD (10/13/15 years), Ex-Servicemen, Central Govt. Civilian Employees etc. (detailed in General Conditions).",
+        "application_fee": "General/OBC Candidates: ₹3000/- || SC/ST/EWS Candidates: ₹2400/- || Persons with Disabilities: Exempted || Payment mode: Debit Card / Credit Card / Net Banking",
+        "selection_process": "Stage I: NORCET Preliminary (Qualifying) – 100 MCQs, 90 minutes || Stage II: NORCET Mains – 160 MCQs, 180 minutes (merit decided on this stage) || Negative marking of 1/3 for wrong answers in both stages || Document Verification & Medical Board for PwBD candidates || Final selection on merit of Stage II + choices exercised + eligibility as per respective AIIMS rules",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsexams.ac.in/",
+        "official_notification": "https://rrpdocuments.aiimsexams.ac.in/1771933787527-856734394.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20260224%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20260224T123657Z&X-Amz-Expires=18000&X-Amz-Signature=c93b501b26ade3dd1d81adf22aa00e4ba9c8882afeea8808375ea1e5bf2f1399&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf"
+    },
+    {
+        "date": "13/03/2026",
         "board": "ECHS Jabalpur",
         "title": "Various Posts",
         "qualification": "MBBS, B Pharmacy, B.Sc.(Medical Lab Technology), DMLT, Diploma Holder in Dental Hyg, Graduate, Class 8th Pass, Literate",
@@ -46,22 +62,6 @@
         "syllabus": "Not Available",
         "official_website": "https://chayan.mponline.gov.in/",
         "official_notification": "https://chayan.mponline.gov.in/Portal/services/ImageShow.aspx?src=mPojq12+QiV0eBiXDHSha1aVglp1Tt1IkYW9KnjgXd9tEjfecozMc4EYWhxxSQZhDvvErUsk7uDr7MEVl8GQLg=="
-    },
-    {
-        "date": "11/03/2026",
-        "board": "AIIMS",
-        "title": "Nursing Officer",
-        "qualification": "B.Sc. (Hons.) Nursing / B.Sc. Nursing OR Post Basic B.Sc. Nursing OR Diploma in General Nursing & Midwifery with valid registration + 2 years experience (for Diploma holders)",
-        "last_date": "16-03-2026",
-        "total_posts": "2551",
-        "salary": "Pay Level-07 in the Pay Matrix || Pre-revised Pay Band-2 of ₹9300-34800 with Grade Pay of ₹4600/- || Usual allowances as admissible to Central Government Servants of similar status stationed at respective cities of respective Institutes/Hospitals.",
-        "age_limit": "Minimum Age: 18 Years || Maximum Age: 30 Years || Age relaxation applicable as per rules for SC/ST (5 years), OBC (3 years), PwBD (10/13/15 years), Ex-Servicemen, Central Govt. Civilian Employees etc. (detailed in General Conditions).",
-        "application_fee": "General/OBC Candidates: ₹3000/- || SC/ST/EWS Candidates: ₹2400/- || Persons with Disabilities: Exempted || Payment mode: Debit Card / Credit Card / Net Banking",
-        "selection_process": "Stage I: NORCET Preliminary (Qualifying) – 100 MCQs, 90 minutes || Stage II: NORCET Mains – 160 MCQs, 180 minutes (merit decided on this stage) || Negative marking of 1/3 for wrong answers in both stages || Document Verification & Medical Board for PwBD candidates || Final selection on merit of Stage II + choices exercised + eligibility as per respective AIIMS rules",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiimsexams.ac.in/",
-        "official_notification": "https://rrpdocuments.aiimsexams.ac.in/1771933787527-856734394.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20260224%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20260224T123657Z&X-Amz-Expires=18000&X-Amz-Signature=c93b501b26ade3dd1d81adf22aa00e4ba9c8882afeea8808375ea1e5bf2f1399&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf"
     },
     {
         "date": "11/03/2026",
