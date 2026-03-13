@@ -1,5 +1,37 @@
 [
     {
+        "date": "13/03/2026",
+        "board": "UP Anganwadi",
+        "title": "Anganwadi Karyakarta (Honorarium based)",
+        "qualification": "12TH",
+        "last_date": "01-04-2026",
+        "total_posts": "227",
+        "salary": "Honorarium based on Manadey",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 35 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Merit list based on marks in Intermediate, Graduate, Post Graduate",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://upanganwadibharti.in",
+        "official_notification": "https://upanganwadibharti.in/worker/uploadOrder/ordercopy1773231478.pdf"
+    },
+    {
+        "date": "13/03/2026",
+        "board": "IIT Kanpur",
+        "title": "Project Manager",
+        "qualification": "Any Graduate, Any Post Graduate, CA, CS, ICWA",
+        "last_date": "30-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 29000 - 72200 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Shortlisting based on qualifications and experience || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/hss-pm-12-03-26.html"
+    },
+    {
         "date": "12/03/2026",
         "board": "District Court Deoria",
         "title": "Counselor",
