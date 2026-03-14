@@ -1,6 +1,38 @@
 [
     {
         "date": "14/03/2026",
+        "board": "NAM Kerala",
+        "title": "Homeo Pharmacist",
+        "qualification": "CP/NCP Equivalent",
+        "last_date": "17-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 14700/- Per Month",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nam.kerala.gov.in",
+        "official_notification": "https://www.nam.kerala.gov.in/images/careers/1773313794406.pdf"
+    },
+    {
+        "date": "14/03/2026",
+        "board": "IIT Palakkad",
+        "title": "Junior Technician (Innovation Lab) / Junior Technical Superintendent (Systems)",
+        "qualification": "B.E./B.Tech./Three-year Diploma in Mechanical Engineering, Post SSLC with 2 year ITI, B.E/B.Tech/M.Sc in CSE/ECE/IT/Software Sciences or MCA",
+        "last_date": "13-04-2026",
+        "total_posts": "2",
+        "salary": "Junior Technician (Innovation Lab): Level 3 (Rs. 21,700 - Rs. 69,100) || Junior Technical Superintendent (Systems): Level 6 (Rs. 35,400 - Rs. 1,12,400)",
+        "age_limit": "The age limit for the posts is between 27 to 35 Years. || Relaxation in age to Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Classes - Non Creamy Layer (OBC-NCL), Persons with Disabilities (PwD) and Ex-Servicemen would be admissible as per Government of India Norms. No relaxation would be applicable to SC/ST/OBC applicants applying for Unreserved (UR) vacancies.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Scrutiny/Shortlisting || Selection process and subsequent stages as applicable || Test/Interview (mode to be published on website)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitpkd.ac.in/",
+        "official_notification": "https://joinus.iitpkd.ac.in/sites/staff-recruitment.iitp-portal.local/files/2026-03/Recruitment%20Notification_Non-Academic%20posts_IITPKD_R_NF_02_2026.pdf"
+    },
+    {
+        "date": "14/03/2026",
         "board": "Kerala University",
         "title": "Assistant (Research Project)",
         "qualification": "Post graduate degree in Life Science from a recognized University",

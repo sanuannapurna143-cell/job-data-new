@@ -1,6 +1,38 @@
 [
     {
         "date": "14/03/2026",
+        "board": "AIIMS Deoghar",
+        "title": "Data Entry Operator",
+        "qualification": "Bachelor's degree in Computer Science.",
+        "last_date": "25-03-2026",
+        "total_posts": "1",
+        "salary": "Data Entry Operator: Rs. 29,200/- (Consolidated) per month",
+        "age_limit": "Maximum Age Limit: 30 years || Age Relaxation: As per GOI norms for SC/ST/OBC candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.aiimsdeoghar.edu.in",
+        "official_notification": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/walk_in_interview_for_the_post_of_data_entry_operataior_13032026060545181.pdf"
+    },
+    {
+        "date": "14/03/2026",
+        "board": "IIT ISM Dhanbad",
+        "title": "Project Associate",
+        "qualification": "Master's degree in Engineering/Technology/Sciences/Agriculture Sciences.",
+        "last_date": "24-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 31,000/- + HRA Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "iitism.ac.in",
+        "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1197/Project%20Associate_2026-03-13_16-28-35.pdf"
+    },
+    {
+        "date": "14/03/2026",
         "board": "CUJ",
         "title": "Project Associate I",
         "qualification": "First Class M.Tech/M.Sc. in Geoinformatics/Geography/Remote Sensing and GIS or equivalent with NET/GATE",
