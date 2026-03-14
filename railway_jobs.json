@@ -1,5 +1,21 @@
 [
     {
+        "date": "14/03/2026",
+        "board": "RRC Southern Central Railway",
+        "title": "Act Apprentice (various trades under Apprentices Act, 1961)",
+        "qualification": "10th class (10+2 system) with minimum 50% aggregate marks and ITI in relevant trade from NCVT/SCVT recognised institute",
+        "last_date": "11-04-2026",
+        "total_posts": "2801",
+        "salary": "Not Available",
+        "age_limit": "15 to 24 years as on 11.04.2026 (upper age relaxation for SC/ST/OBC-NCL/PwBD/Ex-Servicemen as per rules)",
+        "application_fee": "₹100 for UR/OBC/EWS males; No fee for SC/ST, female/Transgender and PwBD candidates",
+        "selection_process": "Merit List Basis:Selection for SCR Act Apprentice 2025-26 will be done purely on merit, by taking the average of percentage marks in 10th (minimum 50% aggregate) and ITI marks, giving equal weightage to both. || Tie-breaking:If two candidates have the same aggregate percentage, older candidate (higher age) will be preferred; if DOB is also same, the candidate who passed Matriculation earlier will be preferred. || Document Verification (DV):Shortlisted candidates will be called for DV where all original certificates (education, ITI, caste, EWS, PwBD, ExSM, RDAT registration, medical fitness) will be verified. || Medical Fitness:Candidates must produce medical fitness certificate from a government-authorised doctor (Gazetted, not below Asst. Surgeon) in prescribed format at DV; without this, they will not be considered. || Training & Stipend:Selected candidates will undergo apprenticeship training as per Central Apprenticeship Council syllabus and receive stipend at prescribed rates during training. || No Job Guarantee:SCR apprenticeship 2025-26 provides training only; there isno guarantee of regular railway jobafter completion of apprenticeship.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://scr.indianrailways.gov.in",
+        "official_notification": "https://203.153.33.92/ACTAPP25-26.pdf"
+    },
+    {
         "date": "13/03/2026",
         "board": "RITES",
         "title": "Legal Professionals",
@@ -194,22 +210,6 @@
     {
         "date": "24/02/2026",
         "board": "KRCL",
-        "title": "Deputy General Manager/Accounts, Assistant Account Officer, Section Officer, Account Assistant",
-        "qualification": "Candidates must possess the qualification as per Annexure-I: || Deputy General Manager/Accounts (2 Posts):CMA / CA || Assistant Account Officer (1 Post):CMA / CA || Section Officer (4 Posts):B.Com from a recognized university || Account Assistant (4 Posts):B.Com from a recognized university",
-        "last_date": "13-03-2026",
-        "total_posts": "11",
-        "salary": "Monthly Consolidated Remuneration (Basic + DA + Other Allowances – HRA, Conveyance, Mobile Network Allowance): || Annual increase of 4% on consolidated remuneration after every year (subject to satisfactory performance).",
-        "age_limit": "Maximum age as on 01/01/2026 (Age relaxation of 3 years for OBC-NCL): || Deputy General Manager/Accounts: 45 years || Assistant Account Officer: 35 years || Section Officer: 40 years || Account Assistant: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Candidates will be selected based on the following process: || Walk-in Interview || Preliminary screening of documents || Personal Interview || Note: Only provisionally eligible candidates after document verification will be interviewed.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.konkanrailway.com",
-        "official_notification": "https://konkanrailway.com/sites/default/files/2026-02/Account_2C.pdf"
-    },
-    {
-        "date": "24/02/2026",
-        "board": "KRCL",
         "title": "Trainee Apprentices (Graduate/Technician)",
         "qualification": "BE/BTech/Diploma in Relevant Engineering Branches or General Graduation (Passed 2021-2025)",
         "last_date": "21-03-2026",
@@ -254,21 +254,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iprcl.in",
         "official_notification": "https://www.iprcl.in/Site/vacancies"
-    },
-    {
-        "date": "18/02/2026",
-        "board": "IRCON",
-        "title": "Works Engineer",
-        "qualification": "B.E./B.Tech with minimum 60% marks, Minimum 1 year post-qualification experience",
-        "last_date": "13-03-2026",
-        "total_posts": "13",
-        "salary": "Rs. 36,000/- per month",
-        "age_limit": "Maximum Age limit:30 Years || Age Relaxation: As per Government of India guidelines subject to fulfillment of the requisite qualification & experience",
-        "application_fee": "Nil",
-        "selection_process": "Written Exam || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ircon.org/",
-        "official_notification": "https://ircon.org/sites/default/files/2026-02/Advt_C07_2026_Works_Engineer.pdf"
     }
 ]

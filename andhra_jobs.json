@@ -1,5 +1,21 @@
 [
     {
+        "date": "14/03/2026",
+        "board": "RRC Southern Central Railway",
+        "title": "Act Apprentice (various trades under Apprentices Act, 1961)",
+        "qualification": "10th class (10+2 system) with minimum 50% aggregate marks and ITI in relevant trade from NCVT/SCVT recognised institute",
+        "last_date": "11-04-2026",
+        "total_posts": "2801",
+        "salary": "Not Available",
+        "age_limit": "15 to 24 years as on 11.04.2026 (upper age relaxation for SC/ST/OBC-NCL/PwBD/Ex-Servicemen as per rules)",
+        "application_fee": "₹100 for UR/OBC/EWS males; No fee for SC/ST, female/Transgender and PwBD candidates",
+        "selection_process": "Merit List Basis:Selection for SCR Act Apprentice 2025-26 will be done purely on merit, by taking the average of percentage marks in 10th (minimum 50% aggregate) and ITI marks, giving equal weightage to both. || Tie-breaking:If two candidates have the same aggregate percentage, older candidate (higher age) will be preferred; if DOB is also same, the candidate who passed Matriculation earlier will be preferred. || Document Verification (DV):Shortlisted candidates will be called for DV where all original certificates (education, ITI, caste, EWS, PwBD, ExSM, RDAT registration, medical fitness) will be verified. || Medical Fitness:Candidates must produce medical fitness certificate from a government-authorised doctor (Gazetted, not below Asst. Surgeon) in prescribed format at DV; without this, they will not be considered. || Training & Stipend:Selected candidates will undergo apprenticeship training as per Central Apprenticeship Council syllabus and receive stipend at prescribed rates during training. || No Job Guarantee:SCR apprenticeship 2025-26 provides training only; there isno guarantee of regular railway jobafter completion of apprenticeship.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://scr.indianrailways.gov.in",
+        "official_notification": "https://203.153.33.92/ACTAPP25-26.pdf"
+    },
+    {
         "date": "13/03/2026",
         "board": "HBCH&RC Visakhapatnam",
         "title": "Technician (Transfusion Medicine)",
@@ -78,22 +94,6 @@
         "syllabus": "Not Available",
         "official_website": "https://eluru.ap.gov.in",
         "official_notification": "https://cdn.s3waas.gov.in/s3eccbc87e4b5ce2fe28308fd9f2a7baf3/uploads/2026/03/17731388481893.pdf"
-    },
-    {
-        "date": "11/03/2026",
-        "board": "HBCHRC Visakhapatnam",
-        "title": "Institutional Review Board (IRB) Administrator, Jr Trial Coordinator",
-        "qualification": "PG in Science or Degree/Diploma in Clinical Research for Administrator; Graduation in Science with PG diploma in Clinical Research for Coordinator.",
-        "last_date": "13-03-2026",
-        "total_posts": "2",
-        "salary": "Institutional Review Board (IRB) Administrator:Rs. 23,000/- to Rs. 60,000/- || Jr Trial Coordinator:Rs. 21,100/- to Rs. 54,000/-",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://tmc.gov.in",
-        "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=fymap8wXraLHRh4+kA85/w=="
     },
     {
         "date": "10/03/2026",
@@ -224,22 +224,6 @@
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec03b7ee0d0d4d5ef995aae0fc691e6d/uploads/2026/02/2026022549.pdf"
     },
     {
-        "date": "03/03/2026",
-        "board": "DWCW&EO Srikakulam",
-        "title": "Multipurpose Staff/Cook, Case Worker and Other",
-        "qualification": "Masters in Law/Social Work/Sociology/Social Science/Psychology, Professional degree/diploma in psychology/psychiatry/neurosciences, Degree in Law/legal training, Bachelor in Law/Social Work/Sociology/Social science/Psychology, Graduate with diploma in computers/IT, Professional degree/diploma in paramedics, Literate.",
-        "last_date": "13-03-2026",
-        "total_posts": "13",
-        "salary": "Central Administrator: Rs. 34,000/- Per Month || Psycho Social Counselor: Rs. 20,000/- Per Month || Para Legal Personnel/Lawyer: Rs. 20,000/- Per Month || Case Worker: Rs. 19,500/- Per Month || Office Assistant with Computer Knowledge: Rs. 19,000/- Per Month || Para Medical Personnel: Rs. 19,000/- Per Month || Security/Night Guard: Rs. 15,000/- Per Month || Multipurpose Staff/Cook: Rs. 13,000/- Per Month",
-        "age_limit": "Minimum Age: 25 years || Maximum Age: 42 years || Age relaxation will be provided as per government rules in force.",
-        "application_fee": "Nil",
-        "selection_process": "Shortlisting of qualified candidates || Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://srikakulam.ap.gov.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s3f899139df5e1059396431415e770c6dd/uploads/2026/03/17724517782222.pdf"
-    },
-    {
         "date": "02/03/2026",
         "board": "TTD",
         "title": "Professor, Associate Professor, Assistant Professor, Medical Officer, Resident Doctor",
@@ -286,38 +270,6 @@
         "syllabus": "Not Available",
         "official_website": "https://tirumala.org",
         "official_notification": "https://tirumala.org/Documents/466c6504-9e0a-4185-b97e-d9966c0f7713.pdf"
-    },
-    {
-        "date": "02/03/2026",
-        "board": "IIT Tirupati",
-        "title": "Chief Manager",
-        "qualification": "Ph.D in Engineering / Science / Humanities / Management with 7 years relevant experience (or) M.Tech / M.E with 10 years relevant experience (or) B.Tech / B.E / master's degree in science / Humanities / Management with 12 years relevant experience.",
-        "last_date": "13-03-2026",
-        "total_posts": "1",
-        "salary": "Rs. 1,20,000/- to Rs. 1,70,000/- Per Month (consolidated)",
-        "age_limit": "Maximum Age Limit: 65 years. || Age relaxation will be applicable as per the rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on qualifications and experience || Offline Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iittp.ac.in",
-        "official_notification": "https://files.iittp.ac.in/pdfs/announcements/2026/CSRC-Advt_IITTCSRC2025-26_39.pdf"
-    },
-    {
-        "date": "28/02/2026",
-        "board": "IIT Tirupati",
-        "title": "Project Manager",
-        "qualification": "UG degree in Engineering or non-engineering PG degree with minimum 60% marks and 2 years experience, or M.E./M.Tech in Engineering with minimum 60% marks",
-        "last_date": "13-03-2026",
-        "total_posts": "1",
-        "salary": "Rs. 50,000/- Per Month",
-        "age_limit": "Not more than 45 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iittp.ac.in/",
-        "official_notification": "https://files.iittp.ac.in/pdfs/announcements/2026/CSRC-Advt_IITTCSRC25-26_38.pdf"
     },
     {
         "date": "27/02/2026",

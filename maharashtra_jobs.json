@@ -1,5 +1,21 @@
 [
     {
+        "date": "14/03/2026",
+        "board": "RRC Southern Central Railway",
+        "title": "Act Apprentice (various trades under Apprentices Act, 1961)",
+        "qualification": "10th class (10+2 system) with minimum 50% aggregate marks and ITI in relevant trade from NCVT/SCVT recognised institute",
+        "last_date": "11-04-2026",
+        "total_posts": "2801",
+        "salary": "Not Available",
+        "age_limit": "15 to 24 years as on 11.04.2026 (upper age relaxation for SC/ST/OBC-NCL/PwBD/Ex-Servicemen as per rules)",
+        "application_fee": "₹100 for UR/OBC/EWS males; No fee for SC/ST, female/Transgender and PwBD candidates",
+        "selection_process": "Merit List Basis:Selection for SCR Act Apprentice 2025-26 will be done purely on merit, by taking the average of percentage marks in 10th (minimum 50% aggregate) and ITI marks, giving equal weightage to both. || Tie-breaking:If two candidates have the same aggregate percentage, older candidate (higher age) will be preferred; if DOB is also same, the candidate who passed Matriculation earlier will be preferred. || Document Verification (DV):Shortlisted candidates will be called for DV where all original certificates (education, ITI, caste, EWS, PwBD, ExSM, RDAT registration, medical fitness) will be verified. || Medical Fitness:Candidates must produce medical fitness certificate from a government-authorised doctor (Gazetted, not below Asst. Surgeon) in prescribed format at DV; without this, they will not be considered. || Training & Stipend:Selected candidates will undergo apprenticeship training as per Central Apprenticeship Council syllabus and receive stipend at prescribed rates during training. || No Job Guarantee:SCR apprenticeship 2025-26 provides training only; there isno guarantee of regular railway jobafter completion of apprenticeship.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://scr.indianrailways.gov.in",
+        "official_notification": "https://203.153.33.92/ACTAPP25-26.pdf"
+    },
+    {
         "date": "13/03/2026",
         "board": "ESIC",
         "title": "Medical Officer",
