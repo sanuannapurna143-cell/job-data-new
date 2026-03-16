@@ -1,5 +1,69 @@
 [
     {
+        "date": "16/03/2026",
+        "board": "NIELIT",
+        "title": "IT Resource Persons",
+        "qualification": "B.E./B.Tech/M.E./M.Tech in Computer Science & Engineering or equivalent from AICTE/UGC recognized institute.",
+        "last_date": "18-03-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 56036/- for Sr. Programmer and Rs. 31256/- for Assistant Programmer.",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Rs. 750/-",
+        "selection_process": "Document Verification || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nielit.gov.in/",
+        "official_notification": "https://www.nielit.gov.in/delhi/recruitments"
+    },
+    {
+        "date": "16/03/2026",
+        "board": "AIIMS Delhi",
+        "title": "Project Technical Support-II",
+        "qualification": "Diploma (MLT/DMLT/Engineering), Five years Experience in relevant subject/field",
+        "last_date": "27-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20,000 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/peadsurg-14-3-26.pdf"
+    },
+    {
+        "date": "16/03/2026",
+        "board": "NITRD",
+        "title": "Project Technical Support",
+        "qualification": "Any Graduate, DMLT",
+        "last_date": "25-03-2026",
+        "total_posts": "6",
+        "salary": "Rs. 28,000 + HRA, Rs. 20,000 + HRA, Rs. 18,000 + HRA",
+        "age_limit": "Project Technical Support - III: Maximum age 35 years || Project Technical Support - II (Project Assistant): Maximum age 30 years || Project Technical Support - I (Field Worker): Maximum age 28 years || Project Technical Support - I (Laboratory Technician): Maximum age 28 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://nitrd.nic.in/",
+        "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1773401382_walk-in-interview25-03-2026.pdf"
+    },
+    {
+        "date": "16/03/2026",
+        "board": "IIT Delhi",
+        "title": "Research Associate",
+        "qualification": "Ph.D. degree in Mechanical Engineering, Mechatronics, Applied Mechanics, Robotics, Electrical Engineering, or related disciplines with SCI-indexed publications OR M.Tech/MS/M.E in the above areas with minimum 3 years of research/teaching/design experience.",
+        "last_date": "27-03-2026",
+        "total_posts": "1",
+        "salary": "Consolidated pay-slab/Fellowship of Rs.58,000/- per month plus 27% HRA",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://home.iitd.ac.in/",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1773293874635_xsaa4w2.pdf"
+    },
+    {
         "date": "14/03/2026",
         "board": "IDBI Bank",
         "title": "Junior Assistant Manager (JAM) – Grade “O” (Regional)",
@@ -733,7 +797,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "Not Available"
+        "official_notification": "rrb-alp-recruitment-2026-cen-012026-notification-out-apply-online-for-11-127-posts-3041572"
     },
     {
         "date": "10/03/2026",

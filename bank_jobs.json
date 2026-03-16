@@ -1,5 +1,21 @@
 [
     {
+        "date": "16/03/2026",
+        "board": "RBI",
+        "title": "Medical Consultant (MC)",
+        "qualification": "MBBS, Post Graduate in General Medicine (preferred), 2 years post qualification experience",
+        "last_date": "27-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1000/- per hour",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rbi.org.in",
+        "official_notification": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4935"
+    },
+    {
         "date": "14/03/2026",
         "board": "IDBI Bank",
         "title": "Junior Assistant Manager (JAM) – Grade “O” (Regional)",
@@ -94,22 +110,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.idbi.bank.in",
         "official_notification": "https://www.idbi.bank.in/pdf/careers/Advertisement-Grade-A-2-year-exp-March072026.pdf"
-    },
-    {
-        "date": "11/03/2026",
-        "board": "SBI",
-        "title": "Assistant Vice President (IS Audit) - Contractual; Deputy Manager (IS Audit) - Regular; Deputy Manager (Chartered Accountant - Internal Audit) - Regular",
-        "qualification": "BE/BTech/BSc/MTech/MSc/MCA/BCA/CA in relevant disciplines",
-        "last_date": "15-03-2026",
-        "total_posts": "116",
-        "salary": "AVP (IS Audit): Up to ₹50 Lakhs CTC (85:15 Fixed:Variable). || DM (Regular): ₹64,820 - ₹93,960 (plus DA, HRA, PF, NPS, LFC, Medical, etc.). || Probation: 1 year for regular posts.",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on application/eligibility. || Interview (100 marks; qualifying marks decided by Bank). || For AVP: CTC Negotiation post-interview. || Merit list based on interview scores (age tie-breaker). || Document verification/medical test. || ✅ No written exam. Call letters via email only.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://sbi.co.in",
-        "official_notification": "https://sbi.bank.in/documents/77530/52947104/23022026_ADV+CRPD_SCO_2025-26_27_23022026.pdf/d205d3d0-ecc5-9cdc-9637-9f384d830cb0?t=1771825373224"
     },
     {
         "date": "10/03/2026",
@@ -257,22 +257,6 @@
     },
     {
         "date": "28/02/2026",
-        "board": "BOBCAPS",
-        "title": "Manager, AVP and More",
-        "qualification": "Any Graduate, 12TH, Any Post Graduate, CA, MBA/PGDM",
-        "last_date": "15-03-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.bobcaps.in/",
-        "official_notification": "Not Available"
-    },
-    {
-        "date": "28/02/2026",
         "board": "Central Bank of India",
         "title": "Central Bank of India Business Correspondent Supervisor",
         "qualification": "B.Tech/B.E, M.Sc, MBA/PGDM, MCA",
@@ -350,22 +334,6 @@
         "syllabus": "Not Available",
         "official_website": "https://sbi.bank.in/",
         "official_notification": "https://sbi.bank.in/documents/77530/52947104/23022026_ADV_CRPD_SCO_2025_26_26.pdf/e954c11c-7135-d23f-41de-82576964151c?t=1771851218485"
-    },
-    {
-        "date": "21/02/2026",
-        "board": "NABARD",
-        "title": "Bank's Medical Officer (BMO)",
-        "qualification": "MBBS Degree (Allopathic) / Post-graduate in General Medicine",
-        "last_date": "15-03-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 1000/- per hour for the first three years of contractual service || Rs. 1200/- per hour on completion of three years of contractual service || Reimbursement of mobile charges @ Rs. 1000/- per month",
-        "age_limit": "Maximum Age Limit: 70 years",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Interview || Medical tests / Medical Fitness Certificate",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nabard.org/",
-        "official_notification": "https://www.nabard.org/Content/Career_Notices/BMO%20consolidated%20ad%20for%20website-NABARD%20Karnataka%20RO.pdf?csrt=7554958759423797955"
     },
     {
         "date": "24/12/2025",
