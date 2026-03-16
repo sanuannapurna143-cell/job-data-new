@@ -1,22 +1,6 @@
 [
     {
         "date": "16/03/2026",
-        "board": "ACTREC",
-        "title": "Physician Assistant",
-        "qualification": "Degree of MBBS / BAMS / BHMS / BUMS / BDS or equivalent",
-        "last_date": "23-03-2026",
-        "total_posts": "Not Mentioned",
-        "salary": "Rs. 80,000/- p.m.",
-        "age_limit": "Up to 40 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://actrec.gov.in",
-        "official_notification": "https://actrec.gov.in/sites/default/files/2026-03/Advertisement%20%2819%29.pdf"
-    },
-    {
-        "date": "16/03/2026",
         "board": "RRB",
         "title": "Assistant Loco Pilot (ALP)",
         "qualification": "As per Detailed CEN No. 01/2026 (Post-wise Education Qualification & Medical Standard)",
@@ -30,6 +14,38 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rrbapply.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/03/852369-69b788a99f4b248509882.pdf"
+    },
+    {
+        "date": "16/03/2026",
+        "board": "District General Hospital Raigad",
+        "title": "Medical Coordinator, Dialysis Technician",
+        "qualification": "BAMS/BUMS/BHMS, HSC (10+2) with Science and a Diploma/Degree in Dialysis Technology",
+        "last_date": "31-03-2026",
+        "total_posts": "10",
+        "salary": "₹28,000/- to ₹17,000/-",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 38 years || Age Relaxation: 43 years for reserved categories",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.raigad.gov.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s344c4c17332cace2124a1a836d9fc4b6f/uploads/2026/03/17736478818243.pdf"
+    },
+    {
+        "date": "16/03/2026",
+        "board": "ACTREC",
+        "title": "Physician Assistant",
+        "qualification": "Degree of MBBS / BAMS / BHMS / BUMS / BDS or equivalent",
+        "last_date": "23-03-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Rs. 80,000/- p.m.",
+        "age_limit": "Up to 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://actrec.gov.in",
+        "official_notification": "https://actrec.gov.in/sites/default/files/2026-03/Advertisement%20%2819%29.pdf"
     },
     {
         "date": "16/03/2026",
@@ -1210,7 +1226,7 @@
         "age_limit": "Upper age limit is 60 years as on date of Advertisement. || Continuation will be applicable up to 62 years for contractual service.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://kolhapur.gov.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s33d2d8ccb37df977cb6d9da15b76c3f3a/uploads/2026/02/17720029606380.pdf"
@@ -1306,7 +1322,7 @@
         "age_limit": "Maximum Age:23 years || Age Relaxation: SC/ST: +5 years; OBC (Non-Creamy Layer): +3 years || Age relaxation is applicable as per rules.",
         "application_fee": "Not Available",
         "selection_process": "Shortlisting based on percentage of marks in qualifying exam || Merit List || No Interview",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iprcl.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/02/221296-69992da34c96320630033.pdf"
@@ -1370,7 +1386,7 @@
         "age_limit": "Maximum Age Limit: 32 years",
         "application_fee": "Nil",
         "selection_process": "Shortlisting of applications based on eligibility || Written Test / Interview / Personal Discussion",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://seepz.gov.in/",
         "official_notification": "https://seepz.gov.in/uploads/177143939469960522c2aae_YP%20Hindi.pdf"
@@ -1402,7 +1418,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://tifr.res.in",
         "official_notification": "https://www.tifr.res.in/maincampus/viewNoticeFile.php?f=ejUrZ0VrcXNIa0N3NnlLeHZBeGVkdz09&s=WFdXaTkwL1ZDTGdxaHp6eHA1bkh1QT09"
@@ -1418,7 +1434,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bobcaps.in",
         "official_notification": "https://www.bobcaps.in/media/ywlcvuyl/jd-avp-ib-equity.pdf"
@@ -1450,7 +1466,7 @@
         "age_limit": "SIDBI SVCL Recruitment 2025 Age Limit  Refer Official Notification",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://sidbi.in",
         "official_notification": "https://www.sidbi.in/head/uploads/career_document/Recruitment-for-the-post-of-Company-Secretary-cum-Compliance-Officer.pdf"
@@ -1466,7 +1482,7 @@
         "age_limit": "SIDBI SVCL Recruitment 2025 Age Limit  Not Mentioned",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://sidbi.in",
         "official_notification": "https://www.sidbi.in/en/careers/careerdetails/Appointment_of_Senior_Vice_President_Vice_President_Investment_Principal_Senior_Investment_Associate_Investment_Associate_Investment_Analyst_29_05_2025"
@@ -1482,7 +1498,7 @@
         "age_limit": "SIDBI SVCL Recruitment 2025 Age Limit  Not Mentioned",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://sidbi.in",
         "official_notification": "https://www.sidbi.in/head/uploads/career_document/Recruitment-for-the-post-of-Legal-Officer-29-05-2025.pdf"
