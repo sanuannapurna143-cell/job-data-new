@@ -1,6 +1,38 @@
 [
     {
         "date": "16/03/2026",
+        "board": "IOCL",
+        "title": "Trade Apprentice / Technician Apprentice (Attendant Operator, Boiler, Chemical, Mechanical, Instrumentation)",
+        "qualification": "3 years B.Sc or 3 years Diploma in relevant discipline (50% marks – 45% for SC/ST/PwBD)",
+        "last_date": "22-03-2026",
+        "total_posts": "109 (69 at Bongaigaon + 40 at Guwahati)",
+        "salary": "Not Available",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 24 years (as on 28.02.2026) || Relaxation: 5 years (SC/ST), 3 years (OBC-NCL), 10 years (PwBD) + additional for SC/ST/OBC PwBD",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online (NAPS/NATS Portal + Microsoft Form)",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iocl.com",
+        "official_notification": "https://iocl.com/admin/img/Apprenticeships/Files/eb0d1a7f7b2446c783b9007fd06794cd.pdf"
+    },
+    {
+        "date": "16/03/2026",
+        "board": "DDMA Kamrup",
+        "title": "Field Officer (Disaster Management)",
+        "qualification": "Bachelor's degree in Science or with Statistics, Geography, Environmental Science or Geology as a subject or diploma in Civil Engineering or Architecture from a recognized University / Institution with minimum 60% marks in Graduation., Proficiency in basic computer application like MS windows, Linux, MAC, EXCEL, Power Point, DTP (English/Assamese), spreadsheet, presentation of graphics, concept of database, word processor, internet processing, email etc., Minimum 6 months diploma /certificate in computer application from an institute recognized by the Govt., Preference: BCA or equivalent course on Computer Science.",
+        "last_date": "27-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 28500 Per Month",
+        "age_limit": "Min: 21 years, Max: 35 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://kamrup.assam.gov.in",
+        "official_notification": "https://kamrup.assam.gov.in/sites/default/files/public_utility/Advertisement%20FO%2C%20DDMA.pdf"
+    },
+    {
+        "date": "16/03/2026",
         "board": "EAMUL",
         "title": "Assistant (Finance & Accounts)",
         "qualification": "Full time B.Com",

@@ -1,6 +1,22 @@
 [
     {
         "date": "16/03/2026",
+        "board": "MANUU",
+        "title": "Guest Faculty",
+        "qualification": "Master’s degree with 55% marks (or equivalent grade) in a concerned/relevant/allied subject, Clearance of National Eligibility Test (NET) conducted by UGC/CSIR or similar test accredited by UGC like SLET/SET or Ph.D. as per UGC Regulations 2009/2016, Knowledge of Urdu as per University Act, Desirable: M.Sc. in Chemistry with specialization in Inorganic Chemistry / Physical Chemistry",
+        "last_date": "02-04-2026",
+        "total_posts": "2",
+        "salary": "₹50,000/- per month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://manuu.edu.in",
+        "official_notification": "https://manuu.edu.in/sites/default/files/Notification/2026-03/Walk-in-Notification-Chemistry-1132026.pdf"
+    },
+    {
+        "date": "16/03/2026",
         "board": "GMC Kumurambheem Asifabad",
         "title": "Teaching Faculty",
         "qualification": "DNB, MS/ MD",
