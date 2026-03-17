@@ -1,6 +1,38 @@
 [
     {
         "date": "17/03/2026",
+        "board": "HSSC",
+        "title": "Post Name",
+        "qualification": "B.Sc (Hons) Nursing or B.Sc (Post Basic) Nursing or Diploma in General Nursing with Midwife training",
+        "last_date": "19-03-2026",
+        "total_posts": "4441",
+        "salary": "Not Available",
+        "age_limit": "Minimum Age: 18 Years || Maximum Age: 42 Years (as on closing date) || SC/ST: 5 Years Relaxation || BC (BCA/BCB): 5 Years Relaxation || PwBD: Up to 10 Years Relaxation || Ex-Servicemen: As per rules",
+        "application_fee": "No fee for any category",
+        "selection_process": "CET Phase-I Qualification (Minimum 50% for General, 40% for Reserved) || Online Application for Skill and/or Written Examination || Skill and/or Written Examination || 10 times candidates of total posts will be called for examination || Final Merit List based on Skill/Written Examination marks || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Written Exam General Awareness (20%), Computer Knowledge (10%), Subject Related Syllabus (70%) Objective (MCQs) 100 Marks 1 Hour 45 Minutes",
+        "official_website": "http://www.hssc.gov.in/",
+        "official_notification": "https://hssc.gov.in/file/ac1f23cd-99c4-13a6-819c-f737d99a0068/advertisements"
+    },
+    {
+        "date": "17/03/2026",
+        "board": "HLL",
+        "title": "Pharmacist",
+        "qualification": "D.Pharm / B.Pharm",
+        "last_date": "18-03-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Not Available",
+        "age_limit": "Maximum age limit is 37 years for all posts. || Age relaxation for SC/ST/OBC/PwD candidates will be as per Government of India directives.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Written test || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.lifecarehll.com/",
+        "official_notification": "https://www.lifecarehll.com/careers"
+    },
+    {
+        "date": "17/03/2026",
         "board": "Boxing Federation of India",
         "title": "Support Staff",
         "qualification": "Varies by post, from MBBS and postgraduate degrees in Sports Medicine to Bachelor's degrees and specific certifications.",
@@ -221,7 +253,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "Not Available"
+        "official_notification": "hssc-cet-phase-ii-group-c-recruitment-2026-notification-out-3036733"
     },
     {
         "date": "10/03/2026",

@@ -1,6 +1,38 @@
 [
     {
         "date": "17/03/2026",
+        "board": "AIIMS Gorakhpur",
+        "title": "Project Technical Support II, Project Technician I",
+        "qualification": "Any Graduate, Diploma, DMLT, MLT",
+        "last_date": "25-03-2026",
+        "total_posts": "3",
+        "salary": "Rs. 20,000 + HRA per month, Rs. 18,000 + HRA per month",
+        "age_limit": "Project Technical Support II:Maximum age limit is 30 years. || Project Technician I:Maximum age limit is 28 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsgorakhpur.edu.in",
+        "official_notification": "https://aiimsgorakhpur.edu.in/wp-content/uploads/2026/03/Advertisement-ICMR-2026.pdf"
+    },
+    {
+        "date": "17/03/2026",
+        "board": "Family Court Chitrakoot",
+        "title": "Counselor",
+        "qualification": "Graduate in Sociology or Psychology with social service experience. Preference: Master's in Social Work + 2 years family counseling experience.",
+        "last_date": "29-03-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Rs. 1,000/- per working day or Rs. 24,000/- per month, whichever is less",
+        "age_limit": "Minimum Age: 35 years || Maximum Age: 65 years",
+        "application_fee": "Nil",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://chitrakoot.dcourts.gov.in",
+        "official_notification": "https://www.allahabadhighcourt.in/event/event_25018_16-03-2026.pdf"
+    },
+    {
+        "date": "17/03/2026",
         "board": "Family Court Sant Kabir Nagar",
         "title": "Counsellor",
         "qualification": "Graduate in Sociology or Psychology, Experience in social service, Preference: Master's in Social Work and 2 years in family counseling",
@@ -397,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "Not Available"
+        "official_notification": "npcil-apprentices-recruitment-2026-apply-offline-for-337-posts-3041833"
     },
     {
         "date": "11/03/2026",
