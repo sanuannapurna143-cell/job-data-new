@@ -1,6 +1,54 @@
 [
     {
         "date": "17/03/2026",
+        "board": "NPCIL",
+        "title": "Trade Apprentice, Technician Apprentice & Graduate Apprentice",
+        "qualification": "Any Graduate, Diploma, ITI",
+        "last_date": "06-04-2026",
+        "total_posts": "337",
+        "salary": "Selected candidates will receive the following monthly stipend: || Trade Apprentice: ₹10,560 (1-year ITI) / ₹11,040 (2-year ITI) || Technician Apprentice: ₹10,900 || Graduate Apprentice: ₹12,300",
+        "age_limit": "Trade Apprentice: Minimum 18 years & maximum 24 years || Technician Apprentice: Minimum 18 years & maximum 25 years || Graduate Apprentice: Minimum 18 years & maximum 26 years (as on 06/04/2026)",
+        "application_fee": "Not Available",
+        "selection_process": "The NPCIL Kakrapar Apprentice Selection Process 2026 is merit-based: || Preference to candidates from neighbouring villages (within 16 km radius) || Merit list prepared on the basis of marks obtained in ITI/Diploma/Graduation || Tie-breaker: Date of Birth (earlier born higher), then Matriculation marks || Document Verification + Medical Fitness Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.npcil.nic.in/",
+        "official_notification": "https://www.npcil.nic.in/WriteReadData/userfiles/file/Advt_17032026_01.pdf"
+    },
+    {
+        "date": "17/03/2026",
+        "board": "IIM Ahmedabad",
+        "title": "Research Associate (Post-Doctoral)",
+        "qualification": "PhD in Operations Research, Management Science, Industrial Engineering, Computer Science/Engineering, Applied Mathematics, or closely related fields. Strong background in probability theory and statistics. Solid foundation in linear programming and linear algebra. Strong expertise in Python and good familiarity with C#. Experience with mathematical optimization modeling tools and commercial solvers.",
+        "last_date": "30-03-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iima.ac.in",
+        "official_notification": "https://www.iima.ac.in/sites/default/files/2026-03/Research%20Associate%20%28Post-Doctoral%29-CDSA.pdf"
+    },
+    {
+        "date": "17/03/2026",
+        "board": "IIM Ahmedabad",
+        "title": "Centre Research Fellow",
+        "qualification": "Remuneration will be commensurate with qualifications and experience, in accordance with the norms of IIM Ahmedabad.",
+        "last_date": "06-04-2026",
+        "total_posts": "2",
+        "salary": "Remuneration will be commensurate with qualifications and experience, in accordance with the norms of IIM Ahmedabad.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iima.ac.in",
+        "official_notification": "https://www.iima.ac.in/sites/default/files/2026-03/CRF%20-%20MCFME%20Feb%202026.pdf"
+    },
+    {
+        "date": "17/03/2026",
         "board": "RRB",
         "title": "Assistant Loco Pilot (ALP)",
         "qualification": "As per Detailed CEN No. 01/2026 (Post-wise Education Qualification & Medical Standard)",
@@ -269,7 +317,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "secl-apprentice-recruitment-2026-apply-online-for-1600-posts-3041817"
+        "official_notification": "nabfid-officers-senior-analyst-recruitment-2026-apply-online-for-29-posts-3041856"
     },
     {
         "date": "09/03/2026",
@@ -637,6 +685,6 @@
         "apply_mode": "Offline",
         "syllabus": "Not Available",
         "official_website": "https://ssbalachadi.org/",
-        "official_notification": "secl-apprentice-recruitment-2026-apply-online-for-1600-posts-3041817"
+        "official_notification": "nabfid-officers-senior-analyst-recruitment-2026-apply-online-for-29-posts-3041856"
     }
 ]

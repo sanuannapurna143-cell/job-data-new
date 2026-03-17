@@ -1,6 +1,38 @@
 [
     {
         "date": "17/03/2026",
+        "board": "ECHS",
+        "title": "Contractual Staff",
+        "qualification": "B Pharm, Diploma Holder in Dental Hyg, Graduate, Class 8 Pass",
+        "last_date": "05-04-2026",
+        "total_posts": "4",
+        "salary": "Pharmacist: Rs. 36500/- Per Month || Dental A/T/H: Rs. 36500/- Per Month || Clerk: Rs. 29200/- Per Month || Peon: Rs. 21800/- Per Month",
+        "age_limit": "All Posts: Please refer to the official notification for specific age limits and relaxation details.",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "www.echs.gov.in",
+        "official_notification": "https://www.echs.gov.in/assets/advertisement/Pune%20bhushawal%20advt%20jpeg.pdf"
+    },
+    {
+        "date": "17/03/2026",
+        "board": "NaBFID",
+        "title": "Senior Analyst",
+        "qualification": "BE/B.Tech/MCA/M.Tech (CS/IT/AI) with PMP/BPM/Agile cert. or MBA with CS graduation",
+        "last_date": "08-04-2026",
+        "total_posts": "29",
+        "salary": "For Regular Basis positions, the annual fixed compensation for Senior Analyst grade is approximately ₹24.81 lakh. In addition, variable pay (performance bonus) of up to 20% on fixed compensation may be paid based on performance, as decided by the Bank from time to time. Compensation may be revised at suitable intervals as approved by the Board. Group Insurance (Medical, Accidental & Term Life) will be provided over and above the compensation. || For Contract Basis positions, remuneration will be offered based on qualification, experience, suitability, last drawn salary and market benchmark and shall not be a limiting factor for suitable candidates. The Fixed Term engagement will be for a minimum of 5 years, which may be renewed at NaBFID's discretion.",
+        "age_limit": "Minimum age: 21 years | Maximum age: 40 years. Candidates must have been born not earlier than 01.03.1986 and not later than 28.02.2005.",
+        "application_fee": "Fee is non-refundable. Payment can be made through Debit Cards (RuPay/Visa/MasterCard/Maestro), Credit Cards, Internet Banking, IMPS, Mobile Wallets, or UPI. Bank transaction charges and GST are to be borne by the candidate.",
+        "selection_process": "The selection process differs for Regular and Contract basis appointments as follows. || Regular Basis: The selection process comprises an Online Examination followed by a Personal Interview. If fewer applications are received for any stream, the Bank may change the process to Shortlisting-cum-Interview. The online exam consists of 50 objective-type questions (Professional Knowledge) carrying 100 marks to be completed in 60 minutes. There is a negative marking of ¼ mark for each wrong answer. Minimum qualifying marks are 40% for UR/EWS and 35% for SC/ST/OBC/PwBD candidates. Final selection is based on Online Exam (70% weightage) and Interview (30% weightage). || Contract Basis: The selection process is Shortlisting-cum-Interview. If a large number of applications are received, the Bank may conduct an Online Exam. A Psychometric Test and Group Discussion may also be conducted as additional assessment tools. Interviews will be held at Mumbai only.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nabfid.org/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/03/1574257-69b8da188872674495028.pdf"
+    },
+    {
+        "date": "17/03/2026",
         "board": "RRB",
         "title": "Assistant Loco Pilot (ALP)",
         "qualification": "As per Detailed CEN No. 01/2026 (Post-wise Education Qualification & Medical Standard)",
