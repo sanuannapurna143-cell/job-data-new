@@ -353,22 +353,6 @@
     },
     {
         "date": "17/03/2026",
-        "board": "HLL",
-        "title": "Pharmacist",
-        "qualification": "D.Pharm / B.Pharm",
-        "last_date": "18-03-2026",
-        "total_posts": "Not Mentioned",
-        "salary": "Not Available",
-        "age_limit": "Maximum age limit is 37 years for all posts. || Age relaxation for SC/ST/OBC/PwD candidates will be as per Government of India directives.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Written test || Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.lifecarehll.com/",
-        "official_notification": "https://www.lifecarehll.com/careers"
-    },
-    {
-        "date": "17/03/2026",
         "board": "IIT Delhi",
         "title": "Project Manager",
         "qualification": "Post Graduate degree from a recognised University, Diploma.",
@@ -465,22 +449,6 @@
     },
     {
         "date": "16/03/2026",
-        "board": "GGSGH",
-        "title": "Junior Resident (MBBS)",
-        "qualification": "MBBS Degree",
-        "last_date": "18-03-2026",
-        "total_posts": "2",
-        "salary": "Please refer to the official notification for salary details.",
-        "age_limit": "Maximum Age: 30 years || Relaxation admissible for PWD as per Govt. of India Rules.",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://ggsgh.delhi.gov.in",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wggsg_50.pdf"
-    },
-    {
-        "date": "16/03/2026",
         "board": "JMI",
         "title": "Consultant (Software Engineer)",
         "qualification": "B.Tech. / B.E. in Computer Engineering / Computer Science Technology with at least 10 Years of overall software development experience.",
@@ -558,22 +526,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aiims.edu",
         "official_notification": "http://aiims.edu/images/pdf/recruitment/advertisement/irch-14-3-26.pdf"
-    },
-    {
-        "date": "16/03/2026",
-        "board": "NIELIT",
-        "title": "IT Resource Persons",
-        "qualification": "B.E./B.Tech/M.E./M.Tech in Computer Science & Engineering or equivalent from AICTE/UGC recognized institute.",
-        "last_date": "18-03-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 56036/- for Sr. Programmer and Rs. 31256/- for Assistant Programmer.",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Rs. 750/-",
-        "selection_process": "Document Verification || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nielit.gov.in/",
-        "official_notification": "https://www.nielit.gov.in/delhi/recruitments"
     },
     {
         "date": "16/03/2026",
@@ -689,22 +641,6 @@
     },
     {
         "date": "14/03/2026",
-        "board": "NISD",
-        "title": "Consultant (Accounts)",
-        "qualification": "Graduate in Commerce",
-        "last_date": "18-03-2026",
-        "total_posts": "2",
-        "salary": "Consolidated Rs.50,000/- per month (for candidates with 3-5 years of experience). || Consolidated Rs.60,000/- per month (for candidates with more than 5 years of experience). || For Retired persons: Salary will be as per DoPT Norms.",
-        "age_limit": "Not more than 45 years (for Private Sector candidates). || Not more than 62 years (for Retired Government Officials).",
-        "application_fee": "Nil",
-        "selection_process": "Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.nisd.gov.in",
-        "official_notification": "https://www.nisd.gov.in/advertisement/Signed_Advertisement.pdf"
-    },
-    {
-        "date": "14/03/2026",
         "board": "IIT Delhi",
         "title": "Group",
         "qualification": "Any Bachelors Degree, B.Tech/ B.E, MBBS, Diploma, Any Masters Degree, M.E/ M.Tech, MS/ MD, MSW",
@@ -718,38 +654,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iitd.ac.in",
         "official_notification": "https://home.iitd.ac.in/jobs-iitd/uploads/Advt.%20No.%20E.II.%2001.2026(DR)%20dated%2026.02.2026.pdf"
-    },
-    {
-        "date": "14/03/2026",
-        "board": "Bhagwan Mahavir Hospital Delhi",
-        "title": "Senior Resident",
-        "qualification": "MBBS Degree from MCI recognized university.",
-        "last_date": "18-03-2026",
-        "total_posts": "1",
-        "salary": "Rs. 67,700/- Per Month",
-        "age_limit": "Maximum Age: 45 years || Age Relaxation: 50 years for SC/ST and 48 years for OBC (Delhi) Candidates",
-        "application_fee": "Nil",
-        "selection_process": "Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://bmh.delhi.gov.in",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wbmh_17.pdf"
-    },
-    {
-        "date": "14/03/2026",
-        "board": "DDUH",
-        "title": "Senior Resident",
-        "qualification": "MBBS Degree and Mark sheets, Post Graduate Degree (MS/DNB) in General Surgery, Mark sheets and Certificate, Valid DMC Registration for MBBS and PG",
-        "last_date": "18-03-2026",
-        "total_posts": "3",
-        "salary": "Rs. 67700 - 208700 Per Month",
-        "age_limit": "Maximum Age: 45 years || Age Relaxation: SC/ST: 05 years, OBC (Non Creamy Layer Delhi): 03 years",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Document Verification || Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://health.delhigovt.nic.in/",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wddu_14.pdf"
     },
     {
         "date": "13/03/2026",
@@ -961,22 +865,6 @@
     },
     {
         "date": "12/03/2026",
-        "board": "Ambedkar Nagar Hospital",
-        "title": "Junior Resident",
-        "qualification": "MBBS Degree recognized by MCI, Registered with Delhi Medical Council and have not completed one year Junior Residency. Internship completed beyond/more than two years from the date of Advertisement are not eligible.",
-        "last_date": "18-03-2026",
-        "total_posts": "1",
-        "salary": "Basic pay in level - 10 as per 7th Pay Commission",
-        "age_limit": "Junior Resident (MBBS):Maximum age limit is 30 years. || Age Relaxation:SC/ST: 35 yearsOBC: 33 yearsPersons with disabilities: 10 years || SC/ST: 35 years || OBC: 33 years || Persons with disabilities: 10 years",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://anh.delhi.gov.in",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wanhj_2.pdf"
-    },
-    {
-        "date": "12/03/2026",
         "board": "EIL",
         "title": "Junior Secretary",
         "qualification": "Graduate Degree (non-Fine Arts, 60%+), English Shorthand 90 wpm, Typing 40 wpm, Computer Applications/MS Office Certificate (3+ months)",
@@ -1006,22 +894,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.health.delhigovt.nic.in",
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wncj_8.pdf"
-    },
-    {
-        "date": "12/03/2026",
-        "board": "SRHC Hospital",
-        "title": "Junior Resident (MBBS)",
-        "qualification": "MBBS, Medical Council Registration, Compulsory Rotating Internship",
-        "last_date": "18-03-2026",
-        "total_posts": "4",
-        "salary": "Pay Matrix of Level-10 (Rs. 56100-177500) + NPA + Usual allowances as admissible.",
-        "age_limit": "Maximum Age Limit: 30 years. || Age Relaxation: 35 years for SC/ST, 33 years for OBC.",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://srhch.delhi.gov.in",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsrhc_22.pdf"
     },
     {
         "date": "11/03/2026",
@@ -1118,22 +990,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iari.res.in",
         "official_notification": "https://iari.res.in/files/jobs/Project_Assistant_09032026.pdf"
-    },
-    {
-        "date": "11/03/2026",
-        "board": "IIT Delhi",
-        "title": "Senior Project Scientist",
-        "qualification": "M.E/ M.Tech, M.Phil/ Ph.D",
-        "last_date": "18-03-2026",
-        "total_posts": "2",
-        "salary": "Rs. 60,750 - 79,260/- p.m. Plus HRA @27% Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://ird.iitd.ac.in/rec",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1773037908445_q667hs1.pdf"
     },
     {
         "date": "10/03/2026",
@@ -1470,22 +1326,6 @@
         "syllabus": "Not Available",
         "official_website": "https://dsssb.delhi.gov.in",
         "official_notification": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_02-2026.pdf"
-    },
-    {
-        "date": "04/03/2026",
-        "board": "ICAR IARI",
-        "title": "Young Professional-II",
-        "qualification": "M.Sc. in Soil Sciences, Agronomy, or Environmental Sciences.",
-        "last_date": "18-03-2026",
-        "total_posts": "1",
-        "salary": "Young Professional-II: Rs. 42,000/- per month (Consolidated)",
-        "age_limit": "Maximum age: 45 years as on 01.01.2026. Age relaxations will be applicable as per government rules.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Walk-in-Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://iari.res.in/",
-        "official_notification": "https://iari.res.in/files/jobs/Advertisement-YP-II_WTC_20022026.pdf"
     },
     {
         "date": "04/03/2026",
@@ -1984,22 +1824,6 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/02/741296-69992da34c96366558656.pdf"
     },
     {
-        "date": "20/02/2026",
-        "board": "GAIL",
-        "title": "Executive Trainee",
-        "qualification": "Bachelor Degree in Engineering",
-        "last_date": "18-03-2026",
-        "total_posts": "70",
-        "salary": "Rs. 60,000 - 1,80,000/- per month",
-        "age_limit": "Maximum Age:26 years as on 18-03-2026. || SC/ST Relaxation:5 years || OBC(NCL) Relaxation:3 years || PwBD (General/EWS) Relaxation:10 years || PwBD (OBC) Relaxation:13 years || PwBD (SC/ST) Relaxation:15 years || Ex-servicemen:Service period deduction (maximum 3 years above upper limit). || Maximum Age Cap:56 years including all relaxations.",
-        "application_fee": "Nil",
-        "selection_process": "Shortlisting of candidates based on GATE-2026 marks in the relevant discipline. || Group Discussion and/or Personal Interview for shortlisted candidates. || Alternative assessment (Case Study/Writing exercise) for specific PwBD categories where GD is not conducted. || Minimum qualifying marks in Interview: 60% for UR/OBC/EWS, 55% for SC/ST, and 50% for PwBD. || Medical fitness examination at Central/State Government Hospital or GAIL empanelled hospital. || Selected candidates will undergo a one-year Training cum Probation period.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://gailonline.com",
-        "official_notification": "https://gailonline.com/careers/currentOpnning/GATE2026Advertisement20022026.pdf"
-    },
-    {
         "date": "17/02/2026",
         "board": "NHIDCL",
         "title": "Deputy Manager (Finance & Accounts)",
@@ -2030,21 +1854,5 @@
         "syllabus": "Not Available",
         "official_website": "https://niti.gov.in",
         "official_notification": "https://www.niti.gov.in/sites/default/files/2026-01/NITI%20Aayogs%20circular%20dated%2029.01.2026.pdf"
-    },
-    {
-        "date": "03/10/2025",
-        "board": "GAIL",
-        "title": "Executive Trainee",
-        "qualification": "B.Tech/ B.E",
-        "last_date": "18-03-2026",
-        "total_posts": "Not Mentioned",
-        "salary": "Rs 60,000- 180,000",
-        "age_limit": "The upper Age Limit is 26 years as on 18.03.2026 for the posts of Executive Trainee in all disciplines. || Age relaxation is applicable as per rules. || Maximum upper age of the applicant shall not exceed 56 years including all possible age relaxations.",
-        "application_fee": "Not Available",
-        "selection_process": "GAIL will be utilizing Graduate Aptitude Test in Engineering - 2026 Marks (GATE-2026 Marks) for recruitment of Executive Trainees in the above-mentioned disciplines during the year 2026. || Eligible candidates who wish to apply for the position of Executive Trainees in GAIL will be required to first register for GATE-2026 and thereafter, appear in GATE-2026 as per instructions and timelines notified by GATE-2026 Organizing Institute in one of the following relevant GATE Examination Papers. || Based on the GATE-2026 marks and requirement, candidates will be short- listed for further selection process for the position of Executive Trainee in the above disciplines. Please note that only GATE-2026 marks are valid for this recruitment exercise. GATE marks of 2025 or prior to that is not valid.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://gailonline.com",
-        "official_notification": "https://www.gailonline.com/careers/currentOpnning/DETAILED_ADVT_GATE_2026_Eng_300925.pdf"
     }
 ]
