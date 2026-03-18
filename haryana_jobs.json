@@ -1,6 +1,22 @@
 [
     {
         "date": "18/03/2026",
+        "board": "FMDA",
+        "title": "Various Experts",
+        "qualification": "B.E./B.Tech in Civil Engineering, B.Sc. (Horticulture), Graduate/Post Graduate in Remote Sensing/GIS/Geo-informatics, Graduate in Architecture, Graduate in Civil Engineering, Bachelor's/Master's/PHD in Computer Science/IT/Data Science/AI-ML/Geoinformatics, Post Graduate in Urban Planning, Post Graduate in Transport/Highway Engineering, Post Graduate in Computer Science/IT",
+        "last_date": "31-03-2026",
+        "total_posts": "24",
+        "salary": "Rs. 60,000/- - Rs. 1,20,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 40 years for all posts. || Age relaxation rules will be as per government norms.",
+        "application_fee": "Rs. 590/- (Rs. 500/- + 18% GST)",
+        "selection_process": "Merit-cum-Interview || Computer-based Screening Test (if large number of applications) || Document Verification (Experience via UAN, original documents)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://fmda.haryana.gov.in/",
+        "official_notification": "https://fmda.haryana.gov.in/getcareer.html?fid=40408531-9d4b-4d4d-b7c4-0039c8bb4540&language=en"
+    },
+    {
+        "date": "18/03/2026",
         "board": "THSTI",
         "title": "Research Scientist, Junior Research Scientist, Data Scientist",
         "qualification": "Any Graduate, B.Tech/ B.E, M.Phil/ Ph.D, M.Sc, MBBS, MPH",
@@ -29,7 +45,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "Not Available"
+        "official_notification": "rrb-alp-recruitment-2026-cen-012026-notification-out-apply-online-for-11-127-posts-3041572"
     },
     {
         "date": "18/03/2026",

@@ -17,6 +17,22 @@
     },
     {
         "date": "18/03/2026",
+        "board": "SIMCO",
+        "title": "AYUSH Doctors",
+        "qualification": "BSMS, BAMS, BHMS, BNYS",
+        "last_date": "31-03-2026",
+        "total_posts": "48",
+        "salary": "Rs. 15800 - 34000",
+        "age_limit": "Minimum Age: 22 years || Maximum Age: 40 years || Age Relaxation: As per M.S.C.S Act & SIMCO rules and regulations",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.simcoagri.com/",
+        "official_notification": "https://simcoagri.com/image/main-slider/home-1/simco-ayush-notification-2026.pdf"
+    },
+    {
+        "date": "18/03/2026",
         "board": "IIT Madras",
         "title": "Database Specialist / Database Administrator",
         "qualification": "B.E / B.Tech / MCA / M.Sc",

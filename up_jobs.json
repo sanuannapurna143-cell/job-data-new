@@ -1,6 +1,38 @@
 [
     {
         "date": "18/03/2026",
+        "board": "NHM Banda",
+        "title": "Medical Officer",
+        "qualification": "MBBS Degree, MCI Registration, BAMS/BHMS/BUMS",
+        "last_date": "05-04-2026",
+        "total_posts": "17",
+        "salary": "Medical Officer (Bal Swasthya Programme - SNCU, District Women Hospital Banda): Rs. 100000/- per month || Medical Officer (Telemedicine - Sunny Deurgawati Medical College, Banda): Rs. 100000/- per month || Medical Officer (NUHM PM-BHM/NHM - Urban PHCs/Urban Ayushman Arogya Mandir Banda, Atarra, Disanda & Baberu): Rs. 80000/- Basic + Rs. 20000/- Performance Based Incentives || General Physician (NPCDCS CS - District Hospital Banda / CHC Janpura): Rs. 100000/- per month || EMO (DHS Strepto - District Women Hospital Banda): Rs. 100000/- per month || Ayush Medical Officer (Only Male) (Main Strepto Ayush - PHC Simoni, Block Baberu): Rs. 32000/- per month",
+        "age_limit": "Please refer to the official notification for specific age limit details for each post.",
+        "application_fee": "Nil",
+        "selection_process": "Document Verification Process (DVP) || Walk-in Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://banda.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s326657d5ff9020d2abefe558796b99584/uploads/2026/03/17738264586402.pdf"
+    },
+    {
+        "date": "18/03/2026",
+        "board": "CSIR NBRI",
+        "title": "Project Associate II",
+        "qualification": "B.Tech/ B.E, M.E/ M.Tech, M.Sc",
+        "last_date": "23-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 35,000/- + HRA (NET/GATE qualified) or Rs. 28,000/- + HRA (others) Per Month",
+        "age_limit": "Maximum Age Limit: 35 years || Age Relaxation: SC/ST/PwBD/Women: 5 years; OBC: 3 years",
+        "application_fee": "Nil",
+        "selection_process": "Screening Test (MCQ if large number of candidates) || Walk-in Interview || Interview by Selection Committee",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nbri.res.in",
+        "official_notification": "https://nbri.res.in/uploads/RecruitmentFile/1773406145.pdf"
+    },
+    {
+        "date": "18/03/2026",
         "board": "Indian Army",
         "title": "Soldier Technical Nursing Assistant / Nursing Assistant (Veterinary), Sepoy Pharma",
         "qualification": "10+2 / Intermediate / D.Pharma / B.Pharma",
@@ -13,7 +45,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "bnpm-assistant-manager-recruitment-2026-apply-offline-for-06-posts-3041943"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/03/2026",
@@ -250,7 +282,7 @@
         "age_limit": "18 to 35 years for General candidates as on last date of receipt of application; age relaxation for SC/ST, OBC‑NCL, Ex‑Servicemen and PwD as per Govt. rules",
         "application_fee": "Theapplication fee is Rs 100 per candidate, to be paidvia Demand Draft in favour of “ORDNANCE FACTORY KANPUR”for both advertisements. || SC/ST, Ex‑Servicemen and Physically Handicapped (PwD) candidates are exemptedfrom paying the application fee. || The fee must be enclosed with the offline application form in the prescribed manner; applications without the required fee (where applicable) are liable to be rejected.",
         "selection_process": "Selection for all 151 tenure-based ITI posts ispurely merit-based, combiningNCTVT/NCVT marks and Trade/Practical Test performance. || First, candidates areshortlisted for Trade/Practical Teston the basis of total marks obtained in the NCTVT/NCVT exam; the cut‑off percentage for calling candidates is decided by Ordnance Factory Kanpur. || ATrade/Practical Testis then conducted for the relevant trade (Machinist, Examiner, Electrician, etc.) at Ordnance Factory Kanpur to assess hands‑on skills. || Thefinal merit listis prepared using combined scores with80% weightage to NCTVT/NCVT exam marks and 20% weightage to the Trade/Practical Test. || Candidates placed in merit are called forDocument Verification, where all original certificates and eligibility conditions are checked; if some candidates are rejected at this stage, additional candidates in order of merit may be called until all notified posts are covered.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://aweil.in/notice",
         "official_notification": "https://www.aweil.in/download/recruitment/2026/2-Advertisement-for-116-POSTS.pdf"
@@ -378,7 +410,7 @@
         "age_limit": "Maximum Age: 62 Years || Age Relaxation:Priority will be given to MDS in recruitment. Maximum 15 preferential marks as per service period, and appointment will be on the basis of deployment during COVID-19 period at the payable honorarium.",
         "application_fee": "No application fee is mentioned in the official notification.",
         "selection_process": "Document Verification || Interview",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "NIC Kushinagar की वेबसाइट",
         "official_notification": "https://cdn.s3waas.gov.in/s39de6d14fff9806d4bcd1ef555be766cd/uploads/2026/03/17731471425352.pdf"
@@ -762,7 +794,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.upbocw.in",
         "official_notification": "/cdn-cgi/l/email-protection"
@@ -1002,7 +1034,7 @@
         "age_limit": "Maximum Age: 37 years for GEN candidates. || Age relaxation: 3 years for OBC(NCL), 5 years for SC/ST, 10 years for PwBD (as per Government guidelines).",
         "application_fee": "GEN / OBC(NCL): ₹750/- (Non-refundable) || SC / ST / PwBD: Exempted || Payment through SBI Collect only.",
         "selection_process": "Written Test || Shortlisting for Interview in 1:7 ratio based on written test score (merit & category wise) || Final selection based on performance in Written Test + Interview || Call letters sent through email only",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bel-india.in/",
         "official_notification": "https://bel-india.in/wp-content/uploads/2026/02/Web-Add.pdf"
@@ -1034,7 +1066,7 @@
         "age_limit": "18-27 years as on 18-03-2026",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://nsi.gov.in/",
         "official_notification": "https://nsi.gov.in/storage/files/1/Vacancies/Vacancy_Notice&Syllabus_RA(Engg)_16022026.pdf"
