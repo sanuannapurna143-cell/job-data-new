@@ -1,6 +1,38 @@
 [
     {
         "date": "18/03/2026",
+        "board": "IIM Kozhikode",
+        "title": "Software Engineer (PHP)",
+        "qualification": "B.Tech (CS/CE/IT/ECE/EE), BE (CS/CE/IT/ECE/EE), MCA, M.Sc (CS/CE/IT/ECE/EE), M.Tech (CS/CE/IT/ECE/EE), MS in Software Systems, BCA, BSc (CS/CE/IT/ECE/EE), Three-year full-time Diploma in (CS/CE/IT/ECE/EE)",
+        "last_date": "07-04-2026",
+        "total_posts": "1",
+        "salary": "Rs.35,300/- Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iimk.ac.in",
+        "official_notification": "https://webapps.iimk.ac.in/jobportal/vacancy_details/eyJpdiI6ImVicFRsNURQaEtEZ0RJWWhLWk5pSUE9PSIsInZhbHVlIjoiSVQxK3VQdGtwcTkycEhlczEyWkEydz09IiwibWFjIjoiOGI2YzY5YTY4ZTBmODgxOTBlNmQ3Njg4YTZkODExMDljYjZmY2QwZDZmNTkzOWU2OWY3YmY1M2IxMGIxNzFlZSIsInRhZyI6IiJ9"
+    },
+    {
+        "date": "18/03/2026",
+        "board": "IIM Kozhikode",
+        "title": "Office Attendant",
+        "qualification": "Pass in Plus Two or Equivalent & Two years of office experience (post qualification). Basic knowledge of computer & MS Office. Conversant with English and Hindi.",
+        "last_date": "06-04-2026",
+        "total_posts": "Not mentioned",
+        "salary": "Rs. 18,000/- (plus Rs. 300/- towards telephone allowance) per month.",
+        "age_limit": "Maximum Age Limit: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iimk.ac.in/",
+        "official_notification": "https://webapps.iimk.ac.in/jobportal/vacancy_details/eyJpdiI6IkgzYWpDRElpcmNiaVhZcXZPUS9KRXc9PSIsInZhbHVlIjoiRDJRRllUMDN3NU5jQjJMNllJZzIvdz09IiwibWFjIjoiNjI4OTUzM2FkYzBhYzU0ODFiZDU2NDY1MWU3ZGUxYmZlN2ZhYmEzNjYxNDg0ZGU3ZjdiNTgyMzAxOTE1YmI0OCIsInRhZyI6IiJ9"
+    },
+    {
+        "date": "18/03/2026",
         "board": "RRB",
         "title": "Assistant Loco Pilot (ALP)",
         "qualification": "As per Detailed CEN No. 01/2026 (Post-wise Education Qualification & Medical Standard)",

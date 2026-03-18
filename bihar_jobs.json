@@ -1,6 +1,22 @@
 [
     {
         "date": "18/03/2026",
+        "board": "BPSC",
+        "title": "Civil Judge (Junior Division)",
+        "qualification": "LL.B. from university/college recognized by Bar Council of India, Minimum 3 years continuous practice as advocate",
+        "last_date": "30-04-2026",
+        "total_posts": "173",
+        "salary": "Not Available",
+        "age_limit": "Minimum Age: 22 years || Maximum Age: 40 years || Age Relaxation:The upper age limit for General (Male) candidates is 35 years. For General (Female), EBC, BC, SC, ST, EWS, and OH candidates, the maximum age limit is 40 years. || The age limit is calculated as on 01 August 2025.",
+        "application_fee": "Rs. 100/-",
+        "selection_process": "Preliminary Examination (Objective type, conducted if there is a large number of applicants) || Mains Written Examination (Consisting of Compulsory and 3 Optional Papers) || Interview/Personality Test (Carrying 100 marks) || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.bpsc.bihar.gov.in",
+        "official_notification": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-122026-33rd-BJSE_BPSC-20260223-82eskn.pdf"
+    },
+    {
+        "date": "18/03/2026",
         "board": "HBCHRC Muzaffarpur",
         "title": "Technician, Quality Manager, Biomedical Waste Supervisor, Linen & Laundry Supervisor",
         "qualification": "B.Sc., M.Sc., Graduate, Diploma in Medical Laboratory Technology",
@@ -350,22 +366,6 @@
         "syllabus": "Not Available",
         "official_website": "https://sheikhpura.bih.nic.in",
         "official_notification": "https://cdn.s3waas.gov.in/s30bb4aec1710521c12ee76289d9440817/uploads/2026/02/17715684962485.pdf"
-    },
-    {
-        "date": "23/02/2026",
-        "board": "BPSC",
-        "title": "Civil Judge (Junior Division)",
-        "qualification": "LL.B. from university/college recognized by Bar Council of India, Minimum 3 years continuous practice as advocate",
-        "last_date": "18-03-2026",
-        "total_posts": "173",
-        "salary": "Not Available",
-        "age_limit": "Minimum Age: 22 years || Maximum Age: 40 years || Age Relaxation:The upper age limit for General (Male) candidates is 35 years. For General (Female), EBC, BC, SC, ST, EWS, and OH candidates, the maximum age limit is 40 years. || The age limit is calculated as on 01 August 2025.",
-        "application_fee": "Rs. 100/-",
-        "selection_process": "Preliminary Examination (Objective type, conducted if there is a large number of applicants) || Mains Written Examination (Consisting of Compulsory and 3 Optional Papers) || Interview/Personality Test (Carrying 100 marks) || Document Verification",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.bpsc.bihar.gov.in",
-        "official_notification": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-122026-33rd-BJSE_BPSC-20260223-82eskn.pdf"
     },
     {
         "date": "21/02/2026",
