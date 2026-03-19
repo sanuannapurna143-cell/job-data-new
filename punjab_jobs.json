@@ -1,5 +1,21 @@
 [
     {
+        "date": "19/03/2026",
+        "board": "BFUHS",
+        "title": "Clerk",
+        "qualification": "Bachelor's degree, computer knowledge, Punjabi and English typing speed of 30 wpm.",
+        "last_date": "24-03-2026",
+        "total_posts": "6",
+        "salary": "Clerks:Rs 19,900 (fixed) per month with a 5% annual increment.",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 37 years || Age Relaxation: SC/ST and other reserved categories will receive age relaxation as per Punjab Govt. instructions.",
+        "application_fee": "Rs. 2360/- (Fee Rs. 2000+ GST Rs. 360 @ 18%)",
+        "selection_process": "Written Examination || Typing Test (English and Punjabi)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "www.bfuhs.ac.in",
+        "official_notification": "https://recruitment.ggsmch.org/bfu-26-03_pb_institute_liverbilliar/"
+    },
+    {
         "date": "18/03/2026",
         "board": "Punjab Police",
         "title": "Constable (District Cadre & Armed Cadre)",
