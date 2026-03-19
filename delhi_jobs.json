@@ -1,6 +1,22 @@
 [
     {
         "date": "19/03/2026",
+        "board": "Rajiv Gandhi Super Speciality Hospital",
+        "title": "Professor, Associate Professor, Assistant Professor",
+        "qualification": "MD/MS/DM/MCh/DNB, Teaching/Research experience as per post level (Broad Specialty vs Super Specialty)",
+        "last_date": "10-04-2026",
+        "total_posts": "43",
+        "salary": "Professor: Rs. 3,05,000/- Per Month || Associate Professor: Rs. 2,55,000/- Per Month || Assistant Professor: Rs. 1,95,000/- Per Month",
+        "age_limit": "Professor: 60 years (up to 66 years for retired Government persons) || Associate Professor: 60 years (up to 66 years for retired Government persons) || Assistant Professor: 55 years (up to 66 years for retired Government persons)",
+        "application_fee": "Nil",
+        "selection_process": "Interview || Merit List",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rgssh.delhi.gov.in",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wrgss2.pdf"
+    },
+    {
+        "date": "19/03/2026",
         "board": "FSSAI",
         "title": "Internship",
         "qualification": "Any Graduate",
@@ -269,7 +285,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "fssai-internship-2026-apriljune-notification-apply-online-3042116"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/03/2026",
@@ -1902,22 +1918,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aiims.edu",
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/NCI-20-2-26.pdf"
-    },
-    {
-        "date": "21/02/2026",
-        "board": "NIA",
-        "title": "Data Entry Operator and Lower Division Clerk",
-        "qualification": "For DEO: 'O' or 'A' level certificate for Information Technology. For LDC: 12th pass",
-        "last_date": "06-04-2026",
-        "total_posts": "40",
-        "salary": "DEO: Rs 29,200 – 92,300 (Pay Matrix Level 5); LDC: Rs 19,900 – 63,200 (Pay Matrix Level 2)",
-        "age_limit": "Data Entry Operator: Maximum56 years || Lower Division Clerk (LDC): Maximum56 years || Age relaxation is applicable as per rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Deputation basis",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://nia.gov.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/02/741296-69992da34c96366558656.pdf"
     },
     {
         "date": "17/02/2026",

@@ -1,6 +1,22 @@
 [
     {
         "date": "19/03/2026",
+        "board": "THSTI",
+        "title": "Principal Project Associate and Assistant Data Manager",
+        "qualification": "Post Graduate Degree or MBBS/BvSc/BDS or equivalent for Principal Project Associate; Master's degree with 4 years experience or Graduation with 6 years experience for Assistant Data Manager.",
+        "last_date": "03-04-2026",
+        "total_posts": "3",
+        "salary": "Principal Project Associate:Rs. 49,000/- + HRA || Assistant Data Manager:Rs. 52,080/- || Assistant Data Manager:Rs. 56,000/- + HRA",
+        "age_limit": "Principal Project Associate:Maximum age limit is 40 years. || Assistant Data Manager:Maximum age limit is 45 years. || Age Relaxation:SC/ST: 5 yearsOBC: 3 yearsPwBD: UR-10 years, OBC-13 years, SC/ST-15 years || SC/ST: 5 years || OBC: 3 years || PwBD: UR-10 years, OBC-13 years, SC/ST-15 years",
+        "application_fee": "Rs 590/-",
+        "selection_process": "Scrutiny/shortlisting of applications || Written test/skill test/interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://thsti.in/",
+        "official_notification": "https://recruitment.thsti.in/public/upload/job_pdf/177340059988Project-Post-RN-06-26.pdf"
+    },
+    {
+        "date": "19/03/2026",
         "board": "RITES",
         "title": "Assistant Manager (Finance)",
         "qualification": "Chartered Accountant / Cost Accountant",
@@ -61,7 +77,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "ossc-civil-defence-instructor-senior-store-inspector-recruitment-2026-apply-online-3042152"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/03/2026",

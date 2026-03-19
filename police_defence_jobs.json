@@ -1,6 +1,22 @@
 [
     {
         "date": "19/03/2026",
+        "board": "DIAT",
+        "title": "Graduate / Diploma Apprentices",
+        "qualification": "Graduate, Diploma in Engineering / Science, Graduate in Library Sciences",
+        "last_date": "06-04-2026",
+        "total_posts": "6",
+        "salary": "Rs. ₹10,900/- - ₹12,300/- Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 27 years || Upper Age limit for Reserved Categories and Persons with Disability [PWD] is as per Govt. of India Rules in vogue.",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in-Interview || Test / Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://diat.ac.in",
+        "official_notification": "https://diat.ac.in/wp-content/uploads/2026/03/Advt-No.01-2026-APPRENTICESHIP.pdf"
+    },
+    {
+        "date": "19/03/2026",
         "board": "SSB",
         "title": "Assistant Sub Inspector (Radiographer, Pharmacist, OT Technician & Dental Technician)",
         "qualification": "Diploma, D.Pharm",
@@ -45,7 +61,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "fssai-internship-2026-apriljune-notification-apply-online-3042116"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/03/2026",

@@ -1,6 +1,38 @@
 [
     {
         "date": "19/03/2026",
+        "board": "Puducherry State Co op Bank",
+        "title": "General Manager",
+        "qualification": "Post Graduate with CAIIB, MBA or CA (preferable)",
+        "last_date": "20-03-2026",
+        "total_posts": "1",
+        "salary": "To be fixed by the Board/Administrator of the Bank.",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://mypscbank.com",
+        "official_notification": "https://mypscbank.com/Recruits-General%20Manager1.pdf"
+    },
+    {
+        "date": "19/03/2026",
+        "board": "SBI",
+        "title": "Assistant Vice President (IS Audit) - Contractual; Deputy Manager (IS Audit) - Regular; Deputy Manager (Chartered Accountant - Internal Audit) - Regular",
+        "qualification": "BE/BTech/BSc/MTech/MSc/MCA/BCA/CA in relevant disciplines",
+        "last_date": "30-03-2026",
+        "total_posts": "116",
+        "salary": "AVP (IS Audit): Up to ₹50 Lakhs CTC (85:15 Fixed:Variable). || DM (Regular): ₹64,820 - ₹93,960 (plus DA, HRA, PF, NPS, LFC, Medical, etc.). || Probation: 1 year for regular posts.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on application/eligibility. || Interview (100 marks; qualifying marks decided by Bank). || For AVP: CTC Negotiation post-interview. || Merit list based on interview scores (age tie-breaker). || Document verification/medical test. || ✅ No written exam. Call letters via email only.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sbi.co.in",
+        "official_notification": "https://sbi.bank.in/documents/77530/52947104/23022026_ADV+CRPD_SCO_2025-26_27_23022026.pdf/d205d3d0-ecc5-9cdc-9637-9f384d830cb0?t=1771825373224"
+    },
+    {
+        "date": "19/03/2026",
         "board": "RBI",
         "title": "Bank's Medical Consultant",
         "qualification": "MBBS degree Or Post graduate degree",
