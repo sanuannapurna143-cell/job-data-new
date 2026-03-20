@@ -1,5 +1,37 @@
 [
     {
+        "date": "20/03/2026",
+        "board": "Tea Board",
+        "title": "Accountant",
+        "qualification": "B. Com (Hons.), M. Com., CA Inter, CMA Inter.",
+        "last_date": "25-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 35,000/- per month (Consolidated)",
+        "age_limit": "Maximum Age: 35 years || Relaxation of age as per Govt. norms will be given to SC, ST and OBC candidates.",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in-Interview || Short test (if required)",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.teaboard.gov.in",
+        "official_notification": "https://www.teaboard.gov.in/pdf/Walk_In_Interview_for_Accountant_at_DTRDC_QCL_pdf3837.pdf"
+    },
+    {
+        "date": "20/03/2026",
+        "board": "Calcutta University",
+        "title": "Laboratory Assistant",
+        "qualification": "Masters/Integrated Masters in Biological sciences from a recognized University.",
+        "last_date": "02-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 27,000/- plus 30% HRA Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.caluniv.ac.in",
+        "official_notification": "https://s3.ap-south-1.amazonaws.com/caluniv/news/Lab-Assistant-Genetics.pdf"
+    },
+    {
         "date": "19/03/2026",
         "board": "NITTTR Kolkata",
         "title": "Part Time Medical Officer",
