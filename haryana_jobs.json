@@ -1,6 +1,22 @@
 [
     {
         "date": "20/03/2026",
+        "board": "THSTI",
+        "title": "Research Assistant / Staff Nurse",
+        "qualification": "BSc Nursing, Diploma in Nursing & Midwifery (GNM), Registered Nurse or ANM",
+        "last_date": "07-04-2026",
+        "total_posts": "4",
+        "salary": "Rs. 31,500- 32,000/-",
+        "age_limit": "Maximum Age Limit: 35 years || Age Relaxation: SC/ST: 5 years, OBC: 3 years, PwBD: UR-10 years, OBC-13 years, SC/ST-15 years, Ex-servicemen: extent of service rendered + 3 years, Central Govt servants: up to 5 years",
+        "application_fee": "Nil",
+        "selection_process": "Written Test || Skill Test || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://thsti.res.in",
+        "official_notification": "https://recruitment.thsti.in/public/upload/job_pdf/177390317825advt-RN-02-03-I.pdf"
+    },
+    {
+        "date": "20/03/2026",
         "board": "RITES",
         "title": "Assistant (HR)",
         "qualification": "Graduation in any discipline",

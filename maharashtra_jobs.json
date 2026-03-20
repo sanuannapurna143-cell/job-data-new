@@ -1,6 +1,38 @@
 [
     {
         "date": "20/03/2026",
+        "board": "RNSB",
+        "title": "Jr.Executive, Office Assistant",
+        "qualification": "Any Graduate, Any Post Graduate",
+        "last_date": "27-03-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age limit:30 Years || Age relaxation is applicable as per rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rnsb.bank.in/",
+        "official_notification": "https://jobs.rnsb.bank.in/CurrentOpening.aspx"
+    },
+    {
+        "date": "20/03/2026",
+        "board": "TMC",
+        "title": "Nurse, Technician and More",
+        "qualification": "M.E/ M.Tech, MS/ MD, DNB, DM, B.Sc, M.Sc, M.Phil/ Ph.D, 10TH, 12TH, Diploma, GNM, DMLT, DNB Pathology",
+        "last_date": "10-04-2026",
+        "total_posts": "99",
+        "salary": "Rs. 19,900/-  Rs. 1,23,100/- Per Month",
+        "age_limit": "All Posts: Please refer to the official notification for specific age limits. || Age Relaxation: SC/ST: 5 years, OBC: 3 years, PwD: 10 years (+additional for reserved), Ex-servicemen: length of service + 3 years, TMC employees/contract staff: up to 5 years.",
+        "application_fee": "Rs. 300/-",
+        "selection_process": "Written Examination || Skill Test || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://tmc.gov.in",
+        "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=9F+yrIrXlMC5LpxKbhzeIQ=="
+    },
+    {
+        "date": "20/03/2026",
         "board": "Thane Municipal Corporation",
         "title": "GNM – General Nursing and Midwifery (Female & Male)",
         "qualification": "B.Sc Nursing Course with MNC (Maharashtra Nursing Council) Registration.",
