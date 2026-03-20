@@ -1,6 +1,38 @@
 [
     {
         "date": "20/03/2026",
+        "board": "CSMCRI",
+        "title": "Project Associate - I",
+        "qualification": "M.Sc. (Chemistry) from a recognized university or equivalent",
+        "last_date": "31-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000/- to Rs. 31,000/- + HRA Per Month",
+        "age_limit": "Maximum Age Limit: 35 years as on 31-03-2026. || Age relaxation is applicable as per CSIR rules.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.csmcri.res.in",
+        "official_notification": "https://www.csmcri.res.in/node/10742"
+    },
+    {
+        "date": "20/03/2026",
+        "board": "SVNIT",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.Tech/BE in Civil Engineering/Mechanical Engineering and M.Tech/ME in Structural Engineering, Structural Dynamics Engineering, or Earthquake Engineering.",
+        "last_date": "27-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- per month (first two years), Rs. 42,000/- per month (third year) + HRA",
+        "age_limit": "Max 28 years (relaxation for SC/ST/OBC/physically challenged and women)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.svnit.ac.in",
+        "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/March/Advertisement%20form.pdf"
+    },
+    {
+        "date": "20/03/2026",
         "board": "FDDI",
         "title": "Accountant",
         "qualification": "B. Com/B.A. (Economics) with minimum 55% marks from a recognized Board, Working knowledge of MS Office",
@@ -285,7 +317,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "central-sanskrit-university-csu-non-teaching-recruitment-2026-apply-online-for-144-posts-3041660"
+        "official_notification": "Not Available"
     },
     {
         "date": "09/03/2026",
