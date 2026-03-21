@@ -1,6 +1,54 @@
 [
     {
         "date": "21/03/2026",
+        "board": "ICSIL",
+        "title": "DEO, Pharmacist and More",
+        "qualification": "12th Pass, Diploma, B. Pharmacy",
+        "last_date": "26-03-2026",
+        "total_posts": "19",
+        "salary": "Rs. 22,411/- Per Month",
+        "age_limit": "All Posts: No minimum or maximum age limit is specified in the provided data. Age relaxation details are not available.",
+        "application_fee": "Rs. 590/- (Non-refundable one-time registration fee)",
+        "selection_process": "Scrutiny of documents || Interaction/Interview with the department || Document Verification || Personal Interview/Skill Test/Written Test (depending on the position)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.icsil.in",
+        "official_notification": "https://icsil.in/app/uploads/advertisement/Chacha_Nehru_Bal_Chikitsalya_DEO_ADVT_March_2026.pdf"
+    },
+    {
+        "date": "21/03/2026",
+        "board": "NPC",
+        "title": "Project Advisor (Statistician)",
+        "qualification": "Bachelor's Degree with Statistic, Master's degree in Statistics.",
+        "last_date": "27-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1,25,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.npcindia.gov.in",
+        "official_notification": "https://www.npcindia.gov.in/NPC/Uploads/image/Career/ADV%20NO%20110%20for%20Manpower%20MoSPI%20%28HRM%29324455.pdf"
+    },
+    {
+        "date": "21/03/2026",
+        "board": "NHSRC",
+        "title": "Junior Consultant, Technical Officer and More",
+        "qualification": "B.B.A, B.Com, B.Sc, B.Tech/ B.E, MBBS, M.A, M.Com, M.Pharma, M.Sc, M.E/ M.Tech, MBA/ PGDM, M.Phil/ Ph.D, MS/ MD, MSW, MHA",
+        "last_date": "01-04-2026",
+        "total_posts": "31",
+        "salary": "Between Rs 100,000/- to Rs 1,45,000/-",
+        "age_limit": "Maximum Age Limit: 65 years for all posts.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nhsrcindia.org",
+        "official_notification": "https://recruitment.nhsrcindia.org/my/job"
+    },
+    {
+        "date": "21/03/2026",
         "board": "SSB",
         "title": "Head Constable (Laboratory Assistant), Head Constable (Physiotherapy Assistant), Constable (Nursing Assistant cum Medic)",
         "qualification": "(i) 12th class pass with Biology as a subject from a recognized Board.\r\t\t\t(ii) Certificate course of minimum one year in Laboratory Assistant Course from a recognized institution.\r\t\t\t(iii) Working experience of minimum one year as Lab Assistant in a Laboratory Diagnostic Centre or hospital or institution lab recognized by Central/State Government.",
@@ -477,7 +525,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "ssb-paramedical-recruitment-2026-apply-online-for-76-head-constable-constable-posts-3042359"
+        "official_notification": "nfc-recruitment-2026-apply-online-for-18-scientific-officer-pharmacist-and-more-posts-3042370"
     },
     {
         "date": "18/03/2026",
