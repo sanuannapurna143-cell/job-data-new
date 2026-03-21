@@ -1,6 +1,22 @@
 [
     {
         "date": "21/03/2026",
+        "board": "PPSC",
+        "title": "Research Officer (Group-A)",
+        "qualification": "Master’s degree with minimum 50% marks in Economics / Agricultural Economics / Commerce / Statistics.",
+        "last_date": "12-04-2026",
+        "total_posts": "16",
+        "salary": "Rs. 47600/- Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 37 years || Age relaxation is applicable as per government rules: Punjab Govt. / All India Govt. employees up to 45 years; SC / BC Punjab up to 42 years; Widows / certain categories of women up to 42 years; Persons with Disability (Punjab) up to 47 years; Ex-Servicemen (Punjab) deduction of service period + 3 years relaxation.",
+        "application_fee": "Rs. 1500/-",
+        "selection_process": "Written Competitive Examination || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://ppsc.gov.in",
+        "official_notification": "https://www.ppsc.gov.in/usermanual.ashx?id=c13779"
+    },
+    {
+        "date": "21/03/2026",
         "board": "IIT Ropar",
         "title": "Research Assistant",
         "qualification": "Postgraduate in Economics or allied Social Science (55% marks), NET/MPhil/PhD",
