@@ -159,14 +159,26 @@ def get_inner_details(scraper, link):
         if fee_data != "Not Available" and (details['application_fee'] == "Not Available" or len(fee_data) > len(details['application_fee'])): 
             details['application_fee'] = fee_data
 
+        # ==========================================
+        # ଏଠାରେ ନୂଆ PDF / Image ଲଜିକ୍ ଯୋଡ଼ା ଯାଇଛି
+        # ==========================================
         apply_link_found = False
         for element in soup.find_all(['li', 'tr', 'p']):
             text = element.text.lower()
             a_tags = element.find_all('a')
             for a in a_tags:
                 href = a.get('href', '')
-                if not href or href == '#' or ('freejobalert.com' in href.lower() and '.pdf' not in href.lower()): continue
+                if not href or href == '#' or ('freejobalert.com' in href.lower() and '.pdf' not in href.lower()): 
+                    continue
                 
+                href_lower = href.lower()
+                
+                # ୧. ପ୍ରଥମେ ଚେକ୍ କରୁଛି ଲିଙ୍କ୍ ଟି PDF କିମ୍ବା Photo (.jpg, .png) କି?
+                if any(ext in href_lower for ext in ['.pdf', '.jpg', '.jpeg', '.png']):
+                    details['official_notification'] = href
+                    continue # ମିଳିଗଲା! ତେଣୁ ଆଗକୁ ଯିବା ଦରକାର ନାହିଁ
+                
+                # ୨. ଯଦି ସିଧା ଫାଇଲ୍ ମିଳୁନି, ତେବେ ବାକି ଲିଙ୍କ୍ ଖୋଜିବା
                 if 'apply online' in text or 'apply here' in text: apply_link_found = True
                 if 'official website' in text and details['official_website'] == "Not Available": details['official_website'] = href
                 elif ('notification' in text or 'detail' in text) and details['official_notification'] == "Not Available": details['official_notification'] = href
@@ -267,7 +279,7 @@ def get_jobs(url, filename):
 
 job_sources = {
     "odisha_jobs.json": "https://www.freejobalert.com/odisha-government-jobs/",
-    # ତୁମର ବାକି ସବୁ ଲିଙ୍କ୍ ଏଠାରେ ଯେମିତି ଥିଲା ସେମିତି ରହିବ (ମୁଁ ଉଦାହରଣ ପାଇଁ ଗୋଟିଏ ରଖିଛି)
+    # ତୁମର ବାକି ସବୁ ଲିଙ୍କ୍ ଏଠାରେ ଯେମିତି ଥିଲା ସେମିତି ରହିବ
 }
 
 total_files = len(job_sources)
