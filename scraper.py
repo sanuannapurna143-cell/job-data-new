@@ -264,6 +264,7 @@ job_sources = {
     "engineering_jobs.json": "https://www.freejobalert.com/engineering-jobs/",
     "railway_jobs.json": "https://www.freejobalert.com/railway-jobs/",
     "police_defence_jobs.json": "https://www.freejobalert.com/police-defence-jobs/",
+    "education_json": "https://www.freejobalert.com/education/",
     
     # ୨. ରାଜ୍ୟ ଅନୁଯାୟୀ ଚାକିରି (State Jobs)
     "central_jobs.json": "https://www.freejobalert.com/government-jobs/",
