@@ -1,5 +1,37 @@
 [
     {
+        "date": "23/03/2026",
+        "board": "SECL",
+        "title": "Fresher Apprentices – Optional Trade (4 Trades)",
+        "qualification": "10TH",
+        "last_date": "31-03-2026",
+        "total_posts": "100",
+        "salary": "₹8,200 per monthas per present rate of stipend under NAPS scheme. || Paid after successful medical fitness and document verification.",
+        "age_limit": "No upper age limit prescribed",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on% of marksobtained in qualifying examination (10th/11th) as per Government Reservation Policy and merit basis uploaded on Apprenticeship Portal. || Tie-breaker: If % of marks are equal, theelder candidategets preference. || Provisional selection list uploaded on SECL website: secl-cil.in → SECL Departments → Human Resource → HRD → Apprentice. || Document Verification+Medical Fitness Examinationas per Apprenticeship Rules 1992 / Mines Rules 1955 (for Assistant Mine Surveyor).",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://secl-cil.in/",
+        "official_notification": "https://secl-cil.in/writereaddata/2891bc2ecc4ed61ccfb6fad3c853a980ee2ab0dc1fa7fc74d037046d1eec37d0.pdf"
+    },
+    {
+        "date": "23/03/2026",
+        "board": "BSNL",
+        "title": "Senior Executive Trainee (SET) – Direct Recruitment",
+        "qualification": "Full-time BE/B.Tech in Electronics/Telecom/Computer Science/IT/Electrical/Instrumentation or equivalent with minimum 60% marks",
+        "last_date": "15-04-2026",
+        "total_posts": "120",
+        "salary": "Rs. 24,900 – 50,500/- (IDA E-3 Pay Scale)",
+        "age_limit": "Minimum Age: 21 Years || Maximum Age: 30 Years (as on last date 07-03-2026) || Age relaxation as per Government/BSNL rules.",
+        "application_fee": "Rs. 2,500/-",
+        "selection_process": "Computer Based Test (CBT) || Document Verification || Medical Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bsnl.co.in",
+        "official_notification": "https://bsnl.co.in/documents/pdf/SET_Notification_29012026.pdf"
+    },
+    {
         "date": "21/03/2026",
         "board": "AIIMS Bhopal",
         "title": "Research Associate-II",
@@ -254,22 +286,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iocl.com/",
         "official_notification": "https://iocl.com/admin/img/Apprenticeships/Files/b2f1aa3dfa1a4ab7b2fc92ab6af4a339.pdf"
-    },
-    {
-        "date": "11/03/2026",
-        "board": "BSNL",
-        "title": "Senior Executive Trainee (SET) – Direct Recruitment",
-        "qualification": "Full-time BE/B.Tech in Electronics/Telecom/Computer Science/IT/Electrical/Instrumentation or equivalent with minimum 60% marks",
-        "last_date": "31-03-2026",
-        "total_posts": "120",
-        "salary": "Rs. 24,900 – 50,500/- (IDA E-3 Pay Scale)",
-        "age_limit": "Minimum Age: 21 Years || Maximum Age: 30 Years (as on last date 07-03-2026) || Age relaxation as per Government/BSNL rules.",
-        "application_fee": "Rs. 2,500/-",
-        "selection_process": "Computer Based Test (CBT) || Document Verification || Medical Examination",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bsnl.co.in",
-        "official_notification": "https://externalexam.bsnl.co.in/Extension.pdf"
     },
     {
         "date": "11/03/2026",

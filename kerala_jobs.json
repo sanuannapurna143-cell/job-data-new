@@ -1,5 +1,21 @@
 [
     {
+        "date": "23/03/2026",
+        "board": "BSNL",
+        "title": "Senior Executive Trainee (SET) – Direct Recruitment",
+        "qualification": "Full-time BE/B.Tech in Electronics/Telecom/Computer Science/IT/Electrical/Instrumentation or equivalent with minimum 60% marks",
+        "last_date": "15-04-2026",
+        "total_posts": "120",
+        "salary": "Rs. 24,900 – 50,500/- (IDA E-3 Pay Scale)",
+        "age_limit": "Minimum Age: 21 Years || Maximum Age: 30 Years (as on last date 07-03-2026) || Age relaxation as per Government/BSNL rules.",
+        "application_fee": "Rs. 2,500/-",
+        "selection_process": "Computer Based Test (CBT) || Document Verification || Medical Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bsnl.co.in",
+        "official_notification": "https://bsnl.co.in/documents/pdf/SET_Notification_29012026.pdf"
+    },
+    {
         "date": "18/03/2026",
         "board": "IIM Kozhikode",
         "title": "Software Engineer (PHP)",
@@ -334,22 +350,6 @@
         "syllabus": "Not Available",
         "official_website": "https://facap.iitpkd.ac.in",
         "official_notification": "https://facap.iitpkd.ac.in/sites/faculty-recruitment.iitp-portal.local/files/2026-03/Advt.%20No._%20IITPKD_R_F_01_2026%20Dated_%2010%20Mar%202026_0.pdf"
-    },
-    {
-        "date": "11/03/2026",
-        "board": "BSNL",
-        "title": "Senior Executive Trainee (SET) – Direct Recruitment",
-        "qualification": "Full-time BE/B.Tech in Electronics/Telecom/Computer Science/IT/Electrical/Instrumentation or equivalent with minimum 60% marks",
-        "last_date": "31-03-2026",
-        "total_posts": "120",
-        "salary": "Rs. 24,900 – 50,500/- (IDA E-3 Pay Scale)",
-        "age_limit": "Minimum Age: 21 Years || Maximum Age: 30 Years (as on last date 07-03-2026) || Age relaxation as per Government/BSNL rules.",
-        "application_fee": "Rs. 2,500/-",
-        "selection_process": "Computer Based Test (CBT) || Document Verification || Medical Examination",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bsnl.co.in",
-        "official_notification": "https://externalexam.bsnl.co.in/Extension.pdf"
     },
     {
         "date": "10/03/2026",

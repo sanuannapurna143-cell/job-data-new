@@ -1,5 +1,37 @@
 [
     {
+        "date": "23/03/2026",
+        "board": "IIT Guwahati",
+        "title": "Junior Research Fellow",
+        "qualification": "M.E/ M.Tech, M.Sc",
+        "last_date": "25-03-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- + HRA Rs. 6,660/- + Medical Rs. 1,250/- = Total Rs. 44,910/- per month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitg.ac.in",
+        "official_notification": "https://www.iitg.ac.in/pdf/6912fe8ee52fa76781a2067ac5f806d1.pdf"
+    },
+    {
+        "date": "23/03/2026",
+        "board": "BSNL",
+        "title": "Senior Executive Trainee (SET) – Direct Recruitment",
+        "qualification": "Full-time BE/B.Tech in Electronics/Telecom/Computer Science/IT/Electrical/Instrumentation or equivalent with minimum 60% marks",
+        "last_date": "15-04-2026",
+        "total_posts": "120",
+        "salary": "Rs. 24,900 – 50,500/- (IDA E-3 Pay Scale)",
+        "age_limit": "Minimum Age: 21 Years || Maximum Age: 30 Years (as on last date 07-03-2026) || Age relaxation as per Government/BSNL rules.",
+        "application_fee": "Rs. 2,500/-",
+        "selection_process": "Computer Based Test (CBT) || Document Verification || Medical Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bsnl.co.in",
+        "official_notification": "https://bsnl.co.in/documents/pdf/SET_Notification_29012026.pdf"
+    },
+    {
         "date": "21/03/2026",
         "board": "BVFCL",
         "title": "Sr Manager (Finance), Dy Manager (Finance), Officer (Finance), Safety Officer, Engineer (Production/Mechanical/Instrumentation/Civil), Dy Manager (HR), Officer (HR)",
@@ -318,22 +350,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.bhattadevuniversity.ac.in/web",
         "official_notification": "https://www.bhattadevuniversity.ac.in/docs/notifications/Advertisement_for_the_post_of_Librarian,_Assistant_Librarian_and_Finance_Officer_BU_7841_compressed.pdf"
-    },
-    {
-        "date": "11/03/2026",
-        "board": "BSNL",
-        "title": "Senior Executive Trainee (SET) – Direct Recruitment",
-        "qualification": "Full-time BE/B.Tech in Electronics/Telecom/Computer Science/IT/Electrical/Instrumentation or equivalent with minimum 60% marks",
-        "last_date": "31-03-2026",
-        "total_posts": "120",
-        "salary": "Rs. 24,900 – 50,500/- (IDA E-3 Pay Scale)",
-        "age_limit": "Minimum Age: 21 Years || Maximum Age: 30 Years (as on last date 07-03-2026) || Age relaxation as per Government/BSNL rules.",
-        "application_fee": "Rs. 2,500/-",
-        "selection_process": "Computer Based Test (CBT) || Document Verification || Medical Examination",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bsnl.co.in",
-        "official_notification": "https://externalexam.bsnl.co.in/Extension.pdf"
     },
     {
         "date": "11/03/2026",
