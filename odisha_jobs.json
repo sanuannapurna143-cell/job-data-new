@@ -1,6 +1,22 @@
 [
     {
         "date": "23/03/2026",
+        "board": "CSIR IMMT",
+        "title": "Multi-Tasking Staff",
+        "qualification": "Matriculation or equivalent pass",
+        "last_date": "21-04-2026",
+        "total_posts": "7",
+        "salary": "Rs. ₹18000 - ₹56900 Per Month",
+        "age_limit": "Min: 18 years, Max: 25 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.immt.res.in/",
+        "official_notification": "https://www.immt.res.in/webroot/upload/admin/announcement/2026-03-23_announcement_img_1774244737.pdf"
+    },
+    {
+        "date": "23/03/2026",
         "board": "Govt. ITI Karanjia",
         "title": "Guest Instructor",
         "qualification": "B.Voc/Degree in Automobile/Mechanical Engineering, Diploma",
