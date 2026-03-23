@@ -1,5 +1,37 @@
 [
     {
+        "date": "23/03/2026",
+        "board": "DCPU East Singhbhum",
+        "title": "Teacher",
+        "qualification": "Graduate (D.El.Ed/B.Ed), TET qualified",
+        "last_date": "08-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 17640/- Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 35 years || Age Relaxation: EBC/BC: 37 years, Women (UR/EBC/BC): 38 years, SC/ST: 40 years, PWD: 40/42/43/45 years (as on 01-08-2025)",
+        "application_fee": "Not Available",
+        "selection_process": "Merit List based on Academic Marks (Matric:30%, Intermediate:30%, Graduation:40%) || Computer Hindi Typing Test (20 wpm) || Computer English Typing Test (30 wpm)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.jamshedpur.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s33dc4876f3f08201c7c76cb71fa1da439/uploads/2026/03/17740090893258.pdf"
+    },
+    {
+        "date": "23/03/2026",
+        "board": "JSCPS",
+        "title": "Account Assistant, Accountant and More",
+        "qualification": "Intermediate, M.Com, MCA, MSW",
+        "last_date": "19-04-2026",
+        "total_posts": "5",
+        "salary": "Rs. ₹13,240/- - ₹46,340/- Consolidated",
+        "age_limit": "Generally between 21-55 years. || Age relaxation of 10 years for Persons with Disabilities (PwD). || Age as on 01-08-2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on eligibility || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://recruitment.jharkhand.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/03/45616363-69c0e287361dc533199.pdf"
+    },
+    {
         "date": "20/03/2026",
         "board": "Civil Surgeon Office Koderma",
         "title": "Ayushman Mitra",

@@ -1,6 +1,38 @@
 [
     {
         "date": "23/03/2026",
+        "board": "MPESB",
+        "title": "Forest Guard, Field Guard, Jail Warder & Assistant Jail Superintendent",
+        "qualification": "10th Pass or equivalent for Forest Guard and Field Guard, 12th Pass or equivalent for Jail Warder, Graduation for Assistant Jail Superintendent",
+        "last_date": "30-04-2026",
+        "total_posts": "1679",
+        "salary": "Forest Guard, Field Guard, Jail Warder: Rs. 19500-62000 (Level-4) Per Month || Assistant Jail Superintendent: Rs. 36200-114800 (Level-9) Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 38 years || Age relaxation: 5 years for SC/ST/OBC (MP domiciles), 5 years for females (General), additional for Ex-servicemen, Home Guard, contractual employees as per MP govt rules. || Age limit as on 01 January 2026.",
+        "application_fee": "Rs. 20/- (Online) / Rs. 60/- (Kiosk)",
+        "selection_process": "Computer-based written exam || Physical Standard Test (PST) || Physical Efficiency Test (PET) || Document verification || Medical fitness || Final merit list",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://esb.mp.gov.in",
+        "official_notification": "https://esb.mp.gov.in/Rulebooks/RB_2026/JAIL_VAN_2026_RuleBook_27022026.pdf"
+    },
+    {
+        "date": "23/03/2026",
+        "board": "MPPSC",
+        "title": "Assistant Professor",
+        "qualification": "Any Masters Degree, M.Phil/ Ph.D",
+        "last_date": "18-05-2026",
+        "total_posts": "949",
+        "salary": "Rs 57,700/-",
+        "age_limit": "Minimum Age Limit:21 Years || Maximum Age limit:40 Years || Age relaxation is applicable as per rules.",
+        "application_fee": "Rs. 500",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://mppsc.mp.gov.in",
+        "official_notification": "https://mppsc.mp.gov.in/Advertisement"
+    },
+    {
+        "date": "23/03/2026",
         "board": "SECL",
         "title": "Fresher Apprentices – Optional Trade (4 Trades)",
         "qualification": "10TH",
@@ -206,22 +238,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iiitm.ac.in",
         "official_notification": "https://www.iiitm.ac.in/images/2026/March_2026/Final-Adv-non-Faculty-04-2026.pdf"
-    },
-    {
-        "date": "13/03/2026",
-        "board": "MPESB",
-        "title": "Forest Guard, Field Guard, Jail Warder & Assistant Jail Superintendent",
-        "qualification": "10th Pass or equivalent for Forest Guard and Field Guard, 12th Pass or equivalent for Jail Warder, Graduation for Assistant Jail Superintendent",
-        "last_date": "30-04-2026",
-        "total_posts": "1679",
-        "salary": "Forest Guard, Field Guard, Jail Warder: Rs. 19500-62000 (Level-4) Per Month || Assistant Jail Superintendent: Rs. 36200-114800 (Level-9) Per Month",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 38 years || Age relaxation: 5 years for SC/ST/OBC (MP domiciles), 5 years for females (General), additional for Ex-servicemen, Home Guard, contractual employees as per MP govt rules. || Age limit as on 01 January 2026.",
-        "application_fee": "Rs. 20/- (Online) / Rs. 60/- (Kiosk)",
-        "selection_process": "Computer-based written exam || Physical Standard Test (PST) || Physical Efficiency Test (PET) || Document verification || Medical fitness || Final merit list",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://esb.mp.gov.in",
-        "official_notification": "https://esb.mp.gov.in/Rulebooks/RB_2026/JAIL_VAN_2026_RuleBook_27022026.pdf"
     },
     {
         "date": "13/03/2026",
@@ -462,22 +478,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
         "official_notification": "http://www.joinindianarmy.nic.in"
-    },
-    {
-        "date": "22/01/2026",
-        "board": "MPPSC",
-        "title": "Assistant Professor",
-        "qualification": "Any Masters Degree, M.Phil/ Ph.D",
-        "last_date": "18-05-2026",
-        "total_posts": "949",
-        "salary": "Rs 57,700/-",
-        "age_limit": "Minimum Age Limit:21 Years || Maximum Age limit:40 Years || Age relaxation is applicable as per rules.",
-        "application_fee": "Rs. 500",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://mppsc.mp.gov.in",
-        "official_notification": "https://mppsc.mp.gov.in/Advertisement"
     },
     {
         "date": "07/01/2026",

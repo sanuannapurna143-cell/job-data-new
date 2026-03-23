@@ -1,6 +1,38 @@
 [
     {
         "date": "23/03/2026",
+        "board": "Sainik School Balachadi",
+        "title": "PGT Physics, PGT Chemistry, PGT Biology, Art Master, Nursing Sister, PTI cum Matron (Female)",
+        "qualification": "M.Sc + B.Ed / Master's in Fine Art / Nursing Diploma/Degree / B.P.Ed",
+        "last_date": "01-04-2026",
+        "total_posts": "6",
+        "salary": "Rs.47,600/- Per Month (Consolidated) + Free Messing & Accommodation (except vacation period)",
+        "age_limit": "PGT Posts: 21–40 years as on 01-07-2026 || Art Master:21–35 years as on 01-07-2026 || Nursing Sister: 18–50 years as on 01-07-2026 || PTI cum Matron (Female):21–35 years as on 01-10-2026 || Age Relaxation: As per Sainik Schools Society rules",
+        "application_fee": "₹400/- (Demand Draft in favour of Principal, Sainik School Balachadi payable at Jamnagar)",
+        "selection_process": "Shortlisting of applications || Written Test / Demo Class / Interview / Skill Test (as applicable) || Medical Examination",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://ssbalachadi.org/",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "23/03/2026",
+        "board": "AMC",
+        "title": "Project Officer (U.C.D.)",
+        "qualification": "Bachelor’s degree (second class) in subjects like Sociology, Commerce and Law, Master of Social Work (M.S.W.) with specialization, Minimum 7 years experience as Community Organizer",
+        "last_date": "04-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 53,100 - Rs. 1,67,800 Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 45 years || Age relaxation applicable if already employed in Ahmedabad Municipal Corporation.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ahmedabadcity.gov.in",
+        "official_notification": "https://amcmodules.ahmedabadcity.gov.in/AMCWEBREC/ViewFile.aspx"
+    },
+    {
+        "date": "23/03/2026",
         "board": "IIT Gandhinagar",
         "title": "Post Doctoral Fellow",
         "qualification": "PhD in Electrical Engineering or related areas.",

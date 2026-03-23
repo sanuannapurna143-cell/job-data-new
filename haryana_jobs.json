@@ -1,6 +1,38 @@
 [
     {
         "date": "23/03/2026",
+        "board": "CUH",
+        "title": "Faculty (on guest)",
+        "qualification": "Graduation degree in any discipline.",
+        "last_date": "03-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1500/lecture or maximum Rs. 50000/month",
+        "age_limit": "25 years || Age relaxation rules are not specified in the provided data.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.cuh.ac.in",
+        "official_notification": "https://file.cuh.ac.in/recruitment/advt_no_69bd309142627.pdf"
+    },
+    {
+        "date": "23/03/2026",
+        "board": "Sainik School Kunjpura",
+        "title": "Total Posts",
+        "qualification": "Bachelor’s Degree, Graduation, B.Ed, Diploma, Matriculation (as per post)",
+        "last_date": "07-04-2026",
+        "total_posts": "19",
+        "salary": "The salary for the selected candidates will be as follows: || TGT:Rs.44,900/- || Art Master:Rs.44,900/- || Counselor:Rs.44,900/- || PTI-Cum-Matron (Female):Rs.44,900/- || Horse Riding Instructor:Rs.29,200/- || Band Master:Rs.29,200/- || Mess Manager:Rs.29,200/- || Ward Boys (Hostel Warden):Rs.19,900/-",
+        "age_limit": "Min: 18 years, Max: 50 years",
+        "application_fee": "₹500/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://sskunjpura.org",
+        "official_notification": "https://sskunjpura.org/uploader/upload/Vacancy%20Notice-1.pdf"
+    },
+    {
+        "date": "23/03/2026",
         "board": "DTCP Haryana",
         "title": "Planning Officer",
         "qualification": "Post graduate degree in Urban and Regional Planning / Urban Planning / Regional Planning / M.Tech in Planning (Urban, Traffic & Transport, Housing, Infrastructure, Environment) or equivalent eligible for associate membership of Institute of Town Planners India, OR B.Tech degree in Planning from recognized institute/university, GATE Architecture and Planning (AR) paper 2024 or 2025 or 2026 (highest score)",
