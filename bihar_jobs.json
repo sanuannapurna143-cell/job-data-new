@@ -1,6 +1,22 @@
 [
     {
         "date": "24/03/2026",
+        "board": "TMC HBCHRC",
+        "title": "Medical Officer",
+        "qualification": "MBBS Degree recognized by Medical Council of India",
+        "last_date": "27-03-2026",
+        "total_posts": "2",
+        "salary": "Rs. 1,11,132/- Per Month",
+        "age_limit": "Maximum Age: 45 years || Age Relaxation: Relaxable by 5 years for SC/ST, 3 years for OBC & 10 years for Physically Handicapped",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://tmc.gov.in",
+        "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=2TK+uwZBRn5Cp+YmRUnPIA=="
+    },
+    {
+        "date": "24/03/2026",
         "board": "EPFO",
         "title": "Lower Division Clerk/ Junior Secretariat Assistant",
         "qualification": "10TH",

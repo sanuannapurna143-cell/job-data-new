@@ -1,6 +1,22 @@
 [
     {
         "date": "24/03/2026",
+        "board": "TANUVAS",
+        "title": "Veterinary Graduate",
+        "qualification": "B.V.Sc / B.V.Sc & AH from recognized veterinary college.",
+        "last_date": "30-03-2026",
+        "total_posts": "1",
+        "salary": "Rs 50000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://tanuvas.ac.in",
+        "official_notification": "https://tanuvas.ac.in/admin/uploads/vacancies/1773754830.pdf"
+    },
+    {
+        "date": "24/03/2026",
         "board": "Annamalai University",
         "title": "Project Associate",
         "qualification": "M.E./M.Tech, M.Sc",

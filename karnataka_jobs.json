@@ -1,6 +1,22 @@
 [
     {
         "date": "24/03/2026",
+        "board": "IIM Bangalore",
+        "title": "Research Associate",
+        "qualification": "Master's in Psychology/ Management/ Social Sciences.",
+        "last_date": "06-04-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iimb.ac.in",
+        "official_notification": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-Research%20Associate.pdf"
+    },
+    {
+        "date": "24/03/2026",
         "board": "JNCASR",
         "title": "Research Associate",
         "qualification": "Ph.D/MD/MS/MDS or equivalent degree OR MVSc/M.Pharm/M.E/M.Tech",

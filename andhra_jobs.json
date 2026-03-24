@@ -1,6 +1,22 @@
 [
     {
         "date": "24/03/2026",
+        "board": "TTD",
+        "title": "Professor, Associate Professor, Assistant Professor, Medical Officer, Resident Doctor",
+        "qualification": "MBBS, MS/MD/DNB in relevant specialization, with significant teaching/research experience and publications.",
+        "last_date": "31-03-2026",
+        "total_posts": "30",
+        "salary": "Professor (Ortho): Rs.2,92,423/- as per CPC scales || Professor (Anaes.): Rs.2,92,423/- as per CPC scales || Associate Professor (Ortho): Rs.2,73,257/- as per CPC scales || Associate Professor (Anaes.): Rs.2,73,257/- as per CPC scales || Assistant Professor (Orthopaedics-Spine/paedicatric): Rs.2,09,297/- as per CPC scales / on par with existing doctors || Assistant Professor (Anaesthesia): Rs.2,09,297/- as per CPC scales / on par with existing || Medical Officer: Rs.93,525/- as per state scales / on par with existing || Junior Resident (Ortho / Anaesthesia): Rs.74,750/- as per state norms and implemented time to time enhanced by Govt., || Senior Resident (Ortho / Anaesthesia): Rs.80,500/- as per state norms and implemented time to time enhanced by Govt.,",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "The decision of the selection committee in all aspects and all respects pertaining to application and its acceptance or rejection as the case may be the selection or otherwise of any candidate shall be final in all respects and binding on all concerned. || The selection committee also reserves its rights to alter or modify regarding conditions laid down in the notification for selection and also posts notified.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tirumala.org",
+        "official_notification": "https://www.tirumala.org/Documents/e8dd8b06-5342-4531-8b14-4936c4ef5522.pdf"
+    },
+    {
+        "date": "24/03/2026",
         "board": "EPFO",
         "title": "Lower Division Clerk/ Junior Secretariat Assistant",
         "qualification": "10TH",
