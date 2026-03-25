@@ -1,5 +1,21 @@
 [
     {
+        "date": "25/03/2026",
+        "board": "SMC",
+        "title": "Senior Residents",
+        "qualification": "As per National Medical Commission",
+        "last_date": "01-04-2026",
+        "total_posts": "30",
+        "salary": "Monthly Fixed Consideration: Rs. 110880/-",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Personal Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.suratmunicipal.gov.in/",
+        "official_notification": "https://www.suratmunicipal.gov.in/Contents/Jobs/Opening/1688063.pdf?ver=8243"
+    },
+    {
         "date": "24/03/2026",
         "board": "IPR",
         "title": "Authorised Medical Officer –IPR",
@@ -93,7 +109,7 @@
         "apply_mode": "Offline",
         "syllabus": "Not Available",
         "official_website": "https://ssbalachadi.org/",
-        "official_notification": "appsc-tgt-recruitment-2026-apply-online-for-389-trained-graduate-teacher-posts-3042696"
+        "official_notification": "Not Available"
     },
     {
         "date": "23/03/2026",
