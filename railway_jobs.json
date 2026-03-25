@@ -1,6 +1,22 @@
 [
     {
         "date": "25/03/2026",
+        "board": "MPMRCL",
+        "title": "Manager",
+        "qualification": "B.E./ B. Tech. in Electrical/Electrical & Electronics from a Govt. recognized Institute/ University.",
+        "last_date": "24-04-2026",
+        "total_posts": "1",
+        "salary": "Manager (Contract):Pay Scale: ₹60,000 - ₹1,80,000 (Grade E3) || Manager (Deputation):Parent Pay plus Deputation Allowances & other applicable allowances OR Pay & allowances of MPMRCL as per rules of the corporation. || Manager (Re-employment):Consolidated Pay for retired officers joining on re-employment. Retired from Level 10 - ₹68,300/- pm plus other applicable allowances. || Assistant Manager (Contract):Pay Scale: ₹50,000 - ₹1,60,000 (Grade E2) || Assistant Manager (Deputation):Parent Pay plus Deputation Allowances & other applicable allowances OR Pay & allowances of MPMRCL as per rules of the corporation. || Assistant Manager (Re-employment):Consolidated Pay for retired officers joining on re-employment. Retired from Level-8 (Group-B) - ₹66,000/- pm plus other applicable allowances.",
+        "age_limit": "Manager/Assistant Manager (Deputation):Maximum 58 years (Max 60 years for retirement). || Manager/Assistant Manager (Re-employment):Minimum 55 years, Maximum 63 years. || Manager/Assistant Manager (Contract):Maximum 45 years.",
+        "application_fee": "₹200 plus 18% GST",
+        "selection_process": "Shortlisting based on relevant Metro experience and seniority in desired pay scale. || Information to shortlisted candidates via registered e-mail ID. || Interview (online or offline mode) with original documents. || Written test may be conducted if required.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mpmetrorail.com",
+        "official_notification": "https://www.mpmetrorail.com/uploads/files/Advertisment.pdf"
+    },
+    {
+        "date": "25/03/2026",
         "board": "South Eastern Railway",
         "title": "Contract Medical Practitioner",
         "qualification": "MBBS with PG Degree/Diploma in requisite field for Specialist, MBBS for GDMO.",
