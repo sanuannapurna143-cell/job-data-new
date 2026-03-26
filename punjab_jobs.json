@@ -1,6 +1,22 @@
 [
     {
         "date": "26/03/2026",
+        "board": "BFUHS",
+        "title": "Professor & Assistant Professor",
+        "qualification": "As per the current / updated Pharmacy Council of India norms.",
+        "last_date": "13-04-2026",
+        "total_posts": "8",
+        "salary": "Pay level-12 and Pay level-10",
+        "age_limit": "Professor: Maximum age limit is 50 years. || Assistant Professor: Maximum age limit is 40 years. || Age relaxation is applicable as per Punjab Govt. Rules.",
+        "application_fee": "Rs. 2360/- (Fee Rs. 2000+ GST Rs. 360 @ 18%)",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.bfuhs.ac.in",
+        "official_notification": "https://recruitment.ggsmch.org/form-bfu-26-07_pharmacy_faculty/"
+    },
+    {
+        "date": "26/03/2026",
         "board": "IIT Ropar",
         "title": "Postdoctoral Position",
         "qualification": "Ph.D. degree holders or having Thesis submission certificate",

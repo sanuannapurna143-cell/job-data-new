@@ -1,6 +1,22 @@
 [
     {
         "date": "26/03/2026",
+        "board": "JNCASR",
+        "title": "R&D Assistant",
+        "qualification": "B.E. Mechanical Engineering",
+        "last_date": "08-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 22,610/-pm plus 30% HRA",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.jncasr.ac.in/",
+        "official_notification": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-03/Advertisement_EMU.pdf"
+    },
+    {
+        "date": "26/03/2026",
         "board": "RDPR Karnataka",
         "title": "Ombudsman",
         "qualification": "Graduate with 10 years of experience in Public Administration, Law, Education, Social Service, or Management.",
@@ -61,7 +77,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.bemlindia.in/",
-        "official_notification": "sports-authority-of-india-assistant-coach-recruitment-2026-apply-online-for-323-posts-3035091"
+        "official_notification": "Not Available"
     },
     {
         "date": "25/03/2026",

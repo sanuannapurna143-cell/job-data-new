@@ -1,6 +1,54 @@
 [
     {
         "date": "26/03/2026",
+        "board": "AIIA",
+        "title": "Medical Officer (Casualty)",
+        "qualification": "MBBS Degree recognized under IMC Act, 1956. Desirable: MD/MS in Medicine/Surgery/Orthopedics and experience of working in Casualty/Trauma Centre.",
+        "last_date": "02-04-2026",
+        "total_posts": "2",
+        "salary": "Rs. 56,100/- per month (consolidated)",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://aiia.gov.in",
+        "official_notification": "https://aiia.gov.in/viewpdf?docTypeId=1&pdfName=1774347374376_Vacancy24032026154608.pdf"
+    },
+    {
+        "date": "26/03/2026",
+        "board": "AIIMS Delhi",
+        "title": "Project Research Staff",
+        "qualification": "Post Graduate Degree in Life Sciences or Biomedical Sciences for Scientist, Graduate degree in Life Science with 3 years experience or PG for Technical Support.",
+        "last_date": "08-04-2026",
+        "total_posts": "2",
+        "salary": "Project Research Scientist-1 (non-medical): Rs. 56000 + 30% HRA monthly || Project Technical Support III: Rs. 28000 + 30% HRA = 36,400 monthly",
+        "age_limit": "Maximum Age Limit: 35 years for all posts. || Age relaxation will be provided as per Government norms.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting of candidates || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/pathology-25-3-26.pdf"
+    },
+    {
+        "date": "26/03/2026",
+        "board": "Sports Authority of India",
+        "title": "Assistant Coach (26 Sports Disciplines)",
+        "qualification": "Diploma",
+        "last_date": "21-04-2026",
+        "total_posts": "323",
+        "salary": "Pay Scale:Level-6 (Rs. 35,400 - 1,12,400) in Pay Band-II (Rs. 9,300-34,800) with Grade Pay Rs. 4,200. || Allowances:Dearness Allowance, House Rent Allowance, Transport Allowance, Leave, Medical Benefits as per Central Government Rules. || Additional Benefits:Sports Kit as per SAI rules; promotion path to Coach, Sr. Coach, Chief Coach, and High Performance Coach. || Selected candidates are liable to be posted anywhere in India across SAI Regional Centres, National Centres of Excellence, and Training Centres.",
+        "age_limit": "Not Available",
+        "application_fee": "Non-refundable application fees** must be paid online (NEFT/RTGS/Net Banking/UPI): || Note: Fees once paid will not be refunded under any circumstances.",
+        "selection_process": "Two-Stage Process: Computer Based Test (CBT) (40% weightage) + Coaching Ability Test (CAT) (60% weightage). || CBT Details: 100 MCQs (2 hours) covering Sports-specific knowledge (65 marks), Sports Science (25 marks), General Awareness/Reasoning/Aptitude (10 marks) with negative marking. || CAT Shortlisting: 1:3 ratio (3 candidates per vacancy per sport/category) based on CBT performance. || Final Selection: Merit list based on combined CBT+CAT scores followed by document verification and medical fitness. || No interview; no re-evaluation/re-checking of answer sheets permitted.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sportsauthorityofindia.nic.in",
+        "official_notification": "https://sportsauthorityofindia.nic.in/sai_new/public/assets/uploads/jobs/1768564191_Assistant_Coach_Notification-FINAL_15.01.2026%20(1).pdf"
+    },
+    {
+        "date": "26/03/2026",
         "board": "Archaeological Survey of India",
         "title": "Consultant (Underwater Archaeology)",
         "qualification": "Master's in Underwater Archaeology/ Archaeology/ History (with specialization in Ancient Indian History) or PhD. Minimum 1.5 years (Junior) or 2.5 years (Senior) experience in underwater archaeology/ archaeology. Proficiency in computer applications.",
@@ -1085,7 +1133,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "uppcb-recruitment-2026-apply-online-for-40-assistant-environmental-engineer-assistant-scientific-officer-posts-3039230"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/03/2026",
