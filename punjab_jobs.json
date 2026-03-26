@@ -1,5 +1,21 @@
 [
     {
+        "date": "26/03/2026",
+        "board": "IIT Ropar",
+        "title": "Junior Research Fellow (JRF)/ Project Associate/Project Staff",
+        "qualification": "B.Tech/B.E. or M.Tech./M.E./M.S. in Electrical Engineering or equivalent qualification with 60% marks (or 6.5 grade point out of 10). A valid GATE score is desired.",
+        "last_date": "08-04-2026",
+        "total_posts": "2",
+        "salary": "As per the Institute rules",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://iitrpr.ac.in/",
+        "official_notification": "https://iitrpr.ac.in/mainwebsite-api/uploads/advertisements/projects/1774419824666-Ashwani_JRF_Advertisement_MoES%20%281%29.pdf"
+    },
+    {
         "date": "23/03/2026",
         "board": "PAU",
         "title": "Teaching and Non Teaching Posts",
@@ -16,22 +32,6 @@
         "official_notification": "https://pauwp.pau.edu/pau-announcements/advertisement-no-01-2026-for-various-posts/"
     },
     {
-        "date": "23/03/2026",
-        "board": "BFUHS",
-        "title": "Faculty",
-        "qualification": "DNB, Any Masters Degree, M.Pharma, Master of Dental Surgery, MS/ MD, M.Ch, DM",
-        "last_date": "25-03-2026",
-        "total_posts": "159",
-        "salary": "Not Available",
-        "age_limit": "Assistant Professor:Should not be more than 40 years || Associate Professor:45 years || Professor:50 years || Age relaxation is applicable as per rules.",
-        "application_fee": "All Categories except SC Category: Rs. 2360/-(Fee Rs. 2000+ GST Rs. 360 @ 18%) || For SC Category:Rs.1180/- (Fee Rs.1000 + GST Rs.180 @ 18 %)",
-        "selection_process": "Starting Date for Apply Online:21-10-2025 || Last Date for Apply Online: 03-11-2025 || Starting Date for Apply Online (reopened):18-03-2026 || Last Date for Apply Online (reopened): 25-03-2026",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ggsmch.org/",
-        "official_notification": "https://recruitment.ggsmch.org/bfu-25-26_university_faculty/"
-    },
-    {
         "date": "21/03/2026",
         "board": "PPSC",
         "title": "Research Officer (Group-A)",
@@ -46,22 +46,6 @@
         "syllabus": "Not Available",
         "official_website": "http://ppsc.gov.in",
         "official_notification": "https://www.ppsc.gov.in/usermanual.ashx?id=c13779"
-    },
-    {
-        "date": "21/03/2026",
-        "board": "IIT Ropar",
-        "title": "Research Assistant",
-        "qualification": "Postgraduate in Economics or allied Social Science (55% marks), NET/MPhil/PhD",
-        "last_date": "25-03-2026",
-        "total_posts": "1",
-        "salary": "Rs. 37000/- Per Month",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Nil",
-        "selection_process": "Shortlisting based on application || Offline Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://iitrpr.ac.in",
-        "official_notification": "https://iitrpr.ac.in/mainwebsite-api/uploads/advertisements/projects/1773900254481-advertisement%20for%20the%20position%20of%20Research%20assistant_ICSSR_2026%20%281%29.pdf"
     },
     {
         "date": "18/03/2026",
@@ -144,22 +128,6 @@
         "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7262&intSubID=147"
     },
     {
-        "date": "16/03/2026",
-        "board": "HBCH Sangrur",
-        "title": "Technician, Speech and Swallow Therapist and More",
-        "qualification": "S.S.C. + ITI (Electrician), SSC + ITI (Mechanical) + NCTVT, M.Sc. SLP or MASLP",
-        "last_date": "25-03-2026",
-        "total_posts": "3",
-        "salary": "Technician (Electrical): Rs.19,760/- Per Month || Technician (Medical Gas Pipeline System): Rs.19,760/- Per Month || Speech & Swallow Therapist: Rs.45,000/- Per Month",
-        "age_limit": "All Posts: No specific minimum or maximum age limit is mentioned. || Relaxation for upper age to the person belonging to Reserved Categories such as SC/ST/OBC/ as per the instruction of Government of India.",
-        "application_fee": "Nil",
-        "selection_process": "MCQ Test (if more candidates) || Interview || Skill Test (if applicable)",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://hbchs.tmc.gov.in",
-        "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=BhmN8PZIylO3tE5xxK5XBg=="
-    },
-    {
         "date": "14/03/2026",
         "board": "BFUHS",
         "title": "Food Safety Officer (FSO) - Group C",
@@ -174,22 +142,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.bfuhs.ac.in",
         "official_notification": "https://recruitment.ggsmch.org/form-bfu-26-05_food_inspector/"
-    },
-    {
-        "date": "14/03/2026",
-        "board": "District Court Faridkot",
-        "title": "Clerk and Stenographer Grade III/Steno-typist",
-        "qualification": "Bachelor of Arts or Bachelor of Science or equivalent.",
-        "last_date": "25-03-2026",
-        "total_posts": "11",
-        "salary": "Rs. 29,200/- Per Month",
-        "age_limit": "Min: 18 years, Max: 37 years",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://faridkot.dcourts.gov.in/",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec03073b00ab99487b74b63c9a6d2b96/uploads/2026/03/2026030968.pdf"
     },
     {
         "date": "09/03/2026",
