@@ -1,6 +1,22 @@
 [
     {
         "date": "26/03/2026",
+        "board": "ICMR NIIRNCD",
+        "title": "Project Human Resource Positions",
+        "qualification": "Post Graduate Degree in Life Sciences/ Public Health, Four-year Nursing course, Graduate in Science/BAMS/BHMS + three years' experience or Post-Graduate.",
+        "last_date": "09-04-2026",
+        "total_posts": "6",
+        "salary": "Rs.28,000/- + HRA per month fixed without any other allowances",
+        "age_limit": "Project Research Scientist-II (Non-Medical): Maximum 40 years (Age relaxation as per rules for SC/ST, OBC, EWS, Ex-Servicemen, Departmental Candidates, and Experienced and skilled persons). || Project Nurse -III: Maximum 30 years (Age relaxation as per rules for SC/ST, OBC, EWS, Ex-Servicemen, Departmental Candidates, and Experienced and skilled persons). || Project Technical Support-III: Maximum 35 years (Age relaxation as per rules for SC/ST, OBC, EWS, Ex-Servicemen, Departmental Candidates, and Experienced and skilled persons).",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in-interview / Written Test || Skill Test (where applicable) || Merit based on performance in written test and interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://niirncd.icmr.org.in",
+        "official_notification": "https://niirncd.icmr.org.in/admin/en_doc/nhrprec.pdf"
+    },
+    {
+        "date": "26/03/2026",
         "board": "AIIMS Jodhpur",
         "title": "Project Technical Support-III (Gait Technician)",
         "qualification": "Bachelor's in Physiotherapy (BPT) with two years' experience OR BSc in Kinesiology, Biomechanics, Biomedical engineering, Exercise and Sports Science.",
@@ -125,7 +141,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "Not Available"
+        "official_notification": "sports-authority-of-india-assistant-coach-recruitment-2026-apply-online-for-323-posts-3035091"
     },
     {
         "date": "16/03/2026",

@@ -1,6 +1,54 @@
 [
     {
         "date": "26/03/2026",
+        "board": "Archaeological Survey of India",
+        "title": "Consultant (Underwater Archaeology)",
+        "qualification": "Master's in Underwater Archaeology/ Archaeology/ History (with specialization in Ancient Indian History) or PhD. Minimum 1.5 years (Junior) or 2.5 years (Senior) experience in underwater archaeology/ archaeology. Proficiency in computer applications.",
+        "last_date": "07-04-2026",
+        "total_posts": "4",
+        "salary": "Senior Consultant: Rs. 60,000/- per month (consolidated). Junior Consultant: Rs. 40,000/- per month (consolidated).",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Not Available",
+        "apply_mode": "Email|Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.asi.nic.in",
+        "official_notification": "https://asi.nic.in/admin/jobsvacancie/download/78"
+    },
+    {
+        "date": "26/03/2026",
+        "board": "ICAR IARI",
+        "title": "Research Associate, Senior Research Fellow, Young Professional",
+        "qualification": "Ph.D. in relevant subject, Master's degree with research experience, Bachelor degree.",
+        "last_date": "03-04-2026",
+        "total_posts": "4",
+        "salary": "RA-2: Rs 61,000/- per month + 30% HRA (for Master Degree holders) & Rs 67,000/- per month + 30% HRA (for Ph. D). || JRF: Rs 37000 + 30% HRA per month || YP-II: Rs 42000/- Consolidated/ No HRA will be provided. || YP-I / Project assistant: Rs 30000/- Consolidated/ No HRA will be provided.",
+        "age_limit": "Maximum Age: 35 years || Age Relaxation: 5 years for women/SC/ST/OBC candidates.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Screening of applications || Online Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iari.res.in",
+        "official_notification": "https://iari.res.in/files/jobs/Revised_Plant_Physiology__24032026.pdf"
+    },
+    {
+        "date": "26/03/2026",
+        "board": "ABGH Delhi",
+        "title": "Senior Resident (SR) Doctors",
+        "qualification": "Post Graduate Degree (MD/DNB/DIPLOMA or equivalent in concerned stream) OR 03 Years' Experience as Junior Resident (02 Years in Concerned Department).",
+        "last_date": "30-03-2026",
+        "total_posts": "3",
+        "salary": "Pay Matrix Level 11: Rs 67,700/- to Rs 2,08,700/- per month, plus other admissible allowances.",
+        "age_limit": "Maximum Age: 45 years || Age Relaxation: 5 years for SC/ST and 3 years for OBC candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-In-Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://asbh.delhi.gov.in/",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wabgh_3.pdf"
+    },
+    {
+        "date": "26/03/2026",
         "board": "AIIMS Delhi",
         "title": "Field Staff",
         "qualification": "Graduation/post-graduation in psychology, social work, social sciences or nursing graduates.",
@@ -1037,7 +1085,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "bank-of-baroda-recruitment-2026-apply-online-for-104-deputy-manager-avp-posts-3042900"
+        "official_notification": "uppcb-recruitment-2026-apply-online-for-40-assistant-environmental-engineer-assistant-scientific-officer-posts-3039230"
     },
     {
         "date": "18/03/2026",

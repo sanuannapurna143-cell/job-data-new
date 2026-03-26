@@ -1,6 +1,22 @@
 [
     {
         "date": "26/03/2026",
+        "board": "ICMR NIN",
+        "title": "Consultant and Young Professional",
+        "qualification": "Any Graduate, Any Post Graduate, B.Pharma, B.Tech/ B.E, CA, CS, ICWA, M.Com, M.Phil/ Ph.D, M.Sc, MBA/ PGDM, MCA, MPH",
+        "last_date": "15-04-2026",
+        "total_posts": "6",
+        "salary": "Consultant: Between 1,00,000-1,80,000/-; Young Professional: Rs. 42,000/-",
+        "age_limit": "Consultant (Information Technology):Minimum 40 years, Maximum 70 years. || Consultant (Scientific / Technical - Non-Medical):Minimum 40 years, Maximum 70 years. || Young Professional-II (Administration):Not exceeding 40 years. || Young Professional-II (Legal):Not exceeding 40 years. || Young Professional-II (Finance & Accounts):Not exceeding 40 years. || Young Professional-II (Information Technology):Not exceeding 40 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test (if more than 30 candidates apply for YPs) || Personal Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nin.res.in/",
+        "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1774439142_icmr-ninyoungprofessionalsnotification.pdf"
+    },
+    {
+        "date": "26/03/2026",
         "board": "ESIC Hyderabad",
         "title": "Faculty – 07 Posts",
         "qualification": "As per Medical Institutions (Qualifications of Faculty) Regulations 2025 (NMC Gazette Notification dated 30.06.2025), including MD/MS/DM/M.Ch/DNB equivalence norms and required teaching/clinical experience",

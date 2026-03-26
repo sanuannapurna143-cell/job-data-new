@@ -1,6 +1,22 @@
 [
     {
         "date": "26/03/2026",
+        "board": "CSIR IHBT",
+        "title": "Senior-PAT",
+        "qualification": "M.Sc. in Life Science or Chemistry or equivalent, OR Ph.D. in Life Science or Chemical Science or M. Pharm. with relevant experience.",
+        "last_date": "17-04-2026",
+        "total_posts": "2",
+        "salary": "Rs. 42,000/- + HRA",
+        "age_limit": "Maximum Age Limit: 40 years as on 17.04.2026 || Age Relaxation:SC/ST/PwBD/Women: 05 yearsOBC: 03 years || SC/ST/PwBD/Women: 05 years || OBC: 03 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in-Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.ihbt.res.in",
+        "official_notification": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20260324202917_Final_Advt._no._06_by_2026_with_Application_Profoma.pdf"
+    },
+    {
+        "date": "26/03/2026",
         "board": "AIIMS Bilaspur",
         "title": "Project Research Scientist-I (Non-Medical)",
         "qualification": "Post Graduate Degree in Life Sciences",

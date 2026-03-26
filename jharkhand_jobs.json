@@ -1,6 +1,22 @@
 [
     {
         "date": "26/03/2026",
+        "board": "NIT Jamshedpur",
+        "title": "Medical Officer",
+        "qualification": "MBBS Degree or equivalent qualification included in any one of the Schedules of the Indian Medical Council Act 1956 and must be registered in a state Medical Register on Indian Medical Register. Desirable: Post Graduate Qualification, preferably MD in General Medicine, or equivalent qualification included in any one of the Schedules to the Indian Medical Council Act, 1956 and must be registered in a State Medical Register or Indian Medical Register.",
+        "last_date": "08-04-2026",
+        "total_posts": "1",
+        "salary": "₹1,00,000/- (Per Month) consolidated",
+        "age_limit": "Not Exceeding 50 Years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://nitjsr.ac.in/",
+        "official_notification": "https://nitjsr.ac.in/backend/uploads/recruitments/4ad8ad98-e9f9-456d-a4c5-cbf2a6056f4a-Walk-In-Interview%20for%20the%20Post%20of%20Medical%20Officer%20%281%29.pdf"
+    },
+    {
+        "date": "26/03/2026",
         "board": "SAIL BSL",
         "title": "Quality Manager (Aviation Wing)",
         "qualification": "Full‑time Engineering Degree in Aeronautical/Mechanical/Electrical/Electronic/Avionic stream from UGC/AICTE recognized institute or Diploma in Aircraft Maintenance Engineering from DGCA approved organization",
