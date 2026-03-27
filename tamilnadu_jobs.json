@@ -1,6 +1,38 @@
 [
     {
         "date": "27/03/2026",
+        "board": "IIT Madras",
+        "title": "Software Developer",
+        "qualification": "B.E / B.Tech / MCA / M.Sc (Computer Science) or an equivalent postgraduate degree.",
+        "last_date": "29-03-2026",
+        "total_posts": "3",
+        "salary": "Rs. 25,000/- to Rs. 40,000/- per month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitm.ac.in",
+        "official_notification": "https://icsrstaff.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1774352607.pdf"
+    },
+    {
+        "date": "27/03/2026",
+        "board": "Anna University",
+        "title": "Junior Research Fellow I",
+        "qualification": "B.Tech/ B.E, M.E/ M.Tech",
+        "last_date": "06-04-2026",
+        "total_posts": "1",
+        "salary": "As per CSIR norms",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "www.annauniv.edu",
+        "official_notification": "https://www.annauniv.edu/pdf/JRF_Advertisement_CME.pdf"
+    },
+    {
+        "date": "27/03/2026",
         "board": "ECIL",
         "title": "Project Engineer, Technical Officer, Assistant Project Engineer, Senior Artisan",
         "qualification": "Date of selection (respective walk‑in date)",

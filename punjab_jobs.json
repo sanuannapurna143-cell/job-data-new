@@ -1,6 +1,22 @@
 [
     {
         "date": "27/03/2026",
+        "board": "IIT Ropar",
+        "title": "Technical Assistant",
+        "qualification": "Bachelor's degree in Engineering or Agriculture/Horticulture/Food or allied branches",
+        "last_date": "06-04-2026",
+        "total_posts": "1",
+        "salary": "Technical Assistant: Rs 30,000/- + HRA (as per DST norms)",
+        "age_limit": "The maximum age limit for Technical Assistant is 35 years. || Age relaxation will be applicable as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.iitrpr.ac.in/smmee/prabir",
+        "official_notification": "https://iitrpr.ac.in/mainwebsite-api/uploads/advertisements/projects/1773663833117-March-2026-TA-SPA.pdf"
+    },
+    {
+        "date": "27/03/2026",
         "board": "Punjab Police",
         "title": "Constable (District Police Cadre & Armed Police Cadre)",
         "qualification": "Constable: 10+2 or equivalent from recognized Board/ University; for Ex‑servicemen minimum qualification Matriculation",

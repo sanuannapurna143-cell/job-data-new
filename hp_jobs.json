@@ -1,5 +1,37 @@
 [
     {
+        "date": "27/03/2026",
+        "board": "CUHP",
+        "title": "Assistant Professor",
+        "qualification": "Master's degree in the relevant subject with NET/SLET/SET or Ph.D. degree.",
+        "last_date": "27-04-2026",
+        "total_posts": "25",
+        "salary": "Rs. 1,31,400/- to Rs. 2,17,100/-",
+        "age_limit": "",
+        "application_fee": "Rs. 1750",
+        "selection_process": "Shortlisting based on Academic/Research Score || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cuhimachal.ac.in",
+        "official_notification": "https://www.cuhimachal.ac.in/admin/assets/uploads/job/20260327101631968b6e90a7.pdf"
+    },
+    {
+        "date": "27/03/2026",
+        "board": "CSIR IHBT",
+        "title": "Research Associate I",
+        "qualification": "Ph.D in Biotechnology / Life/Biological Science from a recognized university or equivalent.",
+        "last_date": "07-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 58,000/- + 9% HRA",
+        "age_limit": "Maximum Age Limit: 40 Years || Age Relaxation:SC/ST/PwBD/Women: 05 yearsOBC: 03 years || SC/ST/PwBD/Women: 05 years || OBC: 03 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ihbt.res.in",
+        "official_notification": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20260324140912_Final_Advt._no._05_by_2026_with_application_proforma.pdf"
+    },
+    {
         "date": "26/03/2026",
         "board": "CSIR IHBT",
         "title": "Senior-PAT",
