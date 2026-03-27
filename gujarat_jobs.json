@@ -1,6 +1,22 @@
 [
     {
         "date": "27/03/2026",
+        "board": "SVNIT",
+        "title": "Legal Officer",
+        "qualification": "Bachelor's degree in Law (LLB)",
+        "last_date": "20-04-2026",
+        "total_posts": "1",
+        "salary": "Consolidated Rs 45,000/- per month",
+        "age_limit": "Not more than 40 years as on last date of application.",
+        "application_fee": "Not Available",
+        "selection_process": "Based on performance in the Interview || Shortlisted candidates will be called for interview. || Final selection will be based on the performance of candidate during personal interview.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.svnit.ac.in/",
+        "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/March/NOTIFICATION%20-%20%20CONTRACTUAL%20POST%20-%20Legal%20Officer%20-%202026.pdf"
+    },
+    {
+        "date": "27/03/2026",
         "board": "GSSSB",
         "title": "Staff Nurse (Ayurveda), Class-3",
         "qualification": "Diploma in Ayurvedic Nursing (Ayurved Nursing Course Certificate from Gujarat Ayurvedic Nursing Faculty) + Basic Computer Knowledge + Gujarati/Hindi language knowledge",
@@ -269,7 +285,7 @@
         "apply_mode": "Offline",
         "syllabus": "Not Available",
         "official_website": "https://ssbalachadi.org/",
-        "official_notification": "nabfins-cso-recruitment-2026-apply-online-for-customer-service-officer-posts-3043198"
+        "official_notification": "Not Available"
     },
     {
         "date": "23/03/2026",

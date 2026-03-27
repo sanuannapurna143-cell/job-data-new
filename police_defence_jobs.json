@@ -1,6 +1,38 @@
 [
     {
         "date": "27/03/2026",
+        "board": "Ordnance Factory Bhusawal",
+        "title": "Executive (Finance & Accounts)",
+        "qualification": "Member of Institute of Chartered Accountants of India (ICAI) Or Member of Institute of Cost Accountants of India (ICMAI)",
+        "last_date": "17-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1,00,000/- (Fixed) for the first two years. || Rs. 1,10,000/-(fixed) for the 3rd & 4th year.",
+        "age_limit": "Maximum 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://ddpdoo.gov.in/",
+        "official_notification": "https://ddpdoo.gov.in/storage/document/69c6620c93665.pdf"
+    },
+    {
+        "date": "27/03/2026",
+        "board": "DRDO INMAS",
+        "title": "Paid Internship",
+        "qualification": "Pursuing final year of Graduation in Engineering / Post-Graduation in Engineering or General Sciences.",
+        "last_date": "30-04-2026",
+        "total_posts": "8",
+        "salary": "Paid Internship: Rs. 5000 per month for a period of 06 months.",
+        "age_limit": "Maximum Age: 28 Years || Age relaxation rules are not specified in the provided data.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Academic merit || Interaction (video conferencing or telephonically, if required)",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.drdo.gov.in",
+        "official_notification": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtINMAS27032026.pdf"
+    },
+    {
+        "date": "27/03/2026",
         "board": "Naval Ship Repair Yard and Naval Aircraft Yard",
         "title": "Designated Trade Apprentices (21 Trades)",
         "qualification": "Matric/10th with min. 50% marks & ITI (NCVT) in relevant trade with 65% aggregate",
