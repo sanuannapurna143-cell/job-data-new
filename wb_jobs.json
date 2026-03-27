@@ -322,22 +322,6 @@
     {
         "date": "16/03/2026",
         "board": "ESIC",
-        "title": "Teaching Faculty for Super Specialty Department",
-        "qualification": "DM/MCh/DNB",
-        "last_date": "27-03-2026",
-        "total_posts": "27",
-        "salary": "Professor: Rs. 2,60,226/- Consolidated || Associate Professor: Rs. 1,73,045/- Consolidated || Assistant Professor: Rs. 1,48,669/- Consolidated",
-        "age_limit": "Maximum Age Limit: 69 years for all posts.",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Document Verification || Interview before Selection Board",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.esic.gov.in",
-        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Engagement_Of_Teaching_Faculty_For_Super_Specialty_Department_On_Contractual_Basis_For_ESI_PGIMSR_amp_ESIC_Medical_College_Located_At_Joka_Kolkata_English_1773470538.pdf"
-    },
-    {
-        "date": "16/03/2026",
-        "board": "ESIC",
         "title": "Principal Cum Professor and Vice Principal Cum Professor",
         "qualification": "M.Sc Or Ph.D. (Nursing)",
         "last_date": "28-03-2026",
@@ -545,22 +529,6 @@
     },
     {
         "date": "05/03/2026",
-        "board": "PSCWB",
-        "title": "Head Master / Head Mistress in English Medium Government High Madrasah",
-        "qualification": "Master's Degree (second class), B.Ed (first class), 10 years continuous teaching experience",
-        "last_date": "27-03-2026",
-        "total_posts": "5",
-        "salary": "Rs. 56,100/- - Rs. 1,44,300/- Per Month",
-        "age_limit": "35-50 years as on 01-01-2026",
-        "application_fee": "210",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://psc.wb.gov.in",
-        "official_notification": "https://psc.wb.gov.in/Download?param1=Ad_20260305111115_02_2026_Advt.pdf&param2=advertisement"
-    },
-    {
-        "date": "05/03/2026",
         "board": "CSIR-IICB",
         "title": "Multi-Tasking Staff (MTS)",
         "qualification": "Matriculation or equivalent pass (Essential); Intermediate/12th Class Pass (Desirable)",
@@ -622,37 +590,5 @@
         "syllabus": "Not Available",
         "official_website": "https://birbhum.gov.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s3fc3cf452d3da8402bebb765225ce8c0e/uploads/2026/02/17721081787486.pdf"
-    },
-    {
-        "date": "26/02/2026",
-        "board": "WBSRLM DMMU Alipurduar",
-        "title": "CLF Accountant & MIS",
-        "qualification": "Higher Secondary (Commerce stream) or Graduate (any stream), Valid 6-month computer certificate (Word/Excel/PowerPoint), At least 2 years experience in maintaining books of accounts of SHG/federation, Active member of functional SHG for last 2 years",
-        "last_date": "27-03-2026",
-        "total_posts": "62",
-        "salary": "Not Available",
-        "age_limit": "Min: 21 years, Max: 40 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://alipurduar.gov.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s33636638817772e42b59d74cff571fbb3/uploads/2026/02/17720870162392.pdf"
-    },
-    {
-        "date": "04/02/2026",
-        "board": "WBSETCL",
-        "title": "Graduate Apprentice / Technician Apprentice",
-        "qualification": "Graduate (Electrical) / Diploma (Electrical) / ITI (Wireman/Electrician)",
-        "last_date": "27-03-2026",
-        "total_posts": "138 Posts",
-        "salary": "Rs. 10500/-",
-        "age_limit": "The minimum age of the candidates for all the trades is 18 years as on 01.01.2026.",
-        "application_fee": "Not Available",
-        "selection_process": "Selection based on merit (marks in qualifying examination). || Shortlisted candidates called for document verification. || Final selection after successful verification of documents.",
-        "apply_mode": "Online (NATS / NAPS)",
-        "syllabus": "Not Available",
-        "official_website": "https://www.wbsetcl.in",
-        "official_notification": "https://www.wbsetcl.in/career/Detailed%20Notification_04.02_2026.pdf"
     }
 ]
