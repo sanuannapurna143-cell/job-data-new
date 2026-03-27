@@ -1,5 +1,53 @@
 [
     {
+        "date": "27/03/2026",
+        "board": "GIPL",
+        "title": "Assistant Manager, Software Engineer and More Positions",
+        "qualification": "B.E/B. Tech. (Computer Engineering / Information Technology) / MCA",
+        "last_date": "15-04-2026",
+        "total_posts": "7",
+        "salary": "Salary package will be finalized based on the candidate's last/current drawn salary.",
+        "age_limit": "Manager: Minimum 33 years, Maximum 45 years. || Assistant Manager: Minimum 30 years, Maximum 40 years. || Software Engineer: Minimum 25 years, Maximum 33 years. || Network Engineer: Minimum 25 years, Maximum 33 years.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Scrutiny of applications || Virtual and / or personal interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.gipl.net",
+        "official_notification": "https://careers.gipl.in/"
+    },
+    {
+        "date": "27/03/2026",
+        "board": "ESIC",
+        "title": "Senior Resident,  Super Specialist",
+        "qualification": "MBBS with PG Degree/DNB/Diploma, MS/DNB with MCH/DrNB, MD with DM/DrNB",
+        "last_date": "01-04-2026",
+        "total_posts": "11",
+        "salary": "Senior Resident:Basic Pay Rs. 67,700/- in the Level-11 & Index-1 of Pay Matrix (Pre-revised Basic pay Rs. 18,750/- (PB-3) with Grade Pay Rs. 6600/-) and allowances applicable under ESIC rules and Scheme of Senior Residency. || Part Time Super Specialist:Consolidated amount of Rs. 1,00,000/- per month. || Full Time Super Specialist:Consolidated amount of Rs 2,00,000/- per month.",
+        "age_limit": "Senior Resident:Maximum age limit is 45 years. Age relaxation of 03 years for OBC and 05 years for SC/ST candidates will be applicable. || Super Specialist:Maximum age limit is 69 years.",
+        "application_fee": "Rs. 300/-",
+        "selection_process": "Document Verification || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Short_Notice_No_02_of_Advt_No_01_2026_Walk_in_Interview_scheduled_for_01_04_2026_for_the_post_of_Senior_Resident_3_Years_and_FT_PT_Super_Specialist_English_1774509841.pdf"
+    },
+    {
+        "date": "27/03/2026",
+        "board": "CSMCRI",
+        "title": "Project Associate - I",
+        "qualification": "B.Tech/ B.E, M.Sc",
+        "last_date": "03-04-2026",
+        "total_posts": "17",
+        "salary": "Rs. 31,000/- + HRA or Rs. 25,000/- + HRA",
+        "age_limit": "Maximum Age Limit: 35 years. || Age relaxation applicable as per CSIR rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.csmcri.res.in",
+        "official_notification": "https://www.csmcri.res.in/node/10743"
+    },
+    {
         "date": "26/03/2026",
         "board": "Bank of Baroda",
         "title": "Total Bank of Baroda WMS Vacancy 2026",
@@ -416,22 +464,6 @@
         "official_notification": "https://ccras.nic.in/wp-content/uploads/2026/03/11032026-Advertise-for-AMHCP_WCH_THCRP-Project-RARI-Ahmedabad.pdf"
     },
     {
-        "date": "11/03/2026",
-        "board": "IOCL",
-        "title": "Trade Apprentice, Technician Apprentice, Graduate Apprentice",
-        "qualification": "Matric + ITI / Class 12th / Diploma in Engineering / Any Graduate Degree (as per discipline)",
-        "last_date": "26-03-2026",
-        "total_posts": "405 (across all states/UTs of Western Region)",
-        "salary": "Rate of stipend payable to apprentices per month shall be as prescribed under the Apprentices Act, 1961/1973 and Apprentices Rules 1992/2019/2025 as amended from time to time. || The exact stipend amount is not specified in the notification; candidates are advised to refer to the latest Apprentices Rules for updated stipend rates.",
-        "age_limit": "Minimum Age:18 Years || Maximum Age:24 Years || SC/ST candidates:Age relaxation of 5 years (maximum up to 29 years) || OBC-NCL candidates:Age relaxation of 3 years (maximum up to 27 years) || PwBD candidates:Age relaxation of up to 10 years (up to 15 years for SC/ST PwBD; up to 13 years for OBC-NCL PwBD) || Cutoff/Reckoning date for age criteria: 28.02.2026",
-        "application_fee": "No Application Fee has been mentioned in the official notification. || Candidates apply through NAPS / NATS portals; any charges levied by the portal (if any) are not specified in this notification.",
-        "selection_process": "Candidates must register successfully on NAPS/NATS portal and apply against the notification to be considered for the selection process. || There will beno written test or interview. || A merit list will be prepared based on the percentage of marks secured in the essential prescribed qualification for the respective post. || Shortlisted candidates will be called forDocument Verification. || Shortlisted candidates must complete aPre-Engagement Medical Fitness Testand be adjudged medically fit as per IndianOil's pre-engagement medical format. || Candidates whose documents and Pre-Engagement Medical Fitness Certificate are found in order shall be issued an Offer of Engagement for Apprenticeship Training. || Opportunities not filled through the initial shortlisting shall be filled by eligible candidates from the merit cum panel list for the same opportunity.",
-        "apply_mode": "Online (Through NAPS / NATS Portal)",
-        "syllabus": "Not Available",
-        "official_website": "https://iocl.com/",
-        "official_notification": "https://iocl.com/admin/img/Apprenticeships/Files/b2f1aa3dfa1a4ab7b2fc92ab6af4a339.pdf"
-    },
-    {
         "date": "28/02/2026",
         "board": "SVNIT",
         "title": "Research Associate-I / Project Associate-I",
@@ -462,21 +494,5 @@
         "syllabus": "Not Available",
         "official_website": "http://www.itra.ac.in",
         "official_notification": "https://itra.ac.in/wp-content/uploads/2026/02/Advertisement-2026-Goup-A.pdf"
-    },
-    {
-        "date": "25/02/2026",
-        "board": "VNSGU",
-        "title": "Temporary Assistant Professor (TAP) / Temporary Teaching Assistant / Tutor",
-        "qualification": "Master’s Degree in relevant/allied subject + NET/SET/Ph.D. as per UGC 2018 norms (department-specific specializations)",
-        "last_date": "26-03-2026",
-        "total_posts": "194  (across 20+ departments & self-financed programmes)",
-        "salary": "Temporary Assistant Professor: ₹40,000 – ₹60,000 per month (fixed consolidated). || Temporary Teaching Assistant / Tutor: ₹25,000 – ₹40,000 per month (fixed consolidated). || No additional allowances like PF, Gratuity, LTC, Medical benefits. || Contract period: 11 months (or till regular appointment, whichever earlier).",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on online application & documents. || Interview / Written Test as decided by Selection Committee. || Final selection subject to verification of original documents.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://vnsgu.ac.in/",
-        "official_notification": "https://vnsgu.ac.in/wp-content/downloads/Recruitment/2026/02/25022026TAP.pdf"
     }
 ]
