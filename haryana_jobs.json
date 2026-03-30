@@ -1,5 +1,21 @@
 [
     {
+        "date": "30/03/2026",
+        "board": "HRERA",
+        "title": "Members (HRERA)",
+        "qualification": "Adequate knowledge and professional experience of at least fifteen years",
+        "last_date": "20-04-2026",
+        "total_posts": "2",
+        "salary": "As prescribed in Rule 18 of the Real Estate (Regulations and Development) Rules, 2017 of the Haryana State.",
+        "age_limit": "The age of the candidate should not exceed sixty-five years. || The tenure of the member will not exceed five years from the date on which they enter upon their office.",
+        "application_fee": "Not Available",
+        "selection_process": "Assessment prior to interaction",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://tcpharyana.gov.in",
+        "official_notification": "https://tcpharyana.gov.in/public_notice/Ad%202026.pdf"
+    },
+    {
         "date": "28/03/2026",
         "board": "Sainik School Rewari",
         "title": "TGT, Music Teacher and More",
@@ -14,22 +30,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.ssrw.org",
         "official_notification": "https://ssrw.org/wp-content/uploads/2026/03/Website-Advt-Mar-2026.pdf"
-    },
-    {
-        "date": "27/03/2026",
-        "board": "DTCP Haryana",
-        "title": "Haryana Real Estate Regulatory Authority (HRERA)",
-        "qualification": "Adequate knowledge and professional experience of at least fifteen years",
-        "last_date": "20-04-2026",
-        "total_posts": "2",
-        "salary": "As prescribed in Rule 18 of the Real Estate (Regulations and Development) Rules, 2017 of the Haryana State.",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://tcpharyana.gov.in",
-        "official_notification": "https://tcpharyana.gov.in/public_notice/Ad%202026.pdf"
     },
     {
         "date": "27/03/2026",
@@ -285,7 +285,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "wbpsc-librarian-recruitment-2026-apply-online-for-01-posts-3043335"
+        "official_notification": "Not Available"
     },
     {
         "date": "17/03/2026",
