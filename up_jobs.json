@@ -1,6 +1,38 @@
 [
     {
         "date": "30/03/2026",
+        "board": "NHDC",
+        "title": "Senior Officer (Human Resources)",
+        "qualification": "Diploma, MBA/ PGDM, MSW",
+        "last_date": "20-04-2026",
+        "total_posts": "1",
+        "salary": "Pay Scale: 27000-95000 (IDA) || Gross Pay: Rs.58,968/- p.m. (approx)",
+        "age_limit": "Maximum Age: 35 years || Age Relaxation: As per Govt. directives for SC/ST/OBC/PWD/EWS/Ex-Servicemen and 5 years for Departmental Candidates (for those in service for last 03 yrs).",
+        "application_fee": "Rs. 500",
+        "selection_process": "Written Test || Group Discussion",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "www.nhdc.org.in",
+        "official_notification": "https://recruit.nhdc.eprime.app/storage/job_pdfs/job_1774633984_Advt._Sr._Officer_HR___March_2026.pdf"
+    },
+    {
+        "date": "30/03/2026",
+        "board": "UPSSSC",
+        "title": "Pharmacist (Bheshajik)",
+        "qualification": "Diploma in Pharmacy (D.Pharma) from recognised institution + UP State Pharmacy Council Registration",
+        "last_date": "31-03-2026",
+        "total_posts": "564",
+        "salary": "Selected candidates for the post of Pharmacist (Bheshajik) will be placed at Level-5 of the pay matrix with the following pay structure: || Pay Band:₹5,200 – ₹20,200 per month || Grade Pay:₹2,800 per month || Additional allowances will be as per Uttar Pradesh Government norms.",
+        "age_limit": "18 to 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://upsssc.gov.in",
+        "official_notification": "https://upsssc.gov.in/ViewPdf.aspx?0YoLs/X2zBOAAeIt0monibMbwQwmxdAWJHQPTRSKTYM="
+    },
+    {
+        "date": "30/03/2026",
         "board": "IIT Kanpur",
         "title": "Assistant Project Manager",
         "qualification": "Post Graduate (M.Sc./ M.A./ M.Com./ MBA/ MCA/ LLM) OR Graduate (B.Sc./ B.A./ B.Com / BBA/BCA/LLB).",
@@ -557,7 +589,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "chittaranjan-locomotive-works-clw-recruitment-2026-walk-in-for-43-pgt-tgt-and-physical-instructor-posts-3043434"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/03/2026",

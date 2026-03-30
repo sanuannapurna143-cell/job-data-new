@@ -1,6 +1,38 @@
 [
     {
         "date": "30/03/2026",
+        "board": "Ordnance Factory Bhandara",
+        "title": "Tenure Based Danger Building Worker (DBW) – Skilled",
+        "qualification": "ITI",
+        "last_date": "30-04-2026",
+        "total_posts": "400",
+        "salary": "Rs. 19,900/- plus applicable DA and other admissible allowances",
+        "age_limit": "18 to 40 years as on last date, with applicable age relaxations",
+        "application_fee": "NIL",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "/cdn-cgi/l/email-protection",
+        "official_notification": "https://ddpdoo.gov.in/storage/document/69ca524576a0e.pdf"
+    },
+    {
+        "date": "30/03/2026",
+        "board": "NMMC",
+        "title": "Junior Engineer (Electrical), Junior Engineer (Mechanical), Assistant Commissioner, Municipal Deputy Secretary, Assistant Law Officer, Biomedical Engineer, Surgeon, Gynecologist, and other Group A, B & C Posts",
+        "qualification": "Junior Engineer (Electrical):Diploma in Electrical Engineering from a recognized institution with valid certificate || Junior Engineer (Mechanical):Diploma in Mechanical Engineering from a recognized institution with valid certificate || Assistant Commissioner:Graduate degree and knowledge of Marathi language || Municipal Deputy Secretary:Graduate degree with law qualification or legal experience || Assistant Law Officer:Graduate with Law degree (LLB) and Marathi language knowledge || Biomedical Engineer:Degree in Biomedical Engineering with relevant experience || Surgeon:MBBS with MD/MS in Surgery and relevant post-graduate qualification || Gynecologist:MBBS with MD/MS in Obstetrics and Gynecology || Other Medical Posts:MBBS with respective post-graduate qualifications in the concerned specialization",
+        "last_date": "15-04-2026",
+        "total_posts": "132 Posts (Group A, Group B, Group C)",
+        "salary": "Junior Engineer (Electrical/Mechanical):Rs. 38,600 - 1,22,800 per month || Assistant Commissioner:Rs. 44,900 - 1,42,400 per month || Municipal Deputy Secretary:Rs. 41,600 - 1,32,300 per month || Assistant Law Officer:Rs. 41,600 - 1,32,300 per month || Biomedical Engineer:Rs. 56,900 - 1,77,500 per month || Surgeon/Gynecologist/Medical Specialists:Rs. 56,900 - 1,77,500 per month || All pay scales are as per 7th Pay Commission norms || Additional allowances like DA, HRA, TA and other benefits as per NMMC rules",
+        "age_limit": "Minimum Age:18 years || Maximum Age:38 years for most posts || Age Relaxation:SC/ST Candidates: 5 yearsOBC Candidates: 3 yearsPWD Candidates: 10 yearsEx-Servicemen: As per government rulesWomen candidates: Additional relaxation as per norms || SC/ST Candidates: 5 years || OBC Candidates: 3 years || PWD Candidates: 10 years || Ex-Servicemen: As per government rules || Women candidates: Additional relaxation as per norms || Age will be calculated as on the last date of online application submission || Upper age limit may vary for different posts, candidates must check the official notification",
+        "application_fee": "Application fee must be paid online through Credit Card, Debit Card, Net Banking or UPI || The application fee is non-refundable under any circumstances || Candidates must keep the payment receipt for future reference",
+        "selection_process": "Written Examination:Computer-based test covering general knowledge, reasoning, mathematics, technical subjects related to the post, and Marathi language || Document Verification:Candidates qualifying in written test will be called for document verification. Candidates must bring all original documents along with self-attested photocopies || Personal Interview/Skill Test:For technical and specialist posts, candidates may have to appear for personal interview and/or skill test || Medical Examination:Selected candidates must undergo medical fitness test as per NMMC norms || Final Merit List:Final selection will be based on performance in written test, interview (if applicable) and document verification || Typing Test:For Clerk-Typist and similar posts, typing test in Marathi and English will be conducted",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nmmc.gov.in",
+        "official_notification": "https://app.nmmconline.in/backend/common/api/file/preview?filePath=/var/nmmc/docs/contentManagement/_20-12-2025-18-57-22_GROUP%20C%20Detail%20Advertisement%20Technical%20Cadre.pdf"
+    },
+    {
+        "date": "30/03/2026",
         "board": "ESIC",
         "title": "Contractual Part Time Specialist, Dental Surgeon, Speciality Medical Officer and Medical Officer",
         "qualification": "MBBS with P.G./DNB Degree, PG Diploma, BDS,",

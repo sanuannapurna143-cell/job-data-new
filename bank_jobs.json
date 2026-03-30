@@ -1,6 +1,22 @@
 [
     {
         "date": "30/03/2026",
+        "board": "RBI",
+        "title": "Bank's Medical Consultant (BMC)",
+        "qualification": "MBBS degree from a recognized university and minimum two years of experience in practicing medicine.",
+        "last_date": "20-04-2026",
+        "total_posts": "2",
+        "salary": "Bank's Medical Consultant (BMC): Rs. 1000/- per hour. Out of the total monthly remuneration, a sum of Rs. 1000/- per month shall be treated as conveyance expenses.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Medical tests",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rbi.org.in",
+        "official_notification": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4943"
+    },
+    {
+        "date": "30/03/2026",
         "board": "Bank of Baroda",
         "title": "Financial Literacy Centre Counselor (FLCC)",
         "qualification": "Graduate degree",

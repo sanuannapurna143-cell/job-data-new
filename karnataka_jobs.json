@@ -1,6 +1,22 @@
 [
     {
         "date": "30/03/2026",
+        "board": "UCSL",
+        "title": "Office Assistant and Admin Assistant",
+        "qualification": "Bachelor's Degree / PUC / ITI / NTC",
+        "last_date": "20-04-2026",
+        "total_posts": "4",
+        "salary": "Office Assistant - ₹ 25,000/-, Admin Assistant - ₹ 23,500/-",
+        "age_limit": "Office Assistant:Maximum age 30 years. Age relaxation applicable for reserved categories: OBC (Non-Creamy Layer) - 3 years, SC/ST - 5 years, Ex-servicemen - Maximum age of 35 years. || Admin Assistant:Maximum age 40 years. Age relaxation applicable for reserved categories: OBC (Non-Creamy Layer) - 3 years, SC/ST - 5 years, Ex-servicemen - Maximum age of 45 years.",
+        "application_fee": "₹ 300/- (Non-refundable, plus bank charges extra)",
+        "selection_process": "Written Tests (Objective Type Test - 70 Marks and Descriptive Type Test - 30 Marks) || Certificate Verification || Medical Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.udupicsl.com/",
+        "official_notification": "https://cochinshipyard.in/uploads/career/f6912acba14ecdadef8a70ab933779d9.pdf"
+    },
+    {
+        "date": "30/03/2026",
         "board": "Udupi CSL",
         "title": "Supervisor (Stores)",
         "qualification": "Three-year Diploma in Mechanical/Electrical Engineering OR ITI",
