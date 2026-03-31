@@ -1,6 +1,38 @@
 [
     {
         "date": "31/03/2026",
+        "board": "SFAC",
+        "title": "Young Professional (Legal)",
+        "qualification": "Bachelor's Degree of Law",
+        "last_date": "24-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 50,000/- per month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sfacindia.com",
+        "official_notification": "https://sfacindia.com/PDFs/Tenders/Vacancy%20Notice%20for%20one%20position%20of%20Young%20Professional%20%28Legal%29%20in%20SFAC.%20Last%20date%2024.04.2026.pdf"
+    },
+    {
+        "date": "31/03/2026",
+        "board": "ICSIL",
+        "title": "Studio Manager/Content Writer/ Social Media Manager & Staff Nurse",
+        "qualification": "Diploma/Bachelors in Mass Communication or Journalism; Nursing Council exam with Three Years Programme in General Nursing Midwifery (GNW) OR B.Sc. (Regular or Hons) in Nursing.",
+        "last_date": "02-04-2026",
+        "total_posts": "3",
+        "salary": "Rs. 40,000/- PM (EPF as applicable)",
+        "age_limit": "Studio Manager/Content Writer/ Social Media Manager:No age limit specified. || Staff Nurse (Female):Up to 35 Years.",
+        "application_fee": "Rs. 590/- (non-refundable)",
+        "selection_process": "Scrutiny of documents || Interaction/Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.icsil.in",
+        "official_notification": "https://icsil.in/sites/default/files/2026-03/Walk-in%20Advt.%20%20IGDTUW.pdf"
+    },
+    {
+        "date": "31/03/2026",
         "board": "NITCON",
         "title": "Junior Engineer (Civil) / Junior Engineer (Electrical or Mechanical)",
         "qualification": "Diploma / Engineering Degree in relevant field with minimum 60% marks + required experience",
@@ -1453,7 +1485,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "nitcon-junior-engineer-recruitment-2026-apply-online-for-100-posts-3043564"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/03/2026",

@@ -1,6 +1,22 @@
 [
     {
         "date": "31/03/2026",
+        "board": "IGIMS",
+        "title": "Senior Resident",
+        "qualification": "MBBS, MD/DrNB Obs. Gynecology or DrNB/M.Ch Gynecological Oncology",
+        "last_date": "10-04-2026",
+        "total_posts": "2",
+        "salary": "As Per Institute rule",
+        "age_limit": "Maximum Age Limit: 45 years. || Age Relaxation: SC/ST - 05 Years, EBC/BC - 03 Years, Female - 03 Years.",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Document verification || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.igims.org",
+        "official_notification": "https://www.igims.org/DataFiles/Opportunities/5621_F1_SCI.pdf"
+    },
+    {
+        "date": "31/03/2026",
         "board": "Patna High Court",
         "title": "District Judge (Entry Level), Direct From Bar Exam-2026",
         "qualification": "Advocates/Judicial Officers with 7 years of practice or more.",

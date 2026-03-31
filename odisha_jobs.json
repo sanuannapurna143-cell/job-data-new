@@ -1,6 +1,38 @@
 [
     {
         "date": "31/03/2026",
+        "board": "TFL Talcher",
+        "title": "Chief Manager / Manager",
+        "qualification": "BE/BTech in relevant discipline, MBA/PG Diploma, CA/ICMA, etc. depending on the post.",
+        "last_date": "27-04-2026",
+        "total_posts": "11",
+        "salary": "E-5: ₹80,000 - ₹2,20,000; E-3: ₹60,000 - ₹1,80,000",
+        "age_limit": "Chief Manager:Maximum age limit is 45 years. || Manager:Maximum age limit is 35 years. || Age Relaxation:SC/ST - 5 years, OBC(NCL) - 3 years, PwBD-General/EWS - 10 years, PwBD-OBC(NCL) - 13 years, PwBD-SC/ST - 15 years, Domiciled in J&K - 05 years.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Screening and selection will be based on the details provided by the candidates || Personal Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tflonline.co.in",
+        "official_notification": "https://tflonline.co.in/public/website/pdf/FINAL%20ADVERTISEMENT%20FOR%20HIRING%20EXPERIENCED%20PROFESSIONALS%20AT%20TFL.pdf"
+    },
+    {
+        "date": "31/03/2026",
+        "board": "OAV Tileibani",
+        "title": "Guest Faculties",
+        "qualification": "Educational qualifications as per direct recruitment rules, B.Ed. for TGTs/PGTs, Master's degree for PGTs.",
+        "last_date": "20-04-2026",
+        "total_posts": "-",
+        "salary": "TGT: 20,000-25,000/-, PGT: 25,000-30,000/-, Principal: 45,000/-",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 65 years || The selection committee may relax the upper age limit by one more year.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://deogarh.odisha.gov.in/",
+        "official_notification": "https://deogarh.odisha.gov.in/sites/default/files/2026-03/Guest%20Faculties%202026_compressed.pdf"
+    },
+    {
+        "date": "31/03/2026",
         "board": "NIT Rourkela",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "M.Tech./M.E./M.S.(R)/M.Tech(R) in Computer Science/Information Technology/Electronics & Communication Engineering with minimum 60% marks or 6.5 CGPA at both B.Tech./MCA/MSc and M.Tech. levels. OR B.Tech./B.E. in CSE/IT/ECE with a valid GATE score and CGPA ≥ 8.0 or marks ≥ 70%. OR M.Sc. (CS/IT/EC) with first class and valid GATE/NET qualification. OR MCA with first class and valid GATE/NET score.",
@@ -573,7 +605,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "nitcon-junior-engineer-recruitment-2026-apply-online-for-100-posts-3043564"
+        "official_notification": "Not Available"
     },
     {
         "date": "17/03/2026",

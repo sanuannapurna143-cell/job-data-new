@@ -1,6 +1,22 @@
 [
     {
         "date": "31/03/2026",
+        "board": "BHU",
+        "title": "Junior Research Fellow",
+        "qualification": "M.Sc. degree",
+        "last_date": "21-04-2026",
+        "total_posts": "1",
+        "salary": "For the first two years (JRF): Rs. 37,000 per month with 20% HRA. || For the third year (SRF): Rs. 42,000 per month with 20% HRA.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on merit and need of the project || Interview (physical or online mode)",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bhu.ac.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/03/123456-69cbc3b7a5a8a53752311.pdf"
+    },
+    {
+        "date": "31/03/2026",
         "board": "Allahabad University",
         "title": "Junior Research Fellow (JRF)/ Project Fellow",
         "qualification": "M.Sc. in Physics with a minimum of 55% marks.",
@@ -605,7 +621,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "nitcon-junior-engineer-recruitment-2026-apply-online-for-100-posts-3043564"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/03/2026",
