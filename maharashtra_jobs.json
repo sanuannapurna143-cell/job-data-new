@@ -1,6 +1,38 @@
 [
     {
         "date": "31/03/2026",
+        "board": "TISS",
+        "title": "Research Officer",
+        "qualification": "Postgraduate qualification in Social Sciences / Development Studies / Education / Public Policy / related disciplines. Strong research, analytical, and writing skills. Proficiency in English. Published papers preferred.",
+        "last_date": "10-04-2026",
+        "total_posts": "1",
+        "salary": "₹50,000 (consolidated for the entire period)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://tiss.ac.in",
+        "official_notification": "https://tiss.ac.in/uploads/files/Advertisement_uBiRt2C.pdf"
+    },
+    {
+        "date": "31/03/2026",
+        "board": "Indian Army",
+        "title": "Agniveer (GD, Tradesman, Clerk & Other Posts)",
+        "qualification": "12TH, 10TH, 8TH",
+        "last_date": "10-04-2026",
+        "total_posts": "25000+ (Expected)",
+        "salary": "Agniveers will be paid a customized package with fixed yearly increment. In addition, Risk and Hardship, Ration, Dress and Travel allowances as applicable.",
+        "age_limit": "Minimum Age:17 ½ years || Maximum Age:22 years || Candidates born between 01 Jul 2005 to 01 Jul 2009 (both days inclusive) are eligible to apply. || Age relaxation is applicable as per rules. || Upper Age limit will be relaxable upto 30 years of age (as on date of joining training) in respect of widows of Defence personnel who have died in harness. || Note: Women who are widowed, divorced or legally separated are also eligible provided they do not have any children subject to fulfilling all other eligibility criteria. Widows of Defence Personnel who have died in harness will be eligible to apply for enrolment as Women Military Police. Such widows even with children will be, however, eligible only if they have not remarried.",
+        "application_fee": "Examination Fee:Rs 250/- per application for all categories. || Payment Mode:Online (through the website during application).",
+        "selection_process": "Phase II - Recruitment Rally: Proportionate to the vacancies available candidates would be shortlisted based on the aggregate marks scored in the CEE. Shortlisted candidates will attend the Recruitment Rally at designated venue where the Physical Fitness Test, Physical Measurement Test, Medical Test and Document Verification will be conducted.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.joinindianarmy.nic.in",
+        "official_notification": "https://164.100.158.23/latest-rally-agniveer-or.htm"
+    },
+    {
+        "date": "31/03/2026",
         "board": "Mumbai Port Authority",
         "title": "Deputy Chief Vigilance Officer",
         "qualification": "Degree from a recognised University. Experience in vigilance work preferred.",
@@ -1214,22 +1246,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aiimsnagpur.edu.in",
         "official_notification": "https://aiimsnagpur.edu.in/writereaddata/AIIMS/files/177264682569a871a9a7ef201_PHY_RECRUITMENT_PROJECT_RESEARCH_SCIENTIST.pdf"
-    },
-    {
-        "date": "05/03/2026",
-        "board": "Indian Army",
-        "title": "Agniveer (GD, Tradesman, Clerk & Other Posts)",
-        "qualification": "12TH, 10TH, 8TH",
-        "last_date": "01-04-2026",
-        "total_posts": "25000+ (Expected)",
-        "salary": "Agniveers will be paid a customized package with fixed yearly increment. In addition, Risk and Hardship, Ration, Dress and Travel allowances as applicable.",
-        "age_limit": "Minimum Age:17 ½ years || Maximum Age:22 years || Candidates born between 01 Jul 2005 to 01 Jul 2009 (both days inclusive) are eligible to apply. || Age relaxation is applicable as per rules. || Upper Age limit will be relaxable upto 30 years of age (as on date of joining training) in respect of widows of Defence personnel who have died in harness. || Note: Women who are widowed, divorced or legally separated are also eligible provided they do not have any children subject to fulfilling all other eligibility criteria. Widows of Defence Personnel who have died in harness will be eligible to apply for enrolment as Women Military Police. Such widows even with children will be, however, eligible only if they have not remarried.",
-        "application_fee": "Examination Fee:Rs 250/- per application for all categories. || Payment Mode:Online (through the website during application).",
-        "selection_process": "Phase II - Recruitment Rally: Proportionate to the vacancies available candidates would be shortlisted based on the aggregate marks scored in the CEE. Shortlisted candidates will attend the Recruitment Rally at designated venue where the Physical Fitness Test, Physical Measurement Test, Medical Test and Document Verification will be conducted.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "http://www.joinindianarmy.nic.in"
     },
     {
         "date": "03/03/2026",

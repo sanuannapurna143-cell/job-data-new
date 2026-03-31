@@ -1,6 +1,22 @@
 [
     {
         "date": "31/03/2026",
+        "board": "NIT Rourkela",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.Tech./M.E./M.S.(R)/M.Tech(R) in Computer Science/Information Technology/Electronics & Communication Engineering with minimum 60% marks or 6.5 CGPA at both B.Tech./MCA/MSc and M.Tech. levels. OR B.Tech./B.E. in CSE/IT/ECE with a valid GATE score and CGPA ≥ 8.0 or marks ≥ 70%. OR M.Sc. (CS/IT/EC) with first class and valid GATE/NET qualification. OR MCA with first class and valid GATE/NET score.",
+        "last_date": "15-04-2026",
+        "total_posts": "2",
+        "salary": "INR 37,000.00 to INR 42,000.00 per month",
+        "age_limit": "Max: 28 years (Relaxable for SC/ST/PWD/Female by 5 years, OBC by 3 years)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitrkl.ac.in/",
+        "official_notification": "https://www.nitrkl.ac.in/docs/Career/ProjectFelow/2026/30032026153216372.pdf"
+    },
+    {
+        "date": "31/03/2026",
         "board": "Indian Navy",
         "title": "Agniveer (Musician)",
         "qualification": "Matriculation (10th) with minimum 50% marks + Musical Proficiency",
@@ -557,7 +573,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "indian-navy-agniveer-mr-musician-02-2026-recruitment-apply-online-3043480"
+        "official_notification": "nitcon-junior-engineer-recruitment-2026-apply-online-for-100-posts-3043564"
     },
     {
         "date": "17/03/2026",

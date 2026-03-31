@@ -1,5 +1,37 @@
 [
     {
+        "date": "31/03/2026",
+        "board": "BCCL",
+        "title": "Internal Notification for various posts",
+        "qualification": "Various qualifications from Graduate in Science to Matriculate/Diploma in Pharmacy, depending on the post.",
+        "last_date": "11-04-2026",
+        "total_posts": "Not Available",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Selection test || Panel preparation based on marks || Final Merit list",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.bcclweb.in",
+        "official_notification": "https://www.bcclweb.in/newpdfs/Careers/Internal%20Notification%20for%20Jr%20chemist%20and%20Others.pdf"
+    },
+    {
+        "date": "31/03/2026",
+        "board": "BCCL",
+        "title": "Internal Notification for HQ Level Posts (Trainee, Peon and More Posts)",
+        "qualification": "8th Pass, Matriculate, ITI",
+        "last_date": "15-04-2026",
+        "total_posts": "Not Specified",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Trade/Selection Test || Panel Preparation || Final Merit List Preparation || Educational Certificate Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bcclweb.in",
+        "official_notification": "https://www.bcclweb.in/newpdfs/Careers/Internal%20Notification%20for%20Amin%20Trainee%20and%20Others.pdf"
+    },
+    {
         "date": "30/03/2026",
         "board": "UCIL",
         "title": "Medical Officer",

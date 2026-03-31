@@ -1,6 +1,38 @@
 [
     {
         "date": "31/03/2026",
+        "board": "Allahabad University",
+        "title": "Junior Research Fellow (JRF)/ Project Fellow",
+        "qualification": "M.Sc. in Physics with a minimum of 55% marks.",
+        "last_date": "21-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000/Rs. 14000",
+        "age_limit": "Upper age limit is 28 years (relaxation of 5 years for SC/ST/Physically Handicapped/Female candidates).",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.allduniv.ac.in",
+        "official_notification": "https://www.allduniv.ac.in/upload/file_collection/Advertisement%20-IUAC%20project-27-03-26.pdf"
+    },
+    {
+        "date": "31/03/2026",
+        "board": "IIT (BHU)",
+        "title": "Junior Research Fellow",
+        "qualification": "B.E./B.Tech. in Mechanical Engineering or allied branches with First Division and GATE/NET, OR M.E./M.Tech. in Mechanical Engineering or allied branches with First Division at Graduate and Post Graduate level.",
+        "last_date": "11-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 32808/- (1st & 2nd year), Rs. 37041/- (3rd year) + 20% HRA",
+        "age_limit": "Max 28 years (5 years relaxation for Female/SC/ST/Physically Handicapped)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitbhu.ac.in/",
+        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_jrf_mec_hydrogen.pdf"
+    },
+    {
+        "date": "31/03/2026",
         "board": "Punjab and Sind Bank",
         "title": "Local Bank Officer (JMGS-I)",
         "qualification": "Graduation + Minimum 18 months post-qualification branch experience as officer in Scheduled Commercial Bank / Regional Rural Bank",
@@ -573,7 +605,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "Not Available"
+        "official_notification": "nitcon-junior-engineer-recruitment-2026-apply-online-for-100-posts-3043564"
     },
     {
         "date": "18/03/2026",

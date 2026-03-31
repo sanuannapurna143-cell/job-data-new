@@ -1,6 +1,22 @@
 [
     {
         "date": "31/03/2026",
+        "board": "INMAS",
+        "title": "Graduate Apprentice, Diploma Apprentice, ITI Apprentice",
+        "qualification": "ITI / Diploma / B.Sc. / B.Pharma / B.L.I.Sc. in relevant discipline (pass-out 2022 or later)",
+        "last_date": "30-04-2026",
+        "total_posts": "38",
+        "salary": "Selected candidates will receive monthly stipend during the 12-month apprenticeship training period as per the Apprentices Act 1961 and applicable MSDE norms. No accommodation or transport will be provided by INMAS during the training period. No TA/DA will be paid for joining. || Employment Note: It shall not be obligatory on the part of INMAS, Delhi to offer any employment to any Apprentice on completion of the apprenticeship training period.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Mentioned",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.drdo.gov.in/",
+        "official_notification": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtINMAS_APP30032026.pdf"
+    },
+    {
+        "date": "31/03/2026",
         "board": "Indian Navy",
         "title": "Agniveer (Musician)",
         "qualification": "Matriculation (10th) with minimum 50% marks + Musical Proficiency",
@@ -285,7 +301,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "indian-navy-agniveer-mr-musician-02-2026-recruitment-apply-online-3043480"
+        "official_notification": "nitcon-junior-engineer-recruitment-2026-apply-online-for-100-posts-3043564"
     },
     {
         "date": "18/03/2026",
