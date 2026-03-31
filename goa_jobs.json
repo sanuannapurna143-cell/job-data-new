@@ -1,5 +1,21 @@
 [
     {
+        "date": "31/03/2026",
+        "board": "DGLL",
+        "title": "Technician (Diesel) and Navigational Assistant Grade-III",
+        "qualification": "Matriculation with apprenticeship and experience for Technician (Diesel); Diploma in Engineering with experience for Navigational Assistant Grade-III.",
+        "last_date": "14-04-2026",
+        "total_posts": "3",
+        "salary": "Pay Level-05 (Rs. 29200-92300 as per 7th CPC)",
+        "age_limit": "Technician (Diesel):Minimum age 21 years, Maximum age 30 years. || Navigational Assistant Grade-III:Minimum age 18 years, Maximum age 27 years.",
+        "application_fee": "Not Available",
+        "selection_process": "After scrutiny of applications, the eligible candidates shall be called for written examination on date as decided by Director, Directorate of Lighthouses and Lightships, Goa. || The call letter for all stages such as written test, trade test, document verification etc. shall be sent by email/post on the address mentioned in the candidate app lication form. || This Directorate shall not be responsible for delay in receipt or non receipt of call letter or wrong address or candidate's address changed etc. || Based on the performance of candidates in written examination, trade test and document verification, the selected candidate will be given provisional appointment as per vacancy subject to his/ her passing requisite medical fitness test, final verification of education certificate and verification of antecedent/ character of the candidate.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.dgll.nic.in, www.ncs.gov.in",
+        "official_notification": "https://dgll.nic.in/sites/default/files/2026-03/Date%20of%20Publication%20in%20weekly%20employment%20news_0.pdf"
+    },
+    {
         "date": "30/03/2026",
         "board": "IIT Goa",
         "title": "Junior Research Fellow",
@@ -222,21 +238,5 @@
         "syllabus": "Not Available",
         "official_website": "https://goa.bits-pilani.ac.in",
         "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/Advertisement_RA_ANRF_PMECRG_2026.pdf"
-    },
-    {
-        "date": "28/02/2026",
-        "board": "DGLL",
-        "title": "Technician (Diesel) and Navigational Assistant Grade-III",
-        "qualification": "Matriculation with apprenticeship and experience for Technician (Diesel); Diploma in Engineering with experience for Navigational Assistant Grade-III.",
-        "last_date": "01-04-2026",
-        "total_posts": "3",
-        "salary": "Technician (Diesel):Pay Level-05 (Rs. 29200-92300 as per 7th CPC) || Navigational Assistant Grade-III:Pay Level-02",
-        "age_limit": "Technician (Diesel):Minimum age 21 years, Maximum age 30 years. || Navigational Assistant Grade-III:Minimum age 18 years, Maximum age 27 years.",
-        "application_fee": "Not Available",
-        "selection_process": "Please refer to the official notification for selection process details.",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.dgll.nic.in, www.ncs.gov.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/02/84579-69a26ed229b4652156459.pdf"
     }
 ]
