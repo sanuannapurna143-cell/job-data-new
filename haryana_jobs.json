@@ -1,6 +1,22 @@
 [
     {
         "date": "01/04/2026",
+        "board": "Indian Army",
+        "title": "Agniveer (GD, Tradesman, Clerk & Other Posts)",
+        "qualification": "12TH, 10TH, 8TH",
+        "last_date": "10-04-2026",
+        "total_posts": "25000+ (Expected)",
+        "salary": "Agniveers will be paid a customized package with fixed yearly increment. In addition, Risk and Hardship, Ration, Dress and Travel allowances as applicable.",
+        "age_limit": "Minimum Age:17 ½ years || Maximum Age:22 years || Candidates born between 01 Jul 2005 to 01 Jul 2009 (both days inclusive) are eligible to apply. || Age relaxation is applicable as per rules. || Upper Age limit will be relaxable upto 30 years of age (as on date of joining training) in respect of widows of Defence personnel who have died in harness. || Note: Women who are widowed, divorced or legally separated are also eligible provided they do not have any children subject to fulfilling all other eligibility criteria. Widows of Defence Personnel who have died in harness will be eligible to apply for enrolment as Women Military Police. Such widows even with children will be, however, eligible only if they have not remarried.",
+        "application_fee": "Examination Fee:Rs 250/- per application for all categories. || Payment Mode:Online (through the website during application).",
+        "selection_process": "Phase II - Recruitment Rally: Proportionate to the vacancies available candidates would be shortlisted based on the aggregate marks scored in the CEE. Shortlisted candidates will attend the Recruitment Rally at designated venue where the Physical Fitness Test, Physical Measurement Test, Medical Test and Document Verification will be conducted.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.joinindianarmy.nic.in",
+        "official_notification": "https://164.100.158.23/latest-rally-agniveer-or.htm"
+    },
+    {
+        "date": "01/04/2026",
         "board": "RITES",
         "title": "Assistant (HR)",
         "qualification": "Graduation in any discipline from a recognised University with minimum 50% marks for UR/EWS/UR‑posts and 45% for SC/ST/OBC‑NCL/PwBD against reserved posts",
@@ -30,22 +46,6 @@
         "syllabus": "Not Available",
         "official_website": "https://apsambla.edu.in/",
         "official_notification": "https://apsambala.edu.in/image.php?path=images%2F1774931165_8325a38f.pdf"
-    },
-    {
-        "date": "31/03/2026",
-        "board": "Indian Army",
-        "title": "Agniveer (GD, Tradesman, Clerk & Other Posts)",
-        "qualification": "12TH, 10TH, 8TH",
-        "last_date": "10-04-2026",
-        "total_posts": "25000+ (Expected)",
-        "salary": "Agniveers will be paid a customized package with fixed yearly increment. In addition, Risk and Hardship, Ration, Dress and Travel allowances as applicable.",
-        "age_limit": "Minimum Age:17 ½ years || Maximum Age:22 years || Candidates born between 01 Jul 2005 to 01 Jul 2009 (both days inclusive) are eligible to apply. || Age relaxation is applicable as per rules. || Upper Age limit will be relaxable upto 30 years of age (as on date of joining training) in respect of widows of Defence personnel who have died in harness. || Note: Women who are widowed, divorced or legally separated are also eligible provided they do not have any children subject to fulfilling all other eligibility criteria. Widows of Defence Personnel who have died in harness will be eligible to apply for enrolment as Women Military Police. Such widows even with children will be, however, eligible only if they have not remarried.",
-        "application_fee": "Examination Fee:Rs 250/- per application for all categories. || Payment Mode:Online (through the website during application).",
-        "selection_process": "Phase II - Recruitment Rally: Proportionate to the vacancies available candidates would be shortlisted based on the aggregate marks scored in the CEE. Shortlisted candidates will attend the Recruitment Rally at designated venue where the Physical Fitness Test, Physical Measurement Test, Medical Test and Document Verification will be conducted.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "https://164.100.158.23/latest-rally-agniveer-or.htm"
     },
     {
         "date": "30/03/2026",
@@ -301,7 +301,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "Not Available"
+        "official_notification": "bank-of-baroda-recruitment-2026-apply-online-for-104-deputy-manager-avp-posts-3042900"
     },
     {
         "date": "17/03/2026",

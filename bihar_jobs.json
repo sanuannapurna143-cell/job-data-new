@@ -1,22 +1,6 @@
 [
     {
-        "date": "31/03/2026",
-        "board": "IGIMS",
-        "title": "Senior Resident",
-        "qualification": "MBBS, MD/DrNB Obs. Gynecology or DrNB/M.Ch Gynecological Oncology",
-        "last_date": "10-04-2026",
-        "total_posts": "2",
-        "salary": "As Per Institute rule",
-        "age_limit": "Maximum Age Limit: 45 years. || Age Relaxation: SC/ST - 05 Years, EBC/BC - 03 Years, Female - 03 Years.",
-        "application_fee": "Rs. 1000/-",
-        "selection_process": "Document verification || Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.igims.org",
-        "official_notification": "https://www.igims.org/DataFiles/Opportunities/5621_F1_SCI.pdf"
-    },
-    {
-        "date": "31/03/2026",
+        "date": "01/04/2026",
         "board": "Patna High Court",
         "title": "District Judge (Entry Level), Direct From Bar Exam-2026",
         "qualification": "Advocates/Judicial Officers with 7 years of practice or more.",
@@ -32,7 +16,7 @@
         "official_notification": "https://patnahighcourt.gov.in/getfile/MTA0NTE=-OWWksZGt--am1--Bo="
     },
     {
-        "date": "31/03/2026",
+        "date": "01/04/2026",
         "board": "Patna High Court",
         "title": "Technical Assistant (Group-C)",
         "qualification": "B.C.A. / I.T.I. / Diploma in Computer Science & Engineering / Electronics & Telecommunication / Electronics & Communication + minimum 01 year relevant experience",
@@ -46,6 +30,38 @@
         "syllabus": "Not Available",
         "official_website": "https://patnahighcourt.gov.in",
         "official_notification": "https://patnahighcourt.gov.in/getfile/MTA0NTQ=-q0vlRLd1RTE="
+    },
+    {
+        "date": "01/04/2026",
+        "board": "BPSC",
+        "title": "Civil Judge (Junior Division)",
+        "qualification": "LLB",
+        "last_date": "30-04-2026",
+        "total_posts": "BPSC Civil Judge Vacancy 2026",
+        "salary": "Not Available",
+        "age_limit": "Minimum Age: 22 years || Maximum Age: 40 years || Age Relaxation:The upper age limit for General (Male) candidates is 35 years. For General (Female), EBC, BC, SC, ST, EWS, and OH candidates, the maximum age limit is 40 years. || The age limit is calculated as on 01 August 2025.",
+        "application_fee": "Rs. 100/-",
+        "selection_process": "Preliminary Examination (Objective type, conducted if there is a large number of applicants) || Mains Written Examination (Consisting of Compulsory and 3 Optional Papers) || Interview/Personality Test (Carrying 100 marks) || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.bpsc.bihar.gov.in",
+        "official_notification": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-122026-33rd-BJSE_BPSC-20260223-82eskn.pdf"
+    },
+    {
+        "date": "31/03/2026",
+        "board": "IGIMS",
+        "title": "Senior Resident",
+        "qualification": "MBBS, MD/DrNB Obs. Gynecology or DrNB/M.Ch Gynecological Oncology",
+        "last_date": "10-04-2026",
+        "total_posts": "2",
+        "salary": "As Per Institute rule",
+        "age_limit": "Maximum Age Limit: 45 years. || Age Relaxation: SC/ST - 05 Years, EBC/BC - 03 Years, Female - 03 Years.",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Document verification || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.igims.org",
+        "official_notification": "https://www.igims.org/DataFiles/Opportunities/5621_F1_SCI.pdf"
     },
     {
         "date": "31/03/2026",
@@ -158,22 +174,6 @@
         "syllabus": "Not Available",
         "official_website": "https://tmc.gov.in/",
         "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=cbBxA9T2T3BENL978YxjnA=="
-    },
-    {
-        "date": "18/03/2026",
-        "board": "BPSC",
-        "title": "Civil Judge (Junior Division)",
-        "qualification": "LL.B. from university/college recognized by Bar Council of India, Minimum 3 years continuous practice as advocate",
-        "last_date": "30-04-2026",
-        "total_posts": "173",
-        "salary": "Not Available",
-        "age_limit": "Minimum Age: 22 years || Maximum Age: 40 years || Age Relaxation:The upper age limit for General (Male) candidates is 35 years. For General (Female), EBC, BC, SC, ST, EWS, and OH candidates, the maximum age limit is 40 years. || The age limit is calculated as on 01 August 2025.",
-        "application_fee": "Rs. 100/-",
-        "selection_process": "Preliminary Examination (Objective type, conducted if there is a large number of applicants) || Mains Written Examination (Consisting of Compulsory and 3 Optional Papers) || Interview/Personality Test (Carrying 100 marks) || Document Verification",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.bpsc.bihar.gov.in",
-        "official_notification": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-122026-33rd-BJSE_BPSC-20260223-82eskn.pdf"
     },
     {
         "date": "18/03/2026",

@@ -1,6 +1,22 @@
 [
     {
         "date": "01/04/2026",
+        "board": "JPCH Delhi",
+        "title": "Senior Resident Doctors",
+        "qualification": "MBBS with P.G. Degree/Diploma/DNB",
+        "last_date": "07-04-2026",
+        "total_posts": "5",
+        "salary": "Senior Resident Doctors: Rs.67700 – 208700 of level 11 plus allowances as admissible under the rules.",
+        "age_limit": "Maximum Age Limit: 45 years for General and OBC candidates. || Age relaxation for SC/ST candidates as per rules.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://jpch.delhi.gov.in/",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wjpc_15.pdf"
+    },
+    {
+        "date": "01/04/2026",
         "board": "NeGD",
         "title": "Technical Architect - AI",
         "qualification": "Bachelor's degree in computer science, Information Technology, Engineering, or a related field.",
@@ -1501,7 +1517,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "Not Available"
+        "official_notification": "bank-of-baroda-recruitment-2026-apply-online-for-104-deputy-manager-avp-posts-3042900"
     },
     {
         "date": "18/03/2026",

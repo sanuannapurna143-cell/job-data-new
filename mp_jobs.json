@@ -1,6 +1,38 @@
 [
     {
         "date": "01/04/2026",
+        "board": "IIT Indore",
+        "title": "Junior Research Fellow",
+        "qualification": "M.E/ M.Tech",
+        "last_date": "12-04-2026",
+        "total_posts": "Not Available",
+        "salary": "INR 37,000 p.m. (+20% HRA)",
+        "age_limit": "As per TTDF norms. Relaxation for SC/ST/OBC candidates as per Government of India norms.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://sites.google.com/site/sumitgautamjbp/",
+        "official_notification": "https://www.iiti.ac.in/public/storage/recruitments/March2026/aJd5HZDZsb7v15kGcRlj.pdf"
+    },
+    {
+        "date": "01/04/2026",
+        "board": "Indian Army",
+        "title": "Agniveer (GD, Tradesman, Clerk & Other Posts)",
+        "qualification": "12TH, 10TH, 8TH",
+        "last_date": "10-04-2026",
+        "total_posts": "25000+ (Expected)",
+        "salary": "Agniveers will be paid a customized package with fixed yearly increment. In addition, Risk and Hardship, Ration, Dress and Travel allowances as applicable.",
+        "age_limit": "Minimum Age:17 ½ years || Maximum Age:22 years || Candidates born between 01 Jul 2005 to 01 Jul 2009 (both days inclusive) are eligible to apply. || Age relaxation is applicable as per rules. || Upper Age limit will be relaxable upto 30 years of age (as on date of joining training) in respect of widows of Defence personnel who have died in harness. || Note: Women who are widowed, divorced or legally separated are also eligible provided they do not have any children subject to fulfilling all other eligibility criteria. Widows of Defence Personnel who have died in harness will be eligible to apply for enrolment as Women Military Police. Such widows even with children will be, however, eligible only if they have not remarried.",
+        "application_fee": "Examination Fee:Rs 250/- per application for all categories. || Payment Mode:Online (through the website during application).",
+        "selection_process": "Phase II - Recruitment Rally: Proportionate to the vacancies available candidates would be shortlisted based on the aggregate marks scored in the CEE. Shortlisted candidates will attend the Recruitment Rally at designated venue where the Physical Fitness Test, Physical Measurement Test, Medical Test and Document Verification will be conducted.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.joinindianarmy.nic.in",
+        "official_notification": "https://164.100.158.23/latest-rally-agniveer-or.htm"
+    },
+    {
+        "date": "01/04/2026",
         "board": "SECL",
         "title": "Graduate Apprentices & Technician Apprentices (Various Streams)",
         "qualification": "Educational and professional qualifications for SECL Apprenticeship 2026 are stream-specific and must be from Government-recognised institutions in full-time regular mode only. || Graduate Apprentices: 4-year B.E./B.Tech / B.Sc. / B.Com / BBA / BCA in relevant discipline. || Technician Apprentices: 3-year Diploma in relevant engineering branch (after 10th or 2 years after 12th with lateral entry allowed; 1-year Diploma not permitted). || Candidates must be registered on NATS 2.0 portal and should not have undergone apprenticeship training earlier or completed one-year employment/service.",
@@ -30,22 +62,6 @@
         "syllabus": "Not Available",
         "official_website": "https://bsnl.co.in",
         "official_notification": "https://bsnl.co.in/documents/pdf/SET_Notification_29012026.pdf"
-    },
-    {
-        "date": "31/03/2026",
-        "board": "Indian Army",
-        "title": "Agniveer (GD, Tradesman, Clerk & Other Posts)",
-        "qualification": "12TH, 10TH, 8TH",
-        "last_date": "10-04-2026",
-        "total_posts": "25000+ (Expected)",
-        "salary": "Agniveers will be paid a customized package with fixed yearly increment. In addition, Risk and Hardship, Ration, Dress and Travel allowances as applicable.",
-        "age_limit": "Minimum Age:17 ½ years || Maximum Age:22 years || Candidates born between 01 Jul 2005 to 01 Jul 2009 (both days inclusive) are eligible to apply. || Age relaxation is applicable as per rules. || Upper Age limit will be relaxable upto 30 years of age (as on date of joining training) in respect of widows of Defence personnel who have died in harness. || Note: Women who are widowed, divorced or legally separated are also eligible provided they do not have any children subject to fulfilling all other eligibility criteria. Widows of Defence Personnel who have died in harness will be eligible to apply for enrolment as Women Military Police. Such widows even with children will be, however, eligible only if they have not remarried.",
-        "application_fee": "Examination Fee:Rs 250/- per application for all categories. || Payment Mode:Online (through the website during application).",
-        "selection_process": "Phase II - Recruitment Rally: Proportionate to the vacancies available candidates would be shortlisted based on the aggregate marks scored in the CEE. Shortlisted candidates will attend the Recruitment Rally at designated venue where the Physical Fitness Test, Physical Measurement Test, Medical Test and Document Verification will be conducted.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "https://164.100.158.23/latest-rally-agniveer-or.htm"
     },
     {
         "date": "31/03/2026",
