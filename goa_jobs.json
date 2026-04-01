@@ -1,6 +1,22 @@
 [
     {
         "date": "01/04/2026",
+        "board": "IIT Goa",
+        "title": "Assistant Professor",
+        "qualification": "PhD in the relevant discipline with first class or equivalent in the preceding degree and a very good academic record throughout.",
+        "last_date": "15-04-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 70,900- 1,01,500/-",
+        "age_limit": "Preferably below 35 years (Age relaxation for SC/ST/OBC-NCL/EWS candidates as per Govt. of India rules)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitgoa.ac.in/",
+        "official_notification": "https://iitgoa.ac.in/wp-content/uploads/IITGoa_Corrigendum_Advt.-SRD5.pdf"
+    },
+    {
+        "date": "01/04/2026",
         "board": "BITS Pilani",
         "title": "PhD Scholar",
         "qualification": "Post Graduate Degree in Basic Science, M.Tech/M.E",

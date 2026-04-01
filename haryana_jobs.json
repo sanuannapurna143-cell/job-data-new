@@ -1,6 +1,22 @@
 [
     {
         "date": "01/04/2026",
+        "board": "RITES",
+        "title": "Assistant (HR)",
+        "qualification": "Graduation in any discipline from a recognised University with minimum 50% marks for UR/EWS/UR‑posts and 45% for SC/ST/OBC‑NCL/PwBD against reserved posts",
+        "last_date": "27-04-2026",
+        "total_posts": "RITES Assistant HR Vacancy 2026",
+        "salary": "Pay Scale:Assistant (HR) – Rs. 20,000–66,000 (IDA) with approximate CTC of about Rs. 8.16 lakh per annum at the minimum of the scale. || Perks & Benefits:DA, fixed/variable allowances, performance related pay, HRA/lease accommodation, PF, gratuity, post‑retirement medical scheme, medical facility, group insurance, leave and other benefits as per company rules; initial probation period is one year.",
+        "age_limit": "30 years as on 27.04.2026 (relaxation: SC/ST – 5 years, OBC‑NCL – 3 years, PwBD – 10 years plus category relaxation, +5 years for eligible RITES employees)",
+        "application_fee": "Applicants must pay the prescribed RITES Assistant HR application fee 2026 online while submitting the form. || General / OBC Candidates:Rs. 300 plus applicable taxes. || EWS / SC / ST / PwBD Candidates:Rs. 100 plus applicable taxes. || Fee must be paid only through the specified online payment gateway; applications without successful fee payment will be treated as incomplete and rejected.",
+        "selection_process": "The RITES Assistant HR selection process 2026 consists of a written test followed by document scrutiny and medical examination. || Written Test:125 objective questions (English, Data Analysis & Interpretation, Reasoning & General Awareness) of 1 mark each, duration 2.5 hours, no negative marking; minimum qualifying marks 50% for UR/EWS and 45% for SC/ST/OBC‑NCL/PwBD against reserved posts.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rites.com",
+        "official_notification": "https://www.rites.com/Upload/Career/Asst_HR_ad_pdf-2026-Mar-20-09-31-43.pdf"
+    },
+    {
+        "date": "01/04/2026",
         "board": "Army Public School Ambala",
         "title": "Teaching Staff (Adhoc Basis)",
         "qualification": "As per CBSE Bye Laws and AWES Rules and Regulations. Specific qualifications for PGT, TGT, PRT, Balvatika Teacher, Adm Staff (Accountant, LDC) are detailed.",
@@ -224,22 +240,6 @@
         "official_notification": "https://recruitment.thsti.in/public/upload/job_pdf/177390317825advt-RN-02-03-I.pdf"
     },
     {
-        "date": "20/03/2026",
-        "board": "RITES",
-        "title": "Assistant (HR)",
-        "qualification": "Graduation in any discipline",
-        "last_date": "27-04-2026",
-        "total_posts": "15",
-        "salary": "Pay Scale: INR 20,000-66,000 || Approximate CTC: INR 8.16 Lacs",
-        "age_limit": "Maximum Age Limit: 30 years || Age Relaxation:SC/ST Category: 5 yearsOBC-NCL Category: 3 yearsPersons with Benchmark Disabilities (PwBD): 10 Years || SC/ST Category: 5 years || OBC-NCL Category: 3 years || Persons with Benchmark Disabilities (PwBD): 10 Years",
-        "application_fee": "Rs. 300/- plus Taxes as applicable",
-        "selection_process": "Written Test || Document Scrutiny || Medical Examination",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.rites.com",
-        "official_notification": "https://www.rites.com/Upload/Career/Asst_HR_ad_pdf-2026-Mar-20-09-31-43.pdf"
-    },
-    {
         "date": "19/03/2026",
         "board": "THSTI",
         "title": "Principal Project Associate and Assistant Data Manager",
@@ -301,7 +301,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "icai-executive-officer-recruitment-2026-notification-out-apply-online-for-109-posts-3043657"
+        "official_notification": "Not Available"
     },
     {
         "date": "17/03/2026",

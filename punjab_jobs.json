@@ -1,6 +1,38 @@
 [
     {
         "date": "01/04/2026",
+        "board": "PSSSB",
+        "title": "Total",
+        "qualification": "Qualification  Warder (Male Only): Candidates Should Possess 10+2 or equivalent examination of any recognized Education Board with Punjabi as one of the compulsory or Elective subject or any other equivalent examination in Punjabi Language, as specified by the Government from time to time. Matron (Female Only): Candidates Should passed 10+2 or equivalent examination of any recognized Education Board with Punjabi as one of the compulsory or Elective subject or any other equivalent examination in Punjabi Language, as specified by the Government from time to time. Only women can be recruited as Matron.",
+        "last_date": "21-04-2026",
+        "total_posts": "532",
+        "salary": "Not Available",
+        "age_limit": "PSSSB Recruitment 2026 Age Limit  Minimum Age Limit: 18 Years Maximum Age limit: 27 Years Age relaxation is applicable as per rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Examination (Objective Type MCQ) || Two parts:Part-A(Punjabi Language – Qualifying only, minimum 50% marks required) || Part-B(Main paper – Merit will be prepared on the basis of marks obtained in Part-B only) || Negative marking of ¼ mark for every wrong answer. || Merit List || Prepared only on the basis of Part-B marks. || In case of tie: Date of Birth (older candidate preferred) → Higher percentage in educational qualification → Matriculation marks. || Physical Measurement Test (PMT) & Physical Efficiency Test (PET) || Only candidates who qualify the written exam will be called for PMT & PET (in order of merit and category-wise vacancies). || Document Verification / Counseling || Original documents and certificates will be verified. || Final selection is subject to verification and medical fitness. || Important : Qualifying PMT/PET does not guarantee appointment. Final appointment depends on document verification and merit.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sssb.punjab.gov.in/",
+        "official_notification": "https://sssb.punjab.gov.in/wp-content/uploads/2026/04/Advertisement-No.08-of-2026-1.pdf"
+    },
+    {
+        "date": "01/04/2026",
+        "board": "Indian Red Cross Society",
+        "title": "Secretary",
+        "qualification": "Any Graduate",
+        "last_date": "03-04-2026",
+        "total_posts": "Not Available",
+        "salary": "As per DC rates",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "mansa.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3cdc0d6e63aa8e41c89689f54970bb35f/uploads/2026/03/17746744322215.pdf"
+    },
+    {
+        "date": "01/04/2026",
         "board": "IIT Ropar",
         "title": "Project Research Scientist I",
         "qualification": "B.Tech/ B.E, M.E/ M.Tech, M.Phil/ Ph.D, M.Sc",
