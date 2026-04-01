@@ -1,5 +1,21 @@
 [
     {
+        "date": "01/04/2026",
+        "board": "SECL",
+        "title": "Graduate Apprentices & Technician Apprentices (Various Streams)",
+        "qualification": "Educational and professional qualifications for SECL Apprenticeship 2026 are stream-specific and must be from Government-recognised institutions in full-time regular mode only. || Graduate Apprentices: 4-year B.E./B.Tech / B.Sc. / B.Com / BBA / BCA in relevant discipline. || Technician Apprentices: 3-year Diploma in relevant engineering branch (after 10th or 2 years after 12th with lateral entry allowed; 1-year Diploma not permitted). || Candidates must be registered on NATS 2.0 portal and should not have undergone apprenticeship training earlier or completed one-year employment/service.",
+        "last_date": "06-04-2026",
+        "total_posts": "1600",
+        "salary": "Selected candidates will receive the following monthly stipend as per Rule 11(2) of Apprenticeship Rules 1992: || Graduate Apprentices: ₹12,300 per month || Technician Apprentices: ₹10,900 per month || 50% stipend paid by SECL and 50% by Government through DBT in Aadhaar-linked bank account.",
+        "age_limit": "Note: The SECL Apprentice 2026 notification does not provide any age relaxation for SC/ST/OBC/EWS/Ex-Servicemen or any other category. Only the minimum age requirement of 18 years as on the last date of application (31 March 2026) must be met. Candidates failing to satisfy the minimum age criterion will be ineligible.",
+        "application_fee": "Not Available",
+        "selection_process": "The SECL Apprentice Selection Process 2026 is purely merit-based: || Shortlisting on the basis of Date of Passing (earlier passing gets higher rank) || Tie-breaker: Percentage of marks in Degree/Diploma → 12th/10th marks → Date of Birth || Two separate seniority lists: Level-1 (Chhattisgarh & Madhya Pradesh) and Level-2 (other states) || Document Verification + Medical Fitness Examination (as per Mines Rules 1955 / Apprenticeship Rules 1992)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://secl-cil.in",
+        "official_notification": "https://secl-cil.in/writereaddata/af466632a38cd01121129062270425dc47466315339e266f3944c499a0280683.pdf"
+    },
+    {
         "date": "31/03/2026",
         "board": "GGV",
         "title": "Incubation Associate",
@@ -29,7 +45,7 @@
         "apply_mode": "Offline",
         "syllabus": "Not Available",
         "official_website": "http://www.kawardha.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "ap-high-court-recruitment-2026-apply-online-for-300-assistant-data-entry-operator-and-more-posts-3042524"
     },
     {
         "date": "30/03/2026",
@@ -192,22 +208,6 @@
         "official_notification": "https://www.ggu.ac.in/media/recruitment/Advertisement_Project_Associate_I_23.3.26.pdf"
     },
     {
-        "date": "23/03/2026",
-        "board": "SECL",
-        "title": "Fresher Apprentices – Optional Trade (4 Trades)",
-        "qualification": "10TH",
-        "last_date": "31-03-2026",
-        "total_posts": "100",
-        "salary": "₹8,200 per monthas per present rate of stipend under NAPS scheme. || Paid after successful medical fitness and document verification.",
-        "age_limit": "No upper age limit prescribed",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on% of marksobtained in qualifying examination (10th/11th) as per Government Reservation Policy and merit basis uploaded on Apprenticeship Portal. || Tie-breaker: If % of marks are equal, theelder candidategets preference. || Provisional selection list uploaded on SECL website: secl-cil.in → SECL Departments → Human Resource → HRD → Apprentice. || Document Verification+Medical Fitness Examinationas per Apprenticeship Rules 1992 / Mines Rules 1955 (for Assistant Mine Surveyor).",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://secl-cil.in/",
-        "official_notification": "https://secl-cil.in/writereaddata/2891bc2ecc4ed61ccfb6fad3c853a980ee2ab0dc1fa7fc74d037046d1eec37d0.pdf"
-    },
-    {
         "date": "21/03/2026",
         "board": "Sainik School Ambikapur",
         "title": "Trained Graduate Teacher (TGT) Mathematics",
@@ -320,22 +320,6 @@
         "official_notification": "https://cdn.s3waas.gov.in/s35c04925674920eb58467fb52ce4ef728/uploads/2026/03/17737480012749.pdf"
     },
     {
-        "date": "19/03/2026",
-        "board": "District Education Office Narayanpur",
-        "title": "Specialist Teacher",
-        "qualification": "Graduate with relevant subject knowledge and experience in competitive exams.",
-        "last_date": "31-03-2026",
-        "total_posts": "6",
-        "salary": "Rs. 50,000/- per month",
-        "age_limit": "Min: 21 years, Max: 45 years (as on 01-01-2026)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.narayanpur.gov.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s32afe4567e1bf64d32a5527244d104cea/uploads/2026/03/17737510978008.pdf"
-    },
-    {
         "date": "18/03/2026",
         "board": "District Panchayat Mahasamund",
         "title": "Block Project Manager, Regional Coordinator",
@@ -382,22 +366,6 @@
         "syllabus": "Not Available",
         "official_website": "https://mungeli.gov.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s3051e4e127b92f5d98d3c79b195f2b291/uploads/2026/03/17738153583237.pdf"
-    },
-    {
-        "date": "18/03/2026",
-        "board": "SECL",
-        "title": "Graduate Apprentices & Technician Apprentices (Various Streams)",
-        "qualification": "Educational and professional qualifications for SECL Apprenticeship 2026 are stream-specific and must be from Government-recognised institutions in full-time regular mode only. || Graduate Apprentices: 4-year B.E./B.Tech / B.Sc. / B.Com / BBA / BCA in relevant discipline. || Technician Apprentices: 3-year Diploma in relevant engineering branch (after 10th or 2 years after 12th with lateral entry allowed; 1-year Diploma not permitted). || Candidates must be registered on NATS 2.0 portal and should not have undergone apprenticeship training earlier or completed one-year employment/service.",
-        "last_date": "06-04-2026",
-        "total_posts": "1600",
-        "salary": "Selected candidates will receive the following monthly stipend as per Rule 11(2) of Apprenticeship Rules 1992: || Graduate Apprentices: ₹12,300 per month || Technician Apprentices: ₹10,900 per month || 50% stipend paid by SECL and 50% by Government through DBT in Aadhaar-linked bank account.",
-        "age_limit": "Note: The SECL Apprentice 2026 notification does not provide any age relaxation for SC/ST/OBC/EWS/Ex-Servicemen or any other category. Only the minimum age requirement of 18 years as on the last date of application (31 March 2026) must be met. Candidates failing to satisfy the minimum age criterion will be ineligible.",
-        "application_fee": "Not Available",
-        "selection_process": "The SECL Apprentice Selection Process 2026 is purely merit-based: || Shortlisting on the basis of Date of Passing (earlier passing gets higher rank) || Tie-breaker: Percentage of marks in Degree/Diploma → 12th/10th marks → Date of Birth || Two separate seniority lists: Level-1 (Chhattisgarh & Madhya Pradesh) and Level-2 (other states) || Document Verification + Medical Fitness Examination (as per Mines Rules 1955 / Apprenticeship Rules 1992)",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://secl-cil.in",
-        "official_notification": "https://secl-cil.in/writereaddata/af466632a38cd01121129062270425dc47466315339e266f3944c499a0280683.pdf"
     },
     {
         "date": "18/03/2026",

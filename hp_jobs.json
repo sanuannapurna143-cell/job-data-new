@@ -1,5 +1,21 @@
 [
     {
+        "date": "01/04/2026",
+        "board": "HPRCA",
+        "title": "Assistant Staff Nurse",
+        "qualification": "Educational Qualification:B.Sc. Nursing with 50% marks/GNMA Grade Nursing Diploma with 50% marks from recognized University/Institutions || Gender:Female Candidate only || Domicile:Himachal Bonafide || Registration:Registered with HPNRC, Shimla-06",
+        "last_date": "13-04-2026",
+        "total_posts": "312",
+        "salary": "Fixed Monthly Honorarium:₹25,000/- per month || Engagement Period:5 years (purely on engagement basis) || Note:The candidate may kindly be note that if selected and subsequently the post of regular cadre is advertised, the engagement shall be governed by the provisions of guidelines (policy notified by the Govt. of H.P. vide notification No. Health-A04/ES/2026-Health-B-301504 dated 06.11.2026 enclosed as Annexure-\"A\")",
+        "age_limit": "Minimum Age:21 years || Maximum Age:32 years || Age Relaxation:Age will be reckoned as on 01-01-2026 || Note:A correction window shall be opened for a period of seven days, commencing after three working days from the closing date for submission of ORA, to be subjected to payment of fee",
+        "application_fee": "Examination Fee (All Categories):₹800.00 (In proceeding fee) || Correction Fee:₹100.00 (A link for correction window shall be opened for a period of seven days, commencing after three working days from the closing date for submission of ORA) || Note:The candidates of all categories shall be required to pay ₹100/- as examination fee and ₹800/- is processing fee",
+        "selection_process": "Mode of Selection:Computer Based Test/ written screening test of 120 marks of 1 ½ hours (one and a half hours) duration (As decided by the Aayog) || Examination Pattern:The objective type screening test will consist of 120 multiple-choice questions, with each question carrying 1 mark || Syllabus:Subject(s) field(s) upto the level of prescribed essential qualification(s) as notified in the advertisement - 85 questionsGeneral Knowledge including General Knowledge of Himachal Pradesh, Current Affairs - 10 questionsEveryday Science, Logical Reasoning, Social Science, General English & General Hindi of Matric Standard - 25 questions || Subject(s) field(s) upto the level of prescribed essential qualification(s) as notified in the advertisement - 85 questions || General Knowledge including General Knowledge of Himachal Pradesh, Current Affairs - 10 questions || Everyday Science, Logical Reasoning, Social Science, General English & General Hindi of Matric Standard - 25 questions || Normalization Method:In case of CBT examination, the score of candidates shall be normalized usingZ-Score Method(Mean and Standard Deviation Method) for preparation of the merit list || Minimum Qualifying Marks:General category candidates: 45% marks (petGEN-UR)Scheduled Caste/ Scheduled Tribe/ Other Backward Classes candidates: 40% marksGeneral category candidates in respect of examination relating to the posts falling in the Scheduled Caste or other reserved categories: Maximum of 5% relaxation (i.e., upto 40% for General category candidates and 35% for candidates belonging to Scheduled Caste, Scheduled Tribe, Other Backward Classes) || General category candidates: 45% marks (petGEN-UR) || Scheduled Caste/ Scheduled Tribe/ Other Backward Classes candidates: 40% marks || General category candidates in respect of examination relating to the posts falling in the Scheduled Caste or other reserved categories: Maximum of 5% relaxation (i.e., upto 40% for General category candidates and 35% for candidates belonging to Scheduled Caste, Scheduled Tribe, Other Backward Classes)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://hprca.hp.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2025/12/917925-6933afefb886f30838149.pdf"
+    },
+    {
         "date": "30/03/2026",
         "board": "IIT Una",
         "title": "Assistant Engineer & AAO",
@@ -160,38 +176,6 @@
         "official_notification": "https://www.iitmandi.ac.in/recruitment/Advt_JA_2026_01.pdf"
     },
     {
-        "date": "18/03/2026",
-        "board": "IIT Mandi",
-        "title": "Project Associate",
-        "qualification": "B.Tech/ B.E, M.E/ M.Tech",
-        "last_date": "31-03-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. Rs. 25000/- Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitmandi.ac.in",
-        "official_notification": "https://www.iitmandi.ac.in/recruitment/IITI_DRISHTI_SRC_568.pdf"
-    },
-    {
-        "date": "18/03/2026",
-        "board": "HP Home Guards",
-        "title": "Home Guard Volunteers",
-        "qualification": "10+2, Matriculation, ITI Certificate in relevant trade",
-        "last_date": "31-03-2026",
-        "total_posts": "700",
-        "salary": "Rs. 977/- per day",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 50 years || Age eligibility is calculated as on 01 January 2026.",
-        "application_fee": "Rs. 200/-",
-        "selection_process": "Physical Standard Test (PST) || Physical Efficiency Test (PET) || Written Test || Marks Distribution (Education, NCC, Sports, etc.) || Basic Training",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://himachal.nic.in",
-        "official_notification": "https://himachal.nic.in/ControlsAsync/ViewFTPFile?qs=KI3gZ53zz1wtN18hlxLgW1j9YCrEoVMXjVNgRMLaYWJy7M%2Fz04C0X7gDWd3UQ8rxZYZKdRSllk8AP6dKTDQriB6e2FQfJxkT"
-    },
-    {
         "date": "10/03/2026",
         "board": "ECHS Chandimandir",
         "title": "Dental Officer & Peon",
@@ -206,22 +190,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.echs.gov.in",
         "official_notification": "https://www.echs.gov.in/assets/advertisement/FWD%20OF%20ADVT_removed.pdf"
-    },
-    {
-        "date": "10/03/2026",
-        "board": "AIIMS Bilaspur",
-        "title": "Tutor / Clinical Instructor",
-        "qualification": "B.Sc. (Nursing) Degree from a recognized University/Institution, Registered Nurse / Midwife with sister tutor's diploma, Three years' experience in teaching institution",
-        "last_date": "31-03-2026",
-        "total_posts": "12",
-        "salary": "Level-10 (7th CPC)",
-        "age_limit": "Maximum Age Limit: 35 years || Age Relaxation: SC/ST: 5 years, OBC: 3 years, PwBD: 10 years, Central Government Servant: 5 years (as per DoPT OM), EWS: No age relaxation",
-        "application_fee": "Rs. 2360/- (Rs. 2000 + 18% GST)",
-        "selection_process": "Scrutiny / screening of applications & documents || Written / screening test (if conducted, qualifying in nature) || Shortlisting of candidates || Document verification || Personal interview (mandatory, physical presence required) || Final merit list by Selection Committee",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://aiimsbilaspur.edu.in",
-        "official_notification": "https://www.aiimsbilaspur.edu.in/common/images/recruitment/0vu0wkumAdvertisement%20%285%29.pdf"
     },
     {
         "date": "05/03/2026",
@@ -270,21 +238,5 @@
         "syllabus": "Not Available",
         "official_website": "www.iimsirmaur.ac.in",
         "official_notification": "https://www.iimsirmaur.ac.in/sites/default/files/2026-03/Special%20Recruitment%20Drive%20%28Faculty%20Position%29%202026.pdf"
-    },
-    {
-        "date": "24/02/2026",
-        "board": "ECHS",
-        "title": "Officer in Charge",
-        "qualification": "Graduate with 5 years experience",
-        "last_date": "31-03-2026",
-        "total_posts": "1",
-        "salary": "Option 1:A fixed monthly remuneration of Rs 95,000/-. || Option 2:The salary is calculated by deducting the basic pension from the last pay drawn at the time of retirement.",
-        "age_limit": "Maximum Age:65 years. || Tenure Details:An officer can have a maximum of five years of employment across different ECHS Polyclinics. However, the tenure in a single polyclinic is limited to two years, with the second-year extension granted based on satisfactory performance.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Written Test/Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.echs.gov.in",
-        "official_notification": "https://www.echs.gov.in/assets/advertisement/advt%20of%20employment%20_removed23.pdf"
     }
 ]

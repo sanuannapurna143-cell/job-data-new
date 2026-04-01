@@ -1,5 +1,21 @@
 [
     {
+        "date": "01/04/2026",
+        "board": "Army Public School Ambala",
+        "title": "Teaching Staff (Adhoc Basis)",
+        "qualification": "As per CBSE Bye Laws and AWES Rules and Regulations. Specific qualifications for PGT, TGT, PRT, Balvatika Teacher, Adm Staff (Accountant, LDC) are detailed.",
+        "last_date": "10-04-2026",
+        "total_posts": "Not mentioned",
+        "salary": "Not Available",
+        "age_limit": "Fresh Candidates below 40 years as on 01 Apr 2026. Experienced candidates below 57 years should have min 5 Yrs teaching exp in the last 10 yrs.",
+        "application_fee": "250",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://apsambla.edu.in/",
+        "official_notification": "https://apsambala.edu.in/image.php?path=images%2F1774931165_8325a38f.pdf"
+    },
+    {
         "date": "31/03/2026",
         "board": "Indian Army",
         "title": "Agniveer (GD, Tradesman, Clerk & Other Posts)",
@@ -257,22 +273,6 @@
     },
     {
         "date": "18/03/2026",
-        "board": "FMDA",
-        "title": "Various Experts",
-        "qualification": "B.E./B.Tech in Civil Engineering, B.Sc. (Horticulture), Graduate/Post Graduate in Remote Sensing/GIS/Geo-informatics, Graduate in Architecture, Graduate in Civil Engineering, Bachelor's/Master's/PHD in Computer Science/IT/Data Science/AI-ML/Geoinformatics, Post Graduate in Urban Planning, Post Graduate in Transport/Highway Engineering, Post Graduate in Computer Science/IT",
-        "last_date": "31-03-2026",
-        "total_posts": "24",
-        "salary": "Rs. 60,000/- - Rs. 1,20,000/- Per Month",
-        "age_limit": "Maximum Age Limit: 40 years for all posts. || Age relaxation rules will be as per government norms.",
-        "application_fee": "Rs. 590/- (Rs. 500/- + 18% GST)",
-        "selection_process": "Merit-cum-Interview || Computer-based Screening Test (if large number of applications) || Document Verification (Experience via UAN, original documents)",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://fmda.haryana.gov.in/",
-        "official_notification": "https://fmda.haryana.gov.in/getcareer.html?fid=40408531-9d4b-4d4d-b7c4-0039c8bb4540&language=en"
-    },
-    {
-        "date": "18/03/2026",
         "board": "THSTI",
         "title": "Research Scientist, Junior Research Scientist, Data Scientist",
         "qualification": "Any Graduate, B.Tech/ B.E, M.Phil/ Ph.D, M.Sc, MBBS, MPH",
@@ -301,7 +301,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
-        "official_notification": "Not Available"
+        "official_notification": "icai-executive-officer-recruitment-2026-notification-out-apply-online-for-109-posts-3043657"
     },
     {
         "date": "17/03/2026",
@@ -354,22 +354,6 @@
     {
         "date": "12/03/2026",
         "board": "NBRC",
-        "title": "Project Research Scientist - III (Non-Medical)",
-        "qualification": "Post Graduate Degree with five years' post-qualification experience or PhD + two years post qualification experience.",
-        "last_date": "31-03-2026",
-        "total_posts": "1",
-        "salary": "Rs. 78000/- pm + HRA",
-        "age_limit": "Maximum 45 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nbrc.ac.in",
-        "official_notification": "https://www.nbrc.ac.in/newweb/wp-content/uploads/2026/03/Advertisement-Project-Research-Scientist-III-Non-Medical.pdf"
-    },
-    {
-        "date": "12/03/2026",
-        "board": "NBRC",
         "title": "Project Research Scientist - I",
         "qualification": "Post Graduate Degree, including the integrated PG degrees",
         "last_date": "05-04-2026",
@@ -382,37 +366,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nbrc.ac.in",
         "official_notification": "https://www.nbrc.ac.in/newweb/wp-content/uploads/2026/03/Advertisement-Project-Research-Scientist-I-Non-Medical.pdf"
-    },
-    {
-        "date": "31/01/2026",
-        "board": "AWBI",
-        "title": "Multi-Tasking Staff (MTS)",
-        "qualification": "Matriculation or equivalent pass from a recognised Board",
-        "last_date": "31-03-2026",
-        "total_posts": "03",
-        "salary": "Level-1 (₹18,000–56,900) of the Pay Matrix",
-        "age_limit": "Between 18 and 25 years as on the closing date of receipt of applications. || The age relaxation shall be applicable as per Government of India rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://awbi.gov.in",
-        "official_notification": "https://awbi.gov.in/uploads/notifications/176880414914Notice%20for%20Filling%20up%20MTS%20posts%20in%20AWBI.pdf"
-    },
-    {
-        "date": "22/05/2025",
-        "board": "WAPCOS",
-        "title": "Desired Qualification",
-        "qualification": "Qualification  Candidates Should Posses B.Arch, B.Tech/B.E, Diploma, Any Masters Degree, CA, M.A, M.E/M.Tech, MBA/PGDM, MCA, M.Plan (Relevant Fields)",
-        "last_date": "31-03-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "WAPCOS Recruitment 2025 Age Limit  Refer to the Official Notification",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://wapcos.co.in",
-        "official_notification": "https://www.wapcos.co.in/media/docs/Career/Annexure_I.pdf"
     }
 ]
