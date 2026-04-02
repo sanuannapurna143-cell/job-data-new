@@ -1,6 +1,22 @@
 [
     {
         "date": "02/04/2026",
+        "board": "NIT Silchar",
+        "title": "Interns",
+        "qualification": "BE/BTech/MTech students pursuing their degree.",
+        "last_date": "30-04-2026",
+        "total_posts": "36",
+        "salary": "Rs.10,000/- per month",
+        "age_limit": "Maximum Age Limit: 35 Years. || Age Relaxation for SC/ST/OBC/WOMEN/PWD/EWS: As per Govt of India Rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Submission of Google form || Submission of signed hard copy of the receipt of filled-in google form along with C.V and other relevant documents at time of joining || Submission of scanned copy of the same to be sent through email",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nits.ac.in/",
+        "official_notification": "https://www.nits.ac.in/storage/CareerDocument/Career_69cd1e9f310e4.pdf"
+    },
+    {
+        "date": "02/04/2026",
         "board": "IIT Guwahati",
         "title": "Audio Visual Content Developer, System Engineer",
         "qualification": "Any Post Graduate, BCA, MCA, ITI, Diploma, Any Graduate",
