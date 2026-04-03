@@ -1,5 +1,37 @@
 [
     {
+        "date": "03/04/2026",
+        "board": "Madras University",
+        "title": "Project Assistant",
+        "qualification": "M.Sc. in Bioinformatics, M.Sc. in Biophysics, M.Sc. in Biotechnology",
+        "last_date": "15-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.unom.ac.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/12345758-69cf4b76099c221670582.pdfhttps://img2.freejobalert.com/news/2026/04/12345758-69cf4b76099c221670582.pdf"
+    },
+    {
+        "date": "03/04/2026",
+        "board": "IIT Madras",
+        "title": "Post Doctoral Researcher",
+        "qualification": "PhD in Mining Engineering, PhD in Petroleum Engineering, PhD in Civil Engineering, PhD in Earth Sciences, PhD in Geology / Geotechnical Engineering",
+        "last_date": "13-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 60,000/- per month plus HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Short-listing based on online application || Test / Interview || Document verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "iitm.ac.in",
+        "official_notification": "https://icsrstaff.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1774263718.pdf"
+    },
+    {
         "date": "02/04/2026",
         "board": "Bharathidasan University",
         "title": "University Research Fellow",

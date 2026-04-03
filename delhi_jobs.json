@@ -1,5 +1,37 @@
 [
     {
+        "date": "03/04/2026",
+        "board": "BJRMH",
+        "title": "Junior Resident",
+        "qualification": "MBBS degree from recognized University/Institute.",
+        "last_date": "08-04-2026",
+        "total_posts": "6",
+        "salary": "Rs. 56100 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://bjrmh.delhi.gov.in",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wbjrm_12.pdf"
+    },
+    {
+        "date": "03/04/2026",
+        "board": "RTRMH",
+        "title": "Junior Resident (MBBS)",
+        "qualification": "MBBS degree from a recognized University/Institute.",
+        "last_date": "09-04-2026",
+        "total_posts": "10",
+        "salary": "Rs. ₹56,100/- Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.health.delhigovt.nic.in",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wrtrm_10.pdf"
+    },
+    {
         "date": "02/04/2026",
         "board": "IRFCL",
         "title": "Total",
@@ -241,22 +273,6 @@
     },
     {
         "date": "31/03/2026",
-        "board": "ICSIL",
-        "title": "Studio Manager/Content Writer/ Social Media Manager & Staff Nurse",
-        "qualification": "Diploma/Bachelors in Mass Communication or Journalism; Nursing Council exam with Three Years Programme in General Nursing Midwifery (GNW) OR B.Sc. (Regular or Hons) in Nursing.",
-        "last_date": "02-04-2026",
-        "total_posts": "3",
-        "salary": "Rs. 40,000/- PM (EPF as applicable)",
-        "age_limit": "Studio Manager/Content Writer/ Social Media Manager:No age limit specified. || Staff Nurse (Female):Up to 35 Years.",
-        "application_fee": "Rs. 590/- (non-refundable)",
-        "selection_process": "Scrutiny of documents || Interaction/Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.icsil.in",
-        "official_notification": "https://icsil.in/sites/default/files/2026-03/Walk-in%20Advt.%20%20IGDTUW.pdf"
-    },
-    {
-        "date": "31/03/2026",
         "board": "NITCON",
         "title": "Junior Engineer (Civil) / Junior Engineer (Electrical or Mechanical)",
         "qualification": "Diploma / Engineering Degree in relevant field with minimum 60% marks + required experience",
@@ -366,22 +382,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.drdo.gov.in/",
         "official_notification": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtINMAS_APP30032026.pdf"
-    },
-    {
-        "date": "31/03/2026",
-        "board": "Kamala Nehru College",
-        "title": "Assistant Professor",
-        "qualification": "Assistant Professors of Universities/Colleges in UGC/DU Regulations.",
-        "last_date": "02-04-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.knc.du.ac.in",
-        "official_notification": "https://www.du.ac.in/uploads/2026/27032026-kamala-Advertisement%20pol.sc.%20Guest.pdf"
     },
     {
         "date": "31/03/2026",
@@ -721,22 +721,6 @@
     },
     {
         "date": "26/03/2026",
-        "board": "AIIA",
-        "title": "Medical Officer (Casualty)",
-        "qualification": "MBBS Degree recognized under IMC Act, 1956. Desirable: MD/MS in Medicine/Surgery/Orthopedics and experience of working in Casualty/Trauma Centre.",
-        "last_date": "02-04-2026",
-        "total_posts": "2",
-        "salary": "Rs. 56,100/- per month (consolidated)",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://aiia.gov.in",
-        "official_notification": "https://aiia.gov.in/viewpdf?docTypeId=1&pdfName=1774347374376_Vacancy24032026154608.pdf"
-    },
-    {
-        "date": "26/03/2026",
         "board": "AIIMS Delhi",
         "title": "Project Research Staff",
         "qualification": "Post Graduate Degree in Life Sciences or Biomedical Sciences for Scientist, Graduate degree in Life Science with 3 years experience or PG for Technical Support.",
@@ -862,22 +846,6 @@
         "syllabus": "Not Available",
         "official_website": "http://nhsrcindia.org",
         "official_notification": "https://recruitment.nhsrcindia.org/my/job"
-    },
-    {
-        "date": "25/03/2026",
-        "board": "VMMC & Safdarjung Hospital",
-        "title": "Project Technical Support, Project Research Scientist",
-        "qualification": "12TH, Any Graduate, BDS, Diploma, MBBS",
-        "last_date": "02-04-2026",
-        "total_posts": "5",
-        "salary": "Rs. 20,000 + HRA, Rs. 18,000 + HRA",
-        "age_limit": "Project Research Scientist - I (Medical): Maximum 35 years || Project Technical Support - II (Project Assistant): Maximum 30 years || Project Technical Support - I (Field worker/social worker): Maximum 28 years || Project Technical Support - I (Laboratory Technician): Maximum 28 years",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Please refer to the official notification for selection process details.",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://vmmc-sjh.mohfw.gov.in",
-        "official_notification": "https://vmmc-sjh.mohfw.gov.in/sites/default/files/Notice%20dated%2024.03.2026%20-%20Advertisement%20for%20various%20posts%20on%20Contract%20basis%20for%20a%20Project%20in%20the%20Department%20of%20Community%20Medicine.pdf"
     },
     {
         "date": "25/03/2026",
@@ -1105,22 +1073,6 @@
     },
     {
         "date": "23/03/2026",
-        "board": "ICSIL",
-        "title": "Dy. Manager",
-        "qualification": "Post Graduate degree from a recognized University",
-        "last_date": "02-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 50,000/- + EPF Per Month",
-        "age_limit": "Maximum Age Limit: 45 years",
-        "application_fee": "Rs. 590/- (One Time Registration Fee, non-refundable)",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://icsil.in/",
-        "official_notification": "https://icsil.in/sites/default/files/2026-03/Walk-in%20Advt.%20Dy.%20Manager%20DTTDC.pdf"
-    },
-    {
-        "date": "23/03/2026",
         "board": "NaBFID",
         "title": "Senior Analyst",
         "qualification": "BE/B.Tech/MCA/M.Tech (CS/IT/AI) with PMP/BPM/Agile cert. or MBA with CS graduation",
@@ -1182,22 +1134,6 @@
         "syllabus": "Not Available",
         "official_website": "https://sanskrit.nic.in/",
         "official_notification": "https://www.sanskrit.nic.in/uploads/2026_03_20_Detailed_Notification_NT.pdf"
-    },
-    {
-        "date": "20/03/2026",
-        "board": "IIT Delhi",
-        "title": "Sr. Research Fellow",
-        "qualification": "Ph.D. in Natural Science or equivalent.",
-        "last_date": "02-04-2026",
-        "total_posts": "1",
-        "salary": "Rs.42,000/- p.m. Plus HRA @27%",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://ird.iitd.ac.in/",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1773226226571_0bn2p3e.pdf"
     },
     {
         "date": "20/03/2026",
@@ -1390,22 +1326,6 @@
         "syllabus": "Not Available",
         "official_website": "https://recruitment.eil.co.in/mtrecNew/Initial.aspx?adv=%27HRD/RECTT./ADVT./2025-26/18%27",
         "official_notification": "https://img2.freejobalert.com/news/2026/03/452172-69bb74ec2f25a81359863.pdf"
-    },
-    {
-        "date": "18/03/2026",
-        "board": "NII",
-        "title": "Project Research Scientist I",
-        "qualification": "M.Phil/ Ph.D, M.Sc",
-        "last_date": "02-04-2026",
-        "total_posts": "1",
-        "salary": "Project Research Scientist I : Rs. 56,000/- per month plus 30% HRA",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Rs. 100/- (Exempted for SC/ST/PH & Women candidates)",
-        "selection_process": "Shortlisting of candidates || Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nii.res.in",
-        "official_notification": "https://www.nii.res.in/sites/default/files/announcement/events/PRS-I%20ICMR%20March%2026.pdf"
     },
     {
         "date": "18/03/2026",
@@ -1790,22 +1710,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.sportsauthorityofindia.nic.in",
         "official_notification": "https://sportsauthorityofindia.nic.in/sai_new/public/assets/uploads/jobs/892012cd-7420-48f1-af1a-66be00a9d80b.pdf"
-    },
-    {
-        "date": "27/02/2026",
-        "board": "Registrar General Ministry of Home Affairs",
-        "title": "Executive Officer (Census)",
-        "qualification": "Bachelor’s degree from a recognised University or institute, Five years’ experience in coordination or implementation of Census or survey activities or compilation, analysis of data and report writing or formulation or implementation of schemes or programmes, monitoring and evaluation or training or liaison and coordination work with other organisations or administration or Establishment or financial matters from any government organisation",
-        "last_date": "02-04-2026",
-        "total_posts": "58",
-        "salary": "Level-11 in the Pay Matrix",
-        "age_limit": "Maximum Age Limit: 56 years",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting of applications based on bio-data, APARs and experience",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.censusindia.gov.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/02/97554-69a131cd02f7f93594489.pdf"
     },
     {
         "date": "27/02/2026",
