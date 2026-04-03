@@ -1,6 +1,38 @@
 [
     {
         "date": "03/04/2026",
+        "board": "IIEST Shibpur",
+        "title": "Junior Research Fellow",
+        "qualification": "M.Tech./M.E., B.Tech./B.E.",
+        "last_date": "07-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 31,000/- Per Month",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiests.ac.in",
+        "official_notification": "https://www.iiests.ac.in/assets/images/notifications/Website%20Copy,%20Soumen%20Moulik,%20CST,%2025.03.2026%20%281%29.pdf"
+    },
+    {
+        "date": "03/04/2026",
+        "board": "WBPSC",
+        "title": "Assistant Director of Textiles",
+        "qualification": "Degree/Diploma in Textile Technology/Handloom Technology.",
+        "last_date": "20-04-2026",
+        "total_posts": "2",
+        "salary": "Rs.56,100 - Rs.1,44,300 Per Month",
+        "age_limit": "01 January 2024",
+        "application_fee": "Rs.210/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://psc.wb.gov.in",
+        "official_notification": "https://psc.wb.gov.in/Download?param1=Cur_20260330162610_Advt_11-2024.pdf&param2=advertisement"
+    },
+    {
+        "date": "03/04/2026",
         "board": "IACS",
         "title": "Assistant & MTS",
         "qualification": "Bachelor's Degree for Assistant, Matriculation for MTS.",

@@ -1,6 +1,38 @@
 [
     {
         "date": "03/04/2026",
+        "board": "Bharathidasan University",
+        "title": "Project Assistant",
+        "qualification": "M.Sc. in Data Science, M.Sc. in Computer Science, BE (CS), M.Tech (CS)",
+        "last_date": "06-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bdu.ac.in/",
+        "official_notification": "https://www.bdu.ac.in/docs/employment/PA-1-CMRG-CDOE.pdf"
+    },
+    {
+        "date": "03/04/2026",
+        "board": "Madras University",
+        "title": "Project Assistant",
+        "qualification": "M.Sc. in Medical Microbiology",
+        "last_date": "06-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000/- per month",
+        "age_limit": "Up to 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.unom.ac.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/84189-69cf976093ee280500779.pdf"
+    },
+    {
+        "date": "03/04/2026",
         "board": "Chennai Customs Commissioner",
         "title": "Total",
         "qualification": "Qualification  Tradesman: ITI Certificate in Mechanic/Diesel/Fitter/Turner/Welder/Electrician/Instrumental/Carpentry + X Class pass + 2 years experience in Engineering/Automobile/Ship Repair. Seaman: X Class pass + 3 years experience in sea going mechanized vessel (2 years in helmsman & seamanship work). Greaser: X Class pass + 3 years experience in sea going mechanized vessel on main & auxiliary machinery maintenance.",
@@ -10,7 +42,7 @@
         "age_limit": "Chennai Customs Commissioner Recruitment 2026 Age Limit  Tradesman: Not more than 25 Years (relaxable for Govt. servants by 5 years) Seaman & Greaser: 18-25 Years Age relaxation is applicable as per rules.",
         "application_fee": "Not Available",
         "selection_process": "Selection will be based on Written Examination followed by Physical Endurance Test (PET) – Swimming (wherever applicable) and Medical Fitness . || Candidates fulfilling the eligibility criteria will be called for theWritten Examination. || Shortlisted candidates will also undergoPhysical Endurance Test (PET) – Swimmingas the case may be. || Final selection is subject toDocument VerificationandMedical Fitness. || Travelling Allowance (TA) / Dearness Allowance (DA) willnotbe paid for Written Exam / PET (Swimming) / Document Verification. || The appearance of the candidate in the examination must match the photograph pasted in the application form.",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://chennaicustoms.gov.in",
         "official_notification": "https://img2.freejobalert.com/news/2026/04/841258-69cf37dde133137762343.pdf"
@@ -266,7 +298,7 @@
         "age_limit": "30 and 33 Years",
         "application_fee": "The ECIL Advt. No. 07/2026 walk‑in notification does not prescribe any separate application fee for appearing in the selection process for these contract posts. || Fee Status:Candidates are required to download the application form and attend the walk‑in with documents; there isno mention of any application or examination feein the advertisement, so applicants should not pay any money to unauthorized persons or intermediaries and rely only on official ECIL instructions.",
         "selection_process": "Shortlisting & Evaluation:After on‑spot registration and successful verification of original documents, candidates will be evaluated on three components – (A) Qualification: 20% of aggregate percentage scored in BE/B.Tech/Diploma/ITI; (B) Relevant Experience: up to 30 marks based on post‑qualification experience as per post‑specific rules; and (C) Personal Interview: 50 marks. || Final Merit & Offer:Final recommendations will be prepared in order of merit based on total score (A+B+C). Experience from purely academic internships, college projects etc. is not counted. Selected candidates will be engaged on fixed‑tenure contract and must be willing to work anywhere in India as per ECIL’s project requirements.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ecil.co.in/",
         "official_notification": "https://www.ecil.co.in/jobs/Advt_07_2026.pdf"
