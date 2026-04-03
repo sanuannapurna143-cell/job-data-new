@@ -1,6 +1,38 @@
 [
     {
         "date": "03/04/2026",
+        "board": "Regional Centre for Biotechnology",
+        "title": "Finance Officer",
+        "qualification": "Post-graduate degree in finance",
+        "last_date": "08-05-2026",
+        "total_posts": "1",
+        "salary": "Finance Officer: Pay Level 13 (Rs. 123100-215900)",
+        "age_limit": "Finance Officer:Maximum age limit is 50 years for Direct Recruitment. || Finance Officer (Deputation/Short-Term Contract):Maximum age limit is 56 years.",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Shortlisting by a duly constituted Screening Committee || Written test / Skill Test / Interview (for direct recruitment) || Selection based on Deputation or Contract basis (if direct recruitment fails)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "www.rcb.res.in",
+        "official_notification": "https://rcb.res.in/files/advertisement-files/advt._rcb_01_2026_recruitment_hr_final.pdf"
+    },
+    {
+        "date": "03/04/2026",
+        "board": "RITES",
+        "title": "Assistant Manager (IT/Network & Security), Assistant Manager (IT/Programming), Assistant Manager (IT/Data Centre)",
+        "qualification": "Bachelor's/PG Degree in Computer Engineering/Technology/CS/IT/Electronics or related disciplines",
+        "last_date": "27-04-2026",
+        "total_posts": "05",
+        "salary": "INR 40,000–1,40,000 (Approximate CTC: INR 16.01 Lacs p.a.)",
+        "age_limit": "Maximum 32 years as on 27.04.2026",
+        "application_fee": "Rs.600/- + Taxes (General/OBC); Rs.300/- + Taxes (EWS/SC/ST/PwBD)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rites.com",
+        "official_notification": "http://www.rites.com"
+    },
+    {
+        "date": "03/04/2026",
         "board": "RITES",
         "title": "Total",
         "qualification": "Qualification  Candidates Should Possess Full Time Diploma / Degree in Mechanical/Civil/Instrumentation/Electrical Branch of Engineering. Minimum 05 Years post qualification experience in Construction/Fabrication project or equivalent.",

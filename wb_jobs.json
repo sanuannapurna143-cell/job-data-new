@@ -1,5 +1,21 @@
 [
     {
+        "date": "03/04/2026",
+        "board": "IACS",
+        "title": "Assistant & MTS",
+        "qualification": "Bachelor's Degree for Assistant, Matriculation for MTS.",
+        "last_date": "19-04-2026",
+        "total_posts": "10",
+        "salary": "Assistant: Rs. 44,900/-. MTS: Rs. 18,000/-.",
+        "age_limit": "Assistant:Maximum age limit is 30 years. Age relaxation for departmental candidates is up to 40 years. || MTS (General):Minimum age is 18 years and maximum age is 25 years. Age relaxation for departmental candidates is up to 40 years.",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Written Test || Skill Test || Computer Based Test",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "iacs.res.in",
+        "official_notification": "https://www.iacs.res.in/modules/careerstaff/images/Rac_26-03-264939.pdf"
+    },
+    {
         "date": "02/04/2026",
         "board": "RRB",
         "title": "Assistant Loco Pilot (ALP)",
