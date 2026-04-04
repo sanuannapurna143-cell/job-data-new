@@ -1,6 +1,38 @@
 [
     {
         "date": "04/04/2026",
+        "board": "AIIMS Jodhpur",
+        "title": "Doctor / Palliative Care Nurse",
+        "qualification": "MBBS/BDS with MPH, B.Sc. Nursing Registered as Nurse & Midwife with State Nursing Council",
+        "last_date": "13-04-2026",
+        "total_posts": "3",
+        "salary": "Doctor: 65,000/- per month (consolidated)",
+        "age_limit": "Age concession to the extent of service rendered in other research projects may be admissible for experienced and skilled persons on case-to-case basis.",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsjodhpur.edu.in",
+        "official_notification": "https://www.aiimsjodhpur.edu.in/recruitment/Research/2026/1775040695_document%20-%202026-04-01T160928.950-010426.pdf"
+    },
+    {
+        "date": "04/04/2026",
+        "board": "NIIRNCD",
+        "title": "Project Research Scientist",
+        "qualification": "Postgraduate degree in various fields with 3 years of post-qualification experience or PhD.",
+        "last_date": "15-04-2026",
+        "total_posts": "2",
+        "salary": "Rs. 67,000/- + HRA per month fixed (Scientist-II), Rs. 56,000/- + HRA per month fixed (Scientist-I)",
+        "age_limit": "Project Research Scientist-II (Non-Medical):Maximum age limit is 40 years. || Project Research Scientist-I (Non-Medical):Maximum age limit is 35 years. || Age Relaxation:Admissible as per Govt. instructions for SC/ST/OBC, Ex-Servicemen, Departmental Candidates, and Retrenched Govt. Employees.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in-Interview / Written Test || Written Test (if more than 30 candidates) || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://niirncd.icmr.org.in",
+        "official_notification": "https://niirncd.icmr.org.in/admin/en_doc/adv154.pdf"
+    },
+    {
+        "date": "04/04/2026",
         "board": "ICMR NIIRNCD",
         "title": "Field Supervisor & Project Technical Support – III",
         "qualification": "Bachelor’s degree, Postgraduate degree, MPH, M.SC, B.SC, BPH, M.A",
