@@ -1,6 +1,38 @@
 [
     {
         "date": "04/04/2026",
+        "board": "IIM Indore",
+        "title": "Program Executive/Associate",
+        "qualification": "Graduate/Postgraduate in relevant fields, Minimum 2 years experience",
+        "last_date": "16-04-2026",
+        "total_posts": "2",
+        "salary": "INR 40,000 to INR 60,000 per month (consolidated)",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitism.ac.in",
+        "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1193/Project%20JRF_2026-04-02_21-58-15.pdf"
+    },
+    {
+        "date": "04/04/2026",
+        "board": "Ordnance Factory Khamaria",
+        "title": "Tenure Based Graduate/Diploma Project Engineer (Chemical)",
+        "qualification": "Graduate (B.E./B.Tech) or Diploma in Chemical Engineering with Apprenticeship in manufacturing/handling of ammunition and explosives.",
+        "last_date": "25-04-2026",
+        "total_posts": "30",
+        "salary": "Rs. 36000/- (1st Year), Rs. 37080/- (2nd Year), Rs. 38192/- (3rd Year), Rs. 39338/- (4th Year) + IDA",
+        "age_limit": "18-30 years (General), with relaxations for OBC-NCL, SC/ST & PwBD",
+        "application_fee": "NIL",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://ddpdoo.gov.in/",
+        "official_notification": "https://ddpdoo.gov.in/storage/document/69d0783137004.pdf"
+    },
+    {
+        "date": "04/04/2026",
         "board": "Ordnance Factory Khamaria",
         "title": "Total",
         "qualification": "ITI",
