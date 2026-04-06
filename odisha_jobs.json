@@ -1,6 +1,38 @@
 [
     {
         "date": "06/04/2026",
+        "board": "OAV Jharmunda",
+        "title": "Support Staff",
+        "qualification": "Minimum qualification as per respective post. Experience in hostel management/cooking/security duty will be preferred.",
+        "last_date": "21-04-2026",
+        "total_posts": "5",
+        "salary": "Warden: ₹21,175.00, Head Cook: ₹9,000.00, Assistant Cook: ₹6,750.00, Chowkidar_cum_Sweeper: ₹7,500.00",
+        "age_limit": "Warden:Minimum Age: 30 years, Maximum Age: 60 years || Head Cook:Minimum Age: 30 years, Maximum Age: 40 years || Assistant Cook:Minimum Age: 21 years, Maximum Age: 32 years || Chowkidar_cum_Sweeper:Minimum Age: 21 years, Maximum Age: 32 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://balangir.odisha.gov.in/",
+        "official_notification": "https://balangir.odisha.gov.in/sites/default/files/2026-04/ENGAGEMENT%20OF%20SUPPORT%20STAFF%20FOR%20BOYS%E2%80%99%20HOSTEL%2C%20OAV%20JHARMUNDA%2C%20LOISINGHA.pdf"
+    },
+    {
+        "date": "06/04/2026",
+        "board": "OAV Keshrajpur",
+        "title": "Support Staff",
+        "qualification": "Minimum qualification as per the respective post. For Warden: B.A/B.Sc. For Chowkidar-cum-Sweeper: HSC Passed.",
+        "last_date": "18-04-2026",
+        "total_posts": "5",
+        "salary": "Warden: Rs.21,175.00 per month (including EPF share of Employee & Employer) || Head Cook: Rs. 9,000/- per month (including EPF share of Employee & Employer) || Assistant Cook: Rs. 6750/- per month (including EPF share of Employee & Employer) || Chowkidar-cum-Sweeper: Rs. 7,500/- per month (including EPF share of Employee & Employer)",
+        "age_limit": "Warden: Minimum 30 years, Maximum 60 years. || Head Cook: Minimum 30 years, Maximum 40 years. || Assistant Cook: Minimum 21 years, Maximum 32 years. || Chowkidar-cum-Sweeper: Minimum 21 years, Maximum 32 years.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Advertisement will be published in local dailies. || Fifteen days' time duration may be given for inviting application from intending candidates. || Preference shall be given to local candidates. If candidates are not available in that locality, then block will be taken as a unit. If still candidates are not available, then the candidates from nearby blocks may be selected for the purpose. No candidates outside of the district should be recruited against the posts stated above. || Qualification for the different posts may be taken from the above list.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://oav.edu.in/",
+        "official_notification": "https://nuapada.odisha.gov.in/sites/default/files/2026-04/OAV%20Keshrajpur.pdf"
+    },
+    {
+        "date": "06/04/2026",
         "board": "Family Court Cuttack",
         "title": "Counsellor",
         "qualification": "Master's Degree in Social Science preferably Sociology or Psychology.",

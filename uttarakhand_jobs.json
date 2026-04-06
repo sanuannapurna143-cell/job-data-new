@@ -1,6 +1,22 @@
 [
     {
         "date": "06/04/2026",
+        "board": "IIT Roorkee",
+        "title": "Project Attendant",
+        "qualification": "Any Graduate, Any Post Graduate",
+        "last_date": "17-04-2026",
+        "total_posts": "1",
+        "salary": "INR 27,000/- per month + 10% HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/PH/2026/adv270320262.pdf"
+    },
+    {
+        "date": "06/04/2026",
         "board": "Kurmanchal Bank",
         "title": "Assistant Grade-II (Clerk/Cashier)",
         "qualification": "Graduation from a recognized University/Institute in India",
