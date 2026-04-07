@@ -129,22 +129,6 @@
     },
     {
         "date": "01/04/2026",
-        "board": "AIIMS Jodhpur",
-        "title": "Assistant Professor",
-        "qualification": "Any Graduate, MBBS, M.Phil/ Ph.D",
-        "last_date": "07-04-2026",
-        "total_posts": "24",
-        "salary": "₹1,42,506/- Per month (Consolidated)",
-        "age_limit": "Max: 50 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.aiimsjodhpur.edu.in",
-        "official_notification": "https://rec.aiimsjodhpur.edu.in/Faculty_Recruitment_Contract/2026/Frec_Contract_2026_3/PDF/FACULTY%2003_2026.pdf"
-    },
-    {
-        "date": "01/04/2026",
         "board": "Indian Army",
         "title": "Agniveer (GD, Tradesman, Clerk & Other Posts)",
         "qualification": "12TH, 10TH, 8TH",
@@ -206,22 +190,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.bits-pilani.ac.in",
         "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/Junior_Research_Fellow-Atish_Paul_ANRF_ARG_project_on_28_09_2026.pdf"
-    },
-    {
-        "date": "27/03/2026",
-        "board": "NIIRNCD",
-        "title": "Project Technical Support III",
-        "qualification": "Graduate degree with Nursing / Medical Laboratory Technology with 3 years post-qualification experience OR Post Graduate Degree in Nursing / Medical Laboratory Technology. Experience in working in health system research/ implementation/ operational research.",
-        "last_date": "07-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 28,000/- + HRA per month",
-        "age_limit": "Maximum Age Limit: Not exceeding 35 years on the date of the walk-in interview. || Age Relaxation: Admissible for SC/ST, OBC, Ex-Servicemen, Departmental Candidates, Retrenched Government Employees, and Experienced and skilled persons for service rendered in other research projects.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://niirncd.icmr.org.in",
-        "official_notification": "https://niirncd.icmr.org.in/admin/en_doc/cytbrec.pdf"
     },
     {
         "date": "27/03/2026",
@@ -302,21 +270,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nfc.gov.in/",
         "official_notification": "https://www.nfc.gov.in/pdf/recruitment-advt/2026/adv-no-nfc_01_2026_eng.pdf"
-    },
-    {
-        "date": "18/03/2026",
-        "board": "ICMR-NIIRNCD",
-        "title": "Consultant, Project Technical Support",
-        "qualification": "MBBS, MPH, Graduate in Public Health / Nursing / Life Science, Post Graduate in Public Health / Life Science, Graduate",
-        "last_date": "07-04-2026",
-        "total_posts": "3",
-        "salary": "Consultant (Scientific Medical / Non-Medical):Up to Rs. 70,000/- per month (depending on experience) || Project Technical Support – III:Rs. 28,000/- + HRA per month (fixed)",
-        "age_limit": "All Posts: Age relaxation as per ICMR/GoI norms for SC/ST/OBC/EWS/PwBD/Ex-servicemen etc.",
-        "application_fee": "Nil",
-        "selection_process": "Walk-in-Interview || Written Test (if more than 30 eligible candidates for Project Technical Support-III)",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://niirncd.icmr.org.in",
-        "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1773757154_digicarenotadv.pdf"
     }
 ]
