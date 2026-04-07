@@ -1,6 +1,38 @@
 [
     {
         "date": "07/04/2026",
+        "board": "NMRC",
+        "title": "Senior Section Officer (Legal) / Section Officer (Legal)",
+        "qualification": "Bachelor's Degree in Law",
+        "last_date": "30-04-2026",
+        "total_posts": "1",
+        "salary": "INR 46,000-1,45,000 / INR 40,000-1,25,000",
+        "age_limit": "Max Age Limit- 56 years as on closing date in case of Deputation, 40 years as on closing date in case of Immediate Absorption/Direct Recruitment",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nmrcnoida.com",
+        "official_notification": "https://www.nmrcnoida.com/Upload/CareersRecentItems/45/SSO%20or%20SO%20Legal%20Post%20%2001.04.2026.pdf"
+    },
+    {
+        "date": "07/04/2026",
+        "board": "IIT BHU",
+        "title": "Junior Research Fellow",
+        "qualification": "B.E. / B.Tech, M.Tech/M.E",
+        "last_date": "24-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 + HRA Per Month",
+        "age_limit": "Maximum Age: 28 years || Age relaxation is applicable in accordance with Govt. of India regulations.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting of applications || Physical Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitbhu.ac.in",
+        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_jrf_ece_interfaces.pdf"
+    },
+    {
+        "date": "07/04/2026",
         "board": "AIIMS Raebareli",
         "title": "Junior Resident (Non-Academic)",
         "qualification": "MBBS",

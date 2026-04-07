@@ -1,5 +1,21 @@
 [
     {
+        "date": "07/04/2026",
+        "board": "Central University of Punjab",
+        "title": "Faculty",
+        "qualification": "Master’s degree with minimum 55% marks in Social Science subjects",
+        "last_date": "20-04-2026",
+        "total_posts": "5",
+        "salary": "Rs. 1,15,000/- per month",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 750/- per post",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.cup.edu.in",
+        "official_notification": "https://cup.edu.in/dace/sites/default/files/users/cup/DACE%20Advertisement%20Detailed%20Guidelines%202026.pdf"
+    },
+    {
         "date": "06/04/2026",
         "board": "AIIMS Bathinda",
         "title": "Project Research Scientist I",
