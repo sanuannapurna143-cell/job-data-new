@@ -1,6 +1,22 @@
 [
     {
         "date": "07/04/2026",
+        "board": "DoT",
+        "title": "Consultant",
+        "qualification": "Retired Central Government officials / PSUs (including BSNL/MTNL) / Research organizations, Adequate computer knowledge (MS Word, Excel, PowerPoint), Knowledge of Hindi (desirable), Experience in telecom / service compliance / security / rural connectivity / administrative functions (desirable)",
+        "last_date": "30-04-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Consolidated monthly fee as per DoE OM no. 3-25/2020-E.III A dated 09-12-2020 and subsequent DoT orders (based on last pay minus pension).",
+        "age_limit": "Maximum Age Limit: 64 years for all posts.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Scrutiny of applications & documents || Telephonic / online interview || Assessment of knowledge & willingness to work",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.dot.gov.in",
+        "official_notification": "https://www.dot.gov.in/static/uploads/2026/04/2128fce778c4dadab1e8fcae4461f587.pdf"
+    },
+    {
+        "date": "07/04/2026",
         "board": "IRCTC",
         "title": "Total",
         "qualification": "Qualification  B.Sc. in Hospitality and Hotel Administration (or) BBA/MBA (Culinary Arts) from Indian Culinary Institutes under Ministry of Tourism (or) B.Sc. Hotel Management and Catering Science (or) M.B.A (Tourism and Hotel Management) from Government recognized Universities affiliated to UGC/AICTE /Government of India/ State Government Freshers with relevant educational qualification can also apply",
@@ -10,7 +26,7 @@
         "age_limit": "IRCTC Recruitment 2026 Age Limit (as on 01-04-2026)  Upper Age Limit: 27 Years Age relaxation is admissible as per rules",
         "application_fee": "Not Available",
         "selection_process": "Selection will be made through Walk-in-Interview only. || Candidates must fill the prescribedApplication Form(attached with the advertisement) completely. || Submit the filled Application Form at the venue of the interview along with:Original documents + one set of self-attested photocopies of all required certificates.Three recent passport size photographs. || Original documents + one set of self-attested photocopies of all required certificates. || Three recent passport size photographs. || Interview will be conducted on the spot. || Candidates will be shortlisted on the basis of credentials, educational qualification, experience (if any) and performance in thepersonal interview. || Offer of engagement will be issued to the suitable candidates in the order of merit and as per the number of vacancies. || In addition to the main panel, areserved panelwill also be prepared which will be used in case of any shortfall. || Engagement is subject to being foundmedically fitas per IRCTC norms.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.irctc.com/",
         "official_notification": "https://www.irctc.com/assets/images2/Notification6apr2026.pdf"
@@ -282,7 +298,7 @@
         "age_limit": "Maximum: 30 years || Relaxation for SC/ST/OBC-NCL candidates as per Govt. rules",
         "application_fee": "Not Available",
         "selection_process": "Driving Test + Personnel Assessment / Interview. No TA/DA will be paid. Final selection based on performance in driving test and assessment.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.fcriindia.com",
         "official_notification": "https://www.fcriindia.com/wp-content/uploads/2026/03/MTAD-Notification.pdf"
