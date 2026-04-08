@@ -4,97 +4,89 @@ import json
 import os
 import time
 
-# ଏହି ଫଙ୍କସନ୍ ରେଜଲ୍ଟ, ଆଡମିଟ୍ କାର୍ଡ ଇତ୍ୟାଦି ପାଇଁ ଡାଟା ଟାଣିବ
 def scrape_fast_updates(url, filename):
-    scraper = cloudscraper.create_scraper(
-        browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False}
-    )
+    scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows'})
     
-    # ୧. ପୁରୁଣା ଡାଟା ଲୋଡ୍ କରିବା (ଯେମିତି କି ଡାଟା ଡିଲିଟ୍ ହେବନି)
     existing_updates = []
-    existing_titles = set()
     if os.path.exists(filename):
         try:
             with open(filename, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                if isinstance(data, list):
-                    existing_updates = data
-                    for item in existing_updates:
-                        existing_titles.add(item.get('title', ''))
-        except Exception as e:
-            print(f"  ⚠ ପୁରୁଣା ଫାଇଲ୍ ପଢିବାରେ ଏରର୍: {e}")
+                existing_updates = json.load(f)
+        except: pass
 
     try:
-        print(f"\n⚡ ସ୍କାନିଂ: {filename}...")
+        print(f"\n⚡ Scanning: {filename}...")
         response = scraper.get(url, timeout=20)
-        
-        if response.status_code != 200:
-            print(f"  ❌ ପେଜ୍ ଖୋଲିଲାନି! Status: {response.status_code}")
-            return
-
         soup = BeautifulSoup(response.text, 'html.parser')
-        new_found_data = []
         
-        # ୨. ଟେବୁଲ୍ ଖୋଜିବା ଲଜିକ୍
+        new_updates = []
         tables = soup.find_all('table')
 
         for table in tables:
+            rows = table.find_all('tr')
+            if len(rows) < 2: continue
+            
             header_text = table.text.lower()
-            # ରେଜଲ୍ଟ ପେଜ୍‌ର ଟେବୁଲ୍ କୁ ଚିହ୍ନିବା
-            if any(k in header_text for k in ['post date', 'result', 'admit card', 'update']):
-                rows = table.find_all('tr')
+            # ସବୁ ପ୍ରକାରର ଅପଡେଟ୍ ଟେବୁଲ୍ କୁ ଚିହ୍ନିବା ପାଇଁ logic
+            if any(k in header_text for k in ['board', 'result', 'admit card', 'education', 'syllabus', 'answer key']):
                 
-                for row in rows[1:]: # Header ଛାଡି
+                for row in rows[1:]:
                     cols = row.find_all('td')
                     
-                    # ରେଜଲ୍ଟ/ଆଡମିଟ୍ କାର୍ଡ ଟେବୁଲ୍ ରେ ସାଧାରଣତଃ ୩-୪ଟି କଲମ୍ ଥାଏ
                     if len(cols) >= 3:
-                        date_str = cols[0].text.strip()
-                        board = cols[1].text.strip()
-                        title_col = cols[2]
-                        title = title_col.text.strip()
+                        # ଡାଟା ଟାଣିବା
+                        raw_date = cols[0].text.strip()
+                        raw_board = cols[1].text.strip()
+                        raw_title = cols[2].text.strip()
                         
                         # ଲିଙ୍କ୍ ଖୋଜିବା
-                        link = ""
-                        a_tag = title_col.find('a')
-                        if a_tag and 'href' in a_tag.attrs:
-                            link = a_tag['href']
+                        link_tag = cols[2].find('a') or cols[-1].find('a')
+                        link = link_tag['href'] if link_tag else ""
 
-                        # ଯଦି ଟାଇଟଲ୍ ନୂଆ, ତେବେ ଯୋଡ଼
-                        if title and title not in existing_titles:
-                            new_found_data.append({
-                                "date": date_str,
-                                "board": board,
-                                "title": title,
-                                "link": link
-                            })
-                
-                if new_found_data: break # ଡାଟା ମିଳିଗଲେ ପରବର୍ତ୍ତୀ ଟେବୁଲ୍ କୁ ଯିବନି
+                        # 📍 ପିଲାଙ୍କ ପାଇଁ ଡାଟା କୁ ସଫା କରିବା (Cleaning Logic)
+                        final_title = raw_title
+                        final_board = raw_board
 
-        # ୩. ନୂଆ + ପୁରୁଣା ମିଶାଇ ସେଭ୍ କରିବା
-        if new_found_data:
-            print(f"  ✅ {len(new_found_data)} ଟି ନୂଆ ଅପଡେଟ୍ ମିଳିଲା।")
-            final_data = new_found_data + existing_updates
+                        # ଯଦି ଟାଇଟଲ୍ ରେ "Get Details" ଅଛି, ତେବେ Board ନାଁ କୁ ହିଁ Title ବନାଅ
+                        if any(x in raw_title.lower() for x in ["click", "details", "here"]) or len(raw_title) < 5:
+                            final_title = raw_board
+                            final_board = "Update"
+
+                        if not final_title or final_title.lower() == "post name": continue
+
+                        new_updates.append({
+                            "date": raw_date,
+                            "board": final_board,
+                            "title": final_title,
+                            "link": link
+                        })
+                break
+
+        if new_updates:
+            existing_titles = {j.get('title') for j in existing_updates}
+            filtered_new = [n for n in new_updates if n['title'] not in existing_titles]
+            
+            final_data = filtered_new + existing_updates
             # ସର୍ବାଧିକ ୧୦୦ ଟି ଡାଟା ରଖିବା
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(final_data[:100], f, ensure_ascii=False, indent=4)
-            print(f"  💾 {filename} ଅପଡେଟ୍ ହୋଇଗଲା।")
+            print(f"  ✅ {len(filtered_new)} New items added to {filename}")
         else:
-            print("  ✅ କିଛି ନୂଆ ଡାଟା ନାହିଁ।")
+            print(f"  ✅ {filename} is already up to date.")
 
     except Exception as e:
-        print(f"  ❌ Error: {e}")
+        print(f"  ❌ Error in {filename}: {e}")
 
-# --- ସବୁ ଲିଙ୍କ୍ ର ଲିଷ୍ଟ୍ (ଏଇଟା ହିଁ ସ୍କ୍ରାପର୍ ର ମେନ୍ କାମ) ---
+# --- ଏଠାରେ ଅଛି ପୁରା ଲିଷ୍ଟ (The Full List) ---
 if __name__ == "__main__":
-    update_sources = {
+    sources = {
         "results.json": "https://www.freejobalert.com/exam-results/",
         "admit_cards.json": "https://www.freejobalert.com/admit-card/",
+        "education.json": "https://www.freejobalert.com/new-edu-updates/",
         "answer_keys.json": "https://www.freejobalert.com/answer-keys/",
-        "syllabus.json": "https://www.freejobalert.com/syllabus/",
-        "education.json": "https://www.freejobalert.com/new-edu-updates/"
+        "syllabus.json": "https://www.freejobalert.com/syllabus/"
     }
-
-    for file, url in update_sources.items():
+    
+    for file, url in sources.items():
         scrape_fast_updates(url, file)
-        time.sleep(5) # Cloudflare ସୁରକ୍ଷା ପାଇଁ ବିଶ୍ରାମ
+        time.sleep(5) # Cloudflare ବ୍ଲକ୍ ନକରିବା ପାଇଁ
