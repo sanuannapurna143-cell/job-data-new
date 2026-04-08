@@ -7,6 +7,7 @@ import time
 def scrape_fast_updates(url, filename):
     scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows'})
     
+    # ୧. ପୁରୁଣା ଡାଟା ଲୋଡ୍ କରିବା
     existing_updates = []
     if os.path.exists(filename):
         try:
@@ -15,69 +16,71 @@ def scrape_fast_updates(url, filename):
         except: pass
 
     try:
-        print(f"\n⚡ Scanning: {filename}...")
+        print(f"\n🔎 Scanning Full Page: {url}")
         response = scraper.get(url, timeout=20)
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        new_updates = []
-        tables = soup.find_all('table')
+        all_new_data = []
+        tables = soup.find_all('table') # ସବୁ ଟେବୁଲ୍ ଖୋଜିବ
 
         for table in tables:
             rows = table.find_all('tr')
             if len(rows) < 2: continue
             
             header_text = table.text.lower()
-            # ସବୁ ପ୍ରକାରର ଅପଡେଟ୍ ଟେବୁଲ୍ କୁ ଚିହ୍ନିବା ପାଇଁ logic
+            # ଯଦି ଟେବୁଲ୍ ଭିତରେ ଏହି ଶବ୍ଦ ଅଛି, ତେବେ ଡାଟା ଟାଣିବ
             if any(k in header_text for k in ['board', 'result', 'admit card', 'education', 'syllabus', 'answer key']):
                 
                 for row in rows[1:]:
                     cols = row.find_all('td')
-                    
                     if len(cols) >= 3:
-                        # ଡାଟା ଟାଣିବା
-                        raw_date = cols[0].text.strip()
-                        raw_board = cols[1].text.strip()
-                        raw_title = cols[2].text.strip()
+                        # ଡାଟା ବାହାର କରିବା
+                        date_val = cols[0].text.strip()
+                        board_val = cols[1].text.strip()
+                        title_val = cols[2].text.strip()
                         
                         # ଲିଙ୍କ୍ ଖୋଜିବା
                         link_tag = cols[2].find('a') or cols[-1].find('a')
                         link = link_tag['href'] if link_tag else ""
 
-                        # 📍 ପିଲାଙ୍କ ପାଇଁ ଡାଟା କୁ ସଫା କରିବା (Cleaning Logic)
-                        final_title = raw_title
-                        final_board = raw_board
+                        # 📍 "Get Details" ସମସ୍ୟା ଠିକ୍ କରିବା Logic
+                        final_title = title_val
+                        final_board = board_val
 
-                        # ଯଦି ଟାଇଟଲ୍ ରେ "Get Details" ଅଛି, ତେବେ Board ନାଁ କୁ ହିଁ Title ବନାଅ
-                        if any(x in raw_title.lower() for x in ["click", "details", "here"]) or len(raw_title) < 5:
-                            final_title = raw_board
+                        # ଯଦି ଟାଇଟଲ୍ ଖାଲି ଅଛି କିମ୍ବା "Get Details" ଲେଖାଅଛି
+                        if any(x in title_val.lower() for x in ["click", "details", "here"]) or len(title_val) < 5:
+                            final_title = board_val
                             final_board = "Update"
 
-                        if not final_title or final_title.lower() == "post name": continue
+                        if not final_title or "post name" in final_title.lower():
+                            continue
 
-                        new_updates.append({
-                            "date": raw_date,
+                        all_new_data.append({
+                            "date": date_val,
                             "board": final_board,
                             "title": final_title,
                             "link": link
                         })
-                break
+                # ଏଠାରେ break ଲଗାଯାଇନି, ଯାହାଦ୍ୱାରା ସେ ସବୁ ଟେବୁଲ୍ ପଢ଼ିବ
 
-        if new_updates:
+        if all_new_data:
+            # Duplicate ହଟାଇବା
             existing_titles = {j.get('title') for j in existing_updates}
-            filtered_new = [n for n in new_updates if n['title'] not in existing_titles]
+            unique_new = [n for n in all_new_data if n['title'] not in existing_titles]
             
-            final_data = filtered_new + existing_updates
-            # ସର୍ବାଧିକ ୧୦୦ ଟି ଡାଟା ରଖିବା
+            # ନୂଆ ଡାଟାକୁ ଉପରେ ରଖିବା
+            final_json_data = unique_new + existing_updates
+            
             with open(filename, 'w', encoding='utf-8') as f:
-                json.dump(final_data[:100], f, ensure_ascii=False, indent=4)
-            print(f"  ✅ {len(filtered_new)} New items added to {filename}")
+                json.dump(final_json_data[:150], f, ensure_ascii=False, indent=4)
+            print(f"  ✅ Success! {len(unique_new)} new items added to {filename}")
         else:
-            print(f"  ✅ {filename} is already up to date.")
+            print(f"  ✅ No new data found for {filename}")
 
     except Exception as e:
-        print(f"  ❌ Error in {filename}: {e}")
+        print(f"  ❌ Error: {e}")
 
-# --- ଏଠାରେ ଅଛି ପୁରା ଲିଷ୍ଟ (The Full List) ---
+# --- ସବୁ ୫ଟି ଯାକ ସେକ୍ସନ୍ ---
 if __name__ == "__main__":
     sources = {
         "results.json": "https://www.freejobalert.com/exam-results/",
@@ -87,6 +90,6 @@ if __name__ == "__main__":
         "syllabus.json": "https://www.freejobalert.com/syllabus/"
     }
     
-    for file, url in sources.items():
-        scrape_fast_updates(url, file)
-        time.sleep(5) # Cloudflare ବ୍ଲକ୍ ନକରିବା ପାଇଁ
+    for file_name, web_url in sources.items():
+        scrape_fast_updates(web_url, file_name)
+        time.sleep(5)
