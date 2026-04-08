@@ -1,4 +1,4 @@
-vname: Job Scraper Automation
+name: Job Scraper Automation
 
 on:
   schedule:
