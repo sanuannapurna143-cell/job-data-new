@@ -34,6 +34,10 @@ jobs:
     - name: Run Fast Scraper (fast_scraper.py)
       run: python fast_scraper.py
 
+    - name: Run Odisha Official Scraper
+      run: python odisha_official.py
+      continue-on-error: true
+
     - name: Commit and push changes safely
       run: |
         git config --global user.name "github-actions[bot]"
