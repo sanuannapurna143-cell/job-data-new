@@ -1,5 +1,39 @@
 [
     {
+        "date": "03/04/2026",
+        "board": "MDU Rohtak",
+        "title": "Project Assistant, Scientific Administrative Assistant",
+        "qualification": "M.Sc. Biotechnology/ Microbiology/ Bioinformatics with minimum 55% marks",
+        "last_date": "10-04-2026",
+        "total_posts": "4",
+        "salary": "Project Assistant: Rs. 20,000 per month + HRA || Scientific Administrative Assistant: Rs. 18,000 per month + HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://mdu.ac.in",
+        "official_notification": "https://mdu.ac.in/UpFiles/UpPdfFiles/2026/Apr/4_04-03-2026_15-14-39_Advertisement%202026%20Project%20assisstant.pdf",
+        "job_link": "https://www.freejobalert.com/articles/mdu-rohtak-recruitment-2026-walkin-for-04-project-assistant-scientific-administrative-assistant-posts-3044161"
+    },
+    {
+        "date": "03/04/2026",
+        "board": "Regional Centre for Biotechnology",
+        "title": "Finance Officer",
+        "qualification": "Post-graduate degree in finance",
+        "last_date": "08-05-2026",
+        "total_posts": "1",
+        "salary": "Finance Officer: Pay Level 13 (Rs. 123100-215900)",
+        "age_limit": "Finance Officer:Maximum age limit is 50 years for Direct Recruitment. || Finance Officer (Deputation/Short-Term Contract):Maximum age limit is 56 years.",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Shortlisting by a duly constituted Screening Committee || Written test / Skill Test / Interview (for direct recruitment) || Selection based on Deputation or Contract basis (if direct recruitment fails)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "www.rcb.res.in",
+        "official_notification": "https://rcb.res.in/files/advertisement-files/advt._rcb_01_2026_recruitment_hr_final.pdf",
+        "job_link": "https://www.freejobalert.com/articles/regional-centre-for-biotechnology-finance-officer-recruitment-2026-apply-online-3044046"
+    },
+    {
         "date": "10/04/2026",
         "board": "EIL",
         "title": "Total",
@@ -939,37 +973,5 @@
         "syllabus": "Not Available",
         "official_website": "https://mdu.ac.in",
         "official_notification": "https://mdu.ac.in/UpFiles/UpPdfFiles/2026/Mar/4_03-29-2026_22-14-52_Adv%20Shivom%20College%20of%20Management%20&%20Technology.pdf"
-    },
-    {
-        "date": "07/04/2026",
-        "board": "Regional Centre for Biotechnology",
-        "title": "Junior Research Fellow",
-        "qualification": "M.Sc",
-        "last_date": "09-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 31,000/- + 16% HRA Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://docs.google.com/forms/d/e/1FAIpQLSd5XtZigULQzexWhOUmexDOqEL4ktj3jTJMb4OLYOPRXgZBmg/viewform",
-        "official_notification": "https://rcb.res.in/files/advertisement-files/advt._no.08_project_2026_hr.pdf"
-    },
-    {
-        "date": "04/04/2026",
-        "board": "NBRC",
-        "title": "Research Scientist I",
-        "qualification": "M.Phil/ Ph.D",
-        "last_date": "20-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. ₹ 58,000/- Per Month",
-        "age_limit": "Maximum Age Limit: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting || Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nbrc.ac.in",
-        "official_notification": "https://www.nbrc.ac.in/newweb/wp-content/uploads/2026/04/Research-Scientist-I-Dr-Raza-Lab-April2026.pdf"
     }
 ]
