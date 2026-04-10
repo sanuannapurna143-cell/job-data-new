@@ -3,10 +3,9 @@ from bs4 import BeautifulSoup
 import json
 import time
 import re
-import os # ନୂଆ: ଫାଇଲ୍ ଅଛି କି ନାହିଁ ଚେକ୍ କରିବା ପାଇଁ
-from concurrent.futures import ThreadPoolExecutor # ନୂଆ: ସ୍ପିଡ୍ ପାଇଁ
+import os
+from concurrent.futures import ThreadPoolExecutor
 
-# ତୁମର ଅସଲି get_inner_details ଫଙ୍କସନ୍ (ମୁଁ କିଛି ବି ବଦଳାଇନି)
 def get_inner_details(scraper, link):
     details = {
         "full_title": "Not Available",
@@ -25,12 +24,11 @@ def get_inner_details(scraper, link):
         return details
     
     try:
-        time.sleep(1) # ଏଇଟା ୫ ଥିଲା, ୧ କରିଦେଲି କାରଣ ଆମେ Multithreading କରୁଛୁ
+        time.sleep(1)
         response = scraper.get(link)
         soup = BeautifulSoup(response.text, 'html.parser')
         
         page_text = soup.text.lower()
-        
         tables = soup.find_all('table')
         for table in tables:
             rows = table.find_all('tr')
@@ -184,7 +182,6 @@ def get_inner_details(scraper, link):
     return details
 
 
-# ଏହି ନୂଆ ଫଙ୍କସନ୍ ଟି Multithreading ପାଇଁ ତୁମର ଲଜିକ୍‌କୁ ରଖିବ
 def process_single_job(args):
     scraper, row_data = args
     post_date, board_name, post_name, outer_qualification, last_date, job_link = row_data
@@ -192,7 +189,6 @@ def process_single_job(args):
     print(f"  -> ନୂଆ ଚାକିରି ଆସିଛି, ଭିତର ପେଜ୍ ଚେକ୍ କରୁଛି: {post_name[:20]}...")
     inner_data = get_inner_details(scraper, job_link)
 
-    # ତୁମର ଅସଲି ଶେଷ ବ୍ରହ୍ମାସ୍ତ୍ର ଲଜିକ୍ (କିଛି ବଦଳିନି)
     final_title = inner_data['full_title'] if inner_data['full_title'] != "Not Available" else post_name
     
     final_qualification = inner_data['qualification']
@@ -221,23 +217,27 @@ def process_single_job(args):
         "apply_mode": inner_data['apply_mode'], 
         "syllabus": inner_data['syllabus'],
         "official_website": inner_data['official_website'],
-        "official_notification": inner_data['official_notification']
+        "official_notification": inner_data['official_notification'],
+        "job_link": job_link # ନୂଆ: ଡୁପ୍ଲିକେଟ୍ ଚେକ୍ କରିବା ପାଇଁ ଏହା ସେଭ୍ ହେବ
     }
 
 
 def get_jobs(url, filename):
     scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False})
     
-    # ୧. ନୂଆ ଲଜିକ୍: ପୁରୁଣା ଫାଇଲ୍ ଅଛି କି ନାହିଁ ଚେକ୍ କର ଏବଂ ପୁରୁଣା ଟାଇଟଲ୍ ଗୁଡ଼ିକ ମନେ ରଖ
     existing_jobs = []
+    existing_links = set() # ନୂଆ: ଲିଙ୍କ୍ କୁ ମନେ ରଖିବା
     existing_titles = set()
+    
     if os.path.exists(filename):
         try:
             with open(filename, 'r', encoding='utf-8') as f:
                 existing_jobs = json.load(f)
                 for job in existing_jobs:
-                    # 'post_name' କୁ ଟାଇଟଲ୍ ସହ ଚେକ୍ କରିବା ପାଇଁ ରଖିଲୁ
-                    existing_titles.add(job.get('title', '')) 
+                    existing_titles.add(job.get('title', ''))
+                    # ପୁରୁଣା ଲିଙ୍କ୍ ଅଛି କି ନାହିଁ ଚେକ୍
+                    if 'job_link' in job:
+                        existing_links.add(job['job_link']) 
         except: pass
 
     try:
@@ -249,14 +249,12 @@ def get_jobs(url, filename):
         tables = soup.find_all('table')
 
         for table in tables:
-            # ତୁମର ଅସଲି ଟେବୁଲ୍ ଚେକ୍
             if 'Post Date' in table.text or 'Qualification' in table.text:
                 rows = table.find_all('tr')
                 
                 for row in rows[1:]:
                     cols = row.find_all('td')
                     
-                    # ତୁମର ଅସଲି କଲମ୍ ଲମ୍ବ ଚେକ୍ (କ୍ରାସ୍ ବନ୍ଦ କରିବା ପାଇଁ)
                     if len(cols) >= 6:
                         post_date = cols[0].text.strip()
                         board_name = cols[1].text.strip()
@@ -264,28 +262,32 @@ def get_jobs(url, filename):
                         outer_qualification = cols[3].text.strip() 
                         last_date = cols[5].text.strip()
                         
-                        # ୨. ନୂଆ ଲଜିକ୍: ଯଦି ଆଗରୁ ଅଛି, ତେବେ ଛାଡ଼ିଦିଅ! (Duplicate check)
-                        # ଏହାଦ୍ୱାରା ତୁମର ଘଣ୍ଟା ଘଣ୍ଟା ସମୟ ବଞ୍ଚିବ।
-                        is_duplicate = False
-                        for title in existing_titles:
-                            if post_name in title or title in post_name:
-                                is_duplicate = True
-                                break
-                        
-                        if is_duplicate:
+                        # ୧. "Total" ଫିଲ୍ଟର୍ (Total ଲେଖା ଥିଲେ ଛାଡ଼ିଦେବ)
+                        if post_name.lower() == 'total' or board_name.lower() == 'total':
                             continue
-
+                            
                         job_link = ""
                         last_col = cols[-1]
                         a_tag = last_col.find('a')
                         if a_tag and 'href' in a_tag.attrs:
                             job_link = a_tag['href']
 
-                        # ଏହାକୁ ଗୋଟିଏ ଲିଷ୍ଟ୍‌ରେ ରଖିଲୁ Multithreading ପାଇଁ
+                        # ୨. ଡୁପ୍ଲିକେଟ୍ ଚେକ୍ (ଲିଙ୍କ୍ ଏବଂ ନାଁ ମ୍ୟାଚ୍ କଲେ ଛାଡ଼ିଦେବ)
+                        is_duplicate = False
+                        if job_link and job_link in existing_links:
+                            is_duplicate = True
+                        else:
+                            for title in existing_titles:
+                                if post_name in title or title in post_name:
+                                    is_duplicate = True
+                                    break
+                        
+                        if is_duplicate:
+                            continue
+
                         rows_to_process.append((post_date, board_name, post_name, outer_qualification, last_date, job_link))
                 break 
 
-        # ୩. ନୂଆ ଲଜିକ୍: ଏକାସାଙ୍ଗରେ ୫ଟି ପେଜ୍ ଖୋଲିବ
         new_jobs_data = []
         if rows_to_process:
             print(f"  -> {len(rows_to_process)} ଟି ନୂଆ ଚାକିରି ମିଳିଲା! ସ୍କ୍ରାପ୍ ଆରମ୍ଭ...")
@@ -294,10 +296,8 @@ def get_jobs(url, filename):
         else:
             print("  -> କିଛି ନୂଆ ଚାକିରି ନାହିଁ। ପୁରୁଣା ଡାଟା ସୁରକ୍ଷିତ ଅଛି।")
 
-        # ନୂଆ ଡାଟାକୁ ଉପରେ ଆଉ ପୁରୁଣା ଡାଟାକୁ ତଳେ ରଖି ମିଶାଇଦେଲୁ
         final_jobs_data = new_jobs_data + existing_jobs
 
-        # ୬୦ଟି ଚାକିରି ହିଁ ରଖିବୁ, ଫାଇଲ୍ ସାଇଜ୍ ବଢ଼ିବନି
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(final_jobs_data[:60], f, ensure_ascii=False, indent=4)
         print(f"ସଫଳତା! {filename} master deep scan complete.")
@@ -305,7 +305,6 @@ def get_jobs(url, filename):
     except Exception as e:
         print(f"Error ଆସିଲା {filename} ରେ: {e}")
 
-# ତୁମର ଅସଲି ଲିଷ୍ଟ (ସବୁ ଥିଲା, ମୁଁ କିଛି କାଟିନି)
 job_sources = {
     "bank_jobs.json": "https://www.freejobalert.com/bank-jobs/",
     "teaching_jobs.json": "https://www.freejobalert.com/teaching-jobs/",
@@ -353,4 +352,4 @@ for file, url in job_sources.items():
     
     if current < total_files:
         print(f"\n[{current}/{total_files}] ପରବର୍ତ୍ତୀ ଲିଙ୍କ୍ କୁ ଯିବା ପୂର୍ବରୁ ୧୦ ସେକେଣ୍ଡ ବିଶ୍ରାମ...\n")
-        time.sleep(10) # ୧୨୦ ଥିଲା, ୧୦ କଲି! ବହୁତ ଜଲଦି ହେବ।
+        time.sleep(10)
