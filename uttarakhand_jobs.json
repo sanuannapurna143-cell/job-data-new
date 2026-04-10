@@ -1,6 +1,23 @@
 [
     {
         "date": "03/04/2026",
+        "board": "IIT Roorkee",
+        "title": "Project Assistant",
+        "qualification": "Bachelor's degree in Engineering/science or a 3-year Diploma in Engineering & Technology with experience in WASH sector",
+        "last_date": "10-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 26000 Per Month",
+        "age_limit": "As per notification",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/WRDM/2026/adv010420262.pdf",
+        "job_link": "https://www.freejobalert.com/articles/iit-roorkee-project-assistant-recruitment-2026-walkin-3043946"
+    },
+    {
+        "date": "03/04/2026",
         "board": "GBPUAT",
         "title": "Senior Research Fellow",
         "qualification": "M.Sc",
@@ -951,21 +968,5 @@
         "syllabus": "Not Available",
         "official_website": "https://iitr.ac.in/",
         "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CE/2026/adv020420261.pdf"
-    },
-    {
-        "date": "03/04/2026",
-        "board": "IIT Roorkee",
-        "title": "Post Doctoral Fellow",
-        "qualification": "B.Tech/ B.E, M.E/ M.Tech, M.Phil/ Ph.D, MS",
-        "last_date": "17-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 80,000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in",
-        "official_notification": "https://iitr.ac.in/Careers/static/Post_Doctoral_Fellowship/MI/2026/adv02042026.pdf"
     }
 ]
