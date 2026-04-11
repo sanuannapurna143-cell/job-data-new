@@ -1,6 +1,23 @@
 [
     {
         "date": "11/04/2026",
+        "board": "CSIR-IHBT",
+        "title": "Project Assistant-II (PA-II)",
+        "qualification": "B.Sc. in Life Science from a recognized university or equivalent.",
+        "last_date": "17-04-2026",
+        "total_posts": "1",
+        "salary": "Project Assistant-II (PA-II):Rs. 20,000/- + HRA",
+        "age_limit": "Project Assistant-II (PA-II):Maximum 35 years. || Relaxation:5 years for SC/ST/PwBD/Women and 3 years for OBC candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Direct interview or objective test (Based on Multiple Choice Questions) followed by interview on the same day.",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "www.ihbt.res.in",
+        "official_notification": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20260409200214_Final_Advt._No._07_by__2026_with_Application_Proforma.pdf",
+        "job_link": "https://www.freejobalert.com/articles/csir-ihbt-project-assistant-ii-recruitment-2026-walkin-3045194"
+    },
+    {
+        "date": "11/04/2026",
         "board": "Cement Corporation of India",
         "title": "Consultant: Asstt. Officer (Fin)",
         "qualification": "Graduate in Commerce with minimum 25 years post-qualification experience in Accounts & Finance",
@@ -951,21 +968,5 @@
         "syllabus": "Not Available",
         "official_website": "iitmandi.ac.in",
         "official_notification": "https://www.iitmandi.ac.in/recruitment/IITM_DST_RMG_524.pdf"
-    },
-    {
-        "date": "03/04/2026",
-        "board": "RARI",
-        "title": "Senior Research Fellow Ayurveda and Consultant Ayurveda",
-        "qualification": "BAMS from a recognized university with registration in Central/State register of Medical Council of Ayurveda.",
-        "last_date": "09-04-2026",
-        "total_posts": "8",
-        "salary": "SRF: Rs. 42,000 + HRA. Consultant: Rs. 50,000 consolidated.",
-        "age_limit": "Senior Research Fellow (Ayurveda):Maximum age is 35 years. Age relaxation as per Govt. norms. || Consultant Ayurveda:Maximum age is 64 years.",
-        "application_fee": "Not Available",
-        "selection_process": "Written test/ Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.ccras.nic.in",
-        "official_notification": "https://ccras.nic.in/wp-content/uploads/2026/04/01042026-Advt-RARI-Mandi.pdf"
     }
 ]

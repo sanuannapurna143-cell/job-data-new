@@ -1,5 +1,39 @@
 [
     {
+        "date": "11/04/2026",
+        "board": "ICAR KVK",
+        "title": "Assistant, Driver, Skilled Supporting Staff",
+        "qualification": "Any Bachelors Degree, ITI, 10TH",
+        "last_date": "03-05-2026",
+        "total_posts": "03",
+        "salary": "Assistant: Pay Level 6 – Rs. 35,400 || Driver: Pay Level 3 – Rs. 21,700 || Skilled Supporting Staff: Pay Level 1 – Rs. 18,000",
+        "age_limit": "18 to 30 years",
+        "application_fee": "Rs. 500/- (Rupees Five Hundred only) through Demand Draft from a Nationalized Bank drawn in favour of Chairperson, Bapooji Sevak Samaj payable at State Bank of India, Rajakaumari. || SC/ST and Women candidates are exempted from paying the processing fee.",
+        "selection_process": "Screening of applications || Only screened candidates will be called for Interview || No TA/DA will be provided for attending the interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.kvkidukki.org/",
+        "official_notification": "https://www.kvkidukki.org/uploads/Applicationform,Instructions&Advt.detailsforAssistant,Driver&SSS.pdf",
+        "job_link": "https://www.freejobalert.com/articles/icar-kvk-recruitment-2026-apply-offline-for-03-assistant-driver-skilled-supporting-staff-posts-3045188"
+    },
+    {
+        "date": "11/04/2026",
+        "board": "SSC KKR",
+        "title": "Young Professional (Legal Consultant)",
+        "qualification": "Graduate Degree in Law",
+        "last_date": "30-04-2026",
+        "total_posts": "01",
+        "salary": "Not Available",
+        "age_limit": "Maximum 32 years",
+        "application_fee": "Not Available",
+        "selection_process": "The commission will interact with the shortlisted candidates before finalizing the selection.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ssckkr.kar.nic.in/",
+        "official_notification": "https://www.ssckkr.kar.nic.in/Engagement%20of%20Young%20Professional%20%28Legal%20Consultant%29%20KKR.pdf",
+        "job_link": "https://www.freejobalert.com/articles/ssc-kkr-young-professional-recruitment-2026-apply-offline-for-01-posts-3045178"
+    },
+    {
         "date": "13/03/2026",
         "board": "Spices Board",
         "title": "Research Associate",
@@ -945,37 +979,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.irel.co.in/",
         "official_notification": "https://www.irel.co.in/documents/20126/167125/Apprentice+Notification+26-27_Chavara.pdf/b9912a78-33f6-f73d-095c-c9f610cf447b?t=1770873779340"
-    },
-    {
-        "date": "27/03/2026",
-        "board": "NCESS",
-        "title": "Hindi Translator, Project Associate II, Project Associate I, Technical Assistant, Field Assistant (Electrical), Scientific Administrative Assistant, Plumber, Multi-Tasking staff",
-        "qualification": "10TH, Any Graduate, B.Sc, CA, Diploma, ITI, M.A, M.Com, M.Phil/ Ph.D, MBA/ PGDM",
-        "last_date": "10-04-2026",
-        "total_posts": "25",
-        "salary": "Rs. 28,000/- plus HRA as applicable to Rs. 15,000/- (consolidated)",
-        "age_limit": "Hindi Translator: Maximum age 35 years. || Project Associate II: Maximum age 35 years. || Project Associate I: Maximum age 35 years. || Technical Assistant: Maximum age 50 years. || Field Assistant (Electrical): Maximum age 50 years. || Scientific Administrative Assistant: Maximum age 50 years. || Plumber: Maximum age 50 years. || Multi Tasking Staff on contract: Maximum age 25 years. || Age relaxation for SC/ST/OBC candidates will be as per Government of India rules.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Interview || Written test/Skill test",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ncess.gov.in",
-        "official_notification": "https://www.ncess.gov.in/images/Recruitment/notification-for-contract-staff-march-2026.pdf"
-    },
-    {
-        "date": "24/03/2026",
-        "board": "IIM Kozhikode",
-        "title": "Hostel Warden (Female)",
-        "qualification": "Any Graduate",
-        "last_date": "13-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 55,000/- Per Month",
-        "age_limit": "Max: 60 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iimk.ac.in/",
-        "official_notification": "https://webapps.iimk.ac.in/jobportal/vacancy_details/eyJpdiI6IlpNVDA4bWVXT0lqMEhGRnpiWUZpeWc9PSIsInZhbHVlIjoiVURDQ0toa09vbXpSODdEMkJQK0xmUT09IiwibWFjIjoiOTcwYTNiODg1NmQzN2M5NDdiMjljZDRjZjYwNTc4NWQzYjNmOGQzOTQ3YTYyZGY5NDIxZTczYWJhYjg5YzA3OCIsInRhZyI6IiJ9"
     }
 ]

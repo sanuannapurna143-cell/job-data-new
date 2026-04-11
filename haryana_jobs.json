@@ -1,5 +1,22 @@
 [
     {
+        "date": "11/04/2026",
+        "board": "NIT Kurukshetra",
+        "title": "Adjunct Faculty",
+        "qualification": "Post-graduate/Ph.D. degree may not be essential for industry/research candidates",
+        "last_date": "15-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1,20,000 - 1,80,000 per month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Short-listing based on qualifications and experience || Presentation and interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "www.nitkkr.ac.in",
+        "official_notification": "https://nitkkr.ac.in/wp-content/uploads/2026/03/Detailed-Information-Sheet-Advt.04-2026.pdf",
+        "job_link": "https://www.freejobalert.com/articles/nit-kurukshetra-adjunct-faculty-recruitment-2026-apply-offline-3045184"
+    },
+    {
         "date": "04/04/2026",
         "board": "NBRC",
         "title": "Research Scientist I",
@@ -958,21 +975,5 @@
         "syllabus": "Not Available",
         "official_website": "https://thsti.res.in",
         "official_notification": "https://recruitment.thsti.in/public/upload/job_pdf/177562788157Team-Lead-Data-Science.pdf"
-    },
-    {
-        "date": "08/04/2026",
-        "board": "RITES",
-        "title": "Total",
-        "qualification": "Qualification  Full-time Bachelor’s Degree in Mechanical Engineering / Technology in Mechanical / Production / Production & Industrial / Manufacturing / Mechanical / Railways / Mechatronics & Automobile or any of the above combinations in part or whole.",
-        "last_date": "27-04-2026",
-        "total_posts": "01",
-        "salary": "Not Available",
-        "age_limit": "RITES Recruitment 2026 Age Limit  Maximum Age limit: 50 Years Age Relaxation: SC/ST: +5 years; OBC (NCL): +3 years; PwBD: +10 years (additional for reserved)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://rites.com",
-        "official_notification": "https://www.rites.com/Upload/Career/CP_07_R1_26_Re_Advt_pdf-2026-Apr-08-10-41-3.pdf"
     }
 ]
