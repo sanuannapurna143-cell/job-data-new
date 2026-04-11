@@ -1,5 +1,22 @@
 [
     {
+        "date": "11/04/2026",
+        "board": "BARC",
+        "title": "Research Associate (RA)",
+        "qualification": "Ph.D. in relevant fields (Chemical Science, Physical Science, Polymer Science, Engineering, Agriculture, Biotechnology, etc.)",
+        "last_date": "24-04-2026",
+        "total_posts": "56",
+        "salary": "Note: Selected candidates will also receive a Contingency Grant and HRA as per rules.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Screening of applications || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.barc.gov.in",
+        "official_notification": "https://www.barc.gov.in/careers/vacancy13.pdf",
+        "job_link": "https://www.freejobalert.com/articles/barc-recruitment-2026-apply-offline-for-56-research-associate-posts-3045149"
+    },
+    {
         "date": "09/04/2026",
         "board": "DIAT",
         "title": "Project Assistant     – 01 Posts",
@@ -962,21 +979,5 @@
         "syllabus": "Not Available",
         "official_website": "https://ssimphal.nic.in",
         "official_notification": "https://ssimphal.nic.in/pdf/Recruitment%20of%20Staff%20Regular%20SS%20Imphal.pdf"
-    },
-    {
-        "date": "28/03/2026",
-        "board": "Assam Rifles",
-        "title": "General Duty Medical Officer (GDMO)",
-        "qualification": "MBBS with compulsory rotary internship and registered in State/ National Medical Council.",
-        "last_date": "08-06-2026",
-        "total_posts": "12",
-        "salary": "Rs. 75,000/- per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.assamrifles.gov.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/03/23852-69c7ab953a7dd91711704.pdf"
     }
 ]

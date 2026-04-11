@@ -1,5 +1,39 @@
 [
     {
+        "date": "11/04/2026",
+        "board": "UKSSSC",
+        "title": "Vehicle Driver/ Enforcement Driver",
+        "qualification": "8th pass + Valid Driving Licence",
+        "last_date": "07-05-2026",
+        "total_posts": "72",
+        "salary": "Selected candidates will be appointed in Pay Scale Level-03 (Rs. 21,700 - 69,100) as per 7th Pay Commission along with other allowances as admissible under Uttarakhand Government rules.",
+        "age_limit": "18 to 42 years",
+        "application_fee": "Rs. 300/- for UR/OBC candidates || Rs. 150/- for SC/ST/EWS/Divyang candidates || Nil for Orphan candidates || Fee must be paid online only. Fee once paid will not be refunded.",
+        "selection_process": "Written Examination:25 marks (Objective type – Driving & General Knowledge) || Driving Test (Practical):75 marks || Minimum qualifying marks: 45% (UR/OBC) / 35% (SC/ST) in written exam and 50% in Driving Test || Final merit list prepared on the basis of total marks of Written Exam + Driving Test",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sssc.uk.gov.in/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s34ffd0e19d2069412274bd3025b0e176c/uploads/2026/04/202604101141965517.pdf",
+        "job_link": "https://www.freejobalert.com/articles/uksssc-driver-recruitment-2026-apply-online-for-72-posts-3045160"
+    },
+    {
+        "date": "03/04/2026",
+        "board": "IIT Roorkee",
+        "title": "Research Associate",
+        "qualification": "M. Tech. in Structural Engineering with CGPA above 6.5 or percentage greater than 65%, Ph.D. in Civil Engineering, GATE qualified",
+        "last_date": "17-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 58000 + 9% HRA Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CE/2026/adv020420261.pdf",
+        "job_link": "https://www.freejobalert.com/articles/iit-roorkee-research-associate-recruitment-2026-apply-online-3044153"
+    },
+    {
         "date": "03/04/2026",
         "board": "IIT Roorkee",
         "title": "Post Doctoral Fellow",
@@ -937,37 +971,5 @@
         "syllabus": "Not Available",
         "official_website": "https://kurmanchalbank.bank.in",
         "official_notification": "https://kurmanchalbank.bank.in/wp-content/uploads/2026/04/Advertisement-for-Astt-Grde-II_2026_02-04-2026.pdf"
-    },
-    {
-        "date": "04/04/2026",
-        "board": "IIT Roorkee",
-        "title": "Junior Research Fellow, Project Assistant and Project Associate-I",
-        "qualification": "Post Graduate degree in Architecture, Conservation, Landscape or Spatial Information technology, B.Tech related to Software development, B.Arch / B.Planning, Bachelors / 3 years Diploma in Engineering and Technology",
-        "last_date": "24-04-2026",
-        "total_posts": "3",
-        "salary": "JRF @Rs.37,000/- pm + 10% HRA || Project Associate-I @ Rs.31,000/- pm + 10% HRA (for NET/GATE qualified) or Rs.25000/- + HRA (for others) || Project Assistant @Rs.20,000/- pm",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Nil",
-        "selection_process": "Interview || Document Verification",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in",
-        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/AR/2026/adv020420263.pdf"
-    },
-    {
-        "date": "04/04/2026",
-        "board": "IIT Roorkee",
-        "title": "Project Associate",
-        "qualification": "Masters in chemistry",
-        "last_date": "10-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 30,000/- Rs. 37,000/- Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in",
-        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CY/2026/adv010420261.pdf"
     }
 ]

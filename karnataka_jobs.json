@@ -1,5 +1,22 @@
 [
     {
+        "date": "11/04/2026",
+        "board": "IIMB",
+        "title": "Academic Associate - Economics Area",
+        "qualification": "Master’s degree in Economics with a minimum of 55 percent marks.",
+        "last_date": "23-04-2026",
+        "total_posts": "1",
+        "salary": "The selected candidates will receive a monthly stipend ranging from ₹ 43,000/- to ₹ 55,000/-.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting of candidates",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iimb.ac.in/",
+        "official_notification": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-AA-Economics-Area-2026.pdf",
+        "job_link": "https://www.freejobalert.com/articles/iimb-academic-associate-economics-area-recruitment-2026-apply-online-3045130"
+    },
+    {
         "date": "01/04/2026",
         "board": "BEL",
         "title": "Field Operation Engineer",
@@ -972,21 +989,5 @@
         "syllabus": "Not Available",
         "official_website": "https://bel-india.in/",
         "official_notification": "https://bel-india.in/wp-content/uploads/2026/02/Web-Add.pdf"
-    },
-    {
-        "date": "07/04/2026",
-        "board": "HAL",
-        "title": "Visiting Consultant (Medical Oncology)",
-        "qualification": "MBBS with DM / DNB (Medical Oncology) from a recognized Institution/University.",
-        "last_date": "21-04-2026",
-        "total_posts": "1",
-        "salary": "As per Company Rules",
-        "age_limit": "Max: 65 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://hal-india.co.in/",
-        "official_notification": "https://hal-india.co.in/backend//wp-content/uploads/career/Medical%20Oncology%20HAL%20Website_1775544918.pdf"
     }
 ]

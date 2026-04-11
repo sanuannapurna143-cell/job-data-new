@@ -1,5 +1,22 @@
 [
     {
+        "date": "11/04/2026",
+        "board": "UPSC",
+        "title": "Total",
+        "qualification": "B.A, B.Com, BVSC, M.A, M.Com, M.Sc, MVSC",
+        "last_date": "01-05-2026",
+        "total_posts": "16",
+        "salary": "Not Available",
+        "age_limit": "UPSC Recruitment 2026 Age Limit  Minimum Age Limit: 30 Years Maximum Age limit: 45 Years Age relaxation is applicable as per rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on information provided in online application (and Recruitment Test if held) || Personal Interview || Final selection based on performance in Interview (and RT if conducted)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://https://upsc.gov.in/",
+        "official_notification": "https://upsc.gov.in/sites/default/files/Advt-02-2026-Engl-100426.pdf",
+        "job_link": "https://www.freejobalert.com/articles/upsc-recruitment-2026-apply-online-for-16-assistant-keeper-livestock-officer-and-more-posts-3045061"
+    },
+    {
         "date": "28/02/2026",
         "board": "SMP Kolkata",
         "title": "Apprentice Dock Pilot",
@@ -957,21 +974,5 @@
         "syllabus": "Not Available",
         "official_website": "www.mscwb.org",
         "official_notification": "https://mscwb.org/home/download/cnkxN1IydC9FNEhEZG5TQW52RmptMFpaZEtCVmI1U0NnbzRGS2hlR3JHcmdmekFXY2lFdWplaUFWWENrbVdkSVc0akdvTUl2RDVaRFlTcnRjT29SemwzaVBidXV6QTBGNzZrWkVkNlV3OFdIVzNTQVhxOTl4dUhPUHlvRXYzNy8="
-    },
-    {
-        "date": "10/03/2026",
-        "board": "DVC",
-        "title": "Executive Trainee",
-        "qualification": "Graduate in Engineering or Technology",
-        "last_date": "10-04-2026",
-        "total_posts": "16",
-        "salary": "Pay Matrix Level 10 (Rs. 56,100-1,77,500/-) during one-year probation period. || Absorbed as Assistant Manager on the same scale upon successful completion of probation.",
-        "age_limit": "Maximum Age: 29 years for UR candidates. || Age Relaxation:OBC(NCL): 3 yearsSC/ST: 5 yearsPwBD: 10 years (UR), 13 years (OBC), 15 years (SC/ST)J&K Domicile: 5 yearsEx-Servicemen/Victims of Riots: As per GOI guidelines || OBC(NCL): 3 years || SC/ST: 5 years || PwBD: 10 years (UR), 13 years (OBC), 15 years (SC/ST) || J&K Domicile: 5 years || Ex-Servicemen/Victims of Riots: As per GOI guidelines",
-        "application_fee": "Rs. 300/-",
-        "selection_process": "Document Verification (DV) based on GATE-2025 marks",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.dvc.gov.in",
-        "official_notification": "https://www.dvc.gov.in/storage/app/hr/Advertisement_for_the_Post_of_Executive_Trainee_ETs_-_IT_Mining_Chemical_through_GATE-2025_(1).pdf"
     }
 ]
