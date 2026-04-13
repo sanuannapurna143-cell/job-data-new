@@ -1,6 +1,40 @@
 [
     {
         "date": "13/04/2026",
+        "board": "ESIC",
+        "title": "Senior Resident",
+        "qualification": "Post Graduate Degree or Post Graduate Diploma in concerned specialty or MBBS with 2 years experience in concerned specialty",
+        "last_date": "17-04-2026",
+        "total_posts": "1",
+        "salary": "Senior Resident:Rs. 1,28,630/- per month.",
+        "age_limit": "Senior Resident:Maximum 45 years. Age relaxation is applicable as per government rules.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Scrutiny of documents || Selection based on performance in interview before the Selection Board",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "www.esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_No_2_of_2026_Walk_in_interview_on_17_04_2026_for_the_post_of_Senior_Resident_on_contractual_basis_Language_English_1776077885.pdf",
+        "job_link": "https://www.freejobalert.com/articles/esic-senior-resident-recruitment-2026-walkin-3045388"
+    },
+    {
+        "date": "13/04/2026",
+        "board": "OSC Guntur",
+        "title": "Para Legal Personnel/Lawyer",
+        "qualification": "Degree in Law, 3 years experience in women related projects at district level OR 2 years litigation experience as practicing lawyer",
+        "last_date": "17-04-2026",
+        "total_posts": "1",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 42 years || Age relaxation as per Government norms.",
+        "application_fee": "Not Available",
+        "selection_process": "Merit || Relevant Experience || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://guntur.ap.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/6818-69dcd5179896965389680.pdf",
+        "job_link": "https://www.freejobalert.com/articles/osc-guntur-para-legal-personnel-lawyer-recruitment-2026-apply-offline-3045364"
+    },
+    {
+        "date": "13/04/2026",
         "board": "KRCL",
         "title": "Works Manager / Assistant Works Manager",
         "qualification": "Any Graduate, Diploma",
@@ -947,37 +981,5 @@
         "syllabus": "Not Available",
         "official_website": "https://aphc.gov.in/",
         "official_notification": "https://aphc.gov.in/docs/notification_1774248554_0.pdf"
-    },
-    {
-        "date": "31/03/2026",
-        "board": "Chittoor District",
-        "title": "Junior Office Assistant, Office Subordinate, ANM Grade-III (Female)",
-        "qualification": "Bachelor's Degree for Junior Office Assistant, VII Class for Office Subordinate, MPHA (F) course or Intermediate Vocational Multi Purpose Health Worker (Female) course for ANM Gr-III.",
-        "last_date": "15-04-2026",
-        "total_posts": "23",
-        "salary": "25220- 25220/-",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 52 years || Age Relaxation: Differently Abled: 10 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://chittoor.ap.gov.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2026/03/17749489285503.pdf"
-    },
-    {
-        "date": "31/03/2026",
-        "board": "TMC HBCHRC",
-        "title": "Admin Assistant",
-        "qualification": "Any Graduate",
-        "last_date": "10-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 23,220/- Per Month",
-        "age_limit": "Max: 30 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://tmc.gov.in",
-        "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=xHtIBZ38wwqWMiux3lZJHQ=="
     }
 ]

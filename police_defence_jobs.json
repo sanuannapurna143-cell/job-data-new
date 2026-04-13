@@ -1,5 +1,22 @@
 [
     {
+        "date": "13/04/2026",
+        "board": "Territorial Army",
+        "title": "Officer     – 12 Posts",
+        "qualification": "Candidates must be a Graduate from any recognised university .",
+        "last_date": "19-05-2026",
+        "total_posts": "12",
+        "salary": "Rs. 15,500/-",
+        "age_limit": "Candidates must have attained a minimum age of 18 years and must not be more than 42 years as on 19 May 2026 (last date of filing application).",
+        "application_fee": "Rs. 500/- (online payment only)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.indianarmy.nic.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/789562-69dca4e6396e192970054.pdf",
+        "job_link": "https://www.freejobalert.com/articles/territorial-army-officer-recruitment-2026-apply-online-for-12-posts-3045314"
+    },
+    {
         "date": "11/04/2026",
         "board": "BARC",
         "title": "Research Associate (RA)",
@@ -963,21 +980,5 @@
         "syllabus": "Not Available",
         "official_website": "/cdn-cgi/l/email-protection",
         "official_notification": "https://ddpdoo.gov.in/storage/document/69ca524576a0e.pdf"
-    },
-    {
-        "date": "28/03/2026",
-        "board": "Sainik School Imphal",
-        "title": "Staff Recruitment",
-        "qualification": "Graduate with B.Ed and TET/CTET for TGT posts. PG with B.Ed for PGT post.",
-        "last_date": "18-04-2026",
-        "total_posts": "4",
-        "salary": "Level-07 (Rs 44,900-1,42,400) and Level-08 (Rs 47,600-1,51,100)",
-        "age_limit": "TGT Maths & TGT Social Science:Minimum Age: 21 years, Maximum Age: 35 years. Age relaxation for SC/ST/Ex-Serviceman is 5 years (upto 40 years). || PGT Computer Science:Minimum Age: 21 years, Maximum Age: 40 years. Age relaxation for SC/ST/Ex-Serviceman is 5 years (upto 45 years).",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://ssimphal.nic.in",
-        "official_notification": "https://ssimphal.nic.in/pdf/Recruitment%20of%20Staff%20Regular%20SS%20Imphal.pdf"
     }
 ]

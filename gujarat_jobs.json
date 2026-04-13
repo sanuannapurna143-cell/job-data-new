@@ -2,6 +2,23 @@
     {
         "date": "13/04/2026",
         "board": "IPR",
+        "title": "Chief Administrative Officer",
+        "qualification": "Any Graduate",
+        "last_date": "15-05-2026",
+        "total_posts": "1",
+        "salary": "Pay Level 12 (Grade Pay Rs. 7600/-) as per 7th CPC Pay Matrix",
+        "age_limit": "Maximum Age: 55 years || Age Relaxation: All eligible age relaxations as per Government of India Orders",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Scrutiny/Screening of applications || Shortlisting || Written test (if large number of candidates) || Interview || Document verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ipr.res.in",
+        "official_notification": "https://www.ipr.res.in/documents/Advt_06_2026-IPR-CAO.pdf",
+        "job_link": "https://www.freejobalert.com/articles/ipr-chief-administrative-officer-recruitment-2026-apply-offline-for-01-posts-3045338"
+    },
+    {
+        "date": "13/04/2026",
+        "board": "IPR",
         "title": "Graduate Apprentices & Technician Apprentices",
         "qualification": "B.Tech or B.E in Electronics & Communication Engineering",
         "last_date": "11-05-2026",
@@ -995,21 +1012,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iima.ac.in/",
         "official_notification": "https://www.iima.ac.in/sites/default/files/2026-04/RA_ad_TM_26.pdf"
-    },
-    {
-        "date": "07/04/2026",
-        "board": "RNSB",
-        "title": "Total",
-        "qualification": "Qualification  Any Graduate Experience: Freshers May Apply",
-        "last_date": "13-04-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "RNSB Recruitment 2026 Age Limit  Maximum Age limit: 30 Years Age relaxation is applicable as per rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://rnsb.bank.in",
-        "official_notification": "https://jobs.rnsb.bank.in/CurrentOpening.aspx"
     }
 ]

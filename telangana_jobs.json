@@ -1,5 +1,39 @@
 [
     {
+        "date": "13/04/2026",
+        "board": "NMDC",
+        "title": "Executive Director",
+        "qualification": "B.Tech/ B.E, M.E/ M.Tech",
+        "last_date": "27-04-2026",
+        "total_posts": "1",
+        "salary": "Scale of Pay: Rs. 1,50,000-3,00,000/-",
+        "age_limit": "Min: 50 years, Max: 57 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "www.nmdc.co.in",
+        "official_notification": "https://nsl.formflix.com/ED_NSL.pdf",
+        "job_link": "https://www.freejobalert.com/articles/nmdc-executive-director-recruitment-2026-apply-online-for-01-posts-3043683"
+    },
+    {
+        "date": "13/04/2026",
+        "board": "MANUU",
+        "title": "Assistant Professor (Contractual)",
+        "qualification": "Master’s Degree in relevant discipline with 55% marks OR Bachelor’s Degree with 55% marks + 5 years experience",
+        "last_date": "18-04-2026",
+        "total_posts": "4",
+        "salary": "Not exceeding ₹50,000/- per month",
+        "age_limit": "No upper age limit for general candidates. || Retired teachers (Prof./Assoc. Prof./Asst. Prof.) from recognized institutions are eligible if they are below 65 years of age.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://manuu.edu.in/",
+        "official_notification": "https://manuu.edu.in/sites/default/files/Notification/2026-04/winiVaranasiCampus114206.pdf",
+        "job_link": "https://www.freejobalert.com/articles/manuu-recruitment-2026-walkin-for-assistant-professor-contractual-posts-3045328"
+    },
+    {
         "date": "11/04/2026",
         "board": "NIEPID",
         "title": "Rehabilitation Officer, Accounts Officer, Driver, Catering Assistant, Deputy Director (Administration)",
@@ -941,37 +975,5 @@
         "syllabus": "Not Available",
         "official_website": "https://aiimsbibinagar.edu.in",
         "official_notification": "https://aiimsbibinagar.edu.in/pdf/Detailed%20Deputation%20advertisement.pdf"
-    },
-    {
-        "date": "03/04/2026",
-        "board": "SVPNPA",
-        "title": "Senior Scientific Assistant, Language Instructor, Stenographer Grade 1, Junior Laboratory Assistant, Electrician",
-        "qualification": "Other",
-        "last_date": "27-04-2026",
-        "total_posts": "42 Days from the date of publication of this vacancy circular in the Employment News. (27 April 2026)",
-        "salary": "Please refer to the official notification for salary details.",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Please refer to the official notification for selection process details.",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.svpnpa.gov.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/04/831258-69cf37dde133172125059.pdf"
-    },
-    {
-        "date": "02/04/2026",
-        "board": "RRC Southern Central Railway",
-        "title": "Act Apprentice (various trades under Apprentices Act, 1961)",
-        "qualification": "10th class (10+2 system) with minimum 50% aggregate marks and ITI in relevant trade from NCVT/SCVT recognised institute",
-        "last_date": "11-04-2026",
-        "total_posts": "2801",
-        "salary": "Not Available",
-        "age_limit": "15 to 24 years as on 11.04.2026 (upper age relaxation for SC/ST/OBC-NCL/PwBD/Ex-Servicemen as per rules)",
-        "application_fee": "₹100 for UR/OBC/EWS males; No fee for SC/ST, female/Transgender and PwBD candidates",
-        "selection_process": "Merit List Basis:Selection for SCR Act Apprentice 2025-26 will be done purely on merit, by taking the average of percentage marks in 10th (minimum 50% aggregate) and ITI marks, giving equal weightage to both. || Tie-breaking:If two candidates have the same aggregate percentage, older candidate (higher age) will be preferred; if DOB is also same, the candidate who passed Matriculation earlier will be preferred. || Document Verification (DV):Shortlisted candidates will be called for DV where all original certificates (education, ITI, caste, EWS, PwBD, ExSM, RDAT registration, medical fitness) will be verified. || Medical Fitness:Candidates must produce medical fitness certificate from a government-authorised doctor (Gazetted, not below Asst. Surgeon) in prescribed format at DV; without this, they will not be considered. || Training & Stipend:Selected candidates will undergo apprenticeship training as per Central Apprenticeship Council syllabus and receive stipend at prescribed rates during training. || No Job Guarantee:SCR apprenticeship 2025-26 provides training only; there isno guarantee of regular railway jobafter completion of apprenticeship.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://scr.indianrailways.gov.in",
-        "official_notification": "https://203.153.33.92/ACTAPP25-26.pdf"
     }
 ]
