@@ -1,6 +1,40 @@
 [
     {
         "date": "13/04/2026",
+        "board": "UCIL",
+        "title": "Professionals – 19 Posts",
+        "qualification": "Degree in Environmental Engineering OR Degree in any branch of Engineering OR Ph.D in Organic/Inorganic Chemistry + PG Diploma OR full-time Certificate Course in Environmental Engineering/Environmental Sciences.  Experience: Post-qualification experience in Environment Management in a large and reputed organisation. Knowledge of Indian Environmental Legislation, EIA/EMP, Environment Audit Process, Waste Disposal Management. Mining/processing industry experience preferred.",
+        "last_date": "19-05-2026",
+        "total_posts": "19",
+        "salary": "IDA Grade (E-0 to E-6) - as per post",
+        "age_limit": "Internal (Departmental) candidates of UCIL have no age limit for any post. Length of experience may also be relaxed for exceptional and deserving internal candidates.",
+        "application_fee": "General (UR) / EWS / OBC (NCL):Rs. 500/- || SC / ST / PwBD / Female / Internal UCIL Candidates:NIL || Fee must be paid online only through the UCIL Recruitment Portal at the time of application. A copy of the fee acknowledgement/receipt must be uploaded. Fee once paid is non-refundable. Internal UCIL candidates are exempted from payment of application fees.",
+        "selection_process": "The selection process may include a Written Test / Trade Test / Psychometric Test / Group Exercise / Personal Interview or combinations thereof, depending on the response received for each post. Only shortlisted candidates will be called for further stages of the selection process. || Verification of original certificates (age, qualification, experience, category, PwBD) will be done at the time of Written Test/Group Discussion/Personal Interview. || UCIL reserves the right to cancel/restrict/enlarge/modify the recruitment and selection process without assigning any reason. || Candidates applying for multiple posts must submit separate applications and pay separate fees for each post. || Management reserves the right to offer a lower position based on interview performance.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ucil.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/862399-69dc89c0aabe189253045.pdf",
+        "job_link": "https://www.freejobalert.com/articles/ucil-professionals-recruitment-2026-apply-online-for-19-posts-3045281"
+    },
+    {
+        "date": "07/04/2026",
+        "board": "DLSA Ranchi",
+        "title": "Assistant Legal Aid Defense Counsel",
+        "qualification": "LLB, LLM",
+        "last_date": "22-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000 - 45000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://ranchi.dcourts.gov.in",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec023eb414bf1c2a66a09c185d605534/uploads/2026/04/2026040611.pdf",
+        "job_link": "https://www.freejobalert.com/articles/dlsa-ranchi-assistant-legal-aid-defense-counsel-recruitment-2026-apply-offline-for-01-posts-3044552"
+    },
+    {
+        "date": "13/04/2026",
         "board": "IIT ISM Dhanbad",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "B.Tech/M.E./M.Tech in Petroleum Engineering/Chemical Engineering, M. Sc.",
@@ -947,37 +981,5 @@
         "syllabus": "Not Available",
         "official_website": "http://www.uraniumcorp.in",
         "official_notification": "https://img2.freejobalert.com/news/2026/04/74158263-69d5f3990f8e435802538.pdf"
-    },
-    {
-        "date": "07/04/2026",
-        "board": "DCPU West Singhbhum",
-        "title": "Support Person",
-        "qualification": "Postgraduate (Arts/Commerce/Science/Law/Psychology/Social Work/Child Psychology), Graduate",
-        "last_date": "23-04-2026",
-        "total_posts": "Not Available",
-        "salary": "Maximum Rs. 5000/- per case",
-        "age_limit": "Minimum Age: 35 years || Maximum Age: 60 years || Age relaxation is applicable as per rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Screening of applications || Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.chaibasa.nic.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s32bb232c0b13c774965ef8558f0fbd615/uploads/2026/04/17754830182041.pdf"
-    },
-    {
-        "date": "07/04/2026",
-        "board": "AIIMS Deoghar",
-        "title": "Senior Resident (Non-Academic)",
-        "qualification": "DNB, Master of Dental Surgery, MS/ MD",
-        "last_date": "25-04-2026",
-        "total_posts": "142",
-        "salary": "Level 11 of Pay Matrix with entry pay of Rs. 67,700/- per month plus NPA and usual allowances",
-        "age_limit": "45 years as on the day of interview",
-        "application_fee": "Rs. 3,000/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiimsdeoghar.edu.in/",
-        "official_notification": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/rolling_adv_appl_form_sr_na_06042026065731145.pdf"
     }
 ]

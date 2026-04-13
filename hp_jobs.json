@@ -1,5 +1,22 @@
 [
     {
+        "date": "13/04/2026",
+        "board": "AIIMS Bilaspur",
+        "title": "Senior Resident",
+        "qualification": "MBBS + MD/MS/DNB/ M.Sc./M.Biotech + Ph.D.",
+        "last_date": "16-04-2026",
+        "total_posts": "60",
+        "salary": "Salary:Rs. 56100 - Rs. 67700 Per Month",
+        "age_limit": "Maximum Age:45 years",
+        "application_fee": "Rs. 1180/- (Rs.1000 + 18% GST)",
+        "selection_process": "Document verification || Walk-in Interview || Provisional selection subject to verification & medical fitness",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.aiimsbilaspur.edu.in",
+        "official_notification": "https://www.aiimsbilaspur.edu.in/common/images/recruitment/zg0tkkzsAdvertisement%20%286%29.pdf",
+        "job_link": "https://www.freejobalert.com/articles/aiims-bilaspur-senior-resident-recruitment-2026-walkin-for-60-posts-3045258"
+    },
+    {
         "date": "11/04/2026",
         "board": "CSIR-IHBT",
         "title": "Project Assistant-II (PA-II)",
@@ -952,21 +969,5 @@
         "syllabus": "Not Available",
         "official_website": "https://hprca.hp.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/04/052179-69d391c9d672c71879301.pdf"
-    },
-    {
-        "date": "04/04/2026",
-        "board": "IIT Mandi",
-        "title": "Project Associate-II",
-        "qualification": "Masters in Yoga/Bachelors in Yoga & Naturopathy science or equivalent, 2 years research experience",
-        "last_date": "20-04-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 28,000/- plus HRA - Rs. 35,000/- plus HRA Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "iitmandi.ac.in",
-        "official_notification": "https://www.iitmandi.ac.in/recruitment/IITM_DST_RMG_524.pdf"
     }
 ]

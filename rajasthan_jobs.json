@@ -1,5 +1,39 @@
 [
     {
+        "date": "13/04/2026",
+        "board": "Sainik School Chittorgarh",
+        "title": "Trained Graduate Teacher (Mathematics)",
+        "qualification": "B.Ed (Mathematics)",
+        "last_date": "02-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 44900 - Rs. 142400 Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 35 years",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Shortlisting of applications || Written Test || Class Demonstration || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://sschittorgarh.edu.in",
+        "official_notification": "https://sschittorgarh.edu.in/SSC_ADM/images/307261ADVERTISEMENT%20FOR%20SCHOOL%20WEBSITE%20-%20TGT%20%28MATHS%29%20REGULAR%20-%2010.4.26.pdf",
+        "job_link": "https://www.freejobalert.com/articles/sainik-school-chittorgarh-trained-graduate-teacher-recruitment-2026-apply-offline-for-01-posts-3045300"
+    },
+    {
+        "date": "13/04/2026",
+        "board": "AIIMS Jodhpur",
+        "title": "Technician, Cath Lab Technician and More",
+        "qualification": "Degree/Diploma in relevant field with experience",
+        "last_date": "01-05-2026",
+        "total_posts": "24",
+        "salary": "₹ 40,290 - ₹ 88,638",
+        "age_limit": "Medical Physicist: 21-35 years || Technician (OT): 25-35 years || Radiotherapy Technician Grade II: 21-35 years || Perfusionist: Up to 30 years || Technician (Lab): 25-35 years || Panchakarma Technician: Up to 30 years || Technician (Dialysis): Up to 35 years || Cath Lab Technician: Up to 36 years || Physiotherapist: 21-30 years",
+        "application_fee": "Rs. 100",
+        "selection_process": "Screening Test || Interview/Skill Test",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.aiimsjodhpur.edu.in",
+        "official_notification": "https://rec.aiimsjodhpur.edu.in/Contract/contract_various_post/2026/CVP_2026_2/PDF/Contractual%20advt%202026_2.pdf",
+        "job_link": "https://www.freejobalert.com/articles/aiims-jodhpur-recruitment-2026-apply-online-for-24-technician-cath-lab-technician-and-more-posts-3045270"
+    },
+    {
         "date": "11/04/2026",
         "board": "AIIMS Jodhpur",
         "title": "Field Support Staff",
@@ -936,37 +970,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aiimsjodhpur.edu.in",
         "official_notification": "https://www.aiimsjodhpur.edu.in/recruitment/Research/2026/1775042725_Recruitment%20for%20ICMR%20Funded%20Research%20Maternity%20Protection%20Project%20Position%20%28PTS3%29%20under%20Dr%20Prasanna%20PI-010426.pdf"
-    },
-    {
-        "date": "01/04/2026",
-        "board": "AIIMS Jodhpur",
-        "title": "Project Research Scientist I (Non-Medical)",
-        "qualification": "M.Sc. Clinical Psychology/ Post Graduate or Diploma in Clinical Psychology/MPH with two years of professional experience in community based research on mental health related jobs OR Doctorate of Psychology",
-        "last_date": "15-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 56,000/- + HRA (20%)",
-        "age_limit": "Max: 35 years",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiimsjodhpur.edu.in/",
-        "official_notification": "https://www.aiimsjodhpur.edu.in/recruitment/Research/2026/1774499407_Recruitment%20of%20Project%20Research%20Scientist%20I%20%28Non-Medical%29-260326.pdf"
-    },
-    {
-        "date": "26/03/2026",
-        "board": "ICMR NIIRNCD",
-        "title": "Project Human Resource Positions",
-        "qualification": "Post Graduate Degree in Life Sciences/ Public Health, Four-year Nursing course, Graduate in Science/BAMS/BHMS + three years' experience or Post-Graduate.",
-        "last_date": "09-04-2026",
-        "total_posts": "6",
-        "salary": "Rs.28,000/- + HRA per month fixed without any other allowances",
-        "age_limit": "Project Research Scientist-II (Non-Medical): Maximum 40 years (Age relaxation as per rules for SC/ST, OBC, EWS, Ex-Servicemen, Departmental Candidates, and Experienced and skilled persons). || Project Nurse -III: Maximum 30 years (Age relaxation as per rules for SC/ST, OBC, EWS, Ex-Servicemen, Departmental Candidates, and Experienced and skilled persons). || Project Technical Support-III: Maximum 35 years (Age relaxation as per rules for SC/ST, OBC, EWS, Ex-Servicemen, Departmental Candidates, and Experienced and skilled persons).",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Walk-in-interview / Written Test || Skill Test (where applicable) || Merit based on performance in written test and interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://niirncd.icmr.org.in",
-        "official_notification": "https://niirncd.icmr.org.in/admin/en_doc/nhrprec.pdf"
     }
 ]

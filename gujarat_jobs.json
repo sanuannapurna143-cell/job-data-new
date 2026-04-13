@@ -1,6 +1,40 @@
 [
     {
         "date": "13/04/2026",
+        "board": "IPR",
+        "title": "Graduate Apprentices & Technician Apprentices",
+        "qualification": "B.Tech or B.E in Electronics & Communication Engineering",
+        "last_date": "11-05-2026",
+        "total_posts": "50",
+        "salary": "₹13,500/- per month (Consolidated)",
+        "age_limit": "The notification specifies academic year conditions for Degree/Diploma passing but does not explicitly give an age limit; eligibility is tied to year of passing. || Key points: || Candidates should have passed Degree/Diploma in the respective branch/discipline in 2024, 2025 or 2026. || Candidates who have passed Degree/Diploma in 2023 or earlier are not eligible.",
+        "application_fee": "The advertisement does not mention any application fee; applications are invited online through the NATS portal as per Apprenticeship rules.",
+        "selection_process": "Selection will be purely on merit based on percentage of marks in the respective Degree/Diploma in Engineering/Non-Engineering. || The list of selected candidates will be displayed on the IPR website only. || Candidature will be provisional and subject to verification of certificates, testimonials and medical fitness. || Any form of canvassing will lead to cancellation of candidature. || Incorrect/incomplete applications will be summarily rejected and no correspondence will be entertained.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ipr.res.in",
+        "official_notification": "https://www.ipr.res.in/documents/jobs_career.html ",
+        "job_link": "https://www.freejobalert.com/articles/ipr-apprentices-recruitment-2026-apply-online-for-50-posts-3045260"
+    },
+    {
+        "date": "06/04/2026",
+        "board": "IIT Gandhinagar",
+        "title": "Project Associate-II",
+        "qualification": "MTech/ME in Electrical Engineering OR BTech/BE in Electrical Engineering with a minimum of 02 years of post-qualification experience. Minimum 60% or equivalent grade from Graduation onwards and 55% or equivalent grade in 10th and 12th/Equivalent. Knowledge of power systems, electricity markets, smart grid, renewable energy integration, etc. Software skills in power system simulation tools, GAMS, and Python are preferable.",
+        "last_date": "15-04-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Consolidated salary ranging from Rs 50,000/- to Rs 78,000/- per month, commensurate with academic credentials and relevant knowledge/skills.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitgn.ac.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/012179-69d391c9d672c37813855.pdf",
+        "job_link": "https://www.freejobalert.com/articles/iit-gandhinagar-project-associate-ii-recruitment-2026-apply-online-3044402"
+    },
+    {
+        "date": "13/04/2026",
         "board": "GPSSB",
         "title": "Total",
         "qualification": "Eligibility Criteria  Diploma in Electrical Engineering obtained from the Technical Examination Board or any of the Universities or institutions established or incorporated by or under the Central or State Act in India; or any other educational institution recognized as such or declared as deemed to be a University under section 3 of the University Grants Commission Act, 1956; or possess an equivalent qualification recognized by the Government. Provided that the candidate holding bachelor's degree in Electrical Engineering shall not be eligible to apply. Possess the basic knowledge of computer application as prescribed in the Gujarat Civil Services Classification and Recruitment (General) Rules, 1967. Possess adequate knowledge of Gujarati or Hindi or both.",
@@ -977,37 +1011,5 @@
         "syllabus": "Not Available",
         "official_website": "https://rnsb.bank.in",
         "official_notification": "https://jobs.rnsb.bank.in/CurrentOpening.aspx"
-    },
-    {
-        "date": "07/04/2026",
-        "board": "NIPER Ahmedabad",
-        "title": "Junior Research Fellow (Project Associate - 1)",
-        "qualification": "Any Post Graduate, B.Pharma, B.Sc, B.Tech/ B.E, BVSC",
-        "last_date": "15-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 30,000/- + HRA - Rs. 37,000/- + HRA Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://niperahm.ac.in",
-        "official_notification": "https://niperahm.ac.in/wp-content/uploads/2026/04/Advertisment-for-project-hiring_HK_ANRF_JRF.pdf"
-    },
-    {
-        "date": "06/04/2026",
-        "board": "AIIMS Rajkot",
-        "title": "Non-Faculty Posts",
-        "qualification": "MBBS, MD, MS, MPH, MBA",
-        "last_date": "06-05-2026",
-        "total_posts": "8",
-        "salary": "The salary for the selected candidates will be as per the 7th CPC Pay Matrix. || Medical Superintendent: Level 14 || Superintending Engineer (Civil): Level 13 || Assistant Controller of Examination: Level 11 || Executive Engineer (Electrical): Level 11 || Nursing Superintendent: Level 11 || Administrative Officer: Level 10 || Assistant Administrative Officer: Level 7 || Assistant Accounts Officer: Level 7",
-        "age_limit": "Maximum Age Limit: 56 years for all posts.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on bio-data / eligibility / experience || Interview and/or further selection process || Verification of original documents",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiimsrajkot.edu.in",
-        "official_notification": "https://aiimsrajkot.edu.in/sites/default/files/inline-files/Recruitment%20Advertisement%20Group%20A.pdf"
     }
 ]
