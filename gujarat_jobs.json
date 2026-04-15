@@ -1,5 +1,39 @@
 [
     {
+        "date": "08/04/2026",
+        "board": "IIM Ahmedabad",
+        "title": "Research Assistant",
+        "qualification": "Bachelor's degree, Master's degree",
+        "last_date": "26-04-2026",
+        "total_posts": "Not Available",
+        "salary": "Following the guidelines set by IIM Ahmedabad",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iima.ac.in/",
+        "official_notification": "https://www.iima.ac.in/sites/default/files/2026-04/RA_ad_TM_26.pdf",
+        "job_link": "https://www.freejobalert.com/articles/iim-ahmedabad-research-assistant-recruitment-2026-apply-online-3044595"
+    },
+    {
+        "date": "30/03/2026",
+        "board": "IIM Ahmedabad",
+        "title": "Research Assistant",
+        "qualification": "Postgraduate (master's) degree in Information Systems, Management, Data Science, Computer Science & Engineering, or related fields. PhD will be considered for research associate position. Should be well-versed in key ideas underlying digital technologies. Research acumen is essential. Keenness to pursue PhD later is encouraged.",
+        "last_date": "16-04-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iima.ac.in/sites/default/files/2026-03/Advertisement%20Research%20Assistant-CDT-IIMA_Mar%2027%2C%202026%20%281%29.pdf",
+        "official_notification": "https://www.iima.ac.in/sites/default/files/2026-03/Advertisement%20Research%20Assistant-CDT-IIMA_Mar%2027%2C%202026%20%281%29.pdf",
+        "job_link": "https://www.freejobalert.com/articles/iim-ahmedabad-research-assistant-recruitment-2026-apply-online-3043370"
+    },
+    {
         "date": "15/04/2026",
         "board": "ESIC",
         "title": "Senior Residents (Contractual)",
@@ -981,37 +1015,5 @@
         "syllabus": "Not Available",
         "official_website": "https://cosmos.bank.in",
         "official_notification": "https://cosmos.bank.in/auth/writereaddata/files/All%20locations%20Advt.%20-%20April%202026.pdf"
-    },
-    {
-        "date": "09/04/2026",
-        "board": "CSMCRI",
-        "title": "Project Junior Research Fellow",
-        "qualification": "M. Sc. in Chemistry / Chemical Sciences, M.Sc. in Marine Science",
-        "last_date": "30-04-2026",
-        "total_posts": "3",
-        "salary": "Rs. 37,000/- + HRA Per Month",
-        "age_limit": "Maximum Age Limit: 28 years",
-        "application_fee": "Not Available",
-        "selection_process": "Application Scrutiny and Shortlisting || Hybrid Mode Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.csmcri.res.in",
-        "official_notification": "https://www.csmcri.res.in/node/10753"
-    },
-    {
-        "date": "08/04/2026",
-        "board": "CSMCRI",
-        "title": "Project Junior Research Fellow (JRF) / Project Associate I",
-        "qualification": "M. Sc. in Chemistry, B. Tech/B. E in Chemical Engineering",
-        "last_date": "24-04-2026",
-        "total_posts": "2",
-        "salary": "Rs. 30,000/- + HRA - Rs. 37,000/- + HRA Per Month",
-        "age_limit": "Project JRF maximum 28 years /Project Associate- Imaximum 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Scrutiny of applications || Interview (hybrid mode: online and walk-in)",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "www.csmeri.res.in/jobs/temp",
-        "official_notification": "https://www.csmcri.res.in/node/10751"
     }
 ]
