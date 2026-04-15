@@ -1,6 +1,23 @@
 [
     {
         "date": "15/04/2026",
+        "board": "BTSC",
+        "title": "Instructor",
+        "qualification": "Any Graduate, Diploma, ITI",
+        "last_date": "15-05-2026",
+        "total_posts": "726",
+        "salary": "Rs 34800",
+        "age_limit": "For Male (General / EWS):21–37 Years || For Female (General):21–40 Years || For Male/Female (OBC / EBC):21–40 Years || For Male/Female (SC / ST):21–42 Years || Age relaxation is applicable as per rules.",
+        "application_fee": "All Candidates (All Category):Rs.100/- || Payment Mode:Credit Card / Debit Card / Net Banking",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://btsc.bihar.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/782412-69df12e2f229181226726.pdf",
+        "job_link": "https://www.freejobalert.com/articles/btsc-iti-instructor-recruitment-2026-apply-online-for-474-posts-3045415"
+    },
+    {
+        "date": "15/04/2026",
         "board": "Punjab and Sind Bank",
         "title": "Total",
         "qualification": "Eligibility Criteria  Educational Qualification: Graduate in any discipline from any recognized University The candidate must possess valid Mark-sheet / Degree Certificate that he/ she is a graduate on the day he / she registers and indicate the percentage of marks obtained in Graduation while registering online. Post basic qualification work experience: Minimum 5 years of postqualification Experience as Commissioned Officer in the Indian Army (Captain)/Navy (Lieutenant)/Air Force (Flight Lieutenant). OR A Gazzetted Police Officer not below the rank of Deputy Superintendent of Police or Assistant Commandant of Paramilitary Forces (BSF/CRPF/ITBP/CISF/SSB etc.) with minimum 5 years of service.",
@@ -954,21 +971,5 @@
         "syllabus": "Not Available",
         "official_website": "https://patnahighcourt.gov.in",
         "official_notification": "https://patnahighcourt.gov.in/getfile/MTA0NTQ=-q0vlRLd1RTE="
-    },
-    {
-        "date": "26/03/2026",
-        "board": "Bihar State Cooperative Bank",
-        "title": "Law/Accounts, Crop Husbandry Expert and More Posts",
-        "qualification": "Graduate, B.Com, Chartered Accountant, Company Secretary, Graduate in Agriculture, MBA in Agribusiness Management",
-        "last_date": "15-04-2026",
-        "total_posts": "7",
-        "salary": "Rs. 55000/-, Rs. 45000/-, Rs. 30000/-",
-        "age_limit": "Between 25 to 40 years",
-        "application_fee": "Rs. 500/- (Non-refundable)",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.biharscb.co.in",
-        "official_notification": "https://biharscb.co.in/wp-content/uploads/2026/03/Adv-No-3802-24.03.2026.pdf"
     }
 ]
