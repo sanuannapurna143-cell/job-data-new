@@ -1,5 +1,37 @@
 [
     {
+        "date": "16/04/2026",
+        "board": "BSAMCH",
+        "title": "Junior Resident (MBBS)",
+        "qualification": "MBBS",
+        "last_date": "17-04-2026",
+        "total_posts": "25",
+        "salary": "As per 7th CPC guidelines as adopted by GNCT of Delhi",
+        "age_limit": "Maximum Age Limit: 30 years || Age relaxation for SC/ST/OBC candidates as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bsamch.ac.in",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wbsah_20.pdf"
+    },
+    {
+        "date": "16/04/2026",
+        "board": "AIIMS Delhi",
+        "title": "Project Fellow/Project Technical Officer",
+        "qualification": "Master's degree in Science or Engineering (Computer Science preferred)",
+        "last_date": "30-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 32000/- Per Month + HRA",
+        "age_limit": "Maximum Age Limit: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/anatomy1-15-4-26.pdf"
+    },
+    {
         "date": "15/04/2026",
         "board": "Territorial Army",
         "title": "Officer – 12 Posts",
@@ -333,7 +365,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "rbi-je-recruitment-2026-3045582"
     },
     {
         "date": "13/04/2026",
@@ -925,7 +957,7 @@
         "apply_mode": "Offline",
         "syllabus": "Not Available",
         "official_website": "https://www.dsc.du.ac.in/",
-        "official_notification": "Not Available"
+        "official_notification": "rbi-je-recruitment-2026-3045582"
     },
     {
         "date": "06/04/2026",

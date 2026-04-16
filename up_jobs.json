@@ -1,6 +1,22 @@
 [
     {
         "date": "16/04/2026",
+        "board": "IIT BHU",
+        "title": "Research Associate",
+        "qualification": "M.E/ M.Tech, M.Phil/ Ph.D",
+        "last_date": "30-04-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 58000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitbhu.ac.in",
+        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_ra_eee_rural.pdf"
+    },
+    {
+        "date": "16/04/2026",
         "board": "AIIMS Gorakhpur",
         "title": "Ethics Committee-cum-Clinical Research Coordinator (CRC)",
         "qualification": "B.Sc / B.Pharm, Postgraduate diploma in clinical research",
