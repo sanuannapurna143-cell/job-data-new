@@ -1,6 +1,70 @@
 [
     {
         "date": "16/04/2026",
+        "board": "GRID India",
+        "title": "Part-time Medical Consultant (Ayurveda)",
+        "qualification": "BAMS Degree from a recognised Indian University.",
+        "last_date": "30-04-2026",
+        "total_posts": "1",
+        "salary": "Consultation charge @ Rs. 2000/- per sitting & Conveyance charge @ Rs. 1000 per sitting.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://grid-india.in/",
+        "official_notification": "https://webcdn.grid-india.in/files/grdw/2026/04/Advertisement%20Ayurveda_942.pdf"
+    },
+    {
+        "date": "16/04/2026",
+        "board": "IIT Delhi",
+        "title": "Research Associate",
+        "qualification": "M.Phil/ Ph.D",
+        "last_date": "21-04-2026",
+        "total_posts": "1",
+        "salary": "Rs.58,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1775470597362_72c0s7o.pdf"
+    },
+    {
+        "date": "16/04/2026",
+        "board": "AIIMS Delhi",
+        "title": "Assistant Professor",
+        "qualification": "Medical qualification included in Schedule I& II or part II of the third Schedule of the Indian Medical Council Act of 1956, with specific postgraduate qualifications (MD/MS/DM/M.Ch.) and teaching/research experience as per the post.",
+        "last_date": "11-05-2026",
+        "total_posts": "26",
+        "salary": "Consolidated remuneration of Rs. 1,42,506/- per month.",
+        "age_limit": "Maximum Age Limit: 50 years for General category candidates. || Age relaxation is applicable as per government rules:SC/ST: 05 yearsOBC: 03 yearsPWBD: 05 yearsGovernment Servant: 05 yearsEx-Servicemen: 05 years || SC/ST: 05 years || OBC: 03 years || PWBD: 05 years || Government Servant: 05 years || Ex-Servicemen: 05 years || Maximum age after relaxation is 55 years.",
+        "application_fee": "Rs. 2400 (Refundable for those who appear in the interview)",
+        "selection_process": "Initial Eligibility Check || Screening Process based on objective criteria || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/facultycell1-15-4-26.pdf"
+    },
+    {
+        "date": "16/04/2026",
+        "board": "CSIR NIScPR",
+        "title": "Project Associate-I (PAT-I), Project Associate-II (PAT-II), Project Assistant-II (PA-II), Senior Project Associate (SPA), Principal Project Associate (Principal PAT), Project Scientist-II (PS-II)",
+        "qualification": "Master's/BE/BTech in relevant field + 3 years R&D experience in Industrial/Academic Institutions or S&T Organizations. OR Masters/Integrated Masters in Engineering or Technology. OR Doctoral Degree in Science/Engineering/Technology/Pharma/MD/MS.",
+        "last_date": "14-05-2026",
+        "total_posts": "40",
+        "salary": "Project Associate-I (PAT-I) –₹31,000/month + HRA(for NET/GATE/National exam qualified candidates);₹25,000/month + HRA(for others) || Project Associate-II (PAT-II) –₹35,000/month + HRA(for NET/GATE/National exam qualified candidates);₹28,000/month + HRA(for others) || Project Assistant-II (PA-II) –₹20,000/month + HRA || Senior Project Associate (SPA) –₹42,000/month + HRA || Principal Project Associate (Principal PAT) –₹49,000/month + HRA || Project Scientist-II (PS-II) –₹67,000/month + HRA",
+        "age_limit": "Project Associate-I (PAT-I) –35 Years || Project Associate-II (PAT-II) –35 Years || Project Assistant-II (PA-II) –35 Years || Senior Project Associate (SPA) –40 Years || Principal Project Associate (Principal PAT) –40 Years || Project Scientist-II (PS-II) –40 Years",
+        "application_fee": "No application fee is required. Candidates must report directly for the Walk-in-Interview with their completed application form and original documents.",
+        "selection_process": "Candidates must report at the NIScPR Reception Desk on 14 May 2026 between 9:00 AM and 11:00 AM (late arrivals will not be entertained). || Selection will be based on: (a) Academic records, and/or (b) Performance in written test (if applicable), and (c) Interview. || CSIR-NIScPR reserves the right to cancel or withdraw the offer at any stage without assigning any reason.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://niscpr.res.in/",
+        "official_notification": "https://niscpr.res.in/includes/images/jobs/advertisment-OLP-2026-2026-04-15-03-42-47pm.pdf"
+    },
+    {
+        "date": "16/04/2026",
         "board": "BSAMCH",
         "title": "Junior Resident (MBBS)",
         "qualification": "MBBS",
@@ -365,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "rbi-je-recruitment-2026-3045582"
+        "official_notification": "gpssb-gram-sevak-and-pashudhan-nirikshak-recruitment-2026-for-612-vacancies-3045659"
     },
     {
         "date": "13/04/2026",
@@ -957,7 +1021,7 @@
         "apply_mode": "Offline",
         "syllabus": "Not Available",
         "official_website": "https://www.dsc.du.ac.in/",
-        "official_notification": "rbi-je-recruitment-2026-3045582"
+        "official_notification": "gpssb-gram-sevak-and-pashudhan-nirikshak-recruitment-2026-for-612-vacancies-3045659"
     },
     {
         "date": "06/04/2026",

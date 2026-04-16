@@ -1,6 +1,38 @@
 [
     {
         "date": "16/04/2026",
+        "board": "AMU",
+        "title": "Caretaker cum Fire Officer, Assistant Security Cum Fire Officer",
+        "qualification": "Graduation/B.Tech/B.Sc/Diploma with relevant experience",
+        "last_date": "30-04-2026",
+        "total_posts": "2",
+        "salary": "Rs.30,000/- - Rs.35,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 40 years || Age relaxation is prescribed for candidates already working in Central Universities/Central Govt. Offices/Central Govt. funded Autonomous Institutions.",
+        "application_fee": "Not Available",
+        "selection_process": "Screening Committee",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://api.amu.ac.in",
+        "official_notification": "https://api.amu.ac.in/storage/file/10201/jobs/1776312298.pdf"
+    },
+    {
+        "date": "16/04/2026",
+        "board": "MPMMCC",
+        "title": "Yoga Therapist, Clinical Research Monitor, Clinical Research Coordinator, Research Nurse, Research Assistant",
+        "qualification": "Graduate Degree, Post Graduate Degree, M.Sc., M.Pharm, MBBS, BDS, BAMS, BHMS, BUMS, Pharm D, GNM, B.Sc. Nursing",
+        "last_date": "23-04-2026",
+        "total_posts": "6",
+        "salary": "₹ 30,000/- to ₹ 44,000/- (depending on qualification and experience)",
+        "age_limit": "Maximum age limit is 45 years for some posts and 30 years for others. || Age relaxation rules will be as per government norms.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Written Test (if more candidates) || Skill Test / Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://tmc.gov.in",
+        "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=k9qhX6dbSPz1wgbkROE73g=="
+    },
+    {
+        "date": "16/04/2026",
         "board": "IIT BHU",
         "title": "Research Associate",
         "qualification": "M.E/ M.Tech, M.Phil/ Ph.D",
@@ -605,7 +637,7 @@
         "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "nvs-teaching-and-non-teaching-recruitment-2026-apply-online-for-pgt-tgt-staff-nurse-and-more-posts-3045675"
     },
     {
         "date": "07/04/2026",
