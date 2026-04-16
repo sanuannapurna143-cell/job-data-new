@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup
 import json
 import time
 import re
-import os
-from concurrent.futures import ThreadPoolExecutor
 
 def get_inner_details(scraper, link):
     details = {
@@ -24,11 +22,12 @@ def get_inner_details(scraper, link):
         return details
     
     try:
-        time.sleep(1)
+        time.sleep(5) 
         response = scraper.get(link)
         soup = BeautifulSoup(response.text, 'html.parser')
         
         page_text = soup.text.lower()
+        
         tables = soup.find_all('table')
         for table in tables:
             rows = table.find_all('tr')
@@ -56,6 +55,7 @@ def get_inner_details(scraper, link):
                     if qual_idx != -1 and qual_idx < len(cols):
                         val = cols[qual_idx].text.replace('\n', ' ').strip()
                         if val and 'post name' not in val.lower():
+                            # ଯଦି ନୂଆ ଯୋଗ୍ୟତା ଲମ୍ବା ଅଛି, ତେବେ ତାକୁ ରଖିବ!
                             if details['qualification'] == "Not Available" or len(val) > len(details['qualification']):
                                 details['qualification'] = val
                             
@@ -81,6 +81,7 @@ def get_inner_details(scraper, link):
                         val = row_clean.lower().replace('apply mode', '').replace(':', '').strip()
                         details['apply_mode'] = val.title() if val else "Not Available"
 
+                # ସାଧାରଣ ଟେବୁଲ୍ ରୁ ଯୋଗ୍ୟତା (Longest Match Logic)
                 elif ('qualification' in text or 'educational qualification' in text) and 'fee' not in text:
                     val = cols[1].text.replace('\n', ' ').strip() if len(cols) >= 2 else row_clean
                     if details['qualification'] == "Not Available" or len(val) > len(details['qualification']):
@@ -115,6 +116,7 @@ def get_inner_details(scraper, link):
             if any(bad == val_lower for bad in bad_words):
                 details[key] = "Not Available"
 
+        # DEEP SCAN FUNCTION (ପୁରା ଡିଟେଲ୍ସ ଆଣିବା ପାଇଁ)
         avoid_words = ['answer key', 'admit card', 'result', 'syllabus 202', 'online form', 'recruitment 202', 'download mobile app', 'telegram', 'whatsapp']
 
         def extract_full_details(keywords):
@@ -130,7 +132,7 @@ def get_inner_details(scraper, link):
                                 if not any(bad in li_text.lower() for bad in avoid_words):
                                     content.append(li_text)
                         elif nxt.name in ['p', 'table']:
-                            p_text = nxt.get_text(separator=" ", strip=True) 
+                            p_text = nxt.get_text(separator=" ", strip=True) # ସ୍ପେସ୍ ଦେଇ ଯୋଡିବ
                             if p_text and not any(bad in p_text.lower() for bad in avoid_words):
                                 content.append(p_text)
                         nxt = nxt.find_next_sibling()
@@ -139,13 +141,15 @@ def get_inner_details(scraper, link):
                         return " || ".join(content)
             return "Not Available"
 
+        # DEEP SCAN କୁ ଆପ୍ଲାଏ କରିବା (Longest Match Logic ସହ)
+        
         age_data = extract_full_details(['age limit', 'age relaxation'])
         if age_data != "Not Available" and (details['age_limit'] == "Not Available" or len(age_data) > len(details['age_limit'])): 
             details['age_limit'] = age_data
 
-        selection_data = extract_full_details(['selection process', 'selection procedure'])
-        if selection_data != "Not Available": 
-            details['selection_process'] = selection_data
+        selection_process_data = extract_full_details(['selection process', 'selection procedure'])
+        if selection_process_data != "Not Available": 
+            details['selection_process'] = selection_process_data
 
         salary_data = extract_full_details(['salary', 'pay scale', 'stipend', 'remuneration'])
         if salary_data != "Not Available" and (details['salary'] == "Not Available" or len(salary_data) > len(details['salary'])): 
@@ -181,71 +185,13 @@ def get_inner_details(scraper, link):
         
     return details
 
-
-def process_single_job(args):
-    scraper, row_data = args
-    post_date, board_name, post_name, outer_qualification, last_date, job_link = row_data
-    
-    print(f"  -> ନୂଆ ଚାକିରି ଆସିଛି, ଭିତର ପେଜ୍ ଚେକ୍ କରୁଛି: {post_name[:20]}...")
-    inner_data = get_inner_details(scraper, job_link)
-
-    final_title = inner_data['full_title'] if inner_data['full_title'] != "Not Available" else post_name
-    
-    final_qualification = inner_data['qualification']
-    if final_qualification == "Not Available" or len(outer_qualification) > len(final_qualification):
-        final_qualification = outer_qualification
-
-    final_total_posts = inner_data['total_posts']
-    if final_total_posts == "Not Available" or final_total_posts.lower() == "not mentioned":
-        match = re.search(r'(\d+)\s*(?:post|vacancy|posts|vacancies)', post_name, re.IGNORECASE)
-        if match: final_total_posts = match.group(1)
-        else:
-            match2 = re.search(r'-\s*(\d+)', post_name)
-            if match2: final_total_posts = match2.group(1)
-
-    return {
-        "date": post_date,
-        "board": board_name,
-        "title": final_title,
-        "qualification": final_qualification, 
-        "last_date": last_date,
-        "total_posts": final_total_posts,
-        "salary": inner_data['salary'],
-        "age_limit": inner_data['age_limit'],
-        "application_fee": inner_data['application_fee'],
-        "selection_process": inner_data['selection_process'], 
-        "apply_mode": inner_data['apply_mode'], 
-        "syllabus": inner_data['syllabus'],
-        "official_website": inner_data['official_website'],
-        "official_notification": inner_data['official_notification'],
-        "job_link": job_link # ନୂଆ: ଡୁପ୍ଲିକେଟ୍ ଚେକ୍ କରିବା ପାଇଁ ଏହା ସେଭ୍ ହେବ
-    }
-
-
 def get_jobs(url, filename):
     scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False})
-    
-    existing_jobs = []
-    existing_links = set() # ନୂଆ: ଲିଙ୍କ୍ କୁ ମନେ ରଖିବା
-    existing_titles = set()
-    
-    if os.path.exists(filename):
-        try:
-            with open(filename, 'r', encoding='utf-8') as f:
-                existing_jobs = json.load(f)
-                for job in existing_jobs:
-                    existing_titles.add(job.get('title', ''))
-                    # ପୁରୁଣା ଲିଙ୍କ୍ ଅଛି କି ନାହିଁ ଚେକ୍
-                    if 'job_link' in job:
-                        existing_links.add(job['job_link']) 
-        except: pass
-
     try:
-        print(f"\nDeep Scan Start: {filename}...")
+        print(f"Deep Scan Start: {filename}...")
         response = scraper.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
-        
-        rows_to_process = []
+        jobs_data = []
         tables = soup.find_all('table')
 
         for table in tables:
@@ -254,7 +200,6 @@ def get_jobs(url, filename):
                 
                 for row in rows[1:]:
                     cols = row.find_all('td')
-                    
                     if len(cols) >= 6:
                         post_date = cols[0].text.strip()
                         board_name = cols[1].text.strip()
@@ -262,59 +207,70 @@ def get_jobs(url, filename):
                         outer_qualification = cols[3].text.strip() 
                         last_date = cols[5].text.strip()
                         
-                        # ୧. "Total" ଫିଲ୍ଟର୍ (Total ଲେଖା ଥିଲେ ଛାଡ଼ିଦେବ)
-                        if post_name.lower() == 'total' or board_name.lower() == 'total':
-                            continue
-                            
                         job_link = ""
                         last_col = cols[-1]
                         a_tag = last_col.find('a')
                         if a_tag and 'href' in a_tag.attrs:
                             job_link = a_tag['href']
 
-                        # ୨. ଡୁପ୍ଲିକେଟ୍ ଚେକ୍ (ଲିଙ୍କ୍ ଏବଂ ନାଁ ମ୍ୟାଚ୍ କଲେ ଛାଡ଼ିଦେବ)
-                        is_duplicate = False
-                        if job_link and job_link in existing_links:
-                            is_duplicate = True
-                        else:
-                            for title in existing_titles:
-                                if post_name in title or title in post_name:
-                                    is_duplicate = True
-                                    break
-                        
-                        if is_duplicate:
-                            continue
+                        print(f"  -> ଭିତର ପେଜ୍ ଚେକ୍ କରୁଛି: {post_name[:20]}...")
+                        inner_data = get_inner_details(scraper, job_link)
 
-                        rows_to_process.append((post_date, board_name, post_name, outer_qualification, last_date, job_link))
+                        final_title = inner_data['full_title'] if inner_data['full_title'] != "Not Available" else post_name
+                        
+                        # ଶେଷ ବ୍ରହ୍ମାସ୍ତ୍ର: ଯଦି ବାହାର ଯୋଗ୍ୟତା ଭିତର ଯୋଗ୍ୟତା ଠାରୁ ଲମ୍ବା ଅଛି, ତେବେ ବାହାରଟା ଆଣିବ!
+                        final_qualification = inner_data['qualification']
+                        if final_qualification == "Not Available" or len(outer_qualification) > len(final_qualification):
+                            final_qualification = outer_qualification
+
+                        final_total_posts = inner_data['total_posts']
+                        if final_total_posts == "Not Available" or final_total_posts.lower() == "not mentioned":
+                            match = re.search(r'(\d+)\s*(?:post|vacancy|posts|vacancies)', post_name, re.IGNORECASE)
+                            if match: final_total_posts = match.group(1)
+                            else:
+                                match2 = re.search(r'-\s*(\d+)', post_name)
+                                if match2: final_total_posts = match2.group(1)
+
+                        jobs_data.append({
+                            "date": post_date,
+                            "board": board_name,
+                            "title": final_title,
+                            "qualification": final_qualification, # ପୁରା ୧୦୦% ଲମ୍ବା ଯୋଗ୍ୟତା ଆସିବ!
+                            "last_date": last_date,
+                            "total_posts": final_total_posts,
+                            "salary": inner_data['salary'],
+                            "age_limit": inner_data['age_limit'],
+                            "application_fee": inner_data['application_fee'],
+                            "selection_process": inner_data['selection_process'], 
+                            "apply_mode": inner_data['apply_mode'], 
+                            "syllabus": inner_data['syllabus'],
+                            "official_website": inner_data['official_website'],
+                            "official_notification": inner_data['official_notification']
+                        })
                 break 
 
-        new_jobs_data = []
-        if rows_to_process:
-            print(f"  -> {len(rows_to_process)} ଟି ନୂଆ ଚାକିରି ମିଳିଲା! ସ୍କ୍ରାପ୍ ଆରମ୍ଭ...")
-            with ThreadPoolExecutor(max_workers=5) as executor:
-                new_jobs_data = list(executor.map(process_single_job, [(scraper, row) for row in rows_to_process]))
-        else:
-            print("  -> କିଛି ନୂଆ ଚାକିରି ନାହିଁ। ପୁରୁଣା ଡାଟା ସୁରକ୍ଷିତ ଅଛି।")
-
-        final_jobs_data = new_jobs_data + existing_jobs
-
         with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(final_jobs_data[:60], f, ensure_ascii=False, indent=4)
+            json.dump(jobs_data, f, ensure_ascii=False, indent=4)
         print(f"ସଫଳତା! {filename} master deep scan complete.")
 
     except Exception as e:
         print(f"Error ଆସିଲା {filename} ରେ: {e}")
 
+# ଆମର ସବୁ ଚାକିରିର ଲିଷ୍ଟ (Categories + States)
 job_sources = {
+    # ୧. ମୁଖ୍ୟ କାଟେଗୋରୀ (Category Jobs)
     "bank_jobs.json": "https://www.freejobalert.com/bank-jobs/",
     "teaching_jobs.json": "https://www.freejobalert.com/teaching-jobs/",
     "engineering_jobs.json": "https://www.freejobalert.com/engineering-jobs/",
     "railway_jobs.json": "https://www.freejobalert.com/railway-jobs/",
     "police_defence_jobs.json": "https://www.freejobalert.com/police-defence-jobs/",
     "education_json": "https://www.freejobalert.com/new-edu-updates/",
+    
+    # ୨. ରାଜ୍ୟ ଅନୁଯାୟୀ ଚାକିରି (State Jobs)
     "central_jobs.json": "https://www.freejobalert.com/government-jobs/",
     "odisha_jobs.json": "https://www.freejobalert.com/odisha-government-jobs/",
     "andhra_jobs.json": "https://www.freejobalert.com/ap-government-jobs/",
+
     "assam_jobs.json": "https://www.freejobalert.com/assam-government-jobs/",
     "bihar_jobs.json": "https://www.freejobalert.com/bihar-government-jobs/",
     "cg_jobs.json": "https://www.freejobalert.com/chhattisgarh-government-jobs/",
@@ -351,5 +307,5 @@ for file, url in job_sources.items():
     get_jobs(url, file)
     
     if current < total_files:
-        print(f"\n[{current}/{total_files}] ପରବର୍ତ୍ତୀ ଲିଙ୍କ୍ କୁ ଯିବା ପୂର୍ବରୁ ୧୦ ସେକେଣ୍ଡ ବିଶ୍ରାମ...\n")
-        time.sleep(10)
+        print(f"\n[{current}/{total_files}] ପରବର୍ତ୍ତୀ ଲିଙ୍କ୍ କୁ ଯିବା ପୂର୍ବରୁ ୨ ମିନିଟ୍ ବିଶ୍ରାମ...\n")
+        time.sleep(20)
