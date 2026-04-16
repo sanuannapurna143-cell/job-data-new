@@ -1,6 +1,54 @@
 [
     {
         "date": "16/04/2026",
+        "board": "IIT Kanpur",
+        "title": "Sr. Project Associate",
+        "qualification": "Master in sciences or engineering, Prior experience with LS-DYNA or Plate impact experiments.",
+        "last_date": "30-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 36400 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in/",
+        "official_notification": "https://www.iitk.ac.in/dord/project/es-spa-16-04-26.html"
+    },
+    {
+        "date": "16/04/2026",
+        "board": "HITES",
+        "title": "Assistant Manager, Deputy Manager",
+        "qualification": "CA/ICWA, Graduate/Diploma in Engineering/Hospitality/Hotel Management, B.E/B.Tech in Biomedical Engineering/Electronics & Communication/Electronics and Instrumentation.",
+        "last_date": "21-04-2026",
+        "total_posts": "5",
+        "salary": "Assistant Manager: Rs. 30000-120000/-, Deputy Manager: Rs. 40000-140000/-",
+        "age_limit": "Assistant Manager (E-0 Grade): Maximum age limit is 37 years. || Deputy Manager (E-1 Grade): Maximum age limit is 40 years. || Age relaxation applicable as per rules: SC/ST - 5 Years, OBC - 3 Years, PWD - 10 Years.",
+        "application_fee": "Not Available",
+        "selection_process": "Preliminary interview / test/GD etc. as part of selection process depending upon the response of candidates",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.hllhites.com",
+        "official_notification": "https://api.hllhites.com/data/HITES/supportDoc/17755559637209n83QBeLwhkVUon/Website%20Notification.pdf"
+    },
+    {
+        "date": "16/04/2026",
+        "board": "CSC e-Governance Services Indian",
+        "title": "Total",
+        "qualification": "Qualification  12th (Intermediate/Senior Secondary) or  Matriculation +2 Years ITI or Matriculation +3 Years Polytechnic Diploma. Candidate Should have Aadhaar Operator/Supervisor certificate issued by Testing & certifying agency authorized by UIDAI for delivering Aadhaar service Should have basic computer skills",
+        "last_date": "20-05-2026",
+        "total_posts": "236",
+        "salary": "Not Available",
+        "age_limit": "CSC e-Governance Services Indian Recruitment 2026 Age Limit  Minimum Age Limit: 18 Years or above Age relaxation is applicable as per rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://https://csc.gov.in/",
+        "official_notification": "https://csc.gov.in/ask"
+    },
+    {
+        "date": "16/04/2026",
         "board": "AMU",
         "title": "Caretaker cum Fire Officer, Assistant Security Cum Fire Officer",
         "qualification": "Graduation/B.Tech/B.Sc/Diploma with relevant experience",
@@ -433,22 +481,6 @@
     },
     {
         "date": "10/04/2026",
-        "board": "CSC e-Governance Services Indian",
-        "title": "Total",
-        "qualification": "Qualification  12th (Intermediate/Senior Secondary) or  Matriculation +2 Years ITI or Matriculation +3 Years Polytechnic Diploma. Candidate Should have Aadhaar Operator/Supervisor certificate issued by Testing & certifying agency authorized by UIDAI for delivering Aadhaar service Should have basic computer skills",
-        "last_date": "20-04-2026",
-        "total_posts": "120",
-        "salary": "Not Available",
-        "age_limit": "CSC e-Governance Services Indian Recruitment 2026 Age Limit  Minimum Age Limit: 18 Years or above Age relaxation is applicable as per rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://https://csc.gov.in/",
-        "official_notification": "https://csc.gov.in/ask"
-    },
-    {
-        "date": "10/04/2026",
         "board": "BECIL",
         "title": "Procurement- Expert Consultant and Hospital Quality Management- Senior Consultant",
         "qualification": "MBA/ PGDM, MHA, MPH",
@@ -637,7 +669,7 @@
         "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "nvs-teaching-and-non-teaching-recruitment-2026-apply-online-for-pgt-tgt-staff-nurse-and-more-posts-3045675"
+        "official_notification": "Not Available"
     },
     {
         "date": "07/04/2026",

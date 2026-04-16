@@ -1,6 +1,38 @@
 [
     {
         "date": "16/04/2026",
+        "board": "MCL",
+        "title": "Asst. Foreman (Electrical) (Trainee), T&S Gr-C (E&M) | Technician (Electrician) (Trainee), Cat-III (E&M)",
+        "qualification": "(i) Matriculate or equivalent examination passed from any recognized Board of examination. (ii) ITI (2 year course) in Electrician Trade along with Trade certificate issued by NCVT/SCVT and minimum 1 year training/on the job practical experience. (iii) LT permit under IE rules for Mines or 440-550 Volts mining parts permit issued by Competent Authority.",
+        "last_date": "28-05-2026",
+        "total_posts": "500",
+        "salary": "Asst. Foreman: ₹47,330.25 per month | Technician: ₹1,583.32 per day",
+        "age_limit": "Departmental Candidates (all employees of CIL & its subsidiary companies)",
+        "application_fee": "General/OBC/EWS: ₹1000 + GST ₹180 = ₹1180 | SC/ST/PwBD/Female/ESM/CIL Employees: Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mahanadicoal.in/",
+        "official_notification": "https://www.mahanadicoal.in/OurPeople/pdf/NOTICE%20311%20Dtd.16.04.2026%20(ENGLISH)%2016042026.pdf"
+    },
+    {
+        "date": "16/04/2026",
+        "board": "ICAR CRRI",
+        "title": "Senior Research Fellow / Young Professional-II / Young Professional-I / Field Worker",
+        "qualification": "M.E/ M.Tech, Any Post Graduate, B.Sc, M.Sc, M.Phil/ Ph.D, 10TH",
+        "last_date": "29-04-2026",
+        "total_posts": "5",
+        "salary": "Senior Research Fellow: Rs. 37,000/- + HRA as per rule || Young Professional-II: Rs. 42,000/- p.m. consolidated || Young Professional-I: Rs. 30,000/- p.m. consolidated || Field worker: Rs. 18,797/- p.m. consolidated",
+        "age_limit": "Senior Research Fellow: Max. 35 yrs. for men and 40 yrs. for women || Young Professional-II:: Min. 21 years & Max. 45 years || Young Professional-I: Min. 21 years & Max. 45 years || Field worker: Min. 18 years & Max. 50 years",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in-interview comprising written-cum-personal interview || Screening test (in case of large number of candidates)",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://icar-crri.in",
+        "official_notification": "https://icar-crri.in/wp-content/uploads/2026/04/EAP-353.pdf"
+    },
+    {
+        "date": "16/04/2026",
         "board": "Angul Forest Division",
         "title": "Wildlife Veterinary Officer",
         "qualification": "BV.Sc & A.H, M.V.Sc",
