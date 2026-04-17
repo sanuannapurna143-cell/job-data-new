@@ -1,6 +1,38 @@
 [
     {
         "date": "17/04/2026",
+        "board": "AIIMS Bibinagar",
+        "title": "Senior Resident (Non-Academic)",
+        "qualification": "MBBS Degree, Postgraduate medical degree (MD/DNB/MS/MCh/DM/DrNB) in relevant specialty, Registration with Medical Council of India/State Medical Council",
+        "last_date": "29-04-2026",
+        "total_posts": "21",
+        "salary": "Pay Level 11 of Pay Matrix as per 7th CPC with entry pay of Rs. 67700/- + NPA plus other usual Allowances.",
+        "age_limit": "Maximum Age Limit: 45 years || Age Relaxation: SC/ST: 5 years, OBC: 3 years, PWBD General: 10 years, PWBD OBC: 13 years, PWBD SC/ST: 15 years",
+        "application_fee": "Rs. 1770 (including 18% GST) + Transaction charges",
+        "selection_process": "Document Verification || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsbibinagar.edu.in",
+        "official_notification": "https://aiimsbibinagar.edu.in/pdf/SR%20Detaild%20Advt._Examcell.pdf"
+    },
+    {
+        "date": "17/04/2026",
+        "board": "NFC",
+        "title": "Scientific Officer (C) – GDMO, Nurse (A), Scientific Assistant (B) – Radiographer, Scientific Assistant (B) – Pathology Technician, Pharmacist (B), Technician (B) – X-ray Technician",
+        "qualification": "XII Standard + Diploma in Nursing & Midwifery (3 years) OR B.Sc. (Nursing) OR Nursing 'A' Certificate with 3 years experience in Armed Force Hospital OR Nursing Assistant Class III & above from Armed Forces. Valid registration as Nurse from any Central/State Nursing Council is mandatory.",
+        "last_date": "02-05-2026",
+        "total_posts": "28",
+        "salary": "Level 3 (₹21,700) to Level 10 (₹56,100) as per 7th CPC + allowances",
+        "age_limit": "Note: Age relaxation for SC/ST/OBC is applicable only for posts where vacancy is reserved for the specified category. Age is reckoned as on the last date of submission of online application.",
+        "application_fee": "Payment mode: Online only through BharatKosh / Non-Tax Receipt Portal (NTRP) at https://bharatkosh.gov.in. Fee once paid is non-refundable.",
+        "selection_process": "The selection process varies by post code: || Post Codes 12601, 12603, 12604 – Interview Based:Selection on the basis of Personal Interview. If response is more, NFC may conduct a Screening Test (75 MCQs, 90 minutes, +3 for correct / –1 for incorrect) to restrict candidates called for interview. || Post Codes 12602, 12605, 12606 – Three Stage Process:Stage 1 – Preliminary Test (1 hour, OMR-based):50 MCQs – Mathematics (20), Science (20), General Awareness (10). +3 for correct / –1 for incorrect. Cut-off: 40% (General), 30% (Reserved categories).Stage 2 – Advanced Test (2 hours):50 MCQs from relevant discipline. +3 for correct / –1 for incorrect. Cut-off: 30% (General), 20% (Reserved). Merit list prepared based on Stage 2 marks only. Both stages conducted in a single session as Section A & B.Stage 3 – Skill Test (Go/No-Go basis):Up to 5 times the number of vacancies shortlisted from Stage 2. Candidates clearing Skill Test empanelled in order of Stage 2 merit. || Stage 1 – Preliminary Test (1 hour, OMR-based):50 MCQs – Mathematics (20), Science (20), General Awareness (10). +3 for correct / –1 for incorrect. Cut-off: 40% (General), 30% (Reserved categories). || Stage 2 – Advanced Test (2 hours):50 MCQs from relevant discipline. +3 for correct / –1 for incorrect. Cut-off: 30% (General), 20% (Reserved). Merit list prepared based on Stage 2 marks only. Both stages conducted in a single session as Section A & B. || Stage 3 – Skill Test (Go/No-Go basis):Up to 5 times the number of vacancies shortlisted from Stage 2. Candidates clearing Skill Test empanelled in order of Stage 2 merit.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nfc.gov.in/",
+        "official_notification": "https://www.nfc.gov.in/pdf/recruitment-advt/2026/adv-no-nfc_01_2026_eng.pdf"
+    },
+    {
+        "date": "17/04/2026",
         "board": "POWERGRID",
         "title": "Educational Qualification",
         "qualification": "Full Time Regular Three Years Diploma in relevant discipline of engineering - Electrical/ Electrical (Power)/ Electrical and Electronics/ Power Systems Engineering/ Power Engineering (Electrical), from recognized Technical Board/Institute with minimum 70% marks for General/ OBC (NCL)/ EWS Candidates and pass marks for SC/ST/PwBD. Higher technical qualification like B.Tech/BE/M.Tech/ME etc. with or without Diploma is not allowed.",
@@ -222,21 +254,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.hyderabad.bits-pilani.ac.in",
         "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/Advertisement_Research-fellow_ANRF_ARG_20.04.2026.pdf"
-    },
-    {
-        "date": "21/03/2026",
-        "board": "NFC",
-        "title": "Scientific Officer (C) – GDMO, Nurse (A), Scientific Assistant (B) – Radiographer, Scientific Assistant (B) – Pathology Technician, Pharmacist (B), Technician (B) – X-ray Technician",
-        "qualification": "XII Standard + Diploma in Nursing & Midwifery (3 years) OR B.Sc. (Nursing) OR Nursing 'A' Certificate with 3 years experience in Armed Force Hospital OR Nursing Assistant Class III & above from Armed Forces. Valid registration as Nurse from any Central/State Nursing Council is mandatory.",
-        "last_date": "18-04-2026",
-        "total_posts": "18",
-        "salary": "Level 3 (₹21,700) to Level 10 (₹56,100) as per 7th CPC + allowances",
-        "age_limit": "Note: Age relaxation for SC/ST/OBC is applicable only for posts where vacancy is reserved for the specified category. Age is reckoned as on the last date of submission of online application.",
-        "application_fee": "Payment mode: Online only through BharatKosh / Non-Tax Receipt Portal (NTRP) at https://bharatkosh.gov.in. Fee once paid is non-refundable.",
-        "selection_process": "The selection process varies by post code: || Post Codes 12601, 12603, 12604 – Interview Based:Selection on the basis of Personal Interview. If response is more, NFC may conduct a Screening Test (75 MCQs, 90 minutes, +3 for correct / –1 for incorrect) to restrict candidates called for interview. || Post Codes 12602, 12605, 12606 – Three Stage Process:Stage 1 – Preliminary Test (1 hour, OMR-based):50 MCQs – Mathematics (20), Science (20), General Awareness (10). +3 for correct / –1 for incorrect. Cut-off: 40% (General), 30% (Reserved categories).Stage 2 – Advanced Test (2 hours):50 MCQs from relevant discipline. +3 for correct / –1 for incorrect. Cut-off: 30% (General), 20% (Reserved). Merit list prepared based on Stage 2 marks only. Both stages conducted in a single session as Section A & B.Stage 3 – Skill Test (Go/No-Go basis):Up to 5 times the number of vacancies shortlisted from Stage 2. Candidates clearing Skill Test empanelled in order of Stage 2 merit. || Stage 1 – Preliminary Test (1 hour, OMR-based):50 MCQs – Mathematics (20), Science (20), General Awareness (10). +3 for correct / –1 for incorrect. Cut-off: 40% (General), 30% (Reserved categories). || Stage 2 – Advanced Test (2 hours):50 MCQs from relevant discipline. +3 for correct / –1 for incorrect. Cut-off: 30% (General), 20% (Reserved). Merit list prepared based on Stage 2 marks only. Both stages conducted in a single session as Section A & B. || Stage 3 – Skill Test (Go/No-Go basis):Up to 5 times the number of vacancies shortlisted from Stage 2. Candidates clearing Skill Test empanelled in order of Stage 2 merit.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nfc.gov.in/",
-        "official_notification": "https://www.nfc.gov.in/pdf/recruitment-advt/2026/adv-no-nfc_01_2026_eng.pdf"
     }
 ]
