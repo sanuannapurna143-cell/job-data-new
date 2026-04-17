@@ -1,5 +1,37 @@
 [
     {
+        "date": "17/04/2026",
+        "board": "Sainik School Jhunjhunu",
+        "title": "General Employees (Regular)",
+        "qualification": "12th",
+        "last_date": "09-05-2026",
+        "total_posts": "8",
+        "salary": "Pay Level-1 of 7th CPC, Rs. 18000/- and other allowances as applicable.",
+        "age_limit": "Between 18 to 50 years",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.ssjhunjhunu.com",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/16984-69e1e8e77375d39199919.pdf"
+    },
+    {
+        "date": "17/04/2026",
+        "board": "ITBP",
+        "title": "Assistant Commandant (Engineer)",
+        "qualification": "B.E / B.Tech in relevant Engineering discipline",
+        "last_date": "20-05-2026",
+        "total_posts": "06",
+        "salary": "Selected candidates will receive a salary under Pay Level-10 (₹56,100 – ₹1,77,500) as per the 7th CPC Pay Matrix , along with other allowances.",
+        "age_limit": "Up to 30 Years (Relaxation as per rules)",
+        "application_fee": "Not Available",
+        "selection_process": "Written Examination || Physical Standard Test (PST) / Physical Efficiency Test (PET) || Interview / Personality Test || Document Verification || Medical Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://recruitment.itbpolice.nic.in/",
+        "official_notification": "Not Available"
+    },
+    {
         "date": "16/04/2026",
         "board": "Assam Rifles Public School Shillong",
         "title": "Accountant",

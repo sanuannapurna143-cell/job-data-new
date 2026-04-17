@@ -1,6 +1,22 @@
 [
     {
         "date": "17/04/2026",
+        "board": "CSIR CMERI",
+        "title": "Part Time Doctor (Allopathic System)",
+        "qualification": "MBBS degree from recognized University/Institute",
+        "last_date": "07-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1770/- per sitting of three hours per day.",
+        "age_limit": "Maximum Age Limit: 65 years",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.cmeri.res.in",
+        "official_notification": "https://www.cmeri.res.in/sites/default/files/vacancy/Final_Detail%20Advertisement.pdf"
+    },
+    {
+        "date": "17/04/2026",
         "board": "IIT Ropar",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "M. Sc., M. Pharm. or equivalent degree in Chemistry with 60% marks (or CGPA 6.5/10) and valid GATE/CSIR/LS-NET/GPAT/INSPIRE qualified.",
