@@ -257,22 +257,6 @@
     },
     {
         "date": "06/04/2026",
-        "board": "IIT Roorkee",
-        "title": "Project Attendant",
-        "qualification": "Any Graduate, Any Post Graduate",
-        "last_date": "17-04-2026",
-        "total_posts": "1",
-        "salary": "INR 27,000/- per month + 10% HRA",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in",
-        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/PH/2026/adv270320262.pdf"
-    },
-    {
-        "date": "06/04/2026",
         "board": "Kurmanchal Bank",
         "title": "Assistant Grade-II (Clerk/Cashier)",
         "qualification": "Graduation from a recognized University/Institute in India",
@@ -302,37 +286,5 @@
         "syllabus": "Not Available",
         "official_website": "https://iitr.ac.in",
         "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/AR/2026/adv020420263.pdf"
-    },
-    {
-        "date": "03/04/2026",
-        "board": "IIT Roorkee",
-        "title": "Research Associate",
-        "qualification": "M. Tech. in Structural Engineering with CGPA above 6.5 or percentage greater than 65%, Ph.D. in Civil Engineering, GATE qualified",
-        "last_date": "17-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 58000 + 9% HRA Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in/",
-        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CE/2026/adv020420261.pdf"
-    },
-    {
-        "date": "03/04/2026",
-        "board": "IIT Roorkee",
-        "title": "Post Doctoral Fellow",
-        "qualification": "B.Tech/ B.E, M.E/ M.Tech, M.Phil/ Ph.D, MS",
-        "last_date": "17-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 80,000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in",
-        "official_notification": "https://iitr.ac.in/Careers/static/Post_Doctoral_Fellowship/MI/2026/adv02042026.pdf"
     }
 ]
