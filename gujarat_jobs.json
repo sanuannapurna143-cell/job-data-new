@@ -1,6 +1,38 @@
 [
     {
         "date": "18/04/2026",
+        "board": "RNSB",
+        "title": "Jr Executive",
+        "qualification": "Any Graduate, Any Post Graduate",
+        "last_date": "25-04-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age limit:30 Years || Age relaxation is applicable as per rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://https://rnsb.bank.in/",
+        "official_notification": "https://jobs.rnsb.bank.in/CurrentOpening.aspx"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "NIPER Ahmedabad",
+        "title": "Junior Research Fellow",
+        "qualification": "M.Pharm/MS (Pharm)/M.Sc",
+        "last_date": "28-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 31,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://niperahm.ac.in",
+        "official_notification": "https://niperahm.ac.in/wp-content/uploads/2026/04/Project-hiring-_JRF_GSBTM_AJ.pdf"
+    },
+    {
+        "date": "18/04/2026",
         "board": "GPSSB",
         "title": "Mukhya Sevika (Class-3)",
         "qualification": "Bachelor’s degree or Master’s degree in Home Science / Sociology / Child Development / Nutrition / Social Work from a recognized University + basic knowledge of computer application as prescribed in Gujarat Civil Services Rules + adequate knowledge of Gujarati or Hindi or both.",

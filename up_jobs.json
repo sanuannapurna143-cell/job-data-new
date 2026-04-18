@@ -1,6 +1,38 @@
 [
     {
         "date": "18/04/2026",
+        "board": "KGMU",
+        "title": "Senior Resident",
+        "qualification": "MS/ MD, MBBS, DNB",
+        "last_date": "25-04-2026",
+        "total_posts": "16",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age: 45 years for Senior Resident, 40 years for Junior Resident. || Age Relaxation: 5 years for SC/ST/OBC (UP domicile only), widowed/divorced/legally separated women (not remarried), PWD as per rules.",
+        "application_fee": "Rs. 3000/-",
+        "selection_process": "Walk-in-interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://kgmcindia.edu",
+        "official_notification": "https://kgmu.org/upload_file/user_download/6e4ccbdd3b059b96f20283c3b0f2a6b2.pdf"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "NHDC",
+        "title": "Manager (Finance& Accounts), Deputy Manager (Commercial), Assistant Manager (Commercial), Senior Officer (Commercial)",
+        "qualification": "Chartered Accountant/Cost Accountant/MBA (Finance) for Manager; Degree/Diploma in Textiles Technology/Engineering/Chemistry for Commercial posts.",
+        "last_date": "08-05-2026",
+        "total_posts": "7",
+        "salary": "Rs. 27000-95000 to Rs. 60000-180000",
+        "age_limit": "Manager (Finance& Accounts):Maximum age 42 years. Age relaxation as per Govt. directives for SC/ST/OBC/PWD/EWS/Ex-Servicemen and 5 years for Internal Candidates (if in service for last 03 yrs). || Deputy Manager (Commercial):Maximum age 40 years. Age relaxation as per Govt. directives for SC/ST/OBC/PWD/EWS/Ex-Servicemen and 5 years for Internal Candidates (if in service for last 03 yrs). || Assistant Manager (Commercial):Maximum age 38 years. Age relaxation as per Govt. directives for SC/ST/OBC/PWD/EWS/Ex-Servicemen and 5 years for Internal Candidates (if in service for last 03 yrs). || Senior Officer (Commercial):Maximum age 35 years. Age relaxation as per Govt. directives for SC/ST/OBC/PWD/EWS/Ex-Servicemen and 5 years for Internal Candidates (if in service for last 03 yrs).",
+        "application_fee": "Rs. 500",
+        "selection_process": "Personal Interview || Written Test || Group Discussion",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nhdc.org.in",
+        "official_notification": "https://recruit.nhdc.eprime.app/storage/job_pdfs/job_1776334560_Detailed_Recruitment_notification.......pdf"
+    },
+    {
+        "date": "18/04/2026",
         "board": "MNNIT Allahabad",
         "title": "Research Associate I",
         "qualification": "M.E/ M.Tech, M.Phil/ Ph.D",
@@ -797,7 +829,7 @@
         "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "nic-scientist-recruitment-2026-apply-online-for-153-scientist-d-scientist-c-posts-3044795"
+        "official_notification": "Not Available"
     },
     {
         "date": "07/04/2026",

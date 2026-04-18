@@ -1,5 +1,37 @@
 [
     {
+        "date": "18/04/2026",
+        "board": "IIT Bhilai",
+        "title": "Assistant Professor, Professor and More",
+        "qualification": "M.Phil/ Ph.D",
+        "last_date": "14-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Assistant Professor (Grade-II): Level 10 to Level 11 (₹70,900 - ₹75,300 to ₹73,100 - ₹75,300) || Assistant Professor (Grade-I): Level 12 (₹1,01,500 - ₹1,67,400) || Associate Professor: Level 13A2 (₹1,39,600 - ₹2,11,300) || Professor: Level 14A (₹1,59,100 - ₹2,20,200)",
+        "age_limit": "Assistant Professor (Grade-II): Maximum age is 35 years. || Assistant Professor (Grade-I): Maximum age is 35 years. || Associate Professor: Maximum age is 45 years. || Professor: Maximum age is 55 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Scrutiny of applications || Shortlisting based on academic record, research quality, and experience || Seminar/Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitbhilai.ac.in",
+        "official_notification": "https://www.iitbhilai.ac.in/index.php?pid=faculty_advt_april26"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "IIM Raipur",
+        "title": "Senior Executive Assistant",
+        "qualification": "Bachelor’s Degree, Master’s degree with minimum 60% marks",
+        "last_date": "06-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. ₹47,600/- Per Month (Equivalent to Pay Level 8 (7th CPC), Basic Pay ₹47,600/-).",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iimraipur.ac.in",
+        "official_notification": "https://iimraipur.ac.in/wp-content/uploads/2026/04/Senior_Executive_Assistant_Advertisement_WEBSITE.pdf"
+    },
+    {
         "date": "15/04/2026",
         "board": "SECL",
         "title": "Total",
@@ -173,7 +205,7 @@
         "apply_mode": "Offline",
         "syllabus": "Not Available",
         "official_website": "https://korea.gov.in",
-        "official_notification": "nic-scientist-recruitment-2026-apply-online-for-153-scientist-d-scientist-c-posts-3044795"
+        "official_notification": "Not Available"
     },
     {
         "date": "27/03/2026",

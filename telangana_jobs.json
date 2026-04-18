@@ -1,5 +1,21 @@
 [
     {
+        "date": "18/04/2026",
+        "board": "NIT Warangal",
+        "title": "Junior Research Fellow",
+        "qualification": "B.E./B.Tech, ME/M.Tech or M.Planning",
+        "last_date": "30-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- - Rs. 42,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 30 years || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting of eligible candidates || Interview (Online/Offline)",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitw.ac.in",
+        "official_notification": "https://nitw.ac.in/api/static/files/JRF_Notification_2026-4-17-17-16-34.pdf"
+    },
+    {
         "date": "17/04/2026",
         "board": "AIIMS Bibinagar",
         "title": "Senior Resident (Non-Academic)",
@@ -109,7 +125,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "nic-scientist-recruitment-2026-apply-online-for-153-scientist-d-scientist-c-posts-3044795"
+        "official_notification": "Not Available"
     },
     {
         "date": "13/04/2026",

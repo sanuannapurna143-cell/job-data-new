@@ -1,6 +1,38 @@
 [
     {
         "date": "18/04/2026",
+        "board": "BITS Pilani Goa",
+        "title": "Research Associate, Field Investigator",
+        "qualification": "Post Graduate in Social Science (55%)",
+        "last_date": "23-04-2026",
+        "total_posts": "2",
+        "salary": "Rs. 20000 - 37000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bits-pilani.ac.in",
+        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/1-RA-FI-Recruitment.pdf"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "NIT Goa",
+        "title": "Administrative Officer (Training & Placement)",
+        "qualification": "Master's degree in any discipline or equivalent (preferably MBA)",
+        "last_date": "23-04-2026",
+        "total_posts": "1",
+        "salary": "up to Rs. 50,000/- per month",
+        "age_limit": "Maximum Age Limit: 40 years || Age relaxation rules are not specified in the provided data.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitgoa.ac.in",
+        "official_notification": "https://nitgoa.ac.in/uploads/Advt%20AOP%2013april2026.pdf"
+    },
+    {
+        "date": "18/04/2026",
         "board": "CSIR NIO",
         "title": "Project Associate - I",
         "qualification": "MSc in Geoinformatics",

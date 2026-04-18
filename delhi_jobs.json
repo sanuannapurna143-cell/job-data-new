@@ -1,6 +1,54 @@
 [
     {
         "date": "18/04/2026",
+        "board": "Punjab & Sind Bank",
+        "title": "Psychologist",
+        "qualification": "Post-graduation (M.A) in Psychology. Preference will be given to candidates having or pursuing PhD/ M.Phil in Psychology.",
+        "last_date": "27-04-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Will be negotiated/ finalised depending upon the suitability of the candidate.",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://punjabandsind.bank.in",
+        "official_notification": "https://punjabandsind.bank.in/system/uploads/recruitment/7932_2026041817135184697.pdf"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "NeGD",
+        "title": "Project Manager & Procurement Specialist",
+        "qualification": "Bachelor’s in Engineering / Technology / Management / Commerce",
+        "last_date": "30-04-2026",
+        "total_posts": "2",
+        "salary": "Project Manager: Rs. 39,34,764/- per year || Procurement Specialist: Rs. 39,34,764/- per year",
+        "age_limit": "Maximum Age Limit: 55 years for all posts.",
+        "application_fee": "Not Available",
+        "selection_process": "Screening based on qualifications, age and relevant experience || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.negd.gov.in",
+        "official_notification": "https://dicmedia.digitalindiacorporation.in/INSPACE-Adv-NeGD.pdf"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "Punjab & Sind Bank",
+        "title": "Medical Consultant",
+        "qualification": "M.D. in general medicine with at least 05 years of experience OR M.B.B.S/ BHMS with at least 07 years of experience.",
+        "last_date": "30-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1000/- per hour",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://punjabandsind.bank.in",
+        "official_notification": "https://punjabandsind.bank.in/system/uploads/recruitment/7932_2026041610274448456.pdf"
+    },
+    {
+        "date": "18/04/2026",
         "board": "Burari Hospital",
         "title": "Senior Residents",
         "qualification": "MBBS with Post graduate degree/DNB/Diploma",
@@ -253,7 +301,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://recruitment.itbpolice.nic.in/",
-        "official_notification": "nic-scientist-recruitment-2026-apply-online-for-153-scientist-d-scientist-c-posts-3044795"
+        "official_notification": "Not Available"
     },
     {
         "date": "17/04/2026",
@@ -717,7 +765,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "nic-scientist-recruitment-2026-apply-online-for-153-scientist-d-scientist-c-posts-3044795"
+        "official_notification": "Not Available"
     },
     {
         "date": "13/04/2026",
