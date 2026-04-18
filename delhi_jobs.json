@@ -1,5 +1,69 @@
 [
     {
+        "date": "18/04/2026",
+        "board": "SLBSNSU",
+        "title": "Video Editor / Cameraman",
+        "qualification": "Bachelor's degree in any discipline, Graduation in any discipline",
+        "last_date": "27-04-2026",
+        "total_posts": "2",
+        "salary": "UGC norms per pathyansh (module) || UGC approved remuneration per module",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 50 years || Age relaxation rules are not specified in the provided data.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in-Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.slbsrsv.ac.in",
+        "official_notification": "https://www.slbsrsv.ac.in/sites/default/files/Video%20Editor%20and%20Cameraman.pdf"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "GTB Hospital",
+        "title": "Senior Resident Doctor",
+        "qualification": "Post Graduate Degree/DNB/PG Diploma in concerned specialty, MBBS",
+        "last_date": "22-04-2026",
+        "total_posts": "25",
+        "salary": "Rs.67,700/- Per Month",
+        "age_limit": "Maximum Age Limit: 45 years || Age relaxation is applicable by 05 years for SC/ST candidates & 03 years for OBC candidates.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wgtb_21.pdf",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wgtb_21.pdf"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "ICAR IARI",
+        "title": "Junior Research Fellow / Young Professional-II",
+        "qualification": "Any Post Graduate, M.Sc",
+        "last_date": "08-05-2026",
+        "total_posts": "2",
+        "salary": "Junior Research Fellow:Rs. 31000/- per month + HRA@27% for 1st and 2nd year, Rs. 35,000/- per month + HRA@27% for 3rd year (as per ICAR norms). || Young Professional-II (YP-II):Rs 42,000/- pm (consolidated).",
+        "age_limit": "Maximum Age Limit: 35 years || Age Relaxation: 3 years for OBC and 5 years for SC/ST/women as per government guidelines.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://iari.res.in",
+        "official_notification": "https://iari.res.in/files/jobs/Recruitment_JRF_and_YP-II_17042026.pdf"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "SHA Delhi",
+        "title": "Office Assistant, Account Assistant and More",
+        "qualification": "MBBS/BDS, Master in Journalism, B.Tech/B.Engg/M.Tech/Masters, CA/MBA Finance, Graduate in Law,",
+        "last_date": "05-05-2026",
+        "total_posts": "20",
+        "salary": "Rs. 75000/-, Rs. 55000/-, Rs. 50000/-, Rs. 45000/-, Rs. 40000/-, Rs. 30000/-, Rs. 22000/-",
+        "age_limit": "Quality Assurance Executive: Maximum age limit is 40 years. || Medical Audit Executive: Maximum age limit is 40 years. || Manager-IEC: Maximum age limit is 50 years. || Data Analyst: Maximum age limit is 40 years. || Deputy Manager Finance & Accounts: Maximum age limit is 50 years. || Grievance Redressal Executive: Maximum age limit is 40 years. || Accounts Officer/ Accountant: Maximum age limit is 40 years. || IT Executive: Maximum age limit is 40 years. || Anti-Fraud Executive: Maximum age limit is 40 years. || Account Assistant: Maximum age limit is 40 years. || Office Assistant: Maximum age limit is 30 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Document Verification || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://health.delhi.gov.in/",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/sha_admin_recruitment_2026.pdfhttps://health.delhi.gov.in/sites/default/files/Health/circulars-orders/sha_admin_recruitment_2026.pdf"
+    },
+    {
         "date": "17/04/2026",
         "board": "BBSSL",
         "title": "Zonal Manager - Seed Production, Executive - Seed Production, Regional Coordinator- Quality (QA/QC), Executive - Research & Development/ Breeder, Executive - Research & Development",
@@ -93,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://recruitment.itbpolice.nic.in/",
-        "official_notification": "Not Available"
+        "official_notification": "ordnance-factory-chanda-tenure-based-dbw-recruitment-2026-apply-offline-for-400-posts-3045891"
     },
     {
         "date": "17/04/2026",
@@ -257,22 +321,6 @@
     },
     {
         "date": "16/04/2026",
-        "board": "BSAMCH",
-        "title": "Junior Resident (MBBS)",
-        "qualification": "MBBS",
-        "last_date": "17-04-2026",
-        "total_posts": "25",
-        "salary": "As per 7th CPC guidelines as adopted by GNCT of Delhi",
-        "age_limit": "Maximum Age Limit: 30 years || Age relaxation for SC/ST/OBC candidates as per government rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Interview || Document Verification",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bsamch.ac.in",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wbsah_20.pdf"
-    },
-    {
-        "date": "16/04/2026",
         "board": "AIIMS Delhi",
         "title": "Project Fellow/Project Technical Officer",
         "qualification": "Master's degree in Science or Engineering (Computer Science preferred)",
@@ -417,22 +465,6 @@
     },
     {
         "date": "15/04/2026",
-        "board": "Lok Nayak Hospital",
-        "title": "Junior Resident (Non-PG)",
-        "qualification": "Candidates must have: || MBBS degreefrom a recognized university/institute || Completedinternshipbetween:01 February 2024and01 April 2026 || 01 February 2024and || 01 April 2026 || Candidates who completed internship before 01 February 2024 are not eligible.",
-        "last_date": "17-04-2026",
-        "total_posts": "46",
-        "salary": "Pay Level:Level-10 (7th CPC) || Basic Pay:₹56,100 per month || Additional allowances will be provided as per government norms.",
-        "age_limit": "Age relaxation will be applied as per government rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://lnjp.delhi.gov.in/",
-        "official_notification": "https://lnjp.delhi.gov.in/sites/default/files/lnjp/universal/94.pdf"
-    },
-    {
-        "date": "15/04/2026",
         "board": "SSC",
         "title": "Nursing Officer",
         "qualification": "Higher Secondary (10+2)",
@@ -545,22 +577,6 @@
     },
     {
         "date": "15/04/2026",
-        "board": "NBCC",
-        "title": "Junior Engineer, Graduate Assistant and Other",
-        "qualification": "Master’s Degree of a recognized University in Hindi with English as a subject at a degree level OR Master’s Degree of a recognized University in English with Hindi as a subject at a degree level. Diploma in Translation. 2 years experience in translation.",
-        "last_date": "17-04-2026",
-        "total_posts": "59",
-        "salary": "Rs. 27,270- (Open Ended), S-3",
-        "age_limit": "Age as on:05-04-2026 || Age Relaxation:as per Government guidelines for SC/ST/OBC(NCL)/PWD",
-        "application_fee": "Not Available",
-        "selection_process": "Computer Based Test (CBT) || Skill Test || Personal Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://https://www.nbccindia.in/",
-        "official_notification": "https://www.nbccindia.in/pdfData/jobs/REOPENING%20NOTICE_12042026.pdf"
-    },
-    {
-        "date": "15/04/2026",
         "board": "Punjab and Sind Bank",
         "title": "Total",
         "qualification": "Eligibility Criteria  Educational Qualification: Graduate in any discipline from any recognized University The candidate must possess valid Mark-sheet / Degree Certificate that he/ she is a graduate on the day he / she registers and indicate the percentage of marks obtained in Graduation while registering online. Post basic qualification work experience: Minimum 5 years of postqualification Experience as Commissioned Officer in the Indian Army (Captain)/Navy (Lieutenant)/Air Force (Flight Lieutenant). OR A Gazzetted Police Officer not below the rank of Deputy Superintendent of Police or Assistant Commandant of Paramilitary Forces (BSF/CRPF/ITBP/CISF/SSB etc.) with minimum 5 years of service.",
@@ -605,7 +621,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "up-anganwadi-worker-recruitment-2026-apply-online-for-100-posts-in-mau-district-3045895"
     },
     {
         "date": "13/04/2026",
@@ -865,22 +881,6 @@
     },
     {
         "date": "10/04/2026",
-        "board": "AIASL",
-        "title": "Total",
-        "qualification": "Eligibility Criteria  Qualifications / Essential Qualifications: Candidates must be recommended by recognized Aviation Training Institutes / Colleges. Desirable: Candidates should be willing to work in all shift patterns including night shifts.",
-        "last_date": "17-04-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "AIASL Recruitment 2026 Age Limit  Not Mentioned",
-        "application_fee": "Not Available",
-        "selection_process": "Aviation Institutes / Colleges will forward the list of candidates with details (name, age, qualifications, contact details). || Shortlisting of suitable candidates. || Selection will be based on Personal Interview.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://https://www.aiasl.in/",
-        "official_notification": "https://www.aiasl.in/resources/Advertisement%20for%20Recruitment%20of%20Passenger%20Service%20Agents%20at%20Coimbatore.pdf"
-    },
-    {
-        "date": "10/04/2026",
         "board": "NHSRC",
         "title": "Senior Consultant, Consultant",
         "qualification": "B.Tech/ B.E, M.E/ M.Tech, MBBS, BDS, MBA/ PGDM, MPH, PGDM",
@@ -1089,22 +1089,6 @@
     },
     {
         "date": "08/04/2026",
-        "board": "ERNET",
-        "title": "Administrative Assistant",
-        "qualification": "Any Graduate, Any Post Graduate",
-        "last_date": "17-04-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 35,000/- - Rs. 50,000/- Per Month",
-        "age_limit": "18 to 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://ernet.in",
-        "official_notification": "https://ernet.in/sites/default/files/pdf/Walk-in-Interview%20on%2017.04.2026%20for%20the%20post%20of%20Administrative%20Assistant%20%28Procurement%29.pdf"
-    },
-    {
-        "date": "08/04/2026",
         "board": "NHSRC",
         "title": "Senior Consultant – (Vaccine & Logistics)",
         "qualification": "MBA/ PGDM, Diploma, MPH, PGDM",
@@ -1197,7 +1181,7 @@
         "apply_mode": "Offline",
         "syllabus": "Not Available",
         "official_website": "https://www.dsc.du.ac.in/",
-        "official_notification": "Not Available"
+        "official_notification": "up-anganwadi-worker-recruitment-2026-apply-online-for-100-posts-in-mau-district-3045895"
     },
     {
         "date": "06/04/2026",
@@ -1214,22 +1198,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ndtlindia.com",
         "official_notification": "https://ndtlindia.com/wp-content/uploads/2026/04/STO-IT-advt-for-website_Updated.pdf"
-    },
-    {
-        "date": "06/04/2026",
-        "board": "AIIMS Delhi",
-        "title": "Project Scientist & Computer Programmer",
-        "qualification": "B.Tech/ B.E, M.E/ M.Tech, B.Sc, M.Sc, M.Phil/ Ph.D",
-        "last_date": "17-04-2026",
-        "total_posts": "4",
-        "salary": "Rs. 32,000/-  67,000/- + 30% HRA Per Month",
-        "age_limit": "30- 40 Years",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting || Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiims.edu/images/pdf/recruitment/advertisement/neurosurg-4-3-26.pdf",
-        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/neurosurg-4-3-26.pdf"
     },
     {
         "date": "06/04/2026",
@@ -1281,22 +1249,6 @@
     },
     {
         "date": "04/04/2026",
-        "board": "IIT Delhi",
-        "title": "Project Technical Support",
-        "qualification": "Three years Graduates in relevant subject/field + Three years' experience or PG in relevant subject/field. For Engineering/IT/CS - First Class, Four years Graduate degree + three years' experience.",
-        "last_date": "17-04-2026",
-        "total_posts": "1",
-        "salary": "Rs.28,000/- p.m plus HRA @30%",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "http://ird.iitd.ac.in/",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1775126758019_soym977.pdf"
-    },
-    {
-        "date": "04/04/2026",
         "board": "Delhi State Cancer Institute",
         "title": "Senior Resident",
         "qualification": "DNB, MS/ MD",
@@ -1342,22 +1294,6 @@
         "syllabus": "Not Available",
         "official_website": "https://kvsangathan.nic.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/04/742369-69d097138ca7a30591106.pdf"
-    },
-    {
-        "date": "03/04/2026",
-        "board": "DSHM",
-        "title": "Total",
-        "qualification": "Qualification  Pathologist: MBBS with PG Degree/Diploma in specialty + Registered with Delhi Medical Council. Microbiologist: Ph.D. Microbiology / M.Sc. Microbiology/Biotechnology / MD Microbiology + relevant experience. Biochemist: MBBS with PG Degree/Diploma in specialty + Registered with Delhi Medical Council. Lab Technician: B.Sc. (Medical Lab Technology) OR 10+2 + Diploma in Medical Laboratory Technology + 3 years experience.",
-        "last_date": "17-04-2026",
-        "total_posts": "116",
-        "salary": "Not Available",
-        "age_limit": "DSHM Recruitment 2026 Age Limit  Pathologist / Biochemist: 45 Years Microbiologist: 45 Years (not more than 64 years for retired Govt. Servant) Lab Technician: Upto 25 Years Age relaxation is applicable as per rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Selection will be made purely on the basis of Document Verification and Interview. || Only candidates who have successfully completed online registration will be allowed to appear for the Interview. || Detailed schedule of Document Verification & Interview (Date & Venue) will be uploaded on the official website https://dshm.delhi.gov.in in due course. || All updates related to the recruitment process shall be available only on the DSHM official website. || Final selection is subject to verification of original documents and medical fitness. || The decision of the Chairman, State Health Society (Delhi) regarding selection shall be final.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://dshm.delhi.gov.in",
-        "official_notification": "https://dshm.delhi.gov.in/%28S%28g4pwxdk3vao0vepetcqhvsw5%29%29/PDF/Final_Advt_IPHL.pdf"
     },
     {
         "date": "03/04/2026",
@@ -1726,38 +1662,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nhidcl.com",
         "official_notification": "https://www.nhidcl.com/sites/default/files/2026-03/recruitment_notice_no.03-2026.pdf"
-    },
-    {
-        "date": "18/03/2026",
-        "board": "NCRTC",
-        "title": "Assistant Manager (Electrical)",
-        "qualification": "B.E./B.Tech (Electrical) or equivalent",
-        "last_date": "17-04-2026",
-        "total_posts": "4",
-        "salary": "Rs. 68,189/- Per Month",
-        "age_limit": "Maximum Age Limit: 65 years",
-        "application_fee": "Nil",
-        "selection_process": "Interview || Document Verification",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "www.ncrtc.in",
-        "official_notification": "https://www.ncrtc.co.in/hr-module/HR/uploads/2026_03_17_12_03_46102026vacancyAMELectricalReemp.pdf"
-    },
-    {
-        "date": "18/03/2026",
-        "board": "NHAI",
-        "title": "Assistant Advisor (Data Scientist)",
-        "qualification": "Bachelor's degree in Science / Technology / Engineering / Maths / Statistics from a recognized university/ institute. Master's degree Science / Technology / Engineering / Maths / Statistics / Business Administration from a recognized university/institute (Desirable)",
-        "last_date": "17-04-2026",
-        "total_posts": "1",
-        "salary": "Rs.1,10,000 - Rs.1,32,000 Per Month",
-        "age_limit": "Maximum Age Limit: 35 years",
-        "application_fee": "Nil",
-        "selection_process": "Please refer to the official notification for selection process details.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.nhai.gov.in",
-        "official_notification": "https://nhai.gov.in/nhai/sites/default/files/vacancy_files/Adv.pdf"
     },
     {
         "date": "18/03/2026",
