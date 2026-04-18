@@ -1,6 +1,38 @@
 [
     {
         "date": "18/04/2026",
+        "board": "MNNIT Allahabad",
+        "title": "Research Associate I",
+        "qualification": "M.E/ M.Tech, M.Phil/ Ph.D",
+        "last_date": "05-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 58,000/- Per Month",
+        "age_limit": "The upper age limit can be relaxed up to 5 years in the case of SC/ST/OBC/PwD or Female candidates as per DST norms.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on merit, previous work and project needs || Interview (physical mode)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://mnnit.ac.in",
+        "official_notification": "https://mnnit.ac.in/images/newstories/2026/JobMnnit/2.0RA_Advertisement.pdf"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "IIT BHU",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "Any Masters Degree, B.Tech/ B.E",
+        "last_date": "03-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000 + 18% HRA Per Month",
+        "age_limit": "Maximum Age Limit: 28 years. || Age relaxation will be provided as per Government of India (GoI) norms.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitbhu.ac.in",
+        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_jrf_cse_quad.pdf"
+    },
+    {
+        "date": "18/04/2026",
         "board": "IIM Lucknow",
         "title": "Senior Research Assistant, Research Associate",
         "qualification": "Ph.D. / Post-Graduate/MBA in a relevant field.",
@@ -765,7 +797,7 @@
         "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "nic-scientist-recruitment-2026-apply-online-for-153-scientist-d-scientist-c-posts-3044795"
     },
     {
         "date": "07/04/2026",

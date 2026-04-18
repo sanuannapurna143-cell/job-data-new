@@ -1,6 +1,102 @@
 [
     {
         "date": "18/04/2026",
+        "board": "Burari Hospital",
+        "title": "Senior Residents",
+        "qualification": "MBBS with Post graduate degree/DNB/Diploma",
+        "last_date": "21-04-2026",
+        "total_posts": "3",
+        "salary": "7th CPC guidelines as adopted by GNCT of Delhi",
+        "age_limit": "Maximum Age Limit: 45 years || Age Relaxation: 5 years for SC & ST, 3 years for OBC (Non Creamy Layer Delhi only)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://health.delhi.gov.in",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wbur_18.pdf"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "Ambedkar Nagar Hospital",
+        "title": "Junior Residents",
+        "qualification": "MBBS Degree recognized by MCI.",
+        "last_date": "24-04-2026",
+        "total_posts": "2",
+        "salary": "level - 10 as per 7th Pay Commission",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://health.delhi.gov.in",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wanh_30.pdf"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "SRHC Hospital",
+        "title": "Senior Resident",
+        "qualification": "MBBS with Post Graduate degree/Diploma",
+        "last_date": "24-04-2026",
+        "total_posts": "8",
+        "salary": "Rs.67700 - Rs. 208700 Per Month",
+        "age_limit": "Maximum Age Limit: 45 years || Age relaxation for reserve category candidates is as per rule.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://health.delhi.gov.in",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsrhch_3.pdf"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "MP IDSA",
+        "title": "Research Analyst",
+        "qualification": "Master’s Degree with First Division in Social Sciences or allied fields",
+        "last_date": "22-04-2026",
+        "total_posts": "5",
+        "salary": "Rs. 35,400/- fixed",
+        "age_limit": "Not More than 35 years as on 22 April 2026. || Age relaxation applicable as per Government of India norms for reserved categories (OBC, EWS, PwD).",
+        "application_fee": "Nil",
+        "selection_process": "Shortlisting based on qualifications, experience, publications, and documents || Personal Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://idsa.in/",
+        "official_notification": "https://idsa.in/job/advertisement-for-the-position-of-research-analyst-2026"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "AAAGH Delhi",
+        "title": "Senior Resident Doctor",
+        "qualification": "MBBS with P.G. Degree/Diploma/DNB or MBBS with 2 years experience",
+        "last_date": "23-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 67700/-",
+        "age_limit": "Maximum of 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://health.delhi.gov.in",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/waagh_10.pdf"
+    },
+    {
+        "date": "18/04/2026",
+        "board": "IIT Delhi",
+        "title": "Principal Project Scientist",
+        "qualification": "M.Phil/ Ph.D",
+        "last_date": "01-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 56,000/- p.m. plus HRA @27%",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1776423306744_svxeg2m.pdf"
+    },
+    {
+        "date": "18/04/2026",
         "board": "SLBSNSU",
         "title": "Video Editor / Cameraman",
         "qualification": "Bachelor's degree in any discipline, Graduation in any discipline",
@@ -157,7 +253,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://recruitment.itbpolice.nic.in/",
-        "official_notification": "ordnance-factory-chanda-tenure-based-dbw-recruitment-2026-apply-offline-for-400-posts-3045891"
+        "official_notification": "nic-scientist-recruitment-2026-apply-online-for-153-scientist-d-scientist-c-posts-3044795"
     },
     {
         "date": "17/04/2026",
@@ -621,7 +717,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "up-anganwadi-worker-recruitment-2026-apply-online-for-100-posts-in-mau-district-3045895"
+        "official_notification": "nic-scientist-recruitment-2026-apply-online-for-153-scientist-d-scientist-c-posts-3044795"
     },
     {
         "date": "13/04/2026",
@@ -1009,22 +1105,6 @@
     },
     {
         "date": "09/04/2026",
-        "board": "NIC",
-        "title": "Total",
-        "qualification": "Qualification  Bachelor Degree in Engineering OR Bachelor Degree in Technology (Bachelor in Engineering or Bachelor in Technology) OR Department of Electronics and Accreditation of Computer Course B-Level ORAssociate member of Institute of Engineers OR Graduate Institute of Electronics and Telecommunication Engineers OR Master’s Degree in Science (MSc) OR Master Degree in Computer Application OR Master’s Degree in Engineering OR Technology (ME or M-Tech) OR Master’s Degree in Philosophy (MPhil) in the field Field (Single or in combination): Physics, Applied Physics, Electronics, Electronics and Communication, Electronics and Telecommunication, Radio Physics and Electronics, Chemistry, Applied Chemistry, Materials Science, Environmental Science, Computer Sciences, Computer Science and Engineering, Computer Engineering, Computer, Communication, Computer and Networking Security, Computer Application, Software Engineering, Software System, Information Technology, Information Technology Management, Informatics, Computer Management, Cyber Law, Bioinformatics, Remote Sensing, Geographical Information Systems (GIS), Geography, Mathematics, Applied Mathematics, Operations Research, Total Quality Management, Statistics, Computational Linguistics, Information Science, Information Science and Engineering, Electrical, Mechanical, Civil, Production, Industrial Electronics, Instrumentation, Electronics and Instrumentation, Power Electronics, Design. Minimum Experience- Scientist-C: 4 years, Scientist-D: 8 years",
-        "last_date": "30-04-2026",
-        "total_posts": "153",
-        "salary": "Not Available",
-        "age_limit": "NIC Recruitment 2026 Age Limit  Scientist-D: Maximum 40 Years Scientist-C: Maximum 35 Years Age relaxation is applicable as per rules.",
-        "application_fee": "Not Available",
-        "selection_process": "The direct recruitment will be done through a three-stage process : || Stage 1: Screening Test(qualifying in nature)Online MCQ (150 questions, 3 hours duration) on Reasoning, Basic Mathematics, English, Aptitude, Attitude and Leadership Quality.Medium: English only.Qualifying marks: Minimum60%(relaxable to50%for OBC and40%for SC/ST/PwBD if sufficient candidates not available).Shortlisting ratio: Restricted to1:6(six candidates per post) in order of merit in each category. || Online MCQ (150 questions, 3 hours duration) on Reasoning, Basic Mathematics, English, Aptitude, Attitude and Leadership Quality. || Medium: English only. || Qualifying marks: Minimum60%(relaxable to50%for OBC and40%for SC/ST/PwBD if sufficient candidates not available). || Shortlisting ratio: Restricted to1:6(six candidates per post) in order of merit in each category. || Stage 2: Evaluation of Academic RecordsApplications qualifying the Screening Test will be evaluated by a Screening Evaluation Committee.Marks awarded as per detailed norms given inAnnexure-I (Scientist-C)andAnnexure-II (Scientist-D)(total 120 marks).Shortlisting ratio for Interview:1:3(three candidates per post) in order of merit. || Applications qualifying the Screening Test will be evaluated by a Screening Evaluation Committee. || Marks awarded as per detailed norms given inAnnexure-I (Scientist-C)andAnnexure-II (Scientist-D)(total 120 marks). || Shortlisting ratio for Interview:1:3(three candidates per post) in order of merit. || Stage 3: Personal Interaction / Interview30 marks.Conducted atDelhi or any other location/modeapproved by competent authority.Final Merit List: Marks of Evaluation (120) + Interview (30) =150 marks. || 30 marks. || Conducted atDelhi or any other location/modeapproved by competent authority. || Final Merit List: Marks of Evaluation (120) + Interview (30) =150 marks. || Document Verification : Original documents will be verified prior to the interview . Candidates failing to produce all required original documents will be debarred. || Note : Screening Test is qualifying only. Final selection is based on combined marks of Evaluation + Interview. Normalization of marks will be applied if the test is conducted in multiple batches.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://nic.gov.in",
-        "official_notification": "https://recruitment.nic.in/DetailedSciCD.pdf"
-    },
-    {
-        "date": "09/04/2026",
         "board": "Delhi University",
         "title": "Research Assistant, Field Investigator",
         "qualification": "Postgraduate in Social Science discipline with minimum 55% marks",
@@ -1181,7 +1261,7 @@
         "apply_mode": "Offline",
         "syllabus": "Not Available",
         "official_website": "https://www.dsc.du.ac.in/",
-        "official_notification": "up-anganwadi-worker-recruitment-2026-apply-online-for-100-posts-in-mau-district-3045895"
+        "official_notification": "Not Available"
     },
     {
         "date": "06/04/2026",
