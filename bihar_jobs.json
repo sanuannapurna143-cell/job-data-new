@@ -1,5 +1,21 @@
 [
     {
+        "date": "20/04/2026",
+        "board": "RBI",
+        "title": "Medical Consultant",
+        "qualification": "MBBS",
+        "last_date": "05-05-2026",
+        "total_posts": "2",
+        "salary": "Remuneration: ₹1,000/- per hour || Conveyance expenses: ₹1,000/- per month (deducted from monthly remuneration) || Mobile charges reimbursement: ₹1000/- per month || Compensation for working on public holidays: ₹1,000/- per hour",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview for shortlisted candidates || Medical examination and document verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rbi.org.in",
+        "official_notification": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4944"
+    },
+    {
         "date": "17/04/2026",
         "board": "Patna High Court",
         "title": "Computer Operator-cum-Typist (Group-C Post)",
@@ -254,22 +270,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.bpsc.bihar.gov.in",
         "official_notification": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-122026-33rd-BJSE_BPSC-20260223-82eskn.pdf"
-    },
-    {
-        "date": "31/03/2026",
-        "board": "RBI",
-        "title": "Medical Consultant",
-        "qualification": "MBBS",
-        "last_date": "20-04-2026",
-        "total_posts": "2",
-        "salary": "Remuneration: ₹1,000/- per hour || Conveyance expenses: ₹1,000/- per month (deducted from monthly remuneration) || Mobile charges reimbursement: ₹1000/- per month || Compensation for working on public holidays: ₹1,000/- per hour",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Interview for shortlisted candidates || Medical examination and document verification",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.rbi.org.in",
-        "official_notification": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4944"
     },
     {
         "date": "23/03/2026",

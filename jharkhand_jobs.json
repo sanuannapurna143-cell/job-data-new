@@ -1,6 +1,22 @@
 [
     {
         "date": "20/04/2026",
+        "board": "DCPU Khunti",
+        "title": "Support Person",
+        "qualification": "Postgraduate (PG) in Arts, Commerce, Science, Law, Psychology, Social Work, Child Psychology or Local Language, OR Graduate",
+        "last_date": "04-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Maximum Rs. 5,000/- per case",
+        "age_limit": "Min: 35 years, Max: 60 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.khunti.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s301f78be6f7cad02658508fe4616098a9/uploads/2026/04/17765083701093.pdf"
+    },
+    {
+        "date": "20/04/2026",
         "board": "DCPU Jamtara",
         "title": "Assistant Person (Sahayak Vyakti)",
         "qualification": "Post Graduate degree in Arts/Commerce/Science/Law/Psychology/Social Work/Child Psychology/Local Language, OR Graduate degree + minimum 2 years experience in relevant field",

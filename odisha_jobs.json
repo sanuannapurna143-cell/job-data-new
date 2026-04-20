@@ -1,6 +1,38 @@
 [
     {
         "date": "20/04/2026",
+        "board": "POWERGRID",
+        "title": "Educational Qualification",
+        "qualification": "Full Time Regular Three Years Diploma in relevant discipline of engineering - Electrical/ Electrical (Power)/ Electrical and Electronics/ Power Systems Engineering/ Power Engineering (Electrical), from recognized Technical Board/Institute with minimum 70% marks for General/ OBC (NCL)/ EWS Candidates and pass marks for SC/ST/PwBD. Higher technical qualification like B.Tech/BE/M.Tech/ME etc. with or without Diploma is not allowed.",
+        "last_date": "11-05-2026",
+        "total_posts": "660",
+        "salary": "Junior Engineer Gr-IV / Junior Officer Gr-IV at S1 level in pay scale Rs.25000-3%-117500/- (IDA) with annual CTC approx. Rs.12.7 Lakhs",
+        "age_limit": "27 years as on 11.05.2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.powergrid.in/",
+        "official_notification": "https://www.powergrid.in/sites/default/files/job_opportunities_document/Detailed%20Advertisement%20-%20Non%20Executive%20Posts%202026.pdf"
+    },
+    {
+        "date": "20/04/2026",
+        "board": "AIIMS Bhubaneswar",
+        "title": "Project Nurse-II",
+        "qualification": "Three-year General Nursing & Midwife (GNM) Course",
+        "last_date": "28-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 24,000/- per month (1st year); Rs. 25,200/- per month (2nd year onwards)",
+        "age_limit": "Maximum Age: 28 years || Age relaxation is admissible in respect of SC/ST/OBC/PWD candidates as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in-Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsbhubaneswar.nic.in",
+        "official_notification": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/04/cmfm-11_.pdf"
+    },
+    {
+        "date": "20/04/2026",
         "board": "OAV Barkote",
         "title": "Chowkidar cum Sweeper, Warden and More",
         "qualification": "M.A, B.Sc, 12th",
@@ -126,22 +158,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ssbodisha.ac.in/",
         "official_notification": "https://ssbodisha.ac.in/wp-content/uploads/2026/04/Advt-02-2026-16.04.2026.pdf"
-    },
-    {
-        "date": "17/04/2026",
-        "board": "POWERGRID",
-        "title": "Educational Qualification",
-        "qualification": "Full Time Regular Three Years Diploma in relevant discipline of engineering - Electrical/ Electrical (Power)/ Electrical and Electronics/ Power Systems Engineering/ Power Engineering (Electrical), from recognized Technical Board/Institute with minimum 70% marks for General/ OBC (NCL)/ EWS Candidates and pass marks for SC/ST/PwBD. Higher technical qualification like B.Tech/BE/M.Tech/ME etc. with or without Diploma is not allowed.",
-        "last_date": "11-05-2026",
-        "total_posts": "660",
-        "salary": "Junior Engineer Gr-IV / Junior Officer Gr-IV at S1 level in pay scale Rs.25000-3%-117500/- (IDA) with annual CTC approx. Rs.12.7 Lakhs",
-        "age_limit": "27 years as on 11.05.2026",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.powergrid.in/",
-        "official_notification": "https://www.powergrid.in/sites/default/files/job_opportunities_document/Detailed%20Advertisement%20-%20Non%20Executive%20Posts%202026.pdf"
     },
     {
         "date": "17/04/2026",
