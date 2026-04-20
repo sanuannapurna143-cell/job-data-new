@@ -1,5 +1,37 @@
 [
     {
+        "date": "20/04/2026",
+        "board": "NIT Calicut",
+        "title": "Junior Research Fellow",
+        "qualification": "B.Tech/ B.E, M.E/ M.Tech, M.Sc, Professional Degree",
+        "last_date": "30-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting of applications || Hybrid Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://nitc.ac.in",
+        "official_notification": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__f8690c19-0ba0-4d59-8215-504de6ee4e70_.pdf"
+    },
+    {
+        "date": "20/04/2026",
+        "board": "ISRO VSSC",
+        "title": "Junior Research Fellow",
+        "qualification": "M.Sc. Physics/Applied Physics/Engineering Physics/Space Physics/Atmospheric Science/Meteorology/Planetary Sciences (min 60%), OR M.S./M.E./M.Tech. Atmospheric Science/Space Science/Planetary Science/Applied Physics/Engineering Physics (min 60%), CSIR-UGC NET (incl. Lectureship)/GATE/JEST qualified",
+        "last_date": "05-05-2026",
+        "total_posts": "8",
+        "salary": "Rs.37,000 - Rs.42,000 Per Month",
+        "age_limit": "Maximum Age Limit: 28 years || Age Relaxation: OBC: 31 years; SC/ST: 33 years; PWD: as per rules",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.vssc.gov.in/",
+        "official_notification": "https://www.vssc.gov.in/advt339.html"
+    },
+    {
         "date": "15/04/2026",
         "board": "Federal Bank",
         "title": "Domain / Channel",

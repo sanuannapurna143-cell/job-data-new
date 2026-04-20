@@ -1,6 +1,22 @@
 [
     {
         "date": "20/04/2026",
+        "board": "Indian Army",
+        "title": "Short Service Commission (SSC) Officers in Remount Veterinary Corps (Men & Women)",
+        "qualification": "BVSc / BVSc & AH degree",
+        "last_date": "18-05-2026",
+        "total_posts": "20",
+        "salary": "Non-Practice Allowance (NPA)",
+        "age_limit": "Age Limit",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.joinindianarmy.nic.in",
+        "official_notification": "https://www.joinindianarmy.nic.in/writereaddata/Portal/NotificationPDF/Short_Service_Commission_Men_in_RVC.pdf"
+    },
+    {
+        "date": "20/04/2026",
         "board": "CGDA",
         "title": "Young Professionals",
         "qualification": "Master of Business Administration, Bachelor of Law, M. Tech/PhD with focus on data analytics, Chartered Accountant (CA)/CIA/CISA certifications",
@@ -141,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://recruitment.itbpolice.nic.in/",
-        "official_notification": "kea-recruitment-2026-apply-online-for-890-agriculture-officer-and-assistant-agriculture-officer-posts-3046038"
+        "official_notification": "Not Available"
     },
     {
         "date": "15/04/2026",
@@ -190,22 +206,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.joinindiannavy.gov.in/",
         "official_notification": "https://www.joinindiannavy.gov.in/files/Advt-Agniveer-MR-MUS-02-25-English.pdf"
-    },
-    {
-        "date": "10/04/2026",
-        "board": "Indian Army",
-        "title": "Total",
-        "qualification": "BVSC",
-        "last_date": "18-05-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Indian Army Recruitment 2026 Age Limit  Minimum Age Limit: 21 Years Maximum Age limit: 32 Years Age relaxation is applicable as per rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Please refer to the official notification for selection process details.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://joinindianarmy.nic.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/04/0298855-69d875046e9cb45637865.pdf"
     },
     {
         "date": "09/04/2026",

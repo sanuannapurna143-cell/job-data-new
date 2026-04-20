@@ -1,6 +1,38 @@
 [
     {
         "date": "20/04/2026",
+        "board": "Mumbai Port Authority",
+        "title": "Chief Strategic Advisor",
+        "qualification": "Post Graduation Degree/Diploma in Management from IIM or ISB",
+        "last_date": "18-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 2,50,000/- Per Month",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.mumbaiport.gov.in",
+        "official_notification": "https://mumbaiport.gov.in/WriteReadData/RTF1984/1776410203.pdf"
+    },
+    {
+        "date": "20/04/2026",
+        "board": "CNP Nashik SPMCIL",
+        "title": "Junior Technician, Supervisor, Welfare Officer, Safety Officer, Secretarial Assistant, Artist (Graphic Design), Junior Office Assistant and More",
+        "qualification": "Diploma in Mechanical / Electrical / Electronics Engineering",
+        "last_date": "19-05-2026",
+        "total_posts": "534",
+        "salary": "₹25,740 - 1,03,000",
+        "age_limit": "18 to 25 / 28 / 30 Years (Post-wise, as on closing date)",
+        "application_fee": "Rs.1000/-(Non-Refundable)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://cnpnashik.spmcil.com",
+        "official_notification": "https://test.cbexams.com/EDPSU/SPMCIL/CNP/docs/Recruitment20AdvtNew.pdf?t=5"
+    },
+    {
+        "date": "20/04/2026",
         "board": "JK Bank",
         "title": "Apprentice (under NATS -National Apprenticeship Training Scheme)",
         "qualification": "Graduation from a recognised University/Institute. Must have passed graduation on or after 01.01.2022. Proficiency in local/official language required (studied as subject in Class 10 or 12).",
@@ -14,6 +46,22 @@
         "syllabus": "Not Available",
         "official_website": "https://jkb.bank.in/",
         "official_notification": "https://jkb.bank.in/sites/default/files/2026-04/Apprenticeship%20Notification%202026-27%20new%20%28002%29.pdf"
+    },
+    {
+        "date": "20/04/2026",
+        "board": "RBI",
+        "title": "Junior Engineer (Civil) / Junior Engineer (Electrical)",
+        "qualification": "3 years Diploma in relevant Engineering discipline with minimum 65% marks (55% for SC/ST/PwBD) OR Degree in relevant Engineering discipline with minimum 55% marks (45% for SC/ST/PwBD) + prescribed post-qualification experience",
+        "last_date": "06-05-2026",
+        "total_posts": "11",
+        "salary": "Starting Basic Pay ₹47,700/- p.m. in the scale of ₹29,000-17,000(3)-34,100-20,40(4)-42,260-27,20(6)-58,580-29,50(2)-64,480-33,70(3)-74,590-40,50(1)-78,640 (7th Pay Commission equivalent) + allowances",
+        "age_limit": "Minimum 20 years, Maximum 30 years as on 01 April 2026",
+        "application_fee": "₹450/- + 18% GST (Examination Fee + Intimation Charges)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rbi.org.in",
+        "official_notification": "https://rbidocs.rbi.org.in/rdocs/Content/PDFs/RPJECE160420260B367DB080134796AC32C86A34068176.PDF"
     },
     {
         "date": "20/04/2026",
@@ -382,22 +430,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.neeri.res.in",
         "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/RECRUIT_V4_4A_EIA_15042026_B.pdf"
-    },
-    {
-        "date": "16/04/2026",
-        "board": "RBI",
-        "title": "Junior Engineer (Civil) / Junior Engineer (Electrical)",
-        "qualification": "3 years Diploma in relevant Engineering discipline with minimum 65% marks (55% for SC/ST/PwBD) OR Degree in relevant Engineering discipline with minimum 55% marks (45% for SC/ST/PwBD) + prescribed post-qualification experience",
-        "last_date": "06-05-2026",
-        "total_posts": "11",
-        "salary": "Starting Basic Pay ₹47,700/- p.m. in the scale of ₹29,000-17,000(3)-34,100-20,40(4)-42,260-27,20(6)-58,580-29,50(2)-64,480-33,70(3)-74,590-40,50(1)-78,640 (7th Pay Commission equivalent) + allowances",
-        "age_limit": "Minimum 20 years, Maximum 30 years as on 01 April 2026",
-        "application_fee": "₹450/- + 18% GST (Examination Fee + Intimation Charges)",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.rbi.org.in",
-        "official_notification": "https://rbidocs.rbi.org.in/rdocs/Content/PDFs/RPJECE160420260B367DB080134796AC32C86A34068176.PDF"
     },
     {
         "date": "16/04/2026",
@@ -958,22 +990,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.chhsambhajinagarmc.org",
         "official_notification": "https://chhsambhajinagarmc.org/assets/300/2026/04/mediafiles/NULM_Health_9_dt_06_04_2026.pdf"
-    },
-    {
-        "date": "07/04/2026",
-        "board": "CNP Nashik SPMCIL",
-        "title": "Total",
-        "qualification": "Qualification  Welfare Officer: Degree in Social Work or relevant field. Supervisor (Technical): Diploma in Mechanical/Electrical/Electronics Engineering. Supervisor (To-Printing): Diploma in Printing Technology. Supervisor (IT): Diploma in Computer Engineering/IT. Supervisor (TO-Mechanical): Diploma in Mechanical Engineering. Supervisor (TO-AC): Diploma in Mechanical Engineering. Supervisor (TO-Electrical): Diploma in Electrical Engineering. Supervisor (TO-Instrumentation): Diploma in Instrumentation Engineering. Supervisor (Factory): Diploma in Mechanical/Electrical/Electronics Engineering. Supervisor (Electrical/Air Conditioning): Diploma in Electrical Engineering. Supervisor (TO-Electrical/Electronics): Diploma in Electrical/Electronics Engineering. Supervisor (TO-Civil): Diploma in Civil Engineering. Supervisor (Official Language): Master's Degree in Hindi with English as a subject. Secretarial Assistant: Graduate. Artist (Graphic Design): Degree in Fine Arts/Commercial Art. Junior Office Assistant: Graduate. Junior Technician (Printing): ITI in Printing Trade. Junior Technician (Control): ITI in Control/Instrumentation Trade. Junior Technician (Electrical): ITI in Electrical Trade. Junior Technician (Electronics): ITI in Electronics Trade. Junior Technician (Machinist): ITI in Machinist Trade. Junior Technician (Fitter): ITI in Fitter Trade. Junior Technician (Mechanic Machine Tool Maintenance / Fitter): ITI in Mechanic Machine Tool Maintenance/Fitter Trade. Junior Technician (Electronics/Instrumentation): ITI in Electronics/Instrumentation Trade. Junior Technician (Store): ITI in Store Keeper Trade. Junior Technician (Air Conditioning): ITI in Air Conditioning Trade. Junior Technician (Ink Factory -Attendant Operator): ITI in Ink Factory-Attendant Operator Trade. Junior Technician (Ink Factory- Laboratory Assistant): ITI in Ink Factory-Laboratory Assistant Trade. Junior Technician (Mechanical/Air Conditioning): ITI in Mechanical/Air Conditioning Trade. Junior Technician (Electrical/Electronics): ITI in Electrical/Electronics Trade.",
-        "last_date": "19-05-2026",
-        "total_posts": "534",
-        "salary": "Not Available",
-        "age_limit": "CNP Nashik SPMCIL Recruitment 2026 Age Limit  Minimum Age Limit: 18 Years Maximum Age limit: 25 / 28 / 30 Years (post-wise, as on closing date) Age relaxation is applicable as per rules.",
-        "application_fee": "Not Available",
-        "selection_process": "The detailed Selection Process (including written examination / skill test / interview pattern, syllabus, minimum qualifying marks, etc.) is not mentioned in the advertisement . || As per the official notification: || Complete details of the Selection Process will be available in thedetailed advertisementon the official websitefrom 20-04-2026 onwards. || Candidates are advised to visithttps://cnpnashik.spmcil.comregularly for the full recruitment notification, examination scheme, and any updates related to selection.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://cnpnashik.spmcil.com",
-        "official_notification": "https://img2.freejobalert.com/news/2026/04/78523-69d484bbe28c761254897.pdf"
     },
     {
         "date": "06/04/2026",
