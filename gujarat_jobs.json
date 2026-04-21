@@ -1,5 +1,37 @@
 [
     {
+        "date": "21/04/2026",
+        "board": "AIIMS Rajkot",
+        "title": "Professor cum Principal",
+        "qualification": "Master’s Degree in Nursing Or Must be registered Nurse and Midwife.",
+        "last_date": "20-05-2026",
+        "total_posts": "1",
+        "salary": "Level 13 as per 7th CPC",
+        "age_limit": "Maximum Age Limit: 55 years. || Age relaxation is applicable to Government Servants, PwBD, Ex-Servicemen as per GoI guidelines.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Shortlisting of applications (based on qualification, experience, and/or higher benchmarks / screening test if large number of applications) || Document verification (only shortlisted candidates) || Personal Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsrajkot.edu.in",
+        "official_notification": "https://aiimsrajkot.edu.in/api/files/Professor%20cum.pdf"
+    },
+    {
+        "date": "21/04/2026",
+        "board": "SVNIT",
+        "title": "Project Engineer",
+        "qualification": "M.E/ M.Tech, M.Sc",
+        "last_date": "28-04-2026",
+        "total_posts": "2",
+        "salary": "Rs. 40,000/- - Rs. 50,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.svnit.ac.in",
+        "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/April/Advertisement%20for%20Project%20Engineers%20at%20Dept.%20of%20Civil%20Engineering.pdf"
+    },
+    {
         "date": "20/04/2026",
         "board": "POWERGRID",
         "title": "Educational Qualification",
@@ -209,22 +241,6 @@
     },
     {
         "date": "16/04/2026",
-        "board": "IIT Gandhinagar",
-        "title": "Research Associate - III",
-        "qualification": "PhD in Chemistry,",
-        "last_date": "20-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 54,000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitgn.ac.in/",
-        "official_notification": "https://drive.google.com/file/d/1gODuTsDJwFBzZcKNnb927oKUjzgp50vV/view"
-    },
-    {
-        "date": "16/04/2026",
         "board": "GPSSB",
         "title": "Gram Sevak (Class-3) & Pashudhan Nirikshak / Livestock Inspector (Class-3)",
         "qualification": "Bachelor of Rural Studies (except Home Science) / B.Sc.(Agriculture) / B.E.(Agriculture) / B.Tech.(Agricultural Engineering) / B.Sc.(Horticulture) OR Diploma in Agriculture / Horticulture / Agriculture Engineering / Polytechnic Diploma in Agriculture Co-operation, Banking & Marketing from recognized University + Basic knowledge of computer applications + Adequate knowledge of Gujarati or Hindi or both.",
@@ -318,22 +334,6 @@
         "syllabus": "Not Available",
         "official_website": "https://gpssb.gujarat.gov.in",
         "official_notification": "https://ojas.gujarat.gov.in/ojas1/AdvtDetailFiles/GPSSB_202627_1.pdf"
-    },
-    {
-        "date": "10/04/2026",
-        "board": "IIT Gandhinagar",
-        "title": "Post Doctoral Fellow",
-        "qualification": "Any Graduate, M.Phil/ Ph.D",
-        "last_date": "20-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 72,000/- Per Month",
-        "age_limit": "Max: 33 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitgn.ac.in",
-        "official_notification": "https://drive.google.com/file/d/14t8q9YqU4OwrkvjgWxBda66Xr4VEa1Kh/view"
     },
     {
         "date": "10/04/2026",
@@ -481,22 +481,6 @@
     },
     {
         "date": "04/04/2026",
-        "board": "Punjab and Sind Bank",
-        "title": "Local Bank Officer – 1000 Posts",
-        "qualification": "Qualification  A Degree (Graduation) in any discipline from a university recognised by the Govt. of India + Minimum 18 months post-basic qualification branch experience as an officer in any Scheduled Commercial Bank or any Regional Rural Bank.",
-        "last_date": "20-04-2026",
-        "total_posts": "1000",
-        "salary": "Not Available",
-        "age_limit": "Punjab and Sind Bank Recruitment 2026 Age Limit  Minimum Age Limit: 20 Years Maximum Age limit: 30 Years A candidate must have been born not earlier than 02.03.1996 and not later than 01.03.2006 Age relaxation is applicable as per rules.",
-        "application_fee": "Not Available",
-        "selection_process": "The selection will be based on || Written Test || Screening || Personal Interview || Local Language Proficiency Test || Final Merit List || Written Test Pattern (Online): || Minimum qualifying marks: 40% (UR/EWS) & 35% (Reserved categories). || Final selection on the basis of Written Test (70%) + Personal Interview (30%) + Local Language Proficiency (mandatory).",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://punjabandsind.bank.in",
-        "official_notification": "https://punjabandsind.bank.in/system/uploads/recruitment/2150_2026033023383438181.pdf"
-    },
-    {
-        "date": "04/04/2026",
         "board": "IIM Ahmedabad",
         "title": "Vice President (Research)",
         "qualification": "PhD / MBA / CA/ CFA / CAIA / Masters (or higher degree) in Economics",
@@ -576,22 +560,6 @@
         "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/March/SRF%20ADVERTISEMENT%20SVNIT%20WATER&%20ENVIRONMENT.pdf"
     },
     {
-        "date": "01/04/2026",
-        "board": "SVNIT",
-        "title": "Legal Officer",
-        "qualification": "Bachelor's degree in Law (LLB)",
-        "last_date": "20-04-2026",
-        "total_posts": "1",
-        "salary": "Consolidated Rs 45,000/- per month",
-        "age_limit": "Not more than 40 years as on last date of application.",
-        "application_fee": "Not Available",
-        "selection_process": "Based on performance in the Interview || Shortlisted candidates will be called for interview. || Final selection will be based on the performance of candidate during personal interview.",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.svnit.ac.in/",
-        "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/March/NOTIFICATION%20-%20%20CONTRACTUAL%20POST%20-%20Legal%20Officer%20-%202026.pdf"
-    },
-    {
         "date": "27/03/2026",
         "board": "IIT Gandhinagar",
         "title": "Post Doctoral Fellow",
@@ -622,22 +590,6 @@
         "syllabus": "Not Available",
         "official_website": "https://deendayalport.gov.in",
         "official_notification": "https://img2.freejobalert.com/news/2026/03/45736-69c36e6164b0899453444.pdf"
-    },
-    {
-        "date": "24/03/2026",
-        "board": "IIT Gandhinagar",
-        "title": "Post Doctoral Fellow",
-        "qualification": "Any Graduate, M.Phil/ Ph.D",
-        "last_date": "20-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 72,000/-  Rs. 84,000/- Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "iitgn.ac.in",
-        "official_notification": "https://drive.google.com/file/d/1NGQJ5_vtqJyyraqITMe6cELzKHt51VUF/view"
     },
     {
         "date": "17/03/2026",
