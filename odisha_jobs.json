@@ -1,6 +1,38 @@
 [
     {
         "date": "22/04/2026",
+        "board": "AIIMS Bhubaneswar",
+        "title": "Laboratory Technician, Data Entry Operator, Field Worker",
+        "qualification": "Diploma in MLT/DMLT, Diploma in DCA",
+        "last_date": "07-05-2026",
+        "total_posts": "5",
+        "salary": "Rs. ₹20,000/- - ₹23,200/- Per Month",
+        "age_limit": "Maximum Age Limit: 30 years for all posts. || Age relaxation is applicable as per Government rules for SC/ST/OBC/PwD candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsbhubaneswar.nic.in",
+        "official_notification": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/04/Neonat-1.pdf"
+    },
+    {
+        "date": "22/04/2026",
+        "board": "ORMAS Kandhamal",
+        "title": "Cluster Development Executive (CDE)",
+        "qualification": "Master's Degree or Post Graduation or equivalent degree in Rural management/Development Management/Social Entrepreneurship and other related fields. Computer knowledge is desired., Graduation from any discipline",
+        "last_date": "08-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20,000 Per Month",
+        "age_limit": "Maximum Age Limit: 50 years",
+        "application_fee": "Nil",
+        "selection_process": "Shortlisting based on academic qualifications, experience and skills || Personal Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://www.kandhamal.odisha.gov.in",
+        "official_notification": "https://kandhamal.odisha.gov.in/sites/default/files/2026-04/179.pdf"
+    },
+    {
+        "date": "22/04/2026",
         "board": "ICMR RMRC",
         "title": "Young Professional-II (IT & Electrical)",
         "qualification": "B.E./B.Tech. in Electrical or Computer Application/Information Technology/Computer Science/Artificial Intelligence/Operating Systems/Software Engineering/Computer Graphics with at least 55% marks and 1 year of post-qualification experience.",
