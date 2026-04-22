@@ -1,6 +1,38 @@
 [
     {
         "date": "22/04/2026",
+        "board": "IIT Kanpur",
+        "title": "Project Technician",
+        "qualification": "B.Sc + 4 years relevant experience, Diploma",
+        "last_date": "29-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 14400 - 36000 Per Month (consolidated)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/nwtf-pt-21-04-26.html"
+    },
+    {
+        "date": "22/04/2026",
+        "board": "BHU",
+        "title": "Research Assistant, Field Investigator",
+        "qualification": "Post-Graduate in Social Science discipline with minimum 55% marks",
+        "last_date": "14-05-2026",
+        "total_posts": "2",
+        "salary": "Salary: 20,000- 37,000/-",
+        "age_limit": "All Posts: Maximum age is 28 years. || Age relaxation: 5 years for female/SC/ST/physically handicapped candidates; 3 years for OBC candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Test/Interview for research positions || Skill test and examination for non-research positions || Selection by duly constituted Selection Committee",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bhu.ac.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/753155-69e89a0d4f06872230386.pdf"
+    },
+    {
+        "date": "22/04/2026",
         "board": "ALIMCO",
         "title": "Apprenticeship Trainees (ITI & Diploma) under Apprenticeship Act, 1961",
         "qualification": "Full-time Diploma (Polytechnic) certificate in relevant discipline with minimum 50% marks, from UGC/AICTE/State/Central Govt. recognised institution",

@@ -1,6 +1,22 @@
 [
     {
         "date": "22/04/2026",
+        "board": "ICMR RMRC",
+        "title": "Young Professional-II (IT & Electrical)",
+        "qualification": "B.E./B.Tech. in Electrical or Computer Application/Information Technology/Computer Science/Artificial Intelligence/Operating Systems/Software Engineering/Computer Graphics with at least 55% marks and 1 year of post-qualification experience.",
+        "last_date": "12-05-2026",
+        "total_posts": "2",
+        "salary": "Rs.42,000/- PM (Consolidated)",
+        "age_limit": "Young Professional- II (ELECTRICAL): Maximum age limit 40 years (Age relaxation as per ICMR guidelines) || Young Professional -II (IT): Maximum age limit 40 years (Age relaxation as per ICMR guidelines)",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rmrc.res.in",
+        "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1776769021_ypiielectitvacancynoticeforwebsites.pdf"
+    },
+    {
+        "date": "22/04/2026",
         "board": "WCD Odisha",
         "title": "Anganwadi Worker and Helper",
         "qualification": "12th Pass and 7th Class Pass in Odia",

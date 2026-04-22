@@ -1,6 +1,86 @@
 [
     {
         "date": "22/04/2026",
+        "board": "IIT Delhi",
+        "title": "Junior Research Fellow",
+        "qualification": "B.Tech/ B.E",
+        "last_date": "05-05-2026",
+        "total_posts": "1",
+        "salary": "Rs.37,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1776773086216_sm1g0g2.pdf"
+    },
+    {
+        "date": "22/04/2026",
+        "board": "ICAR IARI",
+        "title": "Young Professional-I , Field Assistant Worker",
+        "qualification": "B.Sc. Agriculture, 10th pass",
+        "last_date": "07-05-2026",
+        "total_posts": "2",
+        "salary": "Young Professional-I: Rs. 30,000/- per month fixed || Field Assistant Worker: Rs. 15,000/- per month fixed",
+        "age_limit": "Maximum age limit is 40 years for Young Professional-I. || Maximum age limit is 35 years for Field Assistant Worker. || Age relaxation: 5 years for SC/ST/Women & 3 years for OBC.",
+        "application_fee": "Nil",
+        "selection_process": "Screening of applications || Online Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iari.res.in",
+        "official_notification": "https://iari.res.in/files/jobs/YP-I_and_Field_Assisstant_20042026.pdf"
+    },
+    {
+        "date": "22/04/2026",
+        "board": "CWC",
+        "title": "Consultant (Rail Logistics)",
+        "qualification": "Ex-officers of Indian Railways/Railway CPSEs, Experience in rail logistics/railway operations/freight movement, Pay Scale/Level: IDA Scale 50000-160000 (E-2) & above OR CDA Level 8 (47600-151100) & above",
+        "last_date": "04-05-2026",
+        "total_posts": "2",
+        "salary": "50% of last drawn Pay (Basic plus Dearness allowance)",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Personal Interaction",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://cewacor.nic.in/home",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/854793-69e85ffd947a320742344.pdf"
+    },
+    {
+        "date": "22/04/2026",
+        "board": "CERC",
+        "title": "Senior Advisor",
+        "qualification": "Degree in Engineering, MBA/ PG Diploma in Financial Management or equivalent",
+        "last_date": "12-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. ₹2,50,000/- Per Month (excluding GST)",
+        "age_limit": "Maximum Age Limit: 62 years as on 01-01-2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Performance evaluation based on Technical Parameters (Academic background and relevant experience: 50%, Drafting skill: 30%, Knowledge of working environment: 20%) || Possibly written test to evaluate drafting and presentation skills",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://cercind.gov.in",
+        "official_notification": "https://www.cercind.gov.in/2026/vacancy/21042026.pdf"
+    },
+    {
+        "date": "22/04/2026",
+        "board": "CNBC",
+        "title": "Project Technician, Project Technical Support",
+        "qualification": "10th + Diploma (MLT/DMLT/ITI) Graduate",
+        "last_date": "28-04-2026",
+        "total_posts": "2",
+        "salary": "Project Technician -I:Rs. 18000/- + HRA, as admissible per month. || Project Technical Support III:Rs. 28,000 + HRA per month as per ICMR guidelines.",
+        "age_limit": "Project Technician -I:Not exceeding 28 years. Age relaxation will be given to exceptional candidates. || Project Technical Support III:35 years. Age relaxation will be given to exceptional candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Physical Written Test || Physical Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://cnbc.delhi.gov.in/en",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wcnbc_27.pdf"
+    },
+    {
+        "date": "22/04/2026",
         "board": "Bank of Baroda",
         "title": "Customer Service Associate (Clerical Cadre) – Regular Basis",
         "qualification": "Should have represented a State / U.T. / the country in National / International competition; OR Medal winner in Junior National Championships; OR Medal winner in Khelo India Youth Games (age category above 18 years) / Khelo India Winter Games / Khelo India Para Games; OR Medal winner in Khelo India University Games; OR Medal winner in School Games Federation of India (SGFI); OR Represented University in Inter-University Tournaments; OR Represented State/U.T. School Team in National Sports/Games for Schools conducted by All India School Games Federation.",
@@ -1181,7 +1261,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "alimco-apprentice-recruitment-2026-apply-offline-for-89-posts-3046435"
+        "official_notification": "Not Available"
     },
     {
         "date": "13/04/2026",
@@ -1629,7 +1709,7 @@
         "apply_mode": "Offline",
         "syllabus": "Not Available",
         "official_website": "https://www.dsc.du.ac.in/",
-        "official_notification": "alimco-apprentice-recruitment-2026-apply-offline-for-89-posts-3046435"
+        "official_notification": "Not Available"
     },
     {
         "date": "06/04/2026",
