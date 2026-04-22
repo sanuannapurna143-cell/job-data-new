@@ -1,5 +1,37 @@
 [
     {
+        "date": "22/04/2026",
+        "board": "C-MET",
+        "title": "Technical Assistant, JRF and More Posts",
+        "qualification": "B.Sc, ITI, M.E/ M.Tech, M.Sc",
+        "last_date": "05-05-2026",
+        "total_posts": "8",
+        "salary": "Project Scientist:₹58,000/- + 30% HRA (Total ₹75,400/-) per month + 1 month basic towards medical expenses. || Junior Research Fellow (JRF):₹31,000/- + 30% HRA (Total ₹40,300/-) per month + 1 month basic towards medical expenses. || Technical Assistant:₹20,000/- p.m. + 30% HRA (Total ₹26,000/-) per month + 1 month basic towards medical. || Technical Support Staff:₹16,000/- p.m. + 30% HRA (Total ₹20,800/-) per month + 1 month basic towards medical.",
+        "age_limit": "Project Scientist:Maximum age 37 years. Age relaxation: OBC - 3 years, SC/ST - 5 years. || Junior Research Fellow (JRF):Maximum age 30 years. Age relaxation: OBC - 3 years, SC/ST - 5 years. || Technical Assistant:Maximum age 30 years. Age relaxation: OBC - 3 years, SC/ST - 5 years. || Technical Support Staff:Maximum age 30 years. Age relaxation: OBC - 3 years, SC/ST - 5 years.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Screening || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://cmet.gov.in/",
+        "official_notification": "https://cmet.gov.in/sites/default/files/jobs/WALK-IN-INTERVIEW-ADVT-21042026.pdf"
+    },
+    {
+        "date": "22/04/2026",
+        "board": "NIIMH",
+        "title": "Senior Research Fellow",
+        "qualification": "Any Post Graduate, B.Tech/ B.E, MCA, M.E/ M.Tech, M.Phil/ Ph.D, M.Sc",
+        "last_date": "06-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 42,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 35 years || Age relaxation will be provided as per Govt. of India Rules for SC/ST/OBC.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nimh.nic.in",
+        "official_notification": "https://ccras.nic.in/wp-content/uploads/2026/04/21042026-Notification-No.04-2026.pdf"
+    },
+    {
         "date": "21/04/2026",
         "board": "Medak DCCB",
         "title": "Chief Executive Officer",
