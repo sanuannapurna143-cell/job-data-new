@@ -1,6 +1,22 @@
 [
     {
         "date": "24/04/2026",
+        "board": "NIPER Guwahati",
+        "title": "Project Scientist",
+        "qualification": "Post Graduate Degree or Ph.D, MPH",
+        "last_date": "06-05-2026",
+        "total_posts": "2",
+        "salary": "Project Scientist-III: Rs. 78,000 + HRA (Rs. 15,600) || Project Scientist-II: Rs. 67,000 + HRA (Rs. 13,400)",
+        "age_limit": "Project Scientist-III: Maximum 45 years || Project Scientist-II: Maximum 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.niperguwahati.ac.in",
+        "official_notification": "https://www.niperguwahati.ac.in/DOC/RECRUITMENT/PROJECT-POSITONS/Advt_GAP-170_210426.pdf"
+    },
+    {
+        "date": "24/04/2026",
         "board": "IIT Guwahati",
         "title": "Senior Research Fellow",
         "qualification": "M.Sc",

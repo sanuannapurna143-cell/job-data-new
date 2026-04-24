@@ -1,6 +1,38 @@
 [
     {
         "date": "24/04/2026",
+        "board": "Bharathidasan University",
+        "title": "Project Assistant – 1 Posts",
+        "qualification": "M.E/ M.Tech, M.Sc",
+        "last_date": "05-05-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Not Available",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "24/04/2026",
+        "board": "SASTRA",
+        "title": "Project Assistant",
+        "qualification": "Master's degree in CSE, IT, Cyber Security, Power Systems, Control Systems, or any other degree relevant to the project with minimum 55% Marks.",
+        "last_date": "08-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20,000/- Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sastra.edu",
+        "official_notification": "https://www.sastra.edu/advertisement/4590-advertisement-recruitment-of-project-assistant,-sastra-tcs-foundation-tic.html"
+    },
+    {
+        "date": "24/04/2026",
         "board": "Anna University",
         "title": "Project Assistant",
         "qualification": "First-class UG/PG in Chemical Engineering.",

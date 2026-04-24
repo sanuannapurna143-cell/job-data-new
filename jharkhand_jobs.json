@@ -1,6 +1,22 @@
 [
     {
         "date": "24/04/2026",
+        "board": "UCIL",
+        "title": "Graduate Operational Trainee (CR&D)",
+        "qualification": "B.Sc. (Chemistry) - 3 years course OR B.Sc. (Chemistry Honours) with Physics and Mathematics as subsidiary subjects.",
+        "last_date": "23-05-2026",
+        "total_posts": "4",
+        "salary": "Rs. 29,990/- - Rs. 46,720/- Per Month",
+        "age_limit": "Maximum Age Limit: 30 years. || Age Relaxation: ST: 5 years; PwBD (UR/EWS): 10 years; PwBD (ST): 15 years; J&K domicile (01.01.1980-31.12.1989): 5 years (additional for reserved categories).",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Written Test / Trade Test / Personal Interview || Document verification || Medical fitness & character/antecedent verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.uraniumcorp.in",
+        "official_notification": "https://ucil.gov.in/jobportal/login/upload/advt_doc/advt_doc_10-2026_15-04-2026-12-31-50.pdf"
+    },
+    {
+        "date": "24/04/2026",
         "board": "IIT ISM Dhanbad",
         "title": "Senior Technical Executive (AR/VR)",
         "qualification": "First Class BE/B.Tech ME/M.Tech",
