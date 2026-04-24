@@ -1,6 +1,22 @@
 [
     {
         "date": "24/04/2026",
+        "board": "NIT Rourkela",
+        "title": "Junior Research Fellow",
+        "qualification": "B.Sc, M.Sc",
+        "last_date": "20-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- per month + HRA @ NA % (if applicable)",
+        "age_limit": "Maximum Age Limit: 28 years || Age Relaxation: Up to 5 years for SC/ST/PWD/Female applicants, 3 years for OBC (Non-creamy layer)",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on merit and project needs || Online Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitrkl.ac.in",
+        "official_notification": "https://www.nitrkl.ac.in/docs/Career/ProjectFelow/2026/21042026120721116.pdf"
+    },
+    {
+        "date": "24/04/2026",
         "board": "IFFCO",
         "title": "Officer / Senior Officer -IT",
         "qualification": "Bachelor's Degree in Engineering in the discipline of IT/Computer Science/ Bachelor in Artificial Intelligence",

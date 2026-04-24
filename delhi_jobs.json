@@ -1,6 +1,54 @@
 [
     {
         "date": "24/04/2026",
+        "board": "IFFCO",
+        "title": "Graduate Engineer Trainee (GET)",
+        "qualification": "Minimum (Mandatory): Bachelor’s Degree in Engineering from a University/Institute recognized by UGC/AICTE in any of the following disciplines: Chemical, Mechanical, Electrical, Instrumentation & Electronics, Civil, IT, Computer Science, Bachelor in Artificial Intelligence. Marks Criteria: General/OBC candidates must have minimum aggregate 60% marks, and SC/ST candidates must have minimum 55% marks.",
+        "last_date": "30-04-2026",
+        "total_posts": "Disciplines",
+        "salary": "Not Available",
+        "age_limit": "Age Limit",
+        "application_fee": "Not specified in the advertisement (refer official portal)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iffco.in/",
+        "official_notification": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2026-04/Advertisement-GET-final.pdf?VersionId=mv_BXGKKWjBRY.m1EsfHBuLao8sdbHJf"
+    },
+    {
+        "date": "24/04/2026",
+        "board": "IFFCO",
+        "title": "Management Trainee (HR)",
+        "qualification": "Minimum (Mandatory): Five-year integrated MBA OR Two years full time MBA OR PGDM in Human Resource / Personnel Management from a premier University/Institute recognized by UGC / AICTE.",
+        "last_date": "29-04-2026",
+        "total_posts": "Location",
+        "salary": "Not Available",
+        "age_limit": "Age Limit",
+        "application_fee": "Not specified in the advertisement (refer online portal)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iffco.in/",
+        "official_notification": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2026-04/Advertisement-new-2_0.pdf?VersionId=9rE0bkPzP6IhQbIwdUkDzRzPrZQGtCKm"
+    },
+    {
+        "date": "24/04/2026",
+        "board": "NeGD",
+        "title": "Junior Web Developer",
+        "qualification": "B.E / B.Tech. / MCA",
+        "last_date": "26-04-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.negd.gov.in",
+        "official_notification": "https://dicmedia.digitalindiacorporation.in/Vacany-Advertisement-UMANG-20.04.2026.pdf"
+    },
+    {
+        "date": "24/04/2026",
         "board": "SSC",
         "title": "Junior Hindi Translator (JHT), Junior Translation Officer (JTO), Junior Translator (JT), Senior Hindi Translator (SHT), Senior Translation Officer (STO)",
         "qualification": "Master's degree of a recognized University in Hindi with English as compulsory/elective subject at degree level; OR Master's degree in English with Hindi as compulsory/elective at degree level; OR Master's degree in any other subject with Hindi/English as medium or compulsory subject at degree level.\r\t\t\tAND\r\t\t\tRecognized Diploma/Certificate in translation from Hindi to English & vice versa OR 2 years' experience of translation work from Hindi to English and vice versa in Central/State Government Office including PSUs.",
@@ -1277,7 +1325,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "upsssc-forest-guard-recruitment-2026-apply-online-for-708-posts-3046605"
+        "official_notification": "iffco-get-recruitment-2026-apply-online-for-graduate-engineer-trainee-posts-3046646"
     },
     {
         "date": "13/04/2026",
@@ -1629,7 +1677,7 @@
         "apply_mode": "Offline",
         "syllabus": "Not Available",
         "official_website": "https://www.dsc.du.ac.in/",
-        "official_notification": "upsssc-forest-guard-recruitment-2026-apply-online-for-708-posts-3046605"
+        "official_notification": "iffco-get-recruitment-2026-apply-online-for-graduate-engineer-trainee-posts-3046646"
     },
     {
         "date": "06/04/2026",
