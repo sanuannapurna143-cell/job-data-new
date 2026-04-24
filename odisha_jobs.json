@@ -1,5 +1,37 @@
 [
     {
+        "date": "24/04/2026",
+        "board": "IFFCO",
+        "title": "Officer / Senior Officer -IT",
+        "qualification": "Bachelor's Degree in Engineering in the discipline of IT/Computer Science/ Bachelor in Artificial Intelligence",
+        "last_date": "28-04-2026",
+        "total_posts": "7",
+        "salary": "As per IFFCO pay Structure",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 27 years || Age Relaxation: 5 years for SCs/STs & 3 years for OBCs.",
+        "application_fee": "Not Available",
+        "selection_process": "Computer based Online Test or as decided by IFFCO || Personal Interview (for short-listed candidates) || Medical Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iffco.in/",
+        "official_notification": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2026-04/Advertisement-Officer-IT.pdf?VersionId=uZjjGIlAYMyBqZ12X5eyOlYWbK5Bmo1Y"
+    },
+    {
+        "date": "24/04/2026",
+        "board": "WCD Odisha",
+        "title": "Anganwadi Helper",
+        "qualification": "12th Pass",
+        "last_date": "04-05-2026",
+        "total_posts": "10",
+        "salary": "Not Available",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://engagement-awc.odisha.gov.in",
+        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=158904"
+    },
+    {
         "date": "22/04/2026",
         "board": "AIIMS Bhubaneswar",
         "title": "Laboratory Technician, Data Entry Operator, Field Worker",
@@ -320,22 +352,6 @@
         "official_notification": "https://ssbodisha.ac.in/wp-content/uploads/2026/04/Advt-02-2026-16.04.2026.pdf"
     },
     {
-        "date": "17/04/2026",
-        "board": "WCD Odisha",
-        "title": "Anganwadi Helper",
-        "qualification": "12th Pass",
-        "last_date": "23-04-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Minimum Age: 21 years || Maximum Age: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://engagement-awc.odisha.gov.in",
-        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=158096"
-    },
-    {
         "date": "16/04/2026",
         "board": "MCL",
         "title": "Asst. Foreman (Electrical) (Trainee), T&S Gr-C (E&M) | Technician (Electrician) (Trainee), Cat-III (E&M)",
@@ -398,22 +414,6 @@
         "syllabus": "Not Available",
         "official_website": "http://engagement-awc.odisha.gov.in",
         "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=158598"
-    },
-    {
-        "date": "15/04/2026",
-        "board": "AIIMS Bhubaneswar",
-        "title": "Research Associate-I",
-        "qualification": "PhD/MD/MS/MDS or equivalent degree or 3 years of research, teaching, design and development experience after MVSc/M.Pharm/ME/M.Tech with at least one research paper in Science Citation Indexed (SCI) or PubMed Indexed journal.",
-        "last_date": "23-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 58000/- to Rs. 80,400/- per month (consolidated) with HRA",
-        "age_limit": "Max 35 years",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://aiimsbhubaneswar.nic.in",
-        "official_notification": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/04/Advertisement-for-CCRH-Project-Research-Associate-Position.pdf"
     },
     {
         "date": "15/04/2026",
@@ -494,22 +494,6 @@
         "syllabus": "Not Available",
         "official_website": "http://engagement-awc.odisha.gov.in",
         "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=158097"
-    },
-    {
-        "date": "13/04/2026",
-        "board": "Government Women's College Balangir",
-        "title": "Project Assistant",
-        "qualification": "M.A, MCA",
-        "last_date": "23-04-2026",
-        "total_posts": "1",
-        "salary": "Project Assistant:Rs. 12,000/- Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on merit || Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.gwcbalangir.in",
-        "official_notification": "https://balangir.odisha.gov.in/sites/default/files/2026-04/1331.pdf"
     },
     {
         "date": "13/04/2026",
@@ -622,22 +606,6 @@
         "syllabus": "Not Available",
         "official_website": "https://centralbank.bank.in",
         "official_notification": "https://centralbank.bank.in/sites/default/files/NOTIFICATION%20OF%20RECRUITMENT%20PROCESS%20FOR%20SELECTION%20OF%20OFFICERS%20IN%20SPECIALIST%20CATEGORY%20IN%20RISK%20MANAGEMENT%20STREAMS.%20.pdf"
-    },
-    {
-        "date": "09/04/2026",
-        "board": "Odisha State Cooperative Union",
-        "title": "Total",
-        "qualification": "M.A",
-        "last_date": "23-04-2026",
-        "total_posts": "01",
-        "salary": "Not Available",
-        "age_limit": "Odisha State Cooperative Union Recruitment 2026 Age Limit  Minimum Age Limit: 25 Years Maximum Age limit: 42 Years Age relaxation is applicable as per rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Candidates will have to appear in both Written Test and Viva-Voce Test . Final selection will be made on the basis of aggregate marks of Written Test + Viva-Voce Test + Carrier Marks. || Written Test (100 Marks) || (i) Essay in Odia – 10 Marks || (ii) Translation from English to Odia – 10 Marks || (iii) Paragraph writing in Odia – 10 Marks || (iv) News writing in Odia – 20 Marks || (v) General Knowledge – 20 Marks || (vi) Journalism & Mass Communication – 30 Marks || Viva-Voce Test Candidates who qualify in the Written Test will be called for Viva-Voce which carries 15 Marks . || Carrier Marks (Academic Performance)",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://oscunion.com",
-        "official_notification": "https://oscunion.com/public/uploads/DocScanner08-Apr-20265-59pm_1775651542_5a946ac3.pdf"
     },
     {
         "date": "09/04/2026",
@@ -766,22 +734,6 @@
         "syllabus": "Not Available",
         "official_website": "https://keonjhar.dcourts.gov.in",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec03c46482dd5d39742f0bfd417b492d/uploads/2026/03/2026033189.pdf"
-    },
-    {
-        "date": "04/04/2026",
-        "board": "District Court Koraput",
-        "title": "Counsellor",
-        "qualification": "M.A, M.Sc",
-        "last_date": "23-04-2026",
-        "total_posts": "1",
-        "salary": "Assisting fee per day of actual work as per Rule-33 of Family Courts (Orissa) Rules, 1990. || Retainer fee per month at the rate fixed by the State Government in consultation with the Hon'ble High Court of Orissa.",
-        "age_limit": "One of the eligibility criteria requires candidates to be above 35 years of age. || Age relaxation details are not specified in the provided data.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://koraput.dcourts.gov.in/notice-category/recruitments/",
-        "official_notification": "https://koraput.odisha.gov.in/sites/default/files/2026-04/3411.pdf"
     },
     {
         "date": "04/04/2026",

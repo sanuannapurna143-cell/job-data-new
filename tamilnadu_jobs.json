@@ -1,5 +1,37 @@
 [
     {
+        "date": "24/04/2026",
+        "board": "Anna University",
+        "title": "Project Assistant",
+        "qualification": "First-class UG/PG in Chemical Engineering.",
+        "last_date": "01-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.annauniv.edu",
+        "official_notification": "https://www.annauniv.edu/pdf/PA%20Adv%20appn%20CMRG250194.pdf"
+    },
+    {
+        "date": "24/04/2026",
+        "board": "IIT Madras",
+        "title": "Project Associate",
+        "qualification": "B.Sc, M.Sc",
+        "last_date": "05-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 23,000 - Rs. 28,000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://icsrstaff.iitm.ac.in/",
+        "official_notification": "https://icsrstaff.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1776768371.pdf"
+    },
+    {
         "date": "22/04/2026",
         "board": "BHEL",
         "title": "Lead Consultant",

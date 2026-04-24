@@ -1,5 +1,21 @@
 [
     {
+        "date": "24/04/2026",
+        "board": "IIT Bhilai",
+        "title": "Junior Research Fellow, Project Associate",
+        "qualification": "M.Sc",
+        "last_date": "01-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000 - Rs. 42,000 Per Month",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitbhilai.ac.in",
+        "official_notification": "https://www.iitbhilai.ac.in/index.php?pid=adv_april26_21"
+    },
+    {
         "date": "21/04/2026",
         "board": "ITI Bilaspur",
         "title": "Guest Lecturer",
@@ -78,22 +94,6 @@
         "syllabus": "Not Available",
         "official_website": "https://raipur.gov.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s30584ce565c824b7b7f50282d9a19945b/uploads/2026/04/17767047435021.pdf"
-    },
-    {
-        "date": "21/04/2026",
-        "board": "IIT Bhilai",
-        "title": "Project Engineer",
-        "qualification": "ME/MTech/BTech or equivalent in CSE or related areas.",
-        "last_date": "23-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 40000 - 75000 Per Month",
-        "age_limit": "Max: 45 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitbhilai.ac.in",
-        "official_notification": "https://www.iitbhilai.ac.in/index.php?pid=adv_april26_19"
     },
     {
         "date": "21/04/2026",
@@ -254,21 +254,5 @@
         "syllabus": "Not Available",
         "official_website": "http://www.kawardha.gov.in",
         "official_notification": "https://cdn.s3waas.gov.in/s328dd2c7955ce926456240b2ff0100bde/uploads/2026/03/17740041096394.pdf"
-    },
-    {
-        "date": "27/03/2026",
-        "board": "District Panchayat Bijapur",
-        "title": "Block Project Manager, Regional Coordinator",
-        "qualification": "Graduate degree with relevant experience",
-        "last_date": "23-04-2026",
-        "total_posts": "4",
-        "salary": "Rs. 39875/- (Block Project Manager), Rs. 26490/- (Regional Coordinator)",
-        "age_limit": "Minimum Age: 21 years || Maximum Age: 35 years",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Merit list based on applications || Skill test || Final selection list based on marks from skill test",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://bijapur.gov.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s3d395771085aab05244a4fb8fd91bf4ee/uploads/2026/03/17743448476546.pdf"
     }
 ]
