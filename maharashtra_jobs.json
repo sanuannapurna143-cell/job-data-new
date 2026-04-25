@@ -1,6 +1,38 @@
 [
     {
         "date": "25/04/2026",
+        "board": "TIFR",
+        "title": "Engineer, Tradesman and More – 11 Posts",
+        "qualification": "Any Graduate, Diploma, ITI, B.Lib, 10TH, M.E/ M.Tech, M.Phil/ Ph.D",
+        "last_date": "16-05-2026",
+        "total_posts": "11",
+        "salary": "Additional Benefits : As per TIFR rules (NPS applicable for regular posts).",
+        "age_limit": "Maximum 28 years / 35 years as on 01.01.2026",
+        "application_fee": "Application fee details will be available on the official online application portal (if applicable). || Pay online as per instructions on TIFR recruitment portal.",
+        "selection_process": "Mode of Recruitmentvaries by post:Personal Interview (for Engineer (D), Jr. Engineer (B))Written Test + Trade Test (for Tradesman posts)Written Test + Skill Test (for Library Trainee & Temporary Work Assistant)Written Test + Personal Interview OR Personal Interview only (for Project Scientific Officer) || Personal Interview (for Engineer (D), Jr. Engineer (B)) || Written Test + Trade Test (for Tradesman posts) || Written Test + Skill Test (for Library Trainee & Temporary Work Assistant) || Written Test + Personal Interview OR Personal Interview only (for Project Scientific Officer) || Document Verification and Medical Examination as per Institute rules. || Final selection based on performance in test/interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tifr.res.in/",
+        "official_notification": "https://www.tifr.res.in/maincampus/viewNoticeFile.php?f=S0dEdDBSSWt3bG1UNzlvRklkVFdTQT09&s=WFdXaTkwL1ZDTGdxaHp6eHA1bkh1QT09"
+    },
+    {
+        "date": "25/04/2026",
+        "board": "AIIMS Nagpur",
+        "title": "Senior Resident",
+        "qualification": "Postgraduate Medical Degree (MD/MS/DNB) in the respective discipline from a recognized University/Institute, Valid NMC/MCI/MMC/DCI/State Medical Council registration",
+        "last_date": "08-05-2026",
+        "total_posts": "56",
+        "salary": "The selected candidates will receive a consolidated salary of Rs. 67700/- Per Month.",
+        "age_limit": "Maximum Age Limit: 45 years as on 08-05-2026. || Age Relaxation: General/EWS/OBC: 45 years; SC/ST: +5 years; OBC: +3 years; PwD: additional 5 years (General), 8 years (OBC), 10 years (SC/ST).",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Interview || Shortlisting based on qualification/experience/written test (if large number of applications)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsnagpur.edu.in/",
+        "official_notification": "https://aiimsnagpur.edu.in/writereaddata/AIIMS/files/177703136769eb58c70c9a0SR_26_02_24042026.pdf"
+    },
+    {
+        "date": "25/04/2026",
         "board": "CSIR NCL",
         "title": "Project Associates, Senior Project Associate",
         "qualification": "Master’s in Natural Sciences, Bachelor’s in Engineering/Technology, Master of Library & Information Science, Doctoral Degree",
