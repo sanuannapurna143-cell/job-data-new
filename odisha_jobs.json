@@ -1,5 +1,21 @@
 [
     {
+        "date": "25/04/2026",
+        "board": "SSC",
+        "title": "Educational Qualification",
+        "qualification": "12th Standard or equivalent from recognized Board/University. Stenography skill mandatory (tested in Skill Test).",
+        "last_date": "15-05-2026",
+        "total_posts": "731",
+        "salary": "Stenographer Grade C (post selection)",
+        "age_limit": "Crucial date: 01.08.2026 (born not before 02.08.1996 & not later than 01.08.2008 for Grade C; adjust for Grade D).",
+        "application_fee": "ForGeneral / OBC (NCL) / EWS:₹100/- || ForSC / ST / PwBD / ESM / Women:No fee (exempted) || Pay online via BHIM UPI / Net Banking / Card",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ssc.gov.in/",
+        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_steno_2026.pdf"
+    },
+    {
         "date": "24/04/2026",
         "board": "NIT Rourkela",
         "title": "Junior Research Fellow",
