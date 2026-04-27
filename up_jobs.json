@@ -1,6 +1,38 @@
 [
     {
         "date": "27/04/2026",
+        "board": "CARI",
+        "title": "Senior Research Fellow",
+        "qualification": "Any Post Graduate, B.Sc, B.Tech/ B.E, M.Pharma",
+        "last_date": "07-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 42000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.ccras.nic.in",
+        "official_notification": "https://ccras.nic.in/wp-content/uploads/2026/04/24042026-Advt-SRF-Ayush-JTM.pdf"
+    },
+    {
+        "date": "27/04/2026",
+        "board": "UP Anganwadi",
+        "title": "Anganwadi Worker (आंगनबाड़ी कार्यकत्री)",
+        "qualification": "Minimum - Intermediate or equivalent.\r\t\t\tMerit will be prepared on the basis of marks/percentage obtained in Intermediate, Graduation and Post-Graduation.",
+        "last_date": "06-05-2026",
+        "total_posts": "100",
+        "salary": "As per Government norms (Maanadey based — not regular pay scale)",
+        "age_limit": "18-35 Years (as on 01-01-2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://upanganwadibharti.in/",
+        "official_notification": "http://upanganwadibharti.in"
+    },
+    {
+        "date": "27/04/2026",
         "board": "HAL",
         "title": "Visiting Consultant (Physician)",
         "qualification": "MBBS with M.D. (General Medicine)",
@@ -414,22 +446,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iitbhu.ac.in",
         "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_jrf_cse_quad.pdf"
-    },
-    {
-        "date": "18/04/2026",
-        "board": "UP Anganwadi",
-        "title": "Anganwadi Worker (आंगनबाड़ी कार्यकत्री)",
-        "qualification": "Minimum - Intermediate or equivalent.\r\t\t\tMerit will be prepared on the basis of marks/percentage obtained in Intermediate, Graduation and Post-Graduation.",
-        "last_date": "06-05-2026",
-        "total_posts": "100",
-        "salary": "As per Government norms (Maanadey based — not regular pay scale)",
-        "age_limit": "18-35 Years (as on 01-01-2026)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://upanganwadibharti.in/",
-        "official_notification": "http://upanganwadibharti.in"
     },
     {
         "date": "17/04/2026",

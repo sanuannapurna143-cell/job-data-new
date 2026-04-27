@@ -1,6 +1,22 @@
 [
     {
         "date": "27/04/2026",
+        "board": "RailTel",
+        "title": "Medical Consultant",
+        "qualification": "MBBS / BDS",
+        "last_date": "16-05-2026",
+        "total_posts": "1",
+        "salary": "Monthly CTC ₹ 1,14,008/- (inclusive of gratuity and medical benefits)",
+        "age_limit": "Minimum Age: 27 years || Maximum Age: 50 years || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Medical examination",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.railtelindia.com",
+        "official_notification": "https://www.railtel.in/images/careers/Final%20Vacancy%20Notice%20for%20BHISHM%20Cube%20Project.pdf"
+    },
+    {
+        "date": "27/04/2026",
         "board": "GMRC",
         "title": "Director (Systems, Electrical & Rolling Stock)",
         "qualification": "B.Tech/B.E",
@@ -106,7 +122,7 @@
         "age_limit": "Not Available",
         "application_fee": "Application Fee: NIL - No application fee is required for any category of candidates.",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://clw.indianrailways.gov.in/",
         "official_notification": "https://clw.indianrailways.gov.in/"
@@ -202,7 +218,7 @@
         "age_limit": "IRCTC Recruitment 2026 Age Limit (as on 01-04-2026)  Upper Age Limit: 27 Years Age relaxation is admissible as per rules",
         "application_fee": "Not Available",
         "selection_process": "Selection will be made through Walk-in-Interview only. || Candidates must fill the prescribedApplication Form(attached with the advertisement) completely. || Submit the filled Application Form at the venue of the interview along with:Original documents + one set of self-attested photocopies of all required certificates.Three recent passport size photographs. || Original documents + one set of self-attested photocopies of all required certificates. || Three recent passport size photographs. || Interview will be conducted on the spot. || Candidates will be shortlisted on the basis of credentials, educational qualification, experience (if any) and performance in thepersonal interview. || Offer of engagement will be issued to the suitable candidates in the order of merit and as per the number of vacancies. || In addition to the main panel, areserved panelwill also be prepared which will be used in case of any shortfall. || Engagement is subject to being foundmedically fitas per IRCTC norms.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.irctc.com/",
         "official_notification": "https://www.irctc.com/assets/images2/Notification6apr2026.pdf"
