@@ -1,6 +1,38 @@
 [
     {
         "date": "27/04/2026",
+        "board": "SGPGIMS",
+        "title": "Specialist Medical Officer Grade II",
+        "qualification": "Any Post Graduate, MBBS, Diploma, PG Diploma",
+        "last_date": "15-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 67700 - 208700 Per Month",
+        "age_limit": "Min: 18 years, Max: 50 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.sgpgims.org.in",
+        "official_notification": "https://sgpgims.org.in/Home/adm/recruit_Med.Sp_250426.pdf"
+    },
+    {
+        "date": "27/04/2026",
+        "board": "RGNAU",
+        "title": "Visiting Medical Consultant and Visiting Physiotherapist",
+        "qualification": "BPT, DNB, MS/ MD",
+        "last_date": "07-06-2026",
+        "total_posts": "3",
+        "salary": "Rs. 12,000/- per visit (Medical Consultant), Rs. 2,000/- per visit (Physiotherapist)",
+        "age_limit": "Visiting Medical Consultant: Maximum age limit is 60 years. || Visiting Physiotherapist: Maximum age limit is 50 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Application screening || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rgnau.ac.in/",
+        "official_notification": "https://rgnau.ac.in/sites/default/files/inline-files/Final%20-%20Advertisement%20for%20Medical%20Consultant%20-%2022%20April%202026.pdf"
+    },
+    {
+        "date": "27/04/2026",
         "board": "CARI",
         "title": "Senior Research Fellow",
         "qualification": "Any Post Graduate, B.Sc, B.Tech/ B.E, M.Pharma",

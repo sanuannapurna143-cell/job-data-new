@@ -1,6 +1,22 @@
 [
     {
         "date": "27/04/2026",
+        "board": "MSLSA",
+        "title": "Application Support Engineer",
+        "qualification": "BCA, MCA, BE, B.Tech, B.Sc. (IT/Computer Science)",
+        "last_date": "29-04-2026",
+        "total_posts": "2",
+        "salary": "Rs. 50,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 30 years",
+        "application_fee": "Nil",
+        "selection_process": "Document Scrutiny || Interview/Viva-Voce",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://maharashtra.nalsa.gov.in/",
+        "official_notification": "https://bombayhighcourt.nic.in/writereaddata/recruitment/PDF/recruitbom20260422183434.pdf"
+    },
+    {
+        "date": "27/04/2026",
         "board": "BEL",
         "title": "Medical Officer (E-II grade)",
         "qualification": "MBBS (Pass class, recognized by Medical Council of India), Registered with Medical Council of India or any State Medical Council, Minimum 2 years relevant post-qualification experience",

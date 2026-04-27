@@ -1,6 +1,22 @@
 [
     {
         "date": "27/04/2026",
+        "board": "IRFC",
+        "title": "Dy. Manager, Jr. Manager and More",
+        "qualification": "Graduate / PG / MBA / CA / CMA / BE / B.Tech / MCA / Hindi Literature / English Translation",
+        "last_date": "15-05-2026",
+        "total_posts": "6",
+        "salary": "Jr. Manager (Hindi):Rs. 30,000-1,20,000 (IDA) || Asst. Manager / Dy. Manager (IT):Rs. 40,000-1,40,000 / Rs. 50,000-1,60,000 (IDA) || Personal Private Secretary (PPS):Rs. 50,000-1,60,000 (IDA) || Dy. Manager (Finance):Rs. 50,000-1,60,000 (IDA) || Manager (Business Development):Rs. 60,000-1,80,000 (IDA) || Joint General Manager:Rs. 80,000-2,20,000 (IDA)",
+        "age_limit": "Maximum Age Limit (As on 01.04.2026)",
+        "application_fee": "Nil",
+        "selection_process": "Shortlisting of eligible candidates || Interview + Power Point Presentation || Assessment of last 3 years APARs",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.irfc.co.in",
+        "official_notification": "https://irfc.co.in/sites/default/files/2026-04/Advertisement%20for%202026-V2_0.pdf"
+    },
+    {
+        "date": "27/04/2026",
         "board": "RailTel",
         "title": "Medical Consultant",
         "qualification": "MBBS / BDS",
@@ -122,7 +138,7 @@
         "age_limit": "Not Available",
         "application_fee": "Application Fee: NIL - No application fee is required for any category of candidates.",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://clw.indianrailways.gov.in/",
         "official_notification": "https://clw.indianrailways.gov.in/"
@@ -218,7 +234,7 @@
         "age_limit": "IRCTC Recruitment 2026 Age Limit (as on 01-04-2026)  Upper Age Limit: 27 Years Age relaxation is admissible as per rules",
         "application_fee": "Not Available",
         "selection_process": "Selection will be made through Walk-in-Interview only. || Candidates must fill the prescribedApplication Form(attached with the advertisement) completely. || Submit the filled Application Form at the venue of the interview along with:Original documents + one set of self-attested photocopies of all required certificates.Three recent passport size photographs. || Original documents + one set of self-attested photocopies of all required certificates. || Three recent passport size photographs. || Interview will be conducted on the spot. || Candidates will be shortlisted on the basis of credentials, educational qualification, experience (if any) and performance in thepersonal interview. || Offer of engagement will be issued to the suitable candidates in the order of merit and as per the number of vacancies. || In addition to the main panel, areserved panelwill also be prepared which will be used in case of any shortfall. || Engagement is subject to being foundmedically fitas per IRCTC norms.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.irctc.com/",
         "official_notification": "https://www.irctc.com/assets/images2/Notification6apr2026.pdf"
