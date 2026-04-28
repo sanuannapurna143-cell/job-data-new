@@ -1,5 +1,21 @@
 [
     {
+        "date": "28/04/2026",
+        "board": "ANGRAU",
+        "title": "Medical Officer",
+        "qualification": "M.B.B.S.",
+        "last_date": "05-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000/- Consolidated",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://angrau.ac.in",
+        "official_notification": "https://angrau.ac.in/UPLOADS/CareersPDFs/CAEBPTMedicalOfficer.pdf"
+    },
+    {
         "date": "27/04/2026",
         "board": "ESIC",
         "title": "Assistant Engineer (Electrical) & Junior Engineer (Civil & Electrical)",
@@ -94,22 +110,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aiimsmangalagiri.edu.in",
         "official_notification": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/04/AIIMS-MG-Advt.-Tutors.-Demonstrators-on-contractual-basis-April-2026.pdf"
-    },
-    {
-        "date": "21/04/2026",
-        "board": "RARI",
-        "title": "Senior Research Fellow",
-        "qualification": "BAMS from a recognized university",
-        "last_date": "27-04-2026",
-        "total_posts": "3",
-        "salary": "Senior Research Fellow (Ay.): Rs. 42,000/- + HRA",
-        "age_limit": "Senior Research Fellow (Ay.): Maximum age is 35 years as of 01-01-2026. || Age relaxation for SC/ST/OBC candidates will be as per Govt. of India rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Written Test/ Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.ccras.nic.in",
-        "official_notification": "https://ccras.nic.in/wp-content/uploads/2026/04/21042026-Advertisement-for-the-post-of-SRF.pdf"
     },
     {
         "date": "21/04/2026",
@@ -350,21 +350,5 @@
         "syllabus": "Not Available",
         "official_website": "https://vpt.shipping.gov.in/",
         "official_notification": "https://vpt.shipping.gov.in/admin_assets/uploads/1775005006_VPA_Vacancy_Notification_Dt_31032026__Dy_Chief_Law_Officer___Direct_Recruiment.pdf"
-    },
-    {
-        "date": "28/03/2026",
-        "board": "NARL",
-        "title": "Scientist/Engineer ‘SD’, Scientist/Engineer ‘SC’, Junior Research Fellow (JRF)",
-        "qualification": "Shortlisting based on higher qualification/experience/publications (for SD/SC) or academic records (for JRF) followed by interview; written test/other criteria may be used as per notification",
-        "last_date": "27-04-2026",
-        "total_posts": "NARL Vacancy 2026",
-        "salary": "Scientist/Engineer ‘SD’:Level‑11, basic pay Rs. 67,700/- per month (Rs. 67,700 - 2,08,700) plus admissible HRA and Transport Allowance and other benefits. || Scientist/Engineer ‘SC’:Level‑10, basic pay Rs. 56,100/- per month (Rs. 56,100 - 1,77,500) plus admissible HRA and Transport Allowance and other central government facilities. || Junior Research Fellow (JRF):Rs. 37,000/- per month for 1st & 2nd year and Rs. 42,000/- per month for subsequent years along with admissible allowances, hostel facility or HRA, medical facilities and subsidised canteen as per rules.",
-        "age_limit": "SD - 35 years; SC - 30 years; JRF - preferably 28 years as on 27 April 2026 (relaxation for SC/ST/OBC/PwBD/Ex‑servicemen as per Govt. of India rules)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.narl.gov.in/",
-        "official_notification": "https://www.narl.gov.in/PDFs/ADVT-SDSC-2026.pdf"
     }
 ]
