@@ -1,6 +1,38 @@
 [
     {
         "date": "28/04/2026",
+        "board": "ESIC Medical College & Hospital Faridabad",
+        "title": "Senior Resident (Super Speciality Departments)",
+        "qualification": "As per latest NMC guidelines, Preferably DM/MCh/DrNB/FNB in respective super-specialty, MD/MS/DNB in parent broad specialty if super-specialty candidates unavailable",
+        "last_date": "04-05-2026",
+        "total_posts": "39",
+        "salary": "Rs. ₹1,48,669/- Per Month",
+        "age_limit": "Maximum Age Limit: 45 years || Age relaxation rules are not specified in the provided data.",
+        "application_fee": "₹500/-",
+        "selection_process": "Document verification || Personal interview by selection board",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://esic.gov.in/",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_Interview_on_04_05_2026_for_Recruitment_of_Senior_Resident_Super_Speciality_Departments_on_Contract_basis_at_ESIC_MCH_Faridabad_1777286094.pdf"
+    },
+    {
+        "date": "28/04/2026",
+        "board": "THSTI",
+        "title": "Project Associates",
+        "qualification": "Master's degree in any branch of Life Sciences, M.Tech./M.Pharm., Ph.D. in any branch of Life Sciences",
+        "last_date": "12-05-2026",
+        "total_posts": "5",
+        "salary": "Project Associate-II:Rs. 35,000/- +HRA (NET/GATE qualified) / Rs. 28,000/- + HRA (others) Per Month || Senior Project Associate:Rs. 42,000/- + HRA Per Month || Principal Project Associate:Rs. 49,000/- + HRA Per Month",
+        "age_limit": "Project Associate-II:35 years || Senior Project Associate:40 years || Principal Project Associate:40 years || Age relaxation is applicable as per government rules: SC/ST: 5 years, OBC: 3 years, PwBD (UR:10 years, OBC:13 years, SC/ST:15 years), Central Government servants: 5 years, Ex-servicemen: extent of service + 3 years, Institute employees: extent of service.",
+        "application_fee": "Nil",
+        "selection_process": "Written Test || Skill Test || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://thsti.res.in/",
+        "official_notification": "https://recruitment.thsti.in/public/upload/job_pdf/177726592072web-advt-RN-01-04-I-%28walk-in%29.pdf"
+    },
+    {
+        "date": "28/04/2026",
         "board": "RITES",
         "title": "Assistant (HR)",
         "qualification": "Minimum Qualification",

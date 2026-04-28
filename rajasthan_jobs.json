@@ -1,5 +1,37 @@
 [
     {
+        "date": "28/04/2026",
+        "board": "MECON",
+        "title": "Engineer, Asst Engineer and More – 103 Posts",
+        "qualification": "Min. 10 years in project planning & scheduling using Primavera/MS Project, with exposure to EPC/PMC projects, progress monitoring, MIS reporting and multidisciplinary coordination. Delay analysis and claims experience is an added advantage.",
+        "last_date": "11-05-2026",
+        "total_posts": "103",
+        "salary": "Engineering Degree in Electrical Engineering / Electronics & Communication / Instrumentation",
+        "age_limit": "Upper Age Limit as per post (50 years for all posts in this recruitment)",
+        "application_fee": "₹500 (Non-Refundable)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.meconlimited.co.in/",
+        "official_notification": "https://recruitment.meconlimited.co.in/AdvertisementFile/a65810e2-5e3f-43bf-8045-15ebcd50b55f.pdf"
+    },
+    {
+        "date": "28/04/2026",
+        "board": "ECHS Jodhpur",
+        "title": "Medical Staff",
+        "qualification": "MD/MS in Specialty concerned / DNB for Medical Specialist, MBBS for Medical Officer",
+        "last_date": "09-05-2026",
+        "total_posts": "3",
+        "salary": "Rs. 1,30,000/- for Medical Specialist, Rs. 95,000/- for Medical Officer",
+        "age_limit": "Medical Specialist: Maximum age 70 years || Medical Officer: Maximum age 68 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Computer test || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.echs.gov.in/",
+        "official_notification": "https://www.echs.gov.in/assets/advertisement/Advt%20amended%20%20%281%29_removed.pdf"
+    },
+    {
         "date": "27/04/2026",
         "board": "ICMR NIIRNCD",
         "title": "Project Research Scientist-II (Medical)",
@@ -30,22 +62,6 @@
         "syllabus": "Not Available",
         "official_website": "http://niirncd.icmr.org.in",
         "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1777264583_oral0505.pdf"
-    },
-    {
-        "date": "27/04/2026",
-        "board": "MECON",
-        "title": "Engineer, Asst Engineer and More – 103 Posts",
-        "qualification": "Min. 10 years in project planning & scheduling using Primavera/MS Project, with exposure to EPC/PMC projects, progress monitoring, MIS reporting and multidisciplinary coordination. Delay analysis and claims experience is an added advantage.",
-        "last_date": "11-05-2026",
-        "total_posts": "103",
-        "salary": "Engineering Degree in Electrical Engineering / Electronics & Communication / Instrumentation",
-        "age_limit": "Upper Age Limit as per post (50 years for all posts in this recruitment)",
-        "application_fee": "₹500 (Non-Refundable)",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.meconlimited.co.in/",
-        "official_notification": "https://recruitment.meconlimited.co.in/AdvertisementFile/a65810e2-5e3f-43bf-8045-15ebcd50b55f.pdf"
     },
     {
         "date": "24/04/2026",
@@ -157,7 +173,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.curaj.ac.in/",
-        "official_notification": "rites-assistant-recruitment-2026-apply-online-for-15-posts-3042232"
+        "official_notification": "Not Available"
     },
     {
         "date": "17/04/2026",

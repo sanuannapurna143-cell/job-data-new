@@ -1,6 +1,54 @@
 [
     {
         "date": "28/04/2026",
+        "board": "EIL",
+        "title": "Deputy Manager (Inspection) – Mechanical & Electrical",
+        "qualification": "Minimum Educational Qualification",
+        "last_date": "12-05-2026",
+        "total_posts": "10",
+        "salary": "Rs. 70,000 – 2,00,000/- (IDA)",
+        "age_limit": "Upper Age Limit: 32 years as on 31.03.2026. Age relaxation is applicable as per Government of India guidelines: || SC/ST: 5 years || OBC (NCL): 3 years || PwD: 10 years (General/EWS), 13 years (OBC-NCL), 15 years (SC/ST) || Ex-Servicemen and Departmental candidates: As per rules",
+        "application_fee": "Not Available",
+        "selection_process": "The mode of selection for the positions of Deputy Manager will be through Interview at New Delhi/Gurugram or through video conferencing. || Only shortlisted candidates will be informed through email. Mere fulfilling the minimum qualification and experience does not entitle a candidate to be called for interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.engineersindia.com",
+        "official_notification": "https://recruitment.eil.co.in/hrdnew/others/Final%20Detailed%20advertisement%20-2026-27-03.pdf"
+    },
+    {
+        "date": "28/04/2026",
+        "board": "SVC Delhi",
+        "title": "Senior Research Fellow (SRF)",
+        "qualification": "M.Sc",
+        "last_date": "30-04-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.svc.ac.in/",
+        "official_notification": "https://www.du.ac.in/uploads/new-web/27042026-venky-Advertisement%20for%20SERB%20Project%20.PDF"
+    },
+    {
+        "date": "28/04/2026",
+        "board": "ALIMCO",
+        "title": "IT Consultant, Lead AI Expert, UI/UX Developer, AI Accessibility Consultant, Young Professional (AI), IT Assistant, Assistant Manager (Plastic), Junior Manager (Production-Textiles), Junior Manager (Civil), Officer (Civil), Safety Officer, Quality Controller, P&O Clinical, Prosthetic & Orthotic, Audiologist, Optometrist, Special Educator and others",
+        "qualification": "Bachelor/Master Degree in respective field with valid RCI registration / CRR number",
+        "last_date": "13-05-2026",
+        "total_posts": "165",
+        "salary": "₹30,000 – ₹40,000/-",
+        "age_limit": "Not Available",
+        "application_fee": "No Application Fee",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://alimco.in",
+        "official_notification": "https://alimco.in/WriteReadData/Recruitment_Document/FTC-Contractual-April-20261/NoticeApr26.pdf"
+    },
+    {
+        "date": "28/04/2026",
         "board": "AIAHL",
         "title": "In-Charge Medical Cell",
         "qualification": "MBBS",
@@ -93,7 +141,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.indianarmy.nic.in/",
-        "official_notification": "tripura-psc-ato-recruitment-2026-apply-online-for-220-assistant-technical-officer-posts-3046955"
+        "official_notification": "mecon-experienced-professionals-recruitment-2026-apply-online-for-103-engineer-asst-engineer-and-more-posts-3046848"
     },
     {
         "date": "27/04/2026",
@@ -1329,22 +1377,6 @@
     },
     {
         "date": "15/04/2026",
-        "board": "ALIMCO",
-        "title": "IT Consultant, Lead AI Expert, UI/UX Developer, AI Accessibility Consultant, Young Professional (AI), IT Assistant, Assistant Manager (Plastic), Junior Manager (Production-Textiles), Junior Manager (Civil), Officer (Civil), Safety Officer, Quality Controller, P&O Clinical, Prosthetic & Orthotic, Audiologist, Optometrist, Special Educator and others",
-        "qualification": "Bachelor/Master Degree in respective field with valid RCI registration / CRR number",
-        "last_date": "13-05-2026",
-        "total_posts": "162",
-        "salary": "₹30,000 – ₹40,000/-",
-        "age_limit": "Not Available",
-        "application_fee": "No Application Fee",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://alimco.in",
-        "official_notification": "https://alimco.in/WriteReadData/Recruitment_Document/FTC-Contractual-April-20261/NoticeApr26.pdf"
-    },
-    {
-        "date": "15/04/2026",
         "board": "HPCL",
         "title": "Director (Marketing)",
         "qualification": "Engineering Graduate OR Graduate with MBA/PGDM",
@@ -1405,7 +1437,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "mecon-experienced-professionals-recruitment-2026-apply-online-for-103-engineer-asst-engineer-and-more-posts-3046848"
     },
     {
         "date": "13/04/2026",
