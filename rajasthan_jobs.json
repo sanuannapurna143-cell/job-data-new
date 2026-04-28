@@ -1,6 +1,38 @@
 [
     {
         "date": "28/04/2026",
+        "board": "FDDI",
+        "title": "Junior Faculty",
+        "qualification": "Master's Degree or PG Diploma in relevant fields with minimum 55% marks. Bachelor's Degree or Diploma in specific design fields also considered for some posts. Experience in academics or industry is required.",
+        "last_date": "07-05-2026",
+        "total_posts": "4",
+        "salary": "Fixed remuneration of Rs. 50,000/- per month. || Pro-rata payment for part of the month based on a 30-day month.",
+        "age_limit": "General: 35 years || OBC: 38 Years || SC/ST: 40 Years || PWD: 45 Years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Test/ Interview",
+        "apply_mode": "Online/Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://fddiindia.com",
+        "official_notification": "https://fddiindia.com/uploads/career/Vacancy_Notice_Jod_23-04-2026.pdf"
+    },
+    {
+        "date": "28/04/2026",
+        "board": "BITS Pilani",
+        "title": "Research Assistant",
+        "qualification": "Postgraduate in social science disciplines (Economics/Development Studies/Law/Sociology/Management/Related field) with minimum 55% marks. Relevant research experience preferred.",
+        "last_date": "09-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30,000 to 35,000 per month",
+        "age_limit": "No Age bar",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bits-pilani.ac.in/",
+        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/Adv_Research_Assistant_Balakrushna-Padhi_BIS-27.4.2026.pdf"
+    },
+    {
+        "date": "28/04/2026",
         "board": "MECON",
         "title": "Engineer, Asst Engineer and More – 103 Posts",
         "qualification": "Min. 10 years in project planning & scheduling using Primavera/MS Project, with exposure to EPC/PMC projects, progress monitoring, MIS reporting and multidisciplinary coordination. Delay analysis and claims experience is an added advantage.",
@@ -173,7 +205,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.curaj.ac.in/",
-        "official_notification": "Not Available"
+        "official_notification": "union-bank-of-india-apprentice-recruitment-2026-apply-online-for-1865-posts-3047111"
     },
     {
         "date": "17/04/2026",
