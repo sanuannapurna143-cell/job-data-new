@@ -1,6 +1,22 @@
 [
     {
         "date": "29/04/2026",
+        "board": "DLSA Sheopur",
+        "title": "Vehicle Driver",
+        "qualification": "10th Pass, Valid Driving License, Driving Experience, Mechanic Qualification (Preference)",
+        "last_date": "15-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 12,000/- Per Month",
+        "age_limit": "Minimum Age: 18 years || Age Relaxation: Not Specified",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://mphc.gov.in",
+        "official_notification": "https://mphc.gov.in/PDF/web_pdf/RE/Recruitment%20of%20Driver%20on%20contract%20basis%20in%20District%20Legal%20Services%20Authority%20Sheopur.pdf"
+    },
+    {
+        "date": "29/04/2026",
         "board": "DLSA Panna",
         "title": "Contract Driver (Vehicle Driver)",
         "qualification": "10th Pass, Valid Driving License, Experience in driving all types of vehicles",

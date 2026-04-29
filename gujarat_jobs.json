@@ -1,6 +1,54 @@
 [
     {
         "date": "29/04/2026",
+        "board": "IIT Gandhinagar",
+        "title": "Project Associate-I",
+        "qualification": "B.Tech/B.E. in Chemical/Materials/Bio/Mechanical Engineering or related fields, or M.Sc. in Physics/Chemistry/Biology or related fields.",
+        "last_date": "12-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 45,000 Per Month",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitgn.ac.in/",
+        "official_notification": "https://drive.google.com/file/d/1XxyH6Ht1QKH0q_08jI4etPSbLV_NzIyo/view"
+    },
+    {
+        "date": "29/04/2026",
+        "board": "CSIR CSMCRI",
+        "title": "Project Assistant-II",
+        "qualification": "B.Sc",
+        "last_date": "15-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20000/- + HRA Per Month",
+        "age_limit": "Maximum Age Limit: 35 years || Relaxation in age as per CSIR norms",
+        "application_fee": "Not Available",
+        "selection_process": "Application scrutiny and shortlisting || In-person Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.csmcri.res.in",
+        "official_notification": "https://www.csmcri.res.in/node/10760"
+    },
+    {
+        "date": "29/04/2026",
+        "board": "RNSB",
+        "title": "Jr Executive",
+        "qualification": "Any Graduate, Any Post Graduate",
+        "last_date": "02-05-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age limit:30 Years || Age relaxation is applicable as per rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://https://rnsb.bank.in/",
+        "official_notification": "https://jobs.rnsb.bank.in/CurrentOpening.aspx"
+    },
+    {
+        "date": "29/04/2026",
         "board": "GMRC",
         "title": "JGM, DGM, Assistant Manager",
         "qualification": "B.Tech/B.E, M.Tech/M.E",
@@ -77,7 +125,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "up-anganwadi-worker-recruitment-2026-notification-out-apply-online-for-198-posts-in-lucknow-district-3047163"
+        "official_notification": "Not Available"
     },
     {
         "date": "28/04/2026",
