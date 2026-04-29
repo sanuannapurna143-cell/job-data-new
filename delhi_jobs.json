@@ -1,5 +1,37 @@
 [
     {
+        "date": "29/04/2026",
+        "board": "DSACS",
+        "title": "Staff Nurse, Lab Technician and More Positions",
+        "qualification": "Any Bachelors Degree, Any Graduate, Any Masters Degree, B.Sc, B.Tech/ B.E, BMLT, Diploma, DMLT, M.Phil/ Ph.D",
+        "last_date": "23-05-2026",
+        "total_posts": "31",
+        "salary": "Deputy Director, TI/Prevention: Rs. 50,680.00 PM || Dy. Director, ICTC/BSD: Rs. 50,680.00 PM || Dy. Director, Lab. Serv.: Rs. 50,680.00 PM || Assistant Director, ICTC/BSD: Rs. 35,000.00 PM || Assistant Director, TI/Prevention: Rs. 35,000.00 PM || Assistant Director, SI: Rs. 35,000.00 PM || Assistant Director, IEC: Rs. 35,000.00 PM || Assistant Director, Doc.: Rs. 35,000.00 PM || Assistant Director YA: Rs. 35,000.00 PM || Laboratory Technician: Rs. 21,000.00 PM || Counsellor: Rs. 21,000.00 PM || Lab Technician: Rs. 21,000.00 PM || Technical Officer: Rs. 35,000.00 PM || Laboratory Technician: Rs. 21,000.00 PM || Clinical Services Officer: Rs. 46,800.00 PM || Data Monitoring and Documentation Officer: Rs. 37,500.00 PM || Cluster Prevention Officer: Rs. 45,000.00 PM || Medical Officer: Rs. 72,000.00 PM || Staff Nurse: Rs. 21,000.00 PM",
+        "age_limit": "Deputy Director, TI/Prevention: Maximum age 62 years. || Dy. Director, ICTC/BSD: Maximum age 62 years. || Dy. Director, Lab. Serv.: Maximum age 62 years. || Assistant Director, ICTC/BSD: Maximum age 62 years. || Assistant Director, TI/Prevention: Maximum age 62 years. || Assistant Director, SI: Maximum age 62 years. || Assistant Director, IEC: Maximum age 62 years. || Assistant Director, Doc.: Maximum age 62 years. || Assistant Director YA: Maximum age 25 years. || Laboratory Technician: Maximum age 62 years. || Counsellor: Maximum age 62 years. || Lab Technician: Maximum age 62 years. || Technical Officer: Maximum age 62 years. || Laboratory Technician: Maximum age 62 years. || Clinical Services Officer: Maximum age 45 years. || Data Monitoring and Documentation Officer: Maximum age 45 years. || Cluster Prevention Officer: Maximum age 45 years. || Medical Officer: Maximum age 65 years. || Staff Nurse: Maximum age 62 years.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Written test & interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://dsacs.delhi.gov.in",
+        "official_notification": "https://dsacs.delhi.gov.in/sites/default/files/dsacs/universal/vacancy_notice_contractual_hq_26-27.pdf"
+    },
+    {
+        "date": "29/04/2026",
+        "board": "AIIMS Delhi",
+        "title": "Data Entry Operator",
+        "qualification": "Intermediate or 12th pass from recognized board, Any computer course/diploma from a recognized institute",
+        "last_date": "09-05-2026",
+        "total_posts": "1",
+        "salary": "Rs.29,200/- Per Month",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/pulmed1-27-4-26.pdf"
+    },
+    {
         "date": "28/04/2026",
         "board": "Union Bank of India",
         "title": "Apprentice (Engagement under Apprentices Act, 1961)",
@@ -237,7 +269,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.indianarmy.nic.in/",
-        "official_notification": "union-bank-of-india-apprentice-recruitment-2026-apply-online-for-1865-posts-3047111"
+        "official_notification": "Not Available"
     },
     {
         "date": "27/04/2026",
@@ -286,38 +318,6 @@
         "syllabus": "Not Available",
         "official_website": "https://vmmc-sjh.mohfw.gov.in/",
         "official_notification": "https://vmmc-sjh.mohfw.gov.in/sites/default/files/Notice%20dated%2024.04.2026%20-%20Advertisement%20for%20the%20post%20of%20Medical%20Officer%20on%20Contract%20basis%20for%20Addiction%20Treatment%20Facility%2C%20Department%20of%20Psychiatry.pdf"
-    },
-    {
-        "date": "27/04/2026",
-        "board": "AIIMS Delhi",
-        "title": "Laboratory Technician",
-        "qualification": "12th in Science + Diploma (MLT/DMLT/Engineering or equivalent) + 5 years experience in relevant subject/field, Three year Graduate degree in relevant subject/field + 2 years experience",
-        "last_date": "28-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 26,000/- Per Month",
-        "age_limit": "Maximum Age Limit: 30 years || Age Relaxation: SC/ST up to 5 years, OBC up to 3 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiims.edu/",
-        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/gyne-25-4-26.pdf"
-    },
-    {
-        "date": "27/04/2026",
-        "board": "GTBH",
-        "title": "Junior Resident (MBBS)",
-        "qualification": "MBBS Degree from a recognized University/Institute approved by NMC.",
-        "last_date": "28-04-2026",
-        "total_posts": "13",
-        "salary": "Rs.56,100+NPA+other allowances in Pay Level-10 (Index-1) as admissible under the rules of 7th CPC.",
-        "age_limit": "UR: 30 Years || SC/ST: 35 Years || OBC: 33 Years || PH: 40 Years || EWS: 30 Years || General Relaxation: Upper age limit for eligibility will be 40 years in place of existing 30 years of age (if applied under relaxed category).",
-        "application_fee": "Rs.500/- in the form of Bank Draft (in original) drawn in favour of \"PAO-VIII GNCT of Delhi\" Payable at New Delhi",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://health.delhigovt.nic.in",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wgtb_22.pdf"
     },
     {
         "date": "27/04/2026",
@@ -545,22 +545,6 @@
     },
     {
         "date": "24/04/2026",
-        "board": "IFFCO",
-        "title": "Officer / Senior Officer -IT",
-        "qualification": "Bachelor's Degree in Engineering in the discipline of IT/Computer Science/ Bachelor in Artificial Intelligence",
-        "last_date": "28-04-2026",
-        "total_posts": "7",
-        "salary": "As per IFFCO pay Structure",
-        "age_limit": "Minimum Age: 21 years || Maximum Age: 27 years || Age Relaxation: 5 years for SCs/STs & 3 years for OBCs.",
-        "application_fee": "Not Available",
-        "selection_process": "Computer based Online Test or as decided by IFFCO || Personal Interview (for short-listed candidates) || Medical Examination",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iffco.in/",
-        "official_notification": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2026-04/Advertisement-Officer-IT.pdf?VersionId=uZjjGIlAYMyBqZ12X5eyOlYWbK5Bmo1Y"
-    },
-    {
-        "date": "24/04/2026",
         "board": "NTPC",
         "title": "Assistant Executive (Operation) - Fixed Term Basis",
         "qualification": "B.E. / B.Tech Degree in Mechanical / Electrical Engineering with at least 40% marks from a recognised University/Institution (SC/ST/PwBD - only pass marks required)",
@@ -734,22 +718,6 @@
         "syllabus": "Not Available",
         "official_website": "https://cercind.gov.in",
         "official_notification": "https://www.cercind.gov.in/2026/vacancy/21042026.pdf"
-    },
-    {
-        "date": "22/04/2026",
-        "board": "CNBC",
-        "title": "Project Technician, Project Technical Support",
-        "qualification": "10th + Diploma (MLT/DMLT/ITI) Graduate",
-        "last_date": "28-04-2026",
-        "total_posts": "2",
-        "salary": "Project Technician -I:Rs. 18000/- + HRA, as admissible per month. || Project Technical Support III:Rs. 28,000 + HRA per month as per ICMR guidelines.",
-        "age_limit": "Project Technician -I:Not exceeding 28 years. Age relaxation will be given to exceptional candidates. || Project Technical Support III:35 years. Age relaxation will be given to exceptional candidates.",
-        "application_fee": "Not Available",
-        "selection_process": "Physical Written Test || Physical Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://cnbc.delhi.gov.in/en",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wcnbc_27.pdf"
     },
     {
         "date": "22/04/2026",
@@ -1533,7 +1501,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "union-bank-of-india-apprentice-recruitment-2026-apply-online-for-1865-posts-3047111"
+        "official_notification": "up-anganwadi-worker-recruitment-2026-notification-out-apply-online-for-198-posts-in-lucknow-district-3047163"
     },
     {
         "date": "13/04/2026",
@@ -1650,38 +1618,6 @@
     {
         "date": "10/04/2026",
         "board": "NHSRC",
-        "title": "Senior Consultant, Consultant",
-        "qualification": "B.Tech/ B.E, M.E/ M.Tech, MBBS, BDS, MBA/ PGDM, MPH, PGDM",
-        "last_date": "28-04-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 90,000 – 1,50,000/- per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting || Written Test (if conducted) || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://nhsrcindia.org",
-        "official_notification": "https://img2.freejobalert.com/news/2026/04/74196341-69d8ab038d71b54352084.pdf"
-    },
-    {
-        "date": "10/04/2026",
-        "board": "MEA",
-        "title": "Consultant",
-        "qualification": "Any Graduate, Any Masters Degree",
-        "last_date": "28-04-2026",
-        "total_posts": "1",
-        "salary": "Consultant: Rs. 10 lakh per annum",
-        "age_limit": "Minimum Age: 28 years || Maximum Age: 63 years",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting of applications || Interview / written test",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.mea.gov.in",
-        "official_notification": "https://www.mea.gov.in/Images/CPV/advertisement-EPW-Division.pdf"
-    },
-    {
-        "date": "10/04/2026",
-        "board": "NHSRC",
         "title": "Finance Analyst (NVHCP) & Consultant – Care, Support and Treatment (NVHCP)",
         "qualification": "MBA (Finance), PGDBM (Finance), PGDBA (Finance), MBBS, MD, MPH, MHA, PG Diploma in Public Health Management",
         "last_date": "05-05-2026",
@@ -1761,22 +1697,6 @@
     },
     {
         "date": "08/04/2026",
-        "board": "NHSRC",
-        "title": "Senior Consultant – (Vaccine & Logistics)",
-        "qualification": "MBA/ PGDM, Diploma, MPH, PGDM",
-        "last_date": "28-04-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 90,000/- to Rs. 1,50,000/- per month",
-        "age_limit": "Max: 55 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://nhsrcindia.org",
-        "official_notification": "https://img2.freejobalert.com/news/2026/04/85296546-69d64de0e54ab10137584.pdf"
-    },
-    {
-        "date": "08/04/2026",
         "board": "C-DOT",
         "title": "Total",
         "qualification": "Qualification  Scientist B / C – Incident Investigator: B.E./B.Tech./M.E./M.Tech. in ECE/CSE/IT or allied with 60% + 2 years experience in Cyber Incident Response & Forensics (Ph.D. exempt). Scientist B / C – Security Engineer: B.E./B.Tech./M.E./M.Tech. in ECE/CSE/IT or allied with 60% + 2 years experience in VAPT/Security Assessment (Ph.D. exempt). Scientist B / C – Platform Software & Applications on Bare Metal Hardware: B.E./B.Tech./M.E./M.Tech. in ECE/CSE/Embedded Systems or allied with 60% + 2 years experience in ARM bare-metal/Linux drivers (Ph.D. exempt). Scientist -B/C - FPGA Design & Implementatio n for Cryptography and Cyber Security related applications:  B.E./B.Tech. (ECE/CS/EE/EI/IT/ VLSI/ Embedded Systems/ Embedded & Robotics or allied areas) OR M.E./M.Tech (ECE/CS/EE/EI/IT/ VLSI/Communicatio n Engg/Software System/Embedded/ Optical Communication or allied areas) OR PhD (in relevant areas under Domain of this post ) (with a minimum of 60% throughout the academics) Scientist B / C – Fault Analysis (FA) for Cryptography: B.E./B.Tech./M.E./M.Tech. in ECE/CSE/Cryptology or allied with 60% + 2 years experience in Fault Injection Attacks (Ph.D. exempt). Scientist B / C – Side Channel Analysis for Cryptography: B.E./B.Tech./M.E./M.Tech. in ECE/CSE/Cryptology or allied with 60% + 2 years experience in SCA/TVLA/CPA (Ph.D. exempt). Scientist B / C – Cryptographic Systems Testing & Validation: B.E./B.Tech./M.E./M.Tech. in ECE/CSE/Cryptology or allied with 60% + 2 years experience in PQC/FIPS validation (Ph.D. exempt). Scientist B / C – Theory & Mathematical proofs of PQC algorithms: M.Sc./M.Tech./Ph.D. in Mathematics/Cryptology with 60% + 2 years experience in Lattice/Code-based PQC (Ph.D. exempt). Scientist B / C – Hardware Board Design Engineer: B.E./B.Tech./M.E./M.Tech. in ECE/EE/EI/VLSI with 60% + 2 years experience in high-speed board design (Ph.D. exempt). Scientist B / C – R&D Project Management Executive: B.E./B.Tech./M.E./M.Tech. in relevant field with 60% + 2 years experience in project coordination (Ph.D. exempt). Consultant – Vigilance: Retired from Central/State Govt/PSU/Autonomous body with last pay Level 8/9/10 + minimum 2 years experience in vigilance cases.",
@@ -1838,22 +1758,6 @@
         "syllabus": "Not Available",
         "official_website": "https://nia.gov.in",
         "official_notification": "https://img2.freejobalert.com/news/2026/04/432177-69d32de17906028910150.pdf"
-    },
-    {
-        "date": "04/04/2026",
-        "board": "Delhi State Cancer Institute",
-        "title": "Senior Resident",
-        "qualification": "DNB, MS/ MD",
-        "last_date": "28-04-2026",
-        "total_posts": "1",
-        "salary": "Rs. 6000/-",
-        "age_limit": "Maximum Age Limit: 66 years",
-        "application_fee": "Not Available",
-        "selection_process": "Scrutiny of applications || Personal Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://dsci.delhi.gov.in/",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wdsci_20.pdf"
     },
     {
         "date": "04/04/2026",
@@ -1920,22 +1824,6 @@
         "official_notification": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtINMAS_APP30032026.pdf"
     },
     {
-        "date": "30/03/2026",
-        "board": "SSF",
-        "title": "Constable (Barber), Constable (Washerman)",
-        "qualification": "Matriculation pass or equivalent from a recognised School/Institution/Board + Trade Test",
-        "last_date": "28-04-2026",
-        "total_posts": "10",
-        "salary": "Pay Scale of Level-2 in the Pay Matrix (Rs.19,900–63,200) as per 7th CPC. The post will also carry Dearness Allowance, free accommodation or HRA, Transport Allowance, Leave Travel Concession, and other allowances admissible to Central Civil Employees as applicable from time to time. Candidates will also be entitled to pension benefits under the New Restructured Defined Contributory Pension Scheme applicable for new entrants to Central Government Services w.e.f. 01 January 2004.",
-        "age_limit": "Constable (Barber):Between 18 to 23 Years || Constable (Washerman):Between 18 to 23 Years || Age relaxation details are available on the ITBPF recruitment website https://recruitment.itbpolice.nic.in.",
-        "application_fee": "General / OBC / EWS / Other Candidates:₹100/- (Rupees One Hundred only) || Exempted (Fee = Nil):Ex-Servicemen and candidates belonging to Scheduled Caste (SC) category are exempted from payment of application fee. || Payment Mode:Online through the ITBPF recruitment website https://recruitment.itbpolice.nic.in. || Note: Fee once paid will not be refunded under any circumstances. Fee must be paid through the online payment gateway only at recruitment.itbpolice.nic.in. Applications received with fee paid by any other mode will be summarily rejected.",
-        "selection_process": "Phase I – Physical Efficiency Test (PET): Qualifying in nature; no marks awarded. Events include 1.6 km Race (within 7.30 minutes), Long Jump (11 feet, 3 chances), and High Jump (3½ feet, 3 chances). Candidates failing any event will be eliminated. PET will not be held for Ex-Servicemen. || Phase I – Physical Standard Test (PST):Candidates who qualify PET will be screened for Height, Chest and Weight measurements. Those not meeting the required physical standards will be eliminated. Candidates may appeal on the same day to the Appellate Authority through the Presiding Officer. || Phase II – Written Examination (50 Marks):Objective type Multiple Choice Questions (OMR or CBT) of 1 hour duration covering General Awareness/GK (15 marks), Elementary Mathematics (10 marks), Analytical Aptitude (15 marks), and English/Hindi (10 marks). Minimum qualifying marks: 18 for UR & Ex-Servicemen; 17 for SC & OBC. No negative marking. || Phase III – Trade Test (50 Marks):Candidates who qualify the written examination (10 times the category-wise vacancies) will appear for a Trade Test. Qualifying marks are 50% for all categories. Trade Test is qualifying in nature only. || For Constable (Barber): Hair cutting of various types (20 marks), Body/head massage (15 marks), Knowledge of tools/machines used in trade (15 marks). || For Constable (Washerman):Washing of various types of clothes (15 marks), Ironing of clothes (10 marks), Knowledge about dry-cleaning of clothes (10 marks), Knowledge about use of various detergents/washing powders/soaps (15 marks). || Phase IV – Verification of Original Documents & Detailed Medical Examination (DME): Shortlisted candidates will undergo document verification followed by Detailed Medical Examination. Candidates declared unfit in DME may undergo Review Medical Examination (RME) by giving written consent within 24 hours.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.itbpolice.nic.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/03/741258-69ca2c2a603fe18902303.pdf"
-    },
-    {
         "date": "28/03/2026",
         "board": "DGPM CBIC",
         "title": "Additional Assistant Director",
@@ -1982,21 +1870,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nhidcl.com",
         "official_notification": "https://www.nhidcl.com/sites/default/files/2026-03/recruitment_notice_no.03-2026.pdf"
-    },
-    {
-        "date": "07/03/2026",
-        "board": "NCPOR",
-        "title": "Various Posts",
-        "qualification": "ITI/Diploma in relevant trade with experience, Bachelor's degree in relevant field with experience.",
-        "last_date": "28-04-2026",
-        "total_posts": "35",
-        "salary": "Contract wages of ₹ 60909.00/- (fixed) per month for the entire duration of contract for those who are going to Antarctica on NCPOR contract for the first time. || Contract wages of ₹ 81212.00/- (fixed) per month for the entire duration of contract for those who already have been to Antarctica on NCPOR contract. || Antarctic allowance of ₹1,500/- per day during the summer season and ₹2,000/- per day during the winter season.",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Walk-in Interview || Document Verification || Medical Examination || Pre-Antarctic Snow Ice Acclimatisation training",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "www.ncpor.res.in",
-        "official_notification": "https://ncpor.res.in/upload/recruitments/46%20ISEA_logistics%20personnel.PDF"
     }
 ]
