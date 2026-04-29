@@ -1,6 +1,38 @@
 [
     {
         "date": "29/04/2026",
+        "board": "BFUHS",
+        "title": "Nursing Faculty",
+        "qualification": "M.Sc, M.Phil/ Ph.D, 10TH, Diploma",
+        "last_date": "17-05-2026",
+        "total_posts": "17",
+        "salary": "As per 7th Pay Commission",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 50 years || Age Relaxation: SC/BC: 5 years; Physically Handicapped: 10 years; Ex-servicemen: as per Punjab Govt. Rules",
+        "application_fee": "Rs. 2360/- (Rs. 2000 + Rs. 360 GST)",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.bfuhs.ac.in",
+        "official_notification": "https://recruitment.ggsmch.org/form_bfu_26_09_nursingfaculty/"
+    },
+    {
+        "date": "29/04/2026",
+        "board": "Central University of Punjab",
+        "title": "Clerical Staff",
+        "qualification": "12th Class or equivalent, English Typing @ 35 wpm OR Hindi Typing @ 30 wpm, Proficiency in Computer Operations.",
+        "last_date": "11-05-2026",
+        "total_posts": "2",
+        "salary": "Rs. 29,050/-",
+        "age_limit": "Minimum Age: 18 Years || Maximum Age: 30 Years",
+        "application_fee": "Rs. 100/-",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cup.edu.in",
+        "official_notification": "https://cup.edu.in/sites/default/files/NT%20Contract%20Advertisement-005.pdf"
+    },
+    {
+        "date": "29/04/2026",
         "board": "IIT Ropar",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "M.Sc",

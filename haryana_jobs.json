@@ -1,6 +1,22 @@
 [
     {
         "date": "29/04/2026",
+        "board": "SVSU",
+        "title": "Skill Assistant Professor",
+        "qualification": "Knowledge of Hindi/Sanskrit up to Matric level or higher (essential for all posts)",
+        "last_date": "01-05-2026",
+        "total_posts": "4",
+        "salary": "Rs. 57,700/- Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 42 years || Age Relaxation: As per Government of Haryana policy",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Shortlisting based on academic score || Written Test || Teaching skills || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://svsu.ac.in/",
+        "official_notification": "https://svsu.ac.in//wp-content/uploads/2026/04/Advertisement%20Skill%20Assistant%20Professor%20%281%29.pdf"
+    },
+    {
+        "date": "29/04/2026",
         "board": "POWERGRID",
         "title": "Officer Trainee (Company Secretary)",
         "qualification": "Associate Member of Institute of Company Secretaries of India",

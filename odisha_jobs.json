@@ -1,6 +1,38 @@
 [
     {
         "date": "29/04/2026",
+        "board": "Samagra Shiksha Sundargarh",
+        "title": "CRC Coordinators",
+        "qualification": "Graduate",
+        "last_date": "14-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Written test on subject areas (50 Marks) || Group discussion (GD) for measuring self confidence, communication skill, problem solving skill (25 marks) || Viva to test the knowledge and understanding of ongoing departmental activities (25 marks)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sundargarh.odisha.gov.in",
+        "official_notification": "https://sundargarh.odisha.gov.in/sites/default/files/2026-04/1166.pdf"
+    },
+    {
+        "date": "29/04/2026",
+        "board": "ICSI",
+        "title": "Career Consultants on Retainer Basis",
+        "qualification": "Graduate in any discipline",
+        "last_date": "10-05-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Rs. 5,000/- per month",
+        "age_limit": "Min: 21 years, Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.icsi.edu",
+        "official_notification": "https://www.icsi.edu/media/webmodules/Human_Resources/Notification_Career_Consultant.pdf"
+    },
+    {
+        "date": "29/04/2026",
         "board": "WCD Odisha",
         "title": "Anganwadi Helper",
         "qualification": "12th Pass",

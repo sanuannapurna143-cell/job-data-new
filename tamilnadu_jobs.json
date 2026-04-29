@@ -1,6 +1,22 @@
 [
     {
         "date": "29/04/2026",
+        "board": "TANUVAS",
+        "title": "Milk Recorder",
+        "qualification": "Any Degree, Two wheeler driving license",
+        "last_date": "18-05-2026",
+        "total_posts": "1",
+        "salary": "Rs.20,000/- Per Month",
+        "age_limit": "Min: 21 years, Max: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://tanuvas.ac.in",
+        "official_notification": "https://tanuvas.ac.in/admin/uploads/vacancies/1777441399.pdf"
+    },
+    {
+        "date": "29/04/2026",
         "board": "IIT Madras",
         "title": "Project Associate",
         "qualification": "B.E/B.Tech, M.Sc (Physics), Master’s degree in Science (Physics), Engineering, Mechatronics or related subjects",

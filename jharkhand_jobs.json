@@ -1,6 +1,22 @@
 [
     {
         "date": "29/04/2026",
+        "board": "SAIL",
+        "title": "Consultants (Sports Coach)",
+        "qualification": "Diploma or higher degree in Sports Coaching",
+        "last_date": "21-05-2026",
+        "total_posts": "2",
+        "salary": "Rs. 28,000/- - Rs. 36,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 64 years for all posts. || Age relaxation details are not specified in the provided data.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in-Interview || Medical screening",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sail.co.in",
+        "official_notification": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/BSP_News%20&%20Jobs_29042026_142728.pdf"
+    },
+    {
+        "date": "29/04/2026",
         "board": "IIT ISM Dhanbad",
         "title": "Research Assistant",
         "qualification": "Postgraduate in any Social Science discipline with a minimum of 55% marks. Preference: NET/M.Phil/Ph.D.",

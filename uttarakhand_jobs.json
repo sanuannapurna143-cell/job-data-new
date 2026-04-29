@@ -1,6 +1,38 @@
 [
     {
         "date": "29/04/2026",
+        "board": "IIT Roorkee",
+        "title": "Junior Research Fellow",
+        "qualification": "Masters degree in Biotechnology, Bioinformatics, Life Science or equivalent with minimum 55% marks, NET or GATE qualified",
+        "last_date": "30-04-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- + 9% HRA Per Month",
+        "age_limit": "No specific minimum or maximum age limit is mentioned. || Preference will be given to SC/ST candidates on equal qualifications and experience.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/BSBE/2026/adv210420265.pdf"
+    },
+    {
+        "date": "29/04/2026",
+        "board": "IIT Roorkee",
+        "title": "Project Associate",
+        "qualification": "M.Tech in Geoinformatics/Geomatics/Geospatial Engineering, B.Tech in any stream",
+        "last_date": "04-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 45,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CE/2026/adv210420264.pdf"
+    },
+    {
+        "date": "29/04/2026",
         "board": "THDC",
         "title": "Adhoc General Duty Medical Officer (Adhoc GDMO)",
         "qualification": "MBBS with permanent registration with the State Medical Council",
