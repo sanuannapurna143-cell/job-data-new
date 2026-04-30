@@ -1,5 +1,21 @@
 [
     {
+        "date": "30/04/2026",
+        "board": "NIMHANS",
+        "title": "Psychologist",
+        "qualification": "Master's in Psychology / MSW (Medical and Psychiatry)",
+        "last_date": "11-05-2026",
+        "total_posts": "1",
+        "salary": "Rs 30,000/- per month consolidated.",
+        "age_limit": "Maximum Age Limit: 35 Years",
+        "application_fee": "Not Available",
+        "selection_process": "Written test/interview || Skill test/interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nimhans.ac.in/",
+        "official_notification": "https://nimhansbkt.demo-appiness.com/prodnimhans/documents/announcements/5d219b40c200495eb5bfc0d2408cf72d.pdf"
+    },
+    {
         "date": "29/04/2026",
         "board": "JK Bank",
         "title": "Apprentice",
@@ -126,22 +142,6 @@
         "syllabus": "Not Available",
         "official_website": "https://mysuru.dcourts.gov.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec019e6a921fbc428b5638b3986e365d/uploads/2026/04/2026042789.pdf"
-    },
-    {
-        "date": "27/04/2026",
-        "board": "HLL",
-        "title": "ITI Trainee, SSLC Trainee",
-        "qualification": "ITI pass with minimum 60% of marks (Fitter, Electrician, Welder, Turner, AC Mechanic & Machinist), SSLC pass",
-        "last_date": "29-04-2026",
-        "total_posts": "Not Available",
-        "salary": "ITI Trainee:First Year: ₹9500/-, Second Year: ₹10500/-, Third Year: ₹12000/- || SSLC Trainee:First Year: ₹9,000/-, Second Year: ₹10,000/-, Third Year: ₹11,500/-",
-        "age_limit": "Maximum age limit is 35 years for TDS trainees and 30 years for other posts. || Age relaxation for SC/ST/OBC candidates as per Govt. of India rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.lifecarehll.com",
-        "official_notification": "https://www.lifecarehll.com/file/download/reference/cdeb62ca10f63c94f575fa8f7f7a2b1fhYSDgn4"
     },
     {
         "date": "27/04/2026",
@@ -401,22 +401,6 @@
     },
     {
         "date": "16/04/2026",
-        "board": "NIMHANS",
-        "title": "Project Coordinator & Clinical Postdoctoral Fellow",
-        "qualification": "Bachelor's/Master's/BTech/MTech MD, DNB",
-        "last_date": "29-04-2026",
-        "total_posts": "2",
-        "salary": "Project Coordinator: Rs 35000 per month (Consolidated) || Clinical Postdoctoral Fellow (equivalent to Senior Resident-Psychiatry): Rs.120,000 Per month (Consolidated)",
-        "age_limit": "Maximum Age Limit: 35 years for all posts.",
-        "application_fee": "Not Available",
-        "selection_process": "Written Test || Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nimhans.ac.in/",
-        "official_notification": "https://nimhansbkt.demo-appiness.com/prodnimhans/documents/announcements/849b1e2b183349e9924bf0e47e8f8542.pdf"
-    },
-    {
-        "date": "16/04/2026",
         "board": "IIM Bangalore",
         "title": "Campus Environment & Facilities Manager",
         "qualification": "B.Sc, B.Tech/ B.E, M.Sc",
@@ -430,22 +414,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iimb.ac.in",
         "official_notification": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-Campus-Environment-2026.pdf"
-    },
-    {
-        "date": "15/04/2026",
-        "board": "ESIC Medical College Kalaburagi",
-        "title": "Senior Resident",
-        "qualification": "PG Degree (MD/MS/DNB) in the concerned subject",
-        "last_date": "29-04-2026",
-        "total_posts": "Department",
-        "salary": "Rs. 1,40,545/- per month (Plus TA & DA on TA as applicable)",
-        "age_limit": "Below 44 years of age for all categories as on date of interview",
-        "application_fee": "SC/ST/Female: Nil | All other categories: Rs. 300/- (Demand Draft in favour of ESI Corporation payable at Kalaburagi)",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://esic.gov.in/",
-        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_In_Interview_For_the_Post_of_Senior_Resident_1776252065.pdf"
     },
     {
         "date": "15/04/2026",
