@@ -1,6 +1,38 @@
 [
     {
         "date": "30/04/2026",
+        "board": "TISS",
+        "title": "Medical Officer",
+        "qualification": "MBBS recognized by MCI.",
+        "last_date": "15-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 75000 - Rs. 80000 Per Month",
+        "age_limit": "Maximum Age Limit: 55 years as on 31-03-2026. || Age relaxation will be as per government rules.",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Shortlisting || Personal Interaction || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tiss.ac.in",
+        "official_notification": "https://tiss.ac.in/uploads/files/Advt_MEDICAL_OFFICER_Mumbai_23.04.2026.pdf"
+    },
+    {
+        "date": "30/04/2026",
+        "board": "TISS",
+        "title": "Consultant - Internal Audit",
+        "qualification": "Bachelor's Degree from a recognized University/Institution, 10 years of work experience on GoI Rules to handle Personnel, Finance matters, Inventory Management, Purchase of Goods & Services etc., Only Retired Government Employees",
+        "last_date": "15-05-2026",
+        "total_posts": "1",
+        "salary": "As per Government rules (Last drawn Basic Pay less Pension)",
+        "age_limit": "Maximum Age Limit: 65 years",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Shortlisting of Applications || Personal Interaction",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "www.tiss.ac.in",
+        "official_notification": "https://tiss.ac.in/uploads/files/Advt_Consultant_-Internal_Audit_24.4.2026.pdf"
+    },
+    {
+        "date": "30/04/2026",
         "board": "Central Bank of India",
         "title": "Assistant General Manager (AGM) - Specialist Category",
         "qualification": "Full-time B.Sc in Statistics/Economics / Bachelor's in Analytics (Statistics, Applied Maths, OR/Data Science) with 55% marks OR Full-time MBA Finance/Banking or PGDBM/IPGD-Risk Management with 55% marks - from AICTE/UGC approved University.",

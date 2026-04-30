@@ -1,6 +1,22 @@
 [
     {
         "date": "30/04/2026",
+        "board": "NIT Warangal",
+        "title": "Junior Research Fellow",
+        "qualification": "B.E./B.Tech in Civil Engineering or Agricultural Engineering with First class, M.E./M.Tech in Water Resources Engineering and Allied specializations with First Class, GATE Qualification (Desirable), Hydrological Modelling (Desirable), Programming skills in R/Python/MATLAB (Desirable), Good analytical ability and competency in writing skills (Desirable)",
+        "last_date": "25-05-2026",
+        "total_posts": "1",
+        "salary": "Rs 37,000/- - Rs 42,000/- Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitw.ac.in",
+        "official_notification": "https://nitw.ac.in/api/static/files/JRF_Advertisement_1_2026-4-24-13-3-48.pdf"
+    },
+    {
+        "date": "30/04/2026",
         "board": "TMB",
         "title": "Senior Relationship Manager, Law Officer and More",
         "qualification": "B.E/B.Tech in CS/IT/MCA with minimum 3 years experience in User Interface, Approval Hierarchies, Learning/Support, Core HR, Talent Management. VBCS, BPM Worklist, OTBI. Desirable: Oracle Global HR Cloud / Talent Management Cloud 2025/2026 Certification.",

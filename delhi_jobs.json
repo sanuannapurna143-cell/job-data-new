@@ -1,6 +1,54 @@
 [
     {
         "date": "30/04/2026",
+        "board": "IPPB",
+        "title": "Chief Operating Officer (COO)",
+        "qualification": "Any Bachelors Degree",
+        "last_date": "21-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "₹750/- (inclusive of intimation charges)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.ippbonline.bank.in",
+        "official_notification": "https://ippbonline.bank.in/documents/20133/133019/1777527794728.pdf"
+    },
+    {
+        "date": "30/04/2026",
+        "board": "RAV Delhi",
+        "title": "Project Consultant, Technical Assistant and Media Consultant",
+        "qualification": "Post Graduate Degree in Ayurveda, Graduation in Ayurveda + 2 years experience, PG Degree / Diploma in Mass Communication & Journalism",
+        "last_date": "08-05-2026",
+        "total_posts": "5",
+        "salary": "Rs. 50,000/- - Rs. 60,000/- Per Month",
+        "age_limit": "Technical Assistant to Editor:28-40 Years as per the date of Advertisement || Technical Assistant to Director:Should not be more than 40 years as on the last date of receipt of application. || Project Consultant:Upto 45 Years of age || Media Consultant:Upto 45 Years of age || Age relaxation will be as per government rules.",
+        "application_fee": "Nil",
+        "selection_process": "Interview (Online / Physical)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.ravdelhi.nic.in",
+        "official_notification": "https://ayush.gov.in/assets/pdf/careers/RAV_vacancy8_5_26.pdf"
+    },
+    {
+        "date": "30/04/2026",
+        "board": "NHAI",
+        "title": "Eminent External Professional",
+        "qualification": "Bachelor’s Degree in Civil Engineering, Post Graduate Degree or Post Graduate Diploma in Transport Planning, Master’s Degree in Economics, Minimum 5 years relevant experience",
+        "last_date": "29-05-2026",
+        "total_posts": "2",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Maximum Age Limit: 65 years for all posts.",
+        "application_fee": "Nil",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nhai.gov.in",
+        "official_notification": "https://nhai.gov.in/nhai/sites/default/files/vacancy_files/Detailed_Advertisemnt.pdf"
+    },
+    {
+        "date": "30/04/2026",
         "board": "AIIMS Delhi",
         "title": "Project Research Scientist I",
         "qualification": "First class Post Graduate Degree including the integrated PG degrees",
@@ -445,7 +493,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.indianarmy.nic.in/",
-        "official_notification": "arunachal-pradesh-ssb-group-c-recruitment-2026-apply-online-for-154-posts-3040652"
+        "official_notification": "Not Available"
     },
     {
         "date": "27/04/2026",

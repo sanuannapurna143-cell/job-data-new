@@ -1,5 +1,21 @@
 [
     {
+        "date": "30/04/2026",
+        "board": "AIIMS Patna",
+        "title": "Project Clinician, Project Assistant",
+        "qualification": "MBBS, Postgraduate Diploma, MD/MS, MLT",
+        "last_date": "05-05-2026",
+        "total_posts": "4",
+        "salary": "Project Clinician:Rs. 80,000 (MBBS) / Rs. 1,00,000 (MBBS + DGO) / Rs. 1,20,000 (MBBS + MD/MS) per month || Project Assistant:Rs. 35,000 per month",
+        "age_limit": "Maximum age limit for Project Clinician is 40 years. || Maximum age limit for Project Assistant is 30 years. || Age relaxation details are not specified in the provided data.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on application || Interview || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.aiimspatna.org",
+        "official_notification": "https://api.aiimspatna.edu.in/advertisement/advt-gynaecology-026_0001-28042026.pdf"
+    },
+    {
         "date": "29/04/2026",
         "board": "ICSI",
         "title": "Career Consultants on Retainer Basis",

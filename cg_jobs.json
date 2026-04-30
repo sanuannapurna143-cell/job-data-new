@@ -1,6 +1,38 @@
 [
     {
         "date": "30/04/2026",
+        "board": "SECL",
+        "title": "Jr. Technical Inspector, T&S Grd-D",
+        "qualification": "B.Sc",
+        "last_date": "20-05-2026",
+        "total_posts": "Designation",
+        "salary": "As per SECL Cadre Scheme (T&S Grd-D)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://secl-cil.in/",
+        "official_notification": "https://secl-cil.in/writereaddata/d7efbb31d9536d06b730acf4ba4c2cce740b00695acadebc090361965103888e.pdf"
+    },
+    {
+        "date": "30/04/2026",
+        "board": "CGPSC",
+        "title": "Assistant Librarian",
+        "qualification": "Bachelor's degree in Library Science or Library and Information Science",
+        "last_date": "23-05-2026",
+        "total_posts": "7",
+        "salary": "Pay Matrix Level 10 (Rs. 43200-136500) || Dearness Allowance and other allowances as per state government rules.",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 40 years (for Chhattisgarh residents) || Age relaxation is applicable as per government rules:SC/ST/OBC (Non-Creamy Layer): 5 yearsLocal Female Candidates of Chhattisgarh: 10 yearsPermanent/Temporary Employees of Chhattisgarh Govt.: 5 yearsCombined Maximum Age Limit: 45 years || SC/ST/OBC (Non-Creamy Layer): 5 years || Local Female Candidates of Chhattisgarh: 10 years || Permanent/Temporary Employees of Chhattisgarh Govt.: 5 years || Combined Maximum Age Limit: 45 years",
+        "application_fee": "Rs. 300",
+        "selection_process": "Preliminary Examination || Main Examination (Written) || Viva-voce",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.psc.cg.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/852141-69f2e0551f2c768885666.pdf"
+    },
+    {
+        "date": "30/04/2026",
         "board": "AIIMS Raipur",
         "title": "Faculty Posts",
         "qualification": "MBBS + MD/MS/DM/MCh/DNB as applicable to specialty, MSc (Medical) + PhD",

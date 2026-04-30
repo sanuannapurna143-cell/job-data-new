@@ -1,6 +1,22 @@
 [
     {
         "date": "30/04/2026",
+        "board": "SDAU",
+        "title": "Agricultural Assistant",
+        "qualification": "Diploma (Agriculture/Horticulture), Polytechnic in (Agriculture/Horticulture), Knowledge of computer",
+        "last_date": "11-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 26,000/- Per Month",
+        "age_limit": "Up to 40 years for male candidates. || Up to 45 years for female candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.sdau.edu.in",
+        "official_notification": "https://dcs.sdau.edu.in/Uploads/news/Agri.Assistant,SSNNL,Bhachau%20Jaherat%2029.04.26.pdf"
+    },
+    {
+        "date": "30/04/2026",
         "board": "TMB",
         "title": "Senior Relationship Manager, Law Officer and More",
         "qualification": "B.E/B.Tech in CS/IT/MCA with minimum 3 years experience in User Interface, Approval Hierarchies, Learning/Support, Core HR, Talent Management. VBCS, BPM Worklist, OTBI. Desirable: Oracle Global HR Cloud / Talent Management Cloud 2025/2026 Certification.",
@@ -253,7 +269,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "tmb-recruitment-2026-apply-online-for-senior-relationship-manager-law-officer-and-more-posts-3047337"
+        "official_notification": "Not Available"
     },
     {
         "date": "28/04/2026",
