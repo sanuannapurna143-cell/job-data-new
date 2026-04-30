@@ -1,6 +1,22 @@
 [
     {
         "date": "30/04/2026",
+        "board": "SSB",
+        "title": "GDMOs & Specialist Doctors",
+        "qualification": "Any Post Graduate, Diploma, MBBS",
+        "last_date": "04-06-2026",
+        "total_posts": "35",
+        "salary": "Specialist Doctors: Rs. 75,000/- - Rs. 85,000/- Per Month || General Duty Medical Officer (GDMO): Rs. 75,000/- - Rs. 85,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 70 years for all posts. || Age relaxation rules are not specified in the provided data.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Medical Examination",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ssb.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/5215662-69f327e4b902133559700.pdf"
+    },
+    {
+        "date": "30/04/2026",
         "board": "IIT Guwahati",
         "title": "Project Research Scientist VI Non-Medical",
         "qualification": "Post-graduate degree with five years' experience or PhD with 1-2 years' experience in biotechnology/biomedical sciences/engineering or related discipline",

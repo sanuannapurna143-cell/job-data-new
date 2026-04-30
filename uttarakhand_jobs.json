@@ -1,6 +1,22 @@
 [
     {
         "date": "30/04/2026",
+        "board": "DRDO IRDE",
+        "title": "Junior Research Fellow",
+        "qualification": "B.Tech/B.E. or M.E./M.Tech. in relevant discipline (Electronics Engineering, Physics, Computer Science, Mechanical Engineering) with 1st Division and valid NET/GATE from UGC recognized University",
+        "last_date": "21-05-2026",
+        "total_posts": "8",
+        "salary": "Rs. 37,000/- Per Month + House Rent Allowance (as admissible)",
+        "age_limit": "Maximum Age Limit: 28 years. || Age Relaxation: Relaxable to the candidates belonging to Scheduled Castes, Scheduled Tribes and OBC as per Government of India norms.",
+        "application_fee": "Rs. 10/-",
+        "selection_process": "Screening of applications by constituted committee || Shortlisting based on valid GATE score and percentage of marks in qualifying degree || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.drdo.gov.in",
+        "official_notification": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/AdvtIRDE30042026.pdf"
+    },
+    {
+        "date": "30/04/2026",
         "board": "BEL",
         "title": "Advisor Kavach System",
         "qualification": "B.E./B.Tech in Electronics & Telecommunication / Electronics & Communication / Electronics",

@@ -1,6 +1,70 @@
 [
     {
         "date": "30/04/2026",
+        "board": "ICSIL",
+        "title": "Data Entry Operator / MTS",
+        "qualification": "Graduate and above for Data Entry Operator, Matriculate (not a Graduate) for MTS.",
+        "last_date": "05-05-2026",
+        "total_posts": "20",
+        "salary": "Rs. 24,356/- per month (As per Minimum Wages of GNCTD)",
+        "age_limit": "Data Entry Operator:Minimum age is 21 years. || MTS:Minimum age is 18 years.",
+        "application_fee": "Rs. 590/- (non-refundable)",
+        "selection_process": "Scrutiny of documents || Interaction/Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.icsil.in",
+        "official_notification": "https://icsil.in/sites/default/files/2026-04/DCI%20%28DEO%20%20MTS%29%20%28Walk-In%20%29.pdf"
+    },
+    {
+        "date": "30/04/2026",
+        "board": "SLBSNSU",
+        "title": "Consultant (Graphics Designer)",
+        "qualification": "Bachelor's Degree in any discipline from a recognized University, Diploma/Certificate in Graphic Designing/Desktop Publishing (DTP) from a recognized institution",
+        "last_date": "04-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 40,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.slbsrsv.ac.in",
+        "official_notification": "https://www.slbsrsv.ac.in/sites/default/files/Notification_reg_Engagement%20of%20Consultant%20%28Graphics%29.pdf"
+    },
+    {
+        "date": "30/04/2026",
+        "board": "DMRC",
+        "title": "General Manager",
+        "qualification": "IRSEE Officer, Varied experience in Rolling Stock, 18 years Gazetted/Executive service, Level 14 Pay Matrix (Rs.144200-218200)",
+        "last_date": "21-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1,20,000-2,80,000 (Direct); Parent pay + deputation allowance (Deputation) Per Month",
+        "age_limit": "Maximum Age: 57 years || Age Relaxation for Deputation: Maximum 55 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.delhimetrorail.com",
+        "official_notification": "https://backend.delhimetrorail.com/documents/10650/Advt-226-HOD_RS_DR_DP.pdf"
+    },
+    {
+        "date": "30/04/2026",
+        "board": "DIAC",
+        "title": "Deputy Counsel",
+        "qualification": "Enrolled as an Advocate under the Advocates Act, 1961 with any State Bar Council, Three (03) years post qualification experience",
+        "last_date": "30-05-2026",
+        "total_posts": "9",
+        "salary": "Consolidated gross amount of Rs. 1,00,000/- (Rupees One Lakh only) per month.",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://dhcdiac.nic.in",
+        "official_notification": "https://delhihighcourt.nic.in/files/2026-04/recuritment/advertisement_1.docx.pdf"
+    },
+    {
+        "date": "30/04/2026",
         "board": "IPPB",
         "title": "Chief Operating Officer (COO)",
         "qualification": "Any Bachelors Degree",
@@ -493,7 +557,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.indianarmy.nic.in/",
-        "official_notification": "Not Available"
+        "official_notification": "rssb-teaching-associate-recruitment-2026-apply-online-for-3540-posts-3047431"
     },
     {
         "date": "27/04/2026",
@@ -1677,7 +1741,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "rssb-teaching-associate-recruitment-2026-apply-online-for-3540-posts-3047431"
     },
     {
         "date": "13/04/2026",

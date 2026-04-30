@@ -1,6 +1,38 @@
 [
     {
         "date": "30/04/2026",
+        "board": "BSPHCL",
+        "title": "Audit Advisor cum Financial Consultant",
+        "qualification": "Finance/ Accounts & Audit Services of State/ Central Government or from BSPHCL and its subsidiary companies with minimum 20 years service (deputation basis), Retired from Finance/ Accounts & Audit Services of State/ Central Government or from BSPHCL and its subsidiary companies (contract basis)",
+        "last_date": "13-05-2026",
+        "total_posts": "1",
+        "salary": "For retired persons: Last Pay minus pension as per the rules applicable by Govt. of Bihar. || For serving persons: Pay and emoluments will be fixed as per terms & conditions of the previous employer.",
+        "age_limit": "Maximum Age Limit: 62 years as on 30 April 2026. || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.bsphcl.co.in",
+        "official_notification": "https://www.bsphcl.co.in/Docs/Recruitment/RN-06-29-04-2026.pdf"
+    },
+    {
+        "date": "30/04/2026",
+        "board": "NIELIT Patna",
+        "title": "Resource Person",
+        "qualification": "Master’s Degree in Commerce, Bachelor’s Degree in Commerce, Bachelor’s Degree in Computer Science / Computer Application, B.Tech / B.E. in Computer Science & Engineering",
+        "last_date": "20-05-2026",
+        "total_posts": "5",
+        "salary": "Resource Person (Account and Audit): Rs. 30,000 – Rs.32000, Rs. 28,000 – Rs.30,000, Rs. 25000 – Rs. 28000, Rs. 22,000 – Rs.25,000 || Resource Person (Account): Rs. 30,000 – Rs.32000, Rs. 28,000 – Rs.30,000, Rs. 25000 – Rs. 28000, Rs. 22,000 – Rs.25,000 || Resource Person (Project I): Rs. 30,000 – Rs.32000, Rs. 28,000 – Rs.30,000, Rs. 25000 – Rs. 28000, Rs. 22,000 – Rs.25,000 || Resource Person (Project II): Rs. 30,000 – Rs.32000, Rs. 28,000 – Rs.30,000, Rs. 25000 – Rs. 28000, Rs. 22,000 – Rs.25,000",
+        "age_limit": "27- 35 years. || Age relaxation rules are not specified in the provided data.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nielit.gov.in/sites/default/files/Patna/Advt_%20No%20E-316648_NIELIT%20Patna.pdf",
+        "official_notification": "https://www.nielit.gov.in/sites/default/files/Patna/Advt_%20No%20E-316648_NIELIT%20Patna.pdf"
+    },
+    {
+        "date": "30/04/2026",
         "board": "AIIMS Patna",
         "title": "Project Clinician, Project Assistant",
         "qualification": "MBBS, Postgraduate Diploma, MD/MS, MLT",
