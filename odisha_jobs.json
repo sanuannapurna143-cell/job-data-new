@@ -1,6 +1,38 @@
 [
     {
         "date": "02/05/2026",
+        "board": "NIT Rourkela",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M. Tech in Food Process Engineering",
+        "last_date": "17-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitrkl.ac.in",
+        "official_notification": "https://www.nitrkl.ac.in/docs/Career/ProjectFelow/2026/30042026190040019.pdf"
+    },
+    {
+        "date": "02/05/2026",
+        "board": "Paradip Port Authority",
+        "title": "Traffic Manager (HOD)",
+        "qualification": "Any Graduate",
+        "last_date": "30-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1,00,000-2,60,000",
+        "age_limit": "Max: 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://paradipport.gov.in",
+        "official_notification": "https://paradipport.gov.in/Writereaddata/Career/Traffic%20Manager_30042026.pdf"
+    },
+    {
+        "date": "02/05/2026",
         "board": "NISER Bhubaneswar",
         "title": "Project Assistant",
         "qualification": "Bachelor's degree (physics or Electronics) or 3 years of Diploma in Electronics Engineering",

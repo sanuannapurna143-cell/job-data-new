@@ -1,6 +1,22 @@
 [
     {
         "date": "02/05/2026",
+        "board": "MDU Rohtak",
+        "title": "Field Investigators",
+        "qualification": "Post-Graduate degree in Social Sciences with minimum 55% marks",
+        "last_date": "08-05-2026",
+        "total_posts": "4",
+        "salary": "Rs. ₹20,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://mdu.ac.in",
+        "official_notification": "https://mdu.ac.in/UpFiles/UpPdfFiles/2026/Apr/4_04-30-2026_15-21-27_Advertisement%20for%20Field%20Investigators.pdf"
+    },
+    {
+        "date": "02/05/2026",
         "board": "Regional Centre for Biotechnology",
         "title": "Project Junior Research Fellow",
         "qualification": "M.Sc",
