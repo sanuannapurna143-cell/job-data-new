@@ -1,6 +1,38 @@
 [
     {
         "date": "02/05/2026",
+        "board": "IIT Madras",
+        "title": "Senior Project Officer",
+        "qualification": "M.E/ M.Tech, M.Phil/ Ph.D",
+        "last_date": "06-05-2026",
+        "total_posts": "1",
+        "salary": "Rs.70,000 - Rs.85,000",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitm.ac.in",
+        "official_notification": "https://icsrstaff.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1776853513.pdf"
+    },
+    {
+        "date": "02/05/2026",
+        "board": "Anna University",
+        "title": "Project Assistant",
+        "qualification": "B.Tech/ B.E, M.E/ M.Tech, M.Sc",
+        "last_date": "05-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000/- Consolidated",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.annauniv.edu",
+        "official_notification": "https://www.annauniv.edu/pdf/Recruitment_PA_PPT.pdf"
+    },
+    {
+        "date": "02/05/2026",
         "board": "CMC Vellore",
         "title": "Tutor Gr. IV for the Department of PMR (Physiotheraphy)",
         "qualification": "BPT (Regular Course) graduate from IAP recognized College / University. Candidates applying for Tutor post should have completed 4 years as Physiotherapist in CMC.",

@@ -1,6 +1,38 @@
 [
     {
         "date": "02/05/2026",
+        "board": "PAU",
+        "title": "Research Assistant",
+        "qualification": "B.Sc, B.Tech/ B.E, M.Phil/ Ph.D, M.Sc",
+        "last_date": "11-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 35000/- p.m. (for M.Sc. holders) || Rs. 40000/- p.m. (for Ph.D. holders) - fixed",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 200/-",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://pau.edu",
+        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7319"
+    },
+    {
+        "date": "02/05/2026",
+        "board": "PSSSB",
+        "title": "Warder (Male) and Matron (Female)",
+        "qualification": "Candidates should have passed 10+2 or equivalent examination from a recognized Education Board with Punjabi as one of the compulsory or elective subjects or any other equivalent examination in Punjabi language as specified by the Government from time to time. Only female candidates are eligible for Matron posts.",
+        "last_date": "05-05-2026",
+        "total_posts": "532",
+        "salary": "Selected candidates for Warder and Matron posts will get pay in Level-2 of the pay matrix. The salary ranges from Rs. 19,900/- to Rs. 63,200/- as per Punjab Government norms.",
+        "age_limit": "Age Limit",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sssb.punjab.gov.in/",
+        "official_notification": "https://sssb.punjab.gov.in/wp-content/uploads/2026/04/Advertisement-No.08-of-2026-1.pdf"
+    },
+    {
+        "date": "02/05/2026",
         "board": "BRIC NABI",
         "title": "Scientist D, Assistant Engineer and More",
         "qualification": "B.Tech/ B.E, M.E/ M.Tech, M.Sc, MBA/ PGDM, B.Pharma, M.Phil/ Ph.D, BVSC",
