@@ -1,5 +1,53 @@
 [
     {
+        "date": "04/05/2026",
+        "board": "CSIR NEERI",
+        "title": "Project Associate-I",
+        "qualification": "B.E./B.Tech , M.Sc",
+        "last_date": "12-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000/- + HRA - Rs. 31,000/- + HRA Per Month",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.neeri.res.in",
+        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/1777461805_RECRUIT_CRI_2D_CEIDS_29042026.pdf"
+    },
+    {
+        "date": "04/05/2026",
+        "board": "TISS",
+        "title": "Assistant Professor",
+        "qualification": "Master's degree with 55% marks in Social Sciences / Social Work / Related fields, NET/SLET/SET or Ph.D.",
+        "last_date": "15-05-2026",
+        "total_posts": "2",
+        "salary": "Rs. 89,435/- - Rs. 1,00,595/- Consolidated",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Shortlisting || Online Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.tiss.edu",
+        "official_notification": "https://tiss.ac.in/uploads/files/ADVT._-_Assistant_Professor_SSE_-_29-04-2026.pdf"
+    },
+    {
+        "date": "04/05/2026",
+        "board": "IISER Pune",
+        "title": "Junior Research Fellow",
+        "qualification": "M.Sc. in General Chemistry",
+        "last_date": "07-05-2026",
+        "total_posts": "1",
+        "salary": "Rs.37,000/- + 30% House Rent Allowance Per Month",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiserpune.ac.in",
+        "official_notification": "https://www.iiserpune.ac.in/storage/recruitment/job-posts/1251/documents/ca93316e-336b-4474-bf02-a81a0d050908.pdf"
+    },
+    {
         "date": "02/05/2026",
         "board": "ESIC",
         "title": "Senior Residents / Super Specialists / Specialists / Medical Officers",
@@ -14,22 +62,6 @@
         "syllabus": "Not Available",
         "official_website": "https://esic.gov.in",
         "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_Interview_for_Super_Specialists_Senior_Residents_03_Yrs_01_Yr_Medical_Officers_DCBO_ESIC_Hospital_Bibvewadi_Pune_English_1777538670.pdf"
-    },
-    {
-        "date": "02/05/2026",
-        "board": "CSMC",
-        "title": "Lab Technician",
-        "qualification": "12th Pass, DMLT from recognized University, Valid Council Registration with Renewal",
-        "last_date": "03-05-2026",
-        "total_posts": "3",
-        "salary": "Rs. 17000 Per Month",
-        "age_limit": "Maximum Age: 43 years",
-        "application_fee": "₹250/-",
-        "selection_process": "Merit List || Interview || Document Verification",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.chhsambhajinagarmc.org",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3f3ac63c91272f19ce97c7397825cc15f/uploads/2026/04/20260429405517260.pdf"
     },
     {
         "date": "02/05/2026",
@@ -302,22 +334,6 @@
         "syllabus": "Not Available",
         "official_website": "https://aiimsnagpur.edu.in",
         "official_notification": "https://aiimsnagpur.edu.in/writereaddata/AIIMS/files/177735363569f043a38ea57Vacancy_Notice_Community_Med_28042026.pdf"
-    },
-    {
-        "date": "29/04/2026",
-        "board": "JK Bank",
-        "title": "Apprentice",
-        "qualification": "Any Graduate",
-        "last_date": "03-05-2026",
-        "total_posts": "614",
-        "salary": "Not Available",
-        "age_limit": "20 to 28 years (as on 01.01.2026)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.jkb.bank.in",
-        "official_notification": "https://jkb.bank.in/sites/default/files/2026-04/Apprenticeship%20Notification%202026-27%20new%20%28002%29.pdf"
     },
     {
         "date": "29/04/2026",
@@ -878,22 +894,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.powergrid.in/",
         "official_notification": "https://www.powergrid.in/sites/default/files/job_opportunities_document/Detailed%20Advertisement%20-%20Non%20Executive%20Posts%202026.pdf"
-    },
-    {
-        "date": "20/04/2026",
-        "board": "GIPE Pune",
-        "title": "Project Coordinator",
-        "qualification": "Any Graduate",
-        "last_date": "03-05-2026",
-        "total_posts": "1",
-        "salary": "Upto Rs 35,000/- per month",
-        "age_limit": "Min: 25 years, Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://gipe.ac.in",
-        "official_notification": "https://gipe.ac.in/wp-content/uploads/2026/04/Advt.-Project-Coordinator.pdf"
     },
     {
         "date": "20/04/2026",
