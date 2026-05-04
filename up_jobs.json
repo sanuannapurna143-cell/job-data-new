@@ -1,5 +1,37 @@
 [
     {
+        "date": "04/05/2026",
+        "board": "IIT BHU",
+        "title": "Professional Trainees",
+        "qualification": "Any Graduate, ICMAI, Intermediate, M.Com, MBA/ PGDM",
+        "last_date": "19-05-2026",
+        "total_posts": "10",
+        "salary": "Rs. 25,000/- Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Rs. 250/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitbhu.ac.in",
+        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/alerts/alert_adv_professional_tainees_temp_01.pdf"
+    },
+    {
+        "date": "04/05/2026",
+        "board": "CEL",
+        "title": "E1 Grade Officers",
+        "qualification": "Graduate with minimum 55% marks + Professional qualification, Minimum 2 years post-qualification experience",
+        "last_date": "30-05-2026",
+        "total_posts": "3",
+        "salary": "Rs. 40,000 - Rs. 1,40,000 Per Month",
+        "age_limit": "Maximum Age: 30 years || Age Relaxation: SC/ST: +5 years; OBC(NCL): +3 years; PwBD-General: +10 years; PwBD-OBC: +13 years; PwBD-SC/ST: +15 years; J&K domiciled (1980-1989): +5 years. Maximum age: 55 years.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Written Examination || Personal Interview || Document Verification || Pre-employment Medical Examination",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.celindia.co.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/786788-69f8652b96b0251900981.pdf"
+    },
+    {
         "date": "02/05/2026",
         "board": "IGRUA",
         "title": "Library Assistant",

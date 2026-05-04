@@ -1,6 +1,38 @@
 [
     {
         "date": "04/05/2026",
+        "board": "Bharathidasan University",
+        "title": "Project Assistant",
+        "qualification": "M.Sc. in Environmental Science/ Environmental Management/ Environmental Biotechnology/ Botany/ Life Science subjects",
+        "last_date": "06-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs.25,000/-pm",
+        "age_limit": "28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bdu.ac.in/",
+        "official_notification": "https://www.bdu.ac.in/docs/employment/PA-CMRG-ENVS-1-06052026.pdf"
+    },
+    {
+        "date": "04/05/2026",
+        "board": "IIT Madras",
+        "title": "Marketing & Communication Officer",
+        "qualification": "MBA in Marketing, Digital Marketing, or Corporate Communications, M.A. in Mass Communication, Journalism, or English",
+        "last_date": "13-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 35,000/- - Rs. 50,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitm.ac.in/contact",
+        "official_notification": "https://icsrstaff.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1777443899.pdf"
+    },
+    {
+        "date": "04/05/2026",
         "board": "CMC Vellore",
         "title": "Medical Lab Technician, Junior Radiotherapy Technician, Junior Cardiac Technician",
         "qualification": "Any Graduate, B.Sc, BPT, MBBS",

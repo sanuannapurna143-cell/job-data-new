@@ -1,6 +1,38 @@
 [
     {
         "date": "04/05/2026",
+        "board": "BITS Pilani",
+        "title": "Research Fellow",
+        "qualification": "PhD (or PhD submitted dissertation) in Economics",
+        "last_date": "05-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 70,000 per month (Consolidated)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bits-pilani.ac.in",
+        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/RA-Advertisement-IRRI-Edited.pdf"
+    },
+    {
+        "date": "04/05/2026",
+        "board": "NIT Warangal",
+        "title": "Junior Research Fellow",
+        "qualification": "B.Tech/ B.E, M.E/ M.Tech",
+        "last_date": "29-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 - 42000 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitw.ac.in",
+        "official_notification": "https://nitw.ac.in/api/static/files/jrf_2026-4-28-12-54-30.pdf"
+    },
+    {
+        "date": "04/05/2026",
         "board": "SVPNPA",
         "title": "Language Instructor, Stenographer Grade and More",
         "qualification": "Any Graduate, B.Tech/ B.E, Diploma, M.A, M.Sc",

@@ -1,6 +1,38 @@
 [
     {
         "date": "04/05/2026",
+        "board": "IIT Guwahati",
+        "title": "Assistant Project Engineer, Project Assistant",
+        "qualification": "B.Tech in CSE/ECE/IT or equivalent discipline, BCA/B.Sc-CS or equivalent discipline",
+        "last_date": "23-05-2026",
+        "total_posts": "3",
+        "salary": "Rs. 16000/- - Rs. 27000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on qualification and experience || Online Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitg.ac.in",
+        "official_notification": "https://www.iitg.ac.in/pdf/e1b68f6ecfc1c7e15f136f6a8fb41c55.pdf"
+    },
+    {
+        "date": "04/05/2026",
+        "board": "NIT Silchar",
+        "title": "Research Assistant / Field Investigator",
+        "qualification": "M.A, M.Phil/ Ph.D",
+        "last_date": "10-05-2026",
+        "total_posts": "3",
+        "salary": "Research Assistant: Rs. 20,000/- - Rs. 37,000/- Per Month || Field Investigator: Rs. 20,000/- - Rs. 37,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 35 years as on 10-05-2026. || Age relaxation for SC/ST/OBC/WOMEN/EWS candidates will be as per the Government of India Rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Screening of Applications || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nits.ac.in",
+        "official_notification": "https://www.nits.ac.in/storage/CareerDocument/Career_69f0ecf23d3c7.pdf"
+    },
+    {
+        "date": "04/05/2026",
         "board": "NIPER Guwahati",
         "title": "Chief Executive Officer",
         "qualification": "Doctorate in Life Sciences or Ph.D. in Life Sciences",
