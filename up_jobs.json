@@ -1,6 +1,22 @@
 [
     {
         "date": "05/05/2026",
+        "board": "IIT Kanpur",
+        "title": "Project Manager",
+        "qualification": "Bachelor's degree in Any Discipline with Proficiency in Design tools such as Canva, Adobe Photoshop or Illustrator",
+        "last_date": "07-05-2026",
+        "total_posts": "2",
+        "salary": "Salary: 16000-1300-31800",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/ee-apm-28-04-26.html"
+    },
+    {
+        "date": "05/05/2026",
         "board": "KGMU",
         "title": "Junior Resident (Non PG / Non-Academic)",
         "qualification": "MBBS (including completion of Internship) or equivalent degree recognized by MCI",
@@ -14,6 +30,22 @@
         "syllabus": "Not Available",
         "official_website": "https://kgmu.org/",
         "official_notification": "https://www.kgmu.org/upload_file/user_download/2eb8f508852aab9540ffbe318ca10601.pdf"
+    },
+    {
+        "date": "05/05/2026",
+        "board": "KGMU",
+        "title": "Senior Resident (Un-reg.) / Non PG Junior Resident",
+        "qualification": "M.D./M.S./DNB recognized by MCI/NMC (Senior Resident), MBBS including Internship recognized by MCI (Non PG Junior Resident)",
+        "last_date": "07-05-2026",
+        "total_posts": "9",
+        "salary": "Pay and allowances as per University rules",
+        "age_limit": "Maximum 5 years for SC/ST/OBC candidates having domicile of Uttar Pradesh, widowed/divorced/legally separated women who have not re-married, and disabled/handicapped persons as per Government rules.",
+        "application_fee": "Rs. 3,000/-",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "kgmcindia.edu",
+        "official_notification": "https://www.kgmu.org/upload_file/user_download/24ede0c1b11e537e50136c3949fd10c7.pdf"
     },
     {
         "date": "05/05/2026",
