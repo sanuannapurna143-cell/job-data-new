@@ -1,6 +1,22 @@
 [
     {
         "date": "05/05/2026",
+        "board": "IIT Gandhinagar",
+        "title": "Research Associate-I (RA I)",
+        "qualification": "Ph.D. (Bio-nanotechnology/Biomedical Engineering/Materials Sciences and Engineering/Chemical Engineering/ Nano-coating/ Pharmaceutical etc",
+        "last_date": "17-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. ₹ 54,200/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitgn.ac.in/",
+        "official_notification": "https://drive.google.com/file/d/1-yIzDqnmioPmMRJ-TJwjE9LpJiJBEO0X/view"
+    },
+    {
+        "date": "05/05/2026",
         "board": "IIM Ahmedabad",
         "title": "Research Associate",
         "qualification": "PhD in Computer Science, Information Systems, Data Science, Machine Learning, Applied Mathematics, Quantitative Economics,",
