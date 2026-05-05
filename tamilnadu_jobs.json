@@ -1,5 +1,37 @@
 [
     {
+        "date": "05/05/2026",
+        "board": "IIT Madras",
+        "title": "Project Officer",
+        "qualification": "B.Tech/ B.E, M.Sc, MBA/ PGDM",
+        "last_date": "13-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000/- - Rs. 40,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Test/Interview || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://icsrstaff.iitm.ac.in",
+        "official_notification": "https://icsrstaff.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1777444198.pdf"
+    },
+    {
+        "date": "05/05/2026",
+        "board": "Anna University",
+        "title": "Project Assistant",
+        "qualification": "B.E / B.Tech , M.E / M.Tech",
+        "last_date": "15-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.annauniv.edu/",
+        "official_notification": "https://www.annauniv.edu/pdf/Adverstisement%20-CMRG250444%20_Recruitment_Project_Assistant.pdf"
+    },
+    {
         "date": "04/05/2026",
         "board": "IIT Madras",
         "title": "Junior Research Fellow",
