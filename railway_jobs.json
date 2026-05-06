@@ -1,5 +1,37 @@
 [
     {
+        "date": "06/05/2026",
+        "board": "DMRC",
+        "title": "Project Director",
+        "qualification": "Bachelor’s Degree in Civil Engineering",
+        "last_date": "26-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 120000 - 280000 Per Month",
+        "age_limit": "Direct Recruitment: Maximum 57 years || Deputation: Maximum 55 years || PRCE: Minimum 55 years and Maximum 62 years",
+        "application_fee": "Not Available",
+        "selection_process": "Personal Interview || Medical fitness examination (Executive/Technical category for Direct Recruitment & PRCE)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://delhimetrorail.com/",
+        "official_notification": "https://backend.delhimetrorail.com/documents/10675/Advt.pdf"
+    },
+    {
+        "date": "06/05/2026",
+        "board": "RRC SECR",
+        "title": "Trade Apprentice (Act Apprenticeship)",
+        "qualification": "Must have already passed both qualifications on the date of notification (05.05.2026)",
+        "last_date": "04-06-2026",
+        "total_posts": "1644",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "NIL (No fee mentioned)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://secr.indianrailways.gov.in/",
+        "official_notification": "https://apprenticeshipindia.gov.in"
+    },
+    {
         "date": "02/05/2026",
         "board": "RLDA",
         "title": "Site Engineer (Civil/Electrical Engineering)",
@@ -145,22 +177,6 @@
     },
     {
         "date": "16/04/2026",
-        "board": "RITES",
-        "title": "Professionals",
-        "qualification": "Diploma or Degree in Mechanical/Electrical/Electronics/Electronics & Telecommunication Engineering.",
-        "last_date": "05-05-2026",
-        "total_posts": "2",
-        "salary": "Basic pay and DA, fixed/variable allowances @ 23% of Basic Pay, HRA/Lease, Contribution to PF, Gratuity as per Payment of Gratuity Act. || Other benefits: Leaves, Maternity Leave, Medical facility, Accident/Death Insurance, Leave Encashment as per company rules applicable to Contract employees.",
-        "age_limit": "Maximum Age: 40 years || Age Relaxation:SC/ST Category: 5 yearsOBC-NCL Category: 3 yearsPersons with Benchmark Disabilities (PwBD): 10 Years || SC/ST Category: 5 years || OBC-NCL Category: 3 years || Persons with Benchmark Disabilities (PwBD): 10 Years",
-        "application_fee": "NIL",
-        "selection_process": "Document Scrutiny/verification process || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.rites.com",
-        "official_notification": "https://www.rites.com/Upload/Career/Advertisement_pdf-2026-Apr-16-11-21-55.pdf"
-    },
-    {
-        "date": "16/04/2026",
         "board": "MRVC",
         "title": "Project Engineer (Bridge)",
         "qualification": "Diploma in Civil/Mechanical/Metallurgical Engineering (≥60%), B.E./B.Tech in Civil/Mechanical/Metallurgical Engineering (≥60%), Proficiency in MS Office, Relevant experience in steel fabrication/erection/inspection",
@@ -206,22 +222,6 @@
         "syllabus": "Not Available",
         "official_website": "https://clw.indianrailways.gov.in/",
         "official_notification": "https://clw.indianrailways.gov.in/"
-    },
-    {
-        "date": "09/04/2026",
-        "board": "RVNL",
-        "title": "General Manager (Design), Assistant Manager (Rajbhasha)",
-        "qualification": "M.A, B.Tech/B.E, Diploma",
-        "last_date": "05-05-2026",
-        "total_posts": "2",
-        "salary": "General Manager: ₹1,20,000 – ₹2,80,000 + allowances || Assistant Manager (Rajbhasha) :₹30,000 – ₹1,20,000 + allowances",
-        "age_limit": "Maximum age shall not exceed 30 years. || Age relaxation as per GoI guidelines (SC/ST/OBC/PwBD/Ex-Servicemen); Additional relaxation for existing RVNL employees (Regular/Contract/Outsource) equal to period of service.",
-        "application_fee": "Rs. 400/-",
-        "selection_process": "Written Test || Personal Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.rvnl.org",
-        "official_notification": "https://rvnl.org/RVNL_cms/uploads/careers/advt_012026.pdf"
     },
     {
         "date": "02/04/2026",

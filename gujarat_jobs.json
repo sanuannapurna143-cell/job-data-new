@@ -1,5 +1,21 @@
 [
     {
+        "date": "06/05/2026",
+        "board": "AIIMS Rajkot",
+        "title": "Assistant Professor",
+        "qualification": "Postgraduate qualification e.g. MD/MS/DM/MCh or",
+        "last_date": "04-06-2026",
+        "total_posts": "13",
+        "salary": "Rs. ₹ 1,42,506/- Per Month (Consolidated)",
+        "age_limit": "Maximum Age Limit: 50 years. || Age Relaxation: SC/ST: 5 years, OBC: 3 years, PwBD: 10 years, Govt Servant: 5 years, Ex-Serviceman: 5 years.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.aiimsrajkot.edu.in",
+        "official_notification": "https://aiimsrajkot.edu.in/api/files/Recruitment%20Advertisement%20for%20Faculty%20Posts%20in%20Various.pdf"
+    },
+    {
         "date": "05/05/2026",
         "board": "ONGC Energy Centre",
         "title": "Project Fellows/Associates",
@@ -493,7 +509,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "kseb-electricity-worker-recruitment-2026-via-kerala-psc-apply-online-for-985-posts-3047899"
     },
     {
         "date": "27/04/2026",
@@ -608,22 +624,6 @@
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3269d837afada308dd4aeab28ca2d57e4/uploads/2026/04/202604212049594280.pdf"
     },
     {
-        "date": "22/04/2026",
-        "board": "CSIR CSMCRI",
-        "title": "Project Associate-I / Senior Project Associate / Project Assistant-II / Project Associate-II",
-        "qualification": "Any Graduate, B.Tech/ B.E, Diploma, M.Phil/ Ph.D, M.Sc",
-        "last_date": "05-05-2026",
-        "total_posts": "37",
-        "salary": "Rs. 31,000+ HRA (for NET/GATE qualified) or Rs. 25,000+ HRA (for others)",
-        "age_limit": "Maximum Age Limit: 35 years for all posts. || Age relaxation will be as per government rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Interview (hybrid mode: online and offline)",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.csmcri.res.in/n",
-        "official_notification": "https://www.csmcri.res.in/node/10759"
-    },
-    {
         "date": "21/04/2026",
         "board": "AIIMS Rajkot",
         "title": "Professor cum Principal",
@@ -686,22 +686,6 @@
         "syllabus": "Not Available",
         "official_website": "www.iiitsurat.ac.in",
         "official_notification": "https://iiitsurat.ac.in/Advertisement_Assitant_Professor_Level10_April_2026.pdf"
-    },
-    {
-        "date": "17/04/2026",
-        "board": "CSMCRI",
-        "title": "Project Associate I",
-        "qualification": "M.Sc",
-        "last_date": "05-05-2026",
-        "total_posts": "2",
-        "salary": "Rs. 25000/- + HRA - Rs. 31000/- + HRA Per Month",
-        "age_limit": "Maximum Age Limit: 35 years || Age relaxation as per CSIR rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Scrutiny of applications || Online Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://csmcri.res.in/",
-        "official_notification": "https://www.csmcri.res.in/node/10755"
     },
     {
         "date": "17/04/2026",
@@ -830,22 +814,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rrbapply.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/03/852369-69b788a99f4b248509882.pdf"
-    },
-    {
-        "date": "01/04/2026",
-        "board": "SVNIT",
-        "title": "Senior Research Fellow",
-        "qualification": "M.E/ M.Tech, M.Phil/ Ph.D",
-        "last_date": "05-05-2026",
-        "total_posts": "2",
-        "salary": "Senior Research Fellow : Rs.42000/- per month plus HRA as per Institute norms. || Junior Research Fellow (JRF): Rs.37000/- per month plus HRA as per Institute norms.",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.svnit.ac.in",
-        "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/March/SRF%20ADVERTISEMENT%20SVNIT%20WATER&%20ENVIRONMENT.pdf"
     },
     {
         "date": "27/03/2026",

@@ -1,5 +1,21 @@
 [
     {
+        "date": "06/05/2026",
+        "board": "Indian Army",
+        "title": "Civilian Switch Board Operator (CSBO) Grade-II, Group 'C'",
+        "qualification": "Candidate will be disqualified if found to have contracted a marriage while having a living spouse, or entered into another marriage",
+        "last_date": "31-05-2026",
+        "total_posts": "190",
+        "salary": "Rs. 21,700/- + allowances (Level-3, Cell-1 as per 7th CPC Pay Matrix)",
+        "age_limit": "Age Limit / Relaxation",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.indianarmy.nic.in/",
+        "official_notification": "https://indianarmy.nic.in/writereaddata/Documents/Advt_020526.pdf"
+    },
+    {
         "date": "05/05/2026",
         "board": "CSC e-Governance Services Indian",
         "title": "Total",
@@ -110,21 +126,5 @@
         "syllabus": "Not Available",
         "official_website": "http://www.echs.gov.in",
         "official_notification": "https://www.echs.gov.in/assets/advertisement/ad%20%281%29.pdf"
-    },
-    {
-        "date": "15/04/2026",
-        "board": "BITS Pilani",
-        "title": "Junior Research Fellow",
-        "qualification": "M.Sc Degree in Chemistry/Physics, BE/BTech/ME/MTech in Chemical Engineering",
-        "last_date": "05-05-2026",
-        "total_posts": "Not Available",
-        "salary": "Junior Research Fellow :Rs. 30,000/- - Rs. 37,000/- Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on application and CV || Online Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.bits-pilani.ac.in",
-        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/Advertisement-for-JRF-Position_RS.pdf"
     }
 ]
