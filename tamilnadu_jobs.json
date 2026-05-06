@@ -1,6 +1,22 @@
 [
     {
         "date": "06/05/2026",
+        "board": "IIT Madras",
+        "title": "Junior Research Fellow",
+        "qualification": "B.E./B.Tech. in Electronic Engineering or photonics, M.Sc. in Physics or related field, Valid GATE score",
+        "last_date": "19-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- Per Month",
+        "age_limit": "Max: 32 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://icandsr.iitm.ac.in/",
+        "official_notification": "https://icsrstaff.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1777445085.pdf"
+    },
+    {
+        "date": "06/05/2026",
         "board": "CPCL",
         "title": "Industrial Training for CS Inter Qualified",
         "qualification": "CS Intermediate",

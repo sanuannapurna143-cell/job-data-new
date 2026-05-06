@@ -1,6 +1,38 @@
 [
     {
         "date": "06/05/2026",
+        "board": "JMI",
+        "title": "Post Graduate Teacher",
+        "qualification": "Master’s Degree + B.Ed. for PGT, Bachelor’s Degree + B.Ed. + CTET Paper II for most TGT, Relevant subject expertise, Urdu knowledge desirable",
+        "last_date": "12-05-2026",
+        "total_posts": "19",
+        "salary": "Pay per period basis",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting of Applications || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.jmi.ac.in",
+        "official_notification": "https://www.jmi.ac.in/upload/advertisement/jobs_jsss_2026may6.pdf"
+    },
+    {
+        "date": "06/05/2026",
+        "board": "STPINEXT",
+        "title": "Senior Manager",
+        "qualification": "Chartered Accountant (CA) or Company Secretary (CS) or MBA (Finance) or M.Com",
+        "last_date": "24-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. ₹1,50,000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://stpi.in",
+        "official_notification": "https://stpi.in/sites/default/files/career-documents/Employment_Notice_Sr_Mgr_stpinext_20260505_0.pdf"
+    },
+    {
+        "date": "06/05/2026",
         "board": "IIT Delhi",
         "title": "Project Assistant (Tech.)",
         "qualification": "B.Tech/B.E. (Computer Science/Information Technology), BCA/MCA, 2 years experience in Web development",

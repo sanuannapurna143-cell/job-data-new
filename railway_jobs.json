@@ -1,6 +1,38 @@
 [
     {
         "date": "06/05/2026",
+        "board": "RITES",
+        "title": "Post Name",
+        "qualification": "Diploma in Civil (preferred Degree or Project/Construction Management certification); 10 years after Diploma or 7 years after Degree, including significant experience in procurement strategy, tenders, bid management, contracts, estimates, billing, budgeting and cost control for Railway/Infrastructure projects.",
+        "last_date": "26-05-2026",
+        "total_posts": "35",
+        "salary": "₹70,000–₹80,000 per month (₹70,000 for Sr. Contract, ₹80,000 for Sr. QA/QC)",
+        "age_limit": "Not Available",
+        "application_fee": "No application fee (NIL) for all Individual Consultant posts.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rites.com/",
+        "official_notification": "https://www.rites.com/Upload/Career/Advt_YP_16_26_to_YP_38_26_pdf-2026-May-06-11-49-55.pdf"
+    },
+    {
+        "date": "06/05/2026",
+        "board": "IRCTC",
+        "title": "Qualified Chartered Accountant (CA)/Cost & Management Accountant (CMA)",
+        "qualification": "Chartered Accountant (CA)/Cost & Management Accountant (CMA)",
+        "last_date": "21-05-2026",
+        "total_posts": "4",
+        "salary": "Rs. 70,000/- per month (including statutory deductions) and any other allowances as applicable. || Medical Insurance - Reimbursable on submission of valid documents as per IRCTC extant guidelines.",
+        "age_limit": "UR: 40 years || OBC: 43 years (3 Years Relaxation) || SC/ST: 45 years (5 Years Relaxation) || PwBD: 50 years (10 Years Relaxation)",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Application form submission || Verification of original documents || Personal interview || Shortlisting based on credentials and performance || Medical fitness test || Security deposit of Rs. 25,000",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.irctc.com",
+        "official_notification": "https://www.irctc.com/assets/images2/NotificationCA_CMA27apr26.pdf"
+    },
+    {
+        "date": "06/05/2026",
         "board": "DMRC",
         "title": "Project Director",
         "qualification": "Bachelor’s Degree in Civil Engineering",

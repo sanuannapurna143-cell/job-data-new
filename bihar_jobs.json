@@ -1,6 +1,22 @@
 [
     {
-        "date": "05/05/2026",
+        "date": "06/05/2026",
+        "board": "BPSC",
+        "title": "Sugar Cane Officer",
+        "qualification": "Any Bachelors Degree",
+        "last_date": "31-05-2026",
+        "total_posts": "44",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 200/- (Rupees Two Hundred only) additional over the examination fee",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bpsc.bihar.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/785232-69f9c7db2e55d77325444.pdf"
+    },
+    {
+        "date": "06/05/2026",
         "board": "BPSC",
         "title": "Various Posts / Services under Bihar Government Departments",
         "qualification": "Bachelor's Degree from any recognized University; Optional subjects: (1) Home Science (2) Psychology (3) Sociology (4) Labour & Social Welfare - one of these must be selected as Main Exam optional subject",
@@ -13,7 +29,23 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bpsc.bihar.gov.in",
-        "official_notification": "https://bpsc.bihar.gov.in/advertisement/"
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/785232-69f9c7db2e55d77325444.pdf"
+    },
+    {
+        "date": "06/05/2026",
+        "board": "BERC",
+        "title": "Advisor (Tariff and Regulatory Work)",
+        "qualification": "Graduate in Engineering",
+        "last_date": "21-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs.1,20,000/-",
+        "age_limit": "Maximum Age Limit: 67 years as on 01-05-2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Comparison of qualifications and experience || Interview or interaction (if necessary)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.berc.co.in",
+        "official_notification": "https://berc.co.in/images/pdf/notice-adv/2026/ADVNO-04_DT_29042026.pdf"
     },
     {
         "date": "05/05/2026",

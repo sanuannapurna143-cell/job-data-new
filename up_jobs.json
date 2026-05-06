@@ -1,6 +1,22 @@
 [
     {
         "date": "06/05/2026",
+        "board": "IIT Kanpur",
+        "title": "Junior Research Fellow",
+        "qualification": "Graduate/Post Graduate Degree in EC/EE or allied engineering, GATE qualified",
+        "last_date": "23-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000/- - Rs. 44400/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/ee-jrf-04-05-26.html"
+    },
+    {
+        "date": "06/05/2026",
         "board": "IIT (BHU) Varanasi",
         "title": "Project Assistant",
         "qualification": "M. Tech. in Mechanical Engineering or related branch.",
