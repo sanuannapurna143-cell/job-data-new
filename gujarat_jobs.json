@@ -1,6 +1,54 @@
 [
     {
         "date": "06/05/2026",
+        "board": "IIT Gandhinagar",
+        "title": "Program Assistant II",
+        "qualification": "B.C.A./B.Sc./B.A./B.Com./B.B.A./LLB. or equivalent with 2 years experience",
+        "last_date": "10-05-2026",
+        "total_posts": "1",
+        "salary": "₹ 35,000/- to 55,000/- per month consolidated",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "iitgn.ac.in",
+        "official_notification": "https://drive.google.com/file/d/1X0Pkf-R26pgZNmAIWQxemFC4bmbBkBtJ/view"
+    },
+    {
+        "date": "06/05/2026",
+        "board": "Gujarat University",
+        "title": "Non-Teaching Posts",
+        "qualification": "Any Bachelors Degree, Any Graduate, Any Masters Degree, B.Com, M.A, M.Com, M.E/ M.Tech, M.Sc, MBA/ PGDM",
+        "last_date": "24-05-2026",
+        "total_posts": "28",
+        "salary": "Rs. 50,000 to Rs. 60,000 (Fixed consolidated monthly salary)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.gujaratuniversity.ac.in/",
+        "official_notification": "https://beta.gujaratuniversity.ac.in/data/pdfs/Recruitment/RECRUITMENT-007-NON%20TEACHING.pdf"
+    },
+    {
+        "date": "06/05/2026",
+        "board": "SGGU Godhra",
+        "title": "Principal, Assistant Professor, Librarian, P.T.I. (Physical Training Instructor), Tutor",
+        "qualification": "Post-graduation in the relevant subject with Ph.D. and minimum 55% marks + NET/SLET/Ph.D. as per UGC regulations + relevant teaching/administrative experience.",
+        "last_date": "25-05-2026",
+        "total_posts": "820",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Online only (Debit Card / Credit Card / Net Banking / UPI)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sggu.ac.in/",
+        "official_notification": "https://www.sggu.ac.in/recruitement.php#"
+    },
+    {
+        "date": "06/05/2026",
         "board": "AIIMS Rajkot",
         "title": "Assistant Professor",
         "qualification": "Postgraduate qualification e.g. MD/MS/DM/MCh or",
@@ -509,7 +557,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "kseb-electricity-worker-recruitment-2026-via-kerala-psc-apply-online-for-985-posts-3047899"
+        "official_notification": "assam-apsc-je-recruitment-2026-apply-online-for-53-junior-engineer-posts-3047968"
     },
     {
         "date": "27/04/2026",

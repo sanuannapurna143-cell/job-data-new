@@ -1,6 +1,38 @@
 [
     {
         "date": "06/05/2026",
+        "board": "IIT Indore",
+        "title": "Junior Research Fellow and Senior Research Fellow",
+        "qualification": "B.Tech./B.E./Master's degree for JRF, Ph.D. and/or Master's degree for SRF. GATE score preferred. Experience for SRF.",
+        "last_date": "17-05-2026",
+        "total_posts": "3",
+        "salary": "Junior Research Fellow (JRF):37000 p.m. + 20% HRA || Senior Research Fellow (SRF):42000 p.m. + 20% HRA",
+        "age_limit": "As per DST/Institute norms. || Relaxation for SC/ST/OBC candidates as per Government of India norms.",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiti.ac.in/",
+        "official_notification": "https://www.iiti.ac.in/public/storage/recruitments/April2026/vcypBoxzUGztbEi5arVd.pdf"
+    },
+    {
+        "date": "06/05/2026",
+        "board": "DLSA Jhabua",
+        "title": "Vehicle Driver",
+        "qualification": "10th Pass, Valid Driving License, Driving Experience, Vehicle Mechanic Experience (Preferred)",
+        "last_date": "30-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 12,000/- Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: No upper age limit specified. || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Application Scrutiny || Interview || Driving Test",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://jhabua.dcourts.gov.in/",
+        "official_notification": "https://mphc.gov.in/PDF/web_pdf/RE/DLSA%20Jhabua%20-%20Driver%20Recruitment.pdf"
+    },
+    {
+        "date": "06/05/2026",
         "board": "MPESB",
         "title": "Hospital Assistant / Aspatal Sahayak (Non-Executive, Fourth Grade)",
         "qualification": "Minimum Educational Qualification (Hospital Assistant - Direct Recruitment)",

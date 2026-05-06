@@ -1,6 +1,38 @@
 [
     {
         "date": "06/05/2026",
+        "board": "Cochin Shipyard",
+        "title": "Rigger (Apprenticeship Training Scheme – 2 Years)",
+        "qualification": "Pass in VIII Std. Graduates or Diploma holders not eligible. Physical requirements as per Annexure-I.",
+        "last_date": "30-05-2026",
+        "total_posts": "40",
+        "salary": "After selection on contract basis:",
+        "age_limit": "Age Limit",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cochinshipyard.in",
+        "official_notification": "https://cochinshipyard.in/uploads/career/242b385d48b43e9114c366ef82ba57ee.pdf"
+    },
+    {
+        "date": "06/05/2026",
+        "board": "CSL",
+        "title": "Supervisor Trainee",
+        "qualification": "Three-year Diploma in Mechanical Engineering or Electrical Engineering",
+        "last_date": "15-05-2026",
+        "total_posts": "2",
+        "salary": "During 1 year of training, a consolidated stipend of ₹ 30,000/- per month will be provided. || After successful completion of training, the salary will be in the range of ₹ 28,000-1,10,000 (PS-1 Grade) per month.",
+        "age_limit": "Maximum Age Limit: 27 years as on 30-04-2026. || Age relaxation will be applicable as per government rules.",
+        "application_fee": "₹ 300/- (plus bank charges)",
+        "selection_process": "Objective Type Written Test",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cochinshipyard.in",
+        "official_notification": "https://cochinshipyard.in/uploads/career/5937c6dbf9fd2808b67e598f47547156.pdf"
+    },
+    {
+        "date": "06/05/2026",
         "board": "Kerala PSC",
         "title": "Electricity Worker",
         "qualification": "Government approved 2-year National/State Trade Certificate in Electrician/Wireman trade.",

@@ -1,6 +1,22 @@
 [
     {
         "date": "06/05/2026",
+        "board": "IIT Delhi",
+        "title": "Project Assistant (Tech.)",
+        "qualification": "B.Tech/B.E. (Computer Science/Information Technology), BCA/MCA, 2 years experience in Web development",
+        "last_date": "20-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 39,420 - Rs. 51,420/- p.m. plus HRA @ 27% Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1777895401515_ea7x2lq.pdf"
+    },
+    {
+        "date": "06/05/2026",
         "board": "ICAR NIPB",
         "title": "Young Professional-II",
         "qualification": "Master’s degree/B.Tech. in Botany/Molecular Biology/Biotechnology/Agricultural Biotechnology.",
@@ -1437,7 +1453,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "indian-army-csbo-recruitment-2026-apply-online-for-190-civilian-switch-board-operator-posts-3046902"
+        "official_notification": "Not Available"
     },
     {
         "date": "11/04/2026",
