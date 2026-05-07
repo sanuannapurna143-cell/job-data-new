@@ -1,6 +1,22 @@
 [
     {
         "date": "07/05/2026",
+        "board": "ESIC",
+        "title": "Faculty and Senior Residents",
+        "qualification": "As per Medical Institutions (Qualifications of Faculty) Regulations 2025 (NMC Gazette Notification dated 30-06-2025)",
+        "last_date": "29-05-2026",
+        "total_posts": "64",
+        "salary": "7 th CPC salary at Level-11 (In addition to the basic pay Rs. 67,700.00 + other allowances like DA, NPA & HRA etc would be paid according to rules in force",
+        "age_limit": "Faculty: Maximum 69 years || Senior Resident: Maximum 45 years",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/1_Advertisement_for_Walk_in_Interview_for_Recruitment_of_Faculty_and_Senior_Residents_on_Contractual_Basis_English_1778132495.pdf"
+    },
+    {
+        "date": "07/05/2026",
         "board": "IIT Hyderabad",
         "title": "Office Executive",
         "qualification": "Bachelor’s degree in any stream with minimum 65% marks",

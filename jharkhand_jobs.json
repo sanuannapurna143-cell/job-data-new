@@ -1,6 +1,22 @@
 [
     {
         "date": "07/05/2026",
+        "board": "JSSC",
+        "title": "Post Name",
+        "qualification": "Degree/Post-Graduate in Pharmacy, Biochemistry or Medicine, or equivalent qualification recognized by the appointing authority; post-qualification lab experience of minimum 6 months required",
+        "last_date": "30-06-2026",
+        "total_posts": "611",
+        "salary": "Pay Matrix Level-7, Rs. 44,900-1,42,400/-",
+        "age_limit": "Upper Age Limit",
+        "application_fee": "Rs. 100/- (Rupees One Hundred only) - Non-Refundable",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://jssc.jharkhand.gov.in/",
+        "official_notification": "https://jssc.jharkhand.gov.in/"
+    },
+    {
+        "date": "07/05/2026",
         "board": "NVS Patna",
         "title": "PGTs, TGTs, Creative Teachers & Staff Nurse (Contractual)",
         "qualification": "Any Bachelors Degree, B.A, BCA, B.Ed, B.Sc, Diploma, Any Post Graduate, M.Sc, M.E/ M.Tech, M.P.Ed",

@@ -1,6 +1,22 @@
 [
     {
         "date": "07/05/2026",
+        "board": "GSSSB",
+        "title": "Additional Assistant Engineer (Civil), Class-3",
+        "qualification": "B.Tech/ B.E, Diploma",
+        "last_date": "10-05-2026",
+        "total_posts": "14",
+        "salary": "Rs. 49,600/- (Fixed Pay for first 5 years) || Rs. 39,900/- to Rs. 1,26,600/- (Level-7) after 5 years",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 33 years || Age relaxation is applicable as per rules: PwD General Male: +10 years (max 43); General Female: +15 years (max 45); Reserved Male: +15 years (max 45); Reserved Female: +20 years (max 45). Age limit as on 20-03-2026.",
+        "application_fee": "Rs. 400/-",
+        "selection_process": "Written Exam (MCQ: Part-A 90 marks General subjects, Part-B 120 marks Civil Engineering, total 210 marks, 40% qualifying in each part) || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://gsssb.gujarat.gov.in",
+        "official_notification": "https://ojas.gujarat.gov.in/ojas1/AdvtDetailFiles/GSSSB_202526_402.pdf"
+    },
+    {
+        "date": "07/05/2026",
         "board": "IIT Gandhinagar",
         "title": "Junior Research Fellow",
         "qualification": "Post Graduate Degree in Basic Science, Graduate / Post Graduate Degree in Professional Course.",

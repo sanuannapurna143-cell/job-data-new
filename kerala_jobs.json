@@ -1,6 +1,22 @@
 [
     {
         "date": "07/05/2026",
+        "board": "CMET Thrissur Lab",
+        "title": "Project Associate-I / Project Assistant",
+        "qualification": "MSc. (Chemistry) with 60% marks / 1st class, 3 Years Diploma in Electrical/Mechanical Engineering with 1st Class/60% marks",
+        "last_date": "13-05-2026",
+        "total_posts": "2",
+        "salary": "Project Associate-I: Rs. 37,000/- per month || Project Assistant: Rs. 27,000/-",
+        "age_limit": "Maximum Age Limit: 28 years (as on 30-04-2026) || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test for initial screening if many candidates || Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://cmet.gov.in",
+        "official_notification": "https://cmet.gov.in/sites/default/files/jobs/Walk-in-Interviewon12-13052026.pdf"
+    },
+    {
+        "date": "07/05/2026",
         "board": "CSIR NIO",
         "title": "Project Associate - II",
         "qualification": "MSc Marine Biology/Biological Oceanography/Marine Science with minimum two years experience in relevant field.",
