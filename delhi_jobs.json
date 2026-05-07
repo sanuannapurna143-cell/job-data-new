@@ -1,6 +1,38 @@
 [
     {
         "date": "07/05/2026",
+        "board": "ICAR IARI",
+        "title": "Manager (Marketing & Communication)",
+        "qualification": "MBA/PGDM/Equivalent Master degree in Agriculture/Agri-Business/finance/marketing/IT/Economics/Agri Economics/International Business from UGC recognized institute/universities",
+        "last_date": "26-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1.5 lakh Per Month",
+        "age_limit": "Maximum Age Limit: 50 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iari.res.in/",
+        "official_notification": "https://iari.res.in/files/jobs/Web_add_MMC_06052026.pdf"
+    },
+    {
+        "date": "07/05/2026",
+        "board": "Union Bank of India",
+        "title": "Apprentice (under Apprentices Act, 1961)",
+        "qualification": "Graduate Degree in any discipline from a recognized University/Institute. Result should be declared on or before 01.04.2026. Graduation should not be more than 4 years old (i.e., after 01.04.2022).",
+        "last_date": "19-05-2026",
+        "total_posts": "1865",
+        "salary": "Rs. 15,000/-",
+        "age_limit": "Upper Age Limit / Relaxation",
+        "application_fee": "Rs. 944/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.unionbankofindia.co.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/04/852369-69f0ab8c4e7c035764795.pdf"
+    },
+    {
+        "date": "07/05/2026",
         "board": "IFCI",
         "title": "Senior Consultant, Associate and More",
         "qualification": "Postgraduate degree in Management/Engineering/Finance/Economics/Climate Science/Environmental Engineering/Sustainability/Environmental Economics, Chartered Accountant, MBA (Finance), CA/CMA/CFA, Masters in Sustainability Management/Environmental Studies/Resource Management/Climate Science/Sustainable Development and Policy",
@@ -721,22 +753,6 @@
     },
     {
         "date": "28/04/2026",
-        "board": "Union Bank of India",
-        "title": "Apprentice (under Apprentices Act, 1961)",
-        "qualification": "Graduate Degree in any discipline from a recognized University/Institute. Result should be declared on or before 01.04.2026. Graduation should not be more than 4 years old (i.e., after 01.04.2022).",
-        "last_date": "19-05-2026",
-        "total_posts": "1865",
-        "salary": "Rs. 15,000/-",
-        "age_limit": "Upper Age Limit / Relaxation",
-        "application_fee": "Rs. 944/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.unionbankofindia.co.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/04/852369-69f0ab8c4e7c035764795.pdf"
-    },
-    {
-        "date": "28/04/2026",
         "board": "TCIL",
         "title": "Resident Engineer, System Security Officer and More",
         "qualification": "B.Tech (CS/IT/EC), MCA, M.Sc (IT/CS/EC)",
@@ -1453,7 +1469,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "mahanadi-coalfields-recruitment-2026-apply-online-for-500-asst-foreman-technician-posts-3045759"
+        "official_notification": "Not Available"
     },
     {
         "date": "11/04/2026",

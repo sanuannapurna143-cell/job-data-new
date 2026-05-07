@@ -1,6 +1,22 @@
 [
     {
         "date": "07/05/2026",
+        "board": "DHFWS Yadgiri",
+        "title": "Various Vacancy",
+        "qualification": "MBBS, PG Degree, Diploma, B.Sc MLT, SSLC etc. (Post-wise details available in notification)",
+        "last_date": "20-05-2026",
+        "total_posts": "32",
+        "salary": "Rs. 14,000/- - Rs. 1,30,000/- Per Month",
+        "age_limit": "Please refer to the official notification for specific age limit details for each post. || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://yadgir.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s3ba3866600c3540f67c1e9575e213be0a/uploads/2026/05/17779556779162.pdf"
+    },
+    {
+        "date": "07/05/2026",
         "board": "BEML",
         "title": "Deputy General Manager, Assistant General Manager, Assistant Manager, Sr. Manager etc.",
         "qualification": "B.Tech/ B.E, M.A, M.Des",

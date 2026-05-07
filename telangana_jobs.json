@@ -1,6 +1,54 @@
 [
     {
         "date": "07/05/2026",
+        "board": "IIT Hyderabad",
+        "title": "Office Executive",
+        "qualification": "Bachelor’s degree in any stream with minimum 65% marks",
+        "last_date": "26-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. ₹ 30,000/- Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iith.ac.in",
+        "official_notification": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_47_Office_Executive_Dt_05-05-2026.pdf"
+    },
+    {
+        "date": "07/05/2026",
+        "board": "BITS Pilani",
+        "title": "Research Fellow",
+        "qualification": "M. Pharm (Pharmaceutics) with 60% marks",
+        "last_date": "15-05-2026",
+        "total_posts": "1",
+        "salary": "Rs 42,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://hyderabad.bits-pilani.ac.in",
+        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/Research-Fellow-Advertisement-Transform-SciTech-Punna-Rao-Ravi.pdf"
+    },
+    {
+        "date": "07/05/2026",
+        "board": "NIT Warangal",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.E./B.Tech., M.E./M.Tech. or equivalent, M.Sc.",
+        "last_date": "15-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- - Rs. 42,000/- Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitw.ac.in",
+        "official_notification": "https://nitw.ac.in/api/static/files/JRF_Advertisement_2026-5-6-9-19-50.pdf"
+    },
+    {
+        "date": "07/05/2026",
         "board": "NIT Warangal",
         "title": "Research Associate I",
         "qualification": "Ph.D. in Electronics and Communication Engineering or equivalent degree, 03 years of research, teaching and design and development experience after ME / MTech in Electronics and Communication Engineering or equivalent degree with at least one research paper in Science Citation Indexed (SCI) journal.",
@@ -141,7 +189,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://finance.telangana.gov.in/",
-        "official_notification": "union-bank-of-india-apprentice-recruitment-2026-apply-online-for-1865-posts-3047111"
+        "official_notification": "Not Available"
     },
     {
         "date": "04/05/2026",

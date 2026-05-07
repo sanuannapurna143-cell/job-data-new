@@ -1,6 +1,22 @@
 [
     {
         "date": "07/05/2026",
+        "board": "FM University",
+        "title": "Professor, Associate Professor & Assistant Professor",
+        "qualification": "Any Masters Degree, M.Phil/ Ph.D",
+        "last_date": "07-06-2026",
+        "total_posts": "53",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "₹1000/- for General / SEBC candidates || ₹600/- for SC / ST candidates || No fee for PwD candidates Keep the payment receipt / transaction ID for future reference.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://fmuniversity.nic.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/032568-69fc3bea9280c94406904.pdf"
+    },
+    {
+        "date": "07/05/2026",
         "board": "MCL",
         "title": "Asst. Foreman (Electrical) (Trainee), T&S Gr-C (E&M) | Technician (Electrician) (Trainee), Cat-III (E&M)",
         "qualification": "Matriculate + ITI (2 years) in Electrician Trade with NCVT/SCVT certificate + 1 year training/experience + LT Permit under IE rules for Mines or 440-550 Volts mining parts permit",
