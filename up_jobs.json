@@ -1,6 +1,38 @@
 [
     {
         "date": "08/05/2026",
+        "board": "NHDC",
+        "title": "Manager (Finance& Accounts), Dy. Manager (Comm.), Asst. Manager (Comm.) and Sr. Officer (Comm.)",
+        "qualification": "Chartered Accountant/Cost Accountant/MBA (Finance) for Manager; Degree/Diploma in Textiles Technology/Engineering/Chemistry for Commercial posts.",
+        "last_date": "11-05-2026",
+        "total_posts": "7",
+        "salary": "Manager (Finance& Accounts):Pay Scale: Rs. 60000-180000. Gross Pay (approx): Rs. 1,31,040/- p.m. || Deputy Manager (Commercial):Pay Scale: Rs. 50000-160000 (IDA). Gross Pay (approx): Rs. 1,09,200/- p.m. || Assistant Manager (Commercial):Pay Scale: Rs. 40000-140000 (IDA). Gross Pay (approx): Rs. 87,360/- p.m. || Senior Officer (Commercial):Pay Scale: Rs. 27000-95000. Gross Pay (approx): Rs. 59,000/- p.m.",
+        "age_limit": "Manager (Finance& Accounts):Maximum age 42 years. Relaxation: As per Govt. directives for SC/ST/OBC/PWD/EWS/Ex-Servicemen. 5 years for Internal Candidates (if in service for last 03 yrs). || Deputy Manager (Commercial):Maximum age 40 years. Relaxation: As per Govt. directives for SC/ST/OBC/PWD/EWS/Ex-Servicemen. 5 years for Internal Candidates (if in service for last 03 yrs). || Assistant Manager (Commercial):Maximum age 38 years. Relaxation: As per Govt. directives for SC/ST/OBC/PWD/EWS/Ex-Servicemen. 5 years for Internal Candidates (if in service for last 03 yrs). || Senior Officer (Commercial):Maximum age 35 years. Relaxation: As per Govt. directives for SC/ST/OBC/PWD/EWS/Ex-Servicemen. 5 years for Internal Candidates (if in service for last 03 yrs).",
+        "application_fee": "Rs. 500",
+        "selection_process": "Personal Interview || Written Test || Group Discussion",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nhdc.org.in",
+        "official_notification": "https://recruit.nhdc.eprime.app/storage/job_pdfs/job_1776334560_Detailed_Recruitment_notification.......pdf"
+    },
+    {
+        "date": "08/05/2026",
+        "board": "ESIC Hospital Sahibabad",
+        "title": "Super Specialists, Specialists, and Senior Residents",
+        "qualification": "MBBS, MD/MS/DNB, DM/Mch in concerned specialty, PG Degree/Diploma, MBBS with PG Degree/Diploma or equivalent, MBBS with 2 years experience.",
+        "last_date": "19-05-2026",
+        "total_posts": "45",
+        "salary": "Rs. 2,00,000/- per month (Super Specialist Entry Level), Rs. 100,000/- per month (Part Time Super Specialist Entry Level), Level-11 as per 7th CPC + Other allowances (Junior Specialist), Rs. 60,000/- per month (Part-Time contractual Specialist)",
+        "age_limit": "Not exceeding 69 years for Super Specialists and Senior Residents, Not exceeding 45 years for Senior Residents.",
+        "application_fee": "Rs. 300/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://esic.nic.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_Interview_on_18th_amp_19th_of_May_2026_for_Recruitment_of_Full_Time_Part_Time_Super_Specialist_Full_Time_Part_Time_Specialist_and_Senior_Residents_under_03_Years_Residency_Scheme_on_contract_basis_at_ESIC_Hospital_Sahibabad_1778064172.pdf"
+    },
+    {
+        "date": "08/05/2026",
         "board": "ESIC Hospital Jajmau",
         "title": "Specialist, Senior Resident",
         "qualification": "MBBS, PG Degree or Diploma",

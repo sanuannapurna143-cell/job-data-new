@@ -1,6 +1,38 @@
 [
     {
         "date": "08/05/2026",
+        "board": "OFH VFJ",
+        "title": "MBBS Doctors",
+        "qualification": "MBBS",
+        "last_date": "13-05-2026",
+        "total_posts": "2",
+        "salary": "Montlily Remuneration: Rs. 75000/- Per Month || Daily rate of reduction from the remuneration for absence: Rs. 2500/- per day",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ddpdoo.gov.in",
+        "official_notification": "https://ddpdoo.gov.in/storage/document/69fc775a0292c.pdf"
+    },
+    {
+        "date": "08/05/2026",
+        "board": "AIIMS Bhopal",
+        "title": "Gynecology Consultant (IVF) & Embryologist",
+        "qualification": "MBBS with specialization in Gynecology and Obstetrics and experience in ART clinic, or Post-graduate in clinical embryology with experience in human gametes and embryos.",
+        "last_date": "16-05-2026",
+        "total_posts": "2",
+        "salary": "Rs. 1,42,506/- per month (consolidated) for Gynecology Consultant (IVF) and Rs. 56,640/- per month (consolidated) for Embryologist.",
+        "age_limit": "Maximum Age Limit: 50 years || Age Relaxation: As per Government of India rules for SC/ST, OBC, Women, and PwBD candidates.",
+        "application_fee": "No application fee",
+        "selection_process": "Document Verification || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsbhopal.edu.in",
+        "official_notification": "https://aiimsbhopal.edu.in/AIIMSFiles/career/Download/Advertisement__IVF.pdf"
+    },
+    {
+        "date": "08/05/2026",
         "board": "IIITM Gwalior",
         "title": "Assistant Engineer, Junior Engineer",
         "qualification": "1st Class B.E./B.Tech. or Diploma in Electrical/Civil Engineering, Post qualification experience from IITs/IISc/IIMs/IIITs/NITs/IISERs or similar institutions/Govt Organizations/PSUs",
