@@ -1,6 +1,38 @@
 [
     {
         "date": "08/05/2026",
+        "board": "NAM Kerala",
+        "title": "Therapist (Male & Female)",
+        "qualification": "SSLC pass with one year experience in assisting Ayurveda Panchakarma Therapy.",
+        "last_date": "14-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 14700 -15000 /- Per Month",
+        "age_limit": "Therapist (Male):Maximum age limit is 40 years. Relaxation for Retired Ayurveda Therapists: Below 60 years. Relaxation for Experienced candidates: Upper age limit 50 years. || Therapist (Female):Maximum age limit is 40 years. || Therapist (Male & Female):Age limit not specified. || Multi-purpose Health Worker:Maximum age limit is 40 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Certificate Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://nam.kerala.gov.in",
+        "official_notification": "https://www.nam.kerala.gov.in/images/careers/1778148065509.pdf"
+    },
+    {
+        "date": "08/05/2026",
+        "board": "CMD Kerala",
+        "title": "Project Officer",
+        "qualification": "Master's degree in a relevant field, with preference for Social Science or Commerce streams with proficiency in accountancy and book-keeping.",
+        "last_date": "14-05-2026",
+        "total_posts": "1",
+        "salary": "₹ 30,000/-",
+        "age_limit": "Maximum 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://cmd.kerala.gov.in",
+        "official_notification": "https://cmd.kerala.gov.in/wp-content/uploads/2026/05/Notification-Draft-Recruitment-Project-Officer-pga-April-2026-2.pdf"
+    },
+    {
+        "date": "08/05/2026",
         "board": "FACT",
         "title": "Post Name",
         "qualification": "Degree in Chemical Engineering/Petrochemical Engineering/Chemical Technology/Petrochemical Technology/Petroleum Refining & Petrochemical Engineering/Polymer Technology",

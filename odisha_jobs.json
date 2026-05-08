@@ -1,6 +1,22 @@
 [
     {
         "date": "08/05/2026",
+        "board": "IIM Sambalpur",
+        "title": "Faculty",
+        "qualification": "Any Graduate, M.Phil/ Ph.D",
+        "last_date": "08-06-2026",
+        "total_posts": "Not Available",
+        "salary": "Professor: Academic Level 14 A || Professor of Practice on Contract: Consolidated Pay || Associate Professor: Academic Level 13 A2 || Associate Professor of Practice on Contract: Consolidated Pay || Assistant Professor (Grade-I): Academic Level 12 || Assistant Professor (Grade-II): Academic Level 10/11",
+        "age_limit": "Professor of Practice on Contract: Maximum age limit is 65 years. || Associate Professor of Practice on Contract: Maximum age limit is 65 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iimsambalpur.ac.in",
+        "official_notification": "https://iimsambalpur.ac.in/wp-content/uploads/2026/05/Advertisement-for-Faculty-Positions-in-English.pdf"
+    },
+    {
+        "date": "08/05/2026",
         "board": "Angul Forest Division",
         "title": "Sociologist",
         "qualification": "Any Graduate",
