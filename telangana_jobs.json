@@ -1,5 +1,21 @@
 [
     {
+        "date": "09/05/2026",
+        "board": "IIT Hyderabad",
+        "title": "Office Executive",
+        "qualification": "Bachelor’s degree in any stream with minimum 65% marks",
+        "last_date": "26-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. ₹ 30,000/- Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iith.ac.in",
+        "official_notification": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_47_Office_Executive_Dt_05-05-2026.pdf"
+    },
+    {
         "date": "08/05/2026",
         "board": "PJTAU",
         "title": "Teaching Associates / Part Time Teachers",
@@ -30,22 +46,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.esic.gov.in",
         "official_notification": "https://esic.gov.in/attachments/recruitmentfile/1_Advertisement_for_Walk_in_Interview_for_Recruitment_of_Faculty_and_Senior_Residents_on_Contractual_Basis_English_1778132495.pdf"
-    },
-    {
-        "date": "07/05/2026",
-        "board": "IIT Hyderabad",
-        "title": "Office Executive",
-        "qualification": "Bachelor’s degree in any stream with minimum 65% marks",
-        "last_date": "26-05-2026",
-        "total_posts": "1",
-        "salary": "Rs. ₹ 30,000/- Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iith.ac.in",
-        "official_notification": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_47_Office_Executive_Dt_05-05-2026.pdf"
     },
     {
         "date": "07/05/2026",
@@ -221,7 +221,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://finance.telangana.gov.in/",
-        "official_notification": "cg-vyapam-recruitment-2026-apply-online-for-295-fireman-driver-and-more-posts-3048415"
+        "official_notification": "ssb-constable-gd-sports-quota-recruitment-2026-apply-online-for-404-posts-3046853"
     },
     {
         "date": "04/05/2026",
