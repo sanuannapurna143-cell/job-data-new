@@ -1,6 +1,54 @@
 [
     {
         "date": "09/05/2026",
+        "board": "UPSC",
+        "title": "Various Group ‘A’ & Group ‘B’ Gazetted Posts",
+        "qualification": "Shortlisting (based on qualifications/experience/Recruitment Test) + Interview",
+        "last_date": "29-05-2026",
+        "total_posts": "45",
+        "salary": "Academic Level 13A1",
+        "age_limit": "Reservation",
+        "application_fee": "For all Candidates: Rs. 25/- || For SC/ST/PwBD/Women candidates: NIL || Details of application fee will be available in the online application portal. Candidates are advised to check the instructions while filling the form. Fee exemption is applicable as per UPSC rules for SC/ST/PwBD/Female candidates (wherever notified).",
+        "selection_process": "Selection will be made on the basis of: - Shortlisting based on essential/desirable qualifications and experience. - Recruitment Test (if conducted). - Personal Interview. || Final merit list will be prepared after the interview. Minimum qualifying marks apply for each category.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://upsc.gov.in/",
+        "official_notification": "https://upsc.gov.in/sites/default/files/AdvtNo-04-2026-Engl-080526.pdf"
+    },
+    {
+        "date": "09/05/2026",
+        "board": "WCCB",
+        "title": "Stenographer, Driver and More Posts",
+        "qualification": "Bachelor's Degree in Law, Stenographers, 12th Pass, 10th Pass, and other relevant qualifications as per post.",
+        "last_date": "10-06-2026",
+        "total_posts": "11",
+        "salary": "Public Prosecutor: Level-10 (PB-3 Rs.15600-39100 GP Rs.5400 pre-revised) || Stenographer Grade-I: Level-6 (PB-2 Rs.9300-34800 GP Rs.4200 pre-revised) || Upper Division Clerk: Level-4 (Rs.25500-81100) || Stenographer Grade-III: Level-4 (Rs.25500-81100) || Head Constable / Forest Guards: Level-4 (Rs.25500-81100) || Driver: Level-2 (Rs.19900-63200)",
+        "age_limit": "Maximum Age Limit: 56 years for all posts. || Age relaxation rules are as per government norms.",
+        "application_fee": "Not Available",
+        "selection_process": "Screening of Applications || Verification of Eligibility, APARs, Vigilance Clearance",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://wccb.gov.in/",
+        "official_notification": "https://moef.gov.in/storage/tender/1777435577.pdf"
+    },
+    {
+        "date": "09/05/2026",
+        "board": "NHRC",
+        "title": "Junior Research Consultant (JRC)",
+        "qualification": "LLB, M.A, M.Sc",
+        "last_date": "09-06-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Applications will be screened by a Screening Committee. Shortlisted candidates will be called for a Personal Interview by a Selection Committee. Final empanelment will be based on the recommendation of the Selection Committee.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nhrc.nic.in",
+        "official_notification": "https://nhrc.nic.in/assets/uploads/vacancies_results/Procedure_Guidelines_engagement_JRCRecruitment_Nov2023.pdf"
+    },
+    {
+        "date": "09/05/2026",
         "board": "SSB",
         "title": "Constable (General Duty) under Sports Quota",
         "qualification": "10TH",
@@ -1421,7 +1469,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
-        "official_notification": "ssb-constable-gd-sports-quota-recruitment-2026-apply-online-for-404-posts-3046853"
+        "official_notification": "Not Available"
     },
     {
         "date": "11/04/2026",

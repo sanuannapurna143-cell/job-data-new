@@ -1,5 +1,37 @@
 [
     {
+        "date": "09/05/2026",
+        "board": "IBITF",
+        "title": "Chief Executive Officer (CEO) and Chief Technology Officer (CTO)",
+        "qualification": "MBA for CEO, B.Tech/B.E. in CS/Engg. or related for CTO. Minimum 10 years experience for CEO, 5 years for CTO.",
+        "last_date": "22-05-2026",
+        "total_posts": "2",
+        "salary": "CEO: Up to 45 lakhs per annum, CTO: Up to 24 lakhs per annum",
+        "age_limit": "Chief Executive Officer (CEO): Maximum age limit is 55 years. || Chief Technology Officer (CTO): Maximum age limit is 45 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Written test (optional) || Interview/Interaction",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ibitf.co.in/",
+        "official_notification": "https://www.ibitf.co.in/static/media/CEO_CTO_Advertisement.72b662516a7f1f8e9594.pdf"
+    },
+    {
+        "date": "09/05/2026",
+        "board": "WCD Raipur",
+        "title": "Various Contractual Posts",
+        "qualification": "Varies by post (12th to Graduate + Experience)",
+        "last_date": "18-05-2026",
+        "total_posts": "8",
+        "salary": "Legal Probation Officer (DCPU): ₹27,804 Per Month Consolidated || Outreach Worker (DCPU): ₹10,592 Per Month Consolidated || Assistant Cum Computer Operator (CWC): ₹11,916 Per Month Consolidated || Child Welfare Officer / Careworker (Govt Boys Children Home, Mana Camp): ₹23,170 Per Month Consolidated || Child Welfare Officer / Careworker (Govt Girls Children Home, Mana Camp): ₹23,170 Per Month Consolidated || Counselor (Govt Girls Children Home, Mana Camp): ₹23,170 Per Month Consolidated || Housemother (Govt Girls Children Home, Mana Camp): ₹14,564 Per Month Consolidated || Paramedical Staff (Govt Girls Children Home, Mana Camp): ₹11,916 Per Month Consolidated",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 35 years || Age relaxation will be provided as per Chhattisgarh Government rules from General Administration Department. Maximum 45 years after all relaxations.",
+        "application_fee": "Not Available",
+        "selection_process": "Scrutiny of Applications || Merit List (70% academic marks + max 10% experience marks) || Shortlisting in 1:10 ratio || Personal Interview / Skill Test (20 marks) || Final Merit List and Waiting List",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.raipur.gov.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s30584ce565c824b7b7f50282d9a19945b/uploads/2026/05/17778915695537.pdf"
+    },
+    {
         "date": "08/05/2026",
         "board": "CG Vyapam",
         "title": "Fireman, Vehicle Driver, Vehicle Driver-cum-Operator, Station Officer, Store Keeper, Mechanic, etc.",
