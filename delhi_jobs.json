@@ -1,6 +1,38 @@
 [
     {
         "date": "09/05/2026",
+        "board": "EdCIL",
+        "title": "Consultant (Legal)",
+        "qualification": "LLB degree with minimum 60% marks from a recognized college/university, At least three years of work experience in legal field",
+        "last_date": "22-05-2026",
+        "total_posts": "10",
+        "salary": "Rs.70,000 Per Month",
+        "age_limit": "Maximum Age Limit: 35 years as on 31 March 2026. || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Group Discussion || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.edcilindia.co.in/",
+        "official_notification": "https://www.edcilindia.co.in/Default/ViewFile/?id=1778192909149_Final%20Detailed%20Advt%20for%20website%20040526.pdf&path=TCareer"
+    },
+    {
+        "date": "09/05/2026",
+        "board": "IIT Delhi",
+        "title": "Project Manager and Sr. Project Manager",
+        "qualification": "MBA or Master's degree in related discipline, Post Graduate Degree",
+        "last_date": "20-05-2026",
+        "total_posts": "2",
+        "salary": "Rs. 64,260 - Rs. 1,01,610/- Per Month",
+        "age_limit": "Maximum Age Limit: 40 years for all posts. || Age relaxation rules are not specified in the provided data.",
+        "application_fee": "Not Available",
+        "selection_process": "Short-listing of eligible candidates || Offline Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in/rec",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1778222618463_6vx3ls7.pdf"
+    },
+    {
+        "date": "09/05/2026",
         "board": "UPSC",
         "title": "Various Group ‘A’ & Group ‘B’ Gazetted Posts",
         "qualification": "Shortlisting (based on qualifications/experience/Recruitment Test) + Interview",
