@@ -1,6 +1,22 @@
 [
     {
         "date": "11/05/2026",
+        "board": "AIIMS Delhi",
+        "title": "Data Entry Operator (Grade-B)",
+        "qualification": "Bachelor's degree in any discipline",
+        "last_date": "12-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 29,200/- Per Month",
+        "age_limit": "Maximum Age Limit: 28 years. || Age relaxation will be applicable as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/ccm-30-4-26.pdf"
+    },
+    {
+        "date": "11/05/2026",
         "board": "KVK Ambala",
         "title": "Driver",
         "qualification": "Matriculation pass from a recognized board.",

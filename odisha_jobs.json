@@ -1,6 +1,38 @@
 [
     {
         "date": "11/05/2026",
+        "board": "Berhampur University",
+        "title": "Professor, Associate Professor, Assistant Professor",
+        "qualification": "Any Masters Degree, M.Phil/ Ph.D",
+        "last_date": "10-06-2026",
+        "total_posts": "95",
+        "salary": "Professor: Pay Level-14 (7th CPC), Associate Professor: Pay Level-13A (7th CPC), Assistant Professor: Pay Level-10 (7th CPC)",
+        "age_limit": "Candidates above 60 years will not be eligible to apply. The superannuation age is presently 60 years as per Higher Education Department, Government of Odisha norms. Only matriculation/SSC certificate/pass certificate issued by the concerned educational board will be considered as proof of date of birth.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.buodisha.edu.in",
+        "official_notification": "https://buodisha.edu.in/wp-content/uploads/2026/04/Recruitment-Notice.pdf"
+    },
+    {
+        "date": "11/05/2026",
+        "board": "Sambalpur University",
+        "title": "Professor, Associate Professor, Assistant Professor",
+        "qualification": "(i) Good academic record with a Ph.D. Degree in the concerned/allied/relevant subject. (ii) A Master degree with 55% marks (50% for SC/ST/Non-creamy layer OBC/Differently abled) in a concerned/relevant/allied subject from an Indian University or accredited foreign university. Relaxation of 5% in marks also applicable to Ph.D. degree holders who completed Master degree prior to 19 September, 1991.",
+        "last_date": "16-06-2026",
+        "total_posts": "Subject/Department/College",
+        "salary": "Professor: Cell-1, Level-14 | Associate Professor: Cell-1, Level-13A | Assistant Professor: Cell-1, Level-10 (Odisha Revised Scales of Pay for University Teachers / UGC Scale of Pay Rule, 2019)",
+        "age_limit": "Below 60 years (Candidates above 60 years are not eligible to apply)",
+        "application_fee": "Rs. 2000/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.suniv.ac.in",
+        "official_notification": "https://www.suniv.ac.in/images/documents/doc_1778488496.pdf"
+    },
+    {
+        "date": "11/05/2026",
         "board": "NIT Rourkela",
         "title": "Electrical Engineer",
         "qualification": "Diploma/B.Tech. Degree in Electrical Engineering",

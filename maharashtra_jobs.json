@@ -1,6 +1,38 @@
 [
     {
         "date": "11/05/2026",
+        "board": "TMC ACTREC",
+        "title": "ICU/OT Technician",
+        "qualification": "B.Sc, Diploma",
+        "last_date": "20-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 26,210/- p.m. to Rs. 35,000/- p.m.",
+        "age_limit": "Max: 33 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://actrec.gov.in/",
+        "official_notification": "https://actrec.gov.in/sites/default/files/2026-05/Walk%20in%20ICUOT%20Technician%2020.05.2026.docx.pdf"
+    },
+    {
+        "date": "11/05/2026",
+        "board": "TISS",
+        "title": "Programme Manager",
+        "qualification": "Master's Degree in any discipline",
+        "last_date": "25-05-2026",
+        "total_posts": "1",
+        "salary": "Salary: Rs. 50000/- - Rs. 55000/- Per Month",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.tiss.edu",
+        "official_notification": "https://tiss.ac.in/uploads/files/Advt_Program_Manager_RPC_7.5.26.pdf"
+    },
+    {
+        "date": "11/05/2026",
         "board": "RRB",
         "title": "Assistant Loco Pilot (ALP)",
         "qualification": "As per Detailed CEN No. 01/2026 (Post-wise Education Qualification & Medical Standard)",

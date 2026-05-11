@@ -1,6 +1,22 @@
 [
     {
         "date": "11/05/2026",
+        "board": "IIT Roorkee",
+        "title": "Project Positions",
+        "qualification": "B.Tech/ B.E, M.E/ M.Tech, M.Phil/ Ph.D",
+        "last_date": "25-05-2026",
+        "total_posts": "12",
+        "salary": "Project Fellow: 100000 + HRA || Project Associate:  60000 + HRA, 40000 + HRA, 30000 + HRA || Research Associate: 60000 + HRA, 40000 + HRA, 30000 + HRA, 45000 + HRA",
+        "age_limit": "Please refer to the official notification for specific age limit details for each post. Age relaxation will be provided as per government norms.",
+        "application_fee": "Nil",
+        "selection_process": "Shortlisting || Online Interview || Document Verification",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CE/2026/adv07052026.pdf"
+    },
+    {
+        "date": "11/05/2026",
         "board": "AIIMS Rishikesh",
         "title": "Project Research Scientist – II (Medical)",
         "qualification": "BAMS, M.Phil/ Ph.D",
