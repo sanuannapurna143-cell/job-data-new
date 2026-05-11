@@ -1,6 +1,38 @@
 [
     {
         "date": "11/05/2026",
+        "board": "SASTRA",
+        "title": "Project Associate I",
+        "qualification": "M.Sc., Physics (or) equivalent in Physics with First class.",
+        "last_date": "21-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000 + HRA Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sastra.edu/",
+        "official_notification": "https://www.sastra.edu/advertisement/4594-project-associate-i-position-under-dst-anrf-project.html"
+    },
+    {
+        "date": "11/05/2026",
+        "board": "DCPU Tenkasi",
+        "title": "Case Worker",
+        "qualification": "12th Pass, Computer Knowledge",
+        "last_date": "21-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 18000 Per Month",
+        "age_limit": "Maximum Age Limit: 42 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://tenkasi.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s37cbbc409ec990f19c78c75bd1e06f215/uploads/2026/05/17780698734323.pdf"
+    },
+    {
+        "date": "11/05/2026",
         "board": "RRB",
         "title": "Assistant Loco Pilot (ALP)",
         "qualification": "As per Detailed CEN No. 01/2026 (Post-wise Education Qualification & Medical Standard)",

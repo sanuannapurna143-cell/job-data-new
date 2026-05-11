@@ -1,6 +1,54 @@
 [
     {
         "date": "11/05/2026",
+        "board": "IIT Hyderabad",
+        "title": "Senior Project Manager",
+        "qualification": "Ph.D in Engineering/Science/Technology",
+        "last_date": "28-05-2026",
+        "total_posts": "1",
+        "salary": "Consolidated Pay: ₹80,000 - ₹1,20,000",
+        "age_limit": "Max Age: 45 yrs",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iith.ac.in/",
+        "official_notification": "https://careers.iith.ac.in/jobs/18"
+    },
+    {
+        "date": "11/05/2026",
+        "board": "Stree Nidhi Credit Cooperative Federation",
+        "title": "Assistant Manager (Field Operations)",
+        "qualification": "Mandatory Technical Requirement",
+        "last_date": "29-05-2026",
+        "total_posts": "123",
+        "salary": "Rs. 21,600/- per month (Total emoluments approximately Rs. 33,960/- per month)",
+        "age_limit": "Candidates must be between 25 and 30 years of age prior to the date of release of this notification (09-05-2026). The upper age limit is relaxed for reserved categories as specified below. In no case shall the maximum age exceed the relaxed limit applicable to the candidate's category.",
+        "application_fee": "Candidates applying for the post of Assistant Manager are required to pay a non-refundable application fee (inclusive of GST) as specified below. The fee must be paid online only through the IBPS application portal. Bank transaction charges / payment gateway charges will have to be borne by the candidate separately. Fee paid will not be refunded under any circumstances.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.streenidhi.telangana.gov.in/",
+        "official_notification": "https://www.streenidhi.telangana.gov.in/SNTG/Downloads/Documents/Notification_AMs%20Field%20Operations.pdf"
+    },
+    {
+        "date": "11/05/2026",
+        "board": "BITS Pilani",
+        "title": "Project Assistant",
+        "qualification": "B.Sc / Diploma degree in Chemical /Petroleum/Mechanical engineering.",
+        "last_date": "13-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 20000/ - Rs. 25000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bits-pilani.ac.in",
+        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/Advertisement-for-project-assistant-position_Roketsan-project-Srikanta-Dinda.pdf"
+    },
+    {
+        "date": "11/05/2026",
         "board": "BRIC NIAB",
         "title": "Project Associate I",
         "qualification": "Post Graduate Degree in Natural Sciences",
@@ -253,7 +301,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://finance.telangana.gov.in/",
-        "official_notification": "rrb-alp-recruitment-2026-cen-012026-notification-out-apply-online-for-11-127-posts-3041572"
+        "official_notification": "Not Available"
     },
     {
         "date": "04/05/2026",

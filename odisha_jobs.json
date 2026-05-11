@@ -1,6 +1,22 @@
 [
     {
         "date": "11/05/2026",
+        "board": "NIT Rourkela",
+        "title": "Electrical Engineer",
+        "qualification": "Diploma/B.Tech. Degree in Electrical Engineering",
+        "last_date": "20-05-2026",
+        "total_posts": "1",
+        "salary": "INR 50,000.00 per month + HRA",
+        "age_limit": "No age limit specified for this position. || Age relaxation for SC/ST/PWD/Female candidates is 5 years, and for OBC candidates is 3 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitrkl.ac.in?utm_source=chatgpt.com",
+        "official_notification": "https://www.nitrkl.ac.in/docs/Career/ProjectFelow/2026/08052026160334112.pdf"
+    },
+    {
+        "date": "11/05/2026",
         "board": "RRB",
         "title": "Assistant Loco Pilot (ALP)",
         "qualification": "As per Detailed CEN No. 01/2026 (Post-wise Education Qualification & Medical Standard)",
@@ -14,6 +30,38 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rrbapply.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/03/852369-69b788a99f4b248509882.pdf"
+    },
+    {
+        "date": "11/05/2026",
+        "board": "SSC",
+        "title": "Educational Qualification",
+        "qualification": "12th Standard or equivalent from recognized Board/University. Stenography skill mandatory (tested in Skill Test).",
+        "last_date": "15-05-2026",
+        "total_posts": "731",
+        "salary": "Stenographer Grade C (post selection)",
+        "age_limit": "Crucial date: 01.08.2026 (born not before 02.08.1996 & not later than 01.08.2008 for Grade C; adjust for Grade D).",
+        "application_fee": "ForGeneral / OBC (NCL) / EWS:₹100/- || ForSC / ST / PwBD / ESM / Women:No fee (exempted) || Pay online via BHIM UPI / Net Banking / Card",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ssc.gov.in/",
+        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_steno_2026.pdf"
+    },
+    {
+        "date": "11/05/2026",
+        "board": "MCL",
+        "title": "Asst. Foreman (Electrical) (Trainee), T&S Gr-C (E&M) | Technician (Electrician) (Trainee), Cat-III (E&M)",
+        "qualification": "Matriculate + ITI (2 years) in Electrician Trade with NCVT/SCVT certificate + 1 year training/experience + LT Permit under IE rules for Mines or 440-550 Volts mining parts permit",
+        "last_date": "28-05-2026",
+        "total_posts": "500",
+        "salary": "Asst. Foreman: ₹47,330.25 per month | Technician: ₹1,583.32 per day",
+        "age_limit": "18 to 30 years as on 28/05/2026 (General/EWS)",
+        "application_fee": "General/OBC/EWS: ₹1000 + GST ₹180 = ₹1180 | SC/ST/PwBD/Female/ESM/CIL Employees: Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mahanadicoal.in/",
+        "official_notification": "https://www.mahanadicoal.in/OurPeople/pdf/NOTICE%20311%20Dtd.16.04.2026%20(ENGLISH)%2016042026.pdf"
     },
     {
         "date": "09/05/2026",
@@ -126,22 +174,6 @@
         "syllabus": "Not Available",
         "official_website": "https://fmuniversity.nic.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/05/032568-69fc3bea9280c94406904.pdf"
-    },
-    {
-        "date": "07/05/2026",
-        "board": "MCL",
-        "title": "Asst. Foreman (Electrical) (Trainee), T&S Gr-C (E&M) | Technician (Electrician) (Trainee), Cat-III (E&M)",
-        "qualification": "Matriculate + ITI (2 years) in Electrician Trade with NCVT/SCVT certificate + 1 year training/experience + LT Permit under IE rules for Mines or 440-550 Volts mining parts permit",
-        "last_date": "28-05-2026",
-        "total_posts": "500",
-        "salary": "Asst. Foreman: ₹47,330.25 per month | Technician: ₹1,583.32 per day",
-        "age_limit": "18 to 30 years as on 28/05/2026 (General/EWS)",
-        "application_fee": "General/OBC/EWS: ₹1000 + GST ₹180 = ₹1180 | SC/ST/PwBD/Female/ESM/CIL Employees: Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.mahanadicoal.in/",
-        "official_notification": "https://www.mahanadicoal.in/OurPeople/pdf/NOTICE%20311%20Dtd.16.04.2026%20(ENGLISH)%2016042026.pdf"
     },
     {
         "date": "07/05/2026",
@@ -494,22 +526,6 @@
         "syllabus": "Not Available",
         "official_website": "http://engagement-awc.odisha.gov.in",
         "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=159359"
-    },
-    {
-        "date": "25/04/2026",
-        "board": "SSC",
-        "title": "Educational Qualification",
-        "qualification": "12th Standard or equivalent from recognized Board/University. Stenography skill mandatory (tested in Skill Test).",
-        "last_date": "15-05-2026",
-        "total_posts": "731",
-        "salary": "Stenographer Grade C (post selection)",
-        "age_limit": "Crucial date: 01.08.2026 (born not before 02.08.1996 & not later than 01.08.2008 for Grade C; adjust for Grade D).",
-        "application_fee": "ForGeneral / OBC (NCL) / EWS:₹100/- || ForSC / ST / PwBD / ESM / Women:No fee (exempted) || Pay online via BHIM UPI / Net Banking / Card",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ssc.gov.in/",
-        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_steno_2026.pdf"
     },
     {
         "date": "24/04/2026",
