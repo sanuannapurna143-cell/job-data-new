@@ -1,6 +1,22 @@
 [
     {
         "date": "12/05/2026",
+        "board": "NIELIT Bikaner",
+        "title": "FOC cum Faculty",
+        "qualification": "B.Tech/ B.E, M.Sc, MCA",
+        "last_date": "19-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://nielit.gov.in",
+        "official_notification": "https://www.nielit.gov.in/sites/default/files/Ajmer/Advt%20for%20FOC%20cum%20Faculty.pdf"
+    },
+    {
+        "date": "12/05/2026",
         "board": "AIIMS Jodhpur",
         "title": "NMHS Survey Field Data Collector",
         "qualification": "MPH, M.Sc",

@@ -1,6 +1,38 @@
 [
     {
         "date": "12/05/2026",
+        "board": "FACT",
+        "title": "Technician (Process)",
+        "qualification": "B.Sc. Degree in Chemistry/Industrial Chemistry OR Diploma in Engineering [Chemical Engineering/Chemical Technology (including Petrochemical Technology)]",
+        "last_date": "21-05-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Consolidated pay of Rs.25,000/- per month || Increase of 3% on successful completion of each year || Leave, ESI, Provident Fund, TA & DA applicable based on eligibility, as per Rules of the Company",
+        "age_limit": "Maximum Age Limit: 26 years || Age Relaxation: SC/ST up to 5 years, OBC (NCL) up to 3 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Document Verification || Walk-in Selection",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://fact.co.in/",
+        "official_notification": "https://fact.co.in/images/upload/Notification-for-Publication-11.05.2026_2765.pdf"
+    },
+    {
+        "date": "12/05/2026",
+        "board": "Rubber Board",
+        "title": "Young Professional",
+        "qualification": "MBA Marketing / Agri Business Management, Knowledge in computer applications",
+        "last_date": "19-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000/- Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rubberboard.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/85204716-6a02e2a0a280c97162516.pdf"
+    },
+    {
+        "date": "12/05/2026",
         "board": "NIT Calicut",
         "title": "Junior Research Fellow",
         "qualification": "M.E/ M.Tech, M.Sc, MCA",
