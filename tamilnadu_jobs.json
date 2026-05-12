@@ -1,5 +1,37 @@
 [
     {
+        "date": "12/05/2026",
+        "board": "Anna University",
+        "title": "Project Assistant",
+        "qualification": "B.E/B.Tech, M.E/M.Tech, M.Sc (Computer Science)/MCA, Ph.D.",
+        "last_date": "15-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000/- Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://annauniv.edu",
+        "official_notification": "https://www.annauniv.edu/pdf/CMRG%2025-26%20project%20assistant%20advertisement.pdf"
+    },
+    {
+        "date": "12/05/2026",
+        "board": "Bharathidasan University",
+        "title": "Project Assistant",
+        "qualification": "M.Sc Chemistry with minimum 55% or 5.79 CGPA (50% or 5.26 CGPA for SC/ST students)",
+        "last_date": "21-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 25000 Per Month",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bdu.ac.in",
+        "official_notification": "https://www.bdu.ac.in/docs/employment/PA-CMRG-CHEM-1-21052026.pdf"
+    },
+    {
         "date": "11/05/2026",
         "board": "SASTRA",
         "title": "Project Associate I",

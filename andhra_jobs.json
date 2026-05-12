@@ -1,5 +1,37 @@
 [
     {
+        "date": "12/05/2026",
+        "board": "RINL",
+        "title": "Resident House Officer / Visiting Specialist",
+        "qualification": "MBBS (MCI Recognized) for RHOs, Post Graduate degree/Diploma in relevant specialty with minimum 3 months experience for Visiting Specialists",
+        "last_date": "14-05-2026",
+        "total_posts": "4",
+        "salary": "Resident House Officer: Rs.50,000/- per month",
+        "age_limit": "Maximum Age: 35 years as on 01 May 2026. || Age Relaxation: 5 years for SC/ST candidates and 3 years for OBC candidates (for RHOs).",
+        "application_fee": "Not Available",
+        "selection_process": "Personal Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.vizagsteel.com/",
+        "official_notification": "https://www.vizagsteel.com/code/tenders/jobdocs/medico2026/visiting_2026.pdf"
+    },
+    {
+        "date": "12/05/2026",
+        "board": "ESIC",
+        "title": "Full Time Specialists and Senior Residents",
+        "qualification": "MBBS, Postgraduate Degree / Diploma in concerned specialty from recognized university",
+        "last_date": "20-05-2026",
+        "total_posts": "9",
+        "salary": "Rs. 1,28,630/- Per Month",
+        "age_limit": "Full Time Specialists: Not exceeding 69 years. || Senior Residents: Not exceeding 45 years. || Age relaxation as per Central Government rules.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Submission of application + documents || Document verification || Scrutiny by committee || Screening Test (if large number of candidates) || Personal Interview || Final merit list based on interview performance",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_the_post_of_SRs_and_Specialists_held_on_25_05_2026_English_1778500362.pdf"
+    },
+    {
         "date": "11/05/2026",
         "board": "NIT Andhra Pradesh",
         "title": "Junior Research Fellow (JRF)",
