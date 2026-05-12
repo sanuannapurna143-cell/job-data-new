@@ -1,6 +1,22 @@
 [
     {
         "date": "12/05/2026",
+        "board": "Kalakshetra Foundation",
+        "title": "Teaching",
+        "qualification": "Any Graduate, Any Masters Degree, B.Ed, Diploma",
+        "last_date": "18-05-2026",
+        "total_posts": "5",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://www.kalakshetra.in",
+        "official_notification": "https://kalakshetra.in/wp-content/uploads/2026/05/BASSS-CT-Rec.-2-2026-2027-Adv.pdf"
+    },
+    {
+        "date": "12/05/2026",
         "board": "Anna University",
         "title": "Project Assistant",
         "qualification": "B.E/B.Tech, M.E/M.Tech, M.Sc (Computer Science)/MCA, Ph.D.",

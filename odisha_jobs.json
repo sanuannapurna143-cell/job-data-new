@@ -1,6 +1,38 @@
 [
     {
         "date": "12/05/2026",
+        "board": "OSOU Sambalpur",
+        "title": "Professor, Associate Professor, Assistant Professor",
+        "qualification": "Any Post Graduate, M.Phil/ Ph.D",
+        "last_date": "15-06-2026",
+        "total_posts": "38",
+        "salary": "Professor: Level-14 (7th CPC), Associate Professor: Level-13A (7th CPC), Assistant Professor: Level-10 (7th CPC)",
+        "age_limit": "Maximum age limit is 60 years as on the last date of application. The superannuation age is presently 60 years as per Government of Odisha norms.",
+        "application_fee": "Candidates are required to pay a non-refundable application fee online during the application process.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.osou.ac.in/",
+        "official_notification": "https://osou.ac.in/recruitment.html"
+    },
+    {
+        "date": "12/05/2026",
+        "board": "RDWU",
+        "title": "Professor, Associate Professor, Assistant Professor",
+        "qualification": "Any Masters Degree, M.Phil/ Ph.D",
+        "last_date": "10-06-2026",
+        "total_posts": "80",
+        "salary": "Professor: Pay Level-14 (7th CPC) | Associate Professor: Pay Level-13A (7th CPC) | Assistant Professor: Pay Level-10 (7th CPC)",
+        "age_limit": "Candidates above 60 years will not be eligible to apply",
+        "application_fee": "The application fee is non-refundable and must be paid online as per the bank details given in the online portal. Applications without applicable fee will be summarily rejected. Candidates applying for more than one post must apply separately and pay the fee for each post separately.",
+        "selection_process": "Selection will be as per UGC Notification 18th July 2018, supported by the ACT and Statute of the University. Applications received by due date will be screened/scrutinized. The list of eligible and ineligible candidates will be displayed on the website. For a single post, a maximum of 15 candidates will be called for interview; for multiple posts, candidates will be called in the ratio of 1:10 as per scores during scrutiny. Candidates called for interview must come prepared with a PPT covering brief biodata, subject domain strength, practical skill, student empower strategy, use of AI in pedagogy, funded research projects, consultancy research, and potential for national/international collaborations.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rdwu.ac.in",
+        "official_notification": "https://rdwu.ac.in/Notice/2026/RECRUITMENT%20NOTICE_RDWU_30.04.2026.pdf"
+    },
+    {
+        "date": "12/05/2026",
         "board": "Bank of India",
         "title": "Financial Literacy Counsellor",
         "qualification": "Graduate / Post graduate degree from UGC recognized University, Proficiency in local language (reading, writing, speaking and understanding), Retired Bank Officer in Scale I and above preferred, Background of rural credit and branch exposure preferred, Integrity not doubtful during service",
