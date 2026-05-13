@@ -1,6 +1,22 @@
 [
     {
         "date": "13/05/2026",
+        "board": "AIIMS Bhopal",
+        "title": "Medical Physicist (Nuclear Medicine)",
+        "qualification": "M.Sc. Nuclear Medicine Technology from a recognized University/Institution, RSO Level-II Certification recognized by AERB",
+        "last_date": "18-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 90,000/- Per Month (consolidated)",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 35 years || Age relaxation will be as per government rules.",
+        "application_fee": "Rs. 1,000/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.aiimsbhopal.edu.in",
+        "official_notification": "https://aiimsbhopal.edu.in/AIIMSFiles/career/Download/Advt._for_Medical_Physicist_on_contractual_basis.pdf"
+    },
+    {
+        "date": "13/05/2026",
         "board": "NABFINS",
         "title": "Cluster Head",
         "qualification": "Graduation and above",

@@ -1,6 +1,38 @@
 [
     {
         "date": "13/05/2026",
+        "board": "NIT Warangal",
+        "title": "Computer Assistant",
+        "qualification": "Bachelor's degree in Computer Science / Information Technology / BCA from a recognized University/Institute.",
+        "last_date": "25-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30,000 Per Month",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitw.ac.in/",
+        "official_notification": "https://nitw.ac.in/api/static/files/MMTTC_Advt_2026_2026-5-11-17-36-44.pdf"
+    },
+    {
+        "date": "13/05/2026",
+        "board": "Stree Nidhi",
+        "title": "General Manager, Deputy General Manager, Assistant General Manager, Chief Manager, Senior Manager, Manager, Team Leader & Associate (Research & Consultancy), Senior Consultant IT",
+        "qualification": "Postgraduate; preference to CA / MBA / PGDBM (Finance) / M.Com / Agriculture / Rural Management / Commerce from recognized university. CAIIB preferred for retired bank employees.",
+        "last_date": "20-05-2026",
+        "total_posts": "19",
+        "salary": "2,00,000",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 885/- (including GST)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.streenidhi.telangana.gov.in/",
+        "official_notification": "https://www.streenidhi.telangana.gov.in/SNTG/Downloads/Documents/Notification%20no%2001%20-%20%20Recruitment%20of%20staff%20as%20Consultants.pdf"
+    },
+    {
+        "date": "13/05/2026",
         "board": "BEL",
         "title": "Assistant Security Officer",
         "qualification": "Degree in any discipline (Pass Class from a recognized University)",
@@ -381,7 +413,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://finance.telangana.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "secr-apprentice-recruitment-2026-apply-online-for-1191-posts-3048979"
     },
     {
         "date": "04/05/2026",

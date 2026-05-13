@@ -1,6 +1,38 @@
 [
     {
         "date": "13/05/2026",
+        "board": "AAICLAS",
+        "title": "Security Screener (Fresher)",
+        "qualification": "Graduation from any recognized Board/University/Institution with minimum 60% marks for General/OBC/EWS candidates and minimum 55% marks for SC/ST candidates",
+        "last_date": "08-06-2026",
+        "total_posts": "158",
+        "salary": "Not Available",
+        "age_limit": "Upper Age Limit",
+        "application_fee": "Rs. 750/- (excluding Bank Charges & Other Taxes)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aaiclas.aero",
+        "official_notification": "https://www.aaiclas.aero/uploads/career/AAICLAS7501778657978.pdf"
+    },
+    {
+        "date": "13/05/2026",
+        "board": "SAIL ISP",
+        "title": "Nursing Tutor",
+        "qualification": "BSc (Nursing) / PB BSc (Nursing) / MSc (Nursing) OR Diploma in Nursing Education & Administration with two years of professional experience.",
+        "last_date": "27-05-2026",
+        "total_posts": "2",
+        "salary": "Nursing Tutor: Rs.30,000/- per month (consolidated)",
+        "age_limit": "Maximum Age Limit: 35 years. || Age relaxation will be applicable as per government rules.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://sail.co.in/",
+        "official_notification": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/IISCO_News%20&%20Jobs_12052026_110124.pdf"
+    },
+    {
+        "date": "13/05/2026",
         "board": "Balmer Lawrie",
         "title": "Junior Officer, Assistant Manager and More – 20 Posts",
         "qualification": "2 years' Full Time MBA/PG Degree/PG Diploma in HR/OD/HRD/IR/ER/HRM/Labour Relations/PM/Labour Studies/Change & Leadership or Master's in Social Work/Social Welfare or Equivalent (min. 65% marks, not through correspondence)",
