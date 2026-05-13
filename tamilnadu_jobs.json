@@ -1,6 +1,38 @@
 [
     {
         "date": "13/05/2026",
+        "board": "AAICLAS",
+        "title": "Assistant (Security)",
+        "qualification": "12th (Sr. Secondary) from any recognized Board/University/Institution",
+        "last_date": "02-07-2026",
+        "total_posts": "62",
+        "salary": "₹ 21,500/- (1st year), ₹ 22,000/- (2nd year), ₹ 22,500/- (3rd year) Consolidated",
+        "age_limit": "Maximum Age Limit: 27 years. || Age Relaxation: SC/ST: 5 years, OBC (Non-Creamy Layer): 3 years, Ex-Servicemen: 5 years.",
+        "application_fee": "₹ 500/-",
+        "selection_process": "Shortlisting (based on higher % marks in 12th) || Interaction / Interview || Merit list (based on interview marks) || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.aaiclas.aero",
+        "official_notification": "https://www.aaiclas.aero/uploads/career/AAICLAS8231778658325.pdf"
+    },
+    {
+        "date": "13/05/2026",
+        "board": "AAICLAS",
+        "title": "Security Screener (Fresher)",
+        "qualification": "Graduation from any recognized Board/University/Institution with minimum 60% marks for General/OBC/EWS candidates and minimum 55% marks for SC/ST candidates",
+        "last_date": "08-06-2026",
+        "total_posts": "158",
+        "salary": "Not Available",
+        "age_limit": "Upper Age Limit",
+        "application_fee": "Rs. 750/- (excluding Bank Charges & Other Taxes)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aaiclas.aero",
+        "official_notification": "https://www.aaiclas.aero/uploads/career/AAICLAS7501778657978.pdf"
+    },
+    {
+        "date": "13/05/2026",
         "board": "DCPU Mayiladuthurai",
         "title": "Legal-cum-Probation Officer / Assistant Cum Data Entry Operator",
         "qualification": "LLB, 12th Pass with Computer Diploma/Certificate",

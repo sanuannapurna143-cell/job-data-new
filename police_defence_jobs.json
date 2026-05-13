@@ -1,6 +1,38 @@
 [
     {
         "date": "13/05/2026",
+        "board": "DRDO DRDL",
+        "title": "Junior Research Fellow",
+        "qualification": "B.Tech./B.E First Class in relevant Engineering discipline with valid GATE score, M.E./M.Tech First Class in relevant Engineering discipline with B.Tech./B.E First Class",
+        "last_date": "01-06-2026",
+        "total_posts": "16",
+        "salary": "Rs. 37,000/- Per Month + HRA",
+        "age_limit": "Maximum Age Limit: 28 years || Age Relaxation: SC/ST: 5 years, OBC: 3 years",
+        "application_fee": "Nil",
+        "selection_process": "Shortlisting based on valid GATE score and percentage of marks in qualifying degree || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.drdo.gov.in",
+        "official_notification": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtDRDL13052026.pdf"
+    },
+    {
+        "date": "13/05/2026",
+        "board": "Indian Army",
+        "title": "TGC 144 Entry     – 30 Posts",
+        "qualification": "Merit list prepared engineering stream/subject wise on the basis of marks obtained at SSB interview. Tie-break 1: Older candidate ranked higher. Tie-break 2: Higher percentage of marks in degree (as per Para 3). Higher educational qualifications, previous performances etc. have no role. Joining Letters issued subject to vacancies and medical fitness.",
+        "last_date": "11-06-2026",
+        "total_posts": "30",
+        "salary": "Level 10: Rs. 56,100–1,77,500/- ; CTC approx. Rs. 17–18 Lakh per annum",
+        "age_limit": "Candidates must be between 20 to 27 years of age as on 01 January 2027. Unmarried candidates born not earlier than 01 January 2000 and not later than 01 January 2007 are eligible to apply. Only the date of birth as recorded in the Matriculation/Secondary School Examination Certificate or an equivalent (10th) certificate will be accepted; no other document relating to age will be accepted.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.joinindianarmy.nic.in/",
+        "official_notification": "https://www.joinindianarmy.nic.in/writereaddata/Portal/NotificationPDF/TGC_-_144_NOTIFICATION_BILINGUAL.pdf"
+    },
+    {
+        "date": "13/05/2026",
         "board": "Indian Army",
         "title": "Technical Entry Scheme (TES) 56     – 90 Posts",
         "qualification": "Merit list prepared solely on the basis of marks obtained in SSB Interview. Higher educational qualifications, previous performances, NCC background etc. have no role in finalization of merit list. Joining Letters issued subject to vacancies and medical fitness.",

@@ -1,6 +1,22 @@
 [
     {
         "date": "13/05/2026",
+        "board": "SECR",
+        "title": "Act Apprentice (Trade Apprentice) - Various Trades",
+        "qualification": "Technical",
+        "last_date": "11-06-2026",
+        "total_posts": "1191",
+        "salary": "Not Available",
+        "age_limit": "The candidate should have completed 15 years of age and should not have completed 24 years of age as on 11-06-2026. Age relaxation is subject to submission of latest caste certificate. Date of birth community-wise is as under: || Upper age limit is relaxable by 05 years for SC/ST candidates, 03 years for OBC, and 10 years for Ex-Servicemen and PWD.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://secr.indianrailways.gov.in",
+        "official_notification": "https://secr.indianrailways.gov.in/uploads/files/1778593274144-act%20apprentice%202026%2027%20eng%20notification.pdf"
+    },
+    {
+        "date": "13/05/2026",
         "board": "NIT Raipur",
         "title": "Project Assistant",
         "qualification": "B.Tech/ B.E, M.E/ M.Tech, M.Sc, MCA",

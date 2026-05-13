@@ -1,6 +1,38 @@
 [
     {
         "date": "13/05/2026",
+        "board": "ICAR NBSSLUP",
+        "title": "Assistant/UDC/LDC",
+        "qualification": "Graduation/Equivalent, 10 years regular service in Pay Level-4, 8 years regular service in PB-I Rs. 5200-20200 + GP Rs. 1900, 3 years service in analogous post.",
+        "last_date": "30-06-2026",
+        "total_posts": "13",
+        "salary": "Assistant:Pay Level 6 in the pay matrix (Pay band Rs. 9300-34800 + Grade Pay Rs. 4200/- pre-revised) || Upper Division Clerk:Pay Level 4 in the pay matrix (Pay Band Rs. 5200-20200 + Grade Pay Rs. 2400/- pre-revised) || Lower Division Clerk:Pay Level 2 in the pay matrix (Pay Band Rs. 5200-20200 + Grade Pay Rs. 1900/- pre-revised)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Deputation",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://icar-nbsslup.org.in",
+        "official_notification": "https://icar-nbsslup.org.in/wp-content/uploads/2026/Recruitment/Recruit_Deputation_11052026.pdf"
+    },
+    {
+        "date": "13/05/2026",
+        "board": "ICAR CIRCOT",
+        "title": "Young Professional-I",
+        "qualification": "Graduation in Agricultural Engineering, Mechanical Engineering, Chemistry, Chemical Engineering, Agriculture, Textile Technology, Textile Chemistry, Agricultural Sciences, Physics, or Diploma in relevant agricultural sciences/engineering/technology.",
+        "last_date": "19-05-2026",
+        "total_posts": "4",
+        "salary": "Rs. 30,000/- Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 45 years || Age Relaxation: 5 years for SC/ST, 3 years for OBC and 10 years for PH candidates as per govt. rules.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://circot.icar.gov.in",
+        "official_notification": "https://circot.icar.gov.in/sites/default/files/Walk_in_Interview_06.05.2026.pdf"
+    },
+    {
+        "date": "13/05/2026",
         "board": "Zilla Parishad Akola",
         "title": "Medical Officer",
         "qualification": "MBBS, Medical Council Registration, Internship Certificate, MSCIT",
