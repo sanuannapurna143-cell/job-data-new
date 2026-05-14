@@ -1,6 +1,38 @@
 [
     {
         "date": "14/05/2026",
+        "board": "RITES",
+        "title": "Individual Consultants",
+        "qualification": "Graduate in Civil/Mining Engg., Master’s in Geology, Graduate in Electrical/Mechanical Engg., Graduate in IT/CS/Electrical/Electronics/Civil/Inst./Mech./Auto., Diploma in Civil/Survey Engg.",
+        "last_date": "07-06-2026",
+        "total_posts": "23",
+        "salary": "Rs. 20,000 - Rs. 2,00,000 Per Month",
+        "age_limit": "Maximum Age Limit: 63 years for all posts.",
+        "application_fee": "Nil",
+        "selection_process": "Online Application || Document Scrutiny / Verification || Personal Interview || CV Forwarding to Client || Final Engagement subject to Client Approval",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rites.com",
+        "official_notification": "https://www.rites.com/Upload/Career/Advt_YP_39-58_26_pdf-2026-May-14-16-25-16.pdf"
+    },
+    {
+        "date": "14/05/2026",
+        "board": "Mizoram PSC",
+        "title": "Veterinary Assistant Surgeon (VAS)",
+        "qualification": "BVSc",
+        "last_date": "19-06-2026",
+        "total_posts": "1",
+        "salary": "Level-10 in the Pay Matrix",
+        "age_limit": "Min: 21 years, Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://mpsconline.mizoram.gov.in",
+        "official_notification": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/05/1f05b36032a777125cb16f85656775d6/advertisement-no10-of-2026-27-veterinary-assistant-surgeon-vas-under-efcc-deptt.pdf"
+    },
+    {
+        "date": "14/05/2026",
         "board": "Mizoram PSC",
         "title": "Upper Division Clerk",
         "qualification": "Bachelor’s Degree, Computer Proficiency, Mizo Language Proficiency",

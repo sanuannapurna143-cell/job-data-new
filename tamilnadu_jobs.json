@@ -1,6 +1,38 @@
 [
     {
         "date": "14/05/2026",
+        "board": "Manonmaniam Sundaranar University",
+        "title": "Project Assistant",
+        "qualification": "M.Sc",
+        "last_date": "22-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://msuniv.ac.in/",
+        "official_notification": "https://www.msuniv.ac.in/uploads/circular/pdfs/Interview_invitation.pdf"
+    },
+    {
+        "date": "14/05/2026",
+        "board": "Chennai District",
+        "title": "Para Legal Volunteers",
+        "qualification": "Preference for graduates in Social Work or Psychology.",
+        "last_date": "25-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 1000/- per visit, maximum Rs. 5000/- per case",
+        "age_limit": "25 to 65 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://chennai.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2026/05/17787431179210.pdf"
+    },
+    {
+        "date": "14/05/2026",
         "board": "RRB",
         "title": "Assistant Loco Pilot (ALP)",
         "qualification": "Electronics Engineering (and combinations)",

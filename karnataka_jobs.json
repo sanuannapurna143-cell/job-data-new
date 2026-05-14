@@ -1,6 +1,22 @@
 [
     {
         "date": "14/05/2026",
+        "board": "JNCASR",
+        "title": "Research Associate",
+        "qualification": "Ph.D in Theoretical Physics",
+        "last_date": "20-05-2026",
+        "total_posts": "1",
+        "salary": "Rs.58,000 + 30% HRA Per Month",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.jncasr.ac.in",
+        "official_notification": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-05/Advertisement.pdf"
+    },
+    {
+        "date": "14/05/2026",
         "board": "GESCOM",
         "title": "Apprentice - BE (Electrical & Electronics) Electrical Roster and Diploma (Electrical) Electrical Roster",
         "qualification": "BE / B.Tech in Electrical or Electronics Engineering from a State/Central Government recognized university or Government-aided institution. Degree must be obtained after January 2022. Degree Certificate / Provisional Degree Certificate (PDC) holders are eligible.",
