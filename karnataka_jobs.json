@@ -1,6 +1,38 @@
 [
     {
         "date": "14/05/2026",
+        "board": "GESCOM",
+        "title": "Apprentice - BE (Electrical & Electronics) Electrical Roster and Diploma (Electrical) Electrical Roster",
+        "qualification": "BE / B.Tech in Electrical or Electronics Engineering from a State/Central Government recognized university or Government-aided institution. Degree must be obtained after January 2022. Degree Certificate / Provisional Degree Certificate (PDC) holders are eligible.",
+        "last_date": "05-06-2026",
+        "total_posts": "275",
+        "salary": "Note: Apprentices will not be entitled to food, accommodation, or any other allowances during the training period. The training organization (GESCOM) has no obligation to provide employment after the training period, nor is there any right to claim employment.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://gescom.karnataka.gov.in/",
+        "official_notification": "https://gescom.karnataka.gov.in/uploads/BE%20and%20Diploma%20Apprenticeship%20Calling%20Notification_1778655155.pdf"
+    },
+    {
+        "date": "14/05/2026",
+        "board": "ICMR NINE",
+        "title": "Young Professional – I & II",
+        "qualification": "Graduate (55%) + 1 year experience, Postgraduate (55%) + 3 years experience",
+        "last_date": "02-06-2026",
+        "total_posts": "3",
+        "salary": "Young Professional – I: Rs. 35,000/- - Rs. 42,000/- Per Month || Young Professional – II: Rs. 35,000/- - Rs. 42,000/- Per Month",
+        "age_limit": "Maximum Age Limit for Young Professional – I: 30 years || Maximum Age Limit for Young Professional – II: 35 years || Age relaxation will be as per ICMR/Government of India rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Written Test || Interview/Personal Discussion",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://icmrnine.org/",
+        "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1778734110_co_415_notification_yp.pdf"
+    },
+    {
+        "date": "14/05/2026",
         "board": "DRDO DEBEL",
         "title": "Paid Internship",
         "qualification": "Final year B.E./B.Tech in Electronic & Communication Engineering",
