@@ -1,6 +1,22 @@
 [
     {
         "date": "15/05/2026",
+        "board": "BPSSC",
+        "title": "Assistant Sub-Inspector (Technical)",
+        "qualification": "Diploma in Electronics & Communication, Electronics & Tele Communication, Information Technology, or Electrical & Electronics with at least 50% marks (45% for SC/ST).",
+        "last_date": "21-06-2026",
+        "total_posts": "22",
+        "salary": "Level-5",
+        "age_limit": "Min: 21 years. Max: 37 years (UR Male), 40 years (UR Female, OBC Male/Female), 42 years (SC/ST Male/Female).",
+        "application_fee": "Rs. 100",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bpssc.bihar.gov.in",
+        "official_notification": "https://bpssc.bihar.gov.in/Notices/Final%20Advt.-%2007-2026.pdf"
+    },
+    {
+        "date": "15/05/2026",
         "board": "Patna High Court",
         "title": "District Judge (Entry Level), Direct From Bar Exam-2026",
         "qualification": "Advocates/Judicial Officers with 7 years of practice or more.",

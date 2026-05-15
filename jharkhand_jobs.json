@@ -1,6 +1,22 @@
 [
     {
         "date": "15/05/2026",
+        "board": "District AYUSH Society Giridih",
+        "title": "District Programme Manager",
+        "qualification": "Graduation degree in any discipline including AYUSH, MBA",
+        "last_date": "30-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 50,000/- Per Month",
+        "age_limit": "Min: 21 years, Max: 60 years",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://giridih.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s39b72e31dac81715466cd580a448cf823/uploads/2026/05/17787653705049.pdf"
+    },
+    {
+        "date": "15/05/2026",
         "board": "AIIMS Deoghar",
         "title": "Pharmacovigilance Assistant",
         "qualification": "Master degree in Pharmacology/Clinical Pharmacology/ Pharmacy Practice/Clinical Research. OR Pharm. D/MBBS/BDS",

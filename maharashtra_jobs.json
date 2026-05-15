@@ -1,6 +1,22 @@
 [
     {
         "date": "15/05/2026",
+        "board": "PCMC",
+        "title": "ENT Specialist, Physician and More",
+        "qualification": "Postgraduate degree (MD/MS/DNB/Diploma) in relevant specialty, Valid Maharashtra Medical Council registration, Medical fitness certificate",
+        "last_date": "20-05-2026",
+        "total_posts": "63",
+        "salary": "Rs. 2000 fixed + Rs. 100 per patient (maximum Rs. 5000 per visit). || Physician, Obstetrics & Gynecologist, Pediatrician: Once a week. || Ophthalmologist, Dermatologist, Psychiatrist, ENT Specialist: Once a fortnight.",
+        "age_limit": "Maximum Age Limit: 70 years for all posts.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Merit based on 50 marks (Subject Knowledge, Research, Leadership, Administrative Abilities, Experience)",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.pcmcindia.gov.in",
+        "official_notification": "https://www.pcmcindia.gov.in/cms_upload/jobs/227.2.pdf"
+    },
+    {
+        "date": "15/05/2026",
         "board": "TMC",
         "title": "IT Technical Engineer",
         "qualification": "B.E./B.Tech, Diploma, B.Sc",
