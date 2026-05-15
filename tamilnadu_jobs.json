@@ -1,6 +1,22 @@
 [
     {
         "date": "15/05/2026",
+        "board": "NIOT",
+        "title": "Consultants",
+        "qualification": "Bachelor's degree in relevant stream, 10 years relevant experience, Retired Government officers preferred",
+        "last_date": "12-06-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 60000/- Per Month",
+        "age_limit": "Maximum Age Limit: 63 years for all posts.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://niot.res.in/",
+        "official_notification": "https://www.niot.res.in/media/Recruitment/Detailed%20Advertisement%20Consultant-13_5_2620260513154013.pdf"
+    },
+    {
+        "date": "15/05/2026",
         "board": "Chennai Port Authority",
         "title": "Kindergarten Teacher (KGT)",
         "qualification": "Montessori Teacher Trained",

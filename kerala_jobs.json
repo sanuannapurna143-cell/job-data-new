@@ -1,6 +1,38 @@
 [
     {
         "date": "15/05/2026",
+        "board": "NAM",
+        "title": "Speech Therapist",
+        "qualification": "BASLP (Bachelor of Audiology & Speech Language Pathology)",
+        "last_date": "23-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 31300 Per Month",
+        "age_limit": "Maximum Age Limit: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test (if more than 20 applicants) || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nam.kerala.gov.in",
+        "official_notification": "https://www.nam.kerala.gov.in/images/careers/1778739402503.pdf"
+    },
+    {
+        "date": "15/05/2026",
+        "board": "KBFPCL",
+        "title": "Driver cum Salesman",
+        "qualification": "Plus Two (12th standard) or equivalent, Valid Driving License (LMV with badge), Minimum 2 years of experience in driving and/or sales field, Basic proficiency in reading and writing Malayalam and English",
+        "last_date": "28-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. ₹21,070/- Per Month",
+        "age_limit": "Min: 21 years, Max: 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://cmd.kerala.gov.in/",
+        "official_notification": "https://cmd.kerala.gov.in/wp-content/uploads/2026/05/KBFPCL-Notification-Driver-cum-Salesman.pdf"
+    },
+    {
+        "date": "15/05/2026",
         "board": "BEML",
         "title": "Deputy General Manager, Assistant General Manager, Assistant Manager, Sr. Manager etc.",
         "qualification": "B.Tech/ B.E, M.A, M.Des",

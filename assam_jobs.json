@@ -1,5 +1,21 @@
 [
     {
+        "date": "15/05/2026",
+        "board": "I4C",
+        "title": "Technical Professionals (Manager, Senior Consultant, Consultant, Analyst, Office Assistant)",
+        "qualification": "Any Graduate",
+        "last_date": "19-05-2026",
+        "total_posts": "195",
+        "salary": "Manager - 2.5 Lac\r\t\t\tSenior Consultant - 1.5 Lac\r\t\t\tConsultant - 1.2 Lac\r\t\t\tAnalyst - 65,000\r\t\t\tOffice Assistant - 40,000",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://i4c.mha.gov.in/",
+        "official_notification": "https://i4c.mha.gov.in/docs/Recruitment-Notice.pdf"
+    },
+    {
         "date": "13/05/2026",
         "board": "APDCL",
         "title": "Prosumer Representatives",

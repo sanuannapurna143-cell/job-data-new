@@ -1,6 +1,38 @@
 [
     {
         "date": "15/05/2026",
+        "board": "UGC DAE CSR",
+        "title": "SCIENTIST-D",
+        "qualification": "Other",
+        "last_date": "05-06-2026",
+        "total_posts": "1",
+        "salary": "Level-11 (As per 7 CPC)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.csr.res.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/85201663-6a06f2d74a30411903046.pdf"
+    },
+    {
+        "date": "15/05/2026",
+        "board": "Gun Carriage Factory Jabalpur",
+        "title": "Skilled Tradesmen (Fixed Tenure, Contract Basis)",
+        "qualification": "NTC/NAC or Diploma/Degree from recognized institutes",
+        "last_date": "30-05-2026",
+        "total_posts": "169",
+        "salary": "Rs. 31,840/- per month",
+        "age_limit": "Minimum Age Limit:18 Years || Maximum Age limit:35 Years || Age relaxation is applicable as per rules.",
+        "application_fee": "For UR/OBC Candidates:Rs. 200 || For SC/ST Candidates:Fees Exempted",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ddpdoo.gov.in/",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "15/05/2026",
         "board": "Central Bank of India",
         "title": "Faculty,Office Assistant,Attendant, Watchman-Gardener",
         "qualification": "Minimum 7th pass for Watchman/Gardener, Matriculate for Attendant, Graduate for Office Assistant, Graduate with specific degrees for Faculty.",
