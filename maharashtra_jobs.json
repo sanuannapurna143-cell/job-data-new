@@ -1,6 +1,38 @@
 [
     {
         "date": "16/05/2026",
+        "board": "AIIMS Nagpur",
+        "title": "Junior Resident (Non-Academic)",
+        "qualification": "MBBS (including completion of Internship) or equivalent degree recognized by NMC/State Registration",
+        "last_date": "29-05-2026",
+        "total_posts": "32",
+        "salary": "Rs. 56100 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Rs.500/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsnagpur.edu.in",
+        "official_notification": "https://aiimsnagpur.edu.in/upload/recruitment/JR_Advt_2026.pdf"
+    },
+    {
+        "date": "16/05/2026",
+        "board": "IISER Pune",
+        "title": "Senior Research Fellow",
+        "qualification": "MS / M.Sc in Chemistry or related areas with CGPA>=9.0 or equivalent grade, Minimum 2 years of research experience",
+        "last_date": "29-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 42000 Per Month",
+        "age_limit": "Max: 32 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiserpune.ac.in",
+        "official_notification": "https://www.iiserpune.ac.in/storage/recruitment/job-posts/1253/documents/b1b5b61f-2262-4471-9fcd-e26f8384ac1d.pdf"
+    },
+    {
+        "date": "16/05/2026",
         "board": "IIM Nagpur",
         "title": "Junior Executive/Executive Academic Office",
         "qualification": "Graduate degree Or Post Graduate",
