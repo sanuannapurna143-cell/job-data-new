@@ -1,6 +1,38 @@
 [
     {
         "date": "16/05/2026",
+        "board": "AIIMS Bathinda",
+        "title": "Project Research Scientist-I",
+        "qualification": "Post Graduate Degree including PhD",
+        "last_date": "28-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 56000 - 61600 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsbathinda.edu.in",
+        "official_notification": "https://aiimsbathinda.edu.in/images/Reqruitment/20260515112154.pdf"
+    },
+    {
+        "date": "16/05/2026",
+        "board": "PAU",
+        "title": "Young Professional-1",
+        "qualification": "B. Tech. (Agricultural Engineering) with minimum OGPA 6.00/10.00 basis or 60% marks, Knowledge of Punjabi upto Matric Level",
+        "last_date": "21-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30000 Per Month",
+        "age_limit": "Min: 21 years, Max: 45 years",
+        "application_fee": "Rs. 200/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://pau.edu",
+        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7339"
+    },
+    {
+        "date": "16/05/2026",
         "board": "Central University of Punjab",
         "title": "Faculty",
         "qualification": "Master’s degree and Ph.D",
