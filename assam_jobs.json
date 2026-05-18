@@ -1,5 +1,21 @@
 [
     {
+        "date": "18/05/2026",
+        "board": "RBI",
+        "title": "Bank's Medical Consultant (BMC)",
+        "qualification": "MBBS degree from any university recognized by the Medical Council of India in the allopathic system of medicine, Post graduate degree in General Medicine, Minimum of two (02) years' experience practicing medicine in any hospital or clinic",
+        "last_date": "16-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1000 Per Hour",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rbi.org.in/",
+        "official_notification": "https://rbidocs.rbi.org.in/rdocs/Content/PDFs/MEDICALCONSULTANT170520265B4690B09265423B8B1E6F04A929648B.PDF"
+    },
+    {
         "date": "16/05/2026",
         "board": "AIIMS Guwahati",
         "title": "Project Research Scientist I",

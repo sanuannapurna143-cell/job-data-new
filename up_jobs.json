@@ -1,6 +1,22 @@
 [
     {
         "date": "18/05/2026",
+        "board": "UPGB",
+        "title": "Financial Literacy Counselor",
+        "qualification": "Graduate degree from a recognized university.",
+        "last_date": "06-06-2026",
+        "total_posts": "Not Available",
+        "salary": "Fixed honorarium of Rs. 15,000/- and other miscellaneous expenses up to Rs. 3,000/-.",
+        "age_limit": "Maximum age limit: 65 years at the time of appointment.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.upgb.in/",
+        "official_notification": "https://upgb.bank.in/pdf-2025-5/Notification_for_engagement_of_FLC_2026.pdf"
+    },
+    {
+        "date": "18/05/2026",
         "board": "ESIC Varanasi",
         "title": "Teaching Faculty, Senior Resident",
         "qualification": "MD/MS in the concerned Subject as per NMC norms",

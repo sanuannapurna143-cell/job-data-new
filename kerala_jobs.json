@@ -1,6 +1,22 @@
 [
     {
         "date": "18/05/2026",
+        "board": "CMD Kerala",
+        "title": "Customer Relations Assistant",
+        "qualification": "Engineering Diploma in any Discipline, B.Tech in any Discipline",
+        "last_date": "23-05-2026",
+        "total_posts": "40",
+        "salary": "Rs. 1010 Per Shift",
+        "age_limit": "Max: 45 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cmd.kerala.gov.in",
+        "official_notification": "https://cmd.kerala.gov.in/wp-content/uploads/2026/05/CRA-Notification.pdf"
+    },
+    {
+        "date": "18/05/2026",
         "board": "RRB",
         "title": "Technician Grade I Signal & Technician Grade III",
         "qualification": "B.Sc, ITI",

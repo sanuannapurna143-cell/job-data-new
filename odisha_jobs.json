@@ -1,6 +1,22 @@
 [
     {
         "date": "18/05/2026",
+        "board": "East Coast Railway",
+        "title": "Junior Engineer (TRS)",
+        "qualification": "Degree or Diploma in Electrical/Mechanical Engineering branch including their sub stream branches, ITI/ACT Apprenticeship Pass, 10+2 in Science Stream",
+        "last_date": "05-06-2026",
+        "total_posts": "1",
+        "salary": "Level-06 in the 7th CPC",
+        "age_limit": "Max: 47 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://rrcbbs.org.in",
+        "official_notification": "https://www.rrcbbs.org.in/JE-TRS.pdf"
+    },
+    {
+        "date": "18/05/2026",
         "board": "RRB",
         "title": "Technician Grade I Signal & Technician Grade III",
         "qualification": "B.Sc, ITI",
