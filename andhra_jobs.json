@@ -1,6 +1,22 @@
 [
     {
         "date": "19/05/2026",
+        "board": "NIT Andhra Pradesh",
+        "title": "Faculty",
+        "qualification": "B.Tech/B.E. and M.Tech/M.E. or equivalent in respective branches, or Ph.D. for some positions.",
+        "last_date": "09-06-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 55,000 - Rs. 70,000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nitandhra.ac.in",
+        "official_notification": "https://nitandhra.ac.in/main/Recruitment/2026/Adhoc/Adhoc%20faculty%20advertisement_AY_2026-27-18-05-2026.pdf"
+    },
+    {
+        "date": "19/05/2026",
         "board": "NALCO",
         "title": "Operator (HEMM) Gr. III, Mining Mate Gr. III, Jr. Foreman (Mines), Jr. Foreman (Electrical), SUPT(JOT)-Operator, Operator Gr. III, SUPT(JOT)-Fitter, Technician (Fitter) Gr. III, SUPT(JOT)-Electrical, Technician (Electrical) Gr. III, SUPT(JOT)-Laboratory, SUPT(JOT)-Instrumentation/Instrument Mechanic, Technician (Instrumentation/Instrument Mechanic) Gr. III",
         "qualification": "B.Sc, Diploma, ITI",
