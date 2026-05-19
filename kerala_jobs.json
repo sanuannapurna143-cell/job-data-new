@@ -81,22 +81,6 @@
     },
     {
         "date": "16/05/2026",
-        "board": "Kerala University",
-        "title": "Guest Faculty",
-        "qualification": "M.Phil/ Ph.D",
-        "last_date": "18-05-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.keralauniversity.ac.in",
-        "official_notification": "https://www.keralauniversity.ac.in/pdfs/jobNoti/JobNotification1778759153.pdf"
-    },
-    {
-        "date": "16/05/2026",
         "board": "CUSAT",
         "title": "Assistant Professor",
         "qualification": "MBA/ PGDM, M.Phil/ Ph.D",
@@ -206,22 +190,6 @@
         "syllabus": "Not Available",
         "official_website": "https://cmd.kerala.gov.in/",
         "official_notification": "https://cmd.kerala.gov.in/wp-content/uploads/2026/05/KBFPCL-Notification-Driver-cum-Salesman.pdf"
-    },
-    {
-        "date": "15/05/2026",
-        "board": "BEML",
-        "title": "Deputy General Manager, Assistant General Manager, Assistant Manager, Sr. Manager etc.",
-        "qualification": "B.Tech/ B.E, M.A, M.Des",
-        "last_date": "18-05-2026",
-        "total_posts": "18",
-        "salary": "Rs. 50000 - 240000",
-        "age_limit": "Not Available",
-        "application_fee": "Rs. 500/- (Non-refundable)",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bemlindia.in/",
-        "official_notification": "https://www.bemlindia.in/careers/"
     },
     {
         "date": "14/05/2026",
