@@ -1,6 +1,22 @@
 [
     {
         "date": "19/05/2026",
+        "board": "NIT Goa",
+        "title": "Faculty",
+        "qualification": "M.Tech. / Ph.D. (submitted/awarded) in Civil Engineering",
+        "last_date": "09-06-2026",
+        "total_posts": "4",
+        "salary": "Faculty (Civil Engineering): Rs. 50,000/- per month with Master's degree || Faculty (Civil Engineering): Rs. 70,000/- per month with a Ph.D. Degree",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Scrutiny of applications || Interview (Offline mode only)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nitgoa.ac.in/",
+        "official_notification": "https://nitgoa.ac.in/uploads/advt_fac_civil%2018may26.pdf"
+    },
+    {
+        "date": "19/05/2026",
         "board": "BITS Pilani",
         "title": "Institute Research Fellow",
         "qualification": "Graduate/Post Graduate (M.Tech/M.E./B.Tech/B.E.) in Chemical/Mechanical/Aerospace/Energy Engineering and allied streams with minimum 60% Marks.",
