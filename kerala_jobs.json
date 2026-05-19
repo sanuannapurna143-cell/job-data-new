@@ -97,38 +97,6 @@
     },
     {
         "date": "16/05/2026",
-        "board": "MGU",
-        "title": "Senior Software Developer",
-        "qualification": "Bachelors/Masters degree, B.Tech/B.E, M.Tech/M.E",
-        "last_date": "19-05-2026",
-        "total_posts": "2",
-        "salary": "Rs. 30000 Per Month",
-        "age_limit": "Min: 23 years, Max: 45 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.mgu.ac.in",
-        "official_notification": "https://www.mgu.ac.in/uploads/2026/05/11034-AD_A4-3-2026-AD_A_4-3.pdf?x43284"
-    },
-    {
-        "date": "16/05/2026",
-        "board": "MGU",
-        "title": "Senior Software Developer",
-        "qualification": "Bachelors/Masters degree in IT/CS/CA, BE/BTech in CS/IT, Diploma in CS/CA. Knowledge of PHP frameworks (Yii/Laravel/CodeIgniter), front-end technologies (CSS3, JS, HTML5), OOP PHP, MySQL/Maria DB/MSSQL. Docker, virtualization, containerization knowledge is an advantage.",
-        "last_date": "19-05-2026",
-        "total_posts": "2",
-        "salary": "Rs. 30000 Per Month",
-        "age_limit": "Minimum Age: 23 years || Maximum Age: 45 years || Relaxation: Relaxation to SC/ST/OBC Candidates as per rules. A relaxation of 1 year in age for every 1 year of service, up to a maximum of 5 years, will be given to candidates for experience in Universities.",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.mgu.ac.in",
-        "official_notification": "https://www.mgu.ac.in/uploads/2026/05/11034-AD_A4-3-2026-AD_A_4-3.pdf?x20386"
-    },
-    {
-        "date": "16/05/2026",
         "board": "CUSAT",
         "title": "Assistant Professor",
         "qualification": "MBA/ PGDM, M.Phil/ Ph.D",
@@ -368,22 +336,6 @@
         "official_notification": "https://fact.co.in/images/upload/Notification-for-Publication-11.05.2026_2765.pdf"
     },
     {
-        "date": "12/05/2026",
-        "board": "Rubber Board",
-        "title": "Young Professional",
-        "qualification": "MBA Marketing / Agri Business Management, Knowledge in computer applications",
-        "last_date": "19-05-2026",
-        "total_posts": "1",
-        "salary": "Rs. 25000/- Per Month",
-        "age_limit": "Max: 30 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.rubberboard.gov.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/05/85204716-6a02e2a0a280c97162516.pdf"
-    },
-    {
         "date": "11/05/2026",
         "board": "Kerala University",
         "title": "Guest Lecturers",
@@ -526,21 +478,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.fcriindia.com/careers",
         "official_notification": "https://www.fcriindia.com/wp-content/uploads/2026/05/Non-Technical-Exec-Support-Staff-Notification-May-2026.pdf"
-    },
-    {
-        "date": "30/04/2026",
-        "board": "TMB",
-        "title": "Senior Relationship Manager, Law Officer and More",
-        "qualification": "B.E/B.Tech in CS/IT/MCA with minimum 3 years experience in User Interface, Approval Hierarchies, Learning/Support, Core HR, Talent Management. VBCS, BPM Worklist, OTBI. Desirable: Oracle Global HR Cloud / Talent Management Cloud 2025/2026 Certification.",
-        "last_date": "19-05-2026",
-        "total_posts": "Anywhere in India (State-wise vacancy locations as per notification; initial posting in native state)",
-        "salary": "Not Available",
-        "age_limit": "Minimum 45 years and not more than 55 years as on 31-03-2026 (Age is not a constraint for a right candidate)",
-        "application_fee": "Not Available",
-        "selection_process": "The selection process for all posts consists of shortlisting of applications followed by a Personal Interview. Shortlisted candidates will be called for personal interview through Direct / Video Conferencing. The mode of interview, date, and time will be communicated to eligible candidates individually. The Bank reserves the right to reject any application at any point of time without assigning any reason. Bank's decision in the matter of eligibility, conduct of interview, and selection will be final.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://tmb.bank.in/",
-        "official_notification": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/BranchHead2627.pdf"
     }
 ]
