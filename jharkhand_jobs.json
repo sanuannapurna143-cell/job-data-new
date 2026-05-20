@@ -1,5 +1,21 @@
 [
     {
+        "date": "20/05/2026",
+        "board": "CSIR CIMFR",
+        "title": "Technician-1",
+        "qualification": "SSC/10th Class with minimum 55% marks in Science subjects, ITI",
+        "last_date": "19-06-2026",
+        "total_posts": "30",
+        "salary": "The salary for the Technician-1 post is Level-2, ranging from Rs. 19,900 to Rs. 63,200 Per Month.",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 28 years || Age Relaxation: SC/ST: 5 years, OBC: 3 years, PwBD: 10 years, ESM: as per rules, Departmental: 5 years, Widows/Divorced: up to 35/38/40 years.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Trade Test || Competitive Written Examination (Paper-I: Mental Ability Test, Paper-II: General Knowledge & English, Paper-III: Subject Knowledge)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.cimfr.res.in",
+        "official_notification": "https://cimfr.res.in/upload_files/current_opportunity/1779253199_Tech.%20Gr%20II.pdf"
+    },
+    {
         "date": "19/05/2026",
         "board": "IIM Ranchi",
         "title": "Project Staff",
@@ -238,21 +254,5 @@
         "syllabus": "Not Available",
         "official_website": "https://ramgarh.nic.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s3e165421110ba03099a1c0393373c5b43/uploads/2026/04/17763399152976.pdf"
-    },
-    {
-        "date": "13/04/2026",
-        "board": "UCIL",
-        "title": "Professionals – 19 Posts",
-        "qualification": "Degree in Environmental Engineering OR Degree in any branch of Engineering OR Ph.D in Organic/Inorganic Chemistry + PG Diploma OR full-time Certificate Course in Environmental Engineering/Environmental Sciences.  Experience: Post-qualification experience in Environment Management in a large and reputed organisation. Knowledge of Indian Environmental Legislation, EIA/EMP, Environment Audit Process, Waste Disposal Management. Mining/processing industry experience preferred.",
-        "last_date": "19-05-2026",
-        "total_posts": "19",
-        "salary": "IDA Grade (E-0 to E-6) - as per post",
-        "age_limit": "Internal (Departmental) candidates of UCIL have no age limit for any post. Length of experience may also be relaxed for exceptional and deserving internal candidates.",
-        "application_fee": "General (UR) / EWS / OBC (NCL):Rs. 500/- || SC / ST / PwBD / Female / Internal UCIL Candidates:NIL || Fee must be paid online only through the UCIL Recruitment Portal at the time of application. A copy of the fee acknowledgement/receipt must be uploaded. Fee once paid is non-refundable. Internal UCIL candidates are exempted from payment of application fees.",
-        "selection_process": "The selection process may include a Written Test / Trade Test / Psychometric Test / Group Exercise / Personal Interview or combinations thereof, depending on the response received for each post. Only shortlisted candidates will be called for further stages of the selection process. || Verification of original certificates (age, qualification, experience, category, PwBD) will be done at the time of Written Test/Group Discussion/Personal Interview. || UCIL reserves the right to cancel/restrict/enlarge/modify the recruitment and selection process without assigning any reason. || Candidates applying for multiple posts must submit separate applications and pay separate fees for each post. || Management reserves the right to offer a lower position based on interview performance.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ucil.gov.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/04/862399-69dc89c0aabe189253045.pdf"
     }
 ]
