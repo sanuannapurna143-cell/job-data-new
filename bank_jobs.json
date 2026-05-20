@@ -1,6 +1,22 @@
 [
     {
         "date": "20/05/2026",
+        "board": "IDBI Bank",
+        "title": "Part Time Doctor",
+        "qualification": "MS/MD, MBBS",
+        "last_date": "06-06-2026",
+        "total_posts": "3",
+        "salary": "Rs. 1000/- per hour",
+        "age_limit": "All Posts: Maximum age limit is 67 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Personal Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.idbi.bank.in",
+        "official_notification": "https://www.idbi.bank.in/pdf/careers/Detailed-Advertisement-Doctor.pdf"
+    },
+    {
+        "date": "20/05/2026",
         "board": "Central Bank of India",
         "title": "Faculty, Office Assistant, Attendant, Watchman",
         "qualification": "Graduate (any i.e. Science/Commerce/Arts/Post Graduate; preference to MSW/MA in Rural Dev./MA in Sociology/Psychology/B.Sc. (Veterinary, Horticulture, Agriculture, Agri Marketing)/B.A with B.Ed.) for Faculty, Graduate viz. BSW/BA/B.Com with computer knowledge for Office Assistant, Matriculate for Attendant, Passed 7th Standard for Watchman/Gardener",

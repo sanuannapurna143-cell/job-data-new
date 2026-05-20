@@ -1,6 +1,22 @@
 [
     {
         "date": "20/05/2026",
+        "board": "ESIC",
+        "title": "Teaching Faculty (Super Specialty Department)",
+        "qualification": "As per latest NMC (National Medical Commission) guidelines",
+        "last_date": "21-05-2026",
+        "total_posts": "39",
+        "salary": "Professor: Consolidated pay ₹2,60,226/- per month || Associate Professor: Consolidated pay ₹1,73,045/- per month || Assistant Professor: Consolidated pay ₹1,48,669/- per month",
+        "age_limit": "Maximum Age Limit: 69 years for all posts. || Age relaxation rules are not specified in the provided data.",
+        "application_fee": "500",
+        "selection_process": "Academic credentials and interview performance || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_Interview_on_21_05_2026_for_Teaching_Faculty_Super_Specialty_Department_on_Contract_Basis_at_ESIC_Medical_College_amp_Hospital_Faridabad_1779253968.pdf"
+    },
+    {
+        "date": "20/05/2026",
         "board": "NBRC",
         "title": "Research Associate-I",
         "qualification": "Ph.D/MD or equivalent degree with at least one research article published in a reputed and indexed journal.",
