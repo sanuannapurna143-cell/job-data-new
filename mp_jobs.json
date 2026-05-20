@@ -1,6 +1,22 @@
 [
     {
         "date": "20/05/2026",
+        "board": "IIM Indore",
+        "title": "Office Associate",
+        "qualification": "Any Bachelors Degree",
+        "last_date": "25-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iimidr.ac.in",
+        "official_notification": "https://iimidr.ac.in/careers/manpower-agency-vacancies/advertisement-for-the-post-of-office-associate/"
+    },
+    {
+        "date": "20/05/2026",
         "board": "BEL",
         "title": "Field Operation Engineer (FOE) | Project Engineer-I",
         "qualification": "5 years relevant post-qualification work experience in Networking/Data Centres operations/Database administration. Required knowledge: Data networking concepts, DBMS, Firewall, AAA server, Routing protocols (OSPF, BGP), Switching protocols (STP, RSTP, VTP), EtherChannel, NTP, VLAN, Port Security, DNS, CCNA basics, IP addressing & subnetting, Linux basics.",
@@ -14,6 +30,22 @@
         "syllabus": "Not Available",
         "official_website": "https://bel-india.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/05/752390-6a0d3719ace4189089984.pdf"
+    },
+    {
+        "date": "20/05/2026",
+        "board": "Central Bank of India",
+        "title": "Faculty, Office Assistant, Attendant, Watchman",
+        "qualification": "Graduate (any i.e. Science/Commerce/Arts/Post Graduate; preference to MSW/MA in Rural Dev./MA in Sociology/Psychology/B.Sc. (Veterinary, Horticulture, Agriculture, Agri Marketing)/B.A with B.Ed.) for Faculty, Graduate viz. BSW/BA/B.Com with computer knowledge for Office Assistant, Matriculate for Attendant, Passed 7th Standard for Watchman/Gardener",
+        "last_date": "02-06-2026",
+        "total_posts": "2",
+        "salary": "Faculty: Rs. 30000/month || Office Assistant: Rs. 20000/month || Attendant: Rs. 14000/month || Watchman/Gardener: Rs. 12000/month",
+        "age_limit": "Min: 22 years, Max: 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://centralbank.bank.in",
+        "official_notification": "https://centralbank.bank.in/en/recruitments"
     },
     {
         "date": "19/05/2026",

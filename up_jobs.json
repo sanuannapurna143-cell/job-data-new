@@ -1,6 +1,22 @@
 [
     {
         "date": "20/05/2026",
+        "board": "BHU",
+        "title": "Manager",
+        "qualification": "Regular 2 year Master of Business Administration / 2 Year Post Graduate Diploma in Management from any recognized University or Institute.",
+        "last_date": "10-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 50000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Application Screening",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bhu.ac.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/2041631-6a0d9ca15281181679674.pdf"
+    },
+    {
+        "date": "20/05/2026",
         "board": "BEL",
         "title": "Field Operation Engineer (FOE) | Project Engineer-I",
         "qualification": "5 years relevant post-qualification work experience in Networking/Data Centres operations/Database administration. Required knowledge: Data networking concepts, DBMS, Firewall, AAA server, Routing protocols (OSPF, BGP), Switching protocols (STP, RSTP, VTP), EtherChannel, NTP, VLAN, Port Security, DNS, CCNA basics, IP addressing & subnetting, Linux basics.",

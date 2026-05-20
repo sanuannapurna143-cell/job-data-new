@@ -1,5 +1,53 @@
 [
     {
+        "date": "20/05/2026",
+        "board": "East Coast Railway",
+        "title": "Junior Engineer(C&W)",
+        "qualification": "Degree or Diploma in Electrical/Mechanical Engineering branch including their sub stream branches, ITI/Act apprenticeship in the relevant trade, 10+2 Science",
+        "last_date": "05-06-2026",
+        "total_posts": "4",
+        "salary": "Level-6 (As per 7th CPC)",
+        "age_limit": "Maximum Age: 47 years",
+        "application_fee": "Nil",
+        "selection_process": "Written Examination (CBT/TBT Mode) || Scrutiny of Service Record and last three years APARs || Medical Examination (B1) || SPE/Vigilance/D&AR clearance",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://rrcbbs.org.in",
+        "official_notification": "https://www.rrcbbs.org.in/JE-C&W.pdf"
+    },
+    {
+        "date": "20/05/2026",
+        "board": "KRCL",
+        "title": "Assistant Account Officer, Section Officer, Account Assistant",
+        "qualification": "CMA / CA, B.Com, M.Com, Inter CA/CMA",
+        "last_date": "19-06-2026",
+        "total_posts": "9",
+        "salary": "Assistant Account Officer: Consolidated Remuneration Rs. 67140 - 76660 per month || Section Officer: Consolidated Remuneration Rs. 50060 - 57140 per month || Account Assistant: Consolidated Remuneration Rs. 41380 - 47220 per month",
+        "age_limit": "Assistant Account Officer: Maximum 35 years || Account Assistant: Maximum 35 years || Section Officer: Maximum 40 years || Age Relaxation: 3 years for OBC(NCL); discretionary for Ex-servicemen",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Preliminary Screening || Group Discussion or Written Test (if required) || Document Verification || Merit List",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.konkanrailway.com",
+        "official_notification": "https://konkanrailway.com/sites/default/files/2026-05/8C_2026_Notification_Final.pdf"
+    },
+    {
+        "date": "20/05/2026",
+        "board": "RVNL",
+        "title": "General Manager",
+        "qualification": "Full-time Bachelor's Degree in Civil Engineering, Master's Degree in Structural Engineering (Desirable)",
+        "last_date": "26-05-2026",
+        "total_posts": "1",
+        "salary": "A consolidated monthly remuneration shall be paid, commensurate with qualification, experience and market standards, in accordance with RVNL policy for contractual engagements. No additional benefits such as DA, HRA, PF, gratuity, pension, etc. shall be admissible unless specifically provided in the contract.",
+        "age_limit": "Maximum Age Limit: 62 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rvnl.org",
+        "official_notification": "https://rvnl.org/RVNL_cms/uploads/careers/gm_design_walk_in_interview1.pdf"
+    },
+    {
         "date": "19/05/2026",
         "board": "SECR",
         "title": "Act Apprentice (Trade Apprentice)",
@@ -61,7 +109,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "indian-air-force-afcat-02-2026-recruitment-2026-apply-online-3048708"
+        "official_notification": "Not Available"
     },
     {
         "date": "14/05/2026",

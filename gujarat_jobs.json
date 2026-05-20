@@ -1,6 +1,54 @@
 [
     {
         "date": "20/05/2026",
+        "board": "GMRC",
+        "title": "Asst. Manager, Supervisor and More Posts",
+        "qualification": "Graduate engineering in relevant disciplines",
+        "last_date": "03-06-2026",
+        "total_posts": "28",
+        "salary": "Revised IDA scale of ₹120000-280000 (Approx. CTC ₹3.4 Lacs per month) for contract/deputation; consolidated pay of ₹1,70,000 per month for post-superannuation.",
+        "age_limit": "General Manager:Contract: 57 years, Deputation: 58 years, Post-superannuation: 62 years || Deputy General Manager:Contract: 45 years, Deputation: 58 years, Post-superannuation: 62 years || Asst. Manager:Contract: 35 years || Supervisor/Section Engineer:Contract: 32 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Personal Interviews || Document Verification || Medical Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.gujaratmetrorail.com",
+        "official_notification": "https://www.gujaratmetrorail.com"
+    },
+    {
+        "date": "20/05/2026",
+        "board": "SVNIT",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.Sc. /Integrated BS-MS/M.Sc./B. Tech in Physics or equivalent degree with 55% marks and passing of NET-LS/GATE test.",
+        "last_date": "15-06-2026",
+        "total_posts": "1",
+        "salary": "Rs.37,000/-p.m + HRA as per norms. (Rs. 37000/- p.m in First & Second years)",
+        "age_limit": "Maximum Age: 28 Years || Age relaxation is applicable up to 5 years for candidates belonging to Scheduled Castes/Tribes/OBC, women, and physically handicapped candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.svnit.ac.in/",
+        "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/May/JRF-recruitment-2.pdf"
+    },
+    {
+        "date": "20/05/2026",
+        "board": "RMC",
+        "title": "Ex Servicemen",
+        "qualification": "Retired Army / Navy / Air Force personnel (up to Havildar rank) with Medical Category SHAPE-1 (S.H.A.P.E.-1)",
+        "last_date": "22-05-2026",
+        "total_posts": "69",
+        "salary": "Rs. 25000 Per Month",
+        "age_limit": "Maximum Age Limit: 45 years. || Age relaxation for reserved categories will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rmc.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/852755-6a0d5fc1869875964687.pdf"
+    },
+    {
+        "date": "20/05/2026",
         "board": "JNV Banaskantha",
         "title": "Teacher, Expert, JSA",
         "qualification": "Graduate with PG Diploma in Yoga/M.P.Ed., B.P.Ed. OR M.P.Ed., Female Graduate with 3 years experience in self-defense, Certificate/Diploma in Indian Classical/folk Dance, Certificate/Diploma in relevant field (musical instruments), SSC (Class XII) with computer skills.",
@@ -621,7 +669,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "indian-air-force-afcat-02-2026-recruitment-2026-apply-online-3048708"
     },
     {
         "date": "27/04/2026",

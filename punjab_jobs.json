@@ -1,6 +1,22 @@
 [
     {
         "date": "20/05/2026",
+        "board": "PAU",
+        "title": "Research Fellow",
+        "qualification": "Any Post Graduate, B.Sc, M.Sc, M.Phil/ Ph.D",
+        "last_date": "01-06-2026",
+        "total_posts": "1",
+        "salary": "Rs.31000/- plus HRA per month fixed",
+        "age_limit": "Not Available",
+        "application_fee": "Rs.200/-",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://pau.edu",
+        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7361"
+    },
+    {
+        "date": "20/05/2026",
         "board": "BEL",
         "title": "Field Operation Engineer (FOE) | Project Engineer-I",
         "qualification": "5 years relevant post-qualification work experience in Networking/Data Centres operations/Database administration. Required knowledge: Data networking concepts, DBMS, Firewall, AAA server, Routing protocols (OSPF, BGP), Switching protocols (STP, RSTP, VTP), EtherChannel, NTP, VLAN, Port Security, DNS, CCNA basics, IP addressing & subnetting, Linux basics.",

@@ -1,6 +1,54 @@
 [
     {
         "date": "20/05/2026",
+        "board": "CUSAT",
+        "title": "Assistant Professor (Contract basis)",
+        "qualification": "Master's Degree in Statistics with 55% marks (or equivalent), NET/SLET/SET or Ph.D as per UGC regulations",
+        "last_date": "19-06-2026",
+        "total_posts": "1",
+        "salary": "₹ 42,000/- for Ph.D holders || ₹ 40,000/- for others",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "₹ 950/-",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cusat.ac.in",
+        "official_notification": "https://recruit.cusat.ac.in/files/NOTIFICATION_435.pdf"
+    },
+    {
+        "date": "20/05/2026",
+        "board": "AAICLAS",
+        "title": "Security Screener (Fresher)",
+        "qualification": "Graduation from any recognized Board/University/Institution with minimum 60% marks for General/OBC/EWS candidates and minimum 55% marks for SC/ST candidates",
+        "last_date": "08-06-2026",
+        "total_posts": "158",
+        "salary": "Not Available",
+        "age_limit": "Upper Age Limit",
+        "application_fee": "Rs. 750/- (excluding Bank Charges & Other Taxes)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aaiclas.aero",
+        "official_notification": "https://www.aaiclas.aero/uploads/career/AAICLAS7501778657978.pdf"
+    },
+    {
+        "date": "20/05/2026",
+        "board": "MGU",
+        "title": "Veterinarian",
+        "qualification": "Bachelor's degree in Veterinary Science approved by Kerala Veterinary Council",
+        "last_date": "30-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 35000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Document Verification || Shortlisting || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mgu.ac.in",
+        "official_notification": "https://www.mgu.ac.in/uploads/2026/05/NOTIFICATION.pdf?x24602"
+    },
+    {
+        "date": "20/05/2026",
         "board": "NIT Calicut",
         "title": "Assistant Professor",
         "qualification": "Ph.D. with consistently good academic record",
@@ -93,7 +141,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "indian-air-force-afcat-02-2026-recruitment-2026-apply-online-3048708"
+        "official_notification": "tnpsc-cts-exam-non-interview-posts-recruitment-2026-apply-online-for-461-posts-3049979"
     },
     {
         "date": "16/05/2026",
@@ -254,22 +302,6 @@
         "syllabus": "Syllabus Mathematics, Mental Ability (Reasoning), General Science (10th standard level)",
         "official_website": "https://www.rrbapply.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/05/853145-6a055fdb6768a16013442.pdf"
-    },
-    {
-        "date": "13/05/2026",
-        "board": "AAICLAS",
-        "title": "Security Screener (Fresher)",
-        "qualification": "Graduation from any recognized Board/University/Institution with minimum 60% marks for General/OBC/EWS candidates and minimum 55% marks for SC/ST candidates",
-        "last_date": "08-06-2026",
-        "total_posts": "158",
-        "salary": "Not Available",
-        "age_limit": "Upper Age Limit",
-        "application_fee": "Rs. 750/- (excluding Bank Charges & Other Taxes)",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aaiclas.aero",
-        "official_notification": "https://www.aaiclas.aero/uploads/career/AAICLAS7501778657978.pdf"
     },
     {
         "date": "13/05/2026",

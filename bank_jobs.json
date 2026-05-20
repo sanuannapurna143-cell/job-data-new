@@ -1,6 +1,38 @@
 [
     {
         "date": "20/05/2026",
+        "board": "Central Bank of India",
+        "title": "Faculty, Office Assistant, Attendant, Watchman",
+        "qualification": "Graduate (any i.e. Science/Commerce/Arts/Post Graduate; preference to MSW/MA in Rural Dev./MA in Sociology/Psychology/B.Sc. (Veterinary, Horticulture, Agriculture, Agri Marketing)/B.A with B.Ed.) for Faculty, Graduate viz. BSW/BA/B.Com with computer knowledge for Office Assistant, Matriculate for Attendant, Passed 7th Standard for Watchman/Gardener",
+        "last_date": "02-06-2026",
+        "total_posts": "2",
+        "salary": "Faculty: Rs. 30000/month || Office Assistant: Rs. 20000/month || Attendant: Rs. 14000/month || Watchman/Gardener: Rs. 12000/month",
+        "age_limit": "Min: 22 years, Max: 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://centralbank.bank.in",
+        "official_notification": "https://centralbank.bank.in/en/recruitments"
+    },
+    {
+        "date": "20/05/2026",
+        "board": "Central Bank of India",
+        "title": "Assistant General Manager (AGM) - Specialist Category",
+        "qualification": "Full-time B.Sc in Statistics/Economics / Bachelor's in Analytics (Statistics, Applied Maths, OR/Data Science) with 55% marks OR Full-time MBA Finance/Banking or PGDBM/IPGD-Risk Management with 55% marks - from AICTE/UGC approved University.",
+        "last_date": "25-05-2026",
+        "total_posts": "15",
+        "salary": "Basic: Rs. 1,20,940 - 3360/2 - 1,27,660 - 3680/2 - 1,35,020/-",
+        "age_limit": "Age Limit",
+        "application_fee": "Rs. 850/- (Application Fee + Intimation Charges)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://centralbank.bank.in/",
+        "official_notification": "https://www.centralbank.bank.in"
+    },
+    {
+        "date": "20/05/2026",
         "board": "Exim Bank",
         "title": "Management Trainee (MT) - Human Resource Management & Administration",
         "qualification": "Option 1: Minimum 60% in Graduation (3-year full-time) AND Post Graduation (MBA / PGDBA / PGDBM / MMS) with specialization in Hotel and Hospitality Management / Facilities Management or equivalent (2-year full-time), with minimum 60% in both Graduation and Post Graduation.  Option 2: Minimum 60% in B.Tech in Civil Engineering AND Post Graduation (MBA / PGDBA / PGDBM / MMS) in any discipline, both full-time, with minimum 60% marks.",
