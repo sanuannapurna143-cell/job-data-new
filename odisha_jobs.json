@@ -1,5 +1,53 @@
 [
     {
+        "date": "21/05/2026",
+        "board": "CHS Sambalpur",
+        "title": "Total Posts",
+        "qualification": "MBBS, MBBS with PG in respective speciality, BPT, BDS, PG Diploma in Yoga or equivalent, Graduate in Commerce with PGDCA/OS-CIT",
+        "last_date": "29-05-2026",
+        "total_posts": "8",
+        "salary": "Data Assistant cum Accountant: Rs.17469/- +PI || Medical Officer: Base Salary:- Rs 70,918/+ Performance incentive up to 25%",
+        "age_limit": "The maximum age limit for all posts is up to 40 years. || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Application in prescribed format || Interview (if required)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.sambalpur.odisha.gov.in",
+        "official_notification": "https://sambalpur.odisha.gov.in/sites/default/files/2026-05/Data%20assistant%20cum%20Accountant%20Advt-26.pdf"
+    },
+    {
+        "date": "21/05/2026",
+        "board": "Punjab & Sind Bank",
+        "title": "Apprentice (under Apprentices Act, 1961)",
+        "qualification": "Regular Graduation in any discipline from a recognized University/Institute or equivalent qualification recognized by the Central Government.",
+        "last_date": "06-06-2026",
+        "total_posts": "State Vacancy",
+        "salary": "Not Available",
+        "age_limit": "Age Limit / Relaxation",
+        "application_fee": "Rs. 100/- + Applicable Taxes + Payment Gateway charges",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://punjabandsind.bank.in/",
+        "official_notification": "https://punjabandsind.bank.in/system/uploads/recruitment/7932_2026052021072462916.pdf"
+    },
+    {
+        "date": "21/05/2026",
+        "board": "WCD Odisha",
+        "title": "Anganwadi Worker",
+        "qualification": "Minimum 12th pass (10+2 Standard) and knowledge of Odisha language.",
+        "last_date": "02-06-2026",
+        "total_posts": "04",
+        "salary": "Not Available",
+        "age_limit": "Min: 18 years, Max: 35 years as of 01.01.2023",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://engagement-awc.odisha.gov.in",
+        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=161856"
+    },
+    {
         "date": "20/05/2026",
         "board": "OPTCL",
         "title": "Management Trainee (Electrical)",
@@ -365,7 +413,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "esic-teaching-faculty-recruitment-2026-apply-offline-for-118-professors-posts-3050014"
+        "official_notification": "Not Available"
     },
     {
         "date": "16/05/2026",
