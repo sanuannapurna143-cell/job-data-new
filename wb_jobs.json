@@ -1,6 +1,22 @@
 [
     {
         "date": "21/05/2026",
+        "board": "RRB",
+        "title": "Assistant Loco Pilot (ALP)",
+        "qualification": "Electronics Engineering (and combinations)",
+        "last_date": "14-06-2026",
+        "total_posts": "Not Available",
+        "salary": "Level-2 in 7th CPC Pay Matrix; Initial Pay Rs. 19,900/-",
+        "age_limit": "Candidates must be between 18 and 30 years of age as on 01-07-2026. Age relaxation is available for various categories as detailed below. If a candidate is eligible for relaxation on more than one ground, only the maximum relaxation will be granted (not cumulative). SC, ST, and OBC (NCL) candidates applying against UR vacancies will not get any age relaxation. There is no fixed limit on the number of attempts - candidates can appear as long as they are within the prescribed upper age limit.",
+        "application_fee": "Candidates are required to pay the non-refundable recruitment fee online. Fee can be paid only through online mode - internet banking, debit/credit cards, or UPI. Applications received without the prescribed fee will be summarily rejected. Candidates who appear in CBT-1 will receive a refund of their examination fee (after deducting applicable bank charges) credited to their Aadhaar-seeded bank account. Candidates whose applications are rejected, or who do not appear in CBT-1, will not receive any refund.",
+        "selection_process": "Stage 1 - First Stage CBT (CBT-1) - Screening Only || Stage 2 - Second Stage CBT (CBT-2) || Part-A Syllabus (CBT-2): Mathematics, General Intelligence and Reasoning, Basic Science and Engineering (Engineering Drawing, Units, Measurements, Basic Electricity, Levers, IT Literacy, etc.) || Part-B Syllabus (CBT-2) - Trade-wise Qualifying Test: || Stage 3 - Computer Based Aptitude Test (CBAT) || Stage 4 & 5 - Document Verification (DV) and Medical Examination (ME) || Final merit list is prepared RRB-wise from candidates qualifying in CBAT, with 50% weightage to Part-A of CBT-2 marks and 50% weightage to CBAT scores. Candidates equal to the number of vacancies are shortlisted for DV and Medical Examination. In case of a tie, the older candidate is preferred; if age is also equal, alphabetical order of given name (A to Z) is applied. || Tie-Breaking Rules",
+        "apply_mode": "Online",
+        "syllabus": "Syllabus Mathematics, Mental Ability (Reasoning), General Science (10th standard level)",
+        "official_website": "https://www.rrbapply.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/853145-6a055fdb6768a16013442.pdf"
+    },
+    {
+        "date": "21/05/2026",
         "board": "CSIR NEERI",
         "title": "Project Associate I",
         "qualification": "M.Sc. in Chemistry or Environmental Science from recognized University",
@@ -205,7 +221,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "rrb-alp-recruitment-2026-cen-012026-notification-out-apply-online-for-11-127-posts-3041572"
     },
     {
         "date": "18/05/2026",
@@ -302,22 +318,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iiests.ac.in",
         "official_notification": "https://www.iiests.ac.in/assets/images/notifications/advt-website-ERP-FINAL.pdf"
-    },
-    {
-        "date": "14/05/2026",
-        "board": "RRB",
-        "title": "Assistant Loco Pilot (ALP)",
-        "qualification": "Electronics Engineering (and combinations)",
-        "last_date": "14-06-2026",
-        "total_posts": "Not Available",
-        "salary": "Level-2 in 7th CPC Pay Matrix; Initial Pay Rs. 19,900/-",
-        "age_limit": "Candidates must be between 18 and 30 years of age as on 01-07-2026. Age relaxation is available for various categories as detailed below. If a candidate is eligible for relaxation on more than one ground, only the maximum relaxation will be granted (not cumulative). SC, ST, and OBC (NCL) candidates applying against UR vacancies will not get any age relaxation. There is no fixed limit on the number of attempts - candidates can appear as long as they are within the prescribed upper age limit.",
-        "application_fee": "Candidates are required to pay the non-refundable recruitment fee online. Fee can be paid only through online mode - internet banking, debit/credit cards, or UPI. Applications received without the prescribed fee will be summarily rejected. Candidates who appear in CBT-1 will receive a refund of their examination fee (after deducting applicable bank charges) credited to their Aadhaar-seeded bank account. Candidates whose applications are rejected, or who do not appear in CBT-1, will not receive any refund.",
-        "selection_process": "Stage 1 - First Stage CBT (CBT-1) - Screening Only || Stage 2 - Second Stage CBT (CBT-2) || Part-A Syllabus (CBT-2): Mathematics, General Intelligence and Reasoning, Basic Science and Engineering (Engineering Drawing, Units, Measurements, Basic Electricity, Levers, IT Literacy, etc.) || Part-B Syllabus (CBT-2) - Trade-wise Qualifying Test: || Stage 3 - Computer Based Aptitude Test (CBAT) || Stage 4 & 5 - Document Verification (DV) and Medical Examination (ME) || Final merit list is prepared RRB-wise from candidates qualifying in CBAT, with 50% weightage to Part-A of CBT-2 marks and 50% weightage to CBAT scores. Candidates equal to the number of vacancies are shortlisted for DV and Medical Examination. In case of a tie, the older candidate is preferred; if age is also equal, alphabetical order of given name (A to Z) is applied. || Tie-Breaking Rules",
-        "apply_mode": "Online",
-        "syllabus": "Syllabus Mathematics, Mental Ability (Reasoning), General Science (10th standard level)",
-        "official_website": "https://www.rrbapply.gov.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/05/853145-6a055fdb6768a16013442.pdf"
     },
     {
         "date": "14/05/2026",
