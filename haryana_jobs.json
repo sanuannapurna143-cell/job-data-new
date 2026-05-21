@@ -1,6 +1,38 @@
 [
     {
         "date": "21/05/2026",
+        "board": "HPSC",
+        "title": "Assistant District Attorney (Group-B)",
+        "qualification": "LLB",
+        "last_date": "29-05-2026",
+        "total_posts": "255",
+        "salary": "FPL-9 (Rs. 53100 - 167800)",
+        "age_limit": "Not Available",
+        "application_fee": "1000/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://hpsc.gov.in",
+        "official_notification": "https://hpsc.gov.in/Portals/0/Advt_18_2025_ADA_08_08_2025.pdf"
+    },
+    {
+        "date": "21/05/2026",
+        "board": "THSTI",
+        "title": "Clinical Research Associate, Quality Manager and More",
+        "qualification": "Any Post Graduate, BAMS, BDS, BHMS, B.Pharma, BPT, B.Sc, BSMS, BUMS, BVSC, Diploma, MBBS, M.Phil/ Ph.D, PG Diploma, Professional Degree",
+        "last_date": "11-06-2026",
+        "total_posts": "4",
+        "salary": "Clinical Project Manager: Rs. 78,000/- + HRA || Clinical Research Associate: Rs. 49,000/- + HRA || Quality Manager: Rs. 56,000/- + HRA || Sr. Project Associate: Rs. 42,000/- + HRA",
+        "age_limit": "Up to 45 years. || Age relaxation: 5 years for SC/ST, 3 years for OBC, 10 years for UR PwBD, 13 years for OBC PwBD, 15 years for SC/ST PwBD, up to 5 years for Central Govt servants, institute employees to extent of service, Ex-servicemen to extent of service plus 3 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://thsti.res.in/",
+        "official_notification": "https://recruitment.thsti.in/public/upload/job_pdf/Project%20Post_JD.pdf"
+    },
+    {
+        "date": "21/05/2026",
         "board": "HARTRON",
         "title": "Trainer",
         "qualification": "B. E. / B. Tech / M. Tech (Comp. Sc / IT) / M. Sc. (Comp. Sc. / IT) / MCA with 60% marks, Minimum 5 years of relevant experience in Software Development",

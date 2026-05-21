@@ -1,6 +1,22 @@
 [
     {
         "date": "21/05/2026",
+        "board": "MPESB",
+        "title": "Hospital Assistant / Aspatal Sahayak (Non-Executive, Fourth Grade)",
+        "qualification": "Minimum Educational Qualification (Hospital Assistant - Direct Recruitment)",
+        "last_date": "23-05-2026",
+        "total_posts": "1200",
+        "salary": "Rs. 15,500 - 49,000/- (Level 1)",
+        "age_limit": "Actual age minus total service period; resultant age should not exceed upper age limit by more than 3 years",
+        "application_fee": "Examination Fee",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://esb.mp.gov.in",
+        "official_notification": "https://esb.mp.gov.in/Rulebooks/RB_2026/Hospital_Assistant_rulebook_2026_30042026.pdf"
+    },
+    {
+        "date": "21/05/2026",
         "board": "IIT Indore",
         "title": "Junior Research Fellow",
         "qualification": "Masters degree in Physics, Biophysics, Bioinformatics, Biomedical Science with GATE/UGC/CSIR-JRF/DST-INSPIRE OR M. Tech degree in Computer Science and Engineering/ Electrical/ Electronics & Communication/ Instrumentation/ Biomedical/Medical Electronics with GATE or UGC/CSIR-JRF/NET-LS/DST-INSPIRE OR Bachelor's degree in Computer Science and Engineering/ Electrical/ Electronics & Communication/ Instrumentation/ Biomedical/Medical Electronics with GATE/UGC/CSIR-JRF/ NET-LS/DST-INSPIRE qualification or equivalent fellowship",
@@ -318,22 +334,6 @@
         "syllabus": "Not Available",
         "official_website": "https://jhabua.dcourts.gov.in/",
         "official_notification": "https://mphc.gov.in/PDF/web_pdf/RE/DLSA%20Jhabua%20-%20Driver%20Recruitment.pdf"
-    },
-    {
-        "date": "06/05/2026",
-        "board": "MPESB",
-        "title": "Hospital Assistant / Aspatal Sahayak (Non-Executive, Fourth Grade)",
-        "qualification": "Minimum Educational Qualification (Hospital Assistant - Direct Recruitment)",
-        "last_date": "21-05-2026",
-        "total_posts": "1200",
-        "salary": "Rs. 15,500 - 49,000/- (Level 1)",
-        "age_limit": "Actual age minus total service period; resultant age should not exceed upper age limit by more than 3 years",
-        "application_fee": "Examination Fee",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://esb.mp.gov.in",
-        "official_notification": "https://www.esb.mp.gov.in"
     },
     {
         "date": "05/05/2026",

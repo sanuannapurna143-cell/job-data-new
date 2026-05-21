@@ -1,6 +1,54 @@
 [
     {
         "date": "21/05/2026",
+        "board": "Periyar University",
+        "title": "Project Assistant",
+        "qualification": "M.Sc. in Psychology/ Applied Psychology with a minimum of 55% of marks or equivalent.",
+        "last_date": "25-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000 Per Month",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.periyaruniversity.ac.in",
+        "official_notification": "https://www.periyaruniversity.ac.in/Documents/2026/Advt/ad17.pdf"
+    },
+    {
+        "date": "21/05/2026",
+        "board": "TANUVAS",
+        "title": "Project Assistant",
+        "qualification": "Bachelor in Veterinary Sciences / Master degree in Livestock Products Technology, M.Sc Food Processing/ Food technology /M.Tech. in Poultry Technology",
+        "last_date": "10-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000 Per Month",
+        "age_limit": "Min: 21 years, Max: 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://tanuvas.ac.in",
+        "official_notification": "https://tanuvas.ac.in/admin/uploads/vacancies/1779341251.pdf"
+    },
+    {
+        "date": "21/05/2026",
+        "board": "NALCO",
+        "title": "Operator (HEMM) Gr. III, Mining Mate Gr. III, Jr. Foreman (Mines), Jr. Foreman (Electrical), SUPT(JOT)-Operator, Operator Gr. III, SUPT(JOT)-Fitter, Technician (Fitter) Gr. III, SUPT(JOT)-Electrical, Technician (Electrical) Gr. III, SUPT(JOT)-Laboratory, SUPT(JOT)-Instrumentation/Instrument Mechanic, Technician (Instrumentation/Instrument Mechanic) Gr. III",
+        "qualification": "B.Sc, Diploma, ITI",
+        "last_date": "10-06-2026",
+        "total_posts": "268",
+        "salary": "Rs. 36,500 – 3% – 1,15,000/- (Induction Level for Jr. Foreman posts)",
+        "age_limit": "Age is calculated as on the last date of online application submission (10-06-2026). Upper age limit is relaxable for various categories. The maximum upper age limit including all relaxations shall not exceed 56 years. The relaxation in age for SC/ST/OBC (NCL) is subject to availability of vacancy for the particular category. || Additional relaxations: Ex-Servicemen and children/family members of those who died in the 1984 riots will get relaxation as per Government of India directives.",
+        "application_fee": "Rs. 100/- (Rupees One Hundred only) - Non-refundable",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nalcoindia.com",
+        "official_notification": "https://mudira.nalcoindia.co.in/iorms/Uploaded_Data/Advertisement/639144655968105605_Final%20Adv%2010260213%2014%20May2026.pdf"
+    },
+    {
+        "date": "21/05/2026",
         "board": "Anna University",
         "title": "Project Associate",
         "qualification": "B.E or B.Tech/ M.E or M.Tech / M.Com / MBA / MCA",
@@ -78,22 +126,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aaiclas.aero",
         "official_notification": "https://www.aaiclas.aero/uploads/career/AAICLAS7501778657978.pdf"
-    },
-    {
-        "date": "20/05/2026",
-        "board": "NALCO",
-        "title": "Operator (HEMM) Gr. III, Mining Mate Gr. III, Jr. Foreman (Mines), Jr. Foreman (Electrical), SUPT(JOT)-Operator, Operator Gr. III, SUPT(JOT)-Fitter, Technician (Fitter) Gr. III, SUPT(JOT)-Electrical, Technician (Electrical) Gr. III, SUPT(JOT)-Laboratory, SUPT(JOT)-Instrumentation/Instrument Mechanic, Technician (Instrumentation/Instrument Mechanic) Gr. III",
-        "qualification": "B.Sc, Diploma, ITI",
-        "last_date": "10-06-2026",
-        "total_posts": "268",
-        "salary": "Rs. 36,500 – 3% – 1,15,000/- (Induction Level for Jr. Foreman posts)",
-        "age_limit": "Age is calculated as on the last date of online application submission (10-06-2026). Upper age limit is relaxable for various categories. The maximum upper age limit including all relaxations shall not exceed 56 years. The relaxation in age for SC/ST/OBC (NCL) is subject to availability of vacancy for the particular category. || Additional relaxations: Ex-Servicemen and children/family members of those who died in the 1984 riots will get relaxation as per Government of India directives.",
-        "application_fee": "Rs. 100/- (Rupees One Hundred only) - Non-refundable",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nalcoindia.com",
-        "official_notification": "https://mudira.nalcoindia.co.in/iorms/Uploaded_Data/Advertisement/639144655968105605_Final%20Adv%2010260213%2014%20May2026.pdf"
     },
     {
         "date": "20/05/2026",
@@ -301,7 +333,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.dssc.gov.in",
-        "official_notification": "mpsc-group-c-services-main-exam-notification-out-apply-online-for-1884-posts-3050122"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/05/2026",
