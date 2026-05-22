@@ -1,6 +1,22 @@
 [
     {
         "date": "22/05/2026",
+        "board": "Regional Centre for Biotechnology",
+        "title": "Apprentice",
+        "qualification": "B.Tech/ B.Sc in Life Sciences/ Biotech/ Microbiology, B.Com/ B.A., BE/ B.Tech in Civil/ Instrumentation/ Electrical, Graduate, Graduate/ BCA + Diploma in Computer Applications, 10th & 12th passed",
+        "last_date": "12-06-2026",
+        "total_posts": "14",
+        "salary": "Rs. 13500 Per Month",
+        "age_limit": "Minimum Age: 14 years || Maximum Age: 28 years || Age relaxation as per Government of India rules for SC, ST, OBC, PwD and Ex-servicemen.",
+        "application_fee": "Not Available",
+        "selection_process": "Merit based on marks secured in the relevant degree or diploma course",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://rcb.res.in",
+        "official_notification": "https://rcb.res.in/files/advertisement-files/walk-in_interview_for_apprentice_2.pdf"
+    },
+    {
+        "date": "22/05/2026",
         "board": "RITES",
         "title": "Individual Consultant",
         "qualification": "B.E. / B.Tech / B.Sc in Civil / Environmental / Chemical / Public Health Engineering, M.Tech / M.E./M.Sc. in Environmental / Public Health / Structural / Chemical / Sanitary / Water Resource Engineering",

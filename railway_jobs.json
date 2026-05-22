@@ -1,6 +1,38 @@
 [
     {
         "date": "22/05/2026",
+        "board": "RITES",
+        "title": "Individual Consultant",
+        "qualification": "B.E. / B.Tech / B.Sc in Civil / Environmental / Chemical / Public Health Engineering, M.Tech / M.E./M.Sc. in Environmental / Public Health / Structural / Chemical / Sanitary / Water Resource Engineering",
+        "last_date": "12-06-2026",
+        "total_posts": "2",
+        "salary": "Individual Consultant: Used Water Expert: Rs. 1,60,000/- to Rs. 2,00,000/- p.m. based on experience in Sewage / Waste Water Management / Sludge Management || Individual Consultant: Standard & Specification Expert: Rs. 1,80,000/- to Rs. 2,00,000/- p.m. based on experience in Standards and Specifications in sewage, wastewater management, sludge management and solid waste management",
+        "age_limit": "Maximum Age Limit: 60 years",
+        "application_fee": "Nil",
+        "selection_process": "Document Scrutiny || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rites.com",
+        "official_notification": "https://www.rites.com/Upload/Career/ADVT_YP_59-60_26_pdf-2026-May-22-09-56-24.pdf"
+    },
+    {
+        "date": "22/05/2026",
+        "board": "East Coast Railway",
+        "title": "Junior Engineer (OP)",
+        "qualification": "Degree or Diploma in Electrical/Mechanical Engineering or ITI/ACT Apprenticeship Pass or 10+2 in Science Stream.",
+        "last_date": "10-06-2026",
+        "total_posts": "1",
+        "salary": "Level-06",
+        "age_limit": "Maximum 47 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://rrcbbs.org.in",
+        "official_notification": "https://www.rrcbbs.org.in/JE-OP-Notification.pdf"
+    },
+    {
+        "date": "22/05/2026",
         "board": "RailTel",
         "title": "Project Director, Project Manager, Network Specialist, Network Admin, Network Engineer, Security Specialist, Security Admin, Server Admin, Central Helpdesk, Electrical Technician, Field Engineer, Nodal Officer (20 posts total)",
         "qualification": "B.E/B.Tech in Electronics/CS/IT/Telecom/EEE/Instrumentation OR MCA/MSc (IT)",
@@ -189,7 +221,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "ssc-cgl-recruitment-2026-apply-online-for-12256-group-b-group-c-posts-3050273"
+        "official_notification": "Not Available"
     },
     {
         "date": "14/05/2026",

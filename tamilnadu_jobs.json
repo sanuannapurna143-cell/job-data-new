@@ -1,6 +1,22 @@
 [
     {
         "date": "22/05/2026",
+        "board": "TNAU",
+        "title": "Project Assistant / Technical Assistant",
+        "qualification": "PG Degree in Arts and Science Domain, UG / PG Professional Course Degree or Equivalent in Agriculture / Engineering / Technology / Medical / Veterinary etc., Diploma in Agriculture / Horticulture or Any other Degree",
+        "last_date": "01-06-2026",
+        "total_posts": "4",
+        "salary": "Project Assistant: Rs. 25,000/- p.m. || Technical Assistant: Rs. 16,000/- p.m.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Document Verification",
+        "apply_mode": "Walk In",
+        "syllabus": "Not Available",
+        "official_website": "https://tnau.ac.in",
+        "official_notification": "https://tnau.ac.in/site/csw/job-opportunities/"
+    },
+    {
+        "date": "22/05/2026",
         "board": "Anna University",
         "title": "Project Assistant",
         "qualification": "M.Sc. Chemistry, M.E. (Energy Engineering), M.Tech. (Energy Studies, Energy Systems, Chemical Engineering, Nanotechnology)",
