@@ -1,6 +1,38 @@
 [
     {
-        "date": "21/05/2026",
+        "date": "22/05/2026",
+        "board": "Anna University",
+        "title": "Project Assistant",
+        "qualification": "M.Sc. Chemistry, M.E. (Energy Engineering), M.Tech. (Energy Studies, Energy Systems, Chemical Engineering, Nanotechnology)",
+        "last_date": "29-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000 / month (Consolidated)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.annauniv.edu/",
+        "official_notification": "https://www.annauniv.edu/pdf/CMRG_Recruitment_PA_Chemistry.pdf"
+    },
+    {
+        "date": "22/05/2026",
+        "board": "TANUVAS",
+        "title": "Project Assistant",
+        "qualification": "BVSc",
+        "last_date": "09-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25,000/- per month only (consolidated)",
+        "age_limit": "Maximum Age Limit: 40 years || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Examination || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://tanuvas.ac.in",
+        "official_notification": "https://tanuvas.ac.in/admin/uploads/vacancies/1779084753.pdf"
+    },
+    {
+        "date": "22/05/2026",
         "board": "RRB",
         "title": "Assistant Loco Pilot (ALP)",
         "qualification": "Electronics Engineering (and combinations)",
@@ -349,7 +381,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.dssc.gov.in",
-        "official_notification": "rrb-alp-recruitment-2026-cen-012026-notification-out-apply-online-for-11-127-posts-3041572"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/05/2026",
