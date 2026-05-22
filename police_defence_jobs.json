@@ -1,5 +1,37 @@
 [
     {
+        "date": "22/05/2026",
+        "board": "DRDO NMRL",
+        "title": "Paid Internship",
+        "qualification": "Pursuing Graduates in Engineering with a minimum CGPA of 7.0 in all previous semesters, Pursuing Post Graduate in Science with minimum 65% marks in the 1st year exam, Student must be enrolled for full time course from a AICTE/UGC approved College/University",
+        "last_date": "10-06-2026",
+        "total_posts": "20",
+        "salary": "Rs. 5000 Per Month",
+        "age_limit": "Maximum Age Limit: 25 years || Age relaxation is applicable as per rules.",
+        "application_fee": "Nil",
+        "selection_process": "Merit based on marks scored in previous exams || Online interview / interaction",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtNMRL22052026.pdf"
+    },
+    {
+        "date": "22/05/2026",
+        "board": "DRDO DRDE",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.Sc. in Chemistry or Life Sciences/Zoology/Biotechnology/Molecular Biology/Microbiology/Pharmacology/Toxicology/Immunology with CSIR/UGC/DBT/ICMR JRF Fellowship.",
+        "last_date": "18-06-2026",
+        "total_posts": "No Limit",
+        "salary": "Junior Research Fellow (JRF): Monthly Stipend and other allowances as per CSIR/UGC/DBT/ICMR Guidelines.",
+        "age_limit": "Maximum age limit is 28 years. || Age relaxation: 5 years for SC/ST candidates and 3 years for OBC candidates. Other categories will receive relaxation as per CSIR/UGC/DBT/ICMR Policy.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in-interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.drdo.gov.in",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDRDE22052026.pdf"
+    },
+    {
         "date": "21/05/2026",
         "board": "UPSC",
         "title": "NDA (2) Exam     – 394 Posts",

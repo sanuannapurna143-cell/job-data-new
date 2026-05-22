@@ -1,6 +1,22 @@
 [
     {
         "date": "22/05/2026",
+        "board": "ESIC Bangalore",
+        "title": "Junior Residents (Non-Teaching)",
+        "qualification": "MBBS",
+        "last_date": "26-05-2026",
+        "total_posts": "10",
+        "salary": "Rs. 1,22,859/- per month",
+        "age_limit": "Not exceeding 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/ALK_IN_INTERVIEW_FOR_ENGAGEMENT_OF_10_POSTS_OF_JUNIOR_RESIDENTS_NON_TEACHING_ON_CONTRACTUAL_BASIS_FOR_ONE_YEAR_IN_ESIC_PGIMSR_amp_MODEL_HOSPITAL_RAJAJINAGAR_1779428408.pdf"
+    },
+    {
+        "date": "22/05/2026",
         "board": "CSIR NAL",
         "title": "Project Staff",
         "qualification": "B.Sc./3 years Diploma in Engineering/Technology, Masters/Integrated Masters from a recognized University, Bachelor's degree in Engineering or Technology from a recognized University, SSC/10th plus ITI",

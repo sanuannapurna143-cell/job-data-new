@@ -1,6 +1,38 @@
 [
     {
         "date": "22/05/2026",
+        "board": "ESIC",
+        "title": "Teaching Faculty (Broad Specialty Department)",
+        "qualification": "As per latest NMC (National Medical Commission) guidelines, NMC Notification (30/06/2025) on Medical Institutions (Qualification of Faculty) Regulations 2025 will apply",
+        "last_date": "29-05-2026",
+        "total_posts": "41",
+        "salary": "Professor: Consolidated pay ₹2,60,226/- per month || Associate Professor: Consolidated pay ₹1,73,045/- per month || Assistant Professor: Consolidated pay ₹1,48,669/- per month",
+        "age_limit": "All Posts: Maximum age limit is 69 years.",
+        "application_fee": "₹500",
+        "selection_process": "Based on academic credentials and interview performance",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://esic.gov.in/",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_Interview_on_29_05_2026_for_Teaching_Faculty_Broad_Specialty_Department_on_Contract_Basis_at_ESIC_Medical_College_amp_Hospital_Faridabad_1779429925.pdf"
+    },
+    {
+        "date": "22/05/2026",
+        "board": "NIT Kurukshetra",
+        "title": "Research Assistant and Field Investigator",
+        "qualification": "Post Graduate in Social Science Discipline with a minimum 55% marks with NET/Ph.D/M.Tech for Research Assistant and Graduate in the Social Science Discipline with a minimum 55% marks for Field Investigator.",
+        "last_date": "08-06-2026",
+        "total_posts": "3",
+        "salary": "Rs. 37,000/- p.m. and Rs. 20,000/- p.m.",
+        "age_limit": "As per Government of India norms.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nitkkr.ac.in",
+        "official_notification": "https://nitkkr.ac.in/wp-content/uploads/2026/05/Advt.No_.12.2026.pdf"
+    },
+    {
+        "date": "22/05/2026",
         "board": "Regional Centre for Biotechnology",
         "title": "Apprentice",
         "qualification": "B.Tech/ B.Sc in Life Sciences/ Biotech/ Microbiology, B.Com/ B.A., BE/ B.Tech in Civil/ Instrumentation/ Electrical, Graduate, Graduate/ BCA + Diploma in Computer Applications, 10th & 12th passed",

@@ -1,6 +1,22 @@
 [
     {
         "date": "22/05/2026",
+        "board": "AIIMS Patna",
+        "title": "Senior Resident (Non-Academic)",
+        "qualification": "Post Graduate Degree i.e. MD/MS/DNB/DM/M.Ch or equivalent in the respective Department recognized by NMC/NBE",
+        "last_date": "03-06-2026",
+        "total_posts": "60",
+        "salary": "Rs. 67,700/- per month + NPA and allowances.",
+        "age_limit": "Maximum Age Limit: 45 years for all posts. || Age Relaxation: SC/ST: 5 years, OBC: 3 years, PWBD: 10 years, Ex-Servicemen: 5 years.",
+        "application_fee": "Rs. 1500/-",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimspatna.edu.in",
+        "official_notification": "https://api.aiimspatna.edu.in/advertisement/SRRecruitment-Advertisement%202026F-127239SR-%20I-Ad-hoc-Rectt-2026.pdf"
+    },
+    {
+        "date": "22/05/2026",
         "board": "CUSB",
         "title": "CRS Project Fellow (Junior) I/II",
         "qualification": "M.Sc. in Physics with minimum 55% marks (not earlier than 3 years)",

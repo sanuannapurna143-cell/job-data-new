@@ -1,6 +1,38 @@
 [
     {
         "date": "22/05/2026",
+        "board": "Utkal University",
+        "title": "Research Associate (RA)",
+        "qualification": "Ph.D. in Chemistry, Chemical Sciences, or Materials Science",
+        "last_date": "06-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 58000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://utkaluniversity.ac.in",
+        "official_notification": "https://utkaluniversity.ac.in/wp-content/uploads/2026/05/Advt_RA_ESS_Long_2026.pdf"
+    },
+    {
+        "date": "22/05/2026",
+        "board": "DPS Nalconagar",
+        "title": "Teaching and Non-Teaching Staff",
+        "qualification": "Post- Graduate / Graduate in relevant discipline with B.Ed./NTT and OSSTET/CTET (Paper II) where applicable. Specific qualifications vary by post.",
+        "last_date": "05-06-2026",
+        "total_posts": "31",
+        "salary": "Rs. ₹25,500/- - ₹35,400/- Per Month",
+        "age_limit": "Maximum Age Limit: 45 years as on 01-05-2026. || Relaxation in age limit may be considered for the experienced candidates (preferably working in CBSE affiliated school).",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.dpsnalconagar.org",
+        "official_notification": "https://dpsnalconagar.org/wp-content/uploads/2026/05/VACANCY-2026-1.pdf"
+    },
+    {
+        "date": "22/05/2026",
         "board": "AHSSP Dhenkanal",
         "title": "Guest faculties",
         "qualification": "Post Graduate with 55% marks and B.Ed.",

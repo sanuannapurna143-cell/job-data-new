@@ -1,6 +1,38 @@
 [
     {
         "date": "22/05/2026",
+        "board": "IIT Bhilai",
+        "title": "Project Assistant (Technical) / Project Associate (Technical)",
+        "qualification": "3-year diploma in CS/IT plus relevant experience, BE/BTech in CS/IT, MSc in CS/IT, MCA from a recognized university",
+        "last_date": "27-05-2026",
+        "total_posts": "5",
+        "salary": "Project Assistant (Technical):Rs. 28,000 - 41,000/- (consolidated) || Project Associate (Technical):Rs. 35,000 - 50,000/- (consolidated)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://www.iitbhilai.ac.in",
+        "official_notification": "https://www.iitbhilai.ac.in/index.php?pid=adv_may26_20"
+    },
+    {
+        "date": "22/05/2026",
+        "board": "ICDS Jashpur",
+        "title": "Anganwadi Helper",
+        "qualification": "8th Pass",
+        "last_date": "04-06-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Min: 18 years, Max: 44 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://jashpur.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s385fc37b18c57097425b52fc7afbb6969/uploads/2026/05/17793738396793.pdf"
+    },
+    {
+        "date": "22/05/2026",
         "board": "WCD Janjgir Champa",
         "title": "Various Contractual Posts",
         "qualification": "Post Graduate in Law/Social Work/Sociology/Social Science/Psychology, Graduate in any subject, High School (10th) or equivalent from recognized board, 8th Pass",
