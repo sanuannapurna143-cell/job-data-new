@@ -1,6 +1,22 @@
 [
     {
         "date": "23/05/2026",
+        "board": "IIT Ropar",
+        "title": "Project Assistant",
+        "qualification": "B. Tech or equivalent",
+        "last_date": "08-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 27000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitrpr.ac.in/",
+        "official_notification": "https://iitrpr.ac.in/mainwebsite-api/uploads/advertisements/projects/1779431703423-Advertisement%20for%20Project%20Assistant%20-%20KR_20-5-2026.pdf"
+    },
+    {
+        "date": "23/05/2026",
         "board": "Punjab and Haryana High Court",
         "title": "Clerk (in Subordinate Courts of Haryana)",
         "qualification": "No person who has entered into or contracted a marriage with a person having a spouse living, or who has married again while having a living spouse, is eligible. (Exception as per personal law at High Court's discretion.)",

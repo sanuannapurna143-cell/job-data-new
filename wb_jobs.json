@@ -1,6 +1,22 @@
 [
     {
         "date": "23/05/2026",
+        "board": "VECC",
+        "title": "Junior Research Fellowship – 09 Posts",
+        "qualification": "Option 1: M.Sc. (Physics) with minimum 55% aggregate marks. Option 2: 5-Year Integrated M.Sc. / B.S.-M.S. (Physics) with minimum 55% aggregate. Option 3: 4-Year / 8-Semester B.S. (Physics) with fourth year research with minimum 75% aggregate.\r\t\t\tCandidates awaiting final results can also apply with minimum required percentage up to previous semester/year.",
+        "last_date": "31-05-2026",
+        "total_posts": "09",
+        "salary": "Not Available",
+        "age_limit": "Candidates should be less than 28 years of age as on 31-05-2026. Age relaxation is applicable as per Government of India norms.",
+        "application_fee": "There is no application fee for this recruitment. Candidates only need to send the application through email with required documents.",
+        "selection_process": "Selection will be based on screening of applications followed by Offline Interview. Shortlisting will be done based on performance in national-level exams and academic records. Final selection depends on performance in the interview. Allotment of research topic will be decided after pre-Ph.D. course work.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.vecc.gov.in/",
+        "official_notification": "https://www.vecc.gov.in/sites/default/files/Recruitment/Advt.VECC_2-2026.pdf"
+    },
+    {
+        "date": "23/05/2026",
         "board": "SAIL DSP",
         "title": "Young Professional (YP-1, YP-2, YP-3) across Projects Division, Works Division, and Materials Management Division",
         "qualification": "M.E./M.Tech./Ph.D. in Electrical/Instrumentation Engineering",
@@ -269,7 +285,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "sail-young-professional-recruitment-2026-apply-online-for-48-posts-3050594"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/05/2026",

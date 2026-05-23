@@ -1,6 +1,22 @@
 [
     {
         "date": "23/05/2026",
+        "board": "MGU",
+        "title": "Veterinarian",
+        "qualification": "Degree in Veterinary Science and registered with Kerala Veterinary Council, or retired Veterinary Doctors.",
+        "last_date": "30-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 35,000/- per month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mgu.ac.in/",
+        "official_notification": "https://www.mgu.ac.in/uploads/2026/05/NOTIFICATION.pdf?x89344"
+    },
+    {
+        "date": "23/05/2026",
         "board": "NAM Kerala",
         "title": "Yoga Instructor",
         "qualification": "BNYS/BAMS, MSc (Yoga), MPhil (Yoga), PG Diploma in Yoga, Certificate in Yoga from YCB/SCOLE Kerala, PhD in Yoga",

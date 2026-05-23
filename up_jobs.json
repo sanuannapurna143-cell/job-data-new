@@ -1,6 +1,38 @@
 [
     {
         "date": "23/05/2026",
+        "board": "IIT Kanpur",
+        "title": "Research Assistant",
+        "qualification": "Postgraduate degree in Social Science, Management, or a related discipline with a minimum of 55% marks, along with NET/M.Phil./Ph.D. and a good academic record.",
+        "last_date": "28-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/doms-ra-19-05-26.html"
+    },
+    {
+        "date": "23/05/2026",
+        "board": "IIM Lucknow",
+        "title": "Senior Research Assistant",
+        "qualification": "Post-graduate in Economics/ Social Sciences from a reputed institute/ university in a regular mode with minimum 60% marks, Two (2) years relevant experience in FPOs/ cooperatives ecosystem",
+        "last_date": "31-05-2026",
+        "total_posts": "1",
+        "salary": "₹50,000 + HRA (consolidated) per month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "CV Submission via Email || Shortlisting || Virtual or In-person Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiml.ac.in",
+        "official_notification": "https://www.iiml.ac.in/sites/default/files/upload/jobs/495465944Advertisement%20Senior%20Research%20Assistant%20%28SM%20291%29_Prof.%20K%20Dey.pdf"
+    },
+    {
+        "date": "23/05/2026",
         "board": "CEL",
         "title": "Consultant (D&AR)",
         "qualification": "Graduate, preferably with a degree in Law/ Personnel Management/Industrial Relations",

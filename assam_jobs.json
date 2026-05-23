@@ -1,5 +1,21 @@
 [
     {
+        "date": "23/05/2026",
+        "board": "NIT Silchar",
+        "title": "Professor",
+        "qualification": "As per Schedule E of NIT Statute and MoE Notifications dated 30-11-2017, 16-04-2019 and 27-10-2020",
+        "last_date": "04-06-2026",
+        "total_posts": "35",
+        "salary": "Level-14A [PB-IV with AGP INR 10,500.00 (6th CPC scale)]",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Rs. 1,200",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nits.ac.in",
+        "official_notification": "https://www.nits.ac.in/storage/files/faculty-advertisement-2026.pdf"
+    },
+    {
         "date": "22/05/2026",
         "board": "IIT Guwahati",
         "title": "Research Officer, Research Assistant, Secretarial Assistant",
@@ -14,22 +30,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iitg.ac.in",
         "official_notification": "https://www.iitg.ac.in/pdf/080310cc3903da099ef0f8e817b8faba.pdf"
-    },
-    {
-        "date": "22/05/2026",
-        "board": "NIT Silchar",
-        "title": "Professor",
-        "qualification": "As per Schedule E of NIT Statute and MoE Notifications dated 30-11-2017, 16-04-2019 and 27-10-2020",
-        "last_date": "04-06-2026",
-        "total_posts": "35",
-        "salary": "Level-14A [PB-IV with AGP INR 10,500.00 (6th CPC scale)]",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Rs. 1,200",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nits.ac.in",
-        "official_notification": "https://www.nits.ac.in/storage/files/faculty-advertisement-2026.pdf"
     },
     {
         "date": "22/05/2026",
