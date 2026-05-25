@@ -1,5 +1,21 @@
 [
     {
+        "date": "25/05/2026",
+        "board": "KVAFSU",
+        "title": "Professor, Associate Professor, Assistant Professor (in various Veterinary, Dairy, Fisheries and Allied subjects)",
+        "qualification": "1. Bachelor's degree in Veterinary Science/Veterinary Science and Animal Husbandry/Dairy Science/Fisheries Science of respective discipline from SAU/SVU/Deemed University or recognized university. 2. Master's degree with minimum 55% marks (50% for SC/ST) or equivalent CGPA in concerned/Allied subject as notified by university. 3. Must have cleared NET in concerned subject conducted by UGC/ICAR/CSIR, or similar test accredited by UGC (SLET/SET); OR awarded a Ph.D. as per UGC Regulations 2009 or 2016 with NET exemption. 4. Knowledge of Kannada mandatory. 5. Age limit applicable (see Age Limit section).",
+        "last_date": "20-06-2026",
+        "total_posts": "96",
+        "salary": "Professor: Rs. 1,44,200–2,18,200 | Associate Professor: Rs. 1,31,400–2,17,100 | Assistant Professor: Rs. 57,700–1,82,400 (2016 ICAR/UGC Pay Scale)",
+        "age_limit": "Age limit is applicable only for Assistant Professor posts. Age is calculated as on the last date of submission of application i.e. 20-06-2026. No age limit has been specified for Professor and Associate Professor posts in this notification. Age relaxation for in-service candidates and other categories shall be considered based on the relevant orders of Government of Karnataka in vogue.",
+        "application_fee": "Rs. 1,000/- (Non-Refundable)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://kvafsu.edu.in/",
+        "official_notification": "https://kvafsu.edu.in/notification/2026/recruitment/teaching_posts/KVAFSU%20Direct%20Recruitment%20Teaching%20post%20Notification.pdf"
+    },
+    {
         "date": "22/05/2026",
         "board": "ESIC Bangalore",
         "title": "Junior Residents (Non-Teaching)",
@@ -46,22 +62,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.jncasr.ac.in",
         "official_notification": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-05/Advertisement%202026%20-%20Project%20Engineer.pdf"
-    },
-    {
-        "date": "22/05/2026",
-        "board": "NABCONS",
-        "title": "Junior Consultant",
-        "qualification": "MBA / Graduate with IT/Computers as a subject with minimum 60% marks or equivalent CGPA",
-        "last_date": "24-05-2026",
-        "total_posts": "1",
-        "salary": "Consolidated remuneration of Rs. 40,000/- PM",
-        "age_limit": "Minimum Age: 25 years || Maximum Age: 35 years",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Interview || Assessment for proficiency in MS Office/ data management",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://nabcons.com/uploads/career/NABCONS1779364576Advertisement_OFDD_Project_in_Karnataka.pdf",
-        "official_notification": "https://nabcons.com/uploads/career/NABCONS1779364576Advertisement_OFDD_Project_in_Karnataka.pdf"
     },
     {
         "date": "22/05/2026",
@@ -225,22 +225,6 @@
     },
     {
         "date": "20/05/2026",
-        "board": "Karnataka Police Department",
-        "title": "Cyber Security Analyst, Digital Forensic Analyst Posts",
-        "qualification": "B.E/B.Tech/B.C.A/M.Sc/M.C.A in Information Technology/ Computer Science/ Electronics & Communication/ Telecommunications and any equivalent or relevant degree with minimum 60% aggregate.",
-        "last_date": "24-05-2026",
-        "total_posts": "11",
-        "salary": "Cyber Security Analyst: Rs. 75,000 per month, Digital Forensic Analyst: Rs. 50,000 per month",
-        "age_limit": "Minimum 25 to maximum 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email|Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://ksp.karnataka.gov.in",
-        "official_notification": "https://ksp.karnataka.gov.in/storage/pdf-files/Notification.pdf"
-    },
-    {
-        "date": "20/05/2026",
         "board": "NIMHANS",
         "title": "Senior Scientific Officer (Neuromuscular)",
         "qualification": "Ph.D (Basic / Medical Sciences), One-year experience in Neuromuscular Diseases / Neurosciences",
@@ -254,22 +238,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.nimhans.ac.in",
         "official_notification": "https://nimhansbkt.demo-appiness.com/prodnimhans/documents/announcements/1b2a841524af46ec95a8dccda71bd96d.pdf"
-    },
-    {
-        "date": "19/05/2026",
-        "board": "IIM Bangalore",
-        "title": "Manager – Post Graduate Programme",
-        "qualification": "Any Graduate, MBA/ PGDM",
-        "last_date": "24-05-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Please refer to the official notification for selection process details.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iimb.ac.in",
-        "official_notification": "https://www.iimb.ac.in/sites/default/files/inline-files/JD_Manager-PGP-2026.pdf"
     },
     {
         "date": "19/05/2026",
@@ -368,22 +336,6 @@
         "official_notification": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtDEBEL12052026.pdf"
     },
     {
-        "date": "14/05/2026",
-        "board": "CSIR CFTRI",
-        "title": "Project Associate I",
-        "qualification": "Master's Degree in Food Science & Technology, Master's Degree in Biotechnology, Master's Degree in Biochemistry",
-        "last_date": "24-05-2026",
-        "total_posts": "1",
-        "salary": "Rs. 25,000/- plus HRA - Rs. 31,000/- plus HRA Per Month",
-        "age_limit": "Maximum Age Limit: 35 years as on 24-05-2026. || Age Relaxation: SC/ST/PwBD/Women: 5 years, OBC: 3 years.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://cftri.res.in/",
-        "official_notification": "https://cftri.res.in/ApplicationForm/0_46824700_1778491819.pdf"
-    },
-    {
         "date": "13/05/2026",
         "board": "NRLM Karnataka",
         "title": "DEO, Cluster Supervisor and More",
@@ -430,22 +382,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.cdac.in/",
         "official_notification": "https://www.cdac.in/index.aspx?id=ca_TvmContractStaff130526"
-    },
-    {
-        "date": "12/05/2026",
-        "board": "CSIR CFTRI",
-        "title": "Project Associate – II",
-        "qualification": "Master's Degree in Biochemistry/Biotechnology/Food Science and Nutrition/Life Sciences with 2 years of experience in Research and Development.",
-        "last_date": "24-05-2026",
-        "total_posts": "1",
-        "salary": "Project Associate - II (PAT-II): Rs. 28,000/- plus HRA",
-        "age_limit": "Maximum Age Limit: 35 years || Age Relaxation:SC/ST/PwBD/Women: 05 yearsOBC: 03 years || SC/ST/PwBD/Women: 05 years || OBC: 03 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://cftri.res.in/",
-        "official_notification": "https://cftri.res.in/ApplicationForm/0_28062600_1778491889.pdf"
     },
     {
         "date": "12/05/2026",
