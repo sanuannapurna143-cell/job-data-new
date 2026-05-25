@@ -1,6 +1,38 @@
 [
     {
         "date": "25/05/2026",
+        "board": "NIT Calicut",
+        "title": "Professor Emeritus",
+        "qualification": "Distinguished Professors in Engineering, Science, Management, Architecture, Humanities, Arts & Social Sciences, Education and Multidisciplinary Centres. Faculty superannuated/ retired from NITs/IITs/IISc or comparable institutions, with suitable externally sponsored projects or comparable activities, in addition to shouldering normal teaching responsibilities and project guidance.",
+        "last_date": "30-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1,20,000/- per month and monthly allowances up to Rs.20,000/- on reimbursable basis",
+        "age_limit": "Below 70 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nitc.ac.in",
+        "official_notification": "https://drive.google.com/file/d/1KKdzT6A4WPFg7388lzOwTCt6e1VsrpCn/view"
+    },
+    {
+        "date": "25/05/2026",
+        "board": "CUSAT",
+        "title": "Assistant Professor (Contract basis)",
+        "qualification": "Master's degree in Mathematics with 55% marks, Cleared NET/SLET/SET or awarded Ph.D.",
+        "last_date": "15-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 40000 - 42000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "₹ 950/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cusat.ac.in",
+        "official_notification": "https://recruit.cusat.ac.in/files/NOTIFICATION_433.pdf"
+    },
+    {
+        "date": "25/05/2026",
         "board": "HOCL",
         "title": "Trade Apprentice (ITI holders) | Graduate Apprentice (B.Tech/B.E.) | Technician Apprentice (Diploma holders)",
         "qualification": "Full-time ITI (National Trade Certificate issued by NCVT or State Trade Certificate issued by SCVT) from an institution recognized by State/Central Government in the relevant trade, passed during 2022–2026. Minimum 60% marks in qualifying exam (50% for SC/ST/PwBD). Equivalency Certificate required if qualification is equivalent.",

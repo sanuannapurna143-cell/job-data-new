@@ -1,6 +1,22 @@
 [
     {
         "date": "25/05/2026",
+        "board": "Gauhati High Court",
+        "title": "Judicial Assistant",
+        "qualification": "Graduate from a recognized University, Working knowledge of Computer",
+        "last_date": "11-06-2026",
+        "total_posts": "6",
+        "salary": "Pay Level 10: Rs. 37800 - 119700 Per Month + Grade Pay 4200",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 32 years || Age Relaxation: ST: 5 years (upper limit 37 years); Government Employees: equal to years of service subject to max 5 years; PwBD: additional 10 years",
+        "application_fee": "Rs. 250/-",
+        "selection_process": "Written Examination (100 marks) || Interview/Viva voce (20 marks) || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ghconline.gov.in",
+        "official_notification": "https://ghconline.gov.in/Recruitment/Notification-19-05-2026.pdf"
+    },
+    {
+        "date": "25/05/2026",
         "board": "NIT Silchar",
         "title": "Chief Executive Officer, Incubation Manager, Incubation Associate",
         "qualification": "Bachelor's degree or higher in Engineering/Technology/Pharmacy, Bachelor's degree or higher in Science with an MBA, Bachelor's degree or higher in Engineering/Technology/Science/Business/Management",
@@ -174,22 +190,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iitg.ac.in/rndproj/recruitment/",
         "official_notification": "https://www.iitg.ac.in/pdf/db27edd961a599b292c08f1bd6d3bd9d.pdf"
-    },
-    {
-        "date": "20/05/2026",
-        "board": "Gauhati High Court",
-        "title": "Judicial Assistant",
-        "qualification": "Graduate from a recognized University, Working knowledge of Computer",
-        "last_date": "11-06-2026",
-        "total_posts": "6",
-        "salary": "Pay Level 10: Rs. 37800 - 119700 Per Month + Grade Pay 4200",
-        "age_limit": "Minimum Age: 21 years || Maximum Age: 32 years || Age Relaxation: ST: 5 years (upper limit 37 years); Government Employees: equal to years of service subject to max 5 years; PwBD: additional 10 years",
-        "application_fee": "Rs. 250/-",
-        "selection_process": "Written Examination (100 marks) || Interview/Viva voce (20 marks) || Document Verification",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ghconline.gov.in",
-        "official_notification": "https://ghconline.gov.in/Recruitment/Notification-19-05-2026.pdf"
     },
     {
         "date": "19/05/2026",
