@@ -1,6 +1,22 @@
 [
     {
         "date": "25/05/2026",
+        "board": "KRCL",
+        "title": "Various Posts",
+        "qualification": "Qualified CA/CMA, Bachelor's Degree in Engineering, B.Com, M.Com, Inter CA/CMA, Diploma/Degree in Labour Laws or equivalent.",
+        "last_date": "23-06-2026",
+        "total_posts": "9",
+        "salary": "Consolidated Remuneration ranges from Rs. 41380 to Rs. 76660 per month.",
+        "age_limit": "Assistant Financial Advisor: Maximum age limit is 35 years. || Assistant Materials Manager: Maximum age limit is 30 years. || Section Officer: Maximum age limit is 40 years. || Depot Materials Superintendent: Maximum age limit is 30 years. || Personnel Inspector: Maximum age limit is 30 years. || Age relaxation will be as per the rules.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in interview || Group Discussion (GD) or any other elimination round like written test, etc. (if applicable) || Interview by a nominated Committee",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.konkanrailway.com",
+        "official_notification": "https://konkanrailway.com/sites/default/files/2026-05/Notification_9C.pdf"
+    },
+    {
+        "date": "25/05/2026",
         "board": "DFCCIL",
         "title": "General Manager, Deputy General Manager",
         "qualification": "B.E./B.Tech. or equivalent in relevant discipline, Bachelor's degree in law, B.E./B.Tech. in Computer Science/IT/Electronics or MCA.",
@@ -237,7 +253,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "jkssb-recruitment-2026-apply-online-for-130-electrician-plumber-and-more-posts-3050883"
     },
     {
         "date": "14/05/2026",

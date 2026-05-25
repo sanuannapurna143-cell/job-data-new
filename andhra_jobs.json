@@ -1,6 +1,22 @@
 [
     {
         "date": "25/05/2026",
+        "board": "APMSRB",
+        "title": "Assistant Professor",
+        "qualification": "PG degree with APMC registration",
+        "last_date": "02-06-2026",
+        "total_posts": "8",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Recruitment",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://apmsrb.ap.gov.in",
+        "official_notification": "https://apchfw.ap.gov.in:4016/msrb/uploads/notifications_go/2026/May2026/22May2026/6a103d20c8885.pdf"
+    },
+    {
+        "date": "25/05/2026",
         "board": "RINL",
         "title": "Associate Advisor/Senior Consultant",
         "qualification": "B.E/B.Sc/B.Tech in relevant engineering disciplines",
@@ -221,7 +237,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://apgenco.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "jkssb-recruitment-2026-apply-online-for-130-electrician-plumber-and-more-posts-3050883"
     },
     {
         "date": "14/05/2026",
