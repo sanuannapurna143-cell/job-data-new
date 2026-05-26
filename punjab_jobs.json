@@ -1,6 +1,38 @@
 [
     {
         "date": "26/05/2026",
+        "board": "Punjab and Haryana High Court",
+        "title": "Clerk (in Subordinate Courts of Haryana)",
+        "qualification": "No person who has entered into or contracted a marriage with a person having a spouse living, or who (having a spouse living) has entered into a marriage with any person shall be eligible. Exception: only if such marriage is permissible under the personal law applicable to such person as certified by the Hon'ble High Court.",
+        "last_date": "23-06-2026",
+        "total_posts": "1265",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Online Facilitation Charges",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sssc.gov.in/",
+        "official_notification": "https://sssc.gov.in/storage/notices/haryana%20clerk%2036C.pdf"
+    },
+    {
+        "date": "26/05/2026",
+        "board": "PAU",
+        "title": "Technical Assistant (Artificial Intelligence)",
+        "qualification": "First class Bachelor's Degree in Computer Science/Computer Science & Engineering/Information Technology/Computer Applications, Master's degree in Computer Science/Computer Science & Engineering/Information Technology/Computer Applications, Knowledge of Punjabi upto Matric Level",
+        "last_date": "10-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000 Per Month",
+        "age_limit": "Min: 18 years, Max: 50 years",
+        "application_fee": "Rs. 200/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://pau.edu",
+        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7373"
+    },
+    {
+        "date": "26/05/2026",
         "board": "IIT Ropar",
         "title": "Project Associate-I",
         "qualification": "B.Tech/B.E. or M.Tech./M.E./M.S. in Electrical Engineering or Electronics or similar field or equivalent qualification with 60% marks (or 6 grade points out of 10)",
@@ -30,22 +62,6 @@
         "syllabus": "Not Available",
         "official_website": "https://tmc.gov.in",
         "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=jQAl/YB4/mn5+AevId9Slw=="
-    },
-    {
-        "date": "25/05/2026",
-        "board": "Punjab and Haryana High Court",
-        "title": "Clerk (in Subordinate Courts of Haryana)",
-        "qualification": "No person who has entered into or contracted a marriage with a person having a spouse living, or who has married again while having a living spouse, is eligible. (Exception as per personal law at High Court's discretion.)",
-        "last_date": "23-06-2026",
-        "total_posts": "1265",
-        "salary": "As per latest rules and instructions issued by the Government of Haryana adopted for Subordinate Courts of Haryana",
-        "age_limit": "Not Available",
-        "application_fee": "Online Facilitation Charges",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://sssc.gov.in/",
-        "official_notification": "https://sssc.gov.in/storage/notices/haryana%20clerk%2036C.pdf"
     },
     {
         "date": "25/05/2026",

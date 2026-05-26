@@ -1,5 +1,37 @@
 [
     {
+        "date": "26/05/2026",
+        "board": "IISER Tirupati",
+        "title": "Professor and Assistant Professor",
+        "qualification": "Ph.D. with first class in the preceding degree",
+        "last_date": "28-05-2026",
+        "total_posts": "35",
+        "salary": "Academic Pay Level-14A (Entry pay ₹. 1,59,100/-)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iisertirupati.ac.in",
+        "official_notification": "https://recruitment.iisertirupati.ac.in/faculty/opportunities/notification/advertisement/2249947346"
+    },
+    {
+        "date": "26/05/2026",
+        "board": "NABFINS",
+        "title": "Customer Service Officer (Field Officer)",
+        "qualification": "PUC/10+2 completed",
+        "last_date": "29-06-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Not Available",
+        "age_limit": "Maximum age limit at 33 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nabfins.org/",
+        "official_notification": "https://nabfins.org/Careers/"
+    },
+    {
         "date": "25/05/2026",
         "board": "APMSRB",
         "title": "Assistant Professor",

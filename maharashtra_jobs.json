@@ -1,6 +1,38 @@
 [
     {
         "date": "26/05/2026",
+        "board": "IIGM",
+        "title": "Young Professional",
+        "qualification": "PG Degree/PG Diploma in Journalism and Mass communication/Public Relations/Media Science, Degree in Law, Master's Degree in Physics/Geophysics/Geology/Atmospheric Sciences/Physical Sciences, Master's Degree in Instrumentation/Physics/Applied Physics/Geophysics, Masters in Business Administration (HR, Finance)/Public Administration",
+        "last_date": "07-06-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iigm.res.in",
+        "official_notification": "https://iigm.res.in/sites/default/files/Notice%20inviting%20applications%20for%20Young%20Professional_0.pdf"
+    },
+    {
+        "date": "26/05/2026",
+        "board": "IISER Pune",
+        "title": "Counsellor, Internal Auditor and More",
+        "qualification": "Masters' Degree in Clinical Psychology, Graduation/Post Graduation in any discipline, Bachelor of Commerce",
+        "last_date": "15-06-2026",
+        "total_posts": "4",
+        "salary": "Counsellor: Starting Rs. 88,650/- per month || Internal Auditor: Rs. 50,000/- to Rs. 88,650/- per month || Audit Assistant: Starting Rs. 40,300/- per month.",
+        "age_limit": "Age Limit: 33- 40 years for all posts. || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Online Application || Shortlisting || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiserpune.ac.in",
+        "official_notification": "https://www.iiserpune.ac.in/storage/recruitment/job-posts/1260/documents/bcbbd337-e0e5-4e19-82ca-6e9c918135c1.pdf"
+    },
+    {
+        "date": "26/05/2026",
         "board": "ICMR NITVAR",
         "title": "Project Research Scientist I (Medical)",
         "qualification": "MBBS",

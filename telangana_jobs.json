@@ -1,6 +1,38 @@
 [
     {
         "date": "26/05/2026",
+        "board": "SVP NPA",
+        "title": "Tuition Teacher (Mathematics)",
+        "qualification": "Graduation in B.Sc (PCM) or BA Mathematics (Hons) with 50% marks, B.Ed with Mathematics 55% marks, Desirable: M.Sc/M.A (Maths)/MCA, Minimum 2 years teaching experience",
+        "last_date": "03-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 15000 Per Month",
+        "age_limit": "Min: 21 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.svnpna.gov.in",
+        "official_notification": "https://www.svpnpa.gov.in/static/gallery/docs/4c406513c5734b369adc054bc0067420.PDF"
+    },
+    {
+        "date": "26/05/2026",
+        "board": "DHS Jagtial",
+        "title": "Lab Technician",
+        "qualification": "Graduate or Diploma in Medical Laboratory Technology (MLT) from recognized institution",
+        "last_date": "30-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 21,000/- Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 44 years || Age Relaxation: SCs, STs, BCs & EWSs: 05 Years (Up to 49 years); Physically Disabled Persons: 10 Years (Up to 54 years); Ex-Servicemen: 03 Years in addition to length of regular service.",
+        "application_fee": "Not Available",
+        "selection_process": "Academic Weightage (Technical Qualification) || HIV Field Experience || Oral Interview & Aptitude || Written Examination (if 10 or more applications)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://jagtial.telangana.gov.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s33988c7f88ebcb58c6ce932b957b6f332/uploads/2026/05/17795368406630.pdf"
+    },
+    {
+        "date": "26/05/2026",
         "board": "IIT Hyderabad",
         "title": "Manager",
         "qualification": "Bachelor's Degree in Science or Engineering",

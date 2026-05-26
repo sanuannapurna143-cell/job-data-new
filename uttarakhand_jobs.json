@@ -1,6 +1,22 @@
 [
     {
         "date": "26/05/2026",
+        "board": "GBPUAT",
+        "title": "Dean/Director",
+        "qualification": "Doctorate degree in relevant field, 15 years teaching/research/extension experience, At least 5 years as Professor or equivalent, Ability to conduct and guide research",
+        "last_date": "25-06-2026",
+        "total_posts": "10",
+        "salary": "As per 7th Pay Commission",
+        "age_limit": "Retirement age is 65 years for Deans and Directors. || Candidates must have a minimum of two and a half years of service period left on 25.06.2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.gbpuat.ac.in",
+        "official_notification": "https://www.gbpuat.ac.in/employments/adv-22-05-26.pdf"
+    },
+    {
+        "date": "26/05/2026",
         "board": "AIIMS Rishikesh",
         "title": "Project Nurse, Project Technical Support",
         "qualification": "General Nursing & Midwife (GNM) Course., 10th + Diploma (MLT/DMLT / ITI or equivalent). Or Three years Graduate degree",

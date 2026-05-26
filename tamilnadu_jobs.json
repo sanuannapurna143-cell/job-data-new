@@ -1,6 +1,38 @@
 [
     {
         "date": "26/05/2026",
+        "board": "Anna University",
+        "title": "Manager - Relations & Fundraising",
+        "qualification": "Master's Degree in Management",
+        "last_date": "12-06-2026",
+        "total_posts": "2",
+        "salary": "Rs. 45,000-50,000/- (Consolidated) Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.annauniv.edu/",
+        "official_notification": "https://www.annauniv.edu/pdf/CARCA_Advt_Manager_Relations_Fundraising.pdf"
+    },
+    {
+        "date": "26/05/2026",
+        "board": "Chennai Port Authority",
+        "title": "Manager",
+        "qualification": "First Class Graduate in B.E./B.Tech",
+        "last_date": "05-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 120000 Per Month",
+        "age_limit": "Maximum Age Limit: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.chennaiport.gov.in",
+        "official_notification": "https://chennaiport.gov.in/api/static/default/career/Terms%20and%20Condition%20for%20Manager%20IT%202026_Ver0.pdf"
+    },
+    {
+        "date": "26/05/2026",
         "board": "TNSRLM Tirunelveli",
         "title": "Community Bank Coordinator",
         "qualification": "12th Pass, Member of Panchayat Level Federation Self Help Group, Minimum 2 years experience as Self Help Group Animator, Resident of the concerned Panchayat, Target group identified through participatory rural appraisal, Good communication skills, Experience in bank transactions and loan applications, Preference for computer skills and two-wheeler driving license, Android phone with ability to send SMS and WhatsApp messages and operate apps",
