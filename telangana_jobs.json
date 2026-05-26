@@ -1,5 +1,37 @@
 [
     {
+        "date": "26/05/2026",
+        "board": "IIT Hyderabad",
+        "title": "Manager",
+        "qualification": "Bachelor's Degree in Science or Engineering",
+        "last_date": "28-05-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 50000/-",
+        "age_limit": "Maximum Age Limit: 50 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iith.ac.in/",
+        "official_notification": "https://careers.iith.ac.in/jobs/19"
+    },
+    {
+        "date": "26/05/2026",
+        "board": "PJTAU",
+        "title": "Graduate Teaching Assistant",
+        "qualification": "B.Sc (Ag.)",
+        "last_date": "02-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 32000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://pjtau.edu.in/",
+        "official_notification": "https://drive.google.com/file/d/1-d-I9ryQISxZD4f4qrS_g0X85a8-9xDB/view"
+    },
+    {
         "date": "25/05/2026",
         "board": "IIT Hyderabad",
         "title": "Project Assistant",
@@ -557,7 +589,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://finance.telangana.gov.in/",
-        "official_notification": "jkssb-recruitment-2026-apply-online-for-130-electrician-plumber-and-more-posts-3050883"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/04/2026",
