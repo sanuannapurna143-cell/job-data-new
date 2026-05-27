@@ -1,5 +1,37 @@
 [
     {
+        "date": "27/05/2026",
+        "board": "IIT Kanpur",
+        "title": "Content Manager",
+        "qualification": "Bachelor’s or Master’s degree in Arts, Commerce, Management, Science, Engineering, or Interdisciplinary Sciences from a recognised University / Institute with a minimum of 50% marks, At least two (2) years experience in similar roles in an academic institution",
+        "last_date": "31-05-2026",
+        "total_posts": "1",
+        "salary": "Rs. 50400 - 126000 Consolidated",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Written Test || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in/",
+        "official_notification": "https://www.iitk.ac.in/dord/project/imoc-cm-16-05-26.html"
+    },
+    {
+        "date": "27/05/2026",
+        "board": "DMSRDE",
+        "title": "Paid Internship",
+        "qualification": "Pursuing final year Graduate/Post Graduate in Engineering and Science, full time Course in the respective discipline from a recognized Indian University/Institute",
+        "last_date": "15-06-2026",
+        "total_posts": "20",
+        "salary": "Rs. 5000/- Per Month",
+        "age_limit": "Maximum Age Limit: Below 28 Years. || Age relaxation rules are not specified in the provided data.",
+        "application_fee": "Not Available",
+        "selection_process": "CGPA/Online interview/Interaction || Merit basis || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in/",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDMSRDE275052026.pdf"
+    },
+    {
         "date": "26/05/2026",
         "board": "IIT Kanpur",
         "title": "Project Post-Doctoral Fellow – Energy Systems Modelling",

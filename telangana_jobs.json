@@ -1,5 +1,37 @@
 [
     {
+        "date": "27/05/2026",
+        "board": "SVPNPA",
+        "title": "Tuition Teacher (Science)",
+        "qualification": "Graduation in Bachelor of Science (PCM/PCB) B.Ed/ M.Sc",
+        "last_date": "03-06-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 15000 Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: Not specified || Age Relaxation: Not specified",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.svpnpa.gov.in",
+        "official_notification": "https://www.svpnpa.gov.in/static/gallery/docs/bbbf5a3e4d83403f8e47ccc37b264402.PDF"
+    },
+    {
+        "date": "27/05/2026",
+        "board": "NIT Warangal",
+        "title": "Junior Research Fellow",
+        "qualification": "B.Tech/B.E or M.Tech/M.E",
+        "last_date": "30-06-2026",
+        "total_posts": "2",
+        "salary": "Rs. 30000 - 42000 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nitw.ac.in/",
+        "official_notification": "https://nitw.ac.in/api/static/files/Advertisement_ANRF_2026-5-26-13-2-27.pdf"
+    },
+    {
         "date": "26/05/2026",
         "board": "SVP NPA",
         "title": "Tuition Teacher (Mathematics)",
