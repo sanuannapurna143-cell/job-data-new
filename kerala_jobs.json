@@ -1,6 +1,54 @@
 [
     {
         "date": "27/05/2026",
+        "board": "CSL",
+        "title": "Driver (Staff Car) on contract basis",
+        "qualification": "Pass in X Std and possess Valid Light Motor Vehicle Driving License",
+        "last_date": "09-06-2026",
+        "total_posts": "2",
+        "salary": "Rs. 27000 Per Month",
+        "age_limit": "Max: 55 years",
+        "application_fee": "₹ 200/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cochinshipyard.in",
+        "official_notification": "https://cochinshipyard.in/uploads/career/733e37c6016006803e9a5b1283384158.pdf"
+    },
+    {
+        "date": "27/05/2026",
+        "board": "Central University of Kerala",
+        "title": "Student Internship",
+        "qualification": "Students in undergraduate engineering or postgraduate Science disciplines",
+        "last_date": "08-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 5000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cukerala.ac.in/",
+        "official_notification": "https://www.cukerala.ac.in/EventDetails?Id=3918"
+    },
+    {
+        "date": "27/05/2026",
+        "board": "BSNL",
+        "title": "Junior Telecom Officer – Direct Recruitment (Telecom) [JTO(T)-DR]",
+        "qualification": "Core Qualification (Telecom Stream):Bachelor of Engineering Degree or equivalent from a Central Govt./State Govt. recognized Institution/University in any of the following disciplines: Telecommunications, Electronics, Radio, Computer, Electrical, Information Technology (IT), or Instrumentation. || Alternative Qualification:M.Sc. (Electronics) or M.Sc. (Computer Science). || Higher Qualifications:Candidates possessing M.Tech. in the prescribed disciplines are also eligible to appear in the Direct Recruitment examination. || Vision Requirement:The applicant must be capable of distinguishing principal colours and should have binocular vision. || Nationality:Only Indian Nationals are eligible to apply.",
+        "last_date": "03-07-2026",
+        "total_posts": "100",
+        "salary": "IDA Pay Scale [E-1] of ₹16,400 – ₹40,500/- (2nd PRC pay scale w.e.f. 01.01.2007)",
+        "age_limit": "General Age Limit: Minimum 20 years and maximum 30 years as on the closing date of receipt of application.",
+        "application_fee": "Fee must be paid through online mode only (Internet Banking, Credit Card, Debit Card) on the BSNL website: www.externalexam.bsnl.co.in . Fee once paid is non-refundable.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bsnl.co.in",
+        "official_notification": "https://externalexam.bsnl.co.in/Examination%20notification%20DR%20JTO(T).pdf"
+    },
+    {
+        "date": "27/05/2026",
         "board": "Central University of Kerala",
         "title": "Site Engineer/Site Supervisor (Civil)",
         "qualification": "B.Tech/BE Degree in Civil Engineering",
@@ -429,7 +477,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "ludhiana-court-clerk-recruitment-2026-apply-offline-for-56-posts-3051241"
+        "official_notification": "mpphscl-recruitment-2026-apply-online-for-41-engineer-officer-and-more-posts-3051412"
     },
     {
         "date": "16/05/2026",

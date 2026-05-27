@@ -1,5 +1,37 @@
 [
     {
+        "date": "27/05/2026",
+        "board": "DLSA Bhojpur",
+        "title": "Para Legal Volunteer",
+        "qualification": "Matric Pass",
+        "last_date": "08-06-2026",
+        "total_posts": "40",
+        "salary": "Rs. 750/- per working day",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://bhojpur.dcourts.gov.in",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec012bb0502c80b7432eee4c5847a5fd/uploads/2026/05/2026052140.pdf"
+    },
+    {
+        "date": "27/05/2026",
+        "board": "DLSA Begusarai",
+        "title": "Para Legal Volunteer",
+        "qualification": "Matriculation pass and computer knowledge",
+        "last_date": "10-06-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Rs. 750/- per day (only on assigned special days).",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://begusarai.dcourts.gov.in/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec046c91724b896cdcf48285039ab05b/uploads/2026/05/2026052057.pdf"
+    },
+    {
         "date": "26/05/2026",
         "board": "FDDI",
         "title": "Junior Faculty",
