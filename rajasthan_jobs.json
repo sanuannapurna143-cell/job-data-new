@@ -1,6 +1,22 @@
 [
     {
         "date": "28/05/2026",
+        "board": "ICAR-IISWC",
+        "title": "Young Professional-I (YP-1)",
+        "qualification": "B.Sc. Agriculture, B.Sc. or B.Sc.(Hons) Biotechnology, B.Sc. Microbiology, B.Sc. Environmental Science",
+        "last_date": "23-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30000 Per Month",
+        "age_limit": "Max: 50 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.cswcrtiweb.org/",
+        "official_notification": "http://www.cswcrtiweb.org/Recruitment/INSTITUTE/2026/May/kota_YP_I_27_may_2026.pdf"
+    },
+    {
+        "date": "28/05/2026",
         "board": "IIM Udaipur",
         "title": "Head - Admissions",
         "qualification": "Postgraduate degree or equivalent in any discipline from a recognized university.",
