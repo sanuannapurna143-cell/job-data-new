@@ -106,7 +106,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://balrampur.gov.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s326dd0dbc6e3f4c8043749885523d6a25/uploads/2026/05/17796967956872.pdf"
@@ -158,22 +158,6 @@
         "syllabus": "Not Available",
         "official_website": "https://vyapamcg.cgstate.gov.in/",
         "official_notification": "https://vyapamcg.cgstate.gov.in/uploads/pdfs/fa904b47-693b-4f08-90ef-832218cef038.pdf"
-    },
-    {
-        "date": "22/05/2026",
-        "board": "IIT Bhilai",
-        "title": "Project Assistant (Technical) / Project Associate (Technical)",
-        "qualification": "3-year diploma in CS/IT plus relevant experience, BE/BTech in CS/IT, MSc in CS/IT, MCA from a recognized university",
-        "last_date": "27-05-2026",
-        "total_posts": "5",
-        "salary": "Project Assistant (Technical):Rs. 28,000 - 41,000/- (consolidated) || Project Associate (Technical):Rs. 35,000 - 50,000/- (consolidated)",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting || Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "http://www.iitbhilai.ac.in",
-        "official_notification": "https://www.iitbhilai.ac.in/index.php?pid=adv_may26_20"
     },
     {
         "date": "22/05/2026",
@@ -314,7 +298,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.nmdc.co.in",
         "official_notification": "https://www.nmdc.co.in/cms-admin/Upload/Career_Documents/bb5e2ce5ce2243b488185ea9d06202fa_20260511100116519.pdf"

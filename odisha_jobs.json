@@ -1,5 +1,53 @@
 [
     {
+        "date": "28/05/2026",
+        "board": "District Court Rayagada",
+        "title": "Junior Clerk/Copyist",
+        "qualification": "+3 examination or equivalent from a recognized University, Diploma in Computer Application from a recognized Institute, Passed test in Oriya equivalent to M.E. standard",
+        "last_date": "17-06-2026",
+        "total_posts": "2",
+        "salary": "Rs. 19900 - 63200 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://rayagada.dcourts.gov.in",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0336ed197b3f31618fdbadb3df86f8/uploads/2026/05/2026051551.pdf"
+    },
+    {
+        "date": "28/05/2026",
+        "board": "District Judge Dhenkanal",
+        "title": "Junior Clerk-cum-Copyist, Junior Typist, Stenographer Gr-III and Salaried Amin",
+        "qualification": "+3 examination or equivalent, Diploma in Computer Application, H.S.C. examination or equivalent, Revenue Inspector Training, Knowledge in Computer Application, Minimum speed of 40 wpm in typewriting on computer, Minimum speed of 80 wpm in shorthand and 40 wpm in typewriting on computer, Ability to speak, read and write Odia (M.E. Standard)",
+        "last_date": "27-06-2026",
+        "total_posts": "20",
+        "salary": "Level-4 Rs.19,900-63,200/- || Level-7 Rs.25,500- 81,100/- || Level-5 Rs.21,700-69,100/-",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 42 years || Upper age limit relaxed as per Rule-5 of the Odisha District and Civil Courts' Judicial Staff Services (Method of Recruitment and Conditions of Service) Rules, 2008 and amendments for reserved categories.",
+        "application_fee": "Nil",
+        "selection_process": "Written Examination (Part-I) || Shorthand and Type Writing Test || Type Writing Test || Computer Science Test (Practical) || Survey Practical Test || Viva Voce Test",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://dhenkanal.dcourts.gov.in",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec029aeade7beada35c83d3b344fbafe/uploads/2026/05/2026051629.pdf"
+    },
+    {
+        "date": "28/05/2026",
+        "board": "Angul District Court",
+        "title": "Junior Clerk-cum-Copyist, Stenographer Grade-III, Salaried Amin",
+        "qualification": "+3 examination or equivalent, Diploma in Computer Application, Ability to speak, read and write Odia equivalent to M.E. standard. Matriculation for Salaried Amin.",
+        "last_date": "18-06-2026",
+        "total_posts": "18",
+        "salary": "Junior Clerk-cum-Copyist: Rs. 19,900/- to Rs. 63,200/- (Level 4) || Stenographer Grade-III: Rs. 25,500/- to Rs. 81,100/- (Level 7) || Salaried Amin: Rs. 21,700/- to Rs. 69,100/- (Level 5)",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 42 years || Age Relaxation: 5 years for SC/ST/SEBC/Women candidates; as per rules for PWD and Ex-serviceman.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://angul.dcourts.gov.in",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec038ce5d989374d216a867cdc887148/uploads/2026/05/2026051870.pdf"
+    },
+    {
         "date": "27/05/2026",
         "board": "Nabarangpur Forest Division",
         "title": "Senior Research Fellow cum GIS Expert",
@@ -58,7 +106,7 @@
         "age_limit": "Age Limit / Relaxation",
         "application_fee": "NIL (No examination fee required)",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://balangir.dcourts.gov.in",
         "official_notification": "https://balangir.dcourts.gov.in"
@@ -909,7 +957,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "mpphscl-recruitment-2026-apply-online-for-41-engineer-officer-and-more-posts-3051412"
+        "official_notification": "bdl-trade-apprentices-recruitment-2026-apply-online-for-33-posts-3051477"
     },
     {
         "date": "15/05/2026",

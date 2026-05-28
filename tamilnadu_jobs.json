@@ -1,5 +1,37 @@
 [
     {
+        "date": "28/05/2026",
+        "board": "Anna University",
+        "title": "Project Assistant",
+        "qualification": "M.E / M. Tech in Biotechnology, Environmental Science, Avionics, Aerospace Engineering, Space Science, Bio-Chemistry, Mechanical Engineering",
+        "last_date": "08-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.annauniv.edu",
+        "official_notification": "https://www.annauniv.edu/pdf/CMRG251309_Recruitment_PA_MECH_BIT.pdf"
+    },
+    {
+        "date": "28/05/2026",
+        "board": "NIOT",
+        "title": "Apprentice Trainees",
+        "qualification": "Diploma in Engineering/Technology or Graduate Degree in Engineering/Technology/relevant discipline.",
+        "last_date": "10-06-2026",
+        "total_posts": "30",
+        "salary": "(of which Rs.4000 will be paid by Government under DBT Scheme)",
+        "age_limit": "Technician Apprentice:Minimum 18 years, Maximum 24 years. || Graduate Apprentice:Minimum 21 years, Maximum 26 years. || Age Relaxation:SC/ST: 5 years, OBC: 3 years, PwBD: 10 years, PwBD (SC/ST): 15 years, PwBD (OBC): 13 years.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in-interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.niot.res.in",
+        "official_notification": "https://www.niot.res.in/media/Recruitment/NIOT%20Apprentice_Advertisement_NIOT-E&P-03-2026(Apprenticeship)20260513164300.pdf"
+    },
+    {
         "date": "27/05/2026",
         "board": "City Civil Court Chennai",
         "title": "Data Entry Operator",

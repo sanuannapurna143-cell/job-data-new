@@ -1,5 +1,37 @@
 [
     {
+        "date": "28/05/2026",
+        "board": "BDL",
+        "title": "Trade Apprentices – 33 Posts",
+        "qualification": "ITI",
+        "last_date": "01-06-2026",
+        "total_posts": "33",
+        "salary": "There is no fixed salary for BDL Trade Apprentices 2026. Selected candidates will receive a stipend as per the rates prescribed under the Apprentices Act, 1961 by the Central Apprenticeship Council during the training period. The stipend rates are determined by the Government of India and are subject to revision from time to time.",
+        "age_limit": "14 to 30 years (as on 01.06.2026)",
+        "application_fee": "Nil",
+        "selection_process": "Selection for BDL Trade Apprenticeship 2026 is purely merit-based - there is no written exam or interview. The merit list will be prepared trade-wise based on marks obtained in the qualifying examinations. || The merit score is calculated using the formula: || Merit Score = (Total Marks Obtained / Maximum Marks) × 100 || Equal weightage (50:50) is given to marks obtained in 10th Class / SSC and ITI while preparing the common merit list for each trade. Separate merit lists will be prepared for each trade. Reservation for SC/ST/OBC/PwBD/CAP/EWS will be applicable as per the Apprentices Act, 1961.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://bdl-india.in",
+        "official_notification": "https://www.apprenticeshipindia.gov.in"
+    },
+    {
+        "date": "28/05/2026",
+        "board": "DLSA Siddipet",
+        "title": "Junior Assistant",
+        "qualification": "Degree in Arts or Science or Commerce or Law, Knowledge or qualification in computer operation",
+        "last_date": "18-06-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 34 years || Age Relaxation: OC: 5 years, SCs/STs/BCs/EWS/Aboriginal Tribes in Agency areas/BCs: 10 years, Differently-abled: 10 years, Ex-Servicemen: as per Rule 12(1)(c)(i) of Telangana State and Subordinate Service Rules, Contract/Outsourcing employees in DLSA Siddipet: further 5 years",
+        "application_fee": "Rs.800/-",
+        "selection_process": "OMR based examination (80 marks: 40 GK + 40 General English, 90 minutes) || Oral Interview (Viva-Voce) (20 marks) || Certificate Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://siddipet.dcourts.gov.in/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec05b67fb3360ae5597d85a005153451/uploads/2026/05/2026051858.pdf"
+    },
+    {
         "date": "27/05/2026",
         "board": "SVPNPA",
         "title": "Tuition Teacher (Science)",
@@ -573,7 +605,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://finance.telangana.gov.in/",
-        "official_notification": "mpphscl-recruitment-2026-apply-online-for-41-engineer-officer-and-more-posts-3051412"
+        "official_notification": "Not Available"
     },
     {
         "date": "27/04/2026",
