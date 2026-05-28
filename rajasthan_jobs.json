@@ -1,6 +1,22 @@
 [
     {
         "date": "28/05/2026",
+        "board": "IIM Udaipur",
+        "title": "Head - Admissions",
+        "qualification": "Postgraduate degree or equivalent in any discipline from a recognized university.",
+        "last_date": "01-06-2026",
+        "total_posts": "1",
+        "salary": "Competitive; Commensurate with experience",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iimu.ac.in/",
+        "official_notification": "https://www.iimu.ac.in/applications-are-invited-for-the-post-of-head-admissions-may-2026/"
+    },
+    {
+        "date": "28/05/2026",
         "board": "RSLSA",
         "title": "Panel Advocate",
         "qualification": "Advocate enrolled with Bar Council with more than 1 year regular practice experience as per Advocates Act 1961",

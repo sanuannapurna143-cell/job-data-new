@@ -1,6 +1,22 @@
 [
     {
         "date": "28/05/2026",
+        "board": "IIT Roorkee",
+        "title": "Project Scientist -I",
+        "qualification": "M.Phil/ Ph.D, B.Tech/ B.E",
+        "last_date": "01-06-2026",
+        "total_posts": "4",
+        "salary": "Rs. 56000 +10% HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/ECE/2026/adv20052026.pdf"
+    },
+    {
+        "date": "28/05/2026",
         "board": "ICAR IISWC",
         "title": "Assistant and Lower Division Clerk",
         "qualification": "As per eligibility criteria for inter-institutional transfer",

@@ -1,6 +1,38 @@
 [
     {
         "date": "28/05/2026",
+        "board": "MANIT Bhopal",
+        "title": "Research Assistant",
+        "qualification": "Postgraduate degree in any branch of science with specialization in Computer Science or a related field, minimum 55% marks",
+        "last_date": "07-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.manit.ac.in/",
+        "official_notification": "https://www.manit.ac.in/sites/default/files/documents/advertisement_for_jrf.pdf"
+    },
+    {
+        "date": "28/05/2026",
+        "board": "ABV-IIITM Gwalior",
+        "title": "Junior Superintendent",
+        "qualification": "First Class Bachelor's degree with 5 years' experience as Senior Assistant/Assistant in Pay Level-5, First Class Bachelor's degree in Library Science with 5 years' experience as Senior Assistant/Assistant (Library) in Pay Level-5, First Class Bachelor's degree in Hindi or English with 5 years' experience as Senior Assistant/Assistant (Hindi Translator) in Pay Level-5, BE/B.Tech(CSE/IT)/MCA/ M.Sc. (Computer Science) (Electrical & Electronics Engineering) / M.Sc. (Electrical/Instrumentation, Electronics/EEE/Mechatronics Engineering) with 5 years' experience in Level-5, B.Sc. in Nursing with 2 years experience OR 3 years diploma in Nursing & Midwifery with 5 years experience",
+        "last_date": "29-06-2026",
+        "total_posts": "10",
+        "salary": "First Class Bachelor's degree with 5 years' experience as Senior Assistant/Assistant in Pay Level-5, First Class Bachelor's degree in Library Science with 5 years' experience as Senior Assistant/Assistant (Library) in Pay Level-5, First Class Bachelor's degree in Hindi or English with 5 years' experience as Senior Assistant/Assistant (Hindi Translator) in Pay Level-5, BE/B.Tech(CSE/IT)/MCA/ M.Sc. (Computer Science) (Electrical & Electronics Engineering) / M.Sc. (Electrical/Instrumentation, Electronics/EEE/Mechatronics Engineering) with 5 years' experience in Level-5, B.Sc. in Nursing with 2 years experience OR 3 years diploma in Nursing & Midwifery with 5 years experience",
+        "age_limit": "Maximum Age Limit: 32 years || Age Relaxation: As per Govt. of India norms",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiitm.ac.in/",
+        "official_notification": "https://www.iiitm.ac.in/images/2026/May_2026/Non-Faculty-Adv-06-2026-for-JS-JTS-Nurse--Final.pdf"
+    },
+    {
+        "date": "28/05/2026",
         "board": "DLSA Umaria",
         "title": "Driver",
         "qualification": "8th Pass from recognized board",
