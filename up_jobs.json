@@ -1,5 +1,37 @@
 [
     {
+        "date": "29/05/2026",
+        "board": "BHU",
+        "title": "Technical Assistant (TA)",
+        "qualification": "B.Sc. degree",
+        "last_date": "12-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20,000/- per month + 18% HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on merit || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.plantadaptomicslab.com",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/74108532-6a193e44aef3640400242.pdf"
+    },
+    {
+        "date": "29/05/2026",
+        "board": "CSC e-Governance Services Indian",
+        "title": "Aadhaar Supervisor/ Operator – 48 Posts",
+        "qualification": "Candidate must have any one of the following qualifications: || 12th / Intermediate / Senior Secondary, or || Matriculation / 10th with 2 years ITI, or || Matriculation / 10th with 3 years Polytechnic Diploma.",
+        "last_date": "20-06-2026",
+        "total_posts": "48",
+        "salary": "Remuneration will be as per the minimum wages of the respective State prescribed for semi-skilled manpower. Final payout structure and other benefits, if any, will be as per CSC e-Governance Services India Ltd norms.",
+        "age_limit": "Minimum age: 18 years as on the last date of application. || Upper age limit, if any, will be as per CSC/concerned guidelines.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://csc.gov.in/",
+        "official_notification": "https://csc.gov.in/ask"
+    },
+    {
         "date": "28/05/2026",
         "board": "IIM Lucknow",
         "title": "Senior Research Assistant",
@@ -14,22 +46,6 @@
         "syllabus": "Not Available",
         "official_website": "https://docs.google.com/forms/d/e/1FAIpQLSd7XXPORlRs0Vbgf3v0zjQhlgMe_rJAf4FEp-JHyx0uMw7zEA/viewform",
         "official_notification": "https://www.iiml.ac.in/sites/default/files/upload/jobs/1937973834Advertisement%20(Prof.%20Kaustav%20Banerjee).pdf"
-    },
-    {
-        "date": "28/05/2026",
-        "board": "Sadar Hospital Palamu",
-        "title": "Medical Officer",
-        "qualification": "MBBS with working knowledge of Computer, MS Office, usage of Internet and electronic mail.",
-        "last_date": "28-05-2026",
-        "total_posts": "1",
-        "salary": "Rs. 72000 Per Month",
-        "age_limit": "Maximum Age: 70 years",
-        "application_fee": "Nil",
-        "selection_process": "Written Test || Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.palamu.nic.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s365658fde58ab3c2b6e5132a39fae7cb9/uploads/2026/05/17785770755645.pdf"
     },
     {
         "date": "28/05/2026",
@@ -257,22 +273,6 @@
     },
     {
         "date": "25/05/2026",
-        "board": "IIT Kanpur",
-        "title": "Senior Research Fellow",
-        "qualification": "PhD in Metallurgical Engineering from NITs or IITs",
-        "last_date": "28-05-2026",
-        "total_posts": "1",
-        "salary": "Rs. 57,000 (Consolidated) + HRA per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitk.ac.in",
-        "official_notification": "https://www.iitk.ac.in/dord/project/mse-srf-19-05-26.html"
-    },
-    {
-        "date": "25/05/2026",
         "board": "IIM Lucknow",
         "title": "Academic Assistant",
         "qualification": "Post Graduate/MBA from a reputed institute/university in regular mode with minimum 60% marks.",
@@ -334,22 +334,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.sanskrit.nic.in",
         "official_notification": "https://www.sanskrit.nic.in/uploads/2026_05_24_Notification_Advertisement_03_2026.pdf"
-    },
-    {
-        "date": "23/05/2026",
-        "board": "IIT Kanpur",
-        "title": "Research Assistant",
-        "qualification": "Postgraduate degree in Social Science, Management, or a related discipline with a minimum of 55% marks, along with NET/M.Phil./Ph.D. and a good academic record.",
-        "last_date": "28-05-2026",
-        "total_posts": "1",
-        "salary": "Rs. 37000 Per Month",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitk.ac.in",
-        "official_notification": "https://www.iitk.ac.in/dord/project/doms-ra-19-05-26.html"
     },
     {
         "date": "23/05/2026",
@@ -544,22 +528,6 @@
         "official_notification": "http://upanganwadibharti.in/"
     },
     {
-        "date": "21/05/2026",
-        "board": "IIT Kanpur",
-        "title": "Technical Assistant",
-        "qualification": "Bachelor of Science/ITI",
-        "last_date": "28-05-2026",
-        "total_posts": "1",
-        "salary": "Rs. 27,000 (Consolidated) + HRA per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitk.ac.in",
-        "official_notification": "https://www.iitk.ac.in/dord/project/mse-ta-19-05-26.html"
-    },
-    {
         "date": "20/05/2026",
         "board": "CEL",
         "title": "Consultant (D&AR)",
@@ -721,22 +689,6 @@
     },
     {
         "date": "14/05/2026",
-        "board": "IIT BHU",
-        "title": "Research Associate",
-        "qualification": "M.E/ M.Tech, M.Phil/ Ph.D",
-        "last_date": "28-05-2026",
-        "total_posts": "1",
-        "salary": "Rs. 47,000/- Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitbhu.ac.in",
-        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_ra_eee_emission.pdf"
-    },
-    {
-        "date": "14/05/2026",
         "board": "IRCTC",
         "title": "Hospitality Monitor (Contractual)",
         "qualification": "01-05-2026 (for age, qualification, experience and other purposes)",
@@ -782,22 +734,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nationalfertilizers.com/",
         "official_notification": "https://careers.nfl.co.in/uploads/upload_datails_doc/01-NFL2026-13.05.2026-management_trainee.pdf"
-    },
-    {
-        "date": "13/05/2026",
-        "board": "District Program Officer Balrampur",
-        "title": "Anganwadi Worker",
-        "qualification": "Intermediate or equivalent",
-        "last_date": "28-05-2026",
-        "total_posts": "40",
-        "salary": "Not Available",
-        "age_limit": "Min: 18 years, Max: 35 years",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://upanganwadibhrati.in",
-        "official_notification": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1778216428_9f1b254b.pdf"
     },
     {
         "date": "13/05/2026",

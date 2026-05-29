@@ -1,5 +1,37 @@
 [
     {
+        "date": "29/05/2026",
+        "board": "MFMS JMI",
+        "title": "Nursery Teacher (Guest)",
+        "qualification": "Diploma / certificate in Nursery Education / Training from a recognized institute OR a B.Ed (Nursery)",
+        "last_date": "09-06-2026",
+        "total_posts": "10",
+        "salary": "Paid on a per period basis",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.jmi.ac.in",
+        "official_notification": "https://www.jmi.ac.in/upload/advertisement/jobs_mfn_2026may27.pdf"
+    },
+    {
+        "date": "29/05/2026",
+        "board": "IIT Delhi",
+        "title": "Research Associate",
+        "qualification": "PhD in Electronics, physics or related area, M.Tech./MS",
+        "last_date": "10-06-2026",
+        "total_posts": "2",
+        "salary": "Rs.58,000/- p.m. plus HRA @27%",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Online Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1779867132774_ru2227g.pdf"
+    },
+    {
         "date": "28/05/2026",
         "board": "IGH Dwarka",
         "title": "Senior Resident",
@@ -688,38 +720,6 @@
         "official_notification": "https://www.sanskrit.nic.in/uploads/2026_05_24_Notification_Advertisement_03_2026.pdf"
     },
     {
-        "date": "25/05/2026",
-        "board": "IIT Delhi",
-        "title": "Project Research Scientist (Non-medical)",
-        "qualification": "PhD in Life Sciences (Biotechnology/Biochemistry/Microbiology/Biophysics/Molecular Biology)",
-        "last_date": "28-05-2026",
-        "total_posts": "1",
-        "salary": "Rs. 56000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "http://ird.iitd.ac.in",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1778922155811_giwvots.pdf"
-    },
-    {
-        "date": "23/05/2026",
-        "board": "CIET NCERT",
-        "title": "Senior Research Fellow/Senior Research Associate, Junior Project Fellow, 3D Graphic Developer/Animator/Graphic Designer",
-        "qualification": "PG with 55% marks in relevant discipline + 2 years experience in relevant field. Project-specific qualifications apply (e.g., Master's in Computer Science, Education, Educational Technology etc.).",
-        "last_date": "28-05-2026",
-        "total_posts": "21",
-        "salary": "NET/Ph.D.: Rs.42,000/- p.m.\r\t\t\tNon-NET: Rs.40,000/- p.m.",
-        "age_limit": "Age Limit",
-        "application_fee": "Not Available",
-        "selection_process": "Selection will be done through Interview . Shortlisted candidates will be informed via registered email. Candidates must report by 9:00 a.m. on the interview date (no entry after 10:00 a.m.) with all original documents.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ncert.nic.in/",
-        "official_notification": "https://ncert.nic.in/pdf/announcement/vacancies/projectstaffvacancy/Advertisement_No_01-2026-27_JPF_SRA_3D_Graphic.pdf"
-    },
-    {
         "date": "23/05/2026",
         "board": "GGSGH",
         "title": "Medical Officer, Counsellor, Staff Nurse and Data Manager",
@@ -990,22 +990,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ssc.gov.in/",
         "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf"
-    },
-    {
-        "date": "21/05/2026",
-        "board": "Ramanujan College",
-        "title": "Research Assistant",
-        "qualification": "Masters in Philosophy, Gender Studies, Anthropology or any other relevant Social Science discipline with a minimum of 55% marks and NET/M.Phil/Ph.D.",
-        "last_date": "28-05-2026",
-        "total_posts": "1",
-        "salary": "Rs. 37000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.du.ac.in/",
-        "official_notification": "https://www.du.ac.in/uploads/new-web/21052026-ramanujan-research-assiatant.pdf"
     },
     {
         "date": "21/05/2026",
@@ -1617,22 +1601,6 @@
     },
     {
         "date": "18/05/2026",
-        "board": "IIT Delhi",
-        "title": "Project Scientist",
-        "qualification": "First-class or equivalent degree in B.Tech/M.Sc. in Condensed Matter Physics/Solid State Physics/ Nanoscience & Technology/Materials Science or equivalent",
-        "last_date": "28-05-2026",
-        "total_posts": "1",
-        "salary": "Rs.47,790 - 49,220 - 50,700 - 52,220 - 53,790 - 55,400 - 57,060 - 58,770 - 60,530 - 62,350/- p.m. plus HRA @27%",
-        "age_limit": "Maximum Age: 35 years || Age Relaxation as per GoI Rules",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "http://ird.iitd.ac.in/rec",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1778753332387_sn7l53c.pdf"
-    },
-    {
-        "date": "18/05/2026",
         "board": "NHSRCL",
         "title": "Various Managerial Posts",
         "qualification": "B.E./ B.Tech in Electrical Engineering or equivalent, B.E./ B.Tech in Electrical / Mechanical/ Electronics Engineering or equivalent, Graduation in any discipline with full time master’s degree in Mass Communication, Public Relations, Journalism, Corporate Communications, Visual communication, Marketing communication, Advertising or MBA in relevant stream",
@@ -1745,22 +1713,6 @@
     },
     {
         "date": "16/05/2026",
-        "board": "IIT Delhi",
-        "title": "Principal Project Scientist",
-        "qualification": "M.Phil/ Ph.D",
-        "last_date": "28-05-2026",
-        "total_posts": "1",
-        "salary": "Rs. 75,600 - 77,870 - 80,210 - 82,620 - 85,100 - 87,650 - 90,280 - 92,900 - 95,780 - 98,650 - 1,01,610/- p.m. plus HRA @27%",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "http://ird.iitd.ac.in",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1778752966422_z9r0wwj.pdf"
-    },
-    {
-        "date": "16/05/2026",
         "board": "ICAR IARI",
         "title": "Young Professional (I)",
         "qualification": "Graduation in Agriculture Science, Graduation in any stream",
@@ -1838,22 +1790,6 @@
         "syllabus": "Not Available",
         "official_website": "https://nhai.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/05/965873-6a06b0c44445b44308125.pdf"
-    },
-    {
-        "date": "15/05/2026",
-        "board": "NBB",
-        "title": "Consultant & Technical Assistant",
-        "qualification": "Master’s Degree in Agriculture / Horticulture / Entomology / Apiculture and allied subjects",
-        "last_date": "28-05-2026",
-        "total_posts": "3",
-        "salary": "Consultant: Rs. 40,000/- - Rs. 65,000/- Per Month || Technical Assistant: Rs. 40,000/- - Rs. 65,000/- Per Month",
-        "age_limit": "Maximum age limit for Consultant is 60 years as on 30th April, 2026. || Maximum age limit for Technical Assistant is 45 years as on 30th April, 2026. || Age relaxation is applicable for experts with proven domain expertise and experience of working in beekeeping/ agriculture/ horticulture/ extension/ computer, etc. in Government/ public sector organizations.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting of applications || Personal interview before a Selection Committee || Final selection purely on performance/merit basis",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.agriwelfare.gov.in",
-        "official_notification": "https://www.agriwelfare.gov.in/Documents/Recruitment/NBB_Consultants_TA_14052026.pdf"
     },
     {
         "date": "14/05/2026",
@@ -1982,22 +1918,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iari.res.in",
         "official_notification": "https://iari.res.in/files/jobs/Jobs_Genetics_11052026.pdf"
-    },
-    {
-        "date": "13/05/2026",
-        "board": "DMRC",
-        "title": "Manager/Assistant Manager/Supervisor (Electrical)",
-        "qualification": "Indian Nationality, Experience in Electrical department (Traction / Rolling Stock / E&M / General Services), Working or retired from Central/State Govt / Railways / PSUs / Metro organizations, Free from D&AR and Vigilance angle, Conversant with computerized working environment",
-        "last_date": "28-05-2026",
-        "total_posts": "37",
-        "salary": "Rs. 56,300 - Rs. 1,06,300 Per Month",
-        "age_limit": "Minimum Age: 55 years || Maximum Age: 62 years || Age relaxation is not mentioned in the official notification.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting || Personal Interview || Medical Examination (for PRCE)",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.delhimetrorail.com",
-        "official_notification": "https://backend.delhimetrorail.com/documents/10696/Advt__228-AM_Mgr_Sup_elec.pdf"
     },
     {
         "date": "13/05/2026",
@@ -2176,22 +2096,6 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/05/785246532-6a02ae671c9f979265168.pdf"
     },
     {
-        "date": "12/05/2026",
-        "board": "NIT Delhi",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "M.Tech./M.E./M.S. (by Research) or equivalent postgraduate degree in Computer Science & Engineering/IT/ECE/ or relevant branch with minimum of 6.5 CGPA or 60% marks and with a GATE/NET Qualified. OR B.Tech./B.E. in Computer Science & Engineering/IT/ECE/or relevant branch with a minimum CGPA of 7.5 (on a 10-point scale) and a valid GATE.",
-        "last_date": "28-05-2026",
-        "total_posts": "1",
-        "salary": "₹37,000/- + HRA",
-        "age_limit": "Not exceeding 32 years (for JRF) as on the closing date of the application. Age relaxation as per GOI norms.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://nitdelhi.ac.in/",
-        "official_notification": "https://media.nitdelhi.ac.in/uploads/announcements/Recruitment/JRF_DST_Advertisement@nitdelhi3ea79463-7abe-4d69-979d-07ad6b4d2f9d.pdf"
-    },
-    {
         "date": "11/05/2026",
         "board": "IIT Delhi",
         "title": "Junior Research Fellow",
@@ -2318,22 +2222,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iari.res.in",
         "official_notification": "https://iari.res.in/files/jobs/genetics_RA_07052026.pdf"
-    },
-    {
-        "date": "07/05/2026",
-        "board": "DMRC",
-        "title": "Executive (Legal)",
-        "qualification": "Graduate, LLB",
-        "last_date": "28-05-2026",
-        "total_posts": "3",
-        "salary": "Pay Scale (IDA): Rs. 40000-140000/- (E 1) || Other benefits include Perks, Lease/HRA, Medical benefits, EPF, Gratuity and Insurance etc.",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 32 years || Age Relaxation: PwBD Unreserved candidates can avail 10 years of age relaxation.",
-        "application_fee": "Not Available",
-        "selection_process": "CLAT– 2026 (for admission to post graduation) scores || Group Discussion || Personal Interview || Medical Fitness Examination",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://delhimetrorail.com/",
-        "official_notification": "https://backend.delhimetrorail.com/documents/10705/Advt__229-Executive_Legal_03_post_DR_Pay-scale-E1.pdf"
     },
     {
         "date": "05/05/2026",
