@@ -1,6 +1,22 @@
 [
     {
         "date": "29/05/2026",
+        "board": "ICAR-CRRI",
+        "title": "Young Professional-I (YP-I)",
+        "qualification": "B.Sc. (Agriculture), B.Sc. (Horticulture), B.Sc. (Forestry)",
+        "last_date": "05-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30000 Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 45 years || Age relaxation is applicable as per rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Written-cum-personal interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://icar-crri.in",
+        "official_notification": "https://icar-crri.in/wp-content/uploads/2026/05/EAP-472.pdf"
+    },
+    {
+        "date": "29/05/2026",
         "board": "CSC e-Governance Services Indian",
         "title": "Aadhaar Supervisor/ Operator – 48 Posts",
         "qualification": "Candidate must have any one of the following qualifications: || 12th / Intermediate / Senior Secondary, or || Matriculation / 10th with 2 years ITI, or || Matriculation / 10th with 3 years Polytechnic Diploma.",

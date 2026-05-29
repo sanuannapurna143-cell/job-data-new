@@ -1,6 +1,22 @@
 [
     {
         "date": "29/05/2026",
+        "board": "ESIC",
+        "title": "Specialist and Senior Resident",
+        "qualification": "DM/PG/DNB/Diploma in concerned Specialty from recognized university, registered in MCI or State Medical Council",
+        "last_date": "02-06-2026",
+        "total_posts": "15",
+        "salary": "Specialist (Full Time):₹1,21,408/- (Fixed) per month || Specialist (Part Time):₹60,000 + ₹15,000 per month || Senior Resident:As per 7th CPC Level 11",
+        "age_limit": "Maximum Age Limit: 69 years for all posts.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://esic.gov.in/",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Application_are_invited_from_eligible_candidates_for_the_post_of_contractual_specialist_Full_Part_time_for_1_year_amp_SR_3_years_for_the_various_department_in_ESIC_Hospital_Kota_1780037816.pdf"
+    },
+    {
+        "date": "29/05/2026",
         "board": "DRDO DLJ",
         "title": "Paid Internship",
         "qualification": "B.Tech/ B.E, M.Sc",

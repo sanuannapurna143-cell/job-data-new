@@ -1,6 +1,38 @@
 [
     {
         "date": "29/05/2026",
+        "board": "BPSC",
+        "title": "Sugar Cane Officer (Deleted via Corrigendum dated 06-05-2026)",
+        "qualification": "Any Bachelors Degree",
+        "last_date": "31-05-2026",
+        "total_posts": "44",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not applicable under 72nd CCE after corrigendum",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bpsc.bihar.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/785232-69f9c7db2e55d77325444.pdf"
+    },
+    {
+        "date": "29/05/2026",
+        "board": "BPSC",
+        "title": "Various Posts / Services under Bihar Government Departments",
+        "qualification": "Bachelor's Degree from any recognized University; Optional subjects: (1) Home Science (2) Psychology (3) Sociology (4) Labour & Social Welfare - one of these must be selected as Main Exam optional subject",
+        "last_date": "31-05-2026",
+        "total_posts": "1186",
+        "salary": "Level-9 and Level-7 and Level-6 (as per post, Bihar State Pay Matrix)",
+        "age_limit": "Age is calculated as on 01-08-2026. The minimum age is 20 years for Police Sub-Inspector, 21 years for various Level-6 and Level-7 posts (Table-I and Table-II), and 22 years for Level-9 posts. The maximum age limit is 37 years for UR (Male), 40 years for EBC/BC (Male & Female) and 42 years for SC/ST (Male & Female). Bihar Government employees are allowed a maximum of 5 additional attempts after regular appointment with a maximum age relaxation of 5 years.",
+        "application_fee": "Candidates applying for the 72nd CCE are required to pay a non-refundable examination fee as specified below. Payment must be made online through the BPSC application portal. Fee paid will not be refunded under any circumstances. Candidates who do not provide Aadhaar number in the online application are required to pay an additional Biometric fee of Rs. 200/- per examination.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://bpsc.bihar.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/785232-69f9c7db2e55d77325444.pdf"
+    },
+    {
+        "date": "29/05/2026",
         "board": "IIT Patna",
         "title": "Junior Research Associate, Office Assistant and More",
         "qualification": "B. Tech./B.E. or MCA or M.Sc, B.A or M.A.or M.Phil./PhD or M.E./M.Tech./MBA, B.Com./B.Sc./BCA/Diploma",
@@ -254,37 +286,5 @@
         "syllabus": "Not Available",
         "official_website": "https://gopalganj.bih.nic.in",
         "official_notification": "https://cdn.s3waas.gov.in/s3f387624df552cea2f369918c5e1e12bc/uploads/2026/05/17780553216756.pdf"
-    },
-    {
-        "date": "06/05/2026",
-        "board": "BPSC",
-        "title": "Sugar Cane Officer",
-        "qualification": "Any Bachelors Degree",
-        "last_date": "31-05-2026",
-        "total_posts": "44",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Rs. 200/- (Rupees Two Hundred only) additional over the examination fee",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bpsc.bihar.gov.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/05/785232-69f9c7db2e55d77325444.pdf"
-    },
-    {
-        "date": "06/05/2026",
-        "board": "BPSC",
-        "title": "Various Posts / Services under Bihar Government Departments",
-        "qualification": "Bachelor's Degree from any recognized University; Optional subjects: (1) Home Science (2) Psychology (3) Sociology (4) Labour & Social Welfare - one of these must be selected as Main Exam optional subject",
-        "last_date": "31-05-2026",
-        "total_posts": "1230",
-        "salary": "Level-9 and Level-7 and Level-6 (as per post, Bihar State Pay Matrix)",
-        "age_limit": "Age is calculated as on 01-08-2026. The minimum age is 20 years for Police Sub-Inspector, 21 years for various Level-6 and Level-7 posts (Table-I and Table-II), and 22 years for Level-9 posts. The maximum age limit is 37 years for UR (Male), 40 years for EBC/BC (Male & Female) and 42 years for SC/ST (Male & Female). Bihar Government employees are allowed a maximum of 5 additional attempts after regular appointment with a maximum age relaxation of 5 years.",
-        "application_fee": "Candidates applying for the 72nd CCE are required to pay a non-refundable examination fee as specified below. Payment must be made online through the BPSC application portal. Fee paid will not be refunded under any circumstances. Candidates who do not provide Aadhaar number in the online application are required to pay an additional Biometric fee of Rs. 200/- per examination.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bpsc.bihar.gov.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/05/785232-69f9c7db2e55d77325444.pdf"
     }
 ]

@@ -1,6 +1,22 @@
 [
     {
         "date": "29/05/2026",
+        "board": "District Court Thrissur",
+        "title": "Senior Clerk",
+        "qualification": "Retired from similar or higher post in District Courts",
+        "last_date": "03-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 23360 Per Month",
+        "age_limit": "Max: 62 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://kannur.dcourts.gov.in/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/05/2026052288.pdf"
+    },
+    {
+        "date": "29/05/2026",
         "board": "NIT Calicut",
         "title": "Junior Research Fellow",
         "qualification": "M.E./M.Tech (Chemical Engineering) with minimum 60% marks or 6.5CGPA in aggregate from a recognized technical Institute or University, as a full time program with GATE qualified. Or Candidates Bachelor's degree in Chemical Engineering or any other relevant branch of Engineering and Technology from a recognised university with first class CGPA of 7.5 (on a 10-point scale) and a valid GATE score. Desirable: Experience in process modelling and simulation, and Aspen Plus and COMSOL simulation software.",
