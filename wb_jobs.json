@@ -1,6 +1,22 @@
 [
     {
         "date": "29/05/2026",
+        "board": "NBMCH",
+        "title": "Senior Resident",
+        "qualification": "MBBS with P.G. Degree/Diploma/DNB from recognized university.",
+        "last_date": "15-06-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age Limit: 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://nbmc.edu.bd/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/85204133-6a198cc0263b343606459.pdf"
+    },
+    {
+        "date": "29/05/2026",
         "board": "Suri Sadar Hospital",
         "title": "House Staff (MBBS)",
         "qualification": "MBBS",

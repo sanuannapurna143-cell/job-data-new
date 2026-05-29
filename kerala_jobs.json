@@ -1,6 +1,22 @@
 [
     {
         "date": "29/05/2026",
+        "board": "FACT",
+        "title": "Trainee",
+        "qualification": "Two-year Post Graduate Degree or Diploma or MBA, Bachelor's Degree in Law",
+        "last_date": "30-05-2026",
+        "total_posts": "9",
+        "salary": "Rs. 12,300 Per Month",
+        "age_limit": "Maximum Age Limit: 26 years. || Age Relaxation: 3 years for OBC and 5 years for SC/ST candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.fact.co.in",
+        "official_notification": "https://fact.co.in//images/upload/FIRP-notification_910.pdf"
+    },
+    {
+        "date": "29/05/2026",
         "board": "District Court Thrissur",
         "title": "Senior Clerk",
         "qualification": "Retired from similar or higher post in District Courts",

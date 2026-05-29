@@ -1,6 +1,22 @@
 [
     {
         "date": "29/05/2026",
+        "board": "NIT Goa",
+        "title": "Faculty",
+        "qualification": "First class M.Tech. / Ph.D. (submitted/awarded) in Mechanical Engineering",
+        "last_date": "10-06-2026",
+        "total_posts": "7",
+        "salary": "Rs. 50,000/- per month with Master's degree || Rs. 70,000/- per month with Ph.D. Degree",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview (Offline)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nitgoa.ac.in/",
+        "official_notification": "https://nitgoa.ac.in/uploads/Advt_MCE%2019may2026.pdf"
+    },
+    {
+        "date": "29/05/2026",
         "board": "NIO",
         "title": "Project Associate - I",
         "qualification": "MSc Marine Science, MSc Oceanography, MSc Physical Oceanography, MSc Space Science and Technology",

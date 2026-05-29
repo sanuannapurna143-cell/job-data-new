@@ -1,6 +1,38 @@
 [
     {
         "date": "29/05/2026",
+        "board": "SDAU",
+        "title": "Senior Manager (Accounting & Finance)",
+        "qualification": "Full time M. Com. / MBA (with major in Finance) having minimum 55% marks",
+        "last_date": "05-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 40000 Per Month",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://www.sdau.edu.in",
+        "official_notification": "https://dcs.sdau.edu.in/Uploads/news/Recruitment-Senior%20Manager-%20A&F.pdf"
+    },
+    {
+        "date": "29/05/2026",
+        "board": "AIIMS Rajkot",
+        "title": "Study Coordinator",
+        "qualification": "PhD in Biological Sciences/Biomedical Sciences from a recognized University and One year experience in the relevant field",
+        "last_date": "24-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 100000 Per Month",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsrajkot.edu.in",
+        "official_notification": "https://aiimsrajkot.edu.in/api/files/Final%20Advertisement.pdf"
+    },
+    {
+        "date": "29/05/2026",
         "board": "Deendayal Port Authority",
         "title": "Assistant Manager (Library)",
         "qualification": "Degree in Library Science/Library & Information Science, Certificate course in computer application, and 3 years post-qualification experience as Librarian.",
