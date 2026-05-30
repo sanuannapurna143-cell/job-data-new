@@ -1,6 +1,38 @@
 [
     {
         "date": "30/05/2026",
+        "board": "IIT Gandhinagar",
+        "title": "Project Associate I",
+        "qualification": "B.Tech/ B.E, M.E/ M.Tech",
+        "last_date": "06-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 45,000 - Rs. 70,000 per month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitgn.ac.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/520416322-6a1a99d4b09ba74662851.pdf"
+    },
+    {
+        "date": "30/05/2026",
+        "board": "IN SPACe",
+        "title": "Young Professional (Grade-1/Grade-2)",
+        "qualification": "Post Graduate Degree, Engineering Degree (BE/B.Tech.), Master's Degree, LLM",
+        "last_date": "20-06-2026",
+        "total_posts": "10",
+        "salary": "Selected candidates will receive a monthly salary ranging from Rs. 70,000 to Rs. 90,000.",
+        "age_limit": "Maximum Age Limit: 30 years. || Age relaxation rules will be as per government norms.",
+        "application_fee": "Nil",
+        "selection_process": "Scrutiny of applications || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.inspace.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/05/632173-6a1a6207db25f56943426.pdf"
+    },
+    {
+        "date": "30/05/2026",
         "board": "BISAG N",
         "title": "Technical Manpower",
         "qualification": "B.E./B.Tech in Electronics and Communication, Post-Graduation Diploma in Audio Visual, Graduate, MCA",

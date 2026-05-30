@@ -1,6 +1,22 @@
 [
     {
         "date": "30/05/2026",
+        "board": "IIM Kozhikode",
+        "title": "Academic Support Executive",
+        "qualification": "Post-graduation with 2 years of experience OR Graduation with 3 years of experience",
+        "last_date": "09-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 26,300/- per month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iimk.ac.in/",
+        "official_notification": "https://webapps.iimk.ac.in/jobportal/vacancy_details/eyJpdiI6ImdIOGRhemhMbjMyQ3M5UHFYMWpydmc9PSIsInZhbHVlIjoiK3JXSFU0azVjWURLa1hFaDMwbU42UT09IiwibWFjIjoiZTY3NTA5YjJjM2Y0YmI3ZTM5NGQ0MWM2NzE2MzAyZjEzNDkwZGVjNjE2ODUwOWEzMzBiZDVmNTdiYTliNTliMyIsInRhZyI6IiJ9"
+    },
+    {
+        "date": "30/05/2026",
         "board": "CDB",
         "title": "Senior Auditor, Assistant and More",
         "qualification": "Chartered Accountants of India, Associate of the Institute of Cost Accountants of India M.Com, MBA, M.Sc,",
@@ -605,7 +621,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "central-bank-of-india-agm-recruitment-2026-apply-online-for-15-assistant-general-manager-posts-3047342"
+        "official_notification": "Not Available"
     },
     {
         "date": "16/05/2026",

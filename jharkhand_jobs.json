@@ -1,5 +1,37 @@
 [
     {
+        "date": "30/05/2026",
+        "board": "JUVNL",
+        "title": "Medical Consultant (Contract)",
+        "qualification": "MBBS degree from a recognized institution / University, Valid Registration number as a medical practitioner",
+        "last_date": "08-06-2026",
+        "total_posts": "1",
+        "salary": "As per Finance Department, Govt. of Jharkhand Resolution No. 928 dated 06.04.2022 (duly adopted in Nigam vide notification no. 468 dated 08.05.2026)",
+        "age_limit": "Maximum Age Limit: 65 years",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://jbvnl.co.in",
+        "official_notification": "https://jbvnl.co.in/notice/careers/Job%20Contract%20Notice%20No.%20012026250526.pdf"
+    },
+    {
+        "date": "30/05/2026",
+        "board": "IIT (ISM) Dhanbad",
+        "title": "ANRF Junior Research Fellow (ANRF JRF)",
+        "qualification": "B.Tech./B.E. in Mechanical/Chemical Engineering or in allied fields (GATE qualified), M.Tech in Thermofluidic Sciences or allied fields (desirable), Prior experience of microfluidics experiments or multiphase flow simulations using OpenFOAM (desirable)",
+        "last_date": "04-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 - 42000 Per Month",
+        "age_limit": "Max: 32 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitism.ac.in",
+        "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1285/Project%20JRF_2026-05-21_10-20-52.pdf"
+    },
+    {
         "date": "28/05/2026",
         "board": "IIT (ISM) Dhanbad",
         "title": "Junior Research Fellow (JRF)",
