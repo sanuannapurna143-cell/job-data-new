@@ -1,6 +1,38 @@
 [
     {
         "date": "30/05/2026",
+        "board": "MPPHSCL",
+        "title": "Post Name",
+        "qualification": "BE/B.Tech/M.Tech in Electronics / Biomedical / Medical Technology / Electrical / Instrumentation Engineering; Min. 4 years' EIF maintenance experience",
+        "last_date": "24-06-2026",
+        "total_posts": "34",
+        "salary": "Rs. 1,00,000/-",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://mpphscl.mp.gov.in",
+        "official_notification": "https://mpphscl.mp.gov.in"
+    },
+    {
+        "date": "30/05/2026",
+        "board": "IIT Indore",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "PG Degree in Basic Science, Graduate/Post Graduate Degree in Professional Course, CSIR-UGC NET or GATE qualified, Biomedical Engineering/ Biotechnology/ Biosciences and Bioengineering/ Materials Science/ Mechanical/ Electrical Engineering",
+        "last_date": "08-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiti.ac.in",
+        "official_notification": "https://www.iiti.ac.in/public/storage/recruitments/May2026/LKVnpXN3ERy2X8n1HGCe.pdf"
+    },
+    {
+        "date": "30/05/2026",
         "board": "IIT Indore",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "PG Degree in Basic Science or Graduate/Post Graduate Degree Or Graduation",
@@ -206,22 +238,6 @@
         "syllabus": "Not Available",
         "official_website": "https://jhabua.dcourts.gov.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec052b346a0aa375a07f5a90a344a614/uploads/2026/05/2026050485.pdf"
-    },
-    {
-        "date": "27/05/2026",
-        "board": "MPPHSCL",
-        "title": "Post Name",
-        "qualification": "BE/B.Tech/M.Tech in Electronics / Biomedical / Medical Technology / Electrical / Instrumentation Engineering; Min. 4 years' EIF maintenance experience",
-        "last_date": "24-06-2026",
-        "total_posts": "41",
-        "salary": "Rs. 1,00,000/-",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://mpphscl.mp.gov.in",
-        "official_notification": "https://mpphscl.mp.gov.in"
     },
     {
         "date": "27/05/2026",

@@ -1,6 +1,38 @@
 [
     {
         "date": "30/05/2026",
+        "board": "NIPER Raebareli",
+        "title": "Technical Assistant",
+        "qualification": "B. Pharm with First Division from recognized institute/University.",
+        "last_date": "21-06-2026",
+        "total_posts": "5",
+        "salary": "Rs. 27000 Per Month",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Screening || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://niperraebareli.edu.in/",
+        "official_notification": "https://niperraebareli.edu.in/Jobs/2026/AdvertisementforStaffinCoE-2026-TechnicalAssistant.pdf"
+    },
+    {
+        "date": "30/05/2026",
+        "board": "AIIMS Gorakhpur",
+        "title": "Non-Academic Junior Resident (Medical)",
+        "qualification": "MBBS from MCI recognized institute with completed compulsory rotatory internship",
+        "last_date": "08-06-2026",
+        "total_posts": "12",
+        "salary": "In Pay Matrix (Level-10) with a minimum of Rs.56,100/- + NPA (for medical personnel) as per recommendations of the 7th CPC.",
+        "age_limit": "Maximum Age Limit: 37 years || Age Relaxation: SC/ST up to 5 years, OBC up to 3 years, PwBD up to 10 years (General), 13 years (OBC), 15 years (SC/ST)",
+        "application_fee": "500",
+        "selection_process": "Document Verification || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsgorakhpur.edu.in/",
+        "official_notification": "https://aiimsgorakhpur.edu.in/wp-content/uploads/2026/05/JR-Advertisement.pdf"
+    },
+    {
+        "date": "30/05/2026",
         "board": "ICAR IVRI",
         "title": "Junior Research Assistant",
         "qualification": "M.Sc. (Agri)., M.Sc., M.Pharm., MVSc., Bachelor of Engg/Technology (B.E./B.Tech.) or equivalent degree",

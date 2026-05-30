@@ -1,6 +1,38 @@
 [
     {
         "date": "30/05/2026",
+        "board": "DCPU Vellore",
+        "title": "Child Helpline Counsellor and Child Helpline Supervisor",
+        "qualification": "Graduate in Social Work / Sociology / Psychology / Public Health / Counselling, PG Diploma in Counselling and Communication, Graduate in B.A Social Work / Computer Sciences / Information Technology / Community Sociology / Social Sciences",
+        "last_date": "11-06-2026",
+        "total_posts": "2",
+        "salary": "Child Helpline Counsellor: Rs. 23,000/- Per month || Child Helpline Supervisor: Rs. 21,000/- Per month",
+        "age_limit": "Maximum Age Limit: 42 years as on 01-01-2026. || Age relaxation for reserved categories will be as per government rules.",
+        "application_fee": "Nil",
+        "selection_process": "Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://vellore.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2026/05/17800538673553.pdf"
+    },
+    {
+        "date": "30/05/2026",
+        "board": "TNSRLM Erode",
+        "title": "Community Bank Coordinator (Samudaya Wangi Orunginaippaalar)",
+        "qualification": "Minimum Education:Class 12 (Higher Secondary) pass. || Must have good reading and writing skills in Tamil and English, along with numerical/calculation ability.",
+        "last_date": "15-06-2026",
+        "total_posts": "120",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age: Not exceeding 35 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://erode.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s3bca82e41ee7b0833588399b1fcd177c7/uploads/2026/05/17800583104004.pdf"
+    },
+    {
+        "date": "30/05/2026",
         "board": "Aavin Tirupur",
         "title": "Veterinary Consultant",
         "qualification": "B.V.Sc & AH with Computer Knowledge",

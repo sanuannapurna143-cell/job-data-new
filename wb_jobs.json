@@ -1,6 +1,22 @@
 [
     {
         "date": "30/05/2026",
+        "board": "AIIMS Kalyani",
+        "title": "Consultant",
+        "qualification": "MD / PhD in Medical Microbiology / Virology / Viral Immunology / Molecular Biology/ relevant discipline",
+        "last_date": "15-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1,50,000/-",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimskalyani.edu.in/",
+        "official_notification": "https://aiimskalyani.edu.in/aiimsapi/uploads/documents/general/aiims_kalyani_vrdl_nabl_consultant_advertisement_20260530_103057_a6748d4f.pdf"
+    },
+    {
+        "date": "30/05/2026",
         "board": "IISER Kolkata",
         "title": "Assistant Professor",
         "qualification": "Ph.D. with first class or equivalent CGPA, Publications in Q1 journals as first author, Teaching/research/industry experience for Grade-I",

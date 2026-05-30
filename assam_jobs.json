@@ -1,6 +1,22 @@
 [
     {
         "date": "30/05/2026",
+        "board": "IIM Guwahati",
+        "title": "Accountant",
+        "qualification": "Bachelor’s degree in Commerce (B.Com) or Accounting/Finance. Candidates with M.Com, MBA (Finance), CA Inter, CMA, ICWA",
+        "last_date": "06-06-2026",
+        "total_posts": "Not Available",
+        "salary": "Paylevel 06 under 7th CPC",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iimg.ac.in/",
+        "official_notification": "https://www.iima.ac.in/sites/default/files/2026-05/JD-IIM%20G%20Accountant_0.pdf"
+    },
+    {
+        "date": "30/05/2026",
         "board": "IIT Guwahati",
         "title": "Associate Project Scientist",
         "qualification": "Master's degree in Chemistry",

@@ -1,6 +1,38 @@
 [
     {
         "date": "30/05/2026",
+        "board": "SCPS Bihar",
+        "title": "Superintendent, Accountant-cum-Storekeeper, Probation Officer / Case Worker / Child Welfare Officer, Counsellor (Home), Housefather / Housemother, Para Medical Staff, Nurse (Female, Special Unit), Special Educator (Special Unit)",
+        "qualification": "Graduate in Social Work, Sociology, Psychology, Counselling, Guidance & Counselling from a recognized University OR PG Diploma in Counselling & Communication. Diploma in Computer Application required.",
+        "last_date": "31-05-2026",
+        "total_posts": "https://scpsvacancy.bihar.gov.in/ and https://state.bihar.gov.in/socialwelfare",
+        "salary": "As per Bihar Prashasan Sudhar Mission Society Executive Assistant norms",
+        "age_limit": "Maximum Age Limit",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://scpsvacancy.bihar.gov.in/",
+        "official_notification": "https://scpsvacancy.bihar.gov.in/api/v1/advertisements/1/documents/advertisement"
+    },
+    {
+        "date": "30/05/2026",
+        "board": "IIT Patna",
+        "title": "Junior Research Fellow",
+        "qualification": "B.Tech/ B.E, M.E/ M.Tech, B.Sc, M.Sc",
+        "last_date": "08-06-2026",
+        "total_posts": "2",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitp.ac.in/",
+        "official_notification": "https://iitp.ac.in/media/iitp-media/notices/1779796308868-advertisement%20number%20584.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minioadmin%2F20260530%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260530T095221Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9a1c56ce87e4c4ff376dc019d87a52f744892ac682872aa4620311aeca828232"
+    },
+    {
+        "date": "30/05/2026",
         "board": "Sainik School Gopalganj",
         "title": "TGT (Computer Science) and Librarian",
         "qualification": "Graduate Degree with relevant qualifications",

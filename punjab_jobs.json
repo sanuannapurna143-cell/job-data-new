@@ -1,6 +1,22 @@
 [
     {
         "date": "30/05/2026",
+        "board": "PAU",
+        "title": "Scout",
+        "qualification": "10+2",
+        "last_date": "12-06-2026",
+        "total_posts": "1",
+        "salary": "Fixed salary Rs.12506+800 EPF/ESI per month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 42 years",
+        "application_fee": "Rs. 100/-",
+        "selection_process": "Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://pau.edu/",
+        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7372"
+    },
+    {
+        "date": "30/05/2026",
         "board": "ECHS",
         "title": "Officer-In-Charge",
         "qualification": "Any Graduate",
@@ -30,22 +46,6 @@
         "syllabus": "Not Available",
         "official_website": "https://cup.edu.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/05/48798-6a194aa35b67271853824.pdf"
-    },
-    {
-        "date": "29/05/2026",
-        "board": "PAU",
-        "title": "Scout",
-        "qualification": "10+2",
-        "last_date": "12-06-2026",
-        "total_posts": "1",
-        "salary": "Fixed salary Rs.12506+800 EPF/ESI per month",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 42 years",
-        "application_fee": "Rs. 100/-",
-        "selection_process": "Document Verification",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://pau.edu/",
-        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7372"
     },
     {
         "date": "27/05/2026",
