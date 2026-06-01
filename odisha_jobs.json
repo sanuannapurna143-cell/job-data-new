@@ -1,6 +1,54 @@
 [
     {
         "date": "01/06/2026",
+        "board": "DRDO ITR",
+        "title": "Paid Internship",
+        "qualification": "Final Year BTech/MTech in Engineering disciplines, Final Year M.Sc. in Physics",
+        "last_date": "25-06-2026",
+        "total_posts": "27",
+        "salary": "Rs. 5000 Per Month",
+        "age_limit": "No specific age limit is mentioned for this internship.",
+        "application_fee": "Nil",
+        "selection_process": "Merit based or Interaction over VC/Telephone",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtITR27052026.pdf"
+    },
+    {
+        "date": "01/06/2026",
+        "board": "NIT Rourkela",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.Tech./M.E./MS./M.Sc. Engg. (with GATE/NET qualification) or BE/B.Tech./B.Sc. Engg or equivalent (with GATE/NET qualification)",
+        "last_date": "20-06-2026",
+        "total_posts": "1",
+        "salary": "INR 37,000/- per month (Year 1 & 2), INR 42,000/- per month (Year 3)",
+        "age_limit": "Maximum age limit is 28 years. || Age relaxation is applicable: 5 years for SC/ST/PWD/Female candidates and 3 years for OBC candidates.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Shortlisting based on merit and need of the project || Online interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitrkl.ac.in/",
+        "official_notification": "https://www.nitrkl.ac.in/docs/Career/ProjectFelow/2026/29052026180940852.pdf"
+    },
+    {
+        "date": "01/06/2026",
+        "board": "CDM&PHO Balangir",
+        "title": "Physician/Consultant Medicine, NPHCE and MO MBBS",
+        "qualification": "MBBS degree from an institution recognized by Medical Council of India with valid registration from Odisha Council of Medical Registration. MD in Medicine/Post Graduate Diploma in Geriatric Medicine preferred for Physician/Consultant Medicine. MBBS or equivalent degree for MO MBBS.",
+        "last_date": "09-06-2026",
+        "total_posts": "3",
+        "salary": "Physician/Consultant Medicine, NPHCE: Rs.86,116/- pm + Others allowances as per PIP || MO MBBS at UHWC under PM-ABHIM: Rs.57,409/- pm + Others allowances (PM-ABHIM)",
+        "age_limit": "Physician/Consultant Medicine, NPHCE:Minimum Age: 21 years, Maximum Age: 65 years. || MO MBBS at UHWC under PM-ABHIM:Minimum Age: 21 years, Maximum Age: 65 years.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://balangir.odisha.gov.in",
+        "official_notification": "https://balangir.odisha.gov.in/sites/default/files/2026-05/1740.pdf"
+    },
+    {
+        "date": "01/06/2026",
         "board": "SSC",
         "title": "Various Group B (Gazetted/Non-Gazetted) and Group C posts including Assistant Section Officer, Inspector (IT/CE), Sub Inspector (CBI/NIA), Junior Statistical Officer, Assistant Audit Officer, Tax Assistant, Auditor, Accountant, Postal Assistant, and more",
         "qualification": "Bachelor's Degree is essential. Desirable qualifications include CA, CMA, CS, M.Com, MBA (Finance), or M.B.E.",
@@ -1101,7 +1149,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "jharkhand-jssc-jtglcce-recruitment-2026-apply-online-for-611-assistant-inspector-and-more-posts-3048223"
+        "official_notification": "Not Available"
     },
     {
         "date": "15/05/2026",
