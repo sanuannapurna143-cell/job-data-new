@@ -1,5 +1,21 @@
 [
     {
+        "date": "02/06/2026",
+        "board": "BBMB",
+        "title": "Apprentice",
+        "qualification": "10th class examination with minimum 40% marks from recognized Board, National Trade Certificate in the notified trade issued by NCVT/SCVT, Completed the relevant ITI course, Aadhaar Card (compulsory)",
+        "last_date": "01-07-2026",
+        "total_posts": "10",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Merit list prepared from apprenticeship portal database (NAPS) || Merit based on percentage of marks in 10th class (30%) and ITI course (70%) || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bbmb.gov.in",
+        "official_notification": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/107_1_Apprenticeship.pdf"
+    },
+    {
         "date": "30/05/2026",
         "board": "THSTI",
         "title": "Senior Manager",
