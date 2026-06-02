@@ -1,6 +1,54 @@
 [
     {
         "date": "02/06/2026",
+        "board": "NIT Calicut",
+        "title": "Senior Project Associate",
+        "qualification": "Four years Bachelor's Degree in Electronics and Communication Engineering or allied disciplines, Master's Degree in Engineering or Technology with specialization in Telecommunication/Signal-Processing or allied disciplines, Doctoral Degree with specialization in Telecommunication/Signal-Processing or allied disciplines",
+        "last_date": "14-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 57,000/- per month + 20% HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitc.ac.in/",
+        "official_notification": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__17d1a40e-d1cd-46ed-8874-1d04a2c63851_.pdf"
+    },
+    {
+        "date": "02/06/2026",
+        "board": "NIT Calicut",
+        "title": "Project Associate-1",
+        "qualification": "B.E/B.Tech in Electrical Engineering /Electrical & Electronics Engineering / Electronics & Instrumentation /Instrumentation & Control or Equivalent stream. Desirable: M.E./M.Tech in Electrical Engineering, Valid Gate Score.",
+        "last_date": "10-06-2026",
+        "total_posts": "2",
+        "salary": "Rs. 37,000/- Per Month (Consolidated) +HRA (as per norms) for scholars having valid GATE score. || Rs. 30,000/- Per Month (Consolidated) +HRA (as per norms) for scholars not having valid GATE Score.",
+        "age_limit": "Maximum Age Limit: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitc.ac.in",
+        "official_notification": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__4ed5dd89-364f-42e0-80c2-31af7b7f0f77_.pdf"
+    },
+    {
+        "date": "02/06/2026",
+        "board": "CDAC",
+        "title": "Project Associate, Project Technician, Project Support Staff, Project Engineer / PS&O Executive, Senior Project Engineer / Module Lead / Project Leader, Project Officer, Project Manager / Program Manager / Program Delivery Manager / Knowledge Partner, Project Head, Administrative Associate",
+        "qualification": "BE/B.Tech or equivalent degree (min 60% or equivalent CGPA for most posts; 50% for Project Associate at some centres) OR PG in Science/Computer Application/relevant domain with requisite percentage OR ME/M.Tech OR Ph.D. in relevant discipline – from AICTE/UGC-approved institution or recognized university. For support/admin posts: Graduation with 50% + relevant experience.",
+        "last_date": "20-06-2026",
+        "total_posts": "951",
+        "salary": "Project Associate: Rs. 28,750 – Rs. 35,000/month | Project Engineer: Rs. 39,100 – Rs. 50,000/month | Senior Project Engineer: Rs. 60,000 – Rs. 75,000/month | Project Manager: Rs. 64,000 – Rs. 1,60,000/month (varies by centre and domain)",
+        "age_limit": "Upper age limits vary by position level and are calculated as on the last date of application, i.e., 20 June 2026. SC/ST/OBC/PwBD/Ex-Servicemen and Government employees are eligible for age relaxation as per Government of India norms.",
+        "application_fee": "C-DAC charges absolutely no application fee for any position under this recruitment cycle - this applies to all categories including General, SC, ST, OBC, EWS, and PwBD candidates across all 11 centres.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://careers.cdac.in/advt-details/BLK-2652026-MPKXK"
+    },
+    {
+        "date": "02/06/2026",
         "board": "CSIR NIIST",
         "title": "Multi-Tasking Staff",
         "qualification": "Matriculation or equivalent pass",
@@ -30,22 +78,6 @@
         "syllabus": "Not Available",
         "official_website": "https://nitc.ac.in",
         "official_notification": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__f32e58ac-90fb-470f-be27-922ed10d83d7_.pdf"
-    },
-    {
-        "date": "01/06/2026",
-        "board": "CDAC",
-        "title": "Project Associate, Project Technician, Project Support Staff, Project Engineer / PS&O Executive, Senior Project Engineer / Module Lead / Project Leader, Project Officer, Project Manager / Program Manager / Program Delivery Manager / Knowledge Partner, Project Head, Administrative Associate",
-        "qualification": "BE/B.Tech or equivalent degree (min 60% or equivalent CGPA for most posts; 50% for Project Associate at some centres) OR PG in Science/Computer Application/relevant domain with requisite percentage OR ME/M.Tech OR Ph.D. in relevant discipline – from AICTE/UGC-approved institution or recognized university. For support/admin posts: Graduation with 50% + relevant experience.",
-        "last_date": "20-06-2026",
-        "total_posts": "951",
-        "salary": "Project Associate: Rs. 28,750 – Rs. 35,000/month | Project Engineer: Rs. 39,100 – Rs. 50,000/month | Senior Project Engineer: Rs. 60,000 – Rs. 75,000/month | Project Manager: Rs. 64,000 – Rs. 1,60,000/month (varies by centre and domain)",
-        "age_limit": "Upper age limits vary by position level and are calculated as on the last date of application, i.e., 20 June 2026. SC/ST/OBC/PwBD/Ex-Servicemen and Government employees are eligible for age relaxation as per Government of India norms.",
-        "application_fee": "C-DAC charges absolutely no application fee for any position under this recruitment cycle - this applies to all categories including General, SC, ST, OBC, EWS, and PwBD candidates across all 11 centres.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://careers.cdac.in/advt-details/BLK-2652026-MPKXK"
     },
     {
         "date": "01/06/2026",
@@ -605,7 +637,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "cisf-asi-paramedical-staff-recruitment-2026-apply-online-for-24-posts-3052326"
+        "official_notification": "Not Available"
     },
     {
         "date": "16/05/2026",

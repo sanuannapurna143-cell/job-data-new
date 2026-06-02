@@ -1,6 +1,22 @@
 [
     {
         "date": "02/06/2026",
+        "board": "WCD Odisha",
+        "title": "Anganwadi Worker",
+        "qualification": "12TH",
+        "last_date": "18-06-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://engagement-awc.odisha.gov.in",
+        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=162772"
+    },
+    {
+        "date": "02/06/2026",
         "board": "AAICLAS",
         "title": "Assistant (Security)",
         "qualification": "12th (Senior Secondary) from any recognised Board/University/Institution with minimum 60% marks for General category and 55% marks for SC/ST candidates. Percentage must be entered in numeric form only (e.g. 60, 70, 80) in the online application — not in CGPA or any other format.",
@@ -1117,7 +1133,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "cisf-asi-paramedical-staff-recruitment-2026-apply-online-for-24-posts-3052326"
+        "official_notification": "Not Available"
     },
     {
         "date": "15/05/2026",

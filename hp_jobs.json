@@ -1,5 +1,37 @@
 [
     {
+        "date": "02/06/2026",
+        "board": "CSIR IHBT",
+        "title": "Project Associate , Senior Research Fellow , Research Associate , Project Scientist",
+        "qualification": "M.Sc. in Food Technology/ Food Science/ Food and Nutrition/ Nutrition and Dietetics, Masters in Chemistry / Biochemistry/ Phytochemistry/ Organic Chemistry/ M. Pharmacy, Masters in Biochemistry or Molecular Biology or Life/ Biological Sciences/Biotechnology or Phytochemistry or M. Pharmacy, M.Sc in Biotechnology/ Plant Biotechnology/ Life Sciences/ Molecular Biology and Biotechnology/ Botany, M.Sc. in Botany, Plant Physiology with 3 years experience, M.Sc. in Botany, Biotechnology, Biochemistry, Ph.D. in Biological Science/ Biotechnology, Biochemistry/ Botany, Doctoral Degree in Science or Master's Degree in Engineering or Technology, Master's Degree in Natural or Agricultural Sciences / MVSc or bachelor's degree in Engineering or Technology or Medicine, M.Sc. in Statistics/ Agri-economics /Agriculture Extension / Agribusiness Management, Master degree in Agriculture (Agronomy, soil science, genetics & Plant Breeding) or Horticulture, Master degree in Life Science/ Biological Sciences/ Biotechnology/ Botany/ Agriculture/ Horticulture/ Chemistry/ Chemical Science /Food Science & Technology, MBA/ M.Sc. Agriculture Economics",
+        "last_date": "15-06-2026",
+        "total_posts": "23",
+        "salary": "(a) Rs. 31,000/- + 10% HRA (NET/GATE qualified) or (b) Rs. 25,000/- + 10% HRA",
+        "age_limit": "Age Relaxation: SC/ST/PwBD/Women: 5 years, OBC: 3 years.",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "www.ihbt.res.in",
+        "official_notification": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20260601153437_Final_Advt._no._08_by_2026_with_Application_Form.pdf"
+    },
+    {
+        "date": "02/06/2026",
+        "board": "IIT Mandi",
+        "title": "Project Scientist and Project Engineer",
+        "qualification": "M.Tech/M.E or equivalent, B.Tech in Civil Engineering, Bachelor's degree in Engineering/Technology (CSE/ECE/EEE/Civil/Instrumentation) with 70% marks and 2 years experience",
+        "last_date": "15-06-2026",
+        "total_posts": "3",
+        "salary": "Project Scientist: INR 42,000 (all-inclusive) per month || Project Engineer: INR 45,000 (all-inclusive) per month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Online Application via Google Form || Shortlisting || Interview (offline/online)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitmandi.ac.in/",
+        "official_notification": "https://www.iitmandi.ac.in/recruitment/JRF_PE_TataTrustsMay.pdf"
+    },
+    {
         "date": "30/05/2026",
         "board": "AIIMS Bilaspur",
         "title": "Senior Resident (Non-Academic)",

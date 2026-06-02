@@ -1,6 +1,22 @@
 [
     {
         "date": "02/06/2026",
+        "board": "Central Railway",
+        "title": "Contract Medical Practitioner (GDMO)",
+        "qualification": "MBBS",
+        "last_date": "05-06-2026",
+        "total_posts": "2",
+        "salary": "Rs. 95,000/-",
+        "age_limit": "Not exceeding 60 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.cr.indianrailways.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/06/523140-6a1e57873bd8d32904844.pdf"
+    },
+    {
+        "date": "02/06/2026",
         "board": "Konkan Railway",
         "title": "Total",
         "qualification": "Candidates applying for Project Engineer (M&P) must have: || Full time Degree/Diploma in Mechanical Engineering/Production & Industrial Engineering/Automobile/Manufacturing/Mechatronic/Material Sciences/Metallurgical Engineering from a recognized (AICTE) University/Institute. || Minimum 01 year post-qualification experience. Preference for experience in Repair & Maintenance of Machinery and Plant. || Candidates applying for Project Engineer (Ele. Maintenance) must have: || Full time Degree/Diploma in Electrical Engineering or closely related sub-streams from a recognized (AICTE) University/Institute. || Minimum 01 year post-qualification experience in Electrical/Mechanical Industry. Preference for experience in Power distribution/supply sector or repair/maintenance of electrical installations. || Candidates applying for Technician (Mechanical) must have: || ITI Certificate from a recognized ITI/Technical Training Institute or any Government approved authority in Mechanical/Electrical/Electronics or related trades. || Minimum 01 year post-qualification experience in Mechanical Industry. || Candidates applying for Technician (Electrical) must have: || ITI Certificate from a recognized ITI/Technical Training Institute or any Government approved authority. || Minimum 01 year post-qualification experience in repair/maintenance of any electrical system. || Candidates applying for Yard Operations Supervisor must have: || Graduate in any discipline from a recognized institute/university. || Minimum 01 year post-qualification experience. Preference for experience in yard operations/shunting in railway siding/power plant/cement industry/port or similar. || Candidates applying for Shunting Operator must have: || Minimum 10th Pass (compulsory). || Minimum 01 year post-qualification experience in yard operations/shunting in railway siding/power plant/cement industry/port or similar.",
@@ -269,7 +285,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "cisf-asi-paramedical-staff-recruitment-2026-apply-online-for-24-posts-3052326"
+        "official_notification": "Not Available"
     },
     {
         "date": "14/05/2026",
