@@ -1,6 +1,38 @@
 [
     {
         "date": "02/06/2026",
+        "board": "AIIMS Bhubaneswar",
+        "title": "Neuropsychologist",
+        "qualification": "M. Phil/ Ph. D in clinical Psychology",
+        "last_date": "13-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 47200 Per Month",
+        "age_limit": "Maximum Age: 45 years || Age relaxation admissible for SC/ST/OBC, Retrenched Government Employees, Departmental candidates and Ex-servicemen as per Central Government instructions.",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsbhubaneswar.nic.in/",
+        "official_notification": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/06/pysch-1.pdf"
+    },
+    {
+        "date": "02/06/2026",
+        "board": "AIIMS Bhubaneswar",
+        "title": "Laboratory Technician-III",
+        "qualification": "B. Sc. Medical laboratory Technology / Class 12th pass in Science subjects with two years' diploma in Medical Laboratory Technology, Hands on experience in pathology and biochemistry with processing of clinical specimens and Molecular technique. Proficient to read, write and speak in Hindi and English",
+        "last_date": "10-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20000 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsbhubaneswar.edu.in",
+        "official_notification": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/05/patho-1.pdf"
+    },
+    {
+        "date": "02/06/2026",
         "board": "WCD Odisha",
         "title": "Anganwadi Worker",
         "qualification": "12TH",
