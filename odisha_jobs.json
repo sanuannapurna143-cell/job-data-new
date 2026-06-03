@@ -1,5 +1,37 @@
 [
     {
+        "date": "03/06/2026",
+        "board": "WCD Odisha",
+        "title": "Anganwadi Worker",
+        "qualification": "12th-pass",
+        "last_date": "17-06-2026",
+        "total_posts": "3",
+        "salary": "Not Available",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 35 years || Age relaxation is applicable as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://engagement-awc.odisha.gov.in",
+        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=162282"
+    },
+    {
+        "date": "03/06/2026",
+        "board": "ICAR CRRI",
+        "title": "Senior Research Fellow (SRF)",
+        "qualification": "M.Sc. (Ag.) or Post Graduate degree in relevant fields with NET qualification and experience.",
+        "last_date": "15-06-2026",
+        "total_posts": "2",
+        "salary": "Senior Research Fellow (SRF): Rs. 37,000/- p.m. + HRA as per rule",
+        "age_limit": "Maximum age limit for men is 35 years. || Maximum age limit for women is 40 years. || Age relaxation for SC/ST/OBC candidates will be as per government rules.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Written-cum-personal interview || Screening test (if large number of candidates)",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://icar-crri.in/",
+        "official_notification": "https://icar-crri.in/wp-content/uploads/2026/06/EAP-245.pdf"
+    },
+    {
         "date": "02/06/2026",
         "board": "AIIMS Bhubaneswar",
         "title": "Neuropsychologist",
@@ -896,22 +928,6 @@
         "official_notification": "https://mudira.nalcoindia.co.in/iorms/Uploaded_Data/Advertisement/639144655968105605_Final%20Adv%2010260213%2014%20May2026.pdf"
     },
     {
-        "date": "21/05/2026",
-        "board": "WCD Odisha",
-        "title": "Anganwadi Worker",
-        "qualification": "Minimum 12th pass (10+2 Standard) and knowledge of Odisha language.",
-        "last_date": "02-06-2026",
-        "total_posts": "04",
-        "salary": "Not Available",
-        "age_limit": "Min: 18 years, Max: 35 years as of 01.01.2023",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://engagement-awc.odisha.gov.in",
-        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=161856"
-    },
-    {
         "date": "20/05/2026",
         "board": "Utkal University",
         "title": "Professor / Professor-cum-Principal/Director, Associate Professor, Assistant Professor",
@@ -1057,22 +1073,6 @@
     },
     {
         "date": "19/05/2026",
-        "board": "RSC Bhubaneswar",
-        "title": "Trainee (Crafts) – Electrical, Carpenter, Painter & Turner",
-        "qualification": "SSC / Matriculation with ITI Certificate in relevant trade from a Government recognized institution.\r\t\t\tCandidates who passed ITI on or after 2023 are eligible.",
-        "last_date": "02-06-2026",
-        "total_posts": "04",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ncsm.gov.in",
-        "official_notification": "https://ncsm.gov.in/storage/files/adv-details-trainee-craft.pdf"
-    },
-    {
-        "date": "19/05/2026",
         "board": "NCCBM",
         "title": "NCB Cadre Officials (Deputy Manager, Manager, Group Manager, Office Assistant, Hindi Assistant, Admin Assistant etc.)",
         "qualification": "B.E./B.Tech / M.Sc. / PhD in relevant discipline with minimum 60% marks as per post requirement",
@@ -1165,7 +1165,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "mumbai-port-authority-professional-interns-recruitment-2026-3052511"
     },
     {
         "date": "15/05/2026",
