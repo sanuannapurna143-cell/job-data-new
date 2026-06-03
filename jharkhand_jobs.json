@@ -1,6 +1,22 @@
 [
     {
         "date": "03/06/2026",
+        "board": "Civil Surgeon Office East Singhbhum",
+        "title": "General Duty Doctor",
+        "qualification": "MBBS",
+        "last_date": "10-06-2026",
+        "total_posts": "5",
+        "salary": "Rs. 63000 Per Month",
+        "age_limit": "Max: 65 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://jamshedpur.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s33dc4876f3f08201c7c76cb71fa1da439/uploads/2026/06/17803980556394.pdf"
+    },
+    {
+        "date": "03/06/2026",
         "board": "AIIMS Deoghar",
         "title": "Contractual Manpower Positions",
         "qualification": "Master's degree in Health Economics, Economics, Public Health, or Community Medicine, MD/MS/DNB/MPH after MBBS, Ph.D. in Microbiology, Biochemistry, Biotechnology or related field, Bachelor's Degree with 3 years experience in Government Department, Graduate in Science/relevant subject with 3 years work experience, Master's degree in relevant subject or Pharm D",

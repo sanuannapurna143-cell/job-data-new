@@ -1,6 +1,38 @@
 [
     {
         "date": "03/06/2026",
+        "board": "IIT Ropar",
+        "title": "Research Associate, Project Associate, Technical Assistant, Field Worker",
+        "qualification": "PhD in Computer Science and Engineering, remote sensing or related field; B.Tech or M.Tech in Computer Science and Engineering or related field; Bachelor degree in agriculture science or computer science; Bachelor degree in any discipline.",
+        "last_date": "20-06-2026",
+        "total_posts": "6",
+        "salary": "Rs 37,000 + HRA if GATE or NET qualification, else Rs 30,000 + HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Online/Offline Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitrpr.ac.in",
+        "official_notification": "https://iitrpr.ac.in/mainwebsite-api/uploads/advertisements/projects/1780485543575-MELODY-%20Advertisement-2026%20(1).pdf"
+    },
+    {
+        "date": "03/06/2026",
+        "board": "Central University of Punjab",
+        "title": "Research Assistant, Field Investigator",
+        "qualification": "Post Graduation in Social Science/Geography/ Environment and Sustainability discipline with minimum 55% marks, Graduation in Social Science/Geography/ Environment and Sustainability discipline with minimum 55% marks",
+        "last_date": "25-06-2026",
+        "total_posts": "2",
+        "salary": "Rs. 20000 - 37000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://cup.edu.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/06/741252-6a1fd1a39f79f30035299.pdf"
+    },
+    {
+        "date": "03/06/2026",
         "board": "SSC",
         "title": "Various Group B (Gazetted/Non-Gazetted) and Group C posts including Assistant Section Officer, Inspector (IT/CE), Sub Inspector (CBI/NIA), Junior Statistical Officer, Assistant Audit Officer, Tax Assistant, Auditor, Accountant, Postal Assistant, and more",
         "qualification": "Bachelor's Degree is essential. Desirable qualifications include CA, CMA, CS, M.Com, MBA (Finance), or M.B.E.",
