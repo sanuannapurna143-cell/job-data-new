@@ -1,6 +1,38 @@
 [
     {
         "date": "03/06/2026",
+        "board": "APMSRB",
+        "title": "Hospital Administrator",
+        "qualification": "MBBS / MDS, Masters Degree in Hospital Administration or Hospital Management or its equivalent, At least 2 years post-qualification experience in Hospital Administration, At least 1 year work experience in Administration or Leadership or Managerial roles, Computer Literacy in MS Word, Excel, Power point & Web surfing, Fluency in Telugu and English, Knowledge of Govt. Legislations and Hospital administration, Good Communication and presentation skills",
+        "last_date": "17-06-2026",
+        "total_posts": "47",
+        "salary": "Rs. 80000 Per Month",
+        "age_limit": "Max: 42 years",
+        "application_fee": "1500",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://apmsrb.ap.gov.in/msrb",
+        "official_notification": "https://apchfw.ap.gov.in:4016/msrb/uploads/notifications_go/2026/Jun2026/03Jun2026/6a1fd0c5d5167.pdf"
+    },
+    {
+        "date": "03/06/2026",
+        "board": "HSL",
+        "title": "Manager (Technical) [E3], Manager (HR) [E3], Deputy Manager (Technical) [E2] - Permanent; Project Superintendent (Technical), Dy. Project Superintendent (Technical) - Delhi Region, Dy. Project Officer (Technical/Civil/Design/HR/Safety/Fire Safety) - Fixed Term Contract",
+        "qualification": "Full time Engineering Graduate with not less than 60% marks (55% for SC/ST) in Mechanical / Electronics / Electrical / Naval Architecture from recognized University/AICTE Institute. Desirable: Post-Graduation in relevant discipline.",
+        "last_date": "24-06-2026",
+        "total_posts": "34",
+        "salary": "Permanent: IDA E2 (Rs. 50,000-1,60,000) & E3 (Rs. 60,000-1,80,000); FTC: Rs. 90,000/- to Rs. 1,85,000/- (All Inclusive CTC per month as per post)",
+        "age_limit": "Upper age relaxed by the number of years of service in armed forces; resultant age after deducting service period should not exceed prescribed age limit by more than 3 years",
+        "application_fee": "Upper age limit relaxed by 5 years; minimum experience in lower grade relaxed by 1 year; no application fee",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://hslvizag.in/hsl-cms/media/Final%20Advertisement%20-%20Permanent,%20FTC%20%20-%20Dt%2003%20Jun2026.pdf"
+    },
+    {
+        "date": "03/06/2026",
         "board": "CUAP",
         "title": "Assistant Professor",
         "qualification": "Master's degree with 55% marks (or equivalent) in concerned/relevant/allied subject, NET/SLET/SET or Ph.D. as per UGC Regulations 2009/2016",
@@ -301,7 +333,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://apgenco.gov.in",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-1829-auditor-and-assistant-accountant-posts-3052601"
+        "official_notification": "Not Available"
     },
     {
         "date": "14/05/2026",
