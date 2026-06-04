@@ -1,6 +1,22 @@
 [
     {
         "date": "04/06/2026",
+        "board": "NIT Rourkela",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.Sc. or M.Tech in Meteorology or Atmospheric Science or Oceanography with at least 60% marks, National Eligibility Tests (CSIR-UGC NET, GATE) or equivalent, Working experience with satellite products and AI/ML models, Skills in analysis of tropical cyclones or extreme weather events, Strong background in Unix/Linux with Python and shell scripting",
+        "last_date": "26-06-2026",
+        "total_posts": "1",
+        "salary": "Year 1 & 2: INR 37,000.00 /- per month (+) HRA @ NA % (if applicable) || Year 3: INR 42,000.00 /- per month (+) HRA @ NA % (if applicable)",
+        "age_limit": "Maximum Age: 28 years || Relaxation up to 5 years for SC/ST/PWD/Female applicants and 3 years for OBC (Non-creamy layer) candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Online Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitrkl.ac.in",
+        "official_notification": "https://www.nitrkl.ac.in/docs/Career/ProjectFelow/2026/03062026122100328.pdf"
+    },
+    {
+        "date": "04/06/2026",
         "board": "Uma UG Higher Secondary School, Boudh",
         "title": "Guest Faculty",
         "qualification": "Master's degree in the concerned subject with at least 50% marks or equivalent grade, and B.Ed. or equivalent degree recognized by NCTE, New Delhi. Basic computer knowledge is also required.",

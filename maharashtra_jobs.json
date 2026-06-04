@@ -1,6 +1,38 @@
 [
     {
         "date": "04/06/2026",
+        "board": "MAHATRANSCO",
+        "title": "Electrician (Vidyut)",
+        "qualification": "SSC Pass, ITI Electrician NCVT Pass",
+        "last_date": "11-06-2026",
+        "total_posts": "26",
+        "salary": "Not Available",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 35 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "www.apprenticeshipindia.org",
+        "official_notification": "https://www.mahatransco.in/uploads/career/career_1780550252.pdf"
+    },
+    {
+        "date": "04/06/2026",
+        "board": "ICMR",
+        "title": "Scientist",
+        "qualification": "Masters from a recognized University in a subject related to Biomedical Sciences or Pharm-D degree recognized by UGC/PCI, MBBS or equivalent degree recognised by MCI/NMC",
+        "last_date": "10-07-2026",
+        "total_posts": "6",
+        "salary": "Scientist-C (Non-Medical): Level-11 (Rs. 67700-208700) || Scientist-B (Medical): Level-10 (56,100-1,77,500) || Scientist-B (Non-Medical): Level-10 (56,100-1,77,500)",
+        "age_limit": "Not Available",
+        "application_fee": "Rs.1500/-",
+        "selection_process": "Computer based test (MCQs) or interview or both || Shortlisting based on eligibility",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.icmr.gov.in",
+        "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1780558744_crmchfinaladvertisement.pdf"
+    },
+    {
+        "date": "04/06/2026",
         "board": "ACTREC",
         "title": "Assistant Security Officer",
         "qualification": "Any Graduate",
