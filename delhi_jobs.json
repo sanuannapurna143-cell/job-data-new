@@ -1,6 +1,38 @@
 [
     {
         "date": "04/06/2026",
+        "board": "CSIR IGIB",
+        "title": "Technician (Gr.-II)",
+        "qualification": "Graduate in Genomics, Molecular Medicine, Bioinformatics and Proteomics.",
+        "last_date": "04-07-2026",
+        "total_posts": "15",
+        "salary": "Rs. 19,900-63,200/-",
+        "age_limit": "Maximum 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://igib.res.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/06/455877-6a214a709b03d50057596.pdf"
+    },
+    {
+        "date": "04/06/2026",
+        "board": "IIT Delhi",
+        "title": "Jr. Project Assistant (Technical)",
+        "qualification": "B.Tech in Computer Science/Electronics/Machincal, having 1st class or B.E. in Data Science/Electronics/Electrical having 1st class or equivalent.",
+        "last_date": "18-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 29,290 - 38,220/- p.m. plus HRA @ 30%",
+        "age_limit": "Not Available",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in/",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1780486870227_8p74v99.pdf"
+    },
+    {
+        "date": "04/06/2026",
         "board": "Burari Hospital",
         "title": "Senior Resident",
         "qualification": "MBBS with Post Graduate degree/DNB/Diploma or equivalent as per Residency Scheme in concerned specialty from a recognized University/Institute",

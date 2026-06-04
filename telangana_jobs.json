@@ -1,6 +1,38 @@
 [
     {
         "date": "04/06/2026",
+        "board": "MIDHANI",
+        "title": "Group General Manager, General Manager",
+        "qualification": "BE/B.Tech (Metallurgy / Material Science), ME/M.Tech (Metallurgy / Material Science), BE/B.Tech (Mechanical / Production / Electrical / Civil), 2-year full-time PG in HR / PMIR / MBA (HR) / MSW",
+        "last_date": "20-06-2026",
+        "total_posts": "5",
+        "salary": "Group General Manager (Production & Projects):Rs. 1,20,000 - 3% - Rs. 2,80,000 (approx CTC Rs. 31.3 Lakhs) Per Month || General Manager (Quality, R&D, HR):Rs. 1,00,000 - 3% - Rs. 2,60,000 (approx CTC Rs. 26.0 Lakhs) Per Month",
+        "age_limit": "The age limit for all posts is as per Govt. of India rules. || Age relaxation will be provided as per Government of India rules.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Shortlisting of applications || Personal Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.midhani-india.in",
+        "official_notification": "https://midhani-india.in/WordPress-content/uploads/2018/11/Detailed-Advertisement_English_GM_GGM.pdf"
+    },
+    {
+        "date": "04/06/2026",
+        "board": "TGPSC",
+        "title": "Assistant Environmental Engineer",
+        "qualification": "Option 1:Bachelor's Degree inCivil / Mechanical / Chemical / Bio-Technology / Mining / Environmental Engineeringfrom a recognized University in India (established under Central/Provincial/State Act or recognized by UGC), OR qualified in Section A and B ofAMIE (India) Civil Examination. || Option 2:B.Tech / B.E. in any branchwith aPost Graduate Degree in Environmental Engineeringfrom a recognized University in India (established under Central/Provincial/State Act or recognized by UGC), OR qualified in Section A and B of AMIE (India) Civil Examination. || Distance Education:Degrees obtained through Open Universities / Distance Education mode must be recognized by UGC / AICTE / Distance Education Bureau. The onus of proof rests with the applicant.",
+        "last_date": "17-07-2026",
+        "total_posts": "19",
+        "salary": "CF = Carried Forward vacancies. VH = Visually Handicapped, HH = Hearing Handicapped, OH = Orthopaedically Handicapped, MH = Multiple Handicapped.",
+        "age_limit": "Age Limit (as on 01/07/2026): Minimum 18 years and Maximum 44 years. || Note: As per G.O.Ms.No.86, G.A.(Ser.A) Department, Dt. 18/05/2026, the upper age limit has been raised by 10 years (from 34 to 44 years). || Note: No person shall be eligible if they are at superannuation age after availing eligible age relaxations as on 01/07/2026. Employees of Corporations, Municipalities, etc., are not eligible for Government Employee age relaxation.",
+        "application_fee": "Note: All unemployed candidates are exempted from the examination fee. All employees of any Government (Central / State / PSUs / Corporations / Other Government Sector) must pay the examination fee. Fee once remitted will not be refunded or adjusted under any circumstances. Payment must be made online through Net Banking, Debit Card, Credit Card, or UPI.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tgpsc.gov.in/",
+        "official_notification": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGTi1Bc3N0LUVudmlyb24tRW5nbnItVEdQQ0IyMDI2MDYwMjE2NDIwNC5wZGY=r95v17a0y2d8i13v"
+    },
+    {
+        "date": "04/06/2026",
         "board": "DGFT Hyderabad",
         "title": "Young Professional",
         "qualification": "Masters in Economics, MBA, B. Tech/BE/MCA, Masters in Commerce",
@@ -366,21 +398,5 @@
         "syllabus": "Not Available",
         "official_website": "https://nitw.ac.in",
         "official_notification": "https://nitw.ac.in/api/static/files/JRF_Advertisement_2026-5-6-9-19-50.pdf"
-    },
-    {
-        "date": "06/05/2026",
-        "board": "MIDHANI",
-        "title": "Group General Manager, General Manager",
-        "qualification": "BE/B.Tech (Metallurgy / Material Science), ME/M.Tech (Metallurgy / Material Science), BE/B.Tech (Mechanical / Production / Electrical / Civil), 2-year full-time PG in HR / PMIR / MBA (HR) / MSW",
-        "last_date": "06-06-2026",
-        "total_posts": "5",
-        "salary": "Group General Manager (Production & Projects):Rs. 1,20,000 - 3% - Rs. 2,80,000 (approx CTC Rs. 31.3 Lakhs) Per Month || General Manager (Quality, R&D, HR):Rs. 1,00,000 - 3% - Rs. 2,60,000 (approx CTC Rs. 26.0 Lakhs) Per Month",
-        "age_limit": "The age limit for all posts is as per Govt. of India rules. || Age relaxation will be provided as per Government of India rules.",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Shortlisting of applications || Personal Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.midhani-india.in",
-        "official_notification": "https://midhani-india.in/WordPress-content/uploads/2018/11/Detailed-Advertisement_English_GM_GGM.pdf"
     }
 ]

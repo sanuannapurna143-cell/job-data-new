@@ -1,6 +1,38 @@
 [
     {
         "date": "04/06/2026",
+        "board": "NCSM",
+        "title": "Consultant (Museum of Word)",
+        "qualification": "1st Class M.Sc or 1st Class B.E./B.Tech in Comp. Science/Mechanical/Electronics with 20 years’ relevant work experience",
+        "last_date": "12-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 55,000/- per month (Consolidated)",
+        "age_limit": "Maximum Age Limit: 63 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://ncsm.gov.in/",
+        "official_notification": "https://ncsm.gov.in/storage/files/advertisement-application-format-consultant-musuem-of-word.pdf"
+    },
+    {
+        "date": "04/06/2026",
+        "board": "NCSM",
+        "title": "Young Professional (Gallery Explainer)",
+        "qualification": "MA/M.Sc in Museology, Linguistics or Anthropology with good knowledge on Linguistic Anthropology from a recognized university",
+        "last_date": "10-06-2026",
+        "total_posts": "2",
+        "salary": "Rs. 35000 Consolidated",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ncsm.gov.in",
+        "official_notification": "https://ncsm.gov.in/storage/files/detail-advt-for-engagement-of-young-professionals-gallery-demonstration.pdf"
+    },
+    {
+        "date": "04/06/2026",
         "board": "Balmer Lawrie",
         "title": "Retainer",
         "qualification": "Graduate [Any Discipline]",

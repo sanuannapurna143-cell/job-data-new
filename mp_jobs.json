@@ -1,6 +1,22 @@
 [
     {
         "date": "04/06/2026",
+        "board": "DLSA Indore",
+        "title": "Vehicle Driver",
+        "qualification": "10th Pass, Ability to read and write Hindi, Valid Driving License",
+        "last_date": "18-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 14000 Per Month",
+        "age_limit": "Min: 18 years, Max: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://indore.dcourts.gov.in",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec02b299ad862b6f12cb57679f0538ec/uploads/2026/05/2026053054.pdf"
+    },
+    {
+        "date": "04/06/2026",
         "board": "IIT Indore",
         "title": "Laboratory Engineer",
         "qualification": "BE/B. Tech in Mechanical/Electrical engineering with First class.",
