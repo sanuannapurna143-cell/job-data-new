@@ -1,5 +1,37 @@
 [
     {
+        "date": "04/06/2026",
+        "board": "DGFT Hyderabad",
+        "title": "Young Professional",
+        "qualification": "Masters in Economics, MBA, B. Tech/BE/MCA, Masters in Commerce",
+        "last_date": "10-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 60,000/- per month",
+        "age_limit": "Maximum Age: 35 years as on 10-06-2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.dgft.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/06/9285-6a210a8d1ee4549236665.pdf"
+    },
+    {
+        "date": "04/06/2026",
+        "board": "CSIR CCMB",
+        "title": "Technical Officer, Technician (1)/Gr.II(1), Driver",
+        "qualification": "Any Bachelors Degree",
+        "last_date": "05-06-2026",
+        "total_posts": "28",
+        "salary": "Level-07",
+        "age_limit": "Technical Officer:30 years || Technician (1):28 years || Driver:27 years || Age relaxation as per CSIR/GoI rules for SC/ST/OBC/EWS/PwBD/Ex-Servicemen, CSIR employees, etc.",
+        "application_fee": "UR / OBC(NCL) / EWS: Rs. 500/- || SC / ST / PwBD / Women / Ex-Servicemen: Nil",
+        "selection_process": "For Technical Officer: Trade Test + Competitive Written Examination (Paper-I, II & III) || For Technician (1): Trade Test + Competitive Written Examination (Paper-I, II & III) || For Driver: Skill Test (Qualifying) + Competitive Written Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ccmb.res.in/",
+        "official_notification": "https://recruitment-staff.ccmb.res.in/Advt_04_2026_Gr3/index.php"
+    },
+    {
         "date": "03/06/2026",
         "board": "TGPSC",
         "title": "Minimum Age",
@@ -177,22 +209,6 @@
     },
     {
         "date": "27/05/2026",
-        "board": "SVPNPA",
-        "title": "Tuition Teacher (Science)",
-        "qualification": "Graduation in Bachelor of Science (PCM/PCB) B.Ed/ M.Sc",
-        "last_date": "03-06-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 15000 Per Month",
-        "age_limit": "Minimum Age: 21 years || Maximum Age: Not specified || Age Relaxation: Not specified",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.svpnpa.gov.in",
-        "official_notification": "https://www.svpnpa.gov.in/static/gallery/docs/bbbf5a3e4d83403f8e47ccc37b264402.PDF"
-    },
-    {
-        "date": "27/05/2026",
         "board": "NIT Warangal",
         "title": "Junior Research Fellow",
         "qualification": "B.Tech/B.E or M.Tech/M.E",
@@ -206,22 +222,6 @@
         "syllabus": "Not Available",
         "official_website": "https://nitw.ac.in/",
         "official_notification": "https://nitw.ac.in/api/static/files/Advertisement_ANRF_2026-5-26-13-2-27.pdf"
-    },
-    {
-        "date": "26/05/2026",
-        "board": "SVP NPA",
-        "title": "Tuition Teacher (Mathematics)",
-        "qualification": "Graduation in B.Sc (PCM) or BA Mathematics (Hons) with 50% marks, B.Ed with Mathematics 55% marks, Desirable: M.Sc/M.A (Maths)/MCA, Minimum 2 years teaching experience",
-        "last_date": "03-06-2026",
-        "total_posts": "1",
-        "salary": "Rs. 15000 Per Month",
-        "age_limit": "Min: 21 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.svnpna.gov.in",
-        "official_notification": "https://www.svpnpa.gov.in/static/gallery/docs/4c406513c5734b369adc054bc0067420.PDF"
     },
     {
         "date": "25/05/2026",
@@ -336,38 +336,6 @@
         "official_notification": "https://www.ncbindia.com/recruitment/RectAdvt2026.pdf"
     },
     {
-        "date": "19/05/2026",
-        "board": "MIDHANI",
-        "title": "Graduate Apprentice Trainee (GAT) & Technician (Diploma) Apprentice Trainee (TAT)",
-        "qualification": "A Diploma in Engineering or Technology granted by a State Council or Board of Technical Education established by a State Government, OR by a university in the relevant discipline. Passouts of 2023/2024/2025/2026 only.",
-        "last_date": "03-06-2026",
-        "total_posts": "43",
-        "salary": "Graduate (GATs): Rs. 12,300/-\r\t\t\tTechnician (TATs): Rs. 10,900/-",
-        "age_limit": "As per Apprenticeship Rules (no specific age limit mentioned in notification).",
-        "application_fee": "No application fee mentioned",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://midhani-india.in/",
-        "official_notification": "https://midhani-india.in/WordPress-content/uploads/2018/11/GAT-ADVT-18-MAY-2026.pdf"
-    },
-    {
-        "date": "14/05/2026",
-        "board": "IIT Hyderabad",
-        "title": "Alumni Relations Manager",
-        "qualification": "Any Graduate, Any Masters Degree",
-        "last_date": "03-06-2026",
-        "total_posts": "1",
-        "salary": "Rs.45,000/- Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iith.ac.in",
-        "official_notification": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_52_ARM_Dt_13-05-2026.pdf"
-    },
-    {
         "date": "12/05/2026",
         "board": "HAL Hyderabad",
         "title": "Technician (Diploma) Apprentice, Engineering Graduate Apprentice, General Stream Graduate Apprentice",
@@ -414,21 +382,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.midhani-india.in",
         "official_notification": "https://midhani-india.in/WordPress-content/uploads/2018/11/Detailed-Advertisement_English_GM_GGM.pdf"
-    },
-    {
-        "date": "05/05/2026",
-        "board": "BITS Pilani",
-        "title": "Junior Research Fellow / Test Engineer",
-        "qualification": "B.E./B.Tech, M.E./M.Tech in Electronics and Telecommunication/Communication/Microwave Engineering, Diploma in ECE/EEE",
-        "last_date": "03-06-2026",
-        "total_posts": "3",
-        "salary": "Rs. 18000/- - Rs. 37000/- + 24% HRA Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Please refer to the official notification for selection process details.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.bits-pilani.ac.in/",
-        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/JRF-Advertisement-1-LAMBDA-Office.pdf"
     }
 ]
