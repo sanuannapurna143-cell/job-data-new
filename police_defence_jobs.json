@@ -1,6 +1,38 @@
 [
     {
         "date": "05/06/2026",
+        "board": "NPOL DRDO",
+        "title": "Paid Intern",
+        "qualification": "Final year UG/PG students in respective disciplines from AICTE/UGC recognized Indian University/Institute, Minimum 75% marks or >=7.5 CGPA/SGPA until previous year/semester, Internship/project work of minimum six months duration should be part of the curriculum",
+        "last_date": "15-06-2026",
+        "total_posts": "35",
+        "salary": "Rs. 30,000/- total stipend per month (Consolidated)",
+        "age_limit": "Maximum Age Limit: 28 years || Age relaxation rules are not specified in the provided data.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on academic record (min 75% or 7.5 CGPA) || Interaction (in person/telephone/VC) || Document Verification at joining",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in/",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtNPOL05062026.pdf"
+    },
+    {
+        "date": "05/06/2026",
+        "board": "CRPF",
+        "title": "Commandant (Architect)",
+        "qualification": "Degree in Architecture from a recognized University or Institution and registered with Council of Architecture under the Architecture Act, 1972 (20 of 1972), Ten years experience in execution of Architecture work, Holding analogous posts on regular basis or five years regular service in level 12 or ten years regular service in level 11 in the pay matrix",
+        "last_date": "30-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 85,000 Per Month",
+        "age_limit": "Maximum Age Limit: 52 years",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Medical Examination",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://rect.crpf.gov.in",
+        "official_notification": "https://rect.crpf.gov.in/Upload/Recruitment/COMDT_ARCH_RECT_NOTICE-452.pdf"
+    },
+    {
+        "date": "05/06/2026",
         "board": "Air Force School Panchwati",
         "title": "Teaching and Non-Teaching Staff",
         "qualification": "Masters Degree, Bachelors Degree, B.Ed or equivalent, Diploma in Elementary Education, Nursery Teachers Training diploma, Graduate, B Com",
