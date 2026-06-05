@@ -1,5 +1,37 @@
 [
     {
+        "date": "05/06/2026",
+        "board": "ECHS",
+        "title": "Pharmacist",
+        "qualification": "B.Pharmacy or approved Diploma in Pharmacy from an Institute recognized by the Pharmacy Council of India and registered as Pharmacist under the Pharmacy Act 1948.",
+        "last_date": "10-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 36500 Per Month",
+        "age_limit": "Maximum Age Limit: 56 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.echs.gov.in",
+        "official_notification": "https://www.echs.gov.in/assets/advertisement/Request%20upload%20advt%20in%20ECHS%20Website_removed.pdf"
+    },
+    {
+        "date": "05/06/2026",
+        "board": "AIIMS Mangalagiri",
+        "title": "Senior Resident/Senior Demonstrator",
+        "qualification": "MDS in Oral and Maxillofacial Surgery, MDS in Pedodontics & Preventive Dentistry, MDS in Conservative Dentistry & Endodontics",
+        "last_date": "15-07-2026",
+        "total_posts": "3",
+        "salary": "Rs. 67700 Per Month",
+        "age_limit": "Maximum Age Limit: 45 years || Age Relaxation: SC/ST: 5 years; OBC: 3 years; PwBD: 10 years (General), 13 years (OBC), 15 years (SC/ST)",
+        "application_fee": "Rs. 1500/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsmangalagiri.edu.in",
+        "official_notification": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/06/Advertisement-for-recruitment-of-Senior-Residents-Senior-Demonstrators-in-the-department-of-Dentistry-at-AIIMS-Mangalagiri-June-2026.pdf"
+    },
+    {
         "date": "04/06/2026",
         "board": "ANGRAU",
         "title": "Young Professional - I",
@@ -142,22 +174,6 @@
         "syllabus": "Not Available",
         "official_website": "https://angrau.ac.in/",
         "official_notification": "https://angrau.ac.in/UPLOADS/CareersPDFs/RARS_MT_RA_GPB.pdf"
-    },
-    {
-        "date": "30/05/2026",
-        "board": "EdCIL",
-        "title": "Occupational Therapist, Physiotherapist, Psychologist, Speech Therapist, Clinical Psychologist, Special Educator (Secondary Level), Special Educator (Primary Level), PMU Consultant",
-        "qualification": "Shortlisting based on academic/professional qualifications and Interview",
-        "last_date": "04-06-2026",
-        "total_posts": "879",
-        "salary": "Rs. 30,000/-",
-        "age_limit": "45 years for all posts (as on 30 April 2026)",
-        "application_fee": "No application fee required",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.edcilindia.co.in/",
-        "official_notification": "https://www.edcilindia.co.in/Default/ViewFile/?id=1779401966084_Deatailed%20Advertisment%20for%20the%20Recruitment%20of%20875%20Multidisciplinary%20Staff%20(Inclusive%20Education-AP).pdf&path=TCareer"
     },
     {
         "date": "29/05/2026",
