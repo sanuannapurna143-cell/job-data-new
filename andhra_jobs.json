@@ -1,6 +1,22 @@
 [
     {
         "date": "05/06/2026",
+        "board": "GGH Kadapa",
+        "title": "Doctor, Chowkidar and More",
+        "qualification": "MBBS with registration in medical council, Graduate with experience of managing centres, SSC or equivalent, Graduate in Social sciences preferably Social work/psychology, Experience of at least three years in discipline, Literate Ex-drug user with 1-2 years sobriety",
+        "last_date": "10-06-2026",
+        "total_posts": "9",
+        "salary": "Rs. 5000 - 60000 Per Month",
+        "age_limit": "Maximum Age Limit: 42 years || Age Relaxation: SC/ST/BC/EWS: 5 years; Ex-Servicemen: 3 years + length of service; Differently abled: 10 years; Maximum with all relaxations: 52 years.",
+        "application_fee": "Rs.500/-",
+        "selection_process": "Aggregate of marks obtained in all years in qualifying examination (90%) || Weightage for No. of years since passing qualifying examination (up to 10 marks @ 1 mark per completed year)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://kadapa.ap.gov.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s37dcd340d84f762eba80aa538b0c527f7/uploads/2026/06/17806324887025.pdf"
+    },
+    {
+        "date": "05/06/2026",
         "board": "ECHS",
         "title": "Pharmacist",
         "qualification": "B.Pharmacy or approved Diploma in Pharmacy from an Institute recognized by the Pharmacy Council of India and registered as Pharmacist under the Pharmacy Act 1948.",
