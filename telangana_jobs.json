@@ -1,5 +1,37 @@
 [
     {
+        "date": "06/06/2026",
+        "board": "IIT Hyderabad",
+        "title": "Non-Teaching Positions",
+        "qualification": "Any Graduate, B.Tech/ B.E, Diploma, M.Sc, MCA",
+        "last_date": "20-07-2026",
+        "total_posts": "21",
+        "salary": "Pay Level-3 to Pay Level-6",
+        "age_limit": "The upper age limit is generally 35 years for all posts. || Age Relaxation:SC/ST: 5 yearsOBC-NCL: 3 yearsPWD: 15 years for SC/ST, 13 years for OBC-NCL, and 10 years for othersEx-servicemen: As per Government of India normsEmployees of IIT Hyderabad: No age limit for regular internal candidatesCurrently serving contractual and outsourced employees of IIT Hyderabad: Five (05) years or by the length of their service to IIT Hyderabad, whichever is less. || SC/ST: 5 years || OBC-NCL: 3 years || PWD: 15 years for SC/ST, 13 years for OBC-NCL, and 10 years for others || Ex-servicemen: As per Government of India norms || Employees of IIT Hyderabad: No age limit for regular internal candidates || Currently serving contractual and outsourced employees of IIT Hyderabad: Five (05) years or by the length of their service to IIT Hyderabad, whichever is less.",
+        "application_fee": "Rs. 500/- per post",
+        "selection_process": "Submission of Applications || Preliminary Written Test / Skill Test / Trade Test || Final Written Test and Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iith.ac.in",
+        "official_notification": "https://www.iith.ac.in/assets/files/careers/staff/nf20/Final-Detailed_NotificationsNF-20-1.pdf"
+    },
+    {
+        "date": "06/06/2026",
+        "board": "TGPSC",
+        "title": "Deputy Educational Officers / Gazetted Head Master Grade-I",
+        "qualification": "Must possess a Bachelor’s Degree from any UGC-recognised University with subjects eligible for admission into B.Ed. Course; AND a Post Graduate Degree with not less than 55% marks from any UGC-recognised University (50% for SC/ST/BC/Differently Abled candidates)",
+        "last_date": "19-07-2026",
+        "total_posts": "24",
+        "salary": "Rs. 58,850 - 1,37,050/- (Pay Matrix Level 10 & 14)",
+        "age_limit": "Not Available",
+        "application_fee": "All employed candidates (Central / State / PSU / Corporations)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://www.tgpsc.gov.in"
+    },
+    {
         "date": "05/06/2026",
         "board": "AIIMS Bibinagar",
         "title": "Faculty Posts (Group-A)",
