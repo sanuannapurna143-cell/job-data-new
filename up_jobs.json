@@ -1,6 +1,38 @@
 [
     {
         "date": "06/06/2026",
+        "board": "IIT Kanpur",
+        "title": "Deputy Project Manager",
+        "qualification": "Master’s degree in science/engineering/management with at least 3 years of relevant experience or Bachelor's degree with at least 5 years of relevant experience",
+        "last_date": "15-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 23000 - 59000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in/",
+        "official_notification": "https://www.iitk.ac.in/dord/project/stc-dpm-03-06-26.html"
+    },
+    {
+        "date": "06/06/2026",
+        "board": "Sainik School Jhansi",
+        "title": "PGT Computer Science, TGT Social Science, Art Master, Lab Assistant Physics",
+        "qualification": "12th-pass, Any Graduate, Post Graduate",
+        "last_date": "26-06-2026",
+        "total_posts": "4",
+        "salary": "PGT Computer Science:Rs 47,600/- Basic Pay + DA + Medical Allowance + Travelling Allowance. || TGT Social Science & Art Master:Rs 71,840/- (Consolidated Salary). || Lab Assistant Physics:Rs 40,800/- (Consolidated Salary).",
+        "age_limit": "PGT Computer Science (Regular): 21-40 years || TGT Social Science (Temporary): 21-35 years || Art Master (Contractual): 21-50 years || Lab Assistant Physics (Contractual): 18-50 years",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Written Examination || Class Demonstration/Skill test || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sainikschooljhansi.com",
+        "official_notification": "https://www.sainikschooljhansi.com/files/recruitments/REC_77da78209668477676582101d6c745c1.pdf"
+    },
+    {
+        "date": "06/06/2026",
         "board": "DBEO Kushinagar",
         "title": "Teaching and Non Teaching Posts",
         "qualification": "Various qualifications from 8th pass to Post Graduate with B.Ed/D.El.Ed/TET etc.",
@@ -445,7 +477,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.allahabadhighcourt.in",
-        "official_notification": "cisf-asi-paramedical-staff-recruitment-2026-apply-online-for-24-posts-3052326"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/06/2026",
