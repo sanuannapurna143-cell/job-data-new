@@ -1,6 +1,22 @@
 [
     {
         "date": "06/06/2026",
+        "board": "District Magistrate Birbhum",
+        "title": "Technical Assistant and Multi-Tasking Staff",
+        "qualification": "Graduate in any discipline with knowledge of Computer and MS Office Packages, Typing Speed, and minimum 1 year of experience for TA. Graduate in any discipline with basic knowledge of Computer and MS Office Packages, Typing Speed, English writing ability, and minimum 1 year of experience for MTS.",
+        "last_date": "12-06-2026",
+        "total_posts": "22",
+        "salary": "TA: Max Rs. 25,000/- per month, MTS: Max Rs. 18,000/- per month",
+        "age_limit": "Min: 21 years, Max: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.birbhum.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3fc3cf452d3da8402bebb765225ce8c0e/uploads/2026/06/17806703664924.pdf"
+    },
+    {
+        "date": "06/06/2026",
         "board": "IISER Kolkata",
         "title": "Non-Teaching Positions",
         "qualification": "Master's Degree in Library Science/Information Science/Documentation Science, B.E./B.Tech in Civil Engineering, Master's Degree in relevant field, First class Bachelor's degree in Civil/Electrical Engineering, Master's Degree in Physical Education and Sports or Sports Science, Diploma in coaching.",
@@ -93,7 +109,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "ksp-civil-police-constable-recruitment-2026-apply-online-for-3991-posts-3052980"
+        "official_notification": "cisf-asi-paramedical-staff-recruitment-2026-apply-online-for-24-posts-3052326"
     },
     {
         "date": "03/06/2026",
