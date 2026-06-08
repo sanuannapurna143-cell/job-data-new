@@ -1,6 +1,22 @@
 [
     {
         "date": "08/06/2026",
+        "board": "SAIL",
+        "title": "Radiologist/Sonologist",
+        "qualification": "MBBS along with qualification in Radiology viz. MD (Radiology) or DNB (Radiology) or DMRD recognized by MCI/NMC/NBE or candidates having MBBS with Govt. approved completed Sonology course of PC & PNDT CBE II (SONOLOGIST)",
+        "last_date": "20-06-2026",
+        "total_posts": "2",
+        "salary": "₹400/- per case + taxes (if any, applicable as per Govt. rules)",
+        "age_limit": "Maximum Age: 69 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sail.co.in/",
+        "official_notification": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/BSP_Jobs_05062026_171902.pdf"
+    },
+    {
+        "date": "08/06/2026",
         "board": "Simdega District",
         "title": "Support Person",
         "qualification": "Post Graduate or Graduate in any discipline with minimum two years of work experience in the relevant field.",

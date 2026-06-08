@@ -1,6 +1,38 @@
 [
     {
         "date": "08/06/2026",
+        "board": "PSSSB",
+        "title": "Line Superintendent, Group-C",
+        "qualification": "Three years Diploma in Electrical Engineering from a recognized institution",
+        "last_date": "19-06-2026",
+        "total_posts": "06",
+        "salary": "Rs. 35,400/- (Level-6) as per 7th Central Pay Commission Pay Scale + Allowances",
+        "age_limit": "Age Limit",
+        "application_fee": "Rs. 250/- (Rupees Two Hundred and Fifty only)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sssb.punjab.gov.in",
+        "official_notification": "https://sssb.punjab.gov.in/wp-content/uploads/2026/05/Advt.-No.-11-of-2026-Line-Superintendent.pdf"
+    },
+    {
+        "date": "08/06/2026",
+        "board": "BFUHS",
+        "title": "Sub Divisional Engineer",
+        "qualification": "Degree in Engineering in respective discipline from a recognized University or Institution",
+        "last_date": "28-06-2026",
+        "total_posts": "6",
+        "salary": "Pay Level-8 (Rs. 47600/-) Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 37 years || Age Relaxation: SC: 5 years; Punjab Govt. and its Boards/Corporations/Commissions and Authorities employees and all States/Central Govt. employees: up to 45 years; Widow, divorcees and certain other categories of married women: up to 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Merit List based on written test and experience marks",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bfuhs.ac.in",
+        "official_notification": "https://recruitment.ggsmch.org/form-bfu_26_18_sde/"
+    },
+    {
+        "date": "08/06/2026",
         "board": "PSPCL",
         "title": "Assistant Lineman (ALM)",
         "qualification": "ITI in Electrician Trade OR ITI in Wireman Trade, with certificate issued by NCVT (National Council for Vocational Training) or SCVT (State Council for Vocational Training)",

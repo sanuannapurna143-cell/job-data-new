@@ -1,6 +1,22 @@
 [
     {
         "date": "08/06/2026",
+        "board": "Sangeet Natak Akademi",
+        "title": "Guru/Teacher",
+        "qualification": "Degree in Kathak Dance or Sitar, or equivalent, with teaching experience.",
+        "last_date": "12-06-2026",
+        "total_posts": "2",
+        "salary": "Rs. 15000 Per Month",
+        "age_limit": "Min: 40 years, Max: 58 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sangeetnatak.gov.in/",
+        "official_notification": "https://www.sangeetnatak.gov.in/public/uploads/vacancy/17806596417875.pdf"
+    },
+    {
+        "date": "08/06/2026",
         "board": "ICAR-NBPGR",
         "title": "Project Associate-I",
         "qualification": "Master's Degree in Natural or Agricultural Sciences or bachelor's degree in Engineering or Technology with specialization in Plant Breeding/ Genetics / Physiology/ Biotechnology",

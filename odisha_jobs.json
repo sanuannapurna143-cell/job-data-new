@@ -1,6 +1,38 @@
 [
     {
         "date": "08/06/2026",
+        "board": "WCD Odisha",
+        "title": "Anganwadi Worker",
+        "qualification": "12TH",
+        "last_date": "20-06-2026",
+        "total_posts": "2",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://engagement-awc.odisha.gov.in/",
+        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=163455"
+    },
+    {
+        "date": "08/06/2026",
+        "board": "Dr. Katju Govt HSS Bhela",
+        "title": "Guest Faculties",
+        "qualification": "Master Degree in the concerned subject with at least 50% marks or equivalent grade and B.Ed. or equivalent degree recognized by the NCTE New Delhi. Basic Computer Knowledge.",
+        "last_date": "10-06-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Rs.400/- per class/lecturer of 45 minutes duration subject to a ceiling of maximum 50 classes with Rs. 20,000/- rupees per month.",
+        "age_limit": "Below 65 years of age",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Carrier assessment || Teaching experience || Basic experience in computer application",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://nuapada.odisha.gov.in",
+        "official_notification": "https://nuapada.odisha.gov.in/sites/default/files/2026-06/guest%20faculty%20engagement%20notice%2026-27.pdf"
+    },
+    {
+        "date": "08/06/2026",
         "board": "NIT Rourkela",
         "title": "Junior Research Fellow",
         "qualification": "M.Sc. in Chemistry (or Industrial / Applied /Environmental / Polymer / Materials Chemistry or Science) with aggregate marks of 65% or 7.00 CGPA. Valid NET/GATE score or selected through national level examinations.",
