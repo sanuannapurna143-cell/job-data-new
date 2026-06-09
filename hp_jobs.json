@@ -1,6 +1,22 @@
 [
     {
         "date": "09/06/2026",
+        "board": "Hamirpur District",
+        "title": "Tehsildar",
+        "qualification": "Must have rendered minimum 5 years services in any wing of revenue Department of HP and having no departmental/disciplinary proceeding pending against them.",
+        "last_date": "18-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 70,000/- per month",
+        "age_limit": "Maximum Age Limit: 65 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://hphamirpur.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s3f4f6dce2f3a0f9dada0c2b5b66452017/uploads/2026/06/17809010416581.pdf"
+    },
+    {
+        "date": "09/06/2026",
         "board": "HPPSC",
         "title": "Physiotherapist",
         "qualification": "BPT, Diploma",

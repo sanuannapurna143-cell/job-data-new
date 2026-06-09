@@ -1,6 +1,38 @@
 [
     {
         "date": "09/06/2026",
+        "board": "DLSA Jangaon",
+        "title": "DEO, Peon and More",
+        "qualification": "Graduation, 10th Class Pass, Typing speed of 40 WPM, Word Processing abilities",
+        "last_date": "16-06-2026",
+        "total_posts": "5",
+        "salary": "OFFICE ASSISTANT/CLERK: Rs.20,000/- || RECEPTIONIST-CUM-DATA ENTRY OPERATOR: Rs.15,000/- || OFFICE PEON (MUNSHI/ATTENDANT): Rs.14,000/-",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 34 years || Age relaxation to the BC/SC/ST etc., will be given as per Rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Competitive Selection Process",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://jangoan.dcourts.gov.in/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec041b318124e37af6d74a03501474f4/uploads/2026/06/2026060627.pdf"
+    },
+    {
+        "date": "09/06/2026",
+        "board": "ECIL",
+        "title": "Project Engineer on Contract (PE-C), Technical Officer on Contract (TO-C), Assistant Project Engineer on Contract (APE-C), Senior Artisan on Contract (SA-C)",
+        "qualification": "Document Verification + Personal Interview (merit-based: Qualification 20% + Experience 30% + Interview 50%)",
+        "last_date": "19-06-2026",
+        "total_posts": "21",
+        "salary": "Not Available",
+        "age_limit": "As per upper age limit specified for each post (33 years for PE-C; 30 years for TO-C, APE-C, SA-C)",
+        "application_fee": "No application fee mentioned",
+        "selection_process": "Selection is through Walk-in mode. Candidates will be evaluated through Document Verification followed by Personal Interview. Final recommendations will be made on merit based on the following criteria: || Candidates will be allowed to register only after successful document verification. Candidates must report at the respective zonal venue with their duly filled application form, resume, original certificates, and one set of self-attested photocopies. Registration is strictly between 09:00 hrs and 11:30 hrs; late arrivals will not be entertained.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://www.ecil.co.in/jobs/Advt_09_2026.pdf"
+    },
+    {
+        "date": "09/06/2026",
         "board": "HAL",
         "title": "Visiting Consultant / Clinical Psychologist",
         "qualification": "PG Degree / Diploma in Relevant specialty / discipline, Post-Graduate Degree in Clinical Psychology or any other Qualification approved by R.C.I",

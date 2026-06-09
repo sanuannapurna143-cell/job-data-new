@@ -1,6 +1,54 @@
 [
     {
         "date": "09/06/2026",
+        "board": "Amethi",
+        "title": "BC Sakhi (Banking Correspondent Sakhi)",
+        "qualification": "Requirement",
+        "last_date": "30-06-2026",
+        "total_posts": "166",
+        "salary": "BC Sakhi is not a fixed salaried government post. Income is mainly commission-based from banking transactions conducted at the Gram Panchayat level. || Support fund of ₹75,000 from UPSRLM at 4% annual interest rate || Amount can be used to purchase Micro-ATM, handheld device, or other required equipment || Commission income depends on transaction volume || The ₹75,000 support fund is a loan, not a grant",
+        "age_limit": "Age relaxation for reserved categories will be applicable as per Uttar Pradesh Government rules. Candidates should confirm details from the district office.",
+        "application_fee": "No application fee has been mentioned in the official notification. The application process is offline and free of cost through the SHG channel.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://upsrlm.org",
+        "official_notification": "https://cdn.s3waas.gov.in/s3cfa0860e83a4c3a763a7e62d825349f7/uploads/2026/06/17809885432496.pdf"
+    },
+    {
+        "date": "09/06/2026",
+        "board": "DBEO Mirzapur",
+        "title": "Various Teaching and Non-Teaching Posts",
+        "qualification": "Trained Graduate with TET at Upper Primary level, Graduate in specified subject with training, MA/MSc or BA/BSc (Hons) in Math, High School/Intermediate with Science and Lab Diploma, Graduate in Commerce with MS Office, Class 8 pass",
+        "last_date": "27-06-2026",
+        "total_posts": "29",
+        "salary": "Full Time Teacher (Science, Math, Social Science, Hindi, English): Rs. 25410 Per Month || Part Time Teacher (Art Craft and Music/Home Science, Computer): Rs. 12790 Per Month || Accountant (Female): Rs. 14357 Per Month || Head Cook (Female): Rs. 9006 Per Month || Assistant Cook (Female): Rs. 6755 Per Month || Peon (Female): Rs. 7505 Per Month || Watchman (Female): Rs. 7505 Per Month || PGT Math: Rs. 22000 Per Month || Lab Assistant: Rs. 7147 Per Month",
+        "age_limit": "Minimum Age: 25 years || Maximum Age: 45 years || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://mirzapur.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s396da2f590cd7246bbde0051047b0d6f7/uploads/2026/06/17807260991162.pdf"
+    },
+    {
+        "date": "09/06/2026",
+        "board": "UPSSSC",
+        "title": "Vidhan Bhavan Rakshak (Council House Guard) & Vidhan Bhavan Agnik/Agnirakshak (Fireman/Fire Guard)",
+        "qualification": "Intermediate (Class 12th / High School equivalent) pass from Madhyamik Shiksha Parishad, Uttar Pradesh or equivalent examination recognised by the Government — as per UP Secretariat Security and Fire Services Rules, 2000 (as amended up to 5th Amendment 2023), Part-4, Rule-8.",
+        "last_date": "29-06-2026",
+        "total_posts": "170",
+        "salary": "Level-3, Pay Band: Rs. 21,700/- (Minimum) to Rs. 69,100/- (Maximum)",
+        "age_limit": "Age limit and maximum age relaxation as per UP Govt. notification dated 30-01-2026 (Mukhyamantri Adhyetavritti ke Anusandhanvido ke liye Age Seema Shithilkaran Niyamavali, 2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://upsssc.gov.in//ViewPdf.aspx?MIcrxdpj0TvP/d0+Gn+D/NjuL7XXmLvVLNQiecN3YgY="
+    },
+    {
+        "date": "09/06/2026",
         "board": "UPSSSC",
         "title": "Multiple Posts across Departments",
         "qualification": "Bachelor's Degree from a recognised university (Graduate Level)",
@@ -1070,21 +1118,5 @@
         "syllabus": "Not Available",
         "official_website": "https://upsssc.gov.in/",
         "official_notification": "https://upsssc.gov.in/ViewPdf.aspx?3BAyj+L0yHzQ3VhzoB/W0CkamSiYi31zE+eJ8iEdcrU="
-    },
-    {
-        "date": "11/04/2026",
-        "board": "UPSSSC",
-        "title": "Total",
-        "qualification": "Eligibility Criteria  Essential Qualifications: Passed Intermediate examination of U.P. Board of Secondary Education or any equivalent examination recognized by the Government. Preferential Qualifications: Minimum 02 years service in Territorial Army or NCC ‘B’ Certificate (other things being equal).",
-        "last_date": "29-06-2026",
-        "total_posts": "170",
-        "salary": "Not Available",
-        "age_limit": "UPSSSC Recruitment 2026 Age Limit (as on 01-07-2026)  Minimum Age Limit: 18 Years Maximum Age limit: 40 Years Age relaxation is applicable as per rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting on the basis of normalized score of Preliminary Eligibility Test (PET-2025). || Main Written Examination (Objective Type, 100 marks, 120 minutes). || Physical Measurement Test (qualifying nature) for shortlisted candidates. || Document Verification.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://https://upsssc.gov.in/",
-        "official_notification": "https://upsssc.gov.in//ViewPdf.aspx?MIcrxdpj0TvP/d0+Gn+D/NjuL7XXmLvVLNQiecN3YgY="
     }
 ]

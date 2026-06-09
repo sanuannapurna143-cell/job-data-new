@@ -1,5 +1,37 @@
 [
     {
+        "date": "09/06/2026",
+        "board": "District Panchayat Narayanpur",
+        "title": "Gram Panchayat Secretary",
+        "qualification": "Higher Secondary, 1 year Diploma in Data Entry Operator/Programming from recognized institution",
+        "last_date": "20-06-2026",
+        "total_posts": "14",
+        "salary": "Rs. 3500 - 10000 Per Month with Grade Pay 1100",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 35 years || Age relaxation is applicable as per Chhattisgarh government rules for SC/ST/OBC/PWD/Ex-servicemen/Women.",
+        "application_fee": "Nil",
+        "selection_process": "Merit based on Higher Secondary marks (50%) || Higher educational qualification (max 10 marks) || Computer Skill Test (25%) || Experience as Rozgar Sahayak (max 15 marks)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.narayanpur.gov.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s32afe4567e1bf64d32a5527244d104cea/uploads/2026/06/17806705563022.pdf"
+    },
+    {
+        "date": "09/06/2026",
+        "board": "WCD Sukma",
+        "title": "IT Assistant",
+        "qualification": "Graduate degree in Computer/IT field, Good knowledge of MS Office and computer typing, Minimum 0.3 years experience in data management/process documentation/web based reporting in government/semi-government organizations",
+        "last_date": "30-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20900.00 Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 35 years || Age relaxation is applicable up to 45 years with relaxations as per state government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Merit List || Walk-in Interview || Skill Test",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://sukma.gov.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/06/17809213347956.pdf"
+    },
+    {
         "date": "08/06/2026",
         "board": "SECL",
         "title": "Tele-com./Radio Mechanic T&S Grade-D",
