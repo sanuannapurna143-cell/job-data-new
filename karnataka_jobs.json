@@ -1,6 +1,22 @@
 [
     {
         "date": "09/06/2026",
+        "board": "ECHS",
+        "title": "Officer-in-Charge",
+        "qualification": "Graduation",
+        "last_date": "30-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 95,000/-",
+        "age_limit": "Maximum age subject to performance of candidate/ other conditions",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.echs.gov.in/",
+        "official_notification": "https://www.echs.gov.in/assets/advertisement/Advertisement%20%281%29_removed.pdf"
+    },
+    {
+        "date": "09/06/2026",
         "board": "RRI",
         "title": "Personal Secretary and Assistant",
         "qualification": "Graduate in any discipline from a recognized university, Minimum 3 years experience in secretarial work or administration/purchase/accounts",

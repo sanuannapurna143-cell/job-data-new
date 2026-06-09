@@ -1,6 +1,22 @@
 [
     {
         "date": "09/06/2026",
+        "board": "Ordnance Factory Hospital Dehradun",
+        "title": "Hired Medical Practitioner",
+        "qualification": "MBBS Degree recognized by MCI",
+        "last_date": "16-06-2026",
+        "total_posts": "2",
+        "salary": "Rs. 75000 Per Month",
+        "age_limit": "Max: 69 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ddpdoo.gov.in/",
+        "official_notification": "https://ddpdoo.gov.in/storage/document/6a27e84fbf296.pdf"
+    },
+    {
+        "date": "09/06/2026",
         "board": "Assam Rifles Public School",
         "title": "Principal",
         "qualification": "Master's Degree (minimum 50% marks), B.Ed and CTET Qualified, with adequate computer knowledge. Minimum 5 to 8 years of teaching and administrative experience.",

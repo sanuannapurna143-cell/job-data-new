@@ -1,6 +1,22 @@
 [
     {
         "date": "09/06/2026",
+        "board": "AIIMS Jodhpur",
+        "title": "Non-Academic Junior Resident (Medical)",
+        "qualification": "MBBS from NMC recognized Institute",
+        "last_date": "22-06-2026",
+        "total_posts": "32",
+        "salary": "Rs. 15,600-39,100 + 5,400 (Grade Pay) + NPA Plus other usual allowance or revised pay scale as per 7th CPC as applicable (Level – 10 of the Matrix (Pre-revised PB-3, entry pay of the ₹ 56,100/- PM + usual allowance admissible under rules). NPA only for medical candidates.",
+        "age_limit": "Maximum Age Limit: 30 years || Age Relaxation: SC/ST: 5 years, OBC: 3 years, PwBD General: 10 years, PwBD OBC: 13 years, PwBD SC/ST: 15 years",
+        "application_fee": "Not Available",
+        "selection_process": "MCQ based written examination || Academic Record || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsjodhpur.edu.in",
+        "official_notification": "https://rec.aiimsjodhpur.edu.in/JR/2026/medical/JR_2026_1/PDF/Final%20Advt.%20for%20JR.pdf"
+    },
+    {
+        "date": "09/06/2026",
         "board": "BITS Pilani",
         "title": "Junior Research Fellow/ Project Associate - I",
         "qualification": "M.Sc/M.E/M.Tech (or) equivalent, B.E/B.Tech candidates with significant experience in research or industry +GATE/NET qualified",

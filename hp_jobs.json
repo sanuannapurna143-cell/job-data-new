@@ -1,6 +1,22 @@
 [
     {
         "date": "09/06/2026",
+        "board": "IIT Mandi",
+        "title": "Principal",
+        "qualification": "Master's Degree with B.Ed.",
+        "last_date": "15-06-2026",
+        "total_posts": "1",
+        "salary": "Indicative Salary: Rs. 65000 || Campus accommodation and other institutional facilities may be considered subject to availability and applicable rules.",
+        "age_limit": "Preferably below 50 years as on the closing date of application. || Relaxation in age and experience may be considered for exceptional candidates.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Selection process in-person on 22/06/2026",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitmandi.ac.in",
+        "official_notification": "https://www.iitmandi.ac.in/recruitment/Advertisement_for_the_Principal_IIT%20Mandi_Campus_School.pdf"
+    },
+    {
+        "date": "09/06/2026",
         "board": "Hamirpur District",
         "title": "Tehsildar",
         "qualification": "Must have rendered minimum 5 years services in any wing of revenue Department of HP and having no departmental/disciplinary proceeding pending against them.",

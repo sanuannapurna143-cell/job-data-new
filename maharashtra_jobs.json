@@ -1,6 +1,22 @@
 [
     {
         "date": "09/06/2026",
+        "board": "NMMC",
+        "title": "Specialist Doctor – 39 Posts",
+        "qualification": "Based on qualification, MMC registration validity, and experience",
+        "last_date": "19-06-2026",
+        "total_posts": "39",
+        "salary": "Consultants are not appointed on a fixed monthly salary. Payment is strictly on a per-visit basis as fixed by the Government of Maharashtra under NUHM: || Per Visit Honorarium: Rs. 2,000 || Per Patient Checking Charges: Rs. 100 per patient || Payment will be made on a per-visit basis as per government-fixed rates. || Example : A Physician visiting once per week and seeing 10 patients earns ₹2,000 (visit fee) + ₹1,000 (10 × ₹100) = ₹3,000 per visit. Monthly income depends on number of visits and patients attended.",
+        "age_limit": "Age limit is not explicitly stated in the notification. Candidates are advised to contact NMMC Health Department at 27567261 / 27567355 for clarification.",
+        "application_fee": "No application fee has been mentioned in the official notification.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nmmc.gov.in",
+        "official_notification": "https://app.nmmconline.in/backend/common/api/file/previewV1?filePath=_09-06-2026-11-25-03_Polyclinic%20%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%20%E0%A4%89%E0%A4%AA%E0%A4%B2%E0%A4%AC%E0%A5%8D%E0%A4%A7%20%E0%A4%95%E0%A4%B0%E0%A5%81%E0%A4%A8%20%E0%A4%98%E0%A5%87%E0%A4%A3%E0%A5%87%E0%A4%95%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A4%BE%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%A4%E0%A4%9C%E0%A5%8D%E0%A4%9E%20%E0%A4%A1%E0%A5%89%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A1%E0%A5%81%E0%A4%A8%20%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%9C%20%E0%A4%AE%E0%A4%BE%E0%A4%97%E0%A4%B5%E0%A4%BF%E0%A4%A3%E0%A5%87%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A4%A4..pdf&type=1"
+    },
+    {
+        "date": "09/06/2026",
         "board": "ECIL",
         "title": "Project Engineer on Contract (PE-C), Technical Officer on Contract (TO-C), Assistant Project Engineer on Contract (APE-C), Senior Artisan on Contract (SA-C)",
         "qualification": "Document Verification + Personal Interview (merit-based: Qualification 20% + Experience 30% + Interview 50%)",
@@ -218,7 +234,7 @@
         "age_limit": "56 years as on closing date of receipt of applications",
         "application_fee": "NIL (No application fee)",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://img2.freejobalert.com/news/2026/06/85230-6a23fd147125f49956121.pdf"
@@ -538,7 +554,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rcfltd.com",
         "official_notification": "https://www.rcfltd.com/files/Hon%20Doctors%20and%20Panel%20Doctors%20Advtg.pdf"
@@ -554,7 +570,7 @@
         "age_limit": "Candidate should be less than 35 years of age as on the date of advertisement (02 June 2026) and should be in good health. There will be no relaxation in any qualification or experience.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://mumbaiport.gov.in/WriteReadData/RTF1984/1780461366.pdf"
@@ -794,7 +810,7 @@
         "age_limit": "Not more than 40 years as on the last date of application. Age relaxation may be considered for candidates having higher qualification and/or experience with the prior approval of the competent authority.",
         "application_fee": "Not Available",
         "selection_process": "Selection will be done through Walk-in Interview. Candidates must bring duly filled application form along with all original documents and one set of self-attested photocopies.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iiserpune.ac.in",
         "official_notification": "https://www.iiserpune.ac.in/storage/recruitment/job-posts/1258/documents/30895463-5f7e-4aa9-880d-2dfbba4b13db.pdf"
@@ -1258,7 +1274,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://tifr.res.in",
         "official_notification": "https://www.tifr.res.in/maincampus/viewNoticeFile.php?f=ejUrZ0VrcXNIa0N3NnlLeHZBeGVkdz09&s=WFdXaTkwL1ZDTGdxaHp6eHA1bkh1QT09"

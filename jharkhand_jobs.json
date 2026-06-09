@@ -1,6 +1,22 @@
 [
     {
         "date": "09/06/2026",
+        "board": "ECHS Ranchi",
+        "title": "Various Medical, Para Medical & Non Medical Staff",
+        "qualification": "Graduate, Minimum 05 yrs wk experience in Health Care Institutions or Managerial positions, MD/MS in speciality concerned/DNB Min 03 yrs in Speciality after post Graduation, MBBS Min 03 yrs wk experience after internship, Diploma cert/Equivalent in IT Networking Computer application, B.Sc(Medical Lab Technology) or Matriculation/Higher Secondary/Senior Secondary(10+2) with Science and Diploma in Medical Lab Technology, Diploma Holder in Dental Hygienist/Class-1DH/DORA Course(Armed Forces), GNM Diploma/C-II Nursing Assistants Course (Armed Forces), B Pharmacy & Diploma in Pharmacy, Graduate/ Class-1 clerical trade(Armed forces), Education-8th Class-I M1 driver (Armed forces) with civil driving license, Literate",
+        "last_date": "04-07-2026",
+        "total_posts": "21",
+        "salary": "Rs. 95000/-pm, Rs. 1,30,000/pm, Rs.36500/-pm, Rs. 29200/-pm, Rs. 25600/-pm, Rs. 21800/-pm",
+        "age_limit": "OIC Polyclinic:Age up to 63 yrs (ESM only) || Med Specialist:Age up to 68 yrs || Med Offr:Age up to 66 yrs || IT Net WkTech:Age up to 56 yrs || Lab Tech:Age up to 56 yrs || Dental Hygienist Dental Assistant:Age up to 56 yrs || Nursing Assistant:Age up to 56 yrs || Pharmacist:Age up to 56 yrs || DEO/CIk:Age up to 53 yrs || Cik:Age up to 53 yrs || DEO:Age up to 53 yrs || Driver:Age up to 53 yrs || Female Attendant:Age up to 53 yrs",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.echs.gov.in",
+        "official_notification": "https://www.echs.gov.in/assets/advertisement/Publication%20of%20Advt_removed.pdf"
+    },
+    {
+        "date": "09/06/2026",
         "board": "SAIL BSL",
         "title": "Young Professional (YP) – Level 1, Level 2, Level 3",
         "qualification": "B.E./B.Tech (Regular/Full-time) in the relevant discipline from Govt. recognised University/Institution with minimum 65% marks. For Finance Consultant (YP-1): CA/CS/CMA. Distance/Correspondence mode NOT eligible.",
@@ -218,7 +234,7 @@
         "age_limit": "Name of the Post",
         "application_fee": "Fee must be paid only through Demand Draft and once remitted will not be refunded.",
         "selection_process": "The engagement shall be purely on contract basis for a period of 11 months or till regular appointments against the same posts are made, whichever is earlier, and does not confer any right for regularization. || Selection will be based on scrutiny of applications and interview/walk-in-interview as decided by AIIMS Deoghar. || No TA/DA will be paid for attending document verification or interview. || The appointee will be on whole-time appointment and shall not accept any other assignment or engage in private practice during the contract period. || The contract can be terminated at any time by either side by giving one month’s notice or paying one month’s salary without assigning any reason. || The appointee will not be entitled to benefits like Provident Fund, Pension, Gratuity, Medical Attendance, Seniority, Promotion etc. available to regular Government servants.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.aiimsdeoghar.edu.in/",
         "official_notification": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/non_faculty_contractual_engagement_20052026035000492.pdf"
