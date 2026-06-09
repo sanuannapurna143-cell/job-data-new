@@ -112,38 +112,6 @@
         "official_notification": "https://jssc.jharkhand.gov.in/"
     },
     {
-        "date": "30/05/2026",
-        "board": "JUVNL",
-        "title": "Medical Consultant (Contract)",
-        "qualification": "MBBS degree from a recognized institution / University, Valid Registration number as a medical practitioner",
-        "last_date": "08-06-2026",
-        "total_posts": "1",
-        "salary": "As per Finance Department, Govt. of Jharkhand Resolution No. 928 dated 06.04.2022 (duly adopted in Nigam vide notification no. 468 dated 08.05.2026)",
-        "age_limit": "Maximum Age Limit: 65 years",
-        "application_fee": "Nil",
-        "selection_process": "Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://jbvnl.co.in",
-        "official_notification": "https://jbvnl.co.in/notice/careers/Job%20Contract%20Notice%20No.%20012026250526.pdf"
-    },
-    {
-        "date": "27/05/2026",
-        "board": "CBI",
-        "title": "Special Public Prosecutor",
-        "qualification": "LLB",
-        "last_date": "08-06-2026",
-        "total_posts": "1",
-        "salary": "Please refer to the official notification for salary details.",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://cbi.gov.in",
-        "official_notification": "https://cbi.gov.in/assets/files/vacancy/1918699915Revised%20Advertisement_compressed.pdf"
-    },
-    {
         "date": "27/05/2026",
         "board": "EMRS Pakur",
         "title": "Guest Teacher",
@@ -234,7 +202,7 @@
         "age_limit": "Name of the Post",
         "application_fee": "Fee must be paid only through Demand Draft and once remitted will not be refunded.",
         "selection_process": "The engagement shall be purely on contract basis for a period of 11 months or till regular appointments against the same posts are made, whichever is earlier, and does not confer any right for regularization. || Selection will be based on scrutiny of applications and interview/walk-in-interview as decided by AIIMS Deoghar. || No TA/DA will be paid for attending document verification or interview. || The appointee will be on whole-time appointment and shall not accept any other assignment or engage in private practice during the contract period. || The contract can be terminated at any time by either side by giving one month’s notice or paying one month’s salary without assigning any reason. || The appointee will not be entitled to benefits like Provident Fund, Pension, Gratuity, Medical Attendance, Seniority, Promotion etc. available to regular Government servants.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.aiimsdeoghar.edu.in/",
         "official_notification": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/non_faculty_contractual_engagement_20052026035000492.pdf"

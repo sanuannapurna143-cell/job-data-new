@@ -1,5 +1,21 @@
 [
     {
+        "date": "09/06/2026",
+        "board": "Assam Rifles Public School",
+        "title": "Principal",
+        "qualification": "Master's Degree (minimum 50% marks), B.Ed and CTET Qualified, with adequate computer knowledge. Minimum 5 to 8 years of teaching and administrative experience.",
+        "last_date": "13-06-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Good Pay Scale",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.assamrifles.gov.in/",
+        "official_notification": "https://www.assamrifles.gov.in/news-pdf-viewer/5659"
+    },
+    {
         "date": "29/05/2026",
         "board": "District & Sessions Judge West Jaintia Hills",
         "title": "Various Posts",
@@ -14,22 +30,6 @@
         "syllabus": "Not Available",
         "official_website": "https://jowai.dcourts.gov.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0430192e936ba11d0a202097fed8f4/uploads/2026/05/2026052932.pdf"
-    },
-    {
-        "date": "26/05/2026",
-        "board": "NEIGRIHMS",
-        "title": "Junior Resident Doctors",
-        "qualification": "Medical qualification included in the Schedule – I & II of the 3rd Schedule of the Indian Medical Council Act 1956.",
-        "last_date": "08-06-2026",
-        "total_posts": "24",
-        "salary": "Level 10 of Pay Matrix with entry pay of Rs.56,100/- plus NPA and other allowances as admissible under rules. || The consolidated salary is Rs. 56100 Per Month.",
-        "age_limit": "Maximum Age Limit: 30 years || Age relaxation for SC/ST candidates is up to 5 years. || Age relaxation for OBC candidates is up to 3 years. || Age relaxation for physically handicapped candidates will be provided as per Govt. of India Norms.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.neigrihms.gov.in",
-        "official_notification": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Rolling%20Advertisement%20for%20recruitment%20of%20Junior%20Resident%20Doctor%20(4th%20Cut-Off%20date).pdf"
     },
     {
         "date": "26/05/2026",
@@ -78,21 +78,5 @@
         "syllabus": "Not Available",
         "official_website": "https://neigrihms.gov.in",
         "official_notification": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Advertisement%20for%20the%20post%20of%20Executive%20Engineer%20(Civil)%20-%20Detailed%20Advertisement.pdf"
-    },
-    {
-        "date": "28/03/2026",
-        "board": "Assam Rifles",
-        "title": "General Duty Medical Officer (GDMO)",
-        "qualification": "MBBS with compulsory rotary internship and registered in State/ National Medical Council.",
-        "last_date": "08-06-2026",
-        "total_posts": "12",
-        "salary": "Rs. 75,000/- per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.assamrifles.gov.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/03/23852-69c7ab953a7dd91711704.pdf"
     }
 ]
