@@ -1,6 +1,38 @@
 [
     {
         "date": "10/06/2026",
+        "board": "PSSSB",
+        "title": "Assistant District Attorney (Sahayak Zila Attorney)",
+        "qualification": "Persons who possess a degree of Bachelor of Law (Professional Degree) of a recognised university or institution, OR who are Barristers of England or Ireland, OR are members of Faculty of Advocates of Scotland, and are eligible for being enrolled as an Advocate under the Advocates Act, 1961, and who have two years of experience of practice at the Bar.",
+        "last_date": "14-06-2026",
+        "total_posts": "170",
+        "salary": "₹35,400/- (as per 7th Central Pay Commission)",
+        "age_limit": "Age Limit",
+        "application_fee": "₹1,500/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sssb.punjab.gov.in/",
+        "official_notification": "https://sssb.punjab.gov.in/wp-content/uploads/2026/04/Advt.-No.-09-of-2026.pdf"
+    },
+    {
+        "date": "10/06/2026",
+        "board": "BFUHS",
+        "title": "Lecturer/Assistant Professor",
+        "qualification": "M. Sc (Audiology) / M. Sc (Speech Language Pathology) / MASLP / M. Sc (Speech and Hearing) or equivalent with 2 years teaching experience, 5 publications, RCI registration",
+        "last_date": "29-06-2026",
+        "total_posts": "4",
+        "salary": "Pay level-10",
+        "age_limit": "Maximum Age Limit: 40 years as on 01-01-2026. || Age relaxation is applicable as per Punjab Govt. Rules. || 10 years relaxation for in-service candidates. || Additional relaxation for existing staff as per High Court order.",
+        "application_fee": "Rs. 2360/-",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "www.bfuhs.ac.in",
+        "official_notification": "https://recruitment.ggsmch.org/form_26_19_speech_audiology_slp/"
+    },
+    {
+        "date": "10/06/2026",
         "board": "BFUHS",
         "title": "Ombudsperson",
         "qualification": "Retired Vice-Chancellor or retired Professor (with 10 years experience as Professor at State/Central Universities/Institutions of National Importance/Deemed Universities) or former District Judge.",

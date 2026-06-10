@@ -1,6 +1,38 @@
 [
     {
         "date": "10/06/2026",
+        "board": "Gurugram University",
+        "title": "Assistant Professor",
+        "qualification": "Master's degree with 55% marks and NET/SLET/SET or Ph.D.",
+        "last_date": "25-06-2026",
+        "total_posts": "17",
+        "salary": "Consolidated fixed remuneration of Rs. 57700/- per month.",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 55 years || Age relaxation is applicable as per rules. Specific relaxations include 5% for SC/ST/OBC (Non-creamy Layer)/PwBD (Haryana) and 5% for Ph.D. Degree holders (Master's Degree prior to 19 Sept, 1991).",
+        "application_fee": "50% of the applicable fee",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.gurugramuniversity.ac.in",
+        "official_notification": "https://gurugramuniversity.ac.in/Notice/Recruitment%20Notice.pdf"
+    },
+    {
+        "date": "10/06/2026",
+        "board": "NIT Kurukshetra",
+        "title": "Driver",
+        "qualification": "Matriculation or ITI pass in relevant subject/area, valid driving license for LMV/HMV, knowledge of motor mechanism, and at least 3 years of driving experience.",
+        "last_date": "16-06-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Not Available",
+        "age_limit": "Not exceeding 57 years of age at the time of engagement.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitkkr.ac.in/",
+        "official_notification": "https://nitkkr.ac.in/wp-content/uploads/2026/06/Appointment-of-Driver.pdf"
+    },
+    {
+        "date": "10/06/2026",
         "board": "Punjab and Haryana High Court",
         "title": "Safai Sewak (Sweeper) and Mali (Gardener)",
         "qualification": "Knowledge of Hindi and regional language",

@@ -1,6 +1,38 @@
 [
     {
         "date": "10/06/2026",
+        "board": "Collector's Office Pudukkottai",
+        "title": "Law Officer",
+        "qualification": "Advocate with not less than 7 years standing at the Bar for Public Prosecutor/Additional Public Prosecutor and not less than 10 years for Special Public Prosecutor",
+        "last_date": "30-06-2026",
+        "total_posts": "31",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Panel of names of advocates",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://pudukkottai.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s342e7aaa88b48137a16a1acd04ed91125/uploads/2026/06/17810736752122.pdf"
+    },
+    {
+        "date": "10/06/2026",
+        "board": "Pudukkottai District",
+        "title": "Project Coordinator (PCO) and Accountant",
+        "qualification": "MSW/MA (Sociology)/MSC (Psychology), B.Com/M.Com",
+        "last_date": "25-06-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Project Coordinator (PCO): Rs. 12500/- + TA 1000/- || Accountant: Rs. 10000/- + TA 1500/-",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://pudukkottai.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s342e7aaa88b48137a16a1acd04ed91125/uploads/2026/06/17809967105996.pdf"
+    },
+    {
+        "date": "10/06/2026",
         "board": "Ariyalur District Court",
         "title": "Law Officer",
         "qualification": "Advocate with not less than 7 years practice in Tamil Nadu Courts, Advocate with not less than 10 years practice in Tamil Nadu Courts for Special Public Prosecutor posts",

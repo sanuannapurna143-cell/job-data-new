@@ -1,6 +1,22 @@
 [
     {
         "date": "10/06/2026",
+        "board": "MANIT Bhopal",
+        "title": "JRF",
+        "qualification": "Post Graduation Degree in Basic Sciences OR Graduation Degree in Professional Courses (Engineering)",
+        "last_date": "15-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20000 Per Month",
+        "age_limit": "Maximum Age: 30 years",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.manit.ac.in",
+        "official_notification": "https://www.manit.ac.in/sites/default/files/documents/MME-Website-JRF.pdf"
+    },
+    {
+        "date": "10/06/2026",
         "board": "ICFRE-TFRI",
         "title": "JRF, Project Assistant and More",
         "qualification": "Ph. D., Post Graduation, Graduation in relevant fields",
