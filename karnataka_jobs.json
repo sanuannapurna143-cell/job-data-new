@@ -1,6 +1,38 @@
 [
     {
         "date": "10/06/2026",
+        "board": "BEL",
+        "title": "Jr. Supervisor (Security) / Havildar (Security)",
+        "qualification": "SSLC (Pass)",
+        "last_date": "01-07-2026",
+        "total_posts": "14",
+        "salary": "Jr. Supervisor (Security): WG-VII/CP-V/ 24,500-3%-90,000 || Havildar (Security): WG-III / CP-III/ 20,500 -3% - 79,000",
+        "age_limit": "Maximum Age Limit: 43 years. || Age Relaxation: OBC (NCL) 3 years, SC/ST 5 years.",
+        "application_fee": "Nil",
+        "selection_process": "Physical Endurance Test || Written Test",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://bel-india.in",
+        "official_notification": "https://bel-india.in/wp-content/uploads/2026/06/Havildar-Security-Advt-English-.pdf"
+    },
+    {
+        "date": "10/06/2026",
+        "board": "NIMHANS",
+        "title": "Programme Co-ordinator (Psychiatry), Senior Statistician, Statistician",
+        "qualification": "MD/DNB in Psychiatry, MSc/PhD in Biostatistics/Statistics",
+        "last_date": "22-06-2026",
+        "total_posts": "4",
+        "salary": "Programme Co-ordinator (Psychiatry) (Senior Resident Equivalent):Rs.1,25,000/- (without post-MD experience); Rs.1,35,000/- (having one year or more post-MD academic experience) || Senior Statistician:Rs.70,000/- Consolidated || Statistician:Rs.65,000/- Consolidated",
+        "age_limit": "All Posts: Maximum 35 years",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in-cum-Written Test || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nimhans.ac.in/",
+        "official_notification": "https://nimhansbkt.demo-appiness.com/prodnimhans/documents/announcements/7ec38fa070844400be1e35f79d56d69a.pdf"
+    },
+    {
+        "date": "10/06/2026",
         "board": "BMRCL",
         "title": "Deputy Chief Engineer (Lift & Escalator)",
         "qualification": "BE/ B. Tech in Mechanical/ Electrical/ Electrical & Electronics Engg.",

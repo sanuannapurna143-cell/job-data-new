@@ -1,6 +1,22 @@
 [
     {
         "date": "10/06/2026",
+        "board": "District Court Chamba",
+        "title": "Clerks",
+        "qualification": "Any Graduate",
+        "last_date": "25-06-2026",
+        "total_posts": "4",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://district.ecourts.gov.in/chamba",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec03946e3ece1fc8b24bd656449d88ec/uploads/2026/06/2026060961.pdf"
+    },
+    {
+        "date": "10/06/2026",
         "board": "Himachal Pradesh Jal Shakti Vibhag",
         "title": "Para Pump Operator, Multipurpose Worker and More",
         "qualification": "Middle (8th) Pass, Matriculation (10th) with ITI certificate in electrician/wireman/diesel mechanic/pump mechanic/motor mechanic/pump operator cum mechanic, Matriculation (10th) with ITI certificate in Fitter/Plumber",

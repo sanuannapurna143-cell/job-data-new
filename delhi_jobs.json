@@ -1,6 +1,38 @@
 [
     {
         "date": "10/06/2026",
+        "board": "DRDO DESIDOC",
+        "title": "Apprentice – 20 Posts",
+        "qualification": "Bachelor of Engineering in Computer Science or Three-year Diploma in Computer Science from a recognised university/institute",
+        "last_date": "01-07-2026",
+        "total_posts": "20",
+        "salary": "Apprentices will receive a monthly stipend - ₹12,300 per month for graduates and B.E. holders, and ₹10,900 per month for diploma and ITI holders. This is not a salary; completion of training does not confer any right to employment or appointment in DESIDOC or DRDO.",
+        "age_limit": "The upper age limit is 28 years as on the date of written test/interview. Relaxation of five years is available for SC/ST candidates and three years for OBC candidates.",
+        "application_fee": "The notification does not mention any application fee. No fee details have been stated for any category.",
+        "selection_process": "Candidates will first be shortlisted on merit (percentage/marks in the essential qualification). Shortlisted candidates will then appear for a written test and/or interview . The selection mode may be modified based on organisational requirements. A Selection Board constituted by the Director, DESIDOC will scrutinise all applications and select candidates. Only selected candidates will be informed via offer letter or email. || Shortlisted candidates must bring all original certificates at the time of document verification/interview. No TA/DA will be paid for attending any stage of the selection process.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDESIDOC10062026.pdf"
+    },
+    {
+        "date": "10/06/2026",
+        "board": "IIT Delhi",
+        "title": "Deepak Raghavan Research Fellow",
+        "qualification": "Bachelor's (4 years) and Master's (ME or M.Tech) with 75% or above in both UG & PG, in following streams only: Mechanical Engg., Production Engg., Applied Mechanics, Instrumentation Engg., Applied Phys., or related. Experience in SLA 3D printing or photolithography/cleanroom. Valid GATE score must for ME/M.Tech. degree holders. Alternatively, B.Tech. from NITs/IITs with CGPA 8.5 or above in any of the above disciplines",
+        "last_date": "22-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 41000 - 50000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in/",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1781004108470_n3zwav6.pdf"
+    },
+    {
+        "date": "10/06/2026",
         "board": "NCRTC",
         "title": "Assistant Manager/ Telecom",
         "qualification": "B.E./ B. Tech. in Electronics Engineering (EE)/ Electronics & Communication Engineering (ECE)/ Electrical & Electronics Engineering (EEE)/ Electronics & Telecommunication Engineering (ETE) or its equivalent (Full Time). Minimum 05 years of post-qualification experience.",

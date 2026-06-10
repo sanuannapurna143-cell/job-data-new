@@ -1,6 +1,22 @@
 [
     {
         "date": "10/06/2026",
+        "board": "CMD Kerala",
+        "title": "Content Developer",
+        "qualification": "Degree in any subject with Diploma in Journalism/Public Relations/Mass Communication OR A recognized Degree in Journalism/Public Relations/ Mass Communication. Working knowledge in Computers especially in MS Office.",
+        "last_date": "24-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30000 Per Month",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cmd.kerala.gov.in",
+        "official_notification": "https://cmd.kerala.gov.in/wp-content/uploads/2026/06/Content-Developer-Notification-Revised.pdf"
+    },
+    {
+        "date": "10/06/2026",
         "board": "KRL",
         "title": "General Manager - Technical",
         "qualification": "Master's degree in chemistry or Polymer Chemistry or Polymer/Rubber Technology or Chemical Engineering",
@@ -189,7 +205,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "psssb-ada-recruitment-2026-apply-online-for-170-assistant-district-attorney-posts-3046627"
+        "official_notification": "Not Available"
     },
     {
         "date": "03/06/2026",
