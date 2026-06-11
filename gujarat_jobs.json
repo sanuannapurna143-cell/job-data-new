@@ -1,6 +1,22 @@
 [
     {
         "date": "11/06/2026",
+        "board": "SVNIT",
+        "title": "Teaching Assistant",
+        "qualification": "M.A. in English with First Class or equivalent CGPA, M.S.W. or Master’s Degree in Human Resources, Psychology, or Sociology with First Class or equivalent CGPA, Ph.D. in appropriate branch (preferred)",
+        "last_date": "29-06-2026",
+        "total_posts": "5",
+        "salary": "Rs. 45,000/- (Master’s Degree) or Rs. 60,000/- (Ph.D.)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Document Verification || Written Test || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.svnit.ac.in",
+        "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/June/Advertisement%20-%20Walk-in-Interview%20for%20the%20Post%20of%20Teaching%20Assistant%20in%20DoHSS.pdf"
+    },
+    {
+        "date": "11/06/2026",
         "board": "NFSU",
         "title": "Library Apprentice/Trainee",
         "qualification": "Master's Degree in Library and Information Science (MLISc)",
