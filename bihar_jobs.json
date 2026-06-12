@@ -1,6 +1,22 @@
 [
     {
         "date": "12/06/2026",
+        "board": "ESIC Model Hospital Phulwarisharif",
+        "title": "Specialists",
+        "qualification": "PG Degree/Diploma in concerned Specialty and registered with Medical Council of India.",
+        "last_date": "19-06-2026",
+        "total_posts": "5",
+        "salary": "Junior Specialist:Remuneration as per ESIC Hqrs. Office Letter No. OM Z-11012/51/2022-MED-VI dated 08.12.2022 || Senior Specialist:Remuneration as per ESIC Hqrs. Office Letter No. OM Z-11012/51/2022-MED-VI dated 08.12.2022 || Part Time Specialists:Fixed Remuneration (For 16hr/week): Rs. 60000, Visiting Charge in case of emergency call: Rs. 15000, Additional Remuneration above 16hr/week: Rs. 800/hr",
+        "age_limit": "Junior Specialist: Maximum Age 67 years || Senior Specialist: Maximum Age 67 years || Part Time Specialists: Maximum Age 67 years",
+        "application_fee": "Exempted",
+        "selection_process": "Walk-in-Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/HIRING_SERVICES_OF_SPECIALISTS_PT_FT_THROUGH_WALK_ININTERVIEW_ON_CONTRACTUAL_BASIS_IN_ESIC_MODEL_HOSPITAL_PHULWARISHARIF_PATNA_1781154820.pdf"
+    },
+    {
+        "date": "12/06/2026",
         "board": "Siwan District Court",
         "title": "Temporary Attender",
         "qualification": "12th Pass",

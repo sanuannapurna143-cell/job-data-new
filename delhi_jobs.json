@@ -1,6 +1,38 @@
 [
     {
         "date": "12/06/2026",
+        "board": "NTPC",
+        "title": "Senior Executive and Executive",
+        "qualification": "Degree in Engineering, MBA is added advantage. Specific experience required for each post.",
+        "last_date": "26-06-2026",
+        "total_posts": "4",
+        "salary": "Rs. 1,90,000/- (Posts A&B), Rs. 1,50,000/- (Posts C&D)",
+        "age_limit": "Senior Executive (Material & Supply Chain Management): Maximum Age 55 Years || Senior Executive (Green Chemical): Maximum Age 55 Years || Executive (Regulatory Affairs-Nuclear): Maximum Age 50 Years || Executive (Engineering-Nuclear): Maximum Age 50 Years",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Application shortlisting/screening || Written/computer-based test || Personal interview || Combination of the above",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ntpc.co.in",
+        "official_notification": "https://careers.ntpc.co.in/recruitment/pdf_viewer.php?token=ZWE3S3dLVnMzbVNtYmV1RzVPUkJ2TUJ6T0FjMFQ2a2lWMmxRZ3ZJenl5blRRUm0xU2RiL3lzSHVrNHBtdm01OTFPY2gwQ0hkS3lwV3crcjNWUlROVHNsQkY1aGhjOXZqZ0tLTUJNV2ZtR1U9OjpYK3ZOeVFvcFkvMm5WVVJBVFpKbStnPT0%3D"
+    },
+    {
+        "date": "12/06/2026",
+        "board": "DRDO DESIDOC",
+        "title": "Apprentice – 20 Posts",
+        "qualification": "Bachelor of Engineering in Computer Science or Three-year Diploma in Computer Science from a recognised university/institute",
+        "last_date": "01-07-2026",
+        "total_posts": "20",
+        "salary": "Apprentices will receive a monthly stipend - ₹12,300 per month for graduates and B.E. holders, and ₹10,900 per month for diploma and ITI holders. This is not a salary; completion of training does not confer any right to employment or appointment in DESIDOC or DRDO.",
+        "age_limit": "The upper age limit is 28 years as on the date of written test/interview. Relaxation of five years is available for SC/ST candidates and three years for OBC candidates.",
+        "application_fee": "The notification does not mention any application fee. No fee details have been stated for any category.",
+        "selection_process": "Candidates will first be shortlisted on merit (percentage/marks in the essential qualification). Shortlisted candidates will then appear for a written test and/or interview . The selection mode may be modified based on organisational requirements. A Selection Board constituted by the Director, DESIDOC will scrutinise all applications and select candidates. Only selected candidates will be informed via offer letter or email. || Shortlisted candidates must bring all original certificates at the time of document verification/interview. No TA/DA will be paid for attending any stage of the selection process.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDESIDOC10062026.pdf"
+    },
+    {
+        "date": "12/06/2026",
         "board": "IIT Delhi",
         "title": "Project Appointment",
         "qualification": "M.Phil/ Ph.D, MBA/ PGDM, Any Graduate",
@@ -305,22 +337,6 @@
     },
     {
         "date": "10/06/2026",
-        "board": "DRDO DESIDOC",
-        "title": "Apprentice – 20 Posts",
-        "qualification": "Bachelor of Engineering in Computer Science or Three-year Diploma in Computer Science from a recognised university/institute",
-        "last_date": "01-07-2026",
-        "total_posts": "20",
-        "salary": "Apprentices will receive a monthly stipend - ₹12,300 per month for graduates and B.E. holders, and ₹10,900 per month for diploma and ITI holders. This is not a salary; completion of training does not confer any right to employment or appointment in DESIDOC or DRDO.",
-        "age_limit": "The upper age limit is 28 years as on the date of written test/interview. Relaxation of five years is available for SC/ST candidates and three years for OBC candidates.",
-        "application_fee": "The notification does not mention any application fee. No fee details have been stated for any category.",
-        "selection_process": "Candidates will first be shortlisted on merit (percentage/marks in the essential qualification). Shortlisted candidates will then appear for a written test and/or interview . The selection mode may be modified based on organisational requirements. A Selection Board constituted by the Director, DESIDOC will scrutinise all applications and select candidates. Only selected candidates will be informed via offer letter or email. || Shortlisted candidates must bring all original certificates at the time of document verification/interview. No TA/DA will be paid for attending any stage of the selection process.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDESIDOC10062026.pdf"
-    },
-    {
-        "date": "10/06/2026",
         "board": "IIT Delhi",
         "title": "Deepak Raghavan Research Fellow",
         "qualification": "Bachelor's (4 years) and Master's (ME or M.Tech) with 75% or above in both UG & PG, in following streams only: Mechanical Engg., Production Engg., Applied Mechanics, Instrumentation Engg., Applied Phys., or related. Experience in SLA 3D printing or photolithography/cleanroom. Valid GATE score must for ME/M.Tech. degree holders. Alternatively, B.Tech. from NITs/IITs with CGPA 8.5 or above in any of the above disciplines",
@@ -378,7 +394,7 @@
         "age_limit": "Age relaxation for reserved category candidates will be as per Government of India directives. Internal TCIL candidates are eligible for an additional 1 year of age relaxation over and above the standard limits.",
         "application_fee": "Not Available",
         "selection_process": "TCIL will conduct a personal Interview as the mode of selection for all posts. There is no written examination. TCIL reserves the right to modify the selection procedure, shortlist candidates for interview, and is not bound to call every eligible applicant. The organization also reserves the right to increase, decrease, or cancel the number of vacancies at any stage of the process. || Realistic Timeline: After the last date of 30 June 2026, shortlisted candidates can expect interview calls typically within 4–8 weeks, subject to TCIL's internal scheduling.",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://www.tcil.net.in/",
         "official_notification": "https://www.tcil.net.in/docs/career/10062026a.pdf"
@@ -490,7 +506,7 @@
         "age_limit": "As per upper age limit specified for each post (33 years for PE-C; 30 years for TO-C, APE-C, SA-C)",
         "application_fee": "No application fee mentioned",
         "selection_process": "Selection is through Walk-in mode. Candidates will be evaluated through Document Verification followed by Personal Interview. Final recommendations will be made on merit based on the following criteria: || Candidates will be allowed to register only after successful document verification. Candidates must report at the respective zonal venue with their duly filled application form, resume, original certificates, and one set of self-attested photocopies. Registration is strictly between 09:00 hrs and 11:30 hrs; late arrivals will not be entertained.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.ecil.co.in/jobs/Advt_09_2026.pdf"
@@ -938,7 +954,7 @@
         "age_limit": "Age Limit / Relaxation",
         "application_fee": "NIL",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://vmmc-sjh.mohfw.gov.in/sites/default/files/Notice%20dated%2003.06.2026%20-%20Advertisement%20for%20the%20post%20of%20Junior%20Resident%20%28Non-PG%29%20MBBS%20on%20Adhoc%20basis.pdf"
@@ -986,7 +1002,7 @@
         "age_limit": "Persons with Benchmark Disability as defined under the Rights of Persons with Disabilities Act, 2016. 24 posts are horizontally reserved (including backlog vacancies) as per DOPT, Government of India rules. Relaxation in upper age limit as per Government of India rules.",
         "application_fee": "Rs. 65,000/- (Refundable without interest)",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://vmmc-sjh.mohfw.gov.in/sites/default/files/Notice%20dated%2003.06.2026%20-%20Advertisement%20for%20the%20post%20of%20Senior%20Resident%20on%20Adhoc%20basis.pdf"
@@ -1290,7 +1306,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3d51b416788b6ee70eb0c381c06efc9f1/uploads/2026/06/20260602123384032.pdf"
@@ -1386,7 +1402,7 @@
         "age_limit": "Age limit for all posts/trades is between 18 to 27 years as on 01 Jun 2026. Age relaxation is applicable as per Government of India guidelines for various categories. Government servants get relaxation up to 40 years (UR) and 45 years (SC/ST). PwBD candidates get 10 years relaxation in upper age limit.",
         "application_fee": "Candidates must pay the non-refundable application fee online through the SBI Collect portal only (https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=1232156) in favour of Commandant, GREF Centre, Pune-411 015. No other mode of payment will be accepted. A copy of the e-receipt must be attached with the application form.",
         "selection_process": "All candidates will undergo the recruitment process in the following sequence: (i) Written Examination, (ii) Physical Efficiency Test (PET) including physical measurements and Trade Test (TT) where applicable, (iii) Primary Medical Examination (PME) and Document Verification (DV), and (iv) Induction/Joining. The PET and TT are qualifying in nature - final merit is based solely on written exam marks, subject to qualifying PET, TT, and clearing PME. Minimum passing marks in written exam: 50% for UR/EWS/OBC; 40% for SC/ST. Trade test requires minimum 40% marks to qualify. || Physical Efficiency Test (PET): Candidate must complete 1.6 km (1 mile) run in 10 minutes. PwBD, ESM, Ex-Agniveers, and departmental re-appointment candidates are exempt from PET. || Physical Standards (Region-wise):",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
         "official_notification": "https://bro.gov.in/frontend/images/recruitments/recruitment_200526171410.pdf.pdf"
@@ -1466,7 +1482,7 @@
         "age_limit": "Maximum Age: 56 years as on the closing date of receipt of applications. || Departmental Candidates: BIS's own departmental candidates are not eligible to apply for deputation posts. || Place of Posting: BIS reserves the right to modify the number of posts and place of posting, and may transfer candidates across any BIS office in India as per organizational requirement.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://www.bis.gov.in/",
         "official_notification": "https://www.bis.gov.in/wp-content/uploads/2026/05/Advertisement-for-the-post-of-SO-on-deputation.pdf"
@@ -1594,7 +1610,7 @@
         "age_limit": "Maximum Age: Not exceeding 56 years as on the opening date of receipt of application. || Place of Posting: All-India basis at centres where SAI schemes are being implemented.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://sportsauthorityofindia.nic.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/05/85232-6a17cd1fe5a7817264434.pdf"
@@ -1658,7 +1674,7 @@
         "age_limit": "The maximum age limit for appointment on deputation shall not exceed 56 years as on the closing date of receipt of applications. No minimum age has been prescribed. Age relaxation provisions as per DoPT guidelines may apply.",
         "application_fee": "The notification does not mention any application fee for this deputation recruitment. Candidates should refer to the official notification on the CAT website for any updates before applying.",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://cgat.gov.in/",
         "official_notification": "https://ghconline.gov.in/Recruitment/Notification-26-05-2026.pdf"
@@ -1690,7 +1706,7 @@
         "age_limit": "Note: Total deputation period (including any preceding ex-cadre deputation immediately before this appointment) shall ordinarily not exceed three years.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://nclt.gov.in/",
         "official_notification": "https://nclt.gov.in/"
@@ -1770,7 +1786,7 @@
         "age_limit": "Age Limit",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://www.mea.gov.in",
         "official_notification": "https://www.mea.gov.in/Images/CPV/Vacancy-Circular-2205-RPO.pdf"
@@ -1946,7 +1962,7 @@
         "age_limit": "Not exceeding 50 years for Professor as on closing date of applications (27.07.2026 for most candidates).",
         "application_fee": "Application fee is payable via Demand Draft/Banker’s Cheque only, in favour of “ESI Fund Account No. 2” payable at Delhi. || Fee once paid will not be refunded in any circumstances and applications without the prescribed fee (where applicable) will be rejected without correspondence.",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://www.esic.gov.in",
         "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_recruitment_of_teaching_faculty_professors_in_ESIC_PGIMSRS_and_ESIC_medical_colleges_on_direct_recruitment_basis_2026_English_1779267434.pdf"
@@ -2106,7 +2122,7 @@
         "age_limit": "Upper Age Limit (as on 01-05-2026)",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.irctc.com",
         "official_notification": "https://www.irctc.com/assets/images2/NotificationContractualHospitalityMonitors13may26.pdf"
@@ -2170,7 +2186,7 @@
         "age_limit": "Age Limit",
         "application_fee": "NIL - No application fee prescribed for deputation",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://www.nia.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/05/785236-69f976a8f41c125496794.pdf"

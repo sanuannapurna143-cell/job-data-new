@@ -1,6 +1,38 @@
 [
     {
         "date": "12/06/2026",
+        "board": "DRDO LRDE",
+        "title": "Paid Internship – 75 Posts",
+        "qualification": "B.Tech/ B.E, M.Sc, M.E/ M.Tech",
+        "last_date": "01-07-2026",
+        "total_posts": "75",
+        "salary": "Note: No accommodation, transport, or transport allowance will be provided by LRDE during the internship period.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtLRDE12062026.pdf"
+    },
+    {
+        "date": "12/06/2026",
+        "board": "ISRO URSC",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "For positions JRF-E1 to JRF-E12, JRF-M1, JRF-M2, JRF-M3: M.E./M.Tech./M.Sc.(Engg.) or equivalent postgraduate degree in First Class with an aggregate minimum of 60% or CGPA/CPI of 6.5 on a 10-point scale . || For position JRF-E13 (M.Sc. route): M.Sc. in First Class with an aggregate minimum of 65% average of all semesters or CGPA/CPI of 6.84 on a 10-point scale . || For position JRF-E13 (M.Tech. route): M.Tech. or equivalent in First Class with an aggregate minimum of 60% or CGPA/CPI of 6.5 on a 10-point scale . || All degrees must be duly recognised by AICTE/UGC or any other organisation authorised by the Government of India. Essential qualifications must be completed within the stipulated duration of the course as prescribed by the university. Candidates who pursued professional courses through Open and Distance Learning (ODL) are not eligible to apply for JRF positions. || Where a university mentions both CGPA and percentage in its degree certificate or consolidated mark sheet, at least one criterion must meet DOS/ISRO eligibility norms. Conversion of CGPA into percentage of marks is not permitted to determine eligibility regardless of any conversion formula prescribed by the university. Rounding of percentage/CGPA is not allowed - values must be entered to the nearest 2 decimal places (e.g., 8.235 entered as 8.23; 8.236 as 8.24).",
+        "last_date": "01-07-2026",
+        "total_posts": "17",
+        "salary": "Not Available",
+        "age_limit": "The maximum age for all JRF positions is 28 years as on 11 July 2026 . Candidates wondering about age relaxation can note that SC/ST candidates get 5 years of relaxation and OBC candidates get 3 years. Additional relaxations as per Government of India orders apply to Ex-Servicemen, Persons with Benchmark Disabilities, Widows, Divorced Women, and Women judicially separated from their husbands and not remarried.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/June/Bilingual_Advt_for_JRF_11062026.pdf"
+    },
+    {
+        "date": "12/06/2026",
         "board": "HAL",
         "title": "Apprentices",
         "qualification": "Any Graduate, B.Tech/ B.E, Diploma",
@@ -10,7 +42,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Selection for HAL NATS Apprenticeship Training 2026 is based on merit on a first-come, first-served basis . There is no written examination. Selection is also subject to vacancy availability at the time of the walk-in. || Candidates report to the venue within the reporting window of 08:00 to 11:00 Hrs on their stream's designated date. || Document verification is carried out at the venue. || Selection is based on merit and is subject to vacancy.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "http://www.hal-india.co.in",
         "official_notification": "https://hal-india.co.in/backend//wp-content/uploads/career/Notification%20for%20Diploma%20Apprenticeship%20Training%202026%20Bangalore_1781059353.pdf"
@@ -46,22 +78,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iitdh.ac.in",
         "official_notification": "https://www.iitdh.ac.in/sites/default/files/2026-06/IIT%20Dharwad_Advt%20No.%2046.pdf"
-    },
-    {
-        "date": "12/06/2026",
-        "board": "ISRO URSC",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "For positions JRF-E1 to JRF-E12, JRF-M1, JRF-M2, JRF-M3: M.E./M.Tech./M.Sc.(Engg.) or equivalent postgraduate degree in First Class with an aggregate minimum of 60% or CGPA/CPI of 6.5 on a 10-point scale . || For position JRF-E13 (M.Sc. route): M.Sc. in First Class with an aggregate minimum of 65% average of all semesters or CGPA/CPI of 6.84 on a 10-point scale . || For position JRF-E13 (M.Tech. route): M.Tech. or equivalent in First Class with an aggregate minimum of 60% or CGPA/CPI of 6.5 on a 10-point scale . || All degrees must be duly recognised by AICTE/UGC or any other organisation authorised by the Government of India. Essential qualifications must be completed within the stipulated duration of the course as prescribed by the university. Candidates who pursued professional courses through Open and Distance Learning (ODL) are not eligible to apply for JRF positions. || Where a university mentions both CGPA and percentage in its degree certificate or consolidated mark sheet, at least one criterion must meet DOS/ISRO eligibility norms. Conversion of CGPA into percentage of marks is not permitted to determine eligibility regardless of any conversion formula prescribed by the university. Rounding of percentage/CGPA is not allowed - values must be entered to the nearest 2 decimal places (e.g., 8.235 entered as 8.23; 8.236 as 8.24).",
-        "last_date": "01-07-2026",
-        "total_posts": "17",
-        "salary": "Not Available",
-        "age_limit": "The maximum age for all JRF positions is 28 years as on 11 July 2026 . Candidates wondering about age relaxation can note that SC/ST candidates get 5 years of relaxation and OBC candidates get 3 years. Additional relaxations as per Government of India orders apply to Ex-Servicemen, Persons with Benchmark Disabilities, Widows, Divorced Women, and Women judicially separated from their husbands and not remarried.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/June/Bilingual_Advt_for_JRF_11062026.pdf"
     },
     {
         "date": "12/06/2026",
@@ -218,7 +234,7 @@
         "age_limit": "As on the date of this public notification, the candidate's minimum age must be 18 years and the maximum age must not exceed 50 years .",
         "application_fee": "Rs. 100 (fee receipt to be collected)",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "http://www.vijayapuracity.mrc.gov.in/sites/vijayapuracity.mrc.gov.in/files/Notification.pdf"
