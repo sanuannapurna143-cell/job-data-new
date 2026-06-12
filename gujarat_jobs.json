@@ -1,6 +1,54 @@
 [
     {
         "date": "12/06/2026",
+        "board": "AIIMS Rajkot",
+        "title": "Professor, Additional Professor, Associate Professor, Assistant Professor",
+        "qualification": "Master of Dental Surgery, MS/ MD, DM",
+        "last_date": "10-07-2026",
+        "total_posts": "86",
+        "salary": "*NPA (Non-Practising Allowance) applicable for medically qualified candidates only. After 3 years, Assistant Professors move to Level 13 (Basic ₹1,23,100).",
+        "age_limit": "Note: No age relaxation available to SC/ST/OBC/PwBD/EWS candidates applying for Unreserved (UR) vacancies.",
+        "application_fee": "Note: Application fee once paid will not be refunded under any circumstances. Payment must be made online only.",
+        "selection_process": "Application Scrutiny:All online applications are received and scrutinised by the Selection Committee of AIIMS Rajkot. Only eligible candidates are called for the next stage. || Shortlisting:If the vacancy-to-candidate ratio exceeds 1:10, the Selection Committee may shortlist on the basis of an objective screening score (Appendix 1 criteria). || Document Verification:Shortlisted candidates must produce original academic, experience, category, and registration certificates before the interview. || Personal Interview:Eligible candidates appear before the Standing Selection Committee at AIIMS Rajkot in person. Candidates must make a 5-minute PowerPoint presentation on their work and achievements. || Final Selection:The decision of the Competent Authority regarding selection is final and binding. || Note: Interview dates will be communicated via the official AIIMS Rajkot website and email only.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://aiimsrajkot.edu.in/api/files/Detailed%20Notification%20for%20Faculty%20Recruitment.pdf"
+    },
+    {
+        "date": "12/06/2026",
+        "board": "SVNIT Surat",
+        "title": "Urban Planner / Transport Planner",
+        "qualification": "B.E. / B.Tech. (Civil)/ B. Arch with M.E. / M.Tech / M.Plan (Urban Planning/ Urban Design/ Transport Planning/ Transportation Engineering & Planning / Highway & Transportation Engineering / Transportation Engineering), Any PG degree like MURP, M Design, Planning, MCP etc from reputed Institute",
+        "last_date": "23-06-2026",
+        "total_posts": "2",
+        "salary": "Urban Planner / Transport Planner: Rs. 40000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.svnit.ac.in/",
+        "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/June/Advertisement%20for%20Urban%20and%20Tranpsort%20Planner%20at%20DoCE.pdf"
+    },
+    {
+        "date": "12/06/2026",
+        "board": "GTU",
+        "title": "Assistant Professor",
+        "qualification": "Master's degree with 55% marks in Physics or allied subject, NET/SLET/SET or Ph.D. as per UGC regulations 2009/2016",
+        "last_date": "17-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 75000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.gtu.ac.in",
+        "official_notification": "https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/uploads/Employment%20Notice%2001.2026_848403.pdf"
+    },
+    {
+        "date": "12/06/2026",
         "board": "Central Bank of India",
         "title": "Apprentice – 4500 Posts",
         "qualification": "Candidates must hold a Degree (Graduation) in any discipline from a university recognized by the Government of India. Graduation must have been completed on or after January 1, 2022 . Mark sheets and provisional/degree certificates will be required at the time of verification.",
@@ -365,7 +413,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "cmho-korea-recruitment-2026-apply-online-for-140-community-health-officer-cleaner-and-more-posts-3053794"
     },
     {
         "date": "05/06/2026",

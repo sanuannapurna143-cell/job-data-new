@@ -1,6 +1,22 @@
 [
     {
         "date": "12/06/2026",
+        "board": "NFC",
+        "title": "General Duty Medical Officer",
+        "qualification": "MBBS from a recognized University with One Year relevant experience after obtaining requisite qualification",
+        "last_date": "21-06-2026",
+        "total_posts": "5",
+        "salary": "Rs. 106804 Per Month",
+        "age_limit": "Max: 50 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nfc.gov.in",
+        "official_notification": "https://www.nfc.gov.in/pdf/recruitment-advt/2026/walk-in-general-medical-officer-02-2026-eng.pdf"
+    },
+    {
+        "date": "12/06/2026",
         "board": "BRIC NIAB",
         "title": "Project Associate-II",
         "qualification": "MVSc. / M.Tech. / MSc. Degree in Biotechnology/Biochemistry/Microbiology/Immunology with 2 years experience in R&D",
