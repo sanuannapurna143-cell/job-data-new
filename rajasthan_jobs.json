@@ -1,6 +1,22 @@
 [
     {
         "date": "13/06/2026",
+        "board": "ESIC",
+        "title": "Specialist / Senior Resident / Junior Resident",
+        "qualification": "PG Degree/DNB/Diploma in concerned specialty, MBBS with experience for Junior Resident",
+        "last_date": "30-06-2026",
+        "total_posts": "13",
+        "salary": "Specialist: Rs. 121408 Per Month || Senior Resident: 7th CPC Level 11 || Junior Resident: Rs. 121048 Per Month",
+        "age_limit": "Maximum Age Limit: 67 years for all posts. || Relaxation for SC/ST/OBC/EWS as per rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Document Verification || Minimum 50% marks in interview compulsory for selection",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.esic.nic.in/",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_scheduled_on_30_June_2026_at_ESIC_hospital_Bikaner_to_engage_specialists_senior_resident_and_junior_resident_on_contract_1781335948.pdf"
+    },
+    {
+        "date": "13/06/2026",
         "board": "IIT Jodhpur",
         "title": "Project Research Fellow",
         "qualification": "B.E./B.Tech. or M.E./M.Tech. in Mechanical Engineering or equivalent",

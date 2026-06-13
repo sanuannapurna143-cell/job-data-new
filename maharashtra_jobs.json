@@ -1,6 +1,22 @@
 [
     {
         "date": "13/06/2026",
+        "board": "TISS",
+        "title": "Research Investigator",
+        "qualification": "Any Graduate, Any Post Graduate, BSW, M.Phil/ Ph.D, MSW, Other",
+        "last_date": "22-06-2026",
+        "total_posts": "21",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Shortlisting || Online/Offline Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tiss.ac.in",
+        "official_notification": "https://tiss.ac.in/uploads/files/Advertizement_for_Staff_Recruitment_for_Ashram_School_Evaluation_Study_Wo08kui.pdf"
+    },
+    {
+        "date": "13/06/2026",
         "board": "CSIR",
         "title": "Project Scientist / Senior Project Associate",
         "qualification": "Doctoral Degree in Science OR Masters/Integrated Masters Degree in Engineering or Technology from recognized university or equivalent with relevant research experience",
