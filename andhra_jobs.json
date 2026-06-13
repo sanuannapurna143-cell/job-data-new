@@ -1,5 +1,21 @@
 [
     {
+        "date": "13/06/2026",
+        "board": "Sainik School Kalikiri",
+        "title": "Academic Staff",
+        "qualification": "Bachelor's degree in Drawing and Painting/Sculpture / Graphic Art / Fine Arts with 50% marks, B.Ed Degree with 50% marks, Four year integrated B.P.Ed. course with 50% marks, Bachelor's Degree in Physical Education with 50% marks along with B.P.Ed.",
+        "last_date": "03-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 58,819/- Per Month",
+        "age_limit": "Min: 21 years, Max: 50 years",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://sskal.ac.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/06/845623-6a2d0df8e5ab522337881.pdf"
+    },
+    {
         "date": "12/06/2026",
         "board": "Secondary Health Hospital Krishna",
         "title": "Civil Assistant Surgeon Specialist / Civil Assistant Surgeon (General)",
@@ -317,6 +333,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://apgenco.gov.in",
-        "official_notification": "upsc-recruitment-2026-apply-online-for-538-scientist-assistant-engineer-and-more-posts-3053834"
+        "official_notification": "Not Available"
     }
 ]
