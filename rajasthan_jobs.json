@@ -74,7 +74,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "There is no written examination or interview for this apprenticeship. Selection is done purely on a first-come-first-serve basis, subject to verification of documents and eligibility. || Candidates appearing earlier in the walk-in period have a higher chance of selection, given limited seats. || Candidates who do not meet medical fitness criteria at the time of joining will have their candidature cancelled automatically.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.sac.gov.in/file/career/NOTICE.pdf"
@@ -474,7 +474,7 @@
         "age_limit": "Upper Age Limit (as on 01-05-2026)",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.irctc.com",
         "official_notification": "https://www.irctc.com/assets/images2/NotificationContractualHospitalityMonitors13may26.pdf"

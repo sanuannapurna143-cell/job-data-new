@@ -1,5 +1,37 @@
 [
     {
+        "date": "13/06/2026",
+        "board": "UPSC",
+        "title": "Scientist, Assistant Engineer and More – 538 Posts",
+        "qualification": "M.Sc. in Botany/Zoology/Microbiology/Biotechnology/Biochemistry/Physical Anthropology/Genetics/Forensic Science (with Botany or Zoology at B.Sc.) or B.E./B.Tech Biotechnology",
+        "last_date": "03-07-2026",
+        "total_posts": "538",
+        "salary": "All pay scales are as per the 7th Central Pay Commission Pay Matrix . The level assigned to each post determines the salary band. Key pay levels across these 70 posts are listed below. || The probation period is 2 years for Group B posts including Junior Scientific Officer (NCONF), Assistant Engineer (Civil) NEC, Sr. Scientific Assistants (DGAQA), Botanist (BSI), Scientist 'B' (CFSL), Research Officer (Map) ORGI, Asst. Director Grade-II MSME, and all UT Ladakh posts unless otherwise noted. The probation period is 1 year for most Group A posts. For posts under ORGI, the National Pension System (NPS) is applicable with effect from 01.01.2004, and the Unified Pension Scheme (UPS) is applicable with effect from 01.04.2025; candidates eligible for NPS have the option to enrol directly under UPS on joining.",
+        "age_limit": "The standard age relaxations applicable to these posts are as follows. SC candidates receive 5 additional years, OBC candidates receive 3 additional years, and all PwBD candidates receive 10 additional years over and above their category relaxation. For certain posts with a base upper limit of 50 years, the PwBD maximum is capped at 56 years - this applies to the Regional Director (NCONF), Professor Sugar Engineering (NSI), Principal (A&N), and Consultant Ophthalmologist (UT Ladakh). UPSC may relax qualifications and experience at its discretion in writing for candidates otherwise well qualified.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://www.upsc.gov.in/sites/default/files/AdvtNo-06-2026-Engl-120626.pdf"
+    },
+    {
+        "date": "13/06/2026",
+        "board": "AIIMS",
+        "title": "Group B & Group C – 1484 Posts",
+        "qualification": "M.Sc. (Home Science Food & Nutrition / Clinical Nutrition / Food Science & Nutrition / Food Service Management & Dietetics) + 3 years' experience in a 200-bed hospital",
+        "last_date": "30-06-2026",
+        "total_posts": "1484",
+        "salary": "Pay scales follow the 7th Pay Commission Pay Matrix. Specific pay levels differ by post and institute. || In addition to basic pay, posts carry allowances (HRA, DA, TA, etc.) as per the rules applicable at each respective institute.",
+        "age_limit": "Age limits are post-specific and measured as of the closing date of online registration, i.e., 30 June 2026 . Most Group B posts cap at age 30 years and Group C posts cap between 18–30 years , though higher caps apply to some technical and supervisory roles (up to 35 or 40 years). Candidates wondering about age relaxation can note the following: || Note: SC/ST/OBC candidates applying for unreserved vacancies are not entitled to age relaxation. AIIMS New Delhi, AIIMS-CAPFIMS, LHMC & associated hospitals, ICMR, and Pasteur Institute of India follow Central Government service conditions only for the age relaxation benefit to existing employees.",
+        "application_fee": "The application fee is charged per group applied. Candidates applying to multiple groups must pay separately for each group.",
+        "selection_process": "CRE-5 follows a multi-stage recruitment process. Each stage is mandatory for progression to the next. || Stage 1 - Online Application: Candidates register on www.aiimsexams.ac.in and submit applications by 30 June 2026. || Stage 2 - Application Acceptance: Application status published on 9 July 2026. || Stage 3 - Computer Based Test (CBT): Tentatively 25–27 July 2026 at examination centres across major states/UTs of India. || Stage 4 - Skill Test (where applicable): Conducted after CBT for qualifying candidates in applicable groups. Venue: preferably Delhi/NCR. Date to be notified. || Stage 5 - Choice & Preference: Qualified candidates are invited to exercise institute choices and indicate order of preference. Candidates who fail to exercise choices within the given period will not be considered for any institute. || Stage 6 - Seat Allocation: Allocation is made in order of merit based on choices exercised and eligibility at each participating institute. || Stage 7 - Document Verification: Original certificates verified by the respective AIIMS/Institute on the date notified by them.",
+        "apply_mode": "Online",
+        "syllabus": "Group Domain Syllabus",
+        "official_website": "https://www.aiimsexams.ac.in",
+        "official_notification": "http://www.aiimsexams.ac.in"
+    },
+    {
         "date": "12/06/2026",
         "board": "NTPC",
         "title": "Senior Executive and Executive",
@@ -378,7 +410,7 @@
         "age_limit": "Age relaxation for reserved category candidates will be as per Government of India directives. Internal TCIL candidates are eligible for an additional 1 year of age relaxation over and above the standard limits.",
         "application_fee": "Not Available",
         "selection_process": "TCIL will conduct a personal Interview as the mode of selection for all posts. There is no written examination. TCIL reserves the right to modify the selection procedure, shortlist candidates for interview, and is not bound to call every eligible applicant. The organization also reserves the right to increase, decrease, or cancel the number of vacancies at any stage of the process. || Realistic Timeline: After the last date of 30 June 2026, shortlisted candidates can expect interview calls typically within 4–8 weeks, subject to TCIL's internal scheduling.",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.tcil.net.in/",
         "official_notification": "https://www.tcil.net.in/docs/career/10062026a.pdf"
@@ -490,7 +522,7 @@
         "age_limit": "As per upper age limit specified for each post (33 years for PE-C; 30 years for TO-C, APE-C, SA-C)",
         "application_fee": "No application fee mentioned",
         "selection_process": "Selection is through Walk-in mode. Candidates will be evaluated through Document Verification followed by Personal Interview. Final recommendations will be made on merit based on the following criteria: || Candidates will be allowed to register only after successful document verification. Candidates must report at the respective zonal venue with their duly filled application form, resume, original certificates, and one set of self-attested photocopies. Registration is strictly between 09:00 hrs and 11:30 hrs; late arrivals will not be entertained.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.ecil.co.in/jobs/Advt_09_2026.pdf"
@@ -922,7 +954,7 @@
         "age_limit": "Age Limit / Relaxation",
         "application_fee": "NIL",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://vmmc-sjh.mohfw.gov.in/sites/default/files/Notice%20dated%2003.06.2026%20-%20Advertisement%20for%20the%20post%20of%20Junior%20Resident%20%28Non-PG%29%20MBBS%20on%20Adhoc%20basis.pdf"
@@ -970,7 +1002,7 @@
         "age_limit": "Persons with Benchmark Disability as defined under the Rights of Persons with Disabilities Act, 2016. 24 posts are horizontally reserved (including backlog vacancies) as per DOPT, Government of India rules. Relaxation in upper age limit as per Government of India rules.",
         "application_fee": "Rs. 65,000/- (Refundable without interest)",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://vmmc-sjh.mohfw.gov.in/sites/default/files/Notice%20dated%2003.06.2026%20-%20Advertisement%20for%20the%20post%20of%20Senior%20Resident%20on%20Adhoc%20basis.pdf"
@@ -1194,7 +1226,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3d51b416788b6ee70eb0c381c06efc9f1/uploads/2026/06/20260602123384032.pdf"
@@ -1290,7 +1322,7 @@
         "age_limit": "Age limit for all posts/trades is between 18 to 27 years as on 01 Jun 2026. Age relaxation is applicable as per Government of India guidelines for various categories. Government servants get relaxation up to 40 years (UR) and 45 years (SC/ST). PwBD candidates get 10 years relaxation in upper age limit.",
         "application_fee": "Candidates must pay the non-refundable application fee online through the SBI Collect portal only (https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=1232156) in favour of Commandant, GREF Centre, Pune-411 015. No other mode of payment will be accepted. A copy of the e-receipt must be attached with the application form.",
         "selection_process": "All candidates will undergo the recruitment process in the following sequence: (i) Written Examination, (ii) Physical Efficiency Test (PET) including physical measurements and Trade Test (TT) where applicable, (iii) Primary Medical Examination (PME) and Document Verification (DV), and (iv) Induction/Joining. The PET and TT are qualifying in nature - final merit is based solely on written exam marks, subject to qualifying PET, TT, and clearing PME. Minimum passing marks in written exam: 50% for UR/EWS/OBC; 40% for SC/ST. Trade test requires minimum 40% marks to qualify. || Physical Efficiency Test (PET): Candidate must complete 1.6 km (1 mile) run in 10 minutes. PwBD, ESM, Ex-Agniveers, and departmental re-appointment candidates are exempt from PET. || Physical Standards (Region-wise):",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bro.gov.in/",
         "official_notification": "https://bro.gov.in/frontend/images/recruitments/recruitment_200526171410.pdf.pdf"
@@ -1354,7 +1386,7 @@
         "age_limit": "Maximum Age: 56 years as on the closing date of receipt of applications. || Departmental Candidates: BIS's own departmental candidates are not eligible to apply for deputation posts. || Place of Posting: BIS reserves the right to modify the number of posts and place of posting, and may transfer candidates across any BIS office in India as per organizational requirement.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.bis.gov.in/",
         "official_notification": "https://www.bis.gov.in/wp-content/uploads/2026/05/Advertisement-for-the-post-of-SO-on-deputation.pdf"
@@ -1482,7 +1514,7 @@
         "age_limit": "Maximum Age: Not exceeding 56 years as on the opening date of receipt of application. || Place of Posting: All-India basis at centres where SAI schemes are being implemented.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://sportsauthorityofindia.nic.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/05/85232-6a17cd1fe5a7817264434.pdf"
@@ -1546,7 +1578,7 @@
         "age_limit": "The maximum age limit for appointment on deputation shall not exceed 56 years as on the closing date of receipt of applications. No minimum age has been prescribed. Age relaxation provisions as per DoPT guidelines may apply.",
         "application_fee": "The notification does not mention any application fee for this deputation recruitment. Candidates should refer to the official notification on the CAT website for any updates before applying.",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://cgat.gov.in/",
         "official_notification": "https://ghconline.gov.in/Recruitment/Notification-26-05-2026.pdf"
@@ -1578,7 +1610,7 @@
         "age_limit": "Note: Total deputation period (including any preceding ex-cadre deputation immediately before this appointment) shall ordinarily not exceed three years.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://nclt.gov.in/",
         "official_notification": "https://nclt.gov.in/"
@@ -1658,7 +1690,7 @@
         "age_limit": "Age Limit",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.mea.gov.in",
         "official_notification": "https://www.mea.gov.in/Images/CPV/Vacancy-Circular-2205-RPO.pdf"
@@ -1802,7 +1834,7 @@
         "age_limit": "Not exceeding 50 years for Professor as on closing date of applications (27.07.2026 for most candidates).",
         "application_fee": "Application fee is payable via Demand Draft/Banker’s Cheque only, in favour of “ESI Fund Account No. 2” payable at Delhi. || Fee once paid will not be refunded in any circumstances and applications without the prescribed fee (where applicable) will be rejected without correspondence.",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.esic.gov.in",
         "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_recruitment_of_teaching_faculty_professors_in_ESIC_PGIMSRS_and_ESIC_medical_colleges_on_direct_recruitment_basis_2026_English_1779267434.pdf"
@@ -1946,7 +1978,7 @@
         "age_limit": "Upper Age Limit (as on 01-05-2026)",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.irctc.com",
         "official_notification": "https://www.irctc.com/assets/images2/NotificationContractualHospitalityMonitors13may26.pdf"
@@ -1994,7 +2026,7 @@
         "age_limit": "Age Limit",
         "application_fee": "NIL - No application fee prescribed for deputation",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.nia.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/05/785236-69f976a8f41c125496794.pdf"

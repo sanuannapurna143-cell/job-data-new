@@ -1,5 +1,21 @@
 [
     {
+        "date": "13/06/2026",
+        "board": "ITI Mahasamund",
+        "title": "Surveyor",
+        "qualification": "High School or equivalent from recognized board, NTC/NAC from NCVT/SCVT or Diploma/Degree in Civil Engineering",
+        "last_date": "18-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 140 - 15000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Merit List based on marks in technical qualification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://mahasamund.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s300ac8ed3b4327bdd4ebbebcb2ba10a00/uploads/2026/06/17811811711247.pdf"
+    },
+    {
         "date": "12/06/2026",
         "board": "District Panchayat Bastar",
         "title": "Assistant Programmer, Block Coordinator",
@@ -106,7 +122,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "There is no written examination or interview for this apprenticeship. Selection is done purely on a first-come-first-serve basis, subject to verification of documents and eligibility. || Candidates appearing earlier in the walk-in period have a higher chance of selection, given limited seats. || Candidates who do not meet medical fitness criteria at the time of joining will have their candidature cancelled automatically.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.sac.gov.in/file/career/NOTICE.pdf"

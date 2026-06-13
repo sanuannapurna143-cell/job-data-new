@@ -1,5 +1,37 @@
 [
     {
+        "date": "13/06/2026",
+        "board": "UPSC",
+        "title": "Scientist, Assistant Engineer and More     – 538 Posts",
+        "qualification": "M.Sc. in Botany/Zoology/Microbiology/Biotechnology/Biochemistry/Physical Anthropology/Genetics/Forensic Science (with Botany or Zoology at B.Sc.) or B.E./B.Tech Biotechnology",
+        "last_date": "03-07-2026",
+        "total_posts": "538",
+        "salary": "All pay scales are as per the 7th Central Pay Commission Pay Matrix . The level assigned to each post determines the salary band. Key pay levels across these 70 posts are listed below. || The probation period is 2 years for Group B posts including Junior Scientific Officer (NCONF), Assistant Engineer (Civil) NEC, Sr. Scientific Assistants (DGAQA), Botanist (BSI), Scientist 'B' (CFSL), Research Officer (Map) ORGI, Asst. Director Grade-II MSME, and all UT Ladakh posts unless otherwise noted. The probation period is 1 year for most Group A posts. For posts under ORGI, the National Pension System (NPS) is applicable with effect from 01.01.2004, and the Unified Pension Scheme (UPS) is applicable with effect from 01.04.2025; candidates eligible for NPS have the option to enrol directly under UPS on joining.",
+        "age_limit": "The standard age relaxations applicable to these posts are as follows. SC candidates receive 5 additional years, OBC candidates receive 3 additional years, and all PwBD candidates receive 10 additional years over and above their category relaxation. For certain posts with a base upper limit of 50 years, the PwBD maximum is capped at 56 years - this applies to the Regional Director (NCONF), Professor Sugar Engineering (NSI), Principal (A&N), and Consultant Ophthalmologist (UT Ladakh). UPSC may relax qualifications and experience at its discretion in writing for candidates otherwise well qualified.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://www.upsc.gov.in/sites/default/files/AdvtNo-06-2026-Engl-120626.pdf"
+    },
+    {
+        "date": "13/06/2026",
+        "board": "AIIMS",
+        "title": "Group B & Group C     – 1484 Posts",
+        "qualification": "M.Sc. (Home Science Food & Nutrition / Clinical Nutrition / Food Science & Nutrition / Food Service Management & Dietetics) + 3 years' experience in a 200-bed hospital",
+        "last_date": "30-06-2026",
+        "total_posts": "1484",
+        "salary": "Pay scales follow the 7th Pay Commission Pay Matrix. Specific pay levels differ by post and institute. || In addition to basic pay, posts carry allowances (HRA, DA, TA, etc.) as per the rules applicable at each respective institute.",
+        "age_limit": "Age limits are post-specific and measured as of the closing date of online registration, i.e., 30 June 2026 . Most Group B posts cap at age 30 years and Group C posts cap between 18–30 years , though higher caps apply to some technical and supervisory roles (up to 35 or 40 years). Candidates wondering about age relaxation can note the following: || Note: SC/ST/OBC candidates applying for unreserved vacancies are not entitled to age relaxation. AIIMS New Delhi, AIIMS-CAPFIMS, LHMC & associated hospitals, ICMR, and Pasteur Institute of India follow Central Government service conditions only for the age relaxation benefit to existing employees.",
+        "application_fee": "The application fee is charged per group applied. Candidates applying to multiple groups must pay separately for each group.",
+        "selection_process": "CRE-5 follows a multi-stage recruitment process. Each stage is mandatory for progression to the next. || Stage 1 - Online Application: Candidates register on www.aiimsexams.ac.in and submit applications by 30 June 2026. || Stage 2 - Application Acceptance: Application status published on 9 July 2026. || Stage 3 - Computer Based Test (CBT): Tentatively 25–27 July 2026 at examination centres across major states/UTs of India. || Stage 4 - Skill Test (where applicable): Conducted after CBT for qualifying candidates in applicable groups. Venue: preferably Delhi/NCR. Date to be notified. || Stage 5 - Choice & Preference: Qualified candidates are invited to exercise institute choices and indicate order of preference. Candidates who fail to exercise choices within the given period will not be considered for any institute. || Stage 6 - Seat Allocation: Allocation is made in order of merit based on choices exercised and eligibility at each participating institute. || Stage 7 - Document Verification: Original certificates verified by the respective AIIMS/Institute on the date notified by them.",
+        "apply_mode": "Online",
+        "syllabus": "Group Domain Syllabus",
+        "official_website": "https://www.aiimsexams.ac.in",
+        "official_notification": "http://www.aiimsexams.ac.in"
+    },
+    {
         "date": "11/06/2026",
         "board": "CDAC",
         "title": "Project Engineer, Project Manager and More     – 951 Posts",

@@ -202,7 +202,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "There is no written examination or interview for this apprenticeship. Selection is done purely on a first-come-first-serve basis, subject to verification of documents and eligibility. || Candidates appearing earlier in the walk-in period have a higher chance of selection, given limited seats. || Candidates who do not meet medical fitness criteria at the time of joining will have their candidature cancelled automatically.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.sac.gov.in/file/career/NOTICE.pdf"
@@ -413,7 +413,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "upsc-recruitment-2026-apply-online-for-538-scientist-assistant-engineer-and-more-posts-3053834"
     },
     {
         "date": "05/06/2026",
@@ -942,22 +942,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iitgn.ac.in",
         "official_notification": "https://drive.google.com/file/d/1T7vMKQmbioqO7JkwUmhFQWd2Gvmq46iF/view"
-    },
-    {
-        "date": "11/05/2026",
-        "board": "AIIMS Rajkot",
-        "title": "Faculty",
-        "qualification": "M.Sc. Nursing, B.Sc. Nursing, Post B.Sc. Nursing, Registered Nurse & Midwife",
-        "last_date": "12-06-2026",
-        "total_posts": "13",
-        "salary": "Associate Professor (Reader) in Nursing: Level-12 (7th CPC) || Assistant Professor / Lecturer in Nursing: Level-11 (7th CPC) || Tutor / Clinical Instructor: Level-10 (7th CPC)",
-        "age_limit": "Maximum age limit is 50 years for Associate Professor/Assistant Professor and 35 years for Tutor/Clinical Instructor. || Age relaxation is applicable as per rules: SC/ST: 5 years; OBC-NCL: 3 years; PwBD: 10 years; Central/State Govt. employees & AIIMS employees (with 3+ years service): 5 years; Ex-Servicemen: 5 years.",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Computer Based Screening Test (CBT) || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://aiimsrajkot.edu.in",
-        "official_notification": "https://aiimsrajkot.edu.in/api/files/ADVERTISMENT%20FOR%20RECRUITMENT%20OF.pdf"
     },
     {
         "date": "30/04/2026",
