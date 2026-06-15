@@ -1,5 +1,21 @@
 [
     {
+        "date": "15/06/2026",
+        "board": "NFSU",
+        "title": "Assistant Professor",
+        "qualification": "Master's degree with 60% marks and Ph.D. in relevant discipline, Good academic record",
+        "last_date": "19-06-2026",
+        "total_posts": "6",
+        "salary": "Rs. 75000 - 90000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nfsu.ac.in",
+        "official_notification": "https://beta.nfsu.ac.in/data/pdfs/Contarctual_Recruitment/NFSU%20Jaipur%20Teaching%20Contractual%2012%20June%202026.pdf"
+    },
+    {
         "date": "13/06/2026",
         "board": "ESIC",
         "title": "Specialist / Senior Resident / Junior Resident",
@@ -238,38 +254,6 @@
         "syllabus": "Not Available",
         "official_website": "https://niirncd.icmr.org.in",
         "official_notification": "https://niirncd.icmr.org.in/admin/en_doc/ocadv.pdf"
-    },
-    {
-        "date": "04/06/2026",
-        "board": "Central University of Rajasthan",
-        "title": "Project Assistant",
-        "qualification": "Post Graduate Degree in any discipline of Life Sciences or Graduate Degree in associated fields",
-        "last_date": "14-06-2026",
-        "total_posts": "1",
-        "salary": "Rs. 27,000/- Per Month",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Nil",
-        "selection_process": "Offline Interview || Document Verification",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "http://www.curaaj.ac.in",
-        "official_notification": "https://www.curaj.ac.in/sites/default/files/Advertisement%20for%20the%20post%20of%20Project%20Assistant%20position%20in%20ANRF%20sponsored%20research%20project%20under%20Department%20of%20Biochemistry%20%282%29.pdf"
-    },
-    {
-        "date": "03/06/2026",
-        "board": "AIIMS Jodhpur",
-        "title": "Research Project Recruitment Notice",
-        "qualification": "MBBS, M.Sc. + Ph.D, B.Sc. / Intermediates + Diploma in MLT",
-        "last_date": "14-06-2026",
-        "total_posts": "3",
-        "salary": "Rs. 67,000 + HRA for Scientist-II, Rs. 20,000+ HRA for Lab Technician",
-        "age_limit": "Research Scientist-II (Medical): Up to 40 years || Research Scientist - II (Non-Medical): Up to 40 years || Lab Technician: Up to 25 years",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-In-Interview || Online Interview",
-        "apply_mode": "Walk-in|Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiimsjodhpur.edu.in/",
-        "official_notification": "https://www.aiimsjodhpur.edu.in/recruitment/Research/2026/1780398713_891-020626.pdf"
     },
     {
         "date": "03/06/2026",
