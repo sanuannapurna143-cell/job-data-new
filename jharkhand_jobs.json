@@ -1,6 +1,22 @@
 [
     {
         "date": "15/06/2026",
+        "board": "Civil Surgeon Office Ranchi",
+        "title": "Medical Officer (Part-Time)",
+        "qualification": "MBBS degree from a recognized institution, Valid registration with Medical Council",
+        "last_date": "18-06-2026",
+        "total_posts": "3",
+        "salary": "Rs. 36400 Per Month",
+        "age_limit": "Min: 67 years, Max: 70 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ranchi.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s32b8a61594b1f4c4db0902a8a395ced93/uploads/2026/06/17813475443553.pdf"
+    },
+    {
+        "date": "15/06/2026",
         "board": "IIT (ISM) Dhanbad",
         "title": "Project Associate-I",
         "qualification": "B.E./B.Tech./M.Tech/M.S./MCA/M.Sc. with GATE qualification (in CS, DA, EC, or EE) or NET (in Computer Science and Applications, Electronic Science, and Mathematical Sciences)",

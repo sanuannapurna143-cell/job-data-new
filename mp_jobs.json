@@ -1,6 +1,22 @@
 [
     {
         "date": "15/06/2026",
+        "board": "FDDI",
+        "title": "Junior Faculty and Academic Support Staff",
+        "qualification": "Graduate, Master's Degree",
+        "last_date": "19-06-2026",
+        "total_posts": "4",
+        "salary": "Junior Faculty: Rs. 50,000/- per month. Academic Support Cadre staff: Rs. 30000/- per month.",
+        "age_limit": "Junior Faculty:Minimum Age: 35 Years. Age relaxation applicable for OBC (3 years), SC/ST (5 years), PWD (10 years). || Lab Assistant:Minimum Age: 40 Years. Age relaxation applicable for OBC (3 years), SC/ST (5 years), PWD (10 years).",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://fddiindia.com",
+        "official_notification": "https://fddiindia.com/uploads/career/Vacancy_Notice_Guna_12-06-2026.pdf"
+    },
+    {
+        "date": "15/06/2026",
         "board": "BMHRC",
         "title": "Medical Officer",
         "qualification": "MBBS degree with compulsory rotating internship. Preference to candidates with 3+ years of experience.",

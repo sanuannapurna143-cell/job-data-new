@@ -1,6 +1,22 @@
 [
     {
         "date": "15/06/2026",
+        "board": "DM&HO Medchal Malkajgiri",
+        "title": "Aarogya Mithras",
+        "qualification": "Graduate with DCA",
+        "last_date": "18-06-2026",
+        "total_posts": "26",
+        "salary": "Rs. 26 Posts (Out sourcing basis)",
+        "age_limit": "Not Available",
+        "application_fee": "Rs.500/- drawn in favor of \"District Medical & Health Officer, Medchal-Malkajgiri District\".",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://medchal-malkajgiri.telangana.gov.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3da4fb5c6e93e74d3df8527599fa62642/uploads/2026/06/17812587042994.pdf"
+    },
+    {
+        "date": "15/06/2026",
         "board": "DGFT Hyderabad",
         "title": "Young Professional (Legal)",
         "qualification": "LLM from a recognized University with minimum 70% marks",
@@ -94,22 +110,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.niab.res.in/",
         "official_notification": "https://www.niab.org.in/Notifications/Advt_13_2026/Notification_13_2026.pdf"
-    },
-    {
-        "date": "10/06/2026",
-        "board": "Jangaon District",
-        "title": "Senior TB Lab Supervisor and Lab Technician",
-        "qualification": "Graduate, Diploma in Medical Laboratory Technology, Intermediate (10+2), Certified course in Medical Laboratory Technology",
-        "last_date": "15-06-2026",
-        "total_posts": "3",
-        "salary": "Senior TB Lab Supervisor: Rs. 22,100 Per Month || Lab Technician: Rs. 27,300 Per Month",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 46 years || Age Relaxation: For SCs, STs, BCs & EWS: 5 years; For Ex-service men: 3 years; For NCC (Instructor): 3 years + length of service; For Physically challenged: 10 years.",
-        "application_fee": "Not Available",
-        "selection_process": "Merit Basis || 90 marks from qualifying examination || 10 marks for age (0.5 per completed year from 18) || Rule of Reservation",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://jangaon.telangana.gov.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s3e2c420d928d4bf8ce0ff2ec19b371514/uploads/2026/06/17810152789362.pdf"
     },
     {
         "date": "10/06/2026",
@@ -274,22 +274,6 @@
     {
         "date": "03/06/2026",
         "board": "TGPSC",
-        "title": "Minimum Age",
-        "qualification": "Candidates applying for Assistant Executive Engineer (Electrical) in Roads & Buildings Department must possess a Bachelor's Degree in Electrical Engineering OR Electrical and Electronics Engineering from a University in India established or incorporated under a Central Act or Telangana State Act or an Institution recognized by the University Grants Commission (UGC)/All India Council for Technical Education (AICTE) or Associate Member of the Institution of Engineers (A.M.I.E.).",
-        "last_date": "15-06-2026",
-        "total_posts": "49",
-        "salary": "Rs. 54,220 – 1,33,630/-",
-        "age_limit": "The age is reckoned as on 01/07/2026. As per G.O.Ms.No.86, G.A.(Ser.A) Department, Dt. 18/05/2026, the upper age limit has been raised up to 10 years i.e., from 34 years to 44 years.",
-        "application_fee": "To apply online for TGPSC AEE Electrical 2026, candidates have to pay both the Application Processing Fee and Examination Fee through online payment gateways. The fee once remitted shall not be refunded or adjusted under any circumstances.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGTi1BRUUtRUxFQ1RSSUNBTC1SbkIyMDI2MDYwMjE2MzUxOC5wZGY=r95v17a0y2d8i13v"
-    },
-    {
-        "date": "03/06/2026",
-        "board": "TGPSC",
         "title": "Assistant Executive Engineer (Civil)",
         "qualification": "Must possess a Bachelor's Degree in Civil Engineering from a University in India established or incorporated under a Central Act or Telangana State Act, or from an institution recognized by UGC / AICTE, or Associate Member of the Institution of Engineers (A.M.I.E.).",
         "last_date": "13-07-2026",
@@ -432,22 +416,6 @@
         "official_notification": "https://www.iith.ac.in/assets/files/careers/staff/nf20/Final-Detailed_NotificationsNF-20-1.pdf"
     },
     {
-        "date": "21/05/2026",
-        "board": "BITS Pilani",
-        "title": "Research Fellow",
-        "qualification": "ME/M.Tech in Civil (Structural) or Mechanical or Materials Science and Engineering with First Class or equivalent CGPA",
-        "last_date": "15-06-2026",
-        "total_posts": "1",
-        "salary": "₹ 37,000 per month for the first two years and ₹40,000 or 42,000 after completion of 2 years.",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.bits-pilani.ac.in/",
-        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/CDRF_III-JRF-Adviertisement-Mohan-S-C.pdf"
-    },
-    {
         "date": "19/05/2026",
         "board": "SVPNPA",
         "title": "Staff Nurse, Laboratory Technician, X-Ray Technician",
@@ -462,21 +430,5 @@
         "syllabus": "Not Available",
         "official_website": "http://www.svpnpa.gov.in",
         "official_notification": "https://www.svpnpa.gov.in/static/gallery/docs/c88292131491482ebcc03e0e67936eaf.pdf"
-    },
-    {
-        "date": "07/05/2026",
-        "board": "NIT Warangal",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "B.E./B.Tech., M.E./M.Tech. or equivalent, M.Sc.",
-        "last_date": "15-06-2026",
-        "total_posts": "1",
-        "salary": "Rs. 37,000/- - Rs. 42,000/- Per Month",
-        "age_limit": "Max: 30 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://nitw.ac.in",
-        "official_notification": "https://nitw.ac.in/api/static/files/JRF_Advertisement_2026-5-6-9-19-50.pdf"
     }
 ]

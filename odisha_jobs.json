@@ -1,6 +1,22 @@
 [
     {
         "date": "15/06/2026",
+        "board": "AIIMS Bhubaneswar",
+        "title": "Assistant Professor",
+        "qualification": "A medical Qualification included in the I or II schedule or part II of the third schedule to the Indian Medical Council Act of 1956, A postgraduate qualification e.g. MD/MS or a recognized qualification equivalent thereto in the respective discipline/subject, Three years teaching and/or research experience in recognized Institution in the subject of specialty after obtaining the qualifying degree of M.D. /M.S. or qualification recognized equivalent thereto (for general disciplines), D.M. in the respective discipline/subject for medical super specialties and M.Ch. in the respective discipline/subject for surgical super specialties (2 years or 3 years or 5 years recognized course) or a qualification recognized equivalent thereto, One-year teaching and/or research experience in a recognized Institution in the subject of specialty after obtaining the qualifying degree of D.M./M.Ch. (2 years or 5 years recognized course after MBBS) or qualification recognized equivalent thereto",
+        "last_date": "27-06-2026",
+        "total_posts": "11",
+        "salary": "Rs. 177828 Per Month",
+        "age_limit": "Maximum Age Limit: 50 years as on 27-06-2026. || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsbhubaneswar.nic.in/",
+        "official_notification": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/06/23951_CONTRACTUAL-ADVERTISEMENT.pdf"
+    },
+    {
+        "date": "15/06/2026",
         "board": "NIT Rourkela",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "M.Sc./M.Tech. in Earth Sciences/Geophysics/Geodesy/Physics or a related field with 60% marks or 6.50 CGPA in 10 points scale with GATE or NET of UGC/CSIR, or any other national level exam. Experience in Remote Sensing and SAR data analysis. Understanding of planetary geology/geophysics. Proficiency in programming (Python, MATLAB, or similar) for data analysis and modeling.",
@@ -349,7 +365,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "rcf-kapurthala-sports-quota-recruitment-2026-apply-offline-for-23-posts-3053980"
+        "official_notification": "Not Available"
     },
     {
         "date": "11/06/2026",
