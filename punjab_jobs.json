@@ -1,6 +1,22 @@
 [
     {
         "date": "16/06/2026",
+        "board": "BFUHS",
+        "title": "Junior Engineer",
+        "qualification": "Diploma or Bachelor's in Engineering (Civil/Mechanical) with experience.",
+        "last_date": "05-07-2026",
+        "total_posts": "2",
+        "salary": "As per 7th CPC pay matrix",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 37 years || Age Relaxation Applicable:Punjab Govt. employees: up to 45 yearsWidow, divorcees and certain other categories of married women: up to 40 years || Punjab Govt. employees: up to 45 years || Widow, divorcees and certain other categories of married women: up to 40 years",
+        "application_fee": "Rs. 2360/-",
+        "selection_process": "Written Test || Experience",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bfuhs.ac.in",
+        "official_notification": "https://recruitment.ggsmch.org/form_bfu26_21_je_civil_me/"
+    },
+    {
+        "date": "16/06/2026",
         "board": "PAU",
         "title": "Research Associate",
         "qualification": "B.Sc., M.Sc., Ph.D.",
