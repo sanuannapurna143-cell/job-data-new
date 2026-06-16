@@ -1,5 +1,37 @@
 [
     {
+        "date": "16/06/2026",
+        "board": "BBMB",
+        "title": "Apprentice",
+        "qualification": "10th class with minimum 40% marks from recognized Board, ITI National Trade Certificate in respective trade from NCVT/SCVT, Aadhaar Card compulsory",
+        "last_date": "10-07-2026",
+        "total_posts": "16",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Merit list based on 30% weightage to 10th class and 70% to ITI marks || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bbmb.gov.in",
+        "official_notification": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/110_1_Apprenticeship_Training_O_M_Dhulkote_Ambala.pdf"
+    },
+    {
+        "date": "16/06/2026",
+        "board": "CFQCTI Faridabad",
+        "title": "Junior Translator",
+        "qualification": "Master's degree in Hindi with English as compulsory/elective subject or medium of examination; OR Master's degree in English with Hindi as compulsory/elective subject or medium of examination; OR Master's degree in any subject other than Hindi or English with Hindi medium and English as compulsory/elective subject or medium of examination; OR Master's degree in any subject other than Hindi or English with English medium and Hindi as compulsory/elective subject or medium of examination; OR Master's degree in any subject other than Hindi or English with Hindi and English as compulsory/elective subjects or either as medium of examination and a recognized Diploma/Certificate in translation from Hindi to English and vice versa or two years experience of translation work from Hindi to English and vice versa in Central or State Government office.",
+        "last_date": "28-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 35,400 - 1,12,400/- Per Month",
+        "age_limit": "Maximum Age Limit: 56 years || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Document Verification || Bio-data Screening",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://agriwelfare.gov.in/",
+        "official_notification": "https://www.agriwelfare.gov.in/Documents/Recruitment/advertisement_29052026.pdf"
+    },
+    {
         "date": "13/06/2026",
         "board": "AMMB",
         "title": "Peon and Watchman",
@@ -272,22 +304,6 @@
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec03a4d92e2cd541fca87e4620aba658/uploads/2026/05/2026052791.pdf"
     },
     {
-        "date": "27/05/2026",
-        "board": "THSTI",
-        "title": "Technical Officer-II (Statistician) and System Administrator (IT)",
-        "qualification": "M.Sc./ B. Tech./Masters in Computer Science/IT/Computer applications",
-        "last_date": "15-06-2026",
-        "total_posts": "2",
-        "salary": "Rs. 75,000/- Per Month",
-        "age_limit": "Maximum Age Limit: 35 years || Age Relaxation: SC/ST: 5 years; OBC: 3 years; PwBD (UR:10, OBC:13, SC/ST:15 years); Central Govt servants: 5 years; Institute employees: service rendered; Ex-servicemen: service rendered + 3 years (min 6 months attested service)",
-        "application_fee": "Rs. 590/-",
-        "selection_process": "Scrutiny/Shortlisting || Written Test/Skill Test/Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://thsti.res.in",
-        "official_notification": "https://recruitment.thsti.in/public/upload/job_pdf/177970692039web-advt-RN-09-26.pdf"
-    },
-    {
         "date": "26/05/2026",
         "board": "RITES",
         "title": "Manager-Civil and Engineer-Civil",
@@ -302,21 +318,5 @@
         "syllabus": "Not Available",
         "official_website": "http://www.rites.com",
         "official_notification": "https://www.rites.com/Upload/Career/CP_10-11_26_final_adv_pdf-2026-May-25-16-18-4.pdf"
-    },
-    {
-        "date": "14/05/2026",
-        "board": "Doordarshan Kendra Chandigarh",
-        "title": "Stringer/ Cameramen",
-        "qualification": "Graduate with experience in visual coverage, cinematography/videography/news gathering/broadcast journalism, and equipped with four-wheel vehicles.",
-        "last_date": "15-06-2026",
-        "total_posts": "Not Mentioned",
-        "salary": "Local Coverage (up to 6 hours): Rs. 1500 || Local Coverage (exceeding 6 hours or locations > 10 km): Rs. 1000 (for second coverage) || Outstation Coverage: Rs. 1800",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Rs. 1180 (including 18% GST)",
-        "selection_process": "Preliminary Scrutiny || Test coverage || Interview || Verification of equipment and documents || Final List",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://prasarbharati.gov.in/",
-        "official_notification": "https://prasarbharati.gov.in/wp-content/uploads/2026/05/Empanelment-of-Stringers-RNU-Chandigarh-2.pdf"
     }
 ]

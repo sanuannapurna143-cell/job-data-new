@@ -1,5 +1,53 @@
 [
     {
+        "date": "16/06/2026",
+        "board": "ANGRAU",
+        "title": "Young Professionals-II (YP II)",
+        "qualification": "M.Sc. (Ag.) in Genetics & Plant Breeding, M.Sc. (Ag.) in Agronomy/Soil Science, M.Sc. (Ag.) in Plant Pathology",
+        "last_date": "02-07-2026",
+        "total_posts": "3",
+        "salary": "Rs. 42000 Per Month (Consolidated)",
+        "age_limit": "Maximum Age Limit: 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://angrau.ac.in",
+        "official_notification": "https://angrau.ac.in/UPLOADS/CareersPDFs/ARS_PP_YP_II.pdf"
+    },
+    {
+        "date": "16/06/2026",
+        "board": "AIIMS Mangalagiri",
+        "title": "Project Staff",
+        "qualification": "MBBS Degree with registration under Medical Council of India for Doctor. MSW/BSW for Social Worker.",
+        "last_date": "25-06-2026",
+        "total_posts": "2",
+        "salary": "Doctor: Rs. 75,000; Social Worker: Rs. 25,000",
+        "age_limit": "Doctor:Maximum 40 years. Upper age limit may be relaxed as per Govt. of India rules. || Social Worker:Maximum 35 years. Upper age limit may be relaxed as per Govt. of India rules.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Interview || Written tests may be conducted if the number of candidates applied is more.",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.aiimsmangalagiri.edu.in",
+        "official_notification": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/06/CSR-Palliative-Interview-Adv.-25.6.26.pdf"
+    },
+    {
+        "date": "16/06/2026",
+        "board": "DCHS Chittoor",
+        "title": "Civil Assistant Surgeon",
+        "qualification": "PG Degree / DNB / Diploma in the particular specialty or equivalent for CAS Specialists, MBBS degree for CAS General, Registered in A.P. Medical Council",
+        "last_date": "18-06-2026",
+        "total_posts": "19",
+        "salary": "Rs.1,10,000/- PM / Rs.61,960/- PM",
+        "age_limit": "Maximum Age Limit: 42 years for all posts. || Age Relaxation: SC, ST, BC and EWS - 05 years; Ex-servicemen - 03 years in addition to length of service; Differently abled persons - 10 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://chittoor.ap.gov.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2026/06/17811738684438.pdf"
+    },
+    {
         "date": "15/06/2026",
         "board": "DSH Hospitals Kurnool",
         "title": "Civil Assistant Surgeon Specialists / Civil Assistant Surgeon (General)",
@@ -14,22 +62,6 @@
         "syllabus": "Not Available",
         "official_website": "https://kurnool.ap.gov.in",
         "official_notification": "https://cdn.s3waas.gov.in/s37f24d240521d99071c93af3917215ef7/uploads/2026/06/17813476377273.pdf"
-    },
-    {
-        "date": "15/06/2026",
-        "board": "Secondary Health Hospital Srikakulam",
-        "title": "Civil Assistant Surgeon Specialist / Civil Assistant Surgeon (General)",
-        "qualification": "PG Degree/DNB/Diploma in the particular specialty or MBBS with registration in AP Medical Council.",
-        "last_date": "15-06-2026",
-        "total_posts": "10",
-        "salary": "Civil Assistant Surgeon Specialist: Rs. 1,10,000/- || Civil Assistant Surgeon General: Rs. 61,960/-",
-        "age_limit": "OC: Maximum 42 years as on 01.07.2026 || EWS/SC/ST/BC: Maximum 47 years as on 01.07.2026 || Differently abled: Maximum 52 years as on 01.07.2026 || Ex-servicemen: Can deduct 03 years from their age.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Selection will be based on merit and rule of reservation || Merit list will be prepared for all the candidates who applied and fulfilled all the eligibility conditions. || Selection lists will be prepared based on merit lists and Rule of Reservation issued in AP State and Subordinate Services.",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://srikakulam.ap.gov.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s3f899139df5e1059396431415e770c6dd/uploads/2026/06/17813012017833.pdf"
     },
     {
         "date": "15/06/2026",
@@ -272,22 +304,6 @@
         "official_notification": "https://angrau.ac.in/UPLOADS/CareersPDFs/CAEBPTMISC_WII.pdf"
     },
     {
-        "date": "06/06/2026",
-        "board": "SAMEER",
-        "title": "Project Engineer / Senior Project Engineer / Project Scientific Assistant",
-        "qualification": "Bachelor Degree in Engineering or Bachelor Degree in Technology (B.E. or B. Tech.) in Electronics & Telecommunications / Electronics and Communications with minimum 55% marks, Diploma in Electronics & Communication Engineering / Electronics and Telecommunication Engineering with minimum 55% marks",
-        "last_date": "15-06-2026",
-        "total_posts": "16",
-        "salary": "Project Engineer – Electronics: Rs. 34,000/- per month || Senior Project Engineer – Electronics: Rs. 37,500/- per month || Project Scientific Assistant(A) – Electronics: Rs. 23,500/- per month || Project Scientific Assistant(B) – Electronics: Rs. 27,000/- per month || Project Scientific Assistant(C) – Electronics: Rs. 31,500/- per month",
-        "age_limit": "Please refer to the official notification for detailed age limit information for each post.",
-        "application_fee": "Nil",
-        "selection_process": "Written Test || Interview || Skill Test",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://sameer.gov.in",
-        "official_notification": "https://sameer.gov.in/storage/recruitment/K2QW9fty4xzdVfCAkGJLkwpdh7Rhb9efk4PfC7SJ.pdf"
-    },
-    {
         "date": "05/06/2026",
         "board": "AIIMS Mangalagiri",
         "title": "Senior Resident/Senior Demonstrator",
@@ -302,22 +318,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aiimsmangalagiri.edu.in",
         "official_notification": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/06/Advertisement-for-recruitment-of-Senior-Residents-Senior-Demonstrators-in-the-department-of-Dentistry-at-AIIMS-Mangalagiri-June-2026.pdf"
-    },
-    {
-        "date": "04/06/2026",
-        "board": "ANGRAU",
-        "title": "Young Professional - I",
-        "qualification": "4 years Bachelor's Degree in Agriculture or Diploma in Agriculture from ICAR accredited University/college",
-        "last_date": "15-06-2026",
-        "total_posts": "1",
-        "salary": "Rs. 30000 Per Month (Consolidated)",
-        "age_limit": "Minimum Age: 21 years || Maximum Age: 40 years || Age Relaxation: 5 years for SC/ST/Woman",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://angrau.ac.in/",
-        "official_notification": "https://angrau.ac.in/UPLOADS/CareersPDFs/YP_IAICRP_Rekalakunta_ARS.pdf"
     },
     {
         "date": "03/06/2026",

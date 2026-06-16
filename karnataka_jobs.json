@@ -1,5 +1,53 @@
 [
     {
+        "date": "16/06/2026",
+        "board": "RRI",
+        "title": "Research Assistant (RA)",
+        "qualification": "M.Sc. (Physics / Photonics / Optoelectronics / Related fields) or B.E. /B.Tech / M.Tech (Engineering Physics / Electronics / Related fields) with a minimum of 60% marks or equivalent.",
+        "last_date": "15-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 31000 Per Month",
+        "age_limit": "Max: 26 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rri.res.in",
+        "official_notification": "https://www.rri.res.in/sites/default/files/other-openings/Advt_17_2026.pdf"
+    },
+    {
+        "date": "16/06/2026",
+        "board": "EIL",
+        "title": "Associate Engineer Grade II & Grade III",
+        "qualification": "All candidates must hold a B.E. / B.Tech. / B.Sc (Engineering) degree in the relevant discipline from a recognized university or institution, with a minimum of 60% marks or equivalent CGPA . The exact CGPA equivalents are as follows: || Note : Round off percentage to the lower whole number (e.g., 60.9 = 60) and CGPA to the lower decimal (e.g., 6.95 = 6.9).",
+        "last_date": "30-06-2026",
+        "total_posts": "41",
+        "salary": "₹72,000 – ₹96,000 (incl. HRA & PF)",
+        "age_limit": "Associate Engineer Grade II:Maximum37 yearsas on 31 May 2026 || Associate Engineer Grade III:Maximum41 yearsas on 31 May 2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.engineersindia.com",
+        "official_notification": "https://recruitment.eil.co.in/"
+    },
+    {
+        "date": "16/06/2026",
+        "board": "NABFINS",
+        "title": "Business Strategist (Qualified Chartered Accountant)",
+        "qualification": "Chartered Accountant (CA)",
+        "last_date": "22-06-2026",
+        "total_posts": "Not mentioned",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nabfins.org",
+        "official_notification": "https://nabfins.org/Careers/"
+    },
+    {
         "date": "15/06/2026",
         "board": "BEL",
         "title": "Deputy Manager / Senior Engineer",
@@ -369,22 +417,6 @@
     },
     {
         "date": "05/06/2026",
-        "board": "DULT Karnataka",
-        "title": "Associate Transport Planner, CAD Operator",
-        "qualification": "Postgraduate degree or equivalent in Transport Planning/Engineering, Civil Engineering degree or diploma",
-        "last_date": "15-06-2026",
-        "total_posts": "3",
-        "salary": "Associate Transport Planner: Rs.61000/- - Rs.84592/-\r \t\t\tCAD Operator: Rs.50000/- - Rs.73216/-",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://dult.karnataka.gov.in/",
-        "official_notification": "https://dult.karnataka.gov.in/uploads/media_to_upload1780480424.pdf"
-    },
-    {
-        "date": "05/06/2026",
         "board": "UCSL",
         "title": "Assistant General Manager & Deputy Manager",
         "qualification": "Degree in Mechanical or Naval Architecture or Production Engineering or Marine Engineering with minimum of 60% marks OR Minimum of three-year Diploma in Mechanical or Marine or Shipbuilding Engineering.",
@@ -462,22 +494,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.becil.com",
         "official_notification": "https://img2.freejobalert.com/news/2026/05/523142-6a0e8634181d574638316.pdf"
-    },
-    {
-        "date": "01/06/2026",
-        "board": "IISc",
-        "title": "Deputy Administrative Officer",
-        "qualification": "Bachelor's Degree with a minimum of 50% marks",
-        "last_date": "15-06-2026",
-        "total_posts": "6",
-        "salary": "Level - 08 as per 7th CPC (₹47600 – 151100) Per Month",
-        "age_limit": "Maximum Age Limit: 56 years",
-        "application_fee": "Rs. 450/- application fee + Rs. 50/- processing fee",
-        "selection_process": "Job-oriented Aptitude Test",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iisc.ac.in",
-        "official_notification": "https://iisc.ac.in/wp-content/uploads/2026/05/1.-Notice_Final_English.pdf"
     },
     {
         "date": "01/06/2026",
@@ -689,22 +705,6 @@
     },
     {
         "date": "27/05/2026",
-        "board": "DRDO DIBT",
-        "title": "Paid Intern",
-        "qualification": "Final Year M.Sc. in Biotechnology or Microbiology from recognized Indian University/Institute",
-        "last_date": "15-06-2026",
-        "total_posts": "2",
-        "salary": "Rs. 5000 Per Month",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Nil",
-        "selection_process": "Academic merit with 85% & above marks or >8.5 CGPA on a scale of 10",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://drdo.gov.in/",
-        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDIBT27052026.pdf"
-    },
-    {
-        "date": "27/05/2026",
         "board": "BEL",
         "title": "Senior Assistant Engineer (E-1 grade) (Drone Veteran)",
         "qualification": "3 years Diploma in Engineering or equivalent in Mechanical / Electrical / Electronics / Aeronautical / Mechatronics",
@@ -768,22 +768,6 @@
         "official_notification": "https://kvafsu.edu.in/notification/2026/recruitment/teaching_posts/KVAFSU%20Direct%20Recruitment%20Teaching%20post%20Notification.pdf"
     },
     {
-        "date": "22/05/2026",
-        "board": "DRDO MTRDC",
-        "title": "Paid Internship",
-        "qualification": "Final year B.Tech / M.Tech / M.Sc students in specified disciplines with minimum 75% marks or 7.5 CGPA from AICTE/UGC approved institutions",
-        "last_date": "15-06-2026",
-        "total_posts": "10",
-        "salary": "Rs. 5000 Per Month",
-        "age_limit": "Maximum Age Limit: 28 years",
-        "application_fee": "Not Available",
-        "selection_process": "CGPA based shortlisting || Online interview / interaction || Document Verification || Merit List",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.drdo.gov.in",
-        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtMTRDC22052026.pdf"
-    },
-    {
         "date": "21/05/2026",
         "board": "UCSL",
         "title": "Graduate, Technician (Diploma), ITI Trade Apprentices",
@@ -798,21 +782,5 @@
         "syllabus": "Not Available",
         "official_website": "http://www.udupicsl.com",
         "official_notification": "https://udupicsl.com/wp-content/uploads/2026/05/ITI_-VN85.pdf"
-    },
-    {
-        "date": "18/05/2026",
-        "board": "VITM",
-        "title": "Technician, Junior Stenographer, Office Assistant, Education Assistant  and Artist",
-        "qualification": "Bachelor’s Degree in Science, Higher Secondary or equivalent, SSC or Matriculation with ITI certificate, Diploma/certificate in fine/commercial art",
-        "last_date": "15-06-2026",
-        "total_posts": "12",
-        "salary": "Pay Matrix Level-2: Rs.19,900-63,200/- with Basic Pay Rs.19,900/- plus usual allowances",
-        "age_limit": "Maximum age limit is 35 years for Education Assistant & Technician 'A'. || Maximum age limit is 25 years for Junior Stenographer & Office Assistant (Gr.III). || Age relaxation is applicable for reserved categories as per Government of India Rules.",
-        "application_fee": "Rs. 885.00 (Rs. 750.00 + 18% GST Rs. 135.00)",
-        "selection_process": "Written Test || Skill Test || Typing Test || Document Verification",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.vismuseum.gov.in/",
-        "official_notification": "https://www.vismuseum.gov.in/assets/pdf/career/DETAILS_ADVT_NO._2_2026.pdf"
     }
 ]
