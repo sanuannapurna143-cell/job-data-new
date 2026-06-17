@@ -1,5 +1,21 @@
 [
     {
+        "date": "17/06/2026",
+        "board": "IIT Tirupati",
+        "title": "Project Officer",
+        "qualification": "B.E/B.Tech in Electrical, Electronics, Instrumentation with minimum 60% marks, M.E./M.Tech or M.Sc in relevant discipline",
+        "last_date": "26-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Max: 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iittp.ac.in/",
+        "official_notification": "https://files.iittp.ac.in/pdfs/announcements/2026/AdvtIITTCSRC26-2703.pdf"
+    },
+    {
         "date": "16/06/2026",
         "board": "ANGRAU",
         "title": "Young Professionals-II (YP II)",
@@ -413,6 +429,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://apgenco.gov.in",
-        "official_notification": "hppsc-assistant-professor-recruitment-2026-apply-online-for-369-posts-3054336"
+        "official_notification": "Not Available"
     }
 ]

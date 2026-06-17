@@ -1,6 +1,38 @@
 [
     {
         "date": "17/06/2026",
+        "board": "Sambalpur University",
+        "title": "Assistant Professor (Guest Faculty)",
+        "qualification": "Post Graduate Degree in Performing Arts, Ph.D. or NET (preferred)",
+        "last_date": "22-06-2026",
+        "total_posts": "6",
+        "salary": "Rs. 45000 - 60000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.suniv.ac.in",
+        "official_notification": "https://www.suniv.ac.in/images/documents/doc_1781595908.pdf"
+    },
+    {
+        "date": "17/06/2026",
+        "board": "IIT Bhubaneswar",
+        "title": "Research Scientist",
+        "qualification": "Ph.D. in relevant disciplines, MTech/MSc/BTech with experience",
+        "last_date": "28-06-2026",
+        "total_posts": "2",
+        "salary": "Rs. 0.60 lakh - 1.5 lakh Per Month",
+        "age_limit": "Maximum Age Limit: 45 years for all posts. || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitbbs.ac.in/",
+        "official_notification": "https://www.iitbbs.ac.in/wp-content/uploads/2026/06/ADVERTISEMENT-No-OHVF-Staff-Recruitment-2026-01-Dt-16062026.pdf"
+    },
+    {
+        "date": "17/06/2026",
         "board": "RRB",
         "title": "Technician Grade I Signal & Technician Grade III",
         "qualification": "B.Sc, ITI",
@@ -13,7 +45,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "hppsc-assistant-professor-recruitment-2026-apply-online-for-369-posts-3054336"
+        "official_notification": "Not Available"
     },
     {
         "date": "17/06/2026",

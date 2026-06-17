@@ -1,6 +1,38 @@
 [
     {
         "date": "17/06/2026",
+        "board": "AIIMS Rishikesh",
+        "title": "Data Entry Operator",
+        "qualification": "12th Passed in science/other stream with computer subject from a recognized board With 1 year of AIIMS Rishikesh experience in relevant subject",
+        "last_date": "30-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 15000 Per Month",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsrishikesh.edu.in",
+        "official_notification": "https://aiimsrishikesh.edu.in/images/upload_documents/Website%20aid%20for%20recruitement_drpanda%281%29.pdf"
+    },
+    {
+        "date": "17/06/2026",
+        "board": "AIIMS Rishikesh",
+        "title": "Research Assistant",
+        "qualification": "Graduate in science with one-year experience in health-related research project & BSc Nursing OR Post-graduation degree in life science/ Biological science (MSc, MPH, MSc Nursing etc.)",
+        "last_date": "29-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20000 Per Month",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Written Exam || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsrishikesh.edu.in/",
+        "official_notification": "https://aiimsrishikesh.edu.in/images/upload_documents/Impact%20of%20WorkPlace%20Holistic%20Health%20%26%20Wellness%20Program%20on%20Holistic%20wellness%20%26%20work%20Performance%20of%20Employees%20of%20Rail%20Vikas%20Nigam%20Limite.pdf"
+    },
+    {
+        "date": "17/06/2026",
         "board": "IIT Roorkee",
         "title": "Junior Research Fellow and Research Associate-I",
         "qualification": "M.E./M.Tech. in Information Technology/Computer Science & Engineering, B.E./B.Tech. in Computer Science & Engineering/Information Technology/Mathematics and Computing, Five years integrated BS-MS in Mathematics and Computing, PhD in Computer Science and Engineering/Mathematics & Computing with specialization in cryptography or security, GATE CS or UGC-NET qualified",
@@ -77,7 +109,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "mmrcl-recruitment-2026-apply-online-for-24-assistant-jr-engineer-and-more-posts-3051307"
+        "official_notification": "Not Available"
     },
     {
         "date": "16/06/2026",

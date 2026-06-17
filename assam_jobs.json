@@ -1,6 +1,54 @@
 [
     {
         "date": "17/06/2026",
+        "board": "AIIMS Guwahati",
+        "title": "Assistant Professor (Contractual)",
+        "qualification": "DM in Gastroenterology or equivalent, MD/MS or equivalent postgraduate qualification, One year teaching/research experience in recognized institution after DM/MCh",
+        "last_date": "23-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 142506 Per Month",
+        "age_limit": "Max: 50 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsguwahati.in/",
+        "official_notification": "https://aiimsguwahati.in/viewfile.aspx?fname=999fc249.pdf&ftype=pdf&rdoctype=cms"
+    },
+    {
+        "date": "17/06/2026",
+        "board": "NIT Silchar",
+        "title": "Project Assistant",
+        "qualification": "B.E. / B. Tech. or M. Tech. (Pre-Final Year) from the Science/ Engineering/ Technology stream with knowledge in CAD and ANSYS, B. Tech. in Mechanical Engineering and Fluency in the English language (Desirable)",
+        "last_date": "30-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nits.ac.in/",
+        "official_notification": "https://www.nits.ac.in/storage/CareerDocument/Career_6a315a827d043.pdf"
+    },
+    {
+        "date": "17/06/2026",
+        "board": "IIT Guwahati",
+        "title": "Project Associate - I",
+        "qualification": "B.Tech./B.E. or M.Tech./M.E. in Mechanical/Electrical/CSE or allied disciplines with valid GATE score",
+        "last_date": "29-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 44400 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk In",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitg.ac.in/",
+        "official_notification": "https://www.iitg.ac.in/pdf/6087437c0385ce7018ccb4c9f6714ce9.pdf"
+    },
+    {
+        "date": "17/06/2026",
         "board": "IIT Guwahati",
         "title": "Project Fellow",
         "qualification": "Master's degree in Science or Engineering (including relevant branches such as Biotechnology, Bioengineering, and Biomedical Engineering); OR Bachelor's degree in Engineering with a minimum of 3 years of relevant experience",
@@ -77,7 +125,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.lnipeassam.edu.in",
-        "official_notification": "hppsc-assistant-professor-recruitment-2026-apply-online-for-369-posts-3054336"
+        "official_notification": "Not Available"
     },
     {
         "date": "15/06/2026",
