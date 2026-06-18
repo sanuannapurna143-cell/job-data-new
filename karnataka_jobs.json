@@ -1,6 +1,22 @@
 [
     {
         "date": "18/06/2026",
+        "board": "MRPL",
+        "title": "Fire Officer",
+        "qualification": "Bachelor's degree in engineering in Fire/ Fire and Safety",
+        "last_date": "16-07-2026",
+        "total_posts": "5",
+        "salary": "₹13 Lakh per annum to ₹14 Lakh per annum",
+        "age_limit": "Maximum Age Limit: 50 years for UR candidates. || Maximum Age Limit: 53 years for OBC candidates. || Age Relaxation: 5 years for Persons with Benchmarked Disabilities (PwBD).",
+        "application_fee": "₹118/- (₹ 100/- application fee plus ₹ 18/- GST)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mrpl.co.in/",
+        "official_notification": "https://mrplregistration.ibtexamination.com/PDF/Notification%20-%20Personnel%20on%20Fixed%20Term%20Employment%20(PFTE).pdf"
+    },
+    {
+        "date": "18/06/2026",
         "board": "UCSL",
         "title": "Workmen (Pipe Fitter, Welder, Electrician, Machinery Fitter)",
         "qualification": "ITI in relevant trade or equivalent qualification.",
