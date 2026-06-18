@@ -1,6 +1,22 @@
 [
     {
         "date": "18/06/2026",
+        "board": "HSSC",
+        "title": "Group D",
+        "qualification": "For all Group-D posts except Sweeper, Chowkidar, and Sweeper-cum-Chowkidar, a candidate must hold: || Matriculationfrom a recognized Board, and || Hindi or Sanskritup to Matriculation as one of the subjects studied. || The notification clarifies that the detailed, post-wise educational qualification (for the specific Group-D posts) will be published separately along with the vacancy details.",
+        "last_date": "03-07-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "A candidate must be not less than 18 years and not more than 42 years of age as on the closing date of registration (3 July 2026). Age relaxation is governed by Haryana Government instructions dated 25 March 2022, and the upper age limit can extend up to 52 years for candidates entitled to combined relaxation benefits. || A repeated candidate note worth flagging: anyone who already registered for CET Advt. No. 1/2022 (held on 5–6 November 2022) or CET Advt. No. 1/2025 (held on 26–27 July 2025) must use that same CET Registration Number rather than creating a fresh one.",
+        "application_fee": "Fee payment follows the category-wise structure set under the CET Policy notified on 31 December 2024, with separate concessions based on residency proof and gender. || Candidates who had already applied and paid fee for CET Group C Advt. No. 1/2025 need not pay the fee again for this Group D cycle. Only candidates applying fresh are required to pay, based on the Standard Rate of Rs. 1,000 (or as revised by the Government). || Two points worth remembering: the fee, once paid, is non-refundable under any circumstances , and a single fee payment covers one CET attempt valid for both Group C and Group D - improving your score in a later attempt requires paying again.",
+        "selection_process": "Since Group-D recruitment has no separate written exam beyond the CET, the process works differently from Group-C recruitment. The Commission shortlists candidates purely on CET marks , then publishes a category-wise merit and waiting list. When actual posts are advertised later, eligible candidates apply electronically to express willingness for that specific post using their existing Registration Number - only the candidate's consent is sought before the Commission recommends names to the appointing department; there is no fresh written test at this stage. || In case of a tie in CET marks, the older candidate gets precedence; if birth dates also match, the candidate whose first name comes earlier alphabetically (in English) ranks higher.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.hssc.gov.in",
+        "official_notification": "tgpsc-recruitment-2026-apply-online-for-86-lecturers-and-senior-lecturer-posts-3054612"
+    },
+    {
+        "date": "18/06/2026",
         "board": "BEL",
         "title": "Project Engineer-I",
         "qualification": "Full time BE/B.Tech in Electronics & Communication Engineering / Electronics / Telecommunication / Communication / Electronics & Telecommunication / Electrical & Electronics Engineering / Electrical Engineering / Mechanical / Computer Science / Electronics & Instrumentation / Instrumentation",
