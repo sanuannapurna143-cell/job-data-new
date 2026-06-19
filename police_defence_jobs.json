@@ -1,5 +1,21 @@
 [
     {
+        "date": "19/06/2026",
+        "board": "IAF",
+        "title": "Commissioned Officer     – 379 Posts",
+        "qualification": "- Weapon Systems (WS): Maths & Physics at 10+2 and Graduation (3‑year degree) or BE/B.Tech. - Administration & Logistics: 10+2 and Graduation in any discipline or AMIE/ASI. - Accounts: 10+2 and B.Com/BBA(BFS‑Finance)/BMS(BFS‑Finance)/BBS(BFS‑Finance)/CA/CMA/CS/CFA/B.Sc (Finance). - Education: 10+2 and Post‑Graduation in any discipline (with Graduation in any discipline). - Meteorology: 10+2 and B.Sc with Physics & Mathematics or 4‑year Engineering/Technology degree in specified streams.",
+        "last_date": "21-06-2026",
+        "total_posts": "379",
+        "salary": "Not Available",
+        "age_limit": "20 to 24 years as on 01 July 2027 i.e. born between 02 July 2003 and 01 July 2007 (both dates inclusive). Upper age limit relaxable up to 26 years (born between 02 July 2001 and 01 July 2007) for candidates holding valid and current Commercial Pilot License issued by DGCA (India).",
+        "application_fee": "A non‑refundable examination fee is applicable for AFCAT entry; there is no fee for NCC Special Entry and GATE Score Entry.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://indianairforce.nic.in/",
+        "official_notification": "https://afcat.edcil.co.in"
+    },
+    {
         "date": "18/06/2026",
         "board": "CISF",
         "title": "UR",
@@ -270,21 +286,5 @@
         "syllabus": "Not Available",
         "official_website": "https://ssb.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/05/896547-6a13e31974dbc79774518.pdf"
-    },
-    {
-        "date": "20/05/2026",
-        "board": "IAF",
-        "title": "Commissioned Officer     – 379 Posts",
-        "qualification": "- Weapon Systems (WS): Maths & Physics at 10+2 and Graduation (3‑year degree) or BE/B.Tech. - Administration & Logistics: 10+2 and Graduation in any discipline or AMIE/ASI. - Accounts: 10+2 and B.Com/BBA(BFS‑Finance)/BMS(BFS‑Finance)/BBS(BFS‑Finance)/CA/CMA/CS/CFA/B.Sc (Finance). - Education: 10+2 and Post‑Graduation in any discipline (with Graduation in any discipline). - Meteorology: 10+2 and B.Sc with Physics & Mathematics or 4‑year Engineering/Technology degree in specified streams.",
-        "last_date": "19-06-2026",
-        "total_posts": "379",
-        "salary": "Not Available",
-        "age_limit": "20 to 24 years as on 01 July 2027 i.e. born between 02 July 2003 and 01 July 2007 (both dates inclusive). Upper age limit relaxable up to 26 years (born between 02 July 2001 and 01 July 2007) for candidates holding valid and current Commercial Pilot License issued by DGCA (India).",
-        "application_fee": "A non‑refundable examination fee is applicable for AFCAT entry; there is no fee for NCC Special Entry and GATE Score Entry.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://indianairforce.nic.in/",
-        "official_notification": "https://afcat.edcil.co.in"
     }
 ]

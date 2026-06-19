@@ -1,5 +1,69 @@
 [
     {
+        "date": "19/06/2026",
+        "board": "ICMR-NITVAR",
+        "title": "Consultant, Project Research Scientist I",
+        "qualification": "MBBS/BDS or equivalent, M.Sc or equivalent, Post Graduate Diploma in Clinical Research, Experience in clinical trials",
+        "last_date": "30-06-2026",
+        "total_posts": "5",
+        "salary": "Junior Consultant: Rs.60,000-90,000/- || Consultant: Rs.80,000-120,000/- || Senior Consultant: Rs.1,00,000-1,50,000/- (or as per Ministry of Finance OM for retired) || Project Research Scientist I (Medical): Rs.67,000/- + HRA",
+        "age_limit": "Junior Consultant: 40-50 years || Consultant: 40-60 years || Senior Consultant: 40-70 years || Project Research Scientist I: 35 years || Age relaxation will be as per ICMR guidelines.",
+        "application_fee": "Nil",
+        "selection_process": "Walk-In-Interview || Written Test",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.icmr.gov.in",
+        "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1781756988_dengialladvt26-27.pdf"
+    },
+    {
+        "date": "19/06/2026",
+        "board": "PMRDA",
+        "title": "Senior Consultant, GIS Expert, GIS Analyst",
+        "qualification": "Degree in Architecture/Civil Engineering/Planning with Post-Graduate in Transportation/Environment Planning, M.Sc./M.Tech in Geoinformatics/GIS/Remote Sensing, Bachelor's in Geoinformatics/GIS/Geography/Civil Engineering/Planning with GIS certification",
+        "last_date": "24-06-2026",
+        "total_posts": "12",
+        "salary": "Senior Consultant in Transportation Planning: Rs.11,087/- Per day || Senior Consultant/Consultant in Environment Planning: Remuneration as per Experience || GIS Expert: Rs.70,000/- per month || GIS Analyst: Rs.45,000/- per month",
+        "age_limit": "Maximum Age Limit: 50 years for all posts. || Age relaxation will be as per government rules.",
+        "application_fee": "Nil",
+        "selection_process": "Shortlisting || Personal Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.pmrda.gov.in",
+        "official_notification": "https://www.pmrda.gov.in/wp-content/uploads/2026/06/notice-1-mar-combined-1.pdf"
+    },
+    {
+        "date": "19/06/2026",
+        "board": "BMC",
+        "title": "Contractual Medical Officer (MBBS), Pharmacist, MPW, DEO, GNM (Staff Nurse), Health Data Manager, Consultant",
+        "qualification": "MBBS, MD/MS/DNB in relevant specialty, B.Tech/B.E. IT/Electrical/Electronics/Telecommunication/B.Sc IT/BCA, GNM, D.Pharm/B.Pharm, Graduate any discipline, 10th pass",
+        "last_date": "22-06-2026",
+        "total_posts": "Not Available",
+        "salary": "Contractual Medical Officer (MBBS): Rs. 90000/- Per Month || Contractual Consultant: Rs. 1500/- to Rs. 4000/- Per Visit || Contractual Health Data Manager: Rs. 75000/- Per Month || Contractual GNM (Staff Nurse): Rs. 30000/- Per Month || Contractual Pharmacist: Rs. 20000/- Per Month || Contractual DEO: Rs. 18000/- Per Month || Contractual MPW: Rs. 18000/- Per Month",
+        "age_limit": "Maximum Age Limit: 70 years for all posts. || Age as on 01 June 2026. || Age relaxation will be as per government rules.",
+        "application_fee": "Nil",
+        "selection_process": "Online Application || Document Verification || Merit List",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mcgm.gov.in/",
+        "official_notification": "https://www.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Personnel%20Officer/Recruitment%20Notice/%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%81%e0%a4%b9%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a4%af%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f%20%e0%a4%ac%e0%a4%be%e0%a4%b3%e0%a4%be%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac%20%e0%a4%a0%e0%a4%be.pdf"
+    },
+    {
+        "date": "19/06/2026",
+        "board": "SBI",
+        "title": "Specialist Cadre Officer",
+        "qualification": "Any Graduate",
+        "last_date": "08-07-2026",
+        "total_posts": "5",
+        "salary": "Defence Banking Advisor (Navy): CTC of Rs. 37.95 lakhs per annum (Fixed Rs 34.50 lakhs p.a., Variable* (10% of Fixed Pay): Rs 3.45 lakhs p.a.) (No other increments) || Advisor (Central Armed Police Force): CTC of Rs. 26.95 lakhs per annum (Fixed Rs 24.50 lakhs p.a., Variable* (10% of Fixed Pay) – Rs 2.45 lakhs p.a.) (No other increment) || Circle Defence Banking Advisor (CDBA): CTC of Rs. 26.95 lakhs per annum (Fixed Rs 24.50 lakhs p.a., Variable* (10% of Fixed Pay) – Rs 2.45 lakhs p.a.) (No other increment)",
+        "age_limit": "Defence Banking Advisor (Navy): Maximum 62 years || Advisor (Central Armed Police Force): Maximum 62 years || Circle Defence Banking Advisor (CDBA): Maximum 60 years",
+        "application_fee": "Rs. 750",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sbi.bank.in/",
+        "official_notification": "https://sbi.bank.in/documents/77530/57941334/18062026_ADV_CRPD_SCO_2026_27_10+%281%29.pdf/71573359-de6c-40b9-7255-a1820579476f?t=1781773876837"
+    },
+    {
         "date": "18/06/2026",
         "board": "IPRCL",
         "title": "Manager",
@@ -29,7 +93,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://msc.bank.in/career",
-        "official_notification": "tgpsc-recruitment-2026-apply-online-for-86-lecturers-and-senior-lecturer-posts-3054612"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/06/2026",

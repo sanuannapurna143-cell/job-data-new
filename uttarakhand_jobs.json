@@ -1,5 +1,37 @@
 [
     {
+        "date": "19/06/2026",
+        "board": "UKMSSB",
+        "title": "Assistant Professor (Statistician)",
+        "qualification": "As per latest NMC-TEQ Regulations - Minimum qualifications for teachers in Medical Institutions Regulations 30 June 2025",
+        "last_date": "15-07-2026",
+        "total_posts": "7",
+        "salary": "Rs. 67700 - 208700 Per Month",
+        "age_limit": "Min: 27 years, Max: 45 years",
+        "application_fee": "2000",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ukmssb.org",
+        "official_notification": "https://ukmssb.org/wp-content/uploads/2026/06/detail-advertisment.pdf"
+    },
+    {
+        "date": "19/06/2026",
+        "board": "NSTI Haldwani",
+        "title": "Guest Faculty",
+        "qualification": "Degree in Engineering in relevant branch with CITS along with 2 years of experience, Diploma in Engineering in relevant branch with CITS along with 5 years of experience, ITI in relevant trade with CITS along with 7 years of experience",
+        "last_date": "30-06-2026",
+        "total_posts": "12",
+        "salary": "Rs. 30000 Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: Not specified. || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Skill Test",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nstihaldwani.dgt.gov.in",
+        "official_notification": "https://nstihaldwani.dgt.gov.in/sites/default/files/2026-06/Guest%20Faculty-1_0.pdf"
+    },
+    {
         "date": "18/06/2026",
         "board": "IIT Roorkee",
         "title": "General Duty Medical Officer",
@@ -173,7 +205,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "tgpsc-recruitment-2026-apply-online-for-86-lecturers-and-senior-lecturer-posts-3054612"
+        "official_notification": "Not Available"
     },
     {
         "date": "16/06/2026",

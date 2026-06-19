@@ -1,5 +1,37 @@
 [
     {
+        "date": "19/06/2026",
+        "board": "APMSRB",
+        "title": "Entomologist, Data Scientist, Data Engineer, Monitoring & Evaluation Manager-Data Analytics & Informatics, Programme Management Unit (Support Staff)",
+        "qualification": "M.Sc/Ph.D Entomology (Vector Biology), M.Sc, PhD in Data Science / M. Tech in Data Science/ Executive PG in Data Science & AI from IIT, B. Tech/M. Tech (CS/IT), Master’s degree in Social work (MSW) / Statistics / Mathematics / Data Analytics / Public Informatics, Postgraduate (MSW/IT/CS/Health/Admin/Management)",
+        "last_date": "30-06-2026",
+        "total_posts": "8",
+        "salary": "Rs. 1,00,000/- - Rs. 2,50,000/- Per Month",
+        "age_limit": "All Posts: OC: 42 years, EWS/SC/ST/BC: 47 years, Ex-servicemen: 50 years, Differently Abled: 52 years as on date of notification.",
+        "application_fee": "Rs. 2000/-",
+        "selection_process": "Merit and Rule of Reservation || Qualifying Examination (80 Marks) || Technical Interview (20 Marks)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://apmsrb.ap.gov.in/",
+        "official_notification": "https://apchfw.ap.gov.in:4016/msrb/uploads/notifications_go/2026/Jun2026/15Jun2026/6a2f5afccbb3f.pdf"
+    },
+    {
+        "date": "19/06/2026",
+        "board": "ISRO SDSC SHAR",
+        "title": "Post Name",
+        "qualification": "B.Ed",
+        "last_date": "07-07-2026",
+        "total_posts": "10",
+        "salary": "Level 7 (Rs. 44,900 - Rs. 1,42,400)",
+        "age_limit": "Post",
+        "application_fee": "Rs. 250",
+        "selection_process": "SDSC SHAR shortlists and selects teachers through a two-stage process - a written exam followed by a practical skill demonstration - explained below with the exact marking scheme.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://apps.shar.gov.in/Recruitment01_2026/css/images/TeachersAdvt2026.pdf"
+    },
+    {
         "date": "18/06/2026",
         "board": "ANU",
         "title": "Stenographer, Peon and More",
@@ -269,6 +301,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://apgenco.gov.in",
-        "official_notification": "tgpsc-recruitment-2026-apply-online-for-86-lecturers-and-senior-lecturer-posts-3054612"
+        "official_notification": "Not Available"
     }
 ]
