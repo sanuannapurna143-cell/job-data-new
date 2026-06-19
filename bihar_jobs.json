@@ -1,6 +1,38 @@
 [
     {
         "date": "19/06/2026",
+        "board": "DCPU Madhubani",
+        "title": "Assistant Person",
+        "qualification": "Post Graduate in Social Work (MSW)/Sociology/Psychology/Child Development or Law or Diploma in Child Rights/Counseling with Graduate degree in any discipline and three years experience",
+        "last_date": "09-07-2026",
+        "total_posts": "35",
+        "salary": "Rs. 9000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://madhubani.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s35ef0b4eba35ab2d6180b0bca7e46b6f9/uploads/2026/06/17818612452350.pdf"
+    },
+    {
+        "date": "19/06/2026",
+        "board": "DCPU Darbhanga",
+        "title": "Support Person",
+        "qualification": "Graduate in Social Work, Sociology, Psychology, Child Development",
+        "last_date": "07-07-2026",
+        "total_posts": "25",
+        "salary": "Rs. 9000 Consolidated per POCSO case (in three installments).",
+        "age_limit": "Minimum Age: 30 years || Maximum Age: 65 years",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://darbhanga.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3beed13602b9b0e6ecb5b568ff5058f07/uploads/2026/06/17817700278180.pdf"
+    },
+    {
+        "date": "19/06/2026",
         "board": "IIT Patna",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "B.Tech/B.E. in Biotechnology/Chemical/Biochemical Engineering or allied branches with minimum CPI of 6.5 or 60% marks, M.Tech/M.E. in Biotechnology/Chemical/Biochemical Engineering with minimum CPI of 6.5 or 60% marks",

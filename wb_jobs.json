@@ -1,5 +1,37 @@
 [
     {
+        "date": "19/06/2026",
+        "board": "NCSM",
+        "title": "Senior Technician (Carpentry), Technician (Carpentry/Fitter)",
+        "qualification": "SSC or Matriculation with ITI certificate or equivalent. Experience required as per post.",
+        "last_date": "10-07-2026",
+        "total_posts": "8",
+        "salary": "Senior Technician (Carpenter): Rs.45,000/- || Technician (Carpenter/Fitter): Rs.26,000/-",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in Interview || Walk-in Written Test & Trade Test || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ncsm.gov.in/",
+        "official_notification": "https://ncsm.gov.in/storage/files/details-of-advertisemet-1.pdf"
+    },
+    {
+        "date": "19/06/2026",
+        "board": "CNCI",
+        "title": "Senior Project Assistant",
+        "qualification": "First class M.Sc Degree in Life Sciences",
+        "last_date": "30-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30600 Consolidated",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://cnci.ac.in/",
+        "official_notification": "https://cnci.ac.in/backend/public/uploads/2026/06/16/Advertisement%20679_2026Final_ICMR_P.%20Saha_Advt_%20%20%28CNCI_Website%20Portal%29%20final.pdf"
+    },
+    {
         "date": "18/06/2026",
         "board": "IIEST Shibpur",
         "title": "Junior Research Fellow (JRF)",

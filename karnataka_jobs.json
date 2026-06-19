@@ -1,6 +1,38 @@
 [
     {
         "date": "19/06/2026",
+        "board": "Shivamogga District",
+        "title": "Supervisor (Gram Panchayat Awareness Center)",
+        "qualification": "PUC, Certificate in Library Science, 3 months Computer Course",
+        "last_date": "08-07-2026",
+        "total_posts": "14",
+        "salary": "Rs. 19201.32 Per Month",
+        "age_limit": "Min: 18 years, Max: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://shimoga.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s3d4c2e4a3297fe25a71d030b67eb83bfc/uploads/2026/06/17818501746464.pdf"
+    },
+    {
+        "date": "19/06/2026",
+        "board": "NAL",
+        "title": "Project Assistant, Project Associate – 48 Posts",
+        "qualification": "B.Tech/ B.E, Diploma, M.Sc",
+        "last_date": "29-06-2026",
+        "total_posts": "48",
+        "salary": "Candidates comparing pay across posts can note that CSIR-NAL's Project Staff emoluments scale upward with qualification level and specialization, ranging from Rs. 20,000/- to Rs. 35,000/- per month, all plus HRA. || This engagement is purely temporary and contract-based , co-terminus with the specific project, and does not confer any right to continuation, absorption, or regularization in CSIR. The contract can be terminated by either side with one month's notice or one month's stipend in lieu of notice .",
+        "age_limit": "The age limit for all 48 posts is 35 years , calculated as on the date of the respective Walk-in-Interview , not a fixed cut-off date. Age relaxation of 5 years applies to SC/ST/PwBD/Women candidates , and 3 years to OBC candidates , or as per prevailing Government of India instructions; candidates must attach documentary proof of category to claim this relaxation, failing which they will not be permitted to appear for the interview.",
+        "application_fee": "Candidates asking about the application fee for this recruitment can note that CSIR-NAL has not prescribed any application fee for Project Staff walk-in interviews. The only cost candidates bear is their own travel and stay, since no TA/DA (Travelling/Dearness Allowance) is paid for attending the interview, regardless of distance travelled or selection outcome.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://www.nal.res.in/sites/default/files/2026-06/Advt.%20No.12.%202026.PS%20final.pdf"
+    },
+    {
+        "date": "19/06/2026",
         "board": "NABFINS",
         "title": "Tele Caller - CSO",
         "qualification": "Any Graduate",
