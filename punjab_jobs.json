@@ -225,22 +225,6 @@
     },
     {
         "date": "11/06/2026",
-        "board": "PSSSB",
-        "title": "Veterinary Inspector (Group-C)",
-        "qualification": "Educational and technical qualification for the post of Veterinary Inspector shall be as prescribed in the departmental service rules (such as relevant Veterinary / Animal Husbandry diploma/degree and other conditions). Candidates must refer to the “Educational/Technical Qualification” section of the notification for complete details.",
-        "last_date": "19-06-2026",
-        "total_posts": "310",
-        "salary": "As per Punjab Government pay scale for Group-C Veterinary Inspector (see pay scale section in notification)",
-        "age_limit": "Relaxation in upper age limit as per instructions of Government of Punjab",
-        "application_fee": "Category-wise online application fee as given under the “Fee Details” section of the notification",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "1. Written Examination Objective type written test as per syllabus and exam pattern notified by SSSB Punjab",
-        "official_website": "https://sssb.punjab.gov.in/",
-        "official_notification": "http://sssb.punjab.gov.in/wp-content/uploads/2026/04/Advt.-No.-10-of-2026.pdf"
-    },
-    {
-        "date": "11/06/2026",
         "board": "IIT Ropar",
         "title": "Postdoctoral Research Fellow - Electronics/Communication/Electrical",
         "qualification": "PhD in EC, EE, or equivalent with good performance",
@@ -353,22 +337,6 @@
     },
     {
         "date": "08/06/2026",
-        "board": "PSSSB",
-        "title": "Line Superintendent, Group-C",
-        "qualification": "Three years Diploma in Electrical Engineering from a recognized institution",
-        "last_date": "19-06-2026",
-        "total_posts": "06",
-        "salary": "Rs. 35,400/- (Level-6) as per 7th Central Pay Commission Pay Scale + Allowances",
-        "age_limit": "Age Limit",
-        "application_fee": "Rs. 250/- (Rupees Two Hundred and Fifty only)",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://sssb.punjab.gov.in",
-        "official_notification": "https://sssb.punjab.gov.in/wp-content/uploads/2026/05/Advt.-No.-11-of-2026-Line-Superintendent.pdf"
-    },
-    {
-        "date": "08/06/2026",
         "board": "BFUHS",
         "title": "Sub Divisional Engineer",
         "qualification": "Degree in Engineering in respective discipline from a recognized University or Institution",
@@ -478,21 +446,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iimamritsar.ac.in",
         "official_notification": "https://iimamritsar.ac.in/img/Teaching_rolling.pdf"
-    },
-    {
-        "date": "27/05/2026",
-        "board": "PAU",
-        "title": "Research Assistant",
-        "qualification": "B.Sc. Horticulture/ B.Sc. Agriculture/ B.Sc Agriculture (Hons.)/ B.sc Biotechnology (Hons.) 4years/ B. Tech Biotechnology",
-        "last_date": "19-06-2026",
-        "total_posts": "1",
-        "salary": "Rs 35,000/- p.m for M.Sc. or Rs 40,000/- pm for Ph.D (fixed)",
-        "age_limit": "Not Available",
-        "application_fee": "Rs.200/-",
-        "selection_process": "Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://pau.edu/",
-        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7374"
     }
 ]
