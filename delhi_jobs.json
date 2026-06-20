@@ -1,6 +1,38 @@
 [
     {
         "date": "20/06/2026",
+        "board": "IAF",
+        "title": "Pharmacist",
+        "qualification": "B.Pharma, B.Sc, 12TH, D.Pharm",
+        "last_date": "26-07-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 550/- + 18% GST (Non-refundable)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://iafrecruitment.edcil.co.in/airmen/pdfforms/Advt%20Airmen%20Med%20Asst%2002%20of%202027.pdf"
+    },
+    {
+        "date": "20/06/2026",
+        "board": "ICSIL",
+        "title": "Helper/MTS",
+        "qualification": "Candidates must have passed Class 10th from a recognized board to be eligible for the Helper/MTS post.",
+        "last_date": "25-06-2026",
+        "total_posts": "75",
+        "salary": "Rs. 18,494/-",
+        "age_limit": "The minimum age required for applicants is 21 years as on the date specified in the notification. The official PDF does not mention an upper age limit, so candidates should refer to the PDF Download Link for any additional clarification before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "This section explains how ICSIL and DCCWS plan to shortlist and finally select candidates for the Helper/MTS engagement. || Scrutiny of documents related to age, qualification, and experience || Shortlisting of candidates, where if eligible applicants disproportionately exceed the number of positions, ICSIL may apply any rational criteria for shortlisting || Interaction/interview of shortlisted candidates with the department || Selection may also include a skill test or written test depending on the position || Final deployment is subject to the department's requirement; ICSIL does not guarantee deployment of all shortlisted candidates || Mere appearance in the interview/interaction does not guarantee selection, and the decision of the interview panel/committee is final and binding.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://icsil.in/app/uploads/advertisement/DCCWS_HelperMTS_online_advt__JUNE_2026.pdf"
+    },
+    {
+        "date": "20/06/2026",
         "board": "NWDA",
         "title": "Deputy Director/Executive Engineer and Superintending Engineer (Civil)",
         "qualification": "Diploma/Degree in Civil Engineering, Degree in Civil Engineering, 5 years experience in irrigation and water resources projects",
