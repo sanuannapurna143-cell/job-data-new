@@ -1,6 +1,38 @@
 [
     {
         "date": "22/06/2026",
+        "board": "Gujarat University",
+        "title": "Temporary Assistant Professor/ Temporary Research associate, Temporary Peon and More",
+        "qualification": "Master's degree with 55% marks in Microbiology or equivalent, NET/SLET/SET qualified or Ph.D. degree. OR Ph.D. from a foreign university ranked among top 500.",
+        "last_date": "30-06-2026",
+        "total_posts": "09",
+        "salary": "Rs. 45,000/- Consolidated",
+        "age_limit": "All Posts: No age limit specified.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.gujaratuniversity.ac.in/",
+        "official_notification": "https://beta.gujaratuniversity.ac.in/data/pdfs/Recruitment/Microbiology-Advertisement-Temporery%20Posts-2026.pdf"
+    },
+    {
+        "date": "22/06/2026",
+        "board": "CSIR CSMCRI",
+        "title": "Project Assistant-II / Project Associate -I / Senior Project Associate / Principal Project Associate / Project Scientist -I / Project Scientist -II",
+        "qualification": "Graduate, Masters, Doctoral degrees in various scientific and technical fields.",
+        "last_date": "07-07-2026",
+        "total_posts": "62",
+        "salary": "Project Assistant-II: ₹20,000+ HRA (Increment of 15% after 3 years of experience in the same project) || Senior Project Associate: ₹31,000+ HRA for candidates with CSIR-UGC/ICAR/ICMR NET including Lectureship/ assistant professorship or GATE or National Level examination, OR ₹25,000+ HRA for others. || Principal Project Associate: ₹49,000 + HRA || Project Scientist -I: ₹56,000+ HRA (Increment of 5% for every 2 years of experience in the same project) || Project Scientist -II: ₹67,000 + HRA (Increment of 5% for every 2 years of experience in the same project)",
+        "age_limit": "Project Assistant-II: Maximum age limit is 35 years. || Senior Project Associate: Maximum age limit is 35 years. || Principal Project Associate: Maximum age limit is 40 years. || Project Scientist -I: Maximum age limit is 35 years. || Project Scientist -II: Maximum age limit is 40 years. || Age relaxations will be applicable as per Government of India/CSIR instructions.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.csmcri.res.in/",
+        "official_notification": "https://www.csmcri.res.in/node/11011"
+    },
+    {
+        "date": "22/06/2026",
         "board": "RNSB",
         "title": "Apprentice - Peon",
         "qualification": "Any Graduate",
@@ -93,7 +125,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://gsssb.gujarat.gov.in",
-        "official_notification": "up-anganwadi-worker-recruitment-2026-apply-online-for-75-posts-in-lalitpur-district-3054997"
+        "official_notification": "Not Available"
     },
     {
         "date": "20/06/2026",
@@ -586,7 +618,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "There is no written examination or interview for this apprenticeship. Selection is done purely on a first-come-first-serve basis, subject to verification of documents and eligibility. || Candidates appearing earlier in the walk-in period have a higher chance of selection, given limited seats. || Candidates who do not meet medical fitness criteria at the time of joining will have their candidature cancelled automatically.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.sac.gov.in/file/career/NOTICE.pdf"

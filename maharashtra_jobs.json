@@ -1,6 +1,22 @@
 [
     {
         "date": "22/06/2026",
+        "board": "AIIMS Nagpur",
+        "title": "Senior Resident",
+        "qualification": "Post Graduate Medical Degree in respective discipline from a recognized University/Institute",
+        "last_date": "18-07-2026",
+        "total_posts": "51",
+        "salary": "The selected candidates will receive a salary of Rs. 67700 Per Month (Level-11, Cell No. 01 As per 7th CPC) plus usual allowances including NPA (if applicable).",
+        "age_limit": "Maximum Age Limit: 45 years as on 18-07-2026. || Age Relaxation: 5 years for SC/ST, 3 years for OBC, up to 10/13/15 years for PwD (General/OBC/SC-ST).",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsnagpur.edu.in",
+        "official_notification": "https://aiimsnagpur.edu.in/upload/recruitment/Advt_SR_2026_03.pdf"
+    },
+    {
+        "date": "22/06/2026",
         "board": "IISER Pune",
         "title": "Research Associate-II",
         "qualification": "Ph.D. in Life Sciences / Biology / Biotechnology/ Botany / Science with minimum 1 year of relevant research experience.",
@@ -1226,7 +1242,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "There is no written examination or interview for this apprenticeship. Selection is done purely on a first-come-first-serve basis, subject to verification of documents and eligibility. || Candidates appearing earlier in the walk-in period have a higher chance of selection, given limited seats. || Candidates who do not meet medical fitness criteria at the time of joining will have their candidature cancelled automatically.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.sac.gov.in/file/career/NOTICE.pdf"
