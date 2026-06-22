@@ -1,5 +1,37 @@
 [
     {
+        "date": "22/06/2026",
+        "board": "HLL",
+        "title": "Facility Supervisor",
+        "qualification": "Minimum 12th Pass",
+        "last_date": "25-06-2026",
+        "total_posts": "8",
+        "salary": "Rs. 35,000/- to Rs. 40,000/- per month",
+        "age_limit": "Maximum Age Limit: 40 years || Age relaxation will be provided as per Government of India rules for SC/ST/OBC (Non-Creamy Layer)/PwD.",
+        "application_fee": "Nil",
+        "selection_process": "Document Verification || Personal Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.lifecarehll.com",
+        "official_notification": "https://www.lifecarehll.com/file/download/reference/9de458965db9c80e1afc5af36a8f93b6hYSFf38"
+    },
+    {
+        "date": "22/06/2026",
+        "board": "CNCI",
+        "title": "Stipendiary Intern-Clinical Pharmacist",
+        "qualification": "Pharm. D or M.Pharm (Pharmacy Practice) from an institution approved by the Pharmacy Council of India",
+        "last_date": "05-07-2026",
+        "total_posts": "4",
+        "salary": "Rs. 20000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "200",
+        "selection_process": "Shortlisting || Interview || Document Verification || Merit List",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://cnci.ac.in/",
+        "official_notification": "https://cnci.ac.in/backend/public/uploads/2026/06/18/%284%20Post%29Advt.for%20Stipendiary%20Traineeship-Clinical%20Pharmacist%281%29.pdf"
+    },
+    {
         "date": "20/06/2026",
         "board": "IIEST",
         "title": "Project Associate",
@@ -93,7 +125,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "hpsebl-apprentices-recruitment-2026-apply-online-for-98-posts-3054893"
+        "official_notification": "Not Available"
     },
     {
         "date": "17/06/2026",

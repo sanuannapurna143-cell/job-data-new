@@ -1,6 +1,6 @@
 [
     {
-        "date": "18/06/2026",
+        "date": "22/06/2026",
         "board": "HSSC",
         "title": "Group D",
         "qualification": "For all Group-D posts except Sweeper, Chowkidar, and Sweeper-cum-Chowkidar, a candidate must hold: || Matriculationfrom a recognized Board, and || Hindi or Sanskritup to Matriculation as one of the subjects studied. || The notification clarifies that the detailed, post-wise educational qualification (for the specific Group-D posts) will be published separately along with the vacancy details.",
@@ -13,7 +13,23 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.hssc.gov.in",
-        "official_notification": "hpsebl-apprentices-recruitment-2026-apply-online-for-98-posts-3054893"
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "22/06/2026",
+        "board": "NBRC",
+        "title": "Research Associate-I",
+        "qualification": "Ph.D. in Science or Engineering or M.D./M.S. in any area of medicine with research interests in Neuroscience and at least one first-author publication arising from PhD work",
+        "last_date": "09-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 58,000/- + HRA per month",
+        "age_limit": "Maximum Age Limit: 40 years || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nbrc.ac.in/",
+        "official_notification": "https://www.nbrc.ac.in/newweb/wp-content/uploads/2026/06/sourav-RA-1-advt-04-2026.pdf"
     },
     {
         "date": "18/06/2026",

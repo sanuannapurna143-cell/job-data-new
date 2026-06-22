@@ -1,5 +1,21 @@
 [
     {
+        "date": "22/06/2026",
+        "board": "RSSB",
+        "title": "Senior Computer Instructor & Basic Computer Instructor – 3951 Posts",
+        "qualification": "For Senior Computer Instructor: || Candidates must hold one of the following qualifications: || ME/M.Tech in Computer Science (CS) / Information Technology (IT) / Electronics & Communications Engineering (ECE) / Electrical Engineering (EE) / Electrical & Electronics Engineering (EEE) / Electronics & Telecommunication Engineering (ETE) / Electronics & Instrumentation Engineering (EIE) || M.Sc. in Computer Science (CS) or Information Technology (IT) || Master in Computer Application (MCA) / 'B' Level / 'C' Level || Any equivalent or higher qualification recognised by the Government || For Basic Computer Instructor: || Candidates must hold one of the following: || Graduate with 'A' Level / PGDCA (minimum one year) || BE/B.Tech in Computer Science (CS) / IT / ECE / EE / EEE / Electronic Instrumentation & Control (EIC) / Telecommunications & Instrumentation (TIE) || B.Sc. in Computer Science (CS) or Information Technology (IT) || Bachelor in Computer Application (BCA) from a university established by law in India || Any equivalent or higher qualification recognised by the Government || Both posts additionally require working knowledge of Hindi written in Devanagari script and knowledge of Rajasthani culture. || Candidates appearing in the final year of the prescribed qualifying examination are also eligible to apply, but they must submit proof of completing the qualification before the written examination date.",
+        "last_date": "23-06-2026",
+        "total_posts": "3951",
+        "salary": "Pay Matrix Level 10",
+        "age_limit": "Age is calculated as of 01 January 2027 (the first day of January following the application closing date). Candidates must be a minimum of 18 years and must not have completed 40 years as on 01 January 2027. || Upper Age Relaxation: || Age relaxations are non-cumulative - candidates can claim only one of the above provisions.",
+        "application_fee": "₹600",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://rssb.rajasthan.gov.in/storage/advertisement_item/1779453807.pdf"
+    },
+    {
         "date": "20/06/2026",
         "board": "CSIR CEERI",
         "title": "Technical Officer and Technician",
@@ -62,22 +78,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iitj.ac.in",
         "official_notification": "https://erponline.iitj.ac.in/RnDOutside/projectTemporaryAppointment.htm"
-    },
-    {
-        "date": "13/06/2026",
-        "board": "RSSB",
-        "title": "Senior Computer Instructor & Basic Computer Instructor – 3951 Posts",
-        "qualification": "For Senior Computer Instructor: || Candidates must hold one of the following qualifications: || ME/M.Tech in Computer Science (CS) / Information Technology (IT) / Electronics & Communications Engineering (ECE) / Electrical Engineering (EE) / Electrical & Electronics Engineering (EEE) / Electronics & Telecommunication Engineering (ETE) / Electronics & Instrumentation Engineering (EIE) || M.Sc. in Computer Science (CS) or Information Technology (IT) || Master in Computer Application (MCA) / 'B' Level / 'C' Level || Any equivalent or higher qualification recognised by the Government || For Basic Computer Instructor: || Candidates must hold one of the following: || Graduate with 'A' Level / PGDCA (minimum one year) || BE/B.Tech in Computer Science (CS) / IT / ECE / EE / EEE / Electronic Instrumentation & Control (EIC) / Telecommunications & Instrumentation (TIE) || B.Sc. in Computer Science (CS) or Information Technology (IT) || Bachelor in Computer Application (BCA) from a university established by law in India || Any equivalent or higher qualification recognised by the Government || Both posts additionally require working knowledge of Hindi written in Devanagari script and knowledge of Rajasthani culture. || Candidates appearing in the final year of the prescribed qualifying examination are also eligible to apply, but they must submit proof of completing the qualification before the written examination date.",
-        "last_date": "23-06-2026",
-        "total_posts": "3951",
-        "salary": "Pay Matrix Level 10",
-        "age_limit": "Age is calculated as of 01 January 2027 (the first day of January following the application closing date). Candidates must be a minimum of 18 years and must not have completed 40 years as on 01 January 2027. || Upper Age Relaxation: || Age relaxations are non-cumulative - candidates can claim only one of the above provisions.",
-        "application_fee": "₹600",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://rssb.rajasthan.gov.in/storage/advertisement_item/1779453807.pdf"
     },
     {
         "date": "13/06/2026",
@@ -154,7 +154,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "There is no written examination or interview for this apprenticeship. Selection is done purely on a first-come-first-serve basis, subject to verification of documents and eligibility. || Candidates appearing earlier in the walk-in period have a higher chance of selection, given limited seats. || Candidates who do not meet medical fitness criteria at the time of joining will have their candidature cancelled automatically.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.sac.gov.in/file/career/NOTICE.pdf"

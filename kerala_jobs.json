@@ -1,5 +1,53 @@
 [
     {
+        "date": "22/06/2026",
+        "board": "Kudumbashree",
+        "title": "Accountant (NRLM)",
+        "qualification": "B.Com, DCA, Tally",
+        "last_date": "01-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30,000 per month",
+        "age_limit": "Maximum age limit is 40 years as on 01/01/2026.",
+        "application_fee": "Rs. 500",
+        "selection_process": "Scrutiny of applications || Screening || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cmd.kerala.gov.in",
+        "official_notification": "https://cmd.kerala.gov.in/wp-content/uploads/2026/06/Kudumbashree-NRLM-notification.pdf"
+    },
+    {
+        "date": "22/06/2026",
+        "board": "Kerala University",
+        "title": "Research Intern",
+        "qualification": "Master's Degree in Economics with a minimum of 55% marks. Must possess a valid SC/ST community certificate",
+        "last_date": "29-06-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Rs. 15,000/- per month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.keralauniversity.ac.in",
+        "official_notification": "https://www.keralauniversity.ac.in/pdfs/jobNoti/Notification1781867063.pdf"
+    },
+    {
+        "date": "22/06/2026",
+        "board": "FACT",
+        "title": "Data Processing Assistant on Fixed Tenure Contract (Adhoc Basis)",
+        "qualification": "Completed Apprenticeship in Computer Engineering from FACT Training & Development Centre",
+        "last_date": "28-06-2026",
+        "total_posts": "Not  Mentioned",
+        "salary": "Consolidated pay of Rs. 25,000/- per month with 3% increase annually",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 35 years || Age Relaxation:SC/ST: up to 5 yearsOBC-NCL: up to 3 yearsPWBD: up to 10 years || SC/ST: up to 5 years || OBC-NCL: up to 3 years || PWBD: up to 10 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Preliminary scrutiny of documents and application || Ranking based on earlier year of passing Apprenticeship and Apprenticeship Token Number || Pre-employment Medical Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.fact.co.in",
+        "official_notification": "https://fact.co.in/images/upload/Recruitment-Notification-5-2026-dated-20.06.2026_1491.pdf"
+    },
+    {
         "date": "20/06/2026",
         "board": "MGU",
         "title": "Junior Research Fellow / Project Associate-I",
@@ -141,7 +189,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "hpsebl-apprentices-recruitment-2026-apply-online-for-98-posts-3054893"
+        "official_notification": "smvdsb-recruitment-2026-apply-online-for-105-junior-assistant-storekeeper-and-more-posts-3054390"
     },
     {
         "date": "17/06/2026",
@@ -282,7 +330,7 @@
         "age_limit": "Note: Age relaxation is subject to submission of a valid certificate. Cut-off date for age is 22.06.2026.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "http://www.railtelindia.com",
         "official_notification": "https://www.railtel.in/images/careers/KSITM%20Vacancy%20notification.pdf"

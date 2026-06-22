@@ -1,6 +1,70 @@
 [
     {
-        "date": "20/06/2026",
+        "date": "22/06/2026",
+        "board": "RNSB",
+        "title": "Apprentice - Peon",
+        "qualification": "Any Graduate",
+        "last_date": "27-06-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age Limit: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://jobs.rnsb.bank.in/",
+        "official_notification": "https://jobs.rnsb.bank.in/CurrentOpening.aspx"
+    },
+    {
+        "date": "22/06/2026",
+        "board": "RMC",
+        "title": "Panel Advocate",
+        "qualification": "Valid Advocate Sanad, Minimum 5 years experience in Food Safety Act related cases or Food Safety Appellate Tribunal cases",
+        "last_date": "10-07-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 6000/- per case",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rmc.gov.in",
+        "official_notification": "http://117.217.104.235/RMCRecruit/documents/upload/Penel%20Advocate%20Ad%20for%20EDP001.pdf"
+    },
+    {
+        "date": "22/06/2026",
+        "board": "SMC",
+        "title": "Post Name",
+        "qualification": "1. Director (Information Technology) - Cancelled || Education:Postgraduate degree in Computer / Electronics / Electronics & Communication / Information & Communication Technology / Electronics & Telecommunication / Computer Science / Information Technology Engineering from a recognized university/institute. || Experience:9 years' experience after postgraduate degree in a government/semi-government organization in a post with pay scale of ₹8,000–13,500/-, involving Information Technology work. || 2. Departmental Enquiry Officer - Cancelled || Education:Bachelor's degree in Law (LLB) from a recognized university. || Experience:Minimum 10 years' experience after obtaining degree in Labour Court, Industrial Tribunal, Conciliation, etc. Candidates with experience as Arbitrator will be given preference. || Additional:Must have basic computer knowledge; knowledge of Gujarati and Hindi languages is required. || 3. Administrative Officer || Education:Postgraduate degree in any stream from a recognized university. || Experience:7 years' experience in administrative work in any government/semi-government organization, Municipal Corporation, Board, or Corporation. || 4. Assistant Architect || Education:B.E. (Civil) or Bachelor of Architecture (B.Arch.) from a recognized university, plus a postgraduate degree or diploma in City Planning / Regional Planning / Urban Design from a recognized university/institute, OR membership of the Town Planners' Association after passing its examination. || Additional:Must have basic computer knowledge; knowledge of Gujarati and Hindi languages is required. || 5. Senior Swimming Pool Instructor - Cancelled || Education:Bachelor's degree in any stream from a recognized university/institute AND a 10-month regular Swimming Course conducted by Sports Authority of India / Netaji Subhash Institute of Sports. || Additional:Must have completed first aid training with certificate from a recognized organization. Preference to candidates who have participated in state/national level swimming competitions, or those who have served as Life Saver/Swimming Coach with SMC on honorarium basis. || 6. Junior Swimming Pool Instructor - Cancelled || Education:Bachelor's degree in any stream AND a 6-week Certificate Course in Swimming conducted by Sports Authority of India / Netaji Subhash Institute of Sports, with 5 years' swimming experience. || Additional:First aid training certificate required. Preference to state/national level swimmers or those who have served as Life Saver/Swimming Coach with SMC. || 7. Junior Lady Swimming Pool Instructor - Cancelled || Same qualifications as Junior Swimming Pool Instructor. Female candidates only. || 8. Electrical Wireman || Education:ITI Electrician OR Second Class Wireman examination pass. || Experience:3 years' experience as Electrical Wireman. || Additional:Knowledge as Cable Jointer for HT/LT Switch Gear work. Priority given to those with specialized skills or higher qualifications/experience.",
+        "last_date": "06-07-2026",
+        "total_posts": "80",
+        "salary": "SMC offers competitive pay scales aligned with the state government pay matrix. For Swimming Pool Instructor posts and Electrical Wireman, a fixed monthly training stipend of ₹16,500/– (Junior) or ₹17,500/– (Senior) applies for the first three years.",
+        "age_limit": "Age is reckoned as on the last date for online application (06 July 2026) . The upper age limit varies by post and must not exceed the prescribed limit even after relaxation. || Candidates wondering about age relaxation can note that reserved category (SC, ST, SEBC, EWS) candidates who are original Gujarat domicile residents are eligible for age relaxation as per prevailing government rules, but the upper age limit after relaxation must not exceed 45 years . Regular employees of Surat Municipal Corporation are exempt from the upper age limit . SMC trainees (on fixed monthly stipend) are subject to the age limit rules.",
+        "application_fee": "The application fee must be paid online only. Cash, Demand Draft, Postal Order, or Pay Order payments are not accepted. Bank charges levied during online payment are to be borne by the applicant. || Important : Once the online fee is paid, it is non-refundable under any circumstances. If a candidate submits the form again using the re-apply option, the earlier form is cancelled but the fee already paid is not refunded.",
+        "selection_process": "The selection may include any combination of the following, depending on the post: || Written Test(objective/descriptive as applicable) || Practical Test || Oral Interview / Viva Voce || Document Verification || Physical Fitness Test(where applicable) || Candidates will be notified via their registered mobile number (SMS) and through call letters published on the SMC website. All candidates must attend at their own expense at the venue specified by the appointing authority. || Tie-breaking rule: If two or more candidates score equal marks, the older candidate (by date of birth) gets priority in the merit list. If both marks and date of birth are equal, priority is given based on educational merit.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.suratmunicipal.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/06/852140-6a38bc17c20b95784836.pdf"
+    },
+    {
+        "date": "22/06/2026",
+        "board": "Gujarat Vidyapith",
+        "title": "Stenographer, Driver and More",
+        "qualification": "Master's degree, Bachelor's degree, 12th Class pass, Matriculation Pass",
+        "last_date": "19-07-2026",
+        "total_posts": "13",
+        "salary": "Pay Level-1 to Pay Level-10",
+        "age_limit": "All Posts: Please refer to the official notification for specific age limits. || Age Relaxation: PwBD age relaxation SC/ST-15 years, OBC-13 Years and Unreserved-10 Years (varies by post).",
+        "application_fee": "1000",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://gujaratvidyapith.org",
+        "official_notification": "https://www.gujaratvidyapith.org/flipbook/flipbook.php?f=aHR0cHM6Ly93d3cuZ3VqYXJhdHZpZHlhcGl0aC5vcmcvY29tbW9uL21lZGlhL3JlcG9ydF8yNjA2MTcwNTQwNDk3Ni5wZGY%3D"
+    },
+    {
+        "date": "22/06/2026",
         "board": "SVNIT, Surat",
         "title": "Teaching Assistant",
         "qualification": "M.Tech./M.E. and B.Tech./B.E. (Chemical Engineering or allied branch) with First class or equivalent CGPA (min. 6.5 on a 10-point scale) and good academic record. Ph.D. (Chemical Engineering or allied branch) with First class or equivalent CGPA (min. 6.5 on a 10-point scale) in M.Tech./M.E. and B.Tech./B.E. (Chemical Engineering or allied branch) with good academic record.",
@@ -29,7 +93,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://gsssb.gujarat.gov.in",
-        "official_notification": "hpsebl-apprentices-recruitment-2026-apply-online-for-98-posts-3054893"
+        "official_notification": "up-anganwadi-worker-recruitment-2026-apply-online-for-75-posts-in-lalitpur-district-3054997"
     },
     {
         "date": "20/06/2026",
@@ -384,22 +448,6 @@
         "official_notification": "https://gsssb.gujarat.gov.in/ViewFile?fileName=4naZ%E2%9C%BF8wS64TzwZ61AZrbMP4tvDBt3Mj8UPSd1xKcshuEvrlJ%E2%9C%A4sbM2cQCf5hszuMH9wULAEYGdjvODDy47FAMmfQY7o8r4q5HWPb09RhIPxPkWSSKW0nCtJexNrv3QQptQfKOrbJx57Lb6ROQsEOgyg%E2%99%AC%E2%99%AC"
     },
     {
-        "date": "15/06/2026",
-        "board": "SMC",
-        "title": "Post Name",
-        "qualification": "1. Director (Information Technology) || Education:Postgraduate degree in Computer / Electronics / Electronics & Communication / Information & Communication Technology / Electronics & Telecommunication / Computer Science / Information Technology Engineering from a recognized university/institute. || Experience:9 years' experience after postgraduate degree in a government/semi-government organization in a post with pay scale of ₹8,000–13,500/-, involving Information Technology work. || 2. Departmental Enquiry Officer || Education:Bachelor's degree in Law (LLB) from a recognized university. || Experience:Minimum 10 years' experience after obtaining degree in Labour Court, Industrial Tribunal, Conciliation, etc. Candidates with experience as Arbitrator will be given preference. || Additional:Must have basic computer knowledge; knowledge of Gujarati and Hindi languages is required. || 3. Administrative Officer || Education:Postgraduate degree in any stream from a recognized university. || Experience:7 years' experience in administrative work in any government/semi-government organization, Municipal Corporation, Board, or Corporation. || 4. Assistant Architect || Education:B.E. (Civil) or Bachelor of Architecture (B.Arch.) from a recognized university, plus a postgraduate degree or diploma in City Planning / Regional Planning / Urban Design from a recognized university/institute, OR membership of the Town Planners' Association after passing its examination. || Additional:Must have basic computer knowledge; knowledge of Gujarati and Hindi languages is required. || 5. Senior Swimming Pool Instructor || Education:Bachelor's degree in any stream from a recognized university/institute AND a 10-month regular Swimming Course conducted by Sports Authority of India / Netaji Subhash Institute of Sports. || Additional:Must have completed first aid training with certificate from a recognized organization. Preference to candidates who have participated in state/national level swimming competitions, or those who have served as Life Saver/Swimming Coach with SMC on honorarium basis. || 6. Junior Swimming Pool Instructor || Education:Bachelor's degree in any stream AND a 6-week Certificate Course in Swimming conducted by Sports Authority of India / Netaji Subhash Institute of Sports, with 5 years' swimming experience. || Additional:First aid training certificate required. Preference to state/national level swimmers or those who have served as Life Saver/Swimming Coach with SMC. || 7. Junior Lady Swimming Pool Instructor || Same qualifications as Junior Swimming Pool Instructor. Female candidates only. || 8. Electrical Wireman || Education:ITI Electrician OR Second Class Wireman examination pass. || Experience:3 years' experience as Electrical Wireman. || Additional:Knowledge as Cable Jointer for HT/LT Switch Gear work. Priority given to those with specialized skills or higher qualifications/experience.",
-        "last_date": "06-07-2026",
-        "total_posts": "120",
-        "salary": "SMC offers competitive pay scales aligned with the state government pay matrix. For Swimming Pool Instructor posts and Electrical Wireman, a fixed monthly training stipend of ₹16,500/– (Junior) or ₹17,500/– (Senior) applies for the first three years.",
-        "age_limit": "Age is reckoned as on the last date for online application (06 July 2026) . The upper age limit varies by post and must not exceed the prescribed limit even after relaxation. || Candidates wondering about age relaxation can note that reserved category (SC, ST, SEBC, EWS) candidates who are original Gujarat domicile residents are eligible for age relaxation as per prevailing government rules, but the upper age limit after relaxation must not exceed 45 years . Regular employees of Surat Municipal Corporation are exempt from the upper age limit . SMC trainees (on fixed monthly stipend) are subject to the age limit rules.",
-        "application_fee": "The application fee must be paid online only. Cash, Demand Draft, Postal Order, or Pay Order payments are not accepted. Bank charges levied during online payment are to be borne by the applicant. || Important : Once the online fee is paid, it is non-refundable under any circumstances. If a candidate submits the form again using the re-apply option, the earlier form is cancelled but the fee already paid is not refunded.",
-        "selection_process": "The selection may include any combination of the following, depending on the post: || Written Test(objective/descriptive as applicable) || Practical Test || Oral Interview / Viva Voce || Document Verification || Physical Fitness Test(where applicable) || Candidates will be notified via their registered mobile number (SMS) and through call letters published on the SMC website. All candidates must attend at their own expense at the venue specified by the appointing authority. || Tie-breaking rule: If two or more candidates score equal marks, the older candidate (by date of birth) gets priority in the merit list. If both marks and date of birth are equal, priority is given based on educational merit.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.suratmunicipal.gov.in",
-        "official_notification": "https://www.suratmunicipal.gov.in/Contents/Jobs/Opening/1717504.pdf?ver=9533"
-    },
-    {
         "date": "12/06/2026",
         "board": "AIIMS Rajkot",
         "title": "Professor, Additional Professor, Associate Professor, Assistant Professor",
@@ -538,7 +586,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "There is no written examination or interview for this apprenticeship. Selection is done purely on a first-come-first-serve basis, subject to verification of documents and eligibility. || Candidates appearing earlier in the walk-in period have a higher chance of selection, given limited seats. || Candidates who do not meet medical fitness criteria at the time of joining will have their candidature cancelled automatically.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.sac.gov.in/file/career/NOTICE.pdf"

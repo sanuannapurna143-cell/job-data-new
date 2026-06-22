@@ -224,22 +224,6 @@
         "official_notification": "https://cdn.s3waas.gov.in/s39c838d2e45b2ad1094d42f4ef36764f6/uploads/2026/06/17813519796293.pdf"
     },
     {
-        "date": "12/06/2026",
-        "board": "Siwan District Court",
-        "title": "Temporary Attender",
-        "qualification": "12th Pass",
-        "last_date": "21-06-2026",
-        "total_posts": "10",
-        "salary": "Minimum Wage",
-        "age_limit": "Min: 18 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://siwan.dcourts.gov.in/",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec05ead81fe8cfe9fda9e4c2093e17e4/uploads/2026/06/2026060364.pdf"
-    },
-    {
         "date": "09/06/2026",
         "board": "DCPU Munger",
         "title": "Manager/Coordinator, Ayah",
@@ -270,22 +254,6 @@
         "syllabus": "Not Available",
         "official_website": "https://arwal.nic.in",
         "official_notification": "https://cdn.s3waas.gov.in/s366808e327dc79d135ba18e051673d906/uploads/2026/06/17805609366244.pdf"
-    },
-    {
-        "date": "08/06/2026",
-        "board": "BSSA",
-        "title": "Doctor, Yoga Instructor and More – 17 Posts",
-        "qualification": "MBBS, Any Masters Degree, M.Sc, M.Phil/ Ph.D, MS/ MD",
-        "last_date": "21-06-2026",
-        "total_posts": "17",
-        "salary": "₹1,00,000 - ₹1,50,000",
-        "age_limit": "Designation",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://coach.biharsports.org/"
     },
     {
         "date": "05/06/2026",
@@ -334,21 +302,5 @@
         "syllabus": "Not Available",
         "official_website": "http://www.ssgopalganj.in",
         "official_notification": "https://www.ssgopalganj.in/Documents/vacancy/2026/Notification.pdf"
-    },
-    {
-        "date": "21/05/2026",
-        "board": "BPSSC",
-        "title": "Assistant Sub-Inspector (Technical)",
-        "qualification": "Diploma in Electronics & Communication, Electronics & Tele Communication, Information Technology, or Electrical & Electronics with at least 50% marks (45% for SC/ST).",
-        "last_date": "21-06-2026",
-        "total_posts": "22",
-        "salary": "Level-5",
-        "age_limit": "Min: 21 years. Max: 37 years (UR Male), 40 years (UR Female, OBC Male/Female), 42 years (SC/ST Male/Female).",
-        "application_fee": "Rs. 100",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bpssc.bihar.gov.in",
-        "official_notification": "https://bpssc.bihar.gov.in/Notices/Final%20Advt.-%2007-2026.pdf"
     }
 ]
