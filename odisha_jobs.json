@@ -1,6 +1,38 @@
 [
     {
         "date": "23/06/2026",
+        "board": "National H.S.S. Nuapada",
+        "title": "Guest Faculties",
+        "qualification": "B.Sc. Agriculture for Crop Production and BE, B.Tech. in CS/IT or MCA or Master of IT or DOECCA \"B Level\" certificate.",
+        "last_date": "30-06-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "As per guidelines of D.H.S.E., Odisha",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://nuapada.odisha.gov.in",
+        "official_notification": "https://nuapada.odisha.gov.in/sites/default/files/2026-06/ITs.pdf"
+    },
+    {
+        "date": "23/06/2026",
+        "board": "Delhi Public School Rourkela",
+        "title": "Teaching and Non Teaching",
+        "qualification": "Post Graduate 1st Division with B.Ed., Graduation 1st Division with B.Ed., Graduate 1st Division with B.Ed., Graduation 1st Div. with Master in Public Admin / MBA., Graduation 1st Division with PGDCA., Passed Sr. Secondary Certificate Exam.",
+        "last_date": "08-07-2026",
+        "total_posts": "15",
+        "salary": "As per norms of Delhi Public School Society",
+        "age_limit": "Sl. No. 1 to 5: Maximum 45 years as on 30 June 2026. || Sl. No. 6 to 13: Maximum 40 years as on 30 June 2026.",
+        "application_fee": "₹1,000/- (Rupees one thousand only) in shape of Demand Draft drawn in favour of \"Delhi Public School Rourkela\" payable at Rourkela.",
+        "selection_process": "Written Test || Interview",
+        "apply_mode": "Online/Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://dpsrkl.in/",
+        "official_notification": "https://dpsrkl.in/career/#"
+    },
+    {
+        "date": "23/06/2026",
         "board": "AIIMS Bhubaneswar",
         "title": "Project Research Scientist I (Non-Medical)",
         "qualification": "Post Graduate Degree in Microbiology/Biotechnology/Life Sciences/Bioinformatics/Biological Sciences/Life Sciences/Biomedical Science/Medical Laboratory Technology/Computational Biology and Integrative Sciences, including the integrated PG degrees",
@@ -77,7 +109,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "telangana-anganwadi-teacher-recruitment-2026-apply-online-for-64-posts-in-peddapalli-district-3055163"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/06/2026",

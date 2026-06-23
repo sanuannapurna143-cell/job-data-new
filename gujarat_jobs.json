@@ -1,6 +1,38 @@
 [
     {
         "date": "23/06/2026",
+        "board": "SVNIT",
+        "title": "Research Personnel",
+        "qualification": "B.E./B.Tech./M.E./M.Tech. (Electronics/Electronics & Communication/equivalent degree) with minimum aggregate First Class/CGPA 6.5 for all qualified degrees. For JRF, qualification in National Level eligibility test CSIR-UGC NET/GATE is required. For Project Associate-II and Project Associate-I, 2 years' experience in Research and Development is preferred for Project Associate-II.",
+        "last_date": "05-07-2026",
+        "total_posts": "6",
+        "salary": "Research Personnel (Junior Research Fellow):Rs. 37,000/- + HRA@ 20% p.m. || Research Personnel (Project Associate-II):With GATE/NET*: Rs. 35,000/- + HRA@ 20% p.m. Without GATE/NET*: Rs. 28,000/- + HRA@ 20% p.m. || Research Personnel (Project Associate-I):With GATE/NET*: Rs. 31,000/- + HRA@ 20% p.m. Without GATE/NET*: Rs. 25,000/- + HRA@ 20% p.m.",
+        "age_limit": "Project Associate-II: Maximum 35 years || Project Associate-I: Maximum 35 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Application submission || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://www.svnit.ac.in",
+        "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/June/001-Advertisement_SVNIT_C2S_20062026.pdf"
+    },
+    {
+        "date": "23/06/2026",
+        "board": "DHS Botad",
+        "title": "Ayush Medical Officer, Health Test Technician, Pharmacist, FHW, MPHW",
+        "qualification": "B.A.M.S./B.H.M.S., B.Sc./M.Sc. Anatomy/Biochemistry, D.Pharmacy/Pharmacy, A.N.M., MPHW/SI Course",
+        "last_date": "28-06-2026",
+        "total_posts": "07",
+        "salary": "Rs. 11000 - 22000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Online Application || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://arogyasathi.gujarat.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/06/896320-6a3a220a9f9d013626481.pdf"
+    },
+    {
+        "date": "23/06/2026",
         "board": "IIT Gandhinagar",
         "title": "Senior Research Fellow",
         "qualification": "Postgraduate Degree in Basic Sciences, or Graduate/Postgraduate Degree in a Professional Course, Selected through a national-level examination such as CSIR-UGC NET, DBT-BET, GATE, ICMR-JRF, ICAR, or equivalent national-level selection process. Minimum two years of research experience after obtaining the qualifying degree.",
@@ -205,7 +237,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://gsssb.gujarat.gov.in",
-        "official_notification": "igcar-jrf-recruitment-2026-apply-online-for-50-junior-research-fellowship-posts-3055177"
+        "official_notification": "Not Available"
     },
     {
         "date": "20/06/2026",

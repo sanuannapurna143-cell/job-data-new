@@ -1,6 +1,22 @@
 [
     {
         "date": "23/06/2026",
+        "board": "Punjab & Sind Bank",
+        "title": "Bank's Medical Consultant",
+        "qualification": "M.D. in general medicine recognized by Medical Council of India with at least 05 years of experience after passing M.D. OR M.B.B.S/ BHMS having at least 07 years of experience after passing M.B.B.S/ BHMS as a registered Medical Practitioner. Preference to M.D. qualification or doctors empanelled with PSU/Banks.",
+        "last_date": "15-07-2026",
+        "total_posts": "Not mentioned",
+        "salary": "Rs. 800 per hour",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Scrutiny of Applications || Shortlisting || Interview || Final Selection based on Interview Marks",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://punjabandsind.bank.in",
+        "official_notification": "https://punjabandsind.bank.in/system/uploads/recruitment/7932_2026062316310873073.pdf"
+    },
+    {
+        "date": "23/06/2026",
         "board": "IIT Mandi",
         "title": "Project Associate-I",
         "qualification": "Master's degree in Engineering/Technology (M.Tech./M.E./MCA) in Computer Science and Engineering, Computer Application or Human-Computer Interaction, with CGPA greater than 7.5.",
@@ -29,7 +45,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "igcar-jrf-recruitment-2026-apply-online-for-50-junior-research-fellowship-posts-3055177"
+        "official_notification": "Not Available"
     },
     {
         "date": "20/06/2026",
