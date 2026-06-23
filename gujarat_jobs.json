@@ -1,11 +1,27 @@
 [
     {
         "date": "23/06/2026",
+        "board": "IIT Gandhinagar",
+        "title": "Senior Research Fellow",
+        "qualification": "Postgraduate Degree in Basic Sciences, or Graduate/Postgraduate Degree in a Professional Course, Selected through a national-level examination such as CSIR-UGC NET, DBT-BET, GATE, ICMR-JRF, ICAR, or equivalent national-level selection process. Minimum two years of research experience after obtaining the qualifying degree.",
+        "last_date": "29-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 45780 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitgn.ac.in",
+        "official_notification": "https://drive.google.com/file/d/1nNaKE9T6FhsyXXhwUVXcAg_xMiLfhoLy/view"
+    },
+    {
+        "date": "23/06/2026",
         "board": "RRB",
         "title": "Section Controller",
         "qualification": "Graduate Degree in any discipline",
         "last_date": "14-08-2026",
-        "total_posts": "119",
+        "total_posts": "Vacancy",
         "salary": "Not Available",
         "age_limit": "20 – 33 Years (as on 01.07.2026)",
         "application_fee": "Not Available",
@@ -146,18 +162,18 @@
     {
         "date": "22/06/2026",
         "board": "Gujarat Vidyapith",
-        "title": "Stenographer, Driver and More – 13 Posts",
-        "qualification": "Any Post Graduate, 10TH, 12TH, ITI",
+        "title": "Stenographer, Driver and More",
+        "qualification": "Master's degree, Bachelor's degree, 12th Class pass, Matriculation Pass",
         "last_date": "19-07-2026",
         "total_posts": "13",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
+        "salary": "Pay Level-1 to Pay Level-10",
+        "age_limit": "All Posts: Please refer to the official notification for specific age limits. || Age Relaxation: PwBD age relaxation SC/ST-15 years, OBC-13 Years and Unreserved-10 Years (varies by post).",
+        "application_fee": "1000",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "https://gujaratvidyapith.org",
+        "official_notification": "https://www.gujaratvidyapith.org/flipbook/flipbook.php?f=aHR0cHM6Ly93d3cuZ3VqYXJhdHZpZHlhcGl0aC5vcmcvY29tbW9uL21lZGlhL3JlcG9ydF8yNjA2MTcwNTQwNDk3Ni5wZGY%3D"
     },
     {
         "date": "22/06/2026",
@@ -189,7 +205,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://gsssb.gujarat.gov.in",
-        "official_notification": "niacl-apprentices-recruitment-2026-apply-online-for-550-posts-3054317"
+        "official_notification": "igcar-jrf-recruitment-2026-apply-online-for-50-junior-research-fellowship-posts-3055177"
     },
     {
         "date": "20/06/2026",

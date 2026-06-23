@@ -1,6 +1,38 @@
 [
     {
         "date": "23/06/2026",
+        "board": "AIIMS Nagpur",
+        "title": "Project Nurse II",
+        "qualification": "Three-year General Nursing & Midwife (GNM) Course",
+        "last_date": "01-07-2026",
+        "total_posts": "3",
+        "salary": "Rs. 20,000/- + HRA, as admissible",
+        "age_limit": "Maximum Age Limit: 30 years (with relaxation for SC/ST and OBC)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsnagpur.edu.in",
+        "official_notification": "https://aiimsnagpur.edu.in/upload/recruitment/Readvertisement_IIRSGP_for_project_nurse.pdf"
+    },
+    {
+        "date": "23/06/2026",
+        "board": "NMMC",
+        "title": "Medical Officer BAMS",
+        "qualification": "BAMS",
+        "last_date": "02-07-2026",
+        "total_posts": "8",
+        "salary": "Rs. 40000 Per Month",
+        "age_limit": "Max: 38 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nmmc.gov.in",
+        "official_notification": "https://app.nmmconline.in/backend/common/api/file/previewV1?filePath=_22-06-2026-13-02-09_%E0%A4%B5%E0%A5%88%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%80%E0%A4%AF%20%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80%20BAMS%20%E0%A4%9C%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%A4.pdf&type=1"
+    },
+    {
+        "date": "23/06/2026",
         "board": "NIACL",
         "title": "Apprentice",
         "qualification": "Candidates must hold a graduate degree in any discipline from a recognized university, or an equivalent qualification recognized by the Central Government. || Crucially, the final year mark sheet date must fall between January 1, 2022 and June 1, 2026 (both dates inclusive). Graduates who passed before January 1, 2022, or after June 1, 2026, are not eligible .",
@@ -429,7 +461,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://msc.bank.in/career",
-        "official_notification": "Not Available"
+        "official_notification": "telangana-anganwadi-teacher-and-helper-recruitment-2026-apply-online-for-177-posts-3055161"
     },
     {
         "date": "18/06/2026",
