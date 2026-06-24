@@ -97,22 +97,6 @@
     },
     {
         "date": "13/06/2026",
-        "board": "IIT Jodhpur",
-        "title": "Project Research Fellow",
-        "qualification": "B.E./B.Tech. or M.E./M.Tech. in Mechanical Engineering or equivalent",
-        "last_date": "24-06-2026",
-        "total_posts": "1",
-        "salary": "Rs. 35000 Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitj.ac.in",
-        "official_notification": "https://erponline.iitj.ac.in/RnDOutside/projectTemporaryAppointment.htm"
-    },
-    {
-        "date": "13/06/2026",
         "board": "KVK Churu",
         "title": "Subject Matter Specialist/T-6 (Plant Protection)",
         "qualification": "Master’s degree in Agriculture with specialization in Plant Protection from a recognized university, Master’s degree in science/social science relevant to agriculture or equivalent qualification with specialization in Plant Protection",
@@ -334,21 +318,5 @@
         "syllabus": "Not Available",
         "official_website": "https://rpsc.rajasthan.gov.in/",
         "official_notification": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/20787BD8A34D461A80CD78EE212A5723.pdf"
-    },
-    {
-        "date": "14/05/2026",
-        "board": "IRCTC",
-        "title": "Hospitality Monitor (Contractual)",
-        "qualification": "01-05-2026 (for age, qualification, experience and other purposes)",
-        "last_date": "24-06-2026",
-        "total_posts": "92",
-        "salary": "Not Available",
-        "age_limit": "Upper Age Limit (as on 01-05-2026)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.irctc.com",
-        "official_notification": "https://www.irctc.com/assets/images2/NotificationContractualHospitalityMonitors13may26.pdf"
     }
 ]
