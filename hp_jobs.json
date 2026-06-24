@@ -1,6 +1,22 @@
 [
     {
         "date": "24/06/2026",
+        "board": "YSP University Nauni",
+        "title": "Job Trainee Subject Matter Specialist",
+        "qualification": "Ph.D. in concerned subject or M.Sc. with 55% marks and NET",
+        "last_date": "24-07-2026",
+        "total_posts": "20",
+        "salary": "Rs. 35000 Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 45 years || Age Relaxation: 5 years for SC/ST/OBC/PwD of Himachal Pradesh only.",
+        "application_fee": "2000",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.uhf.ac.in",
+        "official_notification": "https://www.uhf.ac.in/storage/uploads/docs/1782212849.pdf"
+    },
+    {
+        "date": "24/06/2026",
         "board": "HP Jal Shakti Vibhag",
         "title": "Para Pump Operator, Para Fitter, Multipurpose Worker",
         "qualification": "Matriculation with ITI certificate in relevant trades for Para Pump Operator and Para Fitter. Middle pass for Multipurpose Worker.",
@@ -93,7 +109,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "amc-assistant-senior-clerk-recruitment-2026-apply-online-for-250-posts-3055097"
+        "official_notification": "Not Available"
     },
     {
         "date": "20/06/2026",
