@@ -1,5 +1,21 @@
 [
     {
+        "date": "24/06/2026",
+        "board": "SSC",
+        "title": "Various Group B (Gazetted/Non-Gazetted) and Group C posts including Assistant Section Officer, Inspector (IT/CE), Sub Inspector (CBI/NIA), Junior Statistical Officer, Assistant Audit Officer, Tax Assistant, Auditor, Accountant, Postal Assistant, and more",
+        "qualification": "Bachelor's Degree is essential. Desirable qualifications include CA, CMA, CS, M.Com, MBA (Finance), or M.B.E.",
+        "last_date": "25-06-2026",
+        "total_posts": "12256",
+        "salary": "Pay Level 4 (Rs. 25,500–81,100) to Pay Level 8 (Rs. 47,600–1,51,100) depending on the post",
+        "age_limit": "Age will be calculated as on 01-08-2026. The date of birth recorded in the Matriculation or Secondary Examination Certificate will be treated as final.",
+        "application_fee": "Fee must be paid online through BHIM UPI, Net Banking, or Visa, Mastercard, Maestro, and RuPay debit cards. Fee once paid will not be refunded, and applications without required fee payment will be rejected. || Correction Window Fee: Rs. 200/- for first correction and Rs. 500/- for second correction. This applies to all candidates, including fee-exempt applicants.",
+        "selection_process": "Selection is through a two-tier Computer Based Examination (CBE). Marks scored in CBE conducted in multiple shifts will be normalized as per the procedure published by SSC vide Notice dated 02-06-2025. There is no provision for re-evaluation/re-checking of scores at any stage. || Tier-I: Computer Based Examination || Tier-I consists of Objective Type / MCQ questions, set in English and Hindi (except English Comprehension). Negative marking: 0.50 marks per wrong answer. || Tier-II: Computer Based Examination || Tier-II is conducted in Paper-I, Paper-II, and Paper-III in separate shifts/days. || Negative marking in Tier-II: 1 mark per wrong answer in Section-I, II, III of Paper-I; 0.50 marks in Paper-II and Paper-III. Section-III (CKT) and Section-IV (DEST) are qualifying in nature. Candidates must qualify all sections of Paper-I separately. Higher standards of CKT and DEST are set for specific posts (CSS, MEA, AFHQ, SFIO, CBIC, Postal etc.). Compensatory time of 20 minutes per hour is available for PwBD candidates eligible for scribe.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ssc.gov.in/",
+        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf"
+    },
+    {
         "date": "23/06/2026",
         "board": "National H.S.S. Nuapada",
         "title": "Guest Faculties",
@@ -109,7 +125,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "cspdcl-apprentices-recruitment-2026-apply-offline-for-160-graduate-and-diploma-apprentice-posts-3055230"
     },
     {
         "date": "22/06/2026",
@@ -497,22 +513,6 @@
     },
     {
         "date": "12/06/2026",
-        "board": "ZSS Subarnapur",
-        "title": "Medical Officer - AYUSH",
-        "qualification": "",
-        "last_date": "23-06-2026",
-        "total_posts": "9",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Selection as per office order no 3418 dated 12.03.2018 of Mission Director, NHM, Odisha",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://subarnapur.odisha.gov.in",
-        "official_notification": "https://subarnapur.odisha.gov.in/sites/default/files/2026-06/Advertisement%20for%20In-house%20recruitment%20under%20NHM%2C%20SUbarnapur_0.pdf"
-    },
-    {
-        "date": "12/06/2026",
         "board": "ICAR CRRI",
         "title": "Research Associate (RA)",
         "qualification": "Master's degree in Agriculture with 4/5 years Bachelor's, 60% marks, 3 years research experience and 1 SCI/NAAS paper OR Ph.D. in Agriculture or IPR",
@@ -526,38 +526,6 @@
         "syllabus": "Not Available",
         "official_website": "https://icar-crri.in/",
         "official_notification": "https://icar-crri.in/wp-content/uploads/2026/06/EAP-140.pdf"
-    },
-    {
-        "date": "11/06/2026",
-        "board": "East Coast Railway Khurda Road Division",
-        "title": "Contract Medical Practitioner (GDMO)",
-        "qualification": "MBBS from institute recognized by Indian Medical Council with valid registration after one year compulsory rotatory internship",
-        "last_date": "23-06-2026",
-        "total_posts": "2",
-        "salary": "Rs. 95000 Per Month",
-        "age_limit": "Max: 60 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://eastcoastrail.indianrailways.gov.in/",
-        "official_notification": "https://eastcoastrail.indianrailways.gov.in/uploads/files/1780981470344-DocScanner%209%20Jun%202026%2010-27.pdf"
-    },
-    {
-        "date": "11/06/2026",
-        "board": "Zilla Swasthya Samiti Jajpur",
-        "title": "Medical Officer, Pediatrician",
-        "qualification": "Graduate",
-        "last_date": "23-06-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://jajpur.odisha.gov.in",
-        "official_notification": "https://jajpur.odisha.gov.in/sites/default/files/2026-06/Advertisement%204268_10-06-26_CDMO.pdf"
     },
     {
         "date": "11/06/2026",
@@ -734,22 +702,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nitrkl.ac.in",
         "official_notification": "https://www.nitrkl.ac.in/docs/Career/ProjectFelow/2026/03062026122716319.pdf"
-    },
-    {
-        "date": "03/06/2026",
-        "board": "IIT Bhubaneswar",
-        "title": "Adjunct Faculty",
-        "qualification": "M.P.Ed and Ph.D in Physical Education and Sports (Specialization in Physical Education Pedagogy/Sports Psychology)",
-        "last_date": "23-06-2026",
-        "total_posts": "1",
-        "salary": "Honorarium of Rs. 3,000/- per lecture hour, maximum ceiling of Rs. 1,20,000/- per month.",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "www.iitbbs.ac.in",
-        "official_notification": "https://www.iitbbs.ac.in/wp-content/uploads/2026/06/AdjunctFaculty_ITEP_2026.pdf"
     },
     {
         "date": "01/06/2026",
