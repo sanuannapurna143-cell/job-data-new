@@ -1,6 +1,22 @@
 [
     {
         "date": "24/06/2026",
+        "board": "DRDO CVRDE",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.E. / B.Tech with First Division from a recognized university with valid GATE score, M.E/M.Tech with First Division both at Graduate and Post Graduate level",
+        "last_date": "15-07-2026",
+        "total_posts": "16",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Maximum Age: 28 years || Age Relaxation: OBC (Non creamy layer): Not exceeding 31 years; SC/ST: Not exceeding 33 years.",
+        "application_fee": "Nil",
+        "selection_process": "Written Test (objective type) || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtCVRDE24062026.pdf"
+    },
+    {
+        "date": "24/06/2026",
         "board": "BARC Hospital",
         "title": "Resident Medical Officer",
         "qualification": "MS/MD/DNB or Diploma with 2 years experience (for PG posts), MBBS with internship (for Non-DNB JR/SR posts)",
@@ -286,22 +302,6 @@
         "syllabus": "Not Available",
         "official_website": "https://drdo.gov.in",
         "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtITR27052026.pdf"
-    },
-    {
-        "date": "30/05/2026",
-        "board": "College of Defence Management",
-        "title": "Civilian Motor Driver, Cook, MTS, Steno Gde-II",
-        "qualification": "12th Class or equivalent, Matriculation Pass, ITI Pass Certificate, Driving License for Heavy vehicles, Experience in driving heavy vehicles.",
-        "last_date": "28-06-2026",
-        "total_posts": "8",
-        "salary": "Pay Matrix Level-1 to Level-4",
-        "age_limit": "Min: 18, Max: 27 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://cdm.gov.in/",
-        "official_notification": "https://cdm.gov.in/wp-content/uploads/2026/06/Adv_20Jun26.pdf"
     },
     {
         "date": "28/05/2026",

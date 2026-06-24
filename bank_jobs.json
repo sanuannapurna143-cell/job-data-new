@@ -1,6 +1,38 @@
 [
     {
         "date": "24/06/2026",
+        "board": "BOI",
+        "title": "Financial Literacy Counsellor",
+        "qualification": "Graduate / Post Graduate degree from UGC recognized University",
+        "last_date": "30-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 26000 Per Month",
+        "age_limit": "Max: 64 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bankofindia.co.in",
+        "official_notification": "https://bankofindia.bank.in/documents/20121/28761619/FLC_Adv_English.pdf"
+    },
+    {
+        "date": "24/06/2026",
+        "board": "RBI",
+        "title": "Young Professional (YP)",
+        "qualification": "B.Tech/B.E, Any Post Graduate, M.A, M.Sc, M.E/M.Tech",
+        "last_date": "06-07-2026",
+        "total_posts": "12",
+        "salary": "Understanding what this role offers - and what it does not - is essential before applying. RBI's YP engagement is a contractual position with a generous stipend but with clearly defined boundaries.",
+        "age_limit": "21 to 30 years as on July 6, 2026",
+        "application_fee": "Not Available",
+        "selection_process": "Submitting a complete and eligible application is only the first step. The selection process for RBI Young Professionals involves multiple stages, and meeting the minimum eligibility is not a guarantee of progression. || Stage 1 - Preliminary Screening: A screening committee reviews all received applications against the eligibility criteria and the quality of supporting documents. The Bank reserves the right to limit the number of candidates called for interview. || Stage 2 - Document Verification: Shortlisted candidates will be required to submit and verify original documents related to age, educational qualifications, and experience. || Stage 3 - Interview: Shortlisted candidates will receive an interview call letter via email only. No physical call letters will be sent by post. Candidates must make their own travel and accommodation arrangements for the interview. || Reserve List: RBI maintains a reserve list of suitable candidates, valid for one year from the date of publication of the selection list. || RBI's decision regarding shortlisting, interview, and all aspects of engagement is final. No correspondence will be entertained in this regard.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "http://rbidocs.rbi.org.in/rdocs/content/pdfs/YOUNG15062026_A1.pdf"
+    },
+    {
+        "date": "24/06/2026",
         "board": "SBI",
         "title": "Assistant Manager (Law) – JMGS-I, Deputy Manager (Law) – MMGS-II",
         "qualification": "5-year integrated law course from a recognized university in India may be given preference.",
@@ -222,22 +254,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.bankofbaroda.bank.in",
         "official_notification": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-06/Advertisement-17-14.pdf"
-    },
-    {
-        "date": "17/06/2026",
-        "board": "RBI",
-        "title": "Young Professional (YP)",
-        "qualification": "B.Tech/B.E, Any Post Graduate, M.A, M.Sc, M.E/M.Tech",
-        "last_date": "06-07-2026",
-        "total_posts": "12",
-        "salary": "Understanding what this role offers - and what it does not - is essential before applying. RBI's YP engagement is a contractual position with a generous stipend but with clearly defined boundaries.",
-        "age_limit": "21 to 30 years as on July 6, 2026",
-        "application_fee": "Not Available",
-        "selection_process": "Submitting a complete and eligible application is only the first step. The selection process for RBI Young Professionals involves multiple stages, and meeting the minimum eligibility is not a guarantee of progression. || Stage 1 – Preliminary Screening: A screening committee reviews all received applications against the eligibility criteria and the quality of supporting documents. The Bank reserves the right to limit the number of candidates called for interview. || Stage 2 – Document Verification: Shortlisted candidates will be required to submit and verify original documents related to age, educational qualifications, and experience. || Stage 3 – Interview: Shortlisted candidates will receive an interview call letter via email only. No physical call letters will be sent by post. Candidates must make their own travel and accommodation arrangements for the interview. || Reserve List: RBI maintains a reserve list of suitable candidates, valid for one year from the date of publication of the selection list. || RBI's decision regarding shortlisting, interview, and all aspects of engagement is final. No correspondence will be entertained in this regard.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/YOUNG15062026_A1.pdf"
     },
     {
         "date": "16/06/2026",
