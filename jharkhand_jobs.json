@@ -1,6 +1,22 @@
 [
     {
         "date": "25/06/2026",
+        "board": "DHS Lohardaga",
+        "title": "Programme",
+        "qualification": "Graduation from recognized university + 1-year Diploma in Computer Application or PG Diploma / DOEACC 'O' level or Bachelor in Computer Application/B.Sc. (IT) + minimum 2 years post-qualification experience + typing speed 40 WPM (English)",
+        "last_date": "24-07-2026",
+        "total_posts": "61",
+        "salary": "₹12,263/-",
+        "age_limit": "The minimum age for all posts is 21 years . Maximum age limits vary by category, calculated as of 31 May 2026 . || Ex-servicemen receive an additional 5-year age relaxation over the prescribed maximum limit for their respective category.",
+        "application_fee": "The application fee must be submitted as a Demand Draft drawn in favour of District Health Society, Lohardaga , payable at Lohardaga. Candidates applying for multiple posts must submit separate applications and separate fees for each post. The fee is non-refundable under all circumstances.",
+        "selection_process": "Written Examination (60 marks):Objective, multiple-choice questions; duration of 1 hour. || Academic/Training Score (40 marks):Marks are awarded based on percentage obtained in qualifying examinations as per the prescribed scoring formula. || Skill Test (if applicable):For select posts, a skill test may be conducted, which is qualifying in nature only and does not contribute to the merit score. || Document Verification:Shortlisted candidates must present original certificates at the time of verification. || Final Merit List:Prepared by the District Selection Committee, Lohardaga, and published on the official district website and notice boards. || The merit list will remain valid for one year from the date of publication. The written test will be held separately for vacancies under different programmes.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://lohardaga.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2026/06/17822876202758.pdf"
+    },
+    {
+        "date": "25/06/2026",
         "board": "JSSC",
         "title": "Department",
         "qualification": "Intermediate in Life Sciences (Biology) from a recognised college/institution",
@@ -141,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "jharkhand-jssc-jilcce-recruitment-2026-apply-online-for-326-health-supervisor-mpw-and-more-posts-3055454"
+        "official_notification": "upsc-recruitment-2026-apply-online-for-450-drug-inspector-assistant-engineer-and-more-posts-3055477"
     },
     {
         "date": "12/06/2026",
