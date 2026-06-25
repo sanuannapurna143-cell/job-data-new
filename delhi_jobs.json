@@ -1,6 +1,38 @@
 [
     {
         "date": "25/06/2026",
+        "board": "SRCASW",
+        "title": "Junior Assistant",
+        "qualification": "Bachelor's Degree, Typing Speed, Computer Proficiency",
+        "last_date": "02-07-2026",
+        "total_posts": "1",
+        "salary": "Basic pay of INR 19900/- plus dearness allowance as applicable from time to time.",
+        "age_limit": "Maximum Age: 32 years || Age relaxation will be provided as per Govt. of India rules.",
+        "application_fee": "Nil",
+        "selection_process": "Written Test || Skill Test",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.du.ac.in",
+        "official_notification": "https://www.du.ac.in/uploads/2026/23062026_Non-Teaching_Rajguru.pdf"
+    },
+    {
+        "date": "25/06/2026",
+        "board": "AIIMS Delhi",
+        "title": "Assistant Professor",
+        "qualification": "DM in Gastroenterology/ Medical Oncology/ Nephrology, M.Ch. in Neurosurgery/ Urology, MD in Nuclear Medicine, MS in Orthopedics",
+        "last_date": "20-07-2026",
+        "total_posts": "18",
+        "salary": "Assistant Professor: Rs. 1,42,506/- per month",
+        "age_limit": "Maximum Age Limit: 50 years for all posts. || Age Relaxation: SC/ST: 5 years, OBC: 3 years, PwBD: 5 years, Government Servant: 5 years, Ex-Servicemen: 5 years.",
+        "application_fee": "Rs. 2400 (Refundable for those who appear in the interview)",
+        "selection_process": "Screening based on objective criteria (if >10 applications) || Interview || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/FC-24-6-26.pdf"
+    },
+    {
+        "date": "25/06/2026",
         "board": "NIACL",
         "title": "Apprentice",
         "qualification": "Candidates must hold a graduate degree in any discipline from a recognized university, or an equivalent qualification recognized by the Central Government. || Crucially, the final year mark sheet date must fall between January 1, 2022 and June 1, 2026 (both dates inclusive). Graduates who passed before January 1, 2022, or after June 1, 2026, are not eligible .",
