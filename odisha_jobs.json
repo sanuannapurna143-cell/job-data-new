@@ -1,5 +1,21 @@
 [
     {
+        "date": "26/06/2026",
+        "board": "WCD Odisha",
+        "title": "Anganwadi Worker and Anganwadi Helper",
+        "qualification": "10+2 / 12th Standard (for AWW); Relevant lower qualification for AWH",
+        "last_date": "13-07-2026",
+        "total_posts": "Multiple vacancies across various districts/blocks (Exact total varies by block)",
+        "salary": "As per Government norms for Anganwadi Workers & Helpers",
+        "age_limit": "As per revised guidelines (generally 18-40 years, relaxation applicable)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://engagement-awc.odisha.gov.in",
+        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=165261"
+    },
+    {
         "date": "25/06/2026",
         "board": "OPSC",
         "title": "Language Officer (Group-B)",
@@ -78,22 +94,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.opgc.co.in",
         "official_notification": "https://career.opgc.co.in/pdf/OPGC_Detailed_Adv_OPGC_CO_HR_01_2026.pdf"
-    },
-    {
-        "date": "24/06/2026",
-        "board": "SSC",
-        "title": "Various Group B (Gazetted/Non-Gazetted) and Group C posts including Assistant Section Officer, Inspector (IT/CE), Sub Inspector (CBI/NIA), Junior Statistical Officer, Assistant Audit Officer, Tax Assistant, Auditor, Accountant, Postal Assistant, and more",
-        "qualification": "Bachelor's Degree is essential. Desirable qualifications include CA, CMA, CS, M.Com, MBA (Finance), or M.B.E.",
-        "last_date": "25-06-2026",
-        "total_posts": "12256",
-        "salary": "Pay Level 4 (Rs. 25,500–81,100) to Pay Level 8 (Rs. 47,600–1,51,100) depending on the post",
-        "age_limit": "Age will be calculated as on 01-08-2026. The date of birth recorded in the Matriculation or Secondary Examination Certificate will be treated as final.",
-        "application_fee": "Fee must be paid online through BHIM UPI, Net Banking, or Visa, Mastercard, Maestro, and RuPay debit cards. Fee once paid will not be refunded, and applications without required fee payment will be rejected. || Correction Window Fee: Rs. 200/- for first correction and Rs. 500/- for second correction. This applies to all candidates, including fee-exempt applicants.",
-        "selection_process": "Selection is through a two-tier Computer Based Examination (CBE). Marks scored in CBE conducted in multiple shifts will be normalized as per the procedure published by SSC vide Notice dated 02-06-2025. There is no provision for re-evaluation/re-checking of scores at any stage. || Tier-I: Computer Based Examination || Tier-I consists of Objective Type / MCQ questions, set in English and Hindi (except English Comprehension). Negative marking: 0.50 marks per wrong answer. || Tier-II: Computer Based Examination || Tier-II is conducted in Paper-I, Paper-II, and Paper-III in separate shifts/days. || Negative marking in Tier-II: 1 mark per wrong answer in Section-I, II, III of Paper-I; 0.50 marks in Paper-II and Paper-III. Section-III (CKT) and Section-IV (DEST) are qualifying in nature. Candidates must qualify all sections of Paper-I separately. Higher standards of CKT and DEST are set for specific posts (CSS, MEA, AFHQ, SFIO, CBIC, Postal etc.). Compensatory time of 20 minutes per hour is available for PwBD candidates eligible for scribe.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ssc.gov.in/",
-        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf"
     },
     {
         "date": "23/06/2026",
@@ -205,7 +205,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "upsc-recruitment-2026-apply-online-for-450-drug-inspector-assistant-engineer-and-more-posts-3055477"
+        "official_notification": "ssc-ssa-recruitment-2026-apply-online-for-65-senior-secretariat-assistant-upper-division-clerk-ldce-posts-3055509"
     },
     {
         "date": "22/06/2026",
@@ -449,22 +449,6 @@
     },
     {
         "date": "16/06/2026",
-        "board": "WCD Odisha",
-        "title": "Anganwadi Worker",
-        "qualification": "12TH",
-        "last_date": "25-06-2026",
-        "total_posts": "5",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://engagementatwc.odisha.gov.in",
-        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=164054"
-    },
-    {
-        "date": "16/06/2026",
         "board": "NIT Rourkela",
         "title": "Junior Research Fellow",
         "qualification": "M.Sc./M.Tech. in Earth Sciences/Geophysics/Geodesy/Seismotectonics/Physics or a related field with 60% marks or 6.50 CGPA in 10 points scale with GATE or NET of UGC/CSIR, or any other national level exam.",
@@ -576,22 +560,6 @@
         "official_notification": "https://hal-india.co.in/backend//wp-content/uploads/career/Notification%20-%20Final_1781000599.pdf"
     },
     {
-        "date": "12/06/2026",
-        "board": "ICAR CRRI",
-        "title": "Research Associate (RA)",
-        "qualification": "Master's degree in Agriculture with 4/5 years Bachelor's, 60% marks, 3 years research experience and 1 SCI/NAAS paper OR Ph.D. in Agriculture or IPR",
-        "last_date": "25-06-2026",
-        "total_posts": "1",
-        "salary": "Rs. 61,000/- p.m. + HRA (Master's Degree holders) || Rs. 67,000/- p.m. + HRA (Ph.D. holders)",
-        "age_limit": "Maximum Age Limit: 45 years. || Age relaxation for SC, ST and OBC candidates as per Govt. of India norms.",
-        "application_fee": "Not Available",
-        "selection_process": "Written Test || Personal Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://icar-crri.in/",
-        "official_notification": "https://icar-crri.in/wp-content/uploads/2026/06/EAP-140.pdf"
-    },
-    {
         "date": "11/06/2026",
         "board": "SVNIRTAR",
         "title": "Speech Therapist, Senior Stenographer, Radiographer Grade-I, Laboratory Technician Grade-I",
@@ -624,22 +592,6 @@
         "official_notification": "https://www.aaiclas.aero/uploads/career/AAICLAS8231778658325.pdf"
     },
     {
-        "date": "11/06/2026",
-        "board": "NFSU",
-        "title": "Assistant Professor",
-        "qualification": "Ph.D. in relevant discipline, Master's degree with 60% marks, M.Sc./MCA/ME/M.Tech in Computer Science/Information Security/Cyber Security/Digital Forensics or relevant discipline, M.Sc. in Forensic Science, Master Degree in Chemistry/Applied Chemistry/Biology/Biochemistry/Biotechnology/Microbiology/Genetics/Molecular Biology or relevant discipline",
-        "last_date": "25-06-2026",
-        "total_posts": "4",
-        "salary": "Rs. 90,000/- (or Rs. 75,000/- or Rs. 68,000/-)",
-        "age_limit": "Please refer to the official notification for age limit details and relaxation criteria.",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Interview || Document Verification",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bhubaneswar.nfsu.ac.in/",
-        "official_notification": "https://beta.nfsu.ac.in/data/pdfs/Contarctual_Recruitment/Advt.%20Contractual%20Facutly%20-%20NFSU%20BBSR.pdf"
-    },
-    {
         "date": "10/06/2026",
         "board": "Puri Wildlife Division",
         "title": "Wildlife Veterinarian",
@@ -657,22 +609,6 @@
     },
     {
         "date": "10/06/2026",
-        "board": "Zilla Swasthya Samiti Angul",
-        "title": "Physiotherapist IPU, DHH, Angul",
-        "qualification": "Other",
-        "last_date": "25-06-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "angul.odisha.gov.in",
-        "official_notification": "https://angul.odisha.gov.in/sites/default/files/2026-06/Matter.pdf"
-    },
-    {
-        "date": "10/06/2026",
         "board": "Odisha Police",
         "title": "Master, Syrang, Engine Driver, Dingy Driver, Seaman Mechanic",
         "qualification": "PO and below from Engineering and Electrical branch",
@@ -686,22 +622,6 @@
         "syllabus": "Not Available",
         "official_website": "https://police.odisha.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/06/852341-6a2905ea5f44517022449.pdf"
-    },
-    {
-        "date": "10/06/2026",
-        "board": "Rajendra University Balangir",
-        "title": "Faculty Members for Teacher Education Programmes",
-        "qualification": "Postgraduate Degree, M.Ed., M.A. Education, Ph.D. in Education, NET/SLET/SET, M.P.Ed, MFA, Post Graduate degree in Music/Dance/Theatre Arts",
-        "last_date": "25-06-2026",
-        "total_posts": "17",
-        "salary": "Rs.35,000/- - Rs.50,000/- Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Rs.1000/-",
-        "selection_process": "Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://rajendrauniversity.ac.in",
-        "official_notification": "https://link.staps.in/rajendra-university/public/attachments/notices/1780922215_Detail%20Advertisement%20for%20Recruitment%20in%20TEP,%20RU.pdf"
     },
     {
         "date": "04/06/2026",
@@ -734,22 +654,6 @@
         "syllabus": "Not Available",
         "official_website": "http://aiimsbhubaneswar.nic.in",
         "official_notification": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/06/Advertisement-12-Jun-2026_.pdf"
-    },
-    {
-        "date": "01/06/2026",
-        "board": "DRDO ITR",
-        "title": "Paid Internship",
-        "qualification": "Final Year BTech/MTech in Engineering disciplines, Final Year M.Sc. in Physics",
-        "last_date": "25-06-2026",
-        "total_posts": "27",
-        "salary": "Rs. 5000 Per Month",
-        "age_limit": "No specific age limit is mentioned for this internship.",
-        "application_fee": "Nil",
-        "selection_process": "Merit based or Interaction over VC/Telephone",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://drdo.gov.in",
-        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtITR27052026.pdf"
     },
     {
         "date": "29/05/2026",
@@ -800,22 +704,6 @@
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec029aeade7beada35c83d3b344fbafe/uploads/2026/05/2026051629.pdf"
     },
     {
-        "date": "27/05/2026",
-        "board": "OPTCL",
-        "title": "Management Trainee (Electrical) – to be absorbed as Assistant Manager (Electrical) on completion of training",
-        "qualification": "Degree in Electrical / Electrical & Electronics Engineering with minimum 60% marks in aggregate from a recognized University/Institution; OR Passing of Section A & B of IE (India) in relevant discipline with minimum 50% marks in aggregate. For SC/ST/PwBD candidates, minimum 50% marks required.",
-        "last_date": "25-06-2026",
-        "total_posts": "60",
-        "salary": "Pay Matrix: Rs. 56,100 – Rs. 1,77,500 (Level EE-2) as Assistant Manager (Electrical); CTC approximately Rs. 15 Lakhs per annum",
-        "age_limit": "Age Limit / Relaxation",
-        "application_fee": "OPTCL regular employees fulfilling eligibility may apply through proper channel to GM (HRD). They are exempt from application fee and there is no age bar. Children of employees and outsourced agency candidates do not qualify as departmental candidates.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://optcl.co.in/",
-        "official_notification": "https://optcl.co.in/Writereaddata/Career/Advertisement__Short_.pdf"
-    },
-    {
         "date": "20/05/2026",
         "board": "OSSC",
         "title": "Food Safety Officer",
@@ -862,21 +750,5 @@
         "syllabus": "1 Technical Paper (syllabus as per Annexure-D of notification; Technical Paper for Junior Draughtsman (Civil) and Tracer will be the same) 200 Marks 2 hours (120 minutes) Different papers for different posts. Candidates numbering 1.5 times the advertised vacancies (post-wise and category-wise) shall be shortlisted for Certificate Verification. Negative marking: 1/4 of total mark (4 options) or 1/3 of total mark (3 options)",
         "official_website": "https://www.ossc.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/05/7523697-6a0d3719ace4199901631.pdf"
-    },
-    {
-        "date": "08/05/2026",
-        "board": "Sambalpur University",
-        "title": "Guest Faculty",
-        "qualification": "Any Post Graduate, M.Phil/ Ph.D",
-        "last_date": "25-06-2026",
-        "total_posts": "117",
-        "salary": "Rs. 1,000/- per class (with Ph.D., max 60 classes); Rs. 750/- per class (without Ph.D., max 60 classes)",
-        "age_limit": "All Posts: Retired Faculty may continue till 70 years of age.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.suniv.ac.in",
-        "official_notification": "https://www.suniv.ac.in/images/documents/doc_1778137415.pdf"
     }
 ]
