@@ -1,6 +1,38 @@
 [
     {
         "date": "26/06/2026",
+        "board": "HCI",
+        "title": "Chief Financial Officer",
+        "qualification": "Qualified Chartered Accountant from ICAI or Cost Accountant from ICMAI",
+        "last_date": "15-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 125000 Per Month",
+        "age_limit": "Max: 62 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.centaurhotels.com",
+        "official_notification": "https://www.aiesl.in/Doc/Careers/Criteria-CFO-HCI.pdf"
+    },
+    {
+        "date": "26/06/2026",
+        "board": "IIT Delhi",
+        "title": "Research Associate - I",
+        "qualification": "B.Sc. (6 CGPA or 60% and above), M.Sc. (Mathematics) (6 CGPA or 60% and above), GATE (Top 100), NET (JRF), Ph.D degree in Number Theory",
+        "last_date": "17-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 58,000/- p.m. plus HRA @27%",
+        "age_limit": "Please refer to the official notification for age limit details and relaxation criteria.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1782275017543_kmg8k7q.pdf"
+    },
+    {
+        "date": "26/06/2026",
         "board": "AIIMS",
         "title": "Group B & Group C – 1484 Posts",
         "qualification": "M.Sc. (Home Science Food & Nutrition / Clinical Nutrition / Food Science & Nutrition / Food Service Management & Dietetics) + 3 years' experience in a 200-bed hospital",

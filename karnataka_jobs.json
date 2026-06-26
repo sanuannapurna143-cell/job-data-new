@@ -1,6 +1,38 @@
 [
     {
         "date": "26/06/2026",
+        "board": "NIMHANS",
+        "title": "Clinical Psychologist/ Psychiatric Social Worker",
+        "qualification": "MPhil (Clinical Psychology), MPhil (Psychiatric Social Work)",
+        "last_date": "08-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 68000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nimhans.ac.in/",
+        "official_notification": "https://nimhansbkt.demo-appiness.com/prodnimhans/documents/announcements/ae28a7351ba94c3ebc8a9e5e31538db0.pdf"
+    },
+    {
+        "date": "26/06/2026",
+        "board": "NFSU Dharwad",
+        "title": "Assistant Professor",
+        "qualification": "Ph.D. in relevant discipline, Master's degree with 60% or equivalent, UGC/CSIR NET (where applicable)",
+        "last_date": "09-07-2026",
+        "total_posts": "6",
+        "salary": "Rs. 75000 - 90000 Per Month",
+        "age_limit": "Maximum Age Limit: 45 years for all posts. || Age relaxation will be as per government rules.",
+        "application_fee": "500/-",
+        "selection_process": "Screening of applications || Screening Test (if number of applications high) || Personal Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://beta.nfsu.ac.in/",
+        "official_notification": "https://beta.nfsu.ac.in/data/pdfs/Contarctual_Recruitment/Advt_June_July_2026_NFSU%20Dharwad%20Campus.pdf"
+    },
+    {
+        "date": "26/06/2026",
         "board": "ISRO ISTRAC",
         "title": "Technician-B (Electronics Mechanic), Technician-B (Carpenter), Draughtsman-B (Civil), Draughtsman-B (Mechanical), Technical Assistant (Electronics), Technical Assistant (Mechanical), Scientific Assistant (Computer Science), Scientific Assistant (Mathematics), Library Assistant 'A', Cook-A",
         "qualification": "1. SSLC/SSC Pass or equivalent; 2. Minimum 2 years' experience in a similar capacity as cook in a well-established hotel or canteen; 3. Experience Certificates from individuals will not be accepted",

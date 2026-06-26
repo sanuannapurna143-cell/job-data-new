@@ -1,6 +1,22 @@
 [
     {
         "date": "26/06/2026",
+        "board": "Central University of Kerala",
+        "title": "Guest Faculty",
+        "qualification": "A Master's degree with 55% marks (or an equivalent grade in a point-scale wherever the grading system is followed) in a concerned/relevant/allied subject from an Indian University, or an equivalent degree from an accredited foreign university.",
+        "last_date": "30-06-2026",
+        "total_posts": "24",
+        "salary": "Rs. 1500/- per lecture with a ceiling of Rs. 50,000/- per month for most posts. || Hourly basis for Malayalam (BA(International Relations)), Hindi (Capital Centre, Thiruvananthapuram), Economics, and Sanskrit (Malayalam) (MA Malayalam).",
+        "age_limit": "Maximum Age Limit: 70 years",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cukerala.ac.in",
+        "official_notification": "https://www.cukerala.ac.in/EventDetails?Id=3986"
+    },
+    {
+        "date": "26/06/2026",
         "board": "MPEDA",
         "title": "System Analyst",
         "qualification": "Master's Degree in Computer Application (MCA) /M. Tech/ Computer Science or equivalent with 2 years' experience in Electronic Data Processing / Programming",

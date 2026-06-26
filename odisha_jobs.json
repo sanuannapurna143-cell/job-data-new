@@ -1,6 +1,38 @@
 [
     {
         "date": "26/06/2026",
+        "board": "Model Degree College Malkangiri",
+        "title": "Guest Faculty",
+        "qualification": "Minimum 55% marks secured in post-graduation level in the concerned subjects from any recognized university or institution",
+        "last_date": "05-07-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Rs 700/- per class, maximum Rs 35,000/- per month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mdcmkg.com",
+        "official_notification": "https://www.mdcmkg.com/wp-content/uploads/2026/06/Detailed-Advertisement-2026-1.pdf"
+    },
+    {
+        "date": "26/06/2026",
+        "board": "EPI",
+        "title": "Assistant Manager / Manager Gr.II / Senior Manager",
+        "qualification": "B.Tech/ B.E",
+        "last_date": "13-07-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://epi.gov.in",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "26/06/2026",
         "board": "WCD Odisha",
         "title": "Anganwadi Worker and Anganwadi Helper",
         "qualification": "10+2 / 12th Standard (for AWW); Relevant lower qualification for AWH",
