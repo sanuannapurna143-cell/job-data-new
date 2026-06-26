@@ -1,6 +1,38 @@
 [
     {
         "date": "26/06/2026",
+        "board": "UP Anganwadi",
+        "title": "Anganwadi Karyakartri (Worker) / Anganwadi Sahayika (Helper)",
+        "qualification": "For the Anganwadi Karyakartri post, merit is prepared on the basis of marks obtained in Intermediate or equivalent qualification. For higher qualifications (graduation/post-graduation), marks are also factored into merit. The merit list is prepared using a grading and CGPA system - decimal points after three places are not rounded up. If two candidates secure equal marks, the one with higher age is given priority. If both marks and age are equal, the candidate with higher educational qualification is ranked higher.",
+        "last_date": "15-07-2026",
+        "total_posts": "787",
+        "salary": "Not Available",
+        "age_limit": "The age limit for both posts is minimum 18 years and maximum 35 years . Age is calculated as on 01 January 2026 . High school marks certificate and date of birth proof must be as entered in the online application form. Age relaxation as per UP government rules applies to reserved category candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://upanganwadibharti.in/",
+        "official_notification": "https://upanganwadibharti.in/"
+    },
+    {
+        "date": "26/06/2026",
+        "board": "Prasar Bharati",
+        "title": "Correspondent/Senior Correspondent",
+        "qualification": "Degree/PG Diploma in Journalism/Mass Communication/relevant field.",
+        "last_date": "05-07-2026",
+        "total_posts": "5",
+        "salary": "Correspondent: ₹ 60,000 – 80,000/-. Senior Correspondent: ₹ 80,000 – 1,25,000/-.",
+        "age_limit": "Correspondent: Below 40 years. || Senior Correspondent: Below 45 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://prasarbharati.gov.in/",
+        "official_notification": "https://prasarbharati.gov.in/wp-content/uploads/2026/06/340313-NIA_dtd_25-06-2026-DDNews-Corr__Sr_Corr.pdf"
+    },
+    {
+        "date": "26/06/2026",
         "board": "IAHE",
         "title": "Core Faculty",
         "qualification": "Bachelor's degree in Civil Engineering with 13 years of experience in the Highway Sector. Desirable qualifications include Master's Degree/PhD in relevant fields.",
@@ -173,7 +205,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ap-vidyut-aee-recruitment-2026-apply-online-for-630-assistant-executive-engineer-posts-3055539"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/06/2026",

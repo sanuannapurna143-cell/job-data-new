@@ -1,6 +1,38 @@
 [
     {
         "date": "26/06/2026",
+        "board": "BECIL",
+        "title": "Supervisors (System Supervisor/S&T, Civil, Safety)",
+        "qualification": "Three-year Full-time Regular Diploma in Engineering, Four-year Full-time Regular B.E./B.Tech. Degree, M.E./M.Tech. in Safety Engineering, B.E./B.Tech. in Fire & Safety Engineering",
+        "last_date": "10-07-2026",
+        "total_posts": "14",
+        "salary": "Rs. 65000 Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 40 years || Age relaxation shall be applicable as per Government of India (GoI) guidelines.",
+        "application_fee": "₹295/-",
+        "selection_process": "Scrutiny and Shortlisting based on eligibility || Interview/Assessment/Skill Test || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.becil.com",
+        "official_notification": "https://img2.freejobalert.com/news/2026/06/845612-6a3e0ed51ab384437201.pdf"
+    },
+    {
+        "date": "26/06/2026",
+        "board": "ABMP",
+        "title": "Consultant (IT), Consultant (Registry), Consultant (Sr. PPS/PPS/PS)",
+        "qualification": "Graduate, B.Tech/B.E., M.Tech/Masters in Computer Science/Application/IT, M.Sc in Computer Science/IT, Degree in Law (minimum 50% marks), High proficiency in stenography (100 wpm) and excellent noting/drafting skills.",
+        "last_date": "24-07-2026",
+        "total_posts": "5",
+        "salary": "Remuneration = Last Pay Drawn – Basic Pension. || No increment or additional financial benefit shall accrue during the tenure of engagement.",
+        "age_limit": "Maximum Age Limit: 64 years as on the closing date of receipt of applications. || Engagement shall not extend beyond the age of 65 years. || No age relaxation is mentioned in the official notification.",
+        "application_fee": "Not Available",
+        "selection_process": "Applications submitted online || Eligible Candidates may be asked to appear for viva voce || Selection process shall be conducted by the Selection Committee",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://abmp.in/",
+        "official_notification": "https://abmp.in/uploads/Vacancy/178237606202Office%20Circular%20dated%2025.06.2026.pdf"
+    },
+    {
+        "date": "26/06/2026",
         "board": "Central Bank of India",
         "title": "Attender and Watchman cum Gardener",
         "qualification": "Matriculate, 7th standard passed",
@@ -781,7 +813,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://msc.bank.in/career",
-        "official_notification": "isro-istrac-recruitment-2026-notification-out-apply-online-for-26-technician-technical-assistant-and-more-posts-3055527"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/06/2026",

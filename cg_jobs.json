@@ -1,6 +1,22 @@
 [
     {
         "date": "26/06/2026",
+        "board": "IIT Bhilai",
+        "title": "Project Associate II",
+        "qualification": "B.Tech and M.Tech in Metallurgical Engineering / Materials Science and Engineering / Materials and Metallurgical Engineering / Mechanical Engineering / Production Engineering or equivalent. Must have qualified GATE in any engineering discipline at least once.",
+        "last_date": "05-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 42,000/- + 20% HRA",
+        "age_limit": "As per Institute norms / Sponsoring agency",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitbhilai.ac.in/",
+        "official_notification": "https://www.iitbhilai.ac.in/index.php?pid=adv_june26_19_1"
+    },
+    {
+        "date": "26/06/2026",
         "board": "District Panchayat Bastar",
         "title": "Sahayak Programmer (Sanvida), Vikas Khand Samanvayak (Sanvida)",
         "qualification": "30 Marks",
