@@ -1,6 +1,22 @@
 [
     {
         "date": "27/06/2026",
+        "board": "AMU",
+        "title": "Radiotherapy Technician",
+        "qualification": "Bachelor of Radiation Therapy Technology (BRTT) / B.Sc. in Radiation Therapy OR Diploma in Radiation Therapy with 3 years' experience.",
+        "last_date": "30-06-2026",
+        "total_posts": "1",
+        "salary": "Fixed salary of Rs. 19350/- per month.",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.amu.ac.in/",
+        "official_notification": "https://api.amu.ac.in/storage/file/63/jobs/1782194833.pdf"
+    },
+    {
+        "date": "27/06/2026",
         "board": "BHU",
         "title": "Non-teaching Posts",
         "qualification": "Master's degree in Museology/AIHC & Archaeology/History of Art/Archaeology/Heritage Management/Heritage Studies, Bachelor's degree in Fine Arts, Bachelor's Degree with Diploma in Photography, Intermediate",
@@ -253,7 +269,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "amc-assistant-senior-clerk-recruitment-2026-apply-online-for-250-posts-3055097"
     },
     {
         "date": "22/06/2026",
