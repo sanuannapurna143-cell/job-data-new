@@ -1,5 +1,37 @@
 [
     {
+        "date": "27/06/2026",
+        "board": "MSACS",
+        "title": "Medical Officer",
+        "qualification": "MBBS with valid registration from the respective State Medical Council/NMC",
+        "last_date": "13-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 72000 Per Month",
+        "age_limit": "Maximum Age: 60 years",
+        "application_fee": "Not Available",
+        "selection_process": "Written Examination || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://raigad.gov.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s344c4c17332cace2124a1a836d9fc4b6f/uploads/2026/06/17824578401032.pdf"
+    },
+    {
+        "date": "27/06/2026",
+        "board": "HBCSE",
+        "title": "Project Scientific Officer - B and Project Scientific Assistant - B",
+        "qualification": "Master’s degree in Physics/Applied Physics/Astrophysics/Electronics/Computer Science or equivalent, B.E./B.Tech in relevant Engineering subjects with 60% marks, B.Sc./B.S. in any subject with 60% marks",
+        "last_date": "16-07-2026",
+        "total_posts": "2",
+        "salary": "Project Scientific Officer B: Rs. 84200/- (Incl. of HRA Rs. 12852/-) Per Month || Project Scientific Assistant B: Rs. 63900/- (Incl. of HRA Rs. 9558/-) Per Month",
+        "age_limit": "Maximum Age Limit: 28 years for all posts. || Age relaxation as per rules.",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in Selection || Written Test || Skill Test || Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.hbcse.tifr.res.in/",
+        "official_notification": "https://www.hbcse.tifr.res.in/get-involved/work-at-hbcse/temporary-recruitment-advt_02-2026.pdf"
+    },
+    {
         "date": "26/06/2026",
         "board": "NHM Nagpur",
         "title": "Post Name",
