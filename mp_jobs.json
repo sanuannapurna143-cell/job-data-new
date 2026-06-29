@@ -1,6 +1,22 @@
 [
     {
         "date": "29/06/2026",
+        "board": "MANIT Bhopal",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.E./B.Tech in Computer Science & Engineering, Information and Technology, Artificial Intelligence and Machine Learning, Artificial Intelligence and Data Science, Master of Computer Applications or equivalent in relevant specializations",
+        "last_date": "24-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20000 Per Month",
+        "age_limit": "Maximum Age Limit: 32 years || Age relaxation will be applicable as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.manit.ac.in/",
+        "official_notification": "https://www.manit.ac.in/sites/default/files/documents/MANIT_MPCST_JRF.pdf"
+    },
+    {
+        "date": "29/06/2026",
         "board": "IIT Indore",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "B.Tech in Engineering Physics, M.Sc. in Physics, Astronomy / B.S.-M.S. (5-year Integrated) in Physics / or Applied Physics, Astronomy, Space Science, M.Tech./M.S. (by research)/M.E. in Engineering Physics/Space Science and Engineering, Valid GATE/CSIR-UGC NET (including LS)/JEST or any national-level examinations conducted by Central government departments and their agencies",

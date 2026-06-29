@@ -1,6 +1,54 @@
 [
     {
         "date": "29/06/2026",
+        "board": "IIT Kanpur",
+        "title": "Project Technician OR Senior Project Mechanic",
+        "qualification": "B. Sc + 4 years relevant experience, 3 years Engg. Diploma + ITI + 4 years relevant experience, High School + ITI + 9 years relevant experience, 3 years Engg. Diploma, High School + ITI + 5 years relevant experience",
+        "last_date": "15-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 18000-1500-45000 (Project Technician), Rs 13000-1100-32800 (Senior Project Mechanic)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/scdt-pt-spm-25-06-26.html"
+    },
+    {
+        "date": "29/06/2026",
+        "board": "NIPER Raebareli",
+        "title": "Research Manager",
+        "qualification": "M. Pharm / M. Tech / MS / MSc with first division and 3-5 years of experience.",
+        "last_date": "10-07-2026",
+        "total_posts": "3",
+        "salary": "Rs. 70000/- per month",
+        "age_limit": "Maximum Age Limit: 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.niperraebareli.edu.in",
+        "official_notification": "https://niperraebareli.edu.in/Jobs/2026/AdvertisementforStaffinCoE-2026-ResearchManager.pdf"
+    },
+    {
+        "date": "29/06/2026",
+        "board": "IIM Lucknow",
+        "title": "Academic Assistant",
+        "qualification": "Post-Graduate Degree in Economics (with at least 60% marks or equivalent CGPA)",
+        "last_date": "03-07-2026",
+        "total_posts": "One/ Two",
+        "salary": "Rs. 40000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiml.ac.in/",
+        "official_notification": "https://www.iiml.ac.in/sites/default/files/upload/jobs/876390507BEA-TA_Advert_June2026.pdf"
+    },
+    {
+        "date": "29/06/2026",
         "board": "ICDS Meerut",
         "title": "Anganwadi Worker (Karyakatri)",
         "qualification": "Intermediate (12th Pass) or equivalent",
@@ -333,7 +381,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "up-anganwadi-recruitment-2026-apply-online-for-180-anganwadi-worker-posts-in-meerut-district-3055771"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/06/2026",

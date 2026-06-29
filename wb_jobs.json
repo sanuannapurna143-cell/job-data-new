@@ -1,6 +1,38 @@
 [
     {
         "date": "29/06/2026",
+        "board": "Burdwan Medical College",
+        "title": "Research Assistant",
+        "qualification": "M.Sc. in Biotechnology, M.Sc. in Molecular Biology & Human Genetics",
+        "last_date": "30-06-2026",
+        "total_posts": "1",
+        "salary": "Rs. 31,000/- (Consolidated)",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-In-Interview || Institute Level Recruitment Committee",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://purbabardhaman.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s3cf67355a3333e6e143439161adc2d82e/uploads/2026/06/17822182464088.pdf"
+    },
+    {
+        "date": "29/06/2026",
+        "board": "ECHS",
+        "title": "Medical Officer",
+        "qualification": "Minimum Qualification/Experience",
+        "last_date": "07-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 95000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.echs.gov.in",
+        "official_notification": "https://www.echs.gov.in/assets/advertisement/CO%20ECHS006_removed.pdf"
+    },
+    {
+        "date": "29/06/2026",
         "board": "IIT Kharagpur",
         "title": "Outreach Teaching Fellow",
         "qualification": "M.Tech in CS/AI/Data Science or equivalent.",
@@ -157,7 +189,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "pmc-recruitment-2026-notification-out-apply-offline-for-60-junior-engineer-and-health-inspector-posts-3055775"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/06/2026",

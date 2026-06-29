@@ -1,6 +1,54 @@
 [
     {
         "date": "29/06/2026",
+        "board": "NIT Warangal",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.Sc in Physics / Applied Physics / Material Science / Optoelectronics (or) M.Tech in Solid State Technology / Materials Science / Optoelectronics (or) M.Sc. (Tech) Eng. Physics",
+        "last_date": "19-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 - 42000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitw.ac.in/",
+        "official_notification": "https://nitw.ac.in/api/static/files/JRF_Advertisement_ARG_2026-6-23-15-17-31.pdf"
+    },
+    {
+        "date": "29/06/2026",
+        "board": "NIT Warangal",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.Tech/ B.E, M.E/ M.Tech, M.Phil/ Ph.D, M.Sc",
+        "last_date": "31-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- pm",
+        "age_limit": "30 years (Relaxable up to 5 years for SC/ST/OBC/Women and Physically challenged candidates)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email or Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nitw.ac.in/",
+        "official_notification": "https://nitw.ac.in/api/static/files/Advertisement_JRF_AP_2026-6-23-12-51-29.pdf"
+    },
+    {
+        "date": "29/06/2026",
+        "board": "School Education Department Telangana",
+        "title": "Lecturer / Senior Lecturer",
+        "qualification": "Any Masters Degree",
+        "last_date": "14-07-2026",
+        "total_posts": "202 Vacancies",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Computer Based Test (CBT) – 80 Marks (80 MCQs) || No Negative Marking || Interview & Teaching Demonstration – 20 Marks || Final Merit List",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.telangana.gov.in/",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "29/06/2026",
         "board": "Telangana Anganwadi",
         "title": "Anganwadi Worker (AWT), Anganwadi Helper (AWH)",
         "qualification": "For the Anganwadi Worker post, the merit list will be prepared on the basis of the highest educational qualification . Candidates with higher qualifications will be ranked above those with only Intermediate. For both posts, the candidate must belong to the same gram panchayat or ward (in urban/Samsthana areas) as the concerned AWC.",
@@ -157,7 +205,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "up-anganwadi-recruitment-2026-apply-online-for-180-anganwadi-worker-posts-in-meerut-district-3055771"
+        "official_notification": "Not Available"
     },
     {
         "date": "23/06/2026",

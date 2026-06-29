@@ -1,6 +1,86 @@
 [
     {
         "date": "29/06/2026",
+        "board": "TISS",
+        "title": "Senior Research Officer",
+        "qualification": "Masters in Social Sciences, Ph.D. preferred",
+        "last_date": "05-07-2026",
+        "total_posts": "1",
+        "salary": "Rs 70,000 per month (consolidated)",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tiss.ac.in",
+        "official_notification": "https://tiss.ac.in/uploads/files/Senior_Reserach_Officer_Prayas.2026.pdf"
+    },
+    {
+        "date": "29/06/2026",
+        "board": "District Collector Office Washim",
+        "title": "Contract Clerk (Female Only)",
+        "qualification": "Graduate with Marathi and English typing skills, knowledge of cash book and DSR, computer knowledge.",
+        "last_date": "01-07-2026",
+        "total_posts": "1",
+        "salary": "Monthly honorarium of Rs. 8,000/-",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Application submission with required documents || Interview (implied)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://washim.gov.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3093f65e080a295f8076b1c5722a46aa2/uploads/2026/06/17822166598571.pdf"
+    },
+    {
+        "date": "29/06/2026",
+        "board": "ACTREC",
+        "title": "Staff Nurse",
+        "qualification": "B.Sc. Nursing / Diploma in General Nursing & Midwifery (registered with INC/MNC)",
+        "last_date": "08-07-2026",
+        "total_posts": "1",
+        "salary": "Upto Rs.38,000/-P.M.",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.actrec.gov.in",
+        "official_notification": "https://actrec.gov.in/sites/default/files/2026-06/Final%20Advt-114-Staff%20Nurse%20.pdf"
+    },
+    {
+        "date": "29/06/2026",
+        "board": "TISS",
+        "title": "Accounts Assistant",
+        "qualification": "MCom or MBA with Finance with at least 55 per cent or an equivalent grade in a point scale. Minimum 2-3 years of work experience in the field of Finance and Accounts.",
+        "last_date": "05-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 26,000/- per month (Including Travelling Allowance)",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Nil",
+        "selection_process": "Personal Interaction || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tiss.edu",
+        "official_notification": "https://tiss.ac.in/uploads/files/Account_Asst-_Prayas.pdf"
+    },
+    {
+        "date": "29/06/2026",
+        "board": "PMC",
+        "title": "Total Vacancies",
+        "qualification": "B.Tech/ B.E, Diploma, 12TH",
+        "last_date": "13-08-2026",
+        "total_posts": "60",
+        "salary": "Both posts under this PMC Bharti 2026 carry a fixed consolidated monthly pay rather than a pay matrix or grade pay structure, since these are contract appointments. The Junior Engineer post offers a higher consolidated salary compared to the Health Inspector post, reflecting the difference in qualification requirements. || Also Read: SBI PO 2026 Notification PDF Out - Apply Online for 1,500 Probationary Officer Posts",
+        "age_limit": "Not Available",
+        "application_fee": "The official PMC notice for this Junior Engineer and Health Inspector recruitment does not mention any application fee for any category of candidates. Applicants should rely only on the official notification for any fee-related updates if issued separately.",
+        "selection_process": "Selection for the PMC Junior Engineer and Health Inspector posts is a two-stage process: document screening followed by a personal interview. If the number of applications received exceeds the number of vacancies, PMC will shortlist candidates based on merit criteria before calling them for interview. || Application Screening:Applications are checked for completeness and attested qualification documents; incomplete applications are rejected outright. || Merit-Based Shortlisting:If applications exceed available vacancies, PMC screens them on quality/merit norms and calls only the required number of candidates. || Personal Interview:Shortlisted candidates are called for an interview, which they must attend entirely at their own expense (no travel allowance is provided). || Final Selection:The Municipal Commissioner, PMC holds final authority over the selection process and decision. || Contract Execution:Selected candidates must execute the service contract at their own cost before joining.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.pmc.gov.in/",
+        "official_notification": "https://webadmin.pmc.gov.in/sites/default/files/2026-06/JE%20and%20SI_0.pdf"
+    },
+    {
+        "date": "29/06/2026",
         "board": "CSC e-Governance Services Indian",
         "title": "Aadhaar Supervisor/Operator – District",
         "qualification": "Diploma, ITI, 12TH",
@@ -45,7 +125,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bankofindia.co.in/",
-        "official_notification": "telangana-anganwadi-recruitment-2026-notification-out-apply-online-for-343-anganwadi-teacher-and-helper-posts-3055755"
+        "official_notification": "jnu-non-teaching-recruitment-2026-apply-online-for-267-mts-steno-and-more-posts-3055840"
     },
     {
         "date": "27/06/2026",
@@ -877,7 +957,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://msc.bank.in/career",
-        "official_notification": "up-anganwadi-recruitment-2026-apply-online-for-180-anganwadi-worker-posts-in-meerut-district-3055771"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/06/2026",
