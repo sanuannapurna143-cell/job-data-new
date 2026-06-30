@@ -1,6 +1,22 @@
 [
     {
         "date": "30/06/2026",
+        "board": "CSIR CSMCRI",
+        "title": "Project Associate-I",
+        "qualification": "M. Sc. in Chemistry",
+        "last_date": "07-07-2026",
+        "total_posts": "1",
+        "salary": "Project Associate-I:Rs.31,000/- + HRA (as applicable) or Rs.25,000/- + HRA (as applicable)",
+        "age_limit": "For Project Associate-I:Maximum age limit is 35 years. || Age relaxation is applicable as per CSIR rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.csmcri.res.in/",
+        "official_notification": "https://www.csmcri.res.in/node/11013"
+    },
+    {
+        "date": "30/06/2026",
         "board": "RNSB",
         "title": "Jr. Executive (Trainee)",
         "qualification": "First Class Graduate (Except Arts) OR Postgraduate (Except Arts). 2 year course.",
@@ -77,7 +93,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "rbi-site-engineer-recruitment-2026-apply-online-3055900"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/06/2026",
@@ -317,7 +333,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://gsssb.gujarat.gov.in",
-        "official_notification": "csl-scaffolder-trainee-recruitment-2026-apply-online-for-60-posts-3055906"
+        "official_notification": "Not Available"
     },
     {
         "date": "20/06/2026",

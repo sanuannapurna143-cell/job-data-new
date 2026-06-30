@@ -1,6 +1,22 @@
 [
     {
         "date": "30/06/2026",
+        "board": "NIT Kurukshetra",
+        "title": "Counsellor",
+        "qualification": "Master's Degree in Clinical Psychology with first class, along with three years of relevant experience",
+        "last_date": "15-07-2026",
+        "total_posts": "3",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age Limit: 57 years",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nitkkr.ac.in",
+        "official_notification": "https://nitkkr.ac.in/wp-content/uploads/2026/06/Appointment-of-Counsellors-Advt.No_.14.2026.pdf"
+    },
+    {
+        "date": "30/06/2026",
         "board": "RCB",
         "title": "Project Technical Support III",
         "qualification": "M.Sc./M. Tech. in Life Sciences or related biological science disciplines with at least 60% marks.",
@@ -157,7 +173,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "rbi-site-engineer-recruitment-2026-apply-online-3055900"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/06/2026",
@@ -189,7 +205,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.hssc.gov.in",
-        "official_notification": "csl-scaffolder-trainee-recruitment-2026-apply-online-for-60-posts-3055906"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/06/2026",

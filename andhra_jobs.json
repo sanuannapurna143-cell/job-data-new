@@ -1,5 +1,37 @@
 [
     {
+        "date": "30/06/2026",
+        "board": "DCHS Tirupati",
+        "title": "Paramedical and Supporting Staff",
+        "qualification": "SSC/10th or equivalent, ITI Plumbing/Fitter/Mechanic trade",
+        "last_date": "06-07-2026",
+        "total_posts": "10",
+        "salary": "Theatre Assistant: Rs. 15000/- Per Month || Record Assistant/MRA: Rs. 15000/- Per Month || Plumber: Rs. 18500/- Per Month || GDA/MNO/FNO: Rs. 15000/- Per Month || Post Mortem Assistant: Rs. 15000/- Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 42 years || Age Relaxation: SC/ST/BC/EWS: 5 years; Ex-servicemen: 3 years + service; PWD: 10 years; Max with all relaxations: 52 years",
+        "application_fee": "Rs.500/-",
+        "selection_process": "Aggregate marks in qualifying examination (75%) || Service weightage || Counseling on merit basis following roster points",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://tirupati.ap.gov.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s3ca8155f4d27f205953f9d3d7974bdd70/uploads/2026/06/17825758009770.pdf"
+    },
+    {
+        "date": "30/06/2026",
+        "board": "DCHS East Godavari",
+        "title": "Paramedical and supporting staff",
+        "qualification": "SSC/10th class or its equivalent, Lab Attendant Course or Intermediate (Lab Attendant Vocational Course)",
+        "last_date": "06-07-2026",
+        "total_posts": "6",
+        "salary": "Rs. 15,000/- p.m.",
+        "age_limit": "Maximum Age Limit: 42 years || Age Relaxation:SC/ST/BC/EWS: 05 yearsEx-service Men: 03 yearsDifferently abled persons: 10 years || SC/ST/BC/EWS: 05 years || Ex-service Men: 03 years || Differently abled persons: 10 years",
+        "application_fee": "Rs.350/-",
+        "selection_process": "Aggregate of marks obtained in qualifying examination (75%) || Weightage for completed years after acquiring requisite qualification (up to 10 marks) || Weightage for contract/outsourcing service including COVID-19 service (up to 15%) || Weightage to contract employment based on working area",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.eastgodavari.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s36f3ef77ac0e3619e98159e9b6febf557/uploads/2026/06/17828122591546.pdf"
+    },
+    {
         "date": "29/06/2026",
         "board": "ANGRAU",
         "title": "Senior Research Fellow, Young Professional-II",
@@ -61,7 +93,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://apvidyutrecruitment.apcfss.in/",
-        "official_notification": "rbi-site-engineer-recruitment-2026-apply-online-3055900"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/06/2026",

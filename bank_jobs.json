@@ -1,6 +1,38 @@
 [
     {
         "date": "30/06/2026",
+        "board": "IBPS",
+        "title": "Probationary Officer, Management Trainee, Specialist Officer (AFO)",
+        "qualification": "Graduation (Post-wise specialization for SO/AFO)",
+        "last_date": "21-07-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ibps.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/06/852369-6a435f81d786291887399.pdf"
+    },
+    {
+        "date": "30/06/2026",
+        "board": "RNSB",
+        "title": "Jr. Executive (Trainee)",
+        "qualification": "First Class Graduate (Except Arts) OR Postgraduate (Except Arts). 2 year course.",
+        "last_date": "07-07-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age: 30 years || Age Relaxation: As per rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://jobs.rnsb.bank.in/",
+        "official_notification": "https://jobs.rnsb.bank.in/CurrentOpening.aspx"
+    },
+    {
+        "date": "30/06/2026",
         "board": "RBI",
         "title": "Consultant Site Engineer (Civil) Level 2 & 3, Consultant Site Engineer (Electrical) Level 3",
         "qualification": "A Master of Technology (M.Tech) in the relevant discipline is desirable but not mandatory for any of the three posts. Experience gained in State PWDs, State PSUs, or State government organizations is also counted as \"Similar Government Organisations\" experience.",

@@ -1,6 +1,22 @@
 [
     {
         "date": "30/06/2026",
+        "board": "BVFCL",
+        "title": "Apprentice",
+        "qualification": "B.E./ B.Tech, Diploma, HSLC + ITI, B.Com, B.Sc, B.A",
+        "last_date": "31-07-2026",
+        "total_posts": "38",
+        "salary": "Please refer to the official notification for salary/stipend details.",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 24 years || Age relaxation: Relaxation by 5 years for SC/ST, 3 years for OBC (Non-Creamy Layer). PwBD candidates upto 10 years (upto 15 years for SC/ST and upto 13 years for OBC (Non-Creamy Layer))",
+        "application_fee": "Nil",
+        "selection_process": "Registration on NATS portal for Graduate/Diploma and Apprenticeship portal for ITI || Aggregate percentage of Marks in Matriculation + respective discipline || Personal Interview || Pre-employment medical fitness",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bvfcl.com",
+        "official_notification": "https://bvfcl.com/wp-content/uploads/2026/06/Apprentice-Adv-2026.pdf"
+    },
+    {
+        "date": "30/06/2026",
         "board": "ESIC",
         "title": "Homeopathy Physician",
         "qualification": "Degree in Homeopathy of a recognized University or statutory State Board or Council or equivalent recognized under the Homeopathy Central Council Act, 1973 (59 of 1973), Enrolment on the Central Register of Homeopathy or State Register of Homeopathy",
@@ -45,7 +61,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "rbi-site-engineer-recruitment-2026-apply-online-3055900"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/06/2026",

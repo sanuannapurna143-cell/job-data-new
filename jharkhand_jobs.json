@@ -1,6 +1,38 @@
 [
     {
         "date": "30/06/2026",
+        "board": "DCPU Godda",
+        "title": "District Child Protection Officer, Counselor, Assistant-cum-Data Entry Operator",
+        "qualification": "Post Graduate degree in social work/sociology/child development/Human Rights/Public Administration/Psychology/Psychiatry/Law/Public Health/Community Resource Management, Graduate in social work/sociology/Psychology/Public Health/Counselling OR PG/Diploma in Counselling and Communication, 12th pass with Diploma/Certificate in Computer",
+        "last_date": "20-07-2026",
+        "total_posts": "3",
+        "salary": "District Child Protection Officer (DCPS-01): 44,023/- || Counselor (DCPS-05): 18,536/- || Assistant-cum-Data Entry Operator (JJB-01): 11,916/-",
+        "age_limit": "District Child Protection Officer (DCPS-01): 35-45 years || Counselor (DCPS-05): 30-45 years || Assistant-cum-Data Entry Operator (JJB-01): 21-35 years",
+        "application_fee": "Nil",
+        "selection_process": "Merit List based on Educational Qualification Score || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://godda.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s31ff1de774005f8da13f42943881c655f/uploads/2026/06/17827269412460.pdf"
+    },
+    {
+        "date": "30/06/2026",
+        "board": "IIT (ISM) Dhanbad",
+        "title": "JRF",
+        "qualification": "M.E./M.Tech in Petroleum Engineering/Chemical Engineering/M. Sc. In Chemistry with more than 60% marks or equivalent CGPA/OGPA and GATE/NET qualified",
+        "last_date": "15-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000/- + Applicable HRA per month for first two years and Rs. 42000/- + Applicable HRA per month thereafter.",
+        "age_limit": "Maximum Age Limit: 28 years. || Age Relaxation: SC/ST/OBC (Non-Creamy layer)/ Female candidates as per GOI/DST rules.",
+        "application_fee": "Nil",
+        "selection_process": "Online Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitism.ac.in",
+        "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/900/Project%20JRF_2026-06-29_13-34-11.pdf"
+    },
+    {
+        "date": "30/06/2026",
         "board": "SAIL",
         "title": "Consultant (Specialists & GDMO)",
         "qualification": "Any Post Graduate, MBBS, Diploma, PG Diploma",

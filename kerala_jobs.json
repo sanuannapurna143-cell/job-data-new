@@ -1,6 +1,22 @@
 [
     {
         "date": "30/06/2026",
+        "board": "VSSC",
+        "title": "Authorised Medical Officer (Allopathy)",
+        "qualification": "MBBS with permanent Medical Council Registration",
+        "last_date": "08-07-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Rs. 12000 - 54000 Per Month",
+        "age_limit": "Max: 70 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://www.vssc.gov.in",
+        "official_notification": "https://www.vssc.gov.in/assets/img/PDF/Recruitment/Advertisement_25062026.pdf"
+    },
+    {
+        "date": "30/06/2026",
         "board": "CSL",
         "title": "Scaffolder Trainee",
         "qualification": "The minimum qualification must be from a University/Institute/Examination Board recognized by AICTE, appropriate statutory authority, or State/Central Government. Applicants with equivalent qualifications must submit an Equivalency Certificate issued by the competent authority.",
