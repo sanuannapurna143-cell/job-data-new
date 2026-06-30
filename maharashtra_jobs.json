@@ -1,6 +1,22 @@
 [
     {
         "date": "30/06/2026",
+        "board": "EIL",
+        "title": "Associate Engineer Grade II & Grade III",
+        "qualification": "All candidates must hold a B.E. / B.Tech. / B.Sc (Engineering) degree in the relevant discipline from a recognized university or institution, with a minimum of 60% marks or equivalent CGPA . The exact CGPA equivalents are as follows: || Note : Round off percentage to the lower whole number (e.g., 60.9 = 60) and CGPA to the lower decimal (e.g., 6.95 = 6.9).",
+        "last_date": "07-07-2026",
+        "total_posts": "41",
+        "salary": "₹72,000 – ₹96,000 (incl. HRA & PF)",
+        "age_limit": "Associate Engineer Grade II:Maximum37 yearsas on 31 May 2026 || Associate Engineer Grade III:Maximum41 yearsas on 31 May 2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.engineersindia.com",
+        "official_notification": "https://recruitment.eil.co.in/"
+    },
+    {
+        "date": "30/06/2026",
         "board": "District Civil Hospital Raigad",
         "title": "Medical Officer",
         "qualification": "MBBS with valid registration from the respective State Medical Council/NMC",
@@ -1328,22 +1344,6 @@
         "official_notification": "https://www.mahatransco.in/uploads/career/career_1781176720.pdf"
     },
     {
-        "date": "16/06/2026",
-        "board": "EIL",
-        "title": "Associate Engineer Grade II & Grade III",
-        "qualification": "All candidates must hold a B.E. / B.Tech. / B.Sc (Engineering) degree in the relevant discipline from a recognized university or institution, with a minimum of 60% marks or equivalent CGPA . The exact CGPA equivalents are as follows: || Note : Round off percentage to the lower whole number (e.g., 60.9 = 60) and CGPA to the lower decimal (e.g., 6.95 = 6.9).",
-        "last_date": "30-06-2026",
-        "total_posts": "41",
-        "salary": "₹72,000 – ₹96,000 (incl. HRA & PF)",
-        "age_limit": "Associate Engineer Grade II:Maximum37 yearsas on 31 May 2026 || Associate Engineer Grade III:Maximum41 yearsas on 31 May 2026",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.engineersindia.com",
-        "official_notification": "https://recruitment.eil.co.in/"
-    },
-    {
         "date": "15/06/2026",
         "board": "AIIMS Nagpur",
         "title": "Project Assistant",
@@ -1642,7 +1642,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://tifr.res.in",
         "official_notification": "https://www.tifr.res.in/maincampus/viewNoticeFile.php?f=ejUrZ0VrcXNIa0N3NnlLeHZBeGVkdz09&s=WFdXaTkwL1ZDTGdxaHp6eHA1bkh1QT09"

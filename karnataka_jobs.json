@@ -1,6 +1,38 @@
 [
     {
         "date": "30/06/2026",
+        "board": "EIL",
+        "title": "Associate Engineer Grade II & Grade III",
+        "qualification": "All candidates must hold a B.E. / B.Tech. / B.Sc (Engineering) degree in the relevant discipline from a recognized university or institution, with a minimum of 60% marks or equivalent CGPA . The exact CGPA equivalents are as follows: || Note : Round off percentage to the lower whole number (e.g., 60.9 = 60) and CGPA to the lower decimal (e.g., 6.95 = 6.9).",
+        "last_date": "07-07-2026",
+        "total_posts": "41",
+        "salary": "₹72,000 – ₹96,000 (incl. HRA & PF)",
+        "age_limit": "Associate Engineer Grade II:Maximum37 yearsas on 31 May 2026 || Associate Engineer Grade III:Maximum41 yearsas on 31 May 2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.engineersindia.com",
+        "official_notification": "https://recruitment.eil.co.in/"
+    },
+    {
+        "date": "30/06/2026",
+        "board": "Chikkamagaluru District Court",
+        "title": "Peon, Typist and More – 61 Posts",
+        "qualification": "Candidates wondering what qualification is needed can note that requirements vary by post. For Peon, candidates must have passed SSLC or its equivalent examination and should be able to read and write Kannada. For Process Server, SSLC or equivalent is required, and possession of a valid driving licence will be given preference. For Typist-Copyist, candidates need a second PUC or equivalent qualification along with a Junior Grade certificate in Kannada and English typewriting from the Department of Public Instruction. For Typist posts, candidates must have passed second PUC or a three-year Diploma in Commercial Practice along with a Senior Grade typewriting certificate in Kannada and English. For Stenographer Grade-III, candidates need second PUC along with Senior Grade Shorthand in Kannada plus Senior Grade Typewriting certificates in both Kannada and English.",
+        "last_date": "28-07-2026",
+        "total_posts": "61",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://chikkamagaluru.dcourts.gov.in/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec027486cef2522ee03547cfb970a404/uploads/2026/06/2026062739.pdf"
+    },
+    {
+        "date": "30/06/2026",
         "board": "NCBS TIFR",
         "title": "Accounts Officer 'C'",
         "qualification": "Post Graduate in Commerce with 55% marks and Advanced Accountancy/Auditing/Taxation OR Graduate in Commerce/B.Com with 60% marks and inter-CA or CMA. Proficiency in computers and 5-6 years of experience.",
@@ -430,22 +462,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rri.res.in",
         "official_notification": "https://www.rri.res.in/sites/default/files/other-openings/Advt_17_2026.pdf"
-    },
-    {
-        "date": "16/06/2026",
-        "board": "EIL",
-        "title": "Associate Engineer Grade II & Grade III",
-        "qualification": "All candidates must hold a B.E. / B.Tech. / B.Sc (Engineering) degree in the relevant discipline from a recognized university or institution, with a minimum of 60% marks or equivalent CGPA . The exact CGPA equivalents are as follows: || Note : Round off percentage to the lower whole number (e.g., 60.9 = 60) and CGPA to the lower decimal (e.g., 6.95 = 6.9).",
-        "last_date": "30-06-2026",
-        "total_posts": "41",
-        "salary": "₹72,000 – ₹96,000 (incl. HRA & PF)",
-        "age_limit": "Associate Engineer Grade II:Maximum37 yearsas on 31 May 2026 || Associate Engineer Grade III:Maximum41 yearsas on 31 May 2026",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.engineersindia.com",
-        "official_notification": "https://recruitment.eil.co.in/"
     },
     {
         "date": "15/06/2026",

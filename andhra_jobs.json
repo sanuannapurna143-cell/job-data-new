@@ -1,6 +1,38 @@
 [
     {
         "date": "30/06/2026",
+        "board": "DCHS Palnadu",
+        "title": "Supporting Staff",
+        "qualification": "SSC/10th class or equivalent from recognized Board, Lab Attendant Course or Intermediate (Lab Attendant Vocational Course) for Lab Attendant post",
+        "last_date": "07-07-2026",
+        "total_posts": "22",
+        "salary": "Rs. 15000 Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 42 years || Age Relaxation: For SC, ST, BC and EWS: 5 years; For Ex-service Men: 3 years in addition to length of service; For differently abled: 10 years; Maximum age limit 52 years with all relaxations.",
+        "application_fee": "Rs.350/-",
+        "selection_process": "Merit based on 75% aggregate marks in qualifying examination || Up to 10 marks for experience || Up to 15% weightage for Contract/Outsourcing service || Counselling on merit basis following roster points",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://palnadu.ap.gov.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s3e4da3b7fbbce2345d7772b0674a318d5/uploads/2026/06/17828118644902.pdf"
+    },
+    {
+        "date": "30/06/2026",
+        "board": "DCHS Chittoor",
+        "title": "Paramedical and Supporting Staff",
+        "qualification": "SSC or equivalent, Diploma in Electrical trade, ITI in relevant trade, Lab Attendant Course or Intermediate (Lab Attendant Vocational Course)",
+        "last_date": "04-07-2026",
+        "total_posts": "18",
+        "salary": "Electrician: Rs. 22460 Per Month || Theatre Assistant: Rs. 15000 Per Month || Lab Attendant: Rs. 15000 Per Month || Plumber: Rs. 18500 Per Month || General Duty Attendants GDA/MNO/FNO: Rs. 15000 Per Month || Post Mortem Assistant: Rs. 15000 Per Month || Office Subordinate: Rs. 15000 Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 42 years || Age Relaxation: SC/ST/BC/EWS: 5 years; Ex-servicemen: 3 years in addition to service; Differently abled: 10 years",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Merit based on qualifying examination marks (75%) || Weightage for experience after qualification (up to 10 marks) || Weightage for Contract/Outsourcing/COVID service (up to 15%) || Counselling",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://chittoor.ap.gov.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2026/06/17825389925351.pdf"
+    },
+    {
+        "date": "30/06/2026",
         "board": "DCHS Tirupati",
         "title": "Paramedical and Supporting Staff",
         "qualification": "SSC/10th or equivalent, ITI Plumbing/Fitter/Mechanic trade",

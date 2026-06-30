@@ -1,6 +1,22 @@
 [
     {
         "date": "30/06/2026",
+        "board": "EIL",
+        "title": "Associate Engineer Grade II & Grade III",
+        "qualification": "All candidates must hold a B.E. / B.Tech. / B.Sc (Engineering) degree in the relevant discipline from a recognized university or institution, with a minimum of 60% marks or equivalent CGPA . The exact CGPA equivalents are as follows: || Note : Round off percentage to the lower whole number (e.g., 60.9 = 60) and CGPA to the lower decimal (e.g., 6.95 = 6.9).",
+        "last_date": "07-07-2026",
+        "total_posts": "41",
+        "salary": "₹72,000 – ₹96,000 (incl. HRA & PF)",
+        "age_limit": "Associate Engineer Grade II:Maximum37 yearsas on 31 May 2026 || Associate Engineer Grade III:Maximum41 yearsas on 31 May 2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.engineersindia.com",
+        "official_notification": "https://recruitment.eil.co.in/"
+    },
+    {
+        "date": "30/06/2026",
         "board": "IIEST Shibpur",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "B.Sc. and M.Sc. with first class in Chemistry/Biochemistry/Microbiology/Molecular Biology/Physiology, NET-LS or GATE qualified",
@@ -334,22 +350,6 @@
         "syllabus": "Not Available",
         "official_website": "https://aiimskalyani.edu.in/",
         "official_notification": "https://aiimskalyani.edu.in/aiimsapi/uploads/documents/general/engagement_of_guest_faculty_150626_20260615_112718_f62a5df2.pdf"
-    },
-    {
-        "date": "16/06/2026",
-        "board": "EIL",
-        "title": "Associate Engineer Grade II & Grade III",
-        "qualification": "All candidates must hold a B.E. / B.Tech. / B.Sc (Engineering) degree in the relevant discipline from a recognized university or institution, with a minimum of 60% marks or equivalent CGPA . The exact CGPA equivalents are as follows: || Note : Round off percentage to the lower whole number (e.g., 60.9 = 60) and CGPA to the lower decimal (e.g., 6.95 = 6.9).",
-        "last_date": "30-06-2026",
-        "total_posts": "41",
-        "salary": "₹72,000 – ₹96,000 (incl. HRA & PF)",
-        "age_limit": "Associate Engineer Grade II:Maximum37 yearsas on 31 May 2026 || Associate Engineer Grade III:Maximum41 yearsas on 31 May 2026",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.engineersindia.com",
-        "official_notification": "https://recruitment.eil.co.in/"
     },
     {
         "date": "15/06/2026",
