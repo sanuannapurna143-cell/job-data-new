@@ -1,6 +1,22 @@
 [
     {
-        "date": "29/06/2026",
+        "date": "30/06/2026",
+        "board": "ESIC",
+        "title": "Homeopathy Physician",
+        "qualification": "Degree in Homeopathy of a recognized University or statutory State Board or Council or equivalent recognized under the Homeopathy Central Council Act, 1973 (59 of 1973), Enrolment on the Central Register of Homeopathy or State Register of Homeopathy",
+        "last_date": "06-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 50000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://esic.gov.in/",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/WALK_IN_INTERVIEW_FOR_RECRUITMENT_OF_HOME_HY_PHYSICIAN_ON_PART_TIME_BASIS_1782726818.pdf"
+    },
+    {
+        "date": "30/06/2026",
         "board": "IOCL Guwahati",
         "title": "Trade Apprentice / Technician Apprentice (11 codes)",
         "qualification": "3-year Diploma in Instrumentation Engg / Instrumentation & Electronics / Instrumentation & Control Engg / Applied Electronics and Instrumentation Engg.",
@@ -29,7 +45,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "Not Available"
+        "official_notification": "rbi-site-engineer-recruitment-2026-apply-online-3055900"
     },
     {
         "date": "26/06/2026",

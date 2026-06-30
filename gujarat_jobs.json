@@ -1,5 +1,37 @@
 [
     {
+        "date": "30/06/2026",
+        "board": "RNSB",
+        "title": "Jr. Executive (Trainee)",
+        "qualification": "First Class Graduate (Except Arts) OR Postgraduate (Except Arts). 2 year course.",
+        "last_date": "07-07-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age: 30 years || Age Relaxation: As per rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://jobs.rnsb.bank.in/",
+        "official_notification": "https://jobs.rnsb.bank.in/CurrentOpening.aspx"
+    },
+    {
+        "date": "30/06/2026",
+        "board": "RITES",
+        "title": "Individual Consultant",
+        "qualification": "Degree in Civil Engineering, PG Degree in Civil Engineering with specialization in Environmental Engineering / Public Health Engineering or equivalent",
+        "last_date": "13-07-2026",
+        "total_posts": "8",
+        "salary": "Rs. 85000 - 100000 Per Month",
+        "age_limit": "Maximum Age Limit: 62 years for all posts.",
+        "application_fee": "Not Available",
+        "selection_process": "Document Scrutiny || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rites.com",
+        "official_notification": "https://www.rites.com/Upload/Career/Advt_YP_26-R4_32-R3_25_pdf-2026-Jun-29-14-41-2.pdf"
+    },
+    {
         "date": "29/06/2026",
         "board": "GSSSB",
         "title": "X-Ray Technician",
@@ -45,7 +77,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "Not Available"
+        "official_notification": "rbi-site-engineer-recruitment-2026-apply-online-3055900"
     },
     {
         "date": "29/06/2026",
@@ -94,22 +126,6 @@
         "syllabus": "Not Available",
         "official_website": "https://jumc.gujarat.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/06/5655655-6a3f4e40745a645012772.pdf"
-    },
-    {
-        "date": "26/06/2026",
-        "board": "NFSU Gandhinagar",
-        "title": "Project Assistant",
-        "qualification": "Well-trained in forensic archaeology and/or forensic anthropology, experience in field work, good oral and written communication skills",
-        "last_date": "29-06-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nfsu.ac.in/",
-        "official_notification": "https://beta.nfsu.ac.in/data/pdfs/Contarctual_Recruitment/Adv.%20NFSU-DPAA_22062026.pdf"
     },
     {
         "date": "25/06/2026",
@@ -190,22 +206,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.svnit.ac.in",
         "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/June/001-Advertisement_SVNIT_C2S_20062026.pdf"
-    },
-    {
-        "date": "23/06/2026",
-        "board": "IIT Gandhinagar",
-        "title": "Senior Research Fellow",
-        "qualification": "Postgraduate Degree in Basic Sciences, or Graduate/Postgraduate Degree in a Professional Course, Selected through a national-level examination such as CSIR-UGC NET, DBT-BET, GATE, ICMR-JRF, ICAR, or equivalent national-level selection process. Minimum two years of research experience after obtaining the qualifying degree.",
-        "last_date": "29-06-2026",
-        "total_posts": "1",
-        "salary": "Rs. 45780 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitgn.ac.in",
-        "official_notification": "https://drive.google.com/file/d/1nNaKE9T6FhsyXXhwUVXcAg_xMiLfhoLy/view"
     },
     {
         "date": "23/06/2026",
@@ -317,7 +317,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://gsssb.gujarat.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "csl-scaffolder-trainee-recruitment-2026-apply-online-for-60-posts-3055906"
     },
     {
         "date": "20/06/2026",
@@ -417,22 +417,6 @@
     },
     {
         "date": "18/06/2026",
-        "board": "SVNIT",
-        "title": "Teaching Assistant",
-        "qualification": "B.Sc., B.Tech., MCA, M.Sc., BCA, M.S, M.Tech., Ph.D., or equivalent qualifications",
-        "last_date": "29-06-2026",
-        "total_posts": "Not Mentioned",
-        "salary": "Rs. 45000 - 60000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.svnit.ac.in/",
-        "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/June/Advertisement%20final.pdf"
-    },
-    {
-        "date": "18/06/2026",
         "board": "OPaL",
         "title": "Director (Technical) and Managing Director",
         "qualification": "Engineering Graduate preferably in Chemical / Mechanical / Electrical / Production / Petrochemical Engineering, Graduate or Post-Graduate in Engineering / Chartered Accountant / Cost Accountant / Graduate with full time MBA/PGDBA",
@@ -512,54 +496,6 @@
         "official_notification": "https://recruitment.eil.co.in/"
     },
     {
-        "date": "16/06/2026",
-        "board": "GSSSB",
-        "title": "Radiotherapy Technician",
-        "qualification": "HSC with Science (Physics, Chemistry, Mathematics), 2 years Radiotherapy Technologist course with 2 years infield training OR B.Sc in Medical Radiotherapy Technology with 1 year infield training, Basic computer knowledge, Knowledge of Gujarati or Hindi or both",
-        "last_date": "29-06-2026",
-        "total_posts": "19",
-        "salary": "Rs. 26,000/- fixed per month for first 5 years; thereafter Pay Scale Rs. 25,500/- to 81,100/- (Level-4)",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 36 years || Age Relaxation: General Female: 5 years (max 40); Reserved Male: 5 years (max 40); Reserved Female: 10 years (max 45); PWD: 10-20 years (max 45); Ex-Servicemen: service period + 3 years",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "CBRT/OMR MCQ Examination (Part-A 90 marks, Part-B 120 marks) || Document Verification || Merit List",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://gsssb.gujarat.gov.in/",
-        "official_notification": "https://gsssb.gujarat.gov.in/ViewFile?fileName=4naZ%E2%9C%BF8wS64TzwZ61AZrbMP4tvDBt3Mj8UPSd1xKcshu3KcwSKT2%E2%9C%A4otX3gvcmi1sb3BchYEDi8bPPWtFWtn7HVq7As%E2%9C%BFWTuLB7clppnbuJq9M4Ikb07meMcA5JelaOnOnm5d0gZFZXJ7TY9eJ47Gs2zQ%E2%99%AC%E2%99%AC"
-    },
-    {
-        "date": "15/06/2026",
-        "board": "GSSSB",
-        "title": "Additional Assistant Engineer (Mechanical), Class-3",
-        "qualification": "To be eligible for the Additional Assistant Engineer (Mechanical) post, candidates must possess the following: || A Diploma in Engineering (Mechanical) or Diploma in Automobile Engineering from the Technical Examination Board, a recognized university established under a Central or State Act, or an institution deemed to be a university under Section 3 of the UGC Act, 1956. || Basic knowledge of computer applications as prescribed under the Gujarat Civil Services Classification and Recruitment (General) Rules, 1967. || Adequate knowledge of Gujarati or Hindi, or both.",
-        "last_date": "29-06-2026",
-        "total_posts": "110",
-        "salary": "Not Available",
-        "age_limit": "Relaxation",
-        "application_fee": "Examination Fee",
-        "selection_process": "After the written examination, GSSSB follows a structured process to prepare the final selection list. || Candidates who clear the minimum qualifying standard in both Part-A and Part-B will be shortlisted for document verification, approximately twice the number of vacancies in each category based on merit. || After document verification, the final selection list and waiting list (if applicable) will be prepared based on marks obtained in the written examination and category-wise vacancy requirements. || Appointment recommendations for selected candidates will be sent by the Board to the concerned government department. Qualifying the written exam alone does not guarantee appointment; the appointing authority's satisfaction regarding the candidate's overall suitability is required.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://gsssb.gujarat.gov.in/ViewFile?fileName=4naZ%E2%9C%BF8wS64TzwZ61AZrbMP4tvDBt3Mj8UPSd1xKcshu%E2%9C%BFWaUrn%E2%9C%BFrNW6aHkhivEL7eARNjmcuGPwQhYRbSrqufGIiyRn8yvjbZi%E2%9C%A4uwHfekyzofBC%E2%9C%BFqDPVGBJv2vILnbQzFvRSyatTK6jAZ1DP0ONf6bQ%E2%99%AC%E2%99%AC"
-    },
-    {
-        "date": "15/06/2026",
-        "board": "GSSSB",
-        "title": "Laboratory Assistant (Mechanical), Class-3",
-        "qualification": "Diploma in Mechanical Engineering or allied branches from recognized board/university, Basic knowledge of computer applications, Adequate knowledge of Gujarati or Hindi or both",
-        "last_date": "29-06-2026",
-        "total_posts": "2",
-        "salary": "Rs. 26,000/- per month for the first 5 years. || After 5 years, the salary will be in the pay scale of Rs. 26000 - 63200 Per Month.",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 33 years || Age relaxation for PwD candidates: 10 years (maximum age 45 years)",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Written Test (MCQ CBRT/OMR) || Document Verification || Merit List",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://gsssb.gujarat.gov.in/",
-        "official_notification": "https://gsssb.gujarat.gov.in/ViewFile?fileName=4naZ%E2%9C%BF8wS64TzwZ61AZrbMP4tvDBt3Mj8UPSd1xKcshuEvrlJ%E2%9C%A4sbM2cQCf5hszuMH9wULAEYGdjvODDy47FAMmfQY7o8r4q5HWPb09RhIPxPkWSSKW0nCtJexNrv3QQptQfKOrbJx57Lb6ROQsEOgyg%E2%99%AC%E2%99%AC"
-    },
-    {
         "date": "12/06/2026",
         "board": "AIIMS Rajkot",
         "title": "Professor, Additional Professor, Associate Professor, Assistant Professor",
@@ -574,54 +510,6 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://aiimsrajkot.edu.in/api/files/Detailed%20Notification%20for%20Faculty%20Recruitment.pdf"
-    },
-    {
-        "date": "12/06/2026",
-        "board": "GSSSB",
-        "title": "X-Ray Technician, Class 3",
-        "qualification": "To apply for the GSSSB X-Ray Technician post, candidates must satisfy all three of the following conditions: || A Bachelor's degree in Sciencefrom a University established under any Central or State Act in India, or an institution declared a Deemed University under Section 3 of the UGC Act, 1956. || Completion of the X-Ray Technician courseconducted by a Government Institute or a Medical College recognised by the National Medical Council. || Basic computer knowledgeas prescribed under Gujarat Civil Services Classification (General) Rules, 1967. || Adequate knowledge of Gujarati or Hindi or both.",
-        "last_date": "29-06-2026",
-        "total_posts": "246",
-        "salary": "₹35,400/- to ₹1,12,400/- (Level 6, 7th CPC)",
-        "age_limit": "Ex-Servicemen receive an additional relaxation equal to the length of military service rendered, plus 3 years, subject to a ceiling of 45 years. || Candidates already serving in Gujarat Government and belonging to reserved categories receive age relaxation as per Gujarat Civil Services Classification and Recruitment (General) Rules, 1967.",
-        "application_fee": "₹500/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://gsssb.gujarat.gov.in",
-        "official_notification": "https://gsssb.gujarat.gov.in/ViewFile?fileName=4naZ%E2%9C%BF8wS64TzwZ61AZrbMP4tvDBt3Mj8UPSd1xKcshs4%E2%9C%BFijlbw3sjrX416QYVd%E2%9C%BFkiHgt%E2%9C%BFpOErlhpGh%E2%9C%A4Ws6lv2OB1gdEbTLUBfEM7xf4YVD9rCCrLnqq7DQL%E2%9C%BF2LOE%E2%9C%A4EhJNKz6IeLex7rM%E2%9C%BF17q1Jlzbg%E2%99%AC%E2%99%AC"
-    },
-    {
-        "date": "12/06/2026",
-        "board": "GSSSB",
-        "title": "Female Health Worker (Stree Arogya Karmi), Class-3",
-        "qualification": "Passed Secondary (SSC) or Higher Secondary (HSC) examination from a recognised board,AND || Completed theFemale Health Workers Basic Training Courserecognised by the Government,ORcompleted theAuxiliary Nurse Midwife (ANM) Courserecognised by the Government and registered with theGujarat Nursing Council || Basic knowledge of computer applications as per Gujarat Civil Services Classification and Recruitment (General) Rules, 1967 || Adequate knowledge of Gujarati or Hindi or both",
-        "last_date": "29-06-2026",
-        "total_posts": "155",
-        "salary": "₹19,900/- to ₹63,200/- (Pay Level-2)",
-        "age_limit": "Since all 155 posts are designated for female candidates only, the minimum age is 18 years and the upper age is calculated as on 29 June 2026 . All reserved category benefits are available only to candidates originally domiciled in Gujarat.",
-        "application_fee": "₹500/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://gsssb.gujarat.gov.in",
-        "official_notification": "https://gsssb.gujarat.gov.in/ViewFile?fileName=4naZ%E2%9C%BF8wS64TzwZ61AZrbMP4tvDBt3Mj8UPSd1xKcshvVS0VJYC%E2%9C%A4Pmaj3L01l%E2%9C%BFIrwdJjcaM%E2%9C%A4%E2%9C%A4n4qYyGWmsRCUvJdfDwCZb4OZLlcEBN4hdwSfVtJ5zClxIj47OWHFn4d9qLiaQilDJeWS8XCPA4O%E2%9C%A4YA%E2%99%AC%E2%99%AC"
-    },
-    {
-        "date": "11/06/2026",
-        "board": "SVNIT",
-        "title": "Teaching Assistant",
-        "qualification": "M.A. in English with First Class or equivalent CGPA, M.S.W. or Master’s Degree in Human Resources, Psychology, or Sociology with First Class or equivalent CGPA, Ph.D. in appropriate branch (preferred)",
-        "last_date": "29-06-2026",
-        "total_posts": "5",
-        "salary": "Rs. 45,000/- (Master’s Degree) or Rs. 60,000/- (Ph.D.)",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Document Verification || Written Test || Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.svnit.ac.in",
-        "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/June/Advertisement%20-%20Walk-in-Interview%20for%20the%20Post%20of%20Teaching%20Assistant%20in%20DoHSS.pdf"
     },
     {
         "date": "11/06/2026",

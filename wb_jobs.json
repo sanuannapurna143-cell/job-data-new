@@ -1,5 +1,37 @@
 [
     {
+        "date": "30/06/2026",
+        "board": "AIIMS Kalyani",
+        "title": "Tutor/ Clinical Instructor",
+        "qualification": "B.Sc. Nursing Degree from a recognized Institution/University OR Registered Nurse and Midwife with sister Tutors Diploma",
+        "last_date": "24-07-2026",
+        "total_posts": "1",
+        "salary": "Level-10 (7th CPC)",
+        "age_limit": "Max: 50 years",
+        "application_fee": "Rs. 3540/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimskalyani.edu.in",
+        "official_notification": "https://aiimskalyani.edu.in/aiimsapi/uploads/documents/general/final_advt_for_tutor_con_for_website_20260624_151426_dd71e0c3.pdf"
+    },
+    {
+        "date": "30/06/2026",
+        "board": "RRB",
+        "title": "Technician – 6557 Posts",
+        "qualification": "For Technician Grade-I Signal, candidates need a Bachelor of Science in Physics/Electronics/Computer Science/Information Technology/Instrumentation, a three-year diploma in Engineering, or a Degree in Engineering in these streams. For most Technician Grade-III posts, candidates need Matriculation /SSLC plus ITI from NCVT/SCVT or Matriculation/SSLC plus Course Completed Act Apprenticeship in the relevant trade (such as Fitter, Welder, Electrician, Machinist, Carpenter, or Blacksmith, depending on the post applied for).",
+        "last_date": "29-07-2026",
+        "total_posts": "6557",
+        "salary": "Candidates curious about RRB Technician in-hand salary should note that pay depends on the post and pay level assigned. Technician Grade-I Signal carries a higher starting pay than Technician Grade-III posts, as shown below. || Selected candidates will undergo training wherever prescribed, during which only a stipend is paid rather than full pay.",
+        "age_limit": "Candidates from reserved categories get standard relaxation in the upper age limit: 5 years for SC/ST , 3 years for OBC-NCL , and additional relaxation for PwBD candidates (10 years for UR/EWS, 13 years for OBC-NCL, 15 years for SC/ST). Ex-servicemen get age relaxation equal to their length of service plus 3 years (UR/EWS), 6 years (OBC-NCL), or 8 years (SC/ST) after deducting service length from their actual age.",
+        "application_fee": "The application fee for RRB Technician CEN 02/2026 differs by candidate category and is partially refundable for those who appear in the CBT. General category candidates pay more than reserved categories, with both fee structures eligible for partial refund upon attending the exam. || Fee payment is accepted only through online mode - internet banking, debit/credit cards, or UPI. Applications submitted without the prescribed fee will be summarily rejected, so candidates must pay the fee before 31 July 2026.",
+        "selection_process": "Candidates often ask how RRB selects Technicians, and the answer is a three-stage process based purely on merit. The recruitment involves a Computer Based Test (CBT), Document Verification (DV), and a Medical Examination, with shortlisting at each stage determined by performance in the previous one. || Computer Based Test (CBT):A single CBT of 90 minutes with 100 questions and negative marking of 1/3rd mark per wrong answer. Minimum qualifying marks are 40% (UR/EWS), 30% (OBC-NCL/SC), and 25% (ST). || Document Verification (DV):Candidates are shortlisted at a 1:1 ratio against vacancies based on CBT merit, RRB-wise. Original documents must be produced; no extra time is given for missing certificates. || Medical Examination (ME):Conducted by Railway Medical Authorities as per the medical standard (A3, B1, B2, or C1) prescribed for the specific post. || Based on typical RRB recruitment cycles, CBT is expected a few months after the application closes, followed by DV and medical examination in subsequent phases - though exact dates will be announced on official RRB websites.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rrbcdg.gov.in/",
+        "official_notification": "https://www.rrbthiruvananthapuram.gov.in/assets/pdf/Detailed_CEN_02_2026.pdf"
+    },
+    {
         "date": "29/06/2026",
         "board": "Burdwan Medical College",
         "title": "Research Assistant",
@@ -174,22 +206,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iiests.ac.in/",
         "official_notification": "https://data.iiests.ac.in/uploads/announcements/files/1781775250_Website%20Copy,%20Ajmira%20Nageswara%20Rao,%20AE&AM,%2017.06.2026.pdf"
-    },
-    {
-        "date": "23/06/2026",
-        "board": "RRB",
-        "title": "Technician Grade I Signal & Technician Grade III",
-        "qualification": "B.Sc, ITI",
-        "last_date": "29-07-2026",
-        "total_posts": "6,565 (Tentative)",
-        "salary": "Technician Grade I Signal:Pay Level 5 (7th CPC) – Initial Pay Rs. 29,200/- || Technician Grade III:Pay Level 2 (7th CPC) – Initial Pay Rs. 19,900/- || Additional allowances such as DA, HRA, TA and other benefits will be admissible as per Railway rules for the respective pay levels.",
-        "age_limit": "Technician Grade I Signal:18 to 36 Years || Technician Grade III:18 to 33 Years || Upper age relaxation for reserved categories (SC/ST/OBC/NCL/EWS/Ex-Servicemen/ PWBD) will be applicable as per Government of India rules and details will be given in the detailed CEN.",
-        "application_fee": "Not Available",
-        "selection_process": "RRB Technician recruitment involves multiple stages including a Computer Based Test and subsequent document and medical verification. There is no Computer Based Aptitude Test for these Technician posts. || Stage 1: Computer Based Test (CBT) || Stage 2: Document Verification || Stage 3: Medical Examination",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.rrbcdg.gov.in",
-        "official_notification": "Not Available"
     },
     {
         "date": "22/06/2026",
