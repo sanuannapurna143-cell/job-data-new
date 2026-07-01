@@ -1,6 +1,22 @@
 [
     {
         "date": "01/07/2026",
+        "board": "ESIC",
+        "title": "Specialists",
+        "qualification": "PG Degree/Diploma in concerned Specialty and registered with Medical Council of India",
+        "last_date": "06-07-2026",
+        "total_posts": "13",
+        "salary": "Rs. 60000 - 172816 Per Month",
+        "age_limit": "Maximum Age Limit: 67 years",
+        "application_fee": "Rs. 400/-",
+        "selection_process": "Walk-in Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/WALK_IN_INTERVIEW_FOR_HIRING_OF_SPECIALISTS_Part_Time_Full_Time_ON_CONTRACTUAL_BASIS_IN_ESIC_HOSPITAL_ADITYAPUR_English_1782294184.pdf"
+    },
+    {
+        "date": "01/07/2026",
         "board": "IIT ISM Dhanbad",
         "title": "ANRF Junior Research Fellow (ANRF JRF)",
         "qualification": "B.E./ B.Tech/ M.Tech/ MCA/ M.Sc in Computer Science, Mathematics, Mathematics & Computing, Electrical Engineering, Electronics Engineering, Artificial Intelligence, Data Science, or related fields with GATE or NET qualification",

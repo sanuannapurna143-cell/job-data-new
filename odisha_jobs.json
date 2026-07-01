@@ -1,6 +1,70 @@
 [
     {
         "date": "01/07/2026",
+        "board": "District Court Kendrapara",
+        "title": "Junior Clerk-cum-Copyist / Stenographer Grade-III / Junior Typist / Salaried Amin",
+        "qualification": "+3 Examination or equivalent, Diploma in Computer Application, Matriculation for Salaried Amin, Revenue Inspector Training for Salaried Amin, Shorthand and Typewriting speed for Stenographer/Typist",
+        "last_date": "03-08-2026",
+        "total_posts": "19",
+        "salary": "Rs. ₹19,900 - ₹81,100 Per Month",
+        "age_limit": "Min: 18 years, Max: 42 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://kendrapara.dcourts.gov.in",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0309060616068d2b9544dc33f2fbe4/uploads/2026/06/2026063063.pdf"
+    },
+    {
+        "date": "01/07/2026",
+        "board": "WCD Odisha",
+        "title": "Anganwadi Worker and Helper",
+        "qualification": "Minimum +2 pass",
+        "last_date": "04-07-2026",
+        "total_posts": "6",
+        "salary": "Honorarium based",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 35 years || Age Relaxation: || Anganwadi Helper: Up to 10 years relaxation in age limit for selection as Anganwadi Worker and Helper if they have worked as Anganwadi Helper for more than five years in Scheduled Area. || Physically Handicapped: 40% or more disability.",
+        "application_fee": "Not Available",
+        "selection_process": "Merit list based on marks obtained in 12th class examination. || Additional points for certain categories.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://engagement-awc.odisha.gov.in",
+        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=164635"
+    },
+    {
+        "date": "01/07/2026",
+        "board": "ECHS",
+        "title": "Medical Specialist, Medical Officer, Dental Officer, Pharmacist, Nursing Assistant, Dental A/T/H, Chowkidar",
+        "qualification": "MD/MS in Specialty concerned/DNB, MBBS, BDS, B Pharmacy or 10+2 with Science stream (PCB) and Approved Diploma in Pharmacy, GNM Diploma /Class 1 Nursing Assistants Course (Armed Forces), Diploma Holder in Dental Hyg/ Class-1 DH/DORA Course (Armed Forces), 8th Class or GD Trade for Armed Forces Personnel",
+        "last_date": "29-07-2026",
+        "total_posts": "9",
+        "salary": "Rs 1,30,000/-, Rs. 95,000/-, Rs. 36,500/-, Rs 21,800/-",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.echs.gov.in",
+        "official_notification": "https://www.echs.gov.in/assets/advertisement/Delagation%20of%20Power%20Emp%20-IHQ_removed.pdf"
+    },
+    {
+        "date": "01/07/2026",
+        "board": "NIT Rourkela",
+        "title": "Junior Research Fellow (PhD)",
+        "qualification": "First class in Matriculation and +2, B.Tech/B.E in Civil Engineering (min CGPA 6.5 or 60%), M.E/M.Tech in Water Resources Engineering (min CGPA 6.5 or 60%), GATE qualification preferred",
+        "last_date": "20-07-2026",
+        "total_posts": "1",
+        "salary": "Year 1 & 2: INR 37,000.00 per month || Year 3: INR 42,000.00 per month",
+        "age_limit": "Maximum Age Limit: 32 years || Age Relaxation: Relaxed up to 5 years for SC/ST/PWD/Female; 3 years for OBC (Non-creamy layer)",
+        "application_fee": "Nil",
+        "selection_process": "Shortlisting based on merit || Walk-in Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitrkl.ac.in",
+        "official_notification": "https://www.nitrkl.ac.in/docs/Career/ProjectFelow/2026/22062026160556959.pdf"
+    },
+    {
+        "date": "01/07/2026",
         "board": "NIT Rourkela",
         "title": "Junior Research Fellow (PhD)",
         "qualification": "12TH, B.Tech/ B.E, M.E/ M.Tech",
@@ -141,7 +205,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "hpcl-recruitment-2026-apply-online-for-116-junior-executive-assistant-manager-and-more-posts-3056113"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/06/2026",
@@ -205,7 +269,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://epi.gov.in",
-        "official_notification": "bank-of-india-credit-officer-recruitment-2026-apply-online-for-779-posts-3055704"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/06/2026",
@@ -366,22 +430,6 @@
         "syllabus": "Not Available",
         "official_website": "https://jajpur.dcourts.gov.in",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec03b0ab42fcb7133122b38521d13da7/uploads/2026/06/2026061865.pdf"
-    },
-    {
-        "date": "22/06/2026",
-        "board": "WCD Odisha",
-        "title": "Anganwadi Worker",
-        "qualification": "Minimum +2 pass",
-        "last_date": "04-07-2026",
-        "total_posts": "2",
-        "salary": "Honorarium based",
-        "age_limit": "Min: 18, Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://engagement-awc.odisha.gov.in",
-        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=164635"
     },
     {
         "date": "20/06/2026",

@@ -1,6 +1,22 @@
 [
     {
         "date": "01/07/2026",
+        "board": "NCRTC",
+        "title": "Patwari",
+        "qualification": "10th pass",
+        "last_date": "01-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 39300 Per Month",
+        "age_limit": "Maximum Age Limit: 62 years",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ncrtc.in",
+        "official_notification": "https://www.ncrtc.co.in/hr-module/HR/uploads/2026_07_01_04_07_29252026Patwarivacancy.pdf"
+    },
+    {
+        "date": "01/07/2026",
         "board": "ICGEB",
         "title": "Research Associate and Technical Assistant",
         "qualification": "PhD in Life Sciences/Biotechnology, MSc/MTech in Life Sciences/Biotechnology",
@@ -141,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "hpcl-recruitment-2026-apply-online-for-116-junior-executive-assistant-manager-and-more-posts-3056113"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",

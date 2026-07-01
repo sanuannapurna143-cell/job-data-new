@@ -1,6 +1,22 @@
 [
     {
         "date": "01/07/2026",
+        "board": "ECHS",
+        "title": "Medical and Para Medical Staff",
+        "qualification": "BDS with minimum 3 years work experience, B Pharmacy or Approved Diploma in Pharmacy with minimum 3 years experience",
+        "last_date": "20-07-2026",
+        "total_posts": "2",
+        "salary": "Dental Officer:Minimum Rs. 95,000/- Per Month (As per guidelines) || Pharmacist:Minimum Rs. 36,500/- Per Month (As per guidelines)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.echs.gov.in",
+        "official_notification": "https://www.echs.gov.in/assets/advertisement/MUMBAI%20ADVERTISEMENT%20FOR%20VACANCY%20OF%20CONTRACTUAL%20EMPLOYMENT%20ON%20ECHS.pdf"
+    },
+    {
+        "date": "01/07/2026",
         "board": "GSL",
         "title": "Apprenticeship Training (Graduate Engineer / Technician / Non-Engineering Graduate)",
         "qualification": "Reservation for SC/ST/OBC/PWD candidates will be as per Government of India rules. The management also reserves the right to raise the eligibility criteria, including increasing the cut-off percentage, for the purpose of shortlisting applications.",
