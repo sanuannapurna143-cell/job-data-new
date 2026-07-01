@@ -1,5 +1,21 @@
 [
     {
+        "date": "01/07/2026",
+        "board": "Indian Army",
+        "title": "Short Service Commission (Technical) Officer",
+        "qualification": "B.E / B.Tech (Engineering Graduates)",
+        "last_date": "06-08-2026",
+        "total_posts": "Vacancy",
+        "salary": "Not Available",
+        "age_limit": "20 to 27 Years (Approx.)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.joinindianarmy.nic.in/",
+        "official_notification": "delhi-higher-judicial-service-exam-2026-apply-online-for-27-posts-3056089"
+    },
+    {
         "date": "29/06/2026",
         "board": "Indian Navy",
         "title": "Agniveer (Apprentice)",
@@ -94,22 +110,6 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://img2.freejobalert.com/news/2026/06/896329-6a3a220a9f9d077584693.pdf"
-    },
-    {
-        "date": "23/06/2026",
-        "board": "HSSC",
-        "title": "Post Name",
-        "qualification": "The minimum academic requirement differs based on the post applied for. || For Assistant Superintendent Jail (Cat. No. 1 & 2): || Graduation from any recognized university or its equivalent || Hindi or Sanskrit as one of the subjects in Matriculation or higher education || For Prison Warder (Cat. No. 3 & 4): || 10+2 (Senior Secondary) or its equivalent from a recognized education board || Hindi or Sanskrit as one of the subjects in Matriculation or higher education",
-        "last_date": "30-06-2026",
-        "total_posts": "1238",
-        "salary": "Not Available",
-        "age_limit": "Age eligibility varies by post group. Reserved category candidates receive relaxation as per Haryana Government norms.",
-        "application_fee": "No fee required for any candidate",
-        "selection_process": "The selection process is multi-staged and merit-based. Here is a complete breakdown of how candidates move from application to final recommendation.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
     },
     {
         "date": "22/06/2026",
@@ -286,21 +286,5 @@
         "syllabus": "Not Available",
         "official_website": "https://rect.crpf.gov.in",
         "official_notification": "https://rect.crpf.gov.in/Upload/Recruitment/COMDT_ARCH_RECT_NOTICE-452.pdf"
-    },
-    {
-        "date": "28/05/2026",
-        "board": "DRDO DEAL",
-        "title": "DRDO Paid Internship",
-        "qualification": "B.Tech./B.E./M.Tech./M.Sc.(Electronics) final year students with CGPA >= 7.0 and no backlogs in the first 5 semesters.",
-        "last_date": "30-06-2026",
-        "total_posts": "45",
-        "salary": "Stipend of total Rs. 30,000/- in two installments will be paid (Rs. 15,000/- after completion of 3 months and Rs. 15000/- after completion of 6 months) subject to attendance of minimum 15 days in a month.",
-        "age_limit": "No minimum or maximum age limit is specified in the official notification.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Selection will be based entirely on merit basis.",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://drdo.gov.in",
-        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDEAL27052026.pdf"
     }
 ]
