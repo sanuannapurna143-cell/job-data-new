@@ -1,6 +1,38 @@
 [
     {
         "date": "01/07/2026",
+        "board": "HAL",
+        "title": "Radiographer / X-Ray Technician",
+        "qualification": "SSLC / PUC with Diploma in Radiography / Diploma in Medical X-Ray Technology OR Bachelor in Medical Imaging Technology",
+        "last_date": "13-07-2026",
+        "total_posts": "2",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://hal-india.co.in",
+        "official_notification": "https://hal-india.co.in/backend//wp-content/uploads/career/X-Ray%20Technician_1782703728.pdf"
+    },
+    {
+        "date": "01/07/2026",
+        "board": "JNCASR",
+        "title": "Research Associate",
+        "qualification": "PhD in Chemistry or Life Sciences",
+        "last_date": "09-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 58,000/- plus applicable HRA Per Month",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Online Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.jncasr.ac.in/",
+        "official_notification": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-06/NCU-EMR-170.pdf"
+    },
+    {
+        "date": "01/07/2026",
         "board": "Karnataka High Court",
         "title": "Data Entry Assistant",
         "qualification": "Candidates must have passed a Bachelor's Degree in Science, Arts, Commerce, Business Management, or Computer Applications from a recognized university. General and Other Backward Category candidates need a minimum of 55% aggregate marks, while Scheduled Caste and Scheduled Tribe candidates need a minimum of 50% aggregate marks. In addition, candidates must have passed the Senior Grade Typewriting examination in both English and Kannada, along with a certificate in computer basics from a recognized computer education institute.",

@@ -1,6 +1,22 @@
 [
     {
         "date": "01/07/2026",
+        "board": "NIT Warangal",
+        "title": "Research Associate - I",
+        "qualification": "Ph.D. in Mathematics/Biomechanics/Biomedical Engineering or related discipline, Minimum 60% aggregate or 6.5 CGPA (GEN/GEN-EWS/OBC-NCL) / 55% or 6.0 CGPA (SC/ST/PwD) at UG and PG, At least two research papers in SCI journals",
+        "last_date": "15-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 58,000/- per month + HRA",
+        "age_limit": "Maximum Age: 35 years. || Age relaxation as per Govt. of India norms for SC/ST/OBC/PwD/Female candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Interview (Online/Offline)",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitw.ac.in",
+        "official_notification": "https://nitw.ac.in/api/static/files/ABB_RA2026_2026-6-24-16-41-50.jpg"
+    },
+    {
+        "date": "01/07/2026",
         "board": "DMHO Jagtial",
         "title": "Lab Technician",
         "qualification": "Intermediate (10+2) and Diploma or Certified course in Medical Laboratory Technology or equivalent. Graduates (B.Sc. (MLT)/M.Sc. (MLT)) are preferred.",
@@ -141,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.telangana.gov.in/",
-        "official_notification": "mdl-trade-apprentice-recruitment-2026-apply-online-for-495-posts-3053497"
+        "official_notification": "hpcl-recruitment-2026-apply-online-for-116-junior-executive-assistant-manager-and-more-posts-3056113"
     },
     {
         "date": "29/06/2026",

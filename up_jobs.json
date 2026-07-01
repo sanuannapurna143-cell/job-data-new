@@ -1,6 +1,38 @@
 [
     {
         "date": "01/07/2026",
+        "board": "IIT Kanpur",
+        "title": "Project Technician",
+        "qualification": "B.Sc. + 4 years experience OR 3 years Engg. Diploma + 4 years relevant experience",
+        "last_date": "05-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 14400 - 36000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in/",
+        "official_notification": "https://www.iitk.ac.in/dord/project/chm-pt-24-06-26.html"
+    },
+    {
+        "date": "01/07/2026",
+        "board": "BHU",
+        "title": "Research Associate (RA)",
+        "qualification": "Doctorate (PhD/MD/MS/MDS) or equivalent degree OR having 3 years of research, teaching and design and development experience after MVSc/MPharm/ME/MTech",
+        "last_date": "14-07-2026",
+        "total_posts": "1",
+        "salary": "Research Associate (RA):Rs. 58000 - 67000 Per Month",
+        "age_limit": "Maximum Age: 35 years || Age Relaxation:Upper age limit relaxable up-to 5 years for SC/ST/OBC, women and physically handicapped candidates.",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bhu.ac.in/",
+        "official_notification": "https://www.bhu.ac.in/Site/TempVacancyDetail/1_2_16?2087"
+    },
+    {
+        "date": "01/07/2026",
         "board": "IIT BHU",
         "title": "Junior Research Fellow",
         "qualification": "M.Tech in Biochemical Engineering, Biotechnology, Bioengineering, Bioprocess Engineering/Technology, Chemical Engineering/Technology, Industrial Microbiology, M.Sc. in Biotechnology, Microbiology, Genetics, Biochemistry, Bioinformatics, Food Sciences, Molecular Biology, Genetic Science/Engg, Botany, Zoology, Life Sciences and Environmental technology with GATE/NET or equivalent",
@@ -125,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "mdl-trade-apprentice-recruitment-2026-apply-online-for-495-posts-3053497"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/06/2026",
