@@ -1,6 +1,22 @@
 [
     {
         "date": "02/07/2026",
+        "board": "Cordite Factory Aruvankadu",
+        "title": "Hired Medical Practitioner",
+        "qualification": "MBBS Degree, Valid Medical Council Registration",
+        "last_date": "10-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 75,000/- per month (Consolidated)",
+        "age_limit": "Maximum Age: 70 years",
+        "application_fee": "Nil",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ddpdoo.gov.in/",
+        "official_notification": "https://ddpdoo.gov.in/storage/document/6a450a1ad9059.pdf"
+    },
+    {
+        "date": "02/07/2026",
         "board": "NHM SHSRC",
         "title": "Chief Advisor",
         "qualification": "Medical Graduate, Postgraduate in Public Health/Community Medicine, 15 years experience",

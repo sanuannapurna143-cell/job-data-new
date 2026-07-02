@@ -1,6 +1,38 @@
 [
     {
         "date": "02/07/2026",
+        "board": "CBI",
+        "title": "Forensic Advisor",
+        "qualification": "Master's Degree in Forensic Science or related discipline, Minimum 2 years experience in forensic advice and support",
+        "last_date": "15-07-2026",
+        "total_posts": "1",
+        "salary": "Forensic Advisor: Rs. 1,00,000/- per month",
+        "age_limit": "Maximum Age: 45 years as on 01 July 2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://cbi.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/16841487-6a463ef3e815775814062.pdf"
+    },
+    {
+        "date": "02/07/2026",
+        "board": "BBSSL",
+        "title": "Deputy Managing Director",
+        "qualification": "Postgraduate Degree in Agriculture, Agricultural Sciences, Agribusiness Management, Rural Management, Business Administration, Management or any allied discipline from a recognised University / Institution, MBA / PGDM in Agribusiness, Operations, Supply Chain Management, Finance or Strategic Management",
+        "last_date": "16-07-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age Limit: 58 years. || Relaxation in age may be considered for exceptionally qualified and experienced candidates at the discretion of the Competent Authority.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.kribhco.net/",
+        "official_notification": "https://www.kribhco.net/pages/other/BBSS/DMD_Advertisement_BBSSL.pdf"
+    },
+    {
+        "date": "02/07/2026",
         "board": "Lok Nayak Hospital",
         "title": "Junior Resident (Non-PG), Adhoc Basis",
         "qualification": "MBBS degree from a recognized University/Institute or an equivalent degree. || Only candidates who completed their internshipafter 01.03.2024 and before 01.07.2026are eligible. Candidates furnishing an internship certificate dated prior to 01.03.2024 will have their candidature cancelled.",
@@ -221,7 +253,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "up-anganwadi-recruitment-2026-apply-online-for-236-anganwadi-worker-posts-in-mathura-district-3056341"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",
