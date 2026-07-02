@@ -1,5 +1,21 @@
 [
     {
+        "date": "02/07/2026",
+        "board": "RRI",
+        "title": "Engineer C, Engineer B, Engineering Assistant C, Tradesman A",
+        "qualification": "M.Sc or Engineering degree in Electronics with first class & three years’ of relevant experience / M.Tech Degree in Electronics with First class marks, M.Sc. or Engineering degree in Electronics with first class, M.Sc. or Mechanical Engineering with first class, M.Sc. or Engineering degree in Instrumentation with first class, Diploma in Electronics Engineering, Diploma in Mechanical Engineering, Diploma in Computer Science / Information Technology, Diploma in Civil Engineering, Diploma in Electrical Engineering, ITI in Electrical, ITI in Air Conditioning, ITI in Mechanical, ITI in Fitter / Turner / Machinist",
+        "last_date": "31-07-2026",
+        "total_posts": "22",
+        "salary": "Engineer C - Electronics: Pay Level 11 || Engineer B - Electronics: Pay Level 10 || Engineer B - Mechanical: Pay Level 10 || Engineer B - Instrumentation: Pay Level 10 || Engineering Assistant C - Electronics: Pay Level 5 || Engineering Assistant C - Mechanical: Pay Level 5 || Engineering Assistant C - IT: Pay Level 5 || Engineering Assistant C - Civil: Pay Level 5 || Engineering Assistant C - Electrical: Pay Level 5 || Tradesman A - Electrical: Pay Level 2 || Tradesman A - AC Mechanic: Pay Level 2 || Tradesman A - Mechanical: Pay Level 2 || Tradesman A - Fitter/Turner/Machinist: Pay Level 2",
+        "age_limit": "Maximum age limit is 35 years for some posts and 28 years for others. || Age relaxation available for SC/ST/OBC candidates for reserved vacancies as per rules.",
+        "application_fee": "250",
+        "selection_process": "Objective test || Subjective test || Interview || Skill test",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rri.res.in",
+        "official_notification": "https://www.rri.res.in/sites/default/files/other-openings/Advt_18_2026.pdf"
+    },
+    {
         "date": "01/07/2026",
         "board": "HAL",
         "title": "Radiographer / X-Ray Technician",
@@ -206,22 +222,6 @@
         "syllabus": "Not Available",
         "official_website": "https://beta.nfsu.ac.in/",
         "official_notification": "https://beta.nfsu.ac.in/data/pdfs/Contarctual_Recruitment/Advt_June_July_2026_NFSU%20Dharwad%20Campus.pdf"
-    },
-    {
-        "date": "25/06/2026",
-        "board": "NABFINS",
-        "title": "Telecaller-WFH",
-        "qualification": "PUC/10+2 completed",
-        "last_date": "01-07-2026",
-        "total_posts": "Not mentioned",
-        "salary": "Not Available",
-        "age_limit": "Maximum age limit at 30 years",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Calling existing and prospective customers from the provided database. || Proper follow-up and maintain the conversation records. || Understand customer concern, do proper analysis of customer concern to find out the reason and educate the customer.",
-        "apply_mode": "Email/ Online",
-        "syllabus": "Not Available",
-        "official_website": "https://nabfins.org",
-        "official_notification": "https://nabfins.org/Careers/"
     },
     {
         "date": "24/06/2026",
@@ -497,38 +497,6 @@
     },
     {
         "date": "12/06/2026",
-        "board": "DRDO LRDE",
-        "title": "Paid Internship – 75 Posts",
-        "qualification": "B.Tech/ B.E, M.Sc, M.E/ M.Tech",
-        "last_date": "01-07-2026",
-        "total_posts": "75",
-        "salary": "Note: No accommodation, transport, or transport allowance will be provided by LRDE during the internship period.",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtLRDE12062026.pdf"
-    },
-    {
-        "date": "12/06/2026",
-        "board": "ISRO URSC",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "For positions JRF-E1 to JRF-E12, JRF-M1, JRF-M2, JRF-M3: M.E./M.Tech./M.Sc.(Engg.) or equivalent postgraduate degree in First Class with an aggregate minimum of 60% or CGPA/CPI of 6.5 on a 10-point scale . || For position JRF-E13 (M.Sc. route): M.Sc. in First Class with an aggregate minimum of 65% average of all semesters or CGPA/CPI of 6.84 on a 10-point scale . || For position JRF-E13 (M.Tech. route): M.Tech. or equivalent in First Class with an aggregate minimum of 60% or CGPA/CPI of 6.5 on a 10-point scale . || All degrees must be duly recognised by AICTE/UGC or any other organisation authorised by the Government of India. Essential qualifications must be completed within the stipulated duration of the course as prescribed by the university. Candidates who pursued professional courses through Open and Distance Learning (ODL) are not eligible to apply for JRF positions. || Where a university mentions both CGPA and percentage in its degree certificate or consolidated mark sheet, at least one criterion must meet DOS/ISRO eligibility norms. Conversion of CGPA into percentage of marks is not permitted to determine eligibility regardless of any conversion formula prescribed by the university. Rounding of percentage/CGPA is not allowed - values must be entered to the nearest 2 decimal places (e.g., 8.235 entered as 8.23; 8.236 as 8.24).",
-        "last_date": "01-07-2026",
-        "total_posts": "17",
-        "salary": "Not Available",
-        "age_limit": "The maximum age for all JRF positions is 28 years as on 11 July 2026 . Candidates wondering about age relaxation can note that SC/ST candidates get 5 years of relaxation and OBC candidates get 3 years. Additional relaxations as per Government of India orders apply to Ex-Servicemen, Persons with Benchmark Disabilities, Widows, Divorced Women, and Women judicially separated from their husbands and not remarried.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/June/Bilingual_Advt_for_JRF_11062026.pdf"
-    },
-    {
-        "date": "12/06/2026",
         "board": "IIT Dharwad",
         "title": "Assistant Registrar, Junior Superintendent, Junior Assistant, Junior Technical Superintendent",
         "qualification": "Master's degree, Bachelor's Degree, Diploma, B.Tech/B.E. in relevant disciplines with specified marks and experience.",
@@ -574,22 +542,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nimhans.ac.in",
         "official_notification": "https://nimhansbkt.demo-appiness.com/prodnimhans/documents/announcements/ea286b3e30dd492291596dfb0f0ad727.pdf"
-    },
-    {
-        "date": "10/06/2026",
-        "board": "BEL",
-        "title": "Jr. Supervisor (Security) / Havildar (Security)",
-        "qualification": "SSLC (Pass)",
-        "last_date": "01-07-2026",
-        "total_posts": "14",
-        "salary": "Jr. Supervisor (Security): WG-VII/CP-V/ 24,500-3%-90,000 || Havildar (Security): WG-III / CP-III/ 20,500 -3% - 79,000",
-        "age_limit": "Maximum Age Limit: 43 years. || Age Relaxation: OBC (NCL) 3 years, SC/ST 5 years.",
-        "application_fee": "Nil",
-        "selection_process": "Physical Endurance Test || Written Test",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://bel-india.in",
-        "official_notification": "https://bel-india.in/wp-content/uploads/2026/06/Havildar-Security-Advt-English-.pdf"
     },
     {
         "date": "10/06/2026",

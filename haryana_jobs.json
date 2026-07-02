@@ -1,5 +1,21 @@
 [
     {
+        "date": "02/07/2026",
+        "board": "HSACS",
+        "title": "ICTC Counselor, FI-ART Counselor, ICTC Lab Technician",
+        "qualification": "Graduate/Post-graduate in Psychology/Social Work/Sociology/Anthropology/Human development/Nursing, B.Sc/Diploma/M.Sc in Medical Laboratory Technology",
+        "last_date": "10-07-2026",
+        "total_posts": "4",
+        "salary": "ICTC Counselor: Rs. 21000/- P.M. || FI-ART Counselor: Rs. 21000/- P.M. || ICTC Lab Technician: Rs. 21000/- P.M.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Application Submission || Document Verification || Merit List (Essential qualifications 30 marks, Experience 10 marks, Local area 10 marks)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://nhmharyana.gov.in/",
+        "official_notification": "https://nhmharyana.gov.in/Writereaddata/userfiles/file/pdfs/BHWAdvertisementNACP30062026.pdf"
+    },
+    {
         "date": "30/06/2026",
         "board": "NIT Kurukshetra",
         "title": "Counsellor",
@@ -144,22 +160,6 @@
         "official_notification": "https://recruitment.thsti.in/public/upload/job_pdf/178220634606web-advt-RN-11.pdf"
     },
     {
-        "date": "23/06/2026",
-        "board": "MSIET",
-        "title": "Teaching and Non Teaching",
-        "qualification": "Qualifications, Pay Scale and Experience as per norms of AICTE/State Govt/MDU, Rohtak",
-        "last_date": "01-07-2026",
-        "total_posts": "73",
-        "salary": "Qualifications, Pay Scale and Experience as per norms of AICTE/State Govt/MDU, Rohtak",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Please refer to the official notification for selection process details.",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.msiet.com",
-        "official_notification": "https://www.msiet.com/img/files/folder/Advertisment2627.pdf"
-    },
-    {
         "date": "22/06/2026",
         "board": "HSSC",
         "title": "Group D",
@@ -173,7 +173,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.hssc.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "bank-of-india-credit-officer-recruitment-2026-apply-online-for-779-posts-3055704"
     },
     {
         "date": "22/06/2026",
@@ -350,21 +350,5 @@
         "syllabus": "Not Available",
         "official_website": "www.rcb.res.in",
         "official_notification": "https://rcb.res.in/files/advertisement-files/advt._no._rcb_consultants_03_2026_hr.pdf"
-    },
-    {
-        "date": "02/06/2026",
-        "board": "BBMB",
-        "title": "Apprentice",
-        "qualification": "10th class examination with minimum 40% marks from recognized Board, National Trade Certificate in the notified trade issued by NCVT/SCVT, Completed the relevant ITI course, Aadhaar Card (compulsory)",
-        "last_date": "01-07-2026",
-        "total_posts": "10",
-        "salary": "Please refer to the official notification for salary details.",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Nil",
-        "selection_process": "Merit list prepared from apprenticeship portal database (NAPS) || Merit based on percentage of marks in 10th class (30%) and ITI course (70%) || Document Verification",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bbmb.gov.in",
-        "official_notification": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/107_1_Apprenticeship.pdf"
     }
 ]

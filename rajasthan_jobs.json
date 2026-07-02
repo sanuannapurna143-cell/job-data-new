@@ -1,5 +1,37 @@
 [
     {
+        "date": "02/07/2026",
+        "board": "RSSB",
+        "title": "Post Name",
+        "qualification": "Any Graduate",
+        "last_date": "02-08-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "The minimum age required is 18 years and the maximum age limit is 40 years , calculated as on 01 January 2027 . Age relaxation is available for reserved categories as detailed below. || Note: These relaxations are non-cumulative - a candidate can avail benefit of only one relaxation provision, not multiple provisions combined.",
+        "application_fee": "The application fee for RSSB CET Graduate Level 2026 depends on the candidate's category, and payment must be made online through e-Mitra kiosks, CSC centers, net banking, debit card, or credit card. Candidates who have already deposited the One Time Registration (OTR) fee earlier are not required to pay it again.",
+        "selection_process": "Unlike a direct recruitment exam, the RSSB CET Graduate Level 2026 works as a single qualifying eligibility test valid for multiple posts. Simply appearing in and scoring in the CET does not guarantee a job - candidates must separately qualify in the main recruitment exam conducted by the respective recruiting agency for the specific post they wish to join. || Step 1:Online application submission (04 July 2026 – 02 August 2026) || Step 3:CET Graduate Level exam (01–03 December 2026) || Step 6:Score valid for 3 years; candidates apply for main exams of desired services separately || Step 7:Main recruitment exam, document verification, and final selection as per respective service rules || Candidates must score a minimum of 40% marks in the CET to be eligible for the main written exam/interview of the subordinate and ministerial posts listed in this notification. SC/ST candidates get up to 5% relaxation in this minimum qualifying mark.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rssb.rajasthan.gov.in",
+        "official_notification": "https://rssb.rajasthan.gov.in/advertisements"
+    },
+    {
+        "date": "02/07/2026",
+        "board": "BITS Pilani",
+        "title": "Junior Research Fellow (JRF)/ Project Associate-1",
+        "qualification": "First class Master's Degree in Mathematics from a recognized University or equivalent +GATE/NET qualified",
+        "last_date": "05-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- per month as JRF for NET/GATE Candidates; Rs. 30,000/- per month as Project Associate-1 for Non Net/GATE Candidates",
+        "age_limit": "Maximum Age: 30 years for all posts. || Age relaxation is allowed as per government rule.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on merit, experience and project requirements || Online Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bits-pilani.ac.in/",
+        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/Sangita-Yadav-ANRF-Project-ADV-11-6-2026.pdf"
+    },
+    {
         "date": "01/07/2026",
         "board": "IIT Jodhpur",
         "title": "Postdoctoral Fellow",
