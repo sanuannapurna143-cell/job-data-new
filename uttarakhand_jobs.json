@@ -1,6 +1,22 @@
 [
     {
         "date": "02/07/2026",
+        "board": "BHEL Haridwar",
+        "title": "Trade Apprentice",
+        "qualification": "ITI",
+        "last_date": "15-07-2026",
+        "total_posts": "187",
+        "salary": "All selected candidates will be paid a monthly stipend during the training period as per applicable apprenticeship guidelines. The exact stipend amount will be as prescribed under the Apprentices Act and related rules.",
+        "age_limit": "Age is calculated as on 01 July 2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Selection will be based on a merit list prepared using a weighted average formula: || 70% weightageto marks obtained in ITI || 30% weightageto marks obtained in High School || In case of a tie in weighted average marks, preference will be given to the candidate with a higher ITI percentage. If the tie persists, preference will be given to the older candidate (higher age). If the number of eligible candidates in a trade is less than or equal to the number of vacancies, all eligible candidates will be called directly for training.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://hwr.bhel.com",
+        "official_notification": "https://www.apprenticeshipindia.gov.in"
+    },
+    {
+        "date": "02/07/2026",
         "board": "IIT Roorkee",
         "title": "Project Assistant",
         "qualification": "Graduation + 15 years working experience as per job description, 3 years Diploma in Electrical + 15 years working experience as per job description",

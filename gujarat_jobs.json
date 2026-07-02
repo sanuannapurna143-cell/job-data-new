@@ -1,6 +1,22 @@
 [
     {
         "date": "02/07/2026",
+        "board": "RMC",
+        "title": "Panel Advocate",
+        "qualification": "Valid Sanad as Advocate, Minimum 10 years experience in local court cases (Civil, Criminal, District, Sessions Court excluding Labour Court)",
+        "last_date": "31-07-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Application Scrutiny || Merit-based Selection by Commissioner",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rmc.gov.in",
+        "official_notification": "https://117.217.104.235/RMCRecruit/documents/upload/APPLICATION%20FORM%20LEGAL.pdf"
+    },
+    {
+        "date": "02/07/2026",
         "board": "GSSSB",
         "title": "Laboratory Technician, Class-3",
         "qualification": "Bachelor's degree in Chemistry / Microbiology / Bio-chemistry / Bio-technology, Diploma in Laboratory Technician or Medical Laboratory Technician Course or Post-graduate Diploma in Medical Laboratory Technology or one year Medical Laboratory Technology Training Course or Laboratory Technician Training Course, Basic knowledge of computer application, Adequate knowledge of Gujarati or Hindi or both",
@@ -413,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://gsssb.gujarat.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "up-anganwadi-recruitment-2026-apply-online-for-236-anganwadi-worker-posts-in-mathura-district-3056341"
     },
     {
         "date": "20/06/2026",

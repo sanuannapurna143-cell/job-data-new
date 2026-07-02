@@ -1,6 +1,38 @@
 [
     {
         "date": "02/07/2026",
+        "board": "NIT Warangal",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.Tech/BE, M.Tech/M.E in relevant fields",
+        "last_date": "19-07-2026",
+        "total_posts": "1",
+        "salary": "Junior Research Fellow (JRF):₹ 37,000/- per month for the first two years and ₹ 42,000/- per month for the third year.",
+        "age_limit": "Maximum age limit for Junior Research Fellow (JRF) is 30 years. || Age relaxation will be applicable as per the norms and guidelines of the Institute.",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nitw.ac.in/",
+        "official_notification": "https://nitw.ac.in/api/static/files/JRF_ANRF_IRG_Project_2026-6-22-9-45-34.pdf"
+    },
+    {
+        "date": "02/07/2026",
+        "board": "IIT Hyderabad",
+        "title": "Junior Research Fellow (JRF) / Senior Research Fellow (SRF)",
+        "qualification": "BE/BTech in Metallurgical Engineering/Materials Science and Engineering/Mechanical Engineering/Chemical Engineering with a minimum CGPA of 8 out of 10 for JRF; ME/MTech/MS in Metallurgical Engineering/Materials Science and Engineering/Mechanical Engineering/Chemical Engineering with a minimum CGPA of 8 out of 10 at both UG and PG level for SRF.",
+        "last_date": "08-07-2026",
+        "total_posts": "1",
+        "salary": "JRF:Rs. 37,000 pm for 1st and 2nd year and Rs. 42,000 pm for 3rd Year. || SRF:Rs. 42,000 pm. || HRA as per GOI norms will be additional.",
+        "age_limit": "Maximum Age: 28 years || Age Relaxation: As per Government rules for reserved categories.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iith.ac.in",
+        "official_notification": "https://www.iith.ac.in/assets/files/careers/staff/JRF_SRF_Advertisement_IITH_DRDO.pdf"
+    },
+    {
+        "date": "02/07/2026",
         "board": "PJTSAU",
         "title": "Teaching Associate / Part Time Teacher",
         "qualification": "MSc. (Home Science), MSc. Agril. Economics, MSc. Agril. Statistics, Ph.D/NET desirable",

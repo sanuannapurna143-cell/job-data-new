@@ -1,6 +1,38 @@
 [
     {
         "date": "02/07/2026",
+        "board": "IIT(ISM) Dhanbad",
+        "title": "Research Associate",
+        "qualification": "PhD in Earth Science with at least one research paper in SCI Journal. Master's degree in Applied Geophysics/Geology/Geoinformatics from a reputed institute with 60% or equivalent CGPA",
+        "last_date": "06-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 61000 - 67000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitism.ac.in",
+        "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1009/Research%20Associate_2026-06-22_13-24-33.pdf"
+    },
+    {
+        "date": "02/07/2026",
+        "board": "NIT Jamshedpur",
+        "title": "Psychologist",
+        "qualification": "Master's degree in Psychology, PG Diploma/Certificate in General psychology/counselling, at least one year experience as Counsellor/Psychologist. Desirable: M.Phil/Ph.D in Clinical Psychology with RCI license.",
+        "last_date": "09-07-2026",
+        "total_posts": "2",
+        "salary": "Psychologist:Rs. 1200/- per session of 2 hours and not exceeding Rs.40,000/- per month",
+        "age_limit": "Preferably below 50 years",
+        "application_fee": "Not Available",
+        "selection_process": "Application screening || Shortlisting of candidates || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://nitjsr.ac.in/",
+        "official_notification": "https://nitjsr.ac.in/backend/uploads/recruitments/912e88b3-f2ef-4ce7-8fca-4718645658f0-Advertisment%20for%20the%20post%20of%20Psychologists.pdf"
+    },
+    {
+        "date": "02/07/2026",
         "board": "IIT ISM Dhanbad",
         "title": "Research Associate (RA)",
         "qualification": "PhD in Earth Science with at least one research paper in SCI Journal, Master's degree in Applied Geophysics/Geology/Geoinformatics from a reputed institute with 60% above or equivalent CGPA",

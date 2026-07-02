@@ -1,6 +1,22 @@
 [
     {
         "date": "02/07/2026",
+        "board": "MDU",
+        "title": "Lecturer",
+        "qualification": "M.Phil/ Ph.D",
+        "last_date": "07-07-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://mdu.ac.in/",
+        "official_notification": "https://mdu.ac.in/UpFiles/UpPdfFiles/2026/Jun/4_06-30-2026_15-19-40_Notice%20for%20Ph.D.%20Degree%20Holders.pdf"
+    },
+    {
+        "date": "02/07/2026",
         "board": "HSACS",
         "title": "ICTC Counselor, FI-ART Counselor, ICTC Lab Technician",
         "qualification": "Graduate/Post-graduate in Psychology/Social Work/Sociology/Anthropology/Human development/Nursing, B.Sc/Diploma/M.Sc in Medical Laboratory Technology",
@@ -173,7 +189,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.hssc.gov.in",
-        "official_notification": "bank-of-india-credit-officer-recruitment-2026-apply-online-for-779-posts-3055704"
+        "official_notification": "lok-nayak-hospital-junior-resident-recruitment-2026-apply-offline-for-70-posts-3056357"
     },
     {
         "date": "22/06/2026",

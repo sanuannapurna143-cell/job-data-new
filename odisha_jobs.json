@@ -1,6 +1,22 @@
 [
     {
         "date": "02/07/2026",
+        "board": "WCD Odisha",
+        "title": "Anganwadi Helper",
+        "qualification": "12TH",
+        "last_date": "15-07-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Minimum Age:18 years || Maximum Age:35 years || Cut-off Date: The applicant's age must fall within this range as of January 1, 2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Online Application",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://engagement-awc.odisha.gov.in/",
+        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=165501"
+    },
+    {
+        "date": "02/07/2026",
         "board": "SSB Odisha",
         "title": "Junior Assistant",
         "qualification": "Bachelor's Degree or equivalent degree in any discipline from a recognized University/Institution/Board, Adequate knowledge in basic Computer skill with certification",
@@ -221,7 +237,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "bank-of-india-credit-officer-recruitment-2026-apply-online-for-779-posts-3055704"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/06/2026",
@@ -285,7 +301,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://epi.gov.in",
-        "official_notification": "bank-of-india-credit-officer-recruitment-2026-apply-online-for-779-posts-3055704"
+        "official_notification": "up-anganwadi-recruitment-2026-apply-online-for-236-anganwadi-worker-posts-in-mathura-district-3056341"
     },
     {
         "date": "26/06/2026",

@@ -1,6 +1,38 @@
 [
     {
         "date": "02/07/2026",
+        "board": "WCD Sarangarh Bilaigarh",
+        "title": "Service Providers for Sakhi One Stop Centre",
+        "qualification": "Professional degree/diploma in psychology/psychiatry/neurosciences, Degree in Law, High School pass or equivalent, 8th pass from recognized board",
+        "last_date": "07-07-2026",
+        "total_posts": "6",
+        "salary": "Rs. 11360/- - 25780/- Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 35 years || Age Relaxation: Maximum 45 years with all relaxations as per state government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Merit List based on marks || Walk-in Interview || Skill Test || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://sarangarh-bilaigarh.cg.gov.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s3cb70ab375662576bd1ac5aaf16b3fca4/uploads/2026/06/17821326555064.pdf"
+    },
+    {
+        "date": "02/07/2026",
+        "board": "DWCD Kondagaon",
+        "title": "Gender Expert, Financial Literacy and Coordination Expert, IT Assistant",
+        "qualification": "Graduate in Social Work or related social fields, Graduate in Economics/Banking or related fields, Graduate in Computer/IT",
+        "last_date": "09-07-2026",
+        "total_posts": "3",
+        "salary": "Rs. 20900 - 25700 Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 45 years || Age Relaxation: For Gender Expert: up to 50 years for local residents. For other posts: up to 45 years for local residents. As per Chhattisgarh government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://kondagaon.gov.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s36ea9ab1baa0efb9e19094440c317e21b/uploads/2026/06/17818651855226.pdf"
+    },
+    {
+        "date": "02/07/2026",
         "board": "CGSSB",
         "title": "Total",
         "qualification": "Diploma, 12TH",
