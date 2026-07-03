@@ -1,5 +1,37 @@
 [
     {
+        "date": "03/07/2026",
+        "board": "NHM Tamil Nadu",
+        "title": "Consultant Information Technology",
+        "qualification": "Graduate in Engineering (IT/CS/SE) or equivalent with MCA/M.Tech (CS/IT) or Postgraduate in Public Health/Health Informatics/Health Systems/Health Management.",
+        "last_date": "23-07-2026",
+        "total_posts": "1",
+        "salary": "Rs.40,000 - Rs.60,000 per month",
+        "age_limit": "Maximum age: 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nhm.tn.gov.in/",
+        "official_notification": "https://nhm.tn.gov.in/sites/default/files/2026-6/Consultant%20-%20IT%205_6100457077770034787.pdf"
+    },
+    {
+        "date": "03/07/2026",
+        "board": "CSIR Madras Complex",
+        "title": "Junior Research Fellows (JRF's)",
+        "qualification": "B.E./B.Tech. with GATE/NET or M.E./M.Tech.",
+        "last_date": "21-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 37,000/- per month + 30% HRA || Duration: Initially for Six months and likely to be extendable till the duration of the project.",
+        "age_limit": "Maximum age limit is 28 years. || Age relaxations: 5 years for SC/ST/PwBD/Female candidates and 3 years for OBC (Non-creamy layer) candidates.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Written test (if necessary) || Walk-in-Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.csircmc.res.in",
+        "official_notification": "https://www.csircmc.res.in/sites/default/files/attachments/CEERI%20Walk%20in%20interview%20notification.pdf"
+    },
+    {
         "date": "02/07/2026",
         "board": "Cordite Factory Aruvankadu",
         "title": "Hired Medical Practitioner",
