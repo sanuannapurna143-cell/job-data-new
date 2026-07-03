@@ -1,6 +1,22 @@
 [
     {
         "date": "03/07/2026",
+        "board": "IIT Hyderabad",
+        "title": "Post Doctoral Fellow",
+        "qualification": "• Strong expertise in designing thermal systems and conducting experiments • Proficiency in numerical simulation using ANSYS® Fluent • Good understanding of heat transfer, thermodynamics, fluid dynamics, and phase change phenomena • Prior experience or interest in human thermal comfort, heat stress analysis, and human thermal modelling",
+        "last_date": "08-07-2026",
+        "total_posts": "01",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iith.ac.in/",
+        "official_notification": "https://www.iith.ac.in/assets/files/careers/staff/post-doctoral-fellow-human-heat.pdf"
+    },
+    {
+        "date": "03/07/2026",
         "board": "NIT Warangal",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "B.E./ B.Tech in Mechanical Engineering/ Production /Manufacturing/Aerospace Engineering with ME/M.Tech in Manufacturing/ Computer Integrated/Materials science any other relevant discipline.",

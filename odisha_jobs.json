@@ -1,5 +1,37 @@
 [
     {
+        "date": "03/07/2026",
+        "board": "WCD Odisha",
+        "title": "Anganwadi Sahayika",
+        "qualification": "12th pass and resident of the Anganwadi center area.",
+        "last_date": "16-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 5000/- per month",
+        "age_limit": "Min: 18 years, Max: 35 years as on 01.01.2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://engagement-awc.odisha.gov.in",
+        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=165600"
+    },
+    {
+        "date": "03/07/2026",
+        "board": "NIT Rourkela",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M. Tech / M.E. / M. Tech. [R] / M.S. [R] (after B. Tech / B.E.) in CSE/IT/Equivalent with GATE, B. Tech / B.E. in CSE/IT with GATE score, M. Sc. (with GATE) or MCA (with GATE) in Computer Science / Information Technology",
+        "last_date": "12-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 - 42000 Per Month",
+        "age_limit": "Max: 32 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitrkl.ac.in/",
+        "official_notification": "https://www.nitrkl.ac.in/docs/Career/ProjectFelow/2026/01072026174540897.pdf"
+    },
+    {
         "date": "02/07/2026",
         "board": "WCD Odisha",
         "title": "Anganwadi Helper",

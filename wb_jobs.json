@@ -1,6 +1,22 @@
 [
     {
         "date": "03/07/2026",
+        "board": "NBMC&H",
+        "title": "Senior Residence",
+        "qualification": "MBBS with P.G. Degree/Diploma/DNB",
+        "last_date": "15-07-2026",
+        "total_posts": "1",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Maximum Age: 45 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in-interview || General emergency duty as per roster in addition to department work",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.wbhealth.gov.in",
+        "official_notification": "https://www.wbhealth.gov.in/FileServer/UploadedFiles/Recruitments/Recruitment_9eaf6055-a507-49b9-a293-796771f3ec65.pdf"
+    },
+    {
+        "date": "03/07/2026",
         "board": "AIIMS Kalyani",
         "title": "Project Technical Support-I (PTS-I), Office Helper",
         "qualification": "BSc MLT / DMLT with One years of experience, MSc MLT / MSc. Microbiology / MSc. Biotechnology or relevant subjects with formal training in methods related to molecular diagnostics, Higher Secondary pass (10+2) or equivalent from a recognized board",

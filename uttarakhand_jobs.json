@@ -1,6 +1,22 @@
 [
     {
         "date": "03/07/2026",
+        "board": "AIIMS Rishikesh",
+        "title": "Counsellor, Nurse, Data Manager",
+        "qualification": "Graduate in Psychology/Social work/Sociology (preferable: Masters in above disciplines), ANM (preferable: GNM / BSc Nursing), Graduate (preferably with qualification / experience in computer applications)",
+        "last_date": "22-07-2026",
+        "total_posts": "4",
+        "salary": "Rs. 15000 - 20000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsrishikesh.edu.in",
+        "official_notification": "https://aiimsrishikesh.edu.in/images/upload_documents/Advertisement%20for%20Recruitment%20of%20Contractual%20Staff%20at%20ATF.pdf"
+    },
+    {
+        "date": "03/07/2026",
         "board": "IIT Roorkee",
         "title": "Research Associate",
         "qualification": "Postgraduate degree in any discipline of Planning with a valid GATE Score.",

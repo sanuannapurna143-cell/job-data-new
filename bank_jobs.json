@@ -1,6 +1,22 @@
 [
     {
         "date": "03/07/2026",
+        "board": "NaBFID",
+        "title": "Chief Executive Officer (CEO), Chief Investment Officer (CIO), Compliance Officer (CO)",
+        "qualification": "CA/MBA/PG Degree/Diploma in Management with specialization in Finance, CFA (Chartered Financial Analyst) or FRM (Financial Risk Manager) added advantage, CA/CS/MBA/Post Graduate Degree/Diploma in Management with specialization in Finance",
+        "last_date": "24-07-2026",
+        "total_posts": "3",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Maximum Age Limit: 55 years for all posts.",
+        "application_fee": "Nil",
+        "selection_process": "Screening and Shortlisting based on eligibility and experience || Personal Interview || Psychometric Tests and/or Assessment Centre (if applicable)",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nabfid.org",
+        "official_notification": "https://nabfid.org/careers"
+    },
+    {
+        "date": "03/07/2026",
         "board": "Bank of Baroda",
         "title": "Chief Technology Officer (CTO)",
         "qualification": "Engineering Graduate in Computer Science/ Information Systems / other related fields or MCA or equivalent qualification",
