@@ -1,6 +1,38 @@
 [
     {
         "date": "03/07/2026",
+        "board": "CURAJ",
+        "title": "Senior Research Fellow (SRF)/Junior Research Fellow (JRF)",
+        "qualification": "M.Sc. in Biochemistry, Botany or any branch of Life Sciences with ≥ 55% marks or equivalent CGPA",
+        "last_date": "14-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 - 42000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.curaj.ac.in",
+        "official_notification": "https://www.curaj.ac.in/sites/default/files/Applications%20for%20the%20post%20of%20SRFJRF%20position%20under%20the%20ANRF%20sponsored%20project%20in%20the%20Department%20of%20Biochemistry.pdf"
+    },
+    {
+        "date": "03/07/2026",
+        "board": "BITS Pilani",
+        "title": "Junior Research Fellow",
+        "qualification": "First class B.E./ B.Tech. or M.E./ M.Tech. in Computer Science and Engineering and related branches, Data Science, Artificial Intelligence, Cyber Security, or allied disciplines from a recognized University/Institute. Candidates with GATE/ NET qualification will be preferred.",
+        "last_date": "15-07-2026",
+        "total_posts": "1",
+        "salary": "Junior Research Fellow: Rs. 37,000/- per month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Shortlisting based on merit and experience || Online Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bits-pilani.ac.in/",
+        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/Ashutosh-Bhatia-DRDO-Project-ADV-24-6-2026.pdf"
+    },
+    {
+        "date": "03/07/2026",
         "board": "AIIMS Jodhpur",
         "title": "Counsellor",
         "qualification": "Graduate in Psychology/ Social work/ Sociology (Preferably: Master's in the above disciplines)",

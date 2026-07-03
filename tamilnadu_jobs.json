@@ -1,6 +1,38 @@
 [
     {
         "date": "03/07/2026",
+        "board": "TANUVAS",
+        "title": "Technical Fellow",
+        "qualification": "M.V.Sc. in any discipline, M.V.Sc in Meat Science / Livestock Products Technology (desirable)",
+        "last_date": "08-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- p.m. + HRA (for 1st and 2nd year) and Rs. 42,000/- p.m. + HRA (for 3rd year)",
+        "age_limit": "Maximum Age Limit: 30 years || Age Relaxation: The upper age limit is 5 years in case of women/ SC/ST/OBC.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://tanuvas.ac.in/",
+        "official_notification": "https://tanuvas.ac.in/admin/uploads/vacancies/1781587677.pdf"
+    },
+    {
+        "date": "03/07/2026",
+        "board": "CUTN",
+        "title": "Counsellor",
+        "qualification": "M.Phil. in Clinical Psychology / Rehabilitation Psychology from a recognized University/Institution recognized by the Rehabilitation Council of India (RCI), Ph.D. in Counselling Psychology/ Psychology with counselling experience",
+        "last_date": "17-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 50000 Per Month",
+        "age_limit": "Maximum Age Limit: 35 years || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cutn.ac.in",
+        "official_notification": "https://cutn.ac.in/wp-content/uploads/2026/07/Counsellor_Notification_01072026.pdf"
+    },
+    {
+        "date": "03/07/2026",
         "board": "NHM Tamil Nadu",
         "title": "Consultant Information Technology",
         "qualification": "Graduate in Engineering (IT/CS/SE) or equivalent with MCA/M.Tech (CS/IT) or Postgraduate in Public Health/Health Informatics/Health Systems/Health Management.",

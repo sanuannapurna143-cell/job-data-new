@@ -1,6 +1,38 @@
 [
     {
         "date": "03/07/2026",
+        "board": "MPMMCC",
+        "title": "Consultant",
+        "qualification": "M.D. / D.N.B. (Radiology / Radiodiagnosis) or equivalent postgraduate degree recognized by National Medical Commission.",
+        "last_date": "05-07-2026",
+        "total_posts": "3",
+        "salary": "Rs. 1,28,000/- to Rs. 1,40,000/- per month",
+        "age_limit": "Max 40 years for Consultant 'D', Max 45 years for Consultant 'E'",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in Interview || Online Interview (for outstation candidates)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://tmc.gov.in",
+        "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=ZajF1Vpij/2vGIKwRXI7zA=="
+    },
+    {
+        "date": "03/07/2026",
+        "board": "IIM Lucknow",
+        "title": "Academic Assistant – 01 Posts",
+        "qualification": "M.A, M.Sc",
+        "last_date": "10-07-2026",
+        "total_posts": "01 (One)",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiml.ac.in/",
+        "official_notification": "https://www.iiml.ac.in/sites/default/files/upload/jobs/185813603Academic%20Asstt%20advertisement%20ABM%20area%20AY%202026-27.pdf"
+    },
+    {
+        "date": "03/07/2026",
         "board": "AIIMS Raebareli",
         "title": "Senior Research Fellow",
         "qualification": "M.Sc. in Biochemistry/Biotechnology/Microbiology/Life Sciences with 2 years research experience, M.Tech in Biotechnology",
