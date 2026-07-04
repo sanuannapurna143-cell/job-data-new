@@ -1,6 +1,22 @@
 [
     {
         "date": "04/07/2026",
+        "board": "IHMCL",
+        "title": "Systems Engineer (ITS)",
+        "qualification": "Candidates must hold a Bachelor's Degree in Engineering in Information Technology, Computer Science, Electronics and Communications, Data Science, Artificial Intelligence, or a combination of any of the above engineering branches from a recognized University/Institute.",
+        "last_date": "02-08-2026",
+        "total_posts": "30",
+        "salary": "The post of Systems Engineer (ITS) carries an E-2 Grade pay scale of Rs. 50,000 – Rs. 1,60,000 under the IDA pattern. The indicative monthly salary at the starting Basic Pay of ₹50,000 in E-2 IDA Grade would be approximately ₹1,00,000, which includes Dearness Allowance, Cafeteria Allowance, and House Rent Allowance in X Class Cities. This indicative figure excludes statutory deductions such as EPF contribution and Income Tax.",
+        "age_limit": "The age of applicants must not be less than 21 years and not exceeding 30 years as on the last date of receipt of online applications. The crucial date for determining eligibility is the last date prescribed for receipt of online applications.",
+        "application_fee": "The official notification does not specify any application fee details for this recruitment.",
+        "selection_process": "Selection for the post of Systems Engineer (ITS) is based on the following criteria: || Merit is determined on the basis of the valid GATE Score of the year 2025. || IHMCL reserves the right to invite candidates for interview as per a cut-off for the respective category, to be decided subsequently by IHMCL. || If the number of applications received is large, IHMCL will adopt a shortlisting criterion to restrict the number of candidates called for interaction/interview to a reasonable number, by a method decided by the Selection Committee. || For the final merit list, if two or more candidates in the same category have equal scores/marks, the candidate older in age will be placed higher in the merit list. || Note: Candidates must enter their GATE Score as mentioned in the official GATE 2025 Scorecard (range: 0 to 1000) while applying.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ihmcl.co.in/",
+        "official_notification": "https://ihmcl.co.in/wp-content/uploads/2026/07/Advertisement-System-Engineer-1.pdf"
+    },
+    {
+        "date": "04/07/2026",
         "board": "IIT Delhi",
         "title": "Research Associate - I",
         "qualification": "B.Sc. (Mathematics) with 6 CGPA or 60% and above, M.Sc. (Mathematics) with 6 CGPA or 60% and above, GATE (Top 100) or NET (JRF), Ph.D in Number Theory",
@@ -525,7 +541,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "bsusc-contractual-faculty-recruitment-2026-3056682"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",

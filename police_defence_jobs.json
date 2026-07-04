@@ -1,9 +1,25 @@
 [
     {
         "date": "04/07/2026",
+        "board": "GCF Jabalpur",
+        "title": "Skilled (Experienced) Tradesman",
+        "qualification": "Matriculation and NTC/NAC or Engineering Diploma/Degree in relevant Trade/Field. Minimum 02 Years' Experience. Level-II certification in RG & MPI by ASNT / ISNT/ BARC.",
+        "last_date": "18-07-2026",
+        "total_posts": "2",
+        "salary": "Rs.31840/-",
+        "age_limit": "Min: 18, Max: 35 years",
+        "application_fee": "Rs. 200/- INR",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ddpdoo.gov.in/",
+        "official_notification": "https://ddpdoo.gov.in/storage/document/6a47ae5dd9fd3.pdf"
+    },
+    {
+        "date": "04/07/2026",
         "board": "Sainik School Satara",
         "title": "Nursing Assistant/ Nursing Sister",
-        "qualification": "Nursing Diploma/Degree, 5 years experience or ex-serviceman of Medical Assistant trade with at least 5 years service after Training",
+        "qualification": "Nursing Diploma/ Degree, 5 years experience or ex-serviceman of Medical Assistant trade with at least 5 years service after Training",
         "last_date": "21-07-2026",
         "total_posts": "1",
         "salary": "Pay Level 4 Basic Pay Rs. 25,500/- per month as per 7 CPC.",
@@ -77,7 +93,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "bsusc-contractual-faculty-recruitment-2026-3056682"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/06/2026",

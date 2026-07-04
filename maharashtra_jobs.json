@@ -1,6 +1,38 @@
 [
     {
         "date": "04/07/2026",
+        "board": "WCL",
+        "title": "Mining Sirdar, Assistant Foreman (Electrical)",
+        "qualification": "10th Pass / Diploma (Technical & Supervisory Posts)",
+        "last_date": "25-07-2026",
+        "total_posts": "444",
+        "salary": "Rs. 47,330.25/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.westerncoal.in/",
+        "official_notification": "https://docs.westerncoal.in/strapi/uploads/Abridged_NOTIFICATION_English_075ba1bfe7.pdf"
+    },
+    {
+        "date": "04/07/2026",
+        "board": "KVK Parbhani",
+        "title": "Subject Matter Specialist, Assistant",
+        "qualification": "Master's Degree in Agricultural Extension or Bachelor's degree from a recognized university.",
+        "last_date": "15-07-2026",
+        "total_posts": "2",
+        "salary": "Subject Matter Specialist:Rs.15600-39100+ GP of Rs. 5400/-, Pay as per 7th CPC - Level 10 (Entry Pay of Rs. 56100/-). || Assistant:Rs.9300-34800+ GP of Rs.4200/-, Pay as per 7th CPC - Pay Level- 6 (Entry Pay of Rs. 35400/-).",
+        "age_limit": "Subject Matter Specialist:Maximum 35 years. Age relaxation for SC/ST/OBC/PWD candidates will be as per Government of India rules. || Assistant:Minimum 20 years, Maximum 30 years. Age relaxation for SC/ST/OBC/PWD candidates will be as per Government of India rules.",
+        "application_fee": "Rs. 500/- (Non-refundable). SC/ST and women candidates are exempted.",
+        "selection_process": "Screening of applications || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://parbhani.kvk8.in",
+        "official_notification": "https://parbhani.kvk8.in/recent-news.php?id=308"
+    },
+    {
+        "date": "04/07/2026",
         "board": "Sainik School Satara",
         "title": "Nursing Assistant/ Nursing Sister",
         "qualification": "Nursing Diploma/ Degree, 5 years experience or ex-serviceman of Medical Assistant trade with at least 5 years service after Training",
@@ -446,22 +478,6 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://mazagondock.in/app/writereaddata/career/MDL_ATS_Extension_of_last_date_application_712026114423AM.PDF"
-    },
-    {
-        "date": "01/07/2026",
-        "board": "WCL",
-        "title": "Mining Sirdar, Assistant Foreman (Electrical)",
-        "qualification": "10th Pass / Diploma (Technical & Supervisory Posts)",
-        "last_date": "31-07-2026",
-        "total_posts": "444",
-        "salary": "Rs. 47,330.25/- Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.westerncoal.in/",
-        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",
