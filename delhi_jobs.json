@@ -1,6 +1,38 @@
 [
     {
         "date": "04/07/2026",
+        "board": "ICAR NIPB",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "Post Graduate degree in Plant Breeding/Genetics/Biotechnology/Bioinformatics/Life Science with NET qualified OR Bachelors’ degree with 4 years + national level exam qualification",
+        "last_date": "20-07-2026",
+        "total_posts": "01",
+        "salary": "Not Available",
+        "age_limit": "Male: 35 years Female: 40 years (as per ICAR guidelines)",
+        "application_fee": "Not Available",
+        "selection_process": "Selection will be done through Walk-in Interview. Only candidates with essential qualifications will be considered. Final selection is subject to verification of original documents and performance in the interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nipb.res.in/",
+        "official_notification": "https://iari.res.in/files/jobs/Junior_Research_fellow_01072026.pdf"
+    },
+    {
+        "date": "04/07/2026",
+        "board": "ICAR NIPB",
+        "title": "Project Assistant-I",
+        "qualification": "B.Sc./Graduation passed in Biological Science / Biology related subjects or any relevant subject",
+        "last_date": "20-07-2026",
+        "total_posts": "01",
+        "salary": "Not Available",
+        "age_limit": "Upper age limit is 50 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nipb.res.in/",
+        "official_notification": "https://iari.res.in/files/jobs/Project_Assistant-I_01072026.pdf"
+    },
+    {
+        "date": "04/07/2026",
         "board": "IHMCL",
         "title": "Systems Engineer (ITS)",
         "qualification": "Candidates must hold a Bachelor's Degree in Engineering in Information Technology, Computer Science, Electronics and Communications, Data Science, Artificial Intelligence, or a combination of any of the above engineering branches from a recognized University/Institute.",
