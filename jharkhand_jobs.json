@@ -1,6 +1,38 @@
 [
     {
         "date": "06/07/2026",
+        "board": "Netaji Subhas Chandra Bose Residential School Ramgarh",
+        "title": "Various Teaching and Support Staff",
+        "qualification": "Graduate with 50% marks + B.Ed/JTET for Teachers, B.Com + Computer Course for Accountant, Matric for Support Staff, 8th Pass for Cooks",
+        "last_date": "23-07-2026",
+        "total_posts": "15",
+        "salary": "Rs. 5400 - 15840 Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 40 years || Age Relaxation: UR:35, Female:38, BC:37, SC/ST:40, PwBD:10 years relaxation in respective category, Ex-Servicemen:5 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Merit List || Interview || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "www.ramgarh.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3e165421110ba03099a1c0393373c5b43/uploads/2026/07/17833162158087.pdf"
+    },
+    {
+        "date": "06/07/2026",
+        "board": "SAIL",
+        "title": "Young Professional (YP-1, YP-2, YP-3)",
+        "qualification": "B.Tech/ B.E, CA, LLM, MBA/ PGDM",
+        "last_date": "31-07-2026",
+        "total_posts": "23",
+        "salary": "YP-1: Rs. 70,000/- per month || YP-2: Rs. 1,00,000/- per month || YP-3: Rs. 1,40,000/- per month || An annual performance-linked increment of 4%, 7%, or 10% of the monthly fee applies based on Centralized Performance Committee (CPC) recommendation. Additional benefits include residential accommodation, medical facility, travel entitlements, and communication expense reimbursement.",
+        "age_limit": "YP-3 - Vibration Analyst and Rotor Dynamics Expert: 42 years || YP-2 - Blast Furnace Process Expert: 38 years || YP-1 (all roles): 35 years || Minimum age for all posts: 23 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sail.co.in",
+        "official_notification": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/RSP_News%20&%20Jobs_06072026_111647.pdf"
+    },
+    {
+        "date": "06/07/2026",
         "board": "District Welfare Office Dumka",
         "title": "Part-time/Period-based Teachers (Ghanti Adharit Shikshak) - Primary, Subject and +2 Level Teachers",
         "qualification": "Postgraduate in the related subject + B.Ed from an NCTE-recognized institution",
