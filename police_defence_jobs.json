@@ -1,5 +1,37 @@
 [
     {
+        "date": "06/07/2026",
+        "board": "IAF",
+        "title": "Agniveervayu & Airmen Group Y",
+        "qualification": "10+2/Intermediate with Maths, Physics & English (50% aggregate + 50% in English) OR 3-year Diploma in Engineering (Mechanical/Electrical/Electronics/Automobile/Computer Science/Instrumentation/IT) with 50% marks OR 2-year Vocational Course with Physics & Maths (50% marks)",
+        "last_date": "26-07-2026",
+        "total_posts": "Not Available",
+        "salary": "Pay structures differ significantly between the two postings, reflecting their different service models - Agniveervayu under the Agnipath Scheme versus a regular 20-year Airmen cadre.",
+        "age_limit": "Candidates born between 01 July 2005 and 01 January 2010 (both dates inclusive) are eligible to apply. If a candidate clears all stages of selection, the upper age limit on the date of enrolment must not exceed 22 years.",
+        "application_fee": "Both notifications carry the same non-refundable examination fee, payable online after submitting the application form. || Payment can be made via Net Banking, Debit Card, Credit Card, or UPI. The fee is non-refundable under any circumstances, including for duplicate or rejected applications.",
+        "selection_process": "Both posts follow a three-phase selection process - an online written test, physical/adaptability tests, and a final medical examination.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://indianairforce.nic.in/",
+        "official_notification": "https://iafrecruitment.edcil.co.in/agniveervayu/pdffiles/Advt%20Agniveervayu%2002%20of%2027.pdf"
+    },
+    {
+        "date": "06/07/2026",
+        "board": "Army Law College Pune",
+        "title": "Principal",
+        "qualification": "PhD in Law, Master’s Degree in Law (LLM) with at least 55% marks, Professor/Associate Professor with minimum 15 years of Teaching/Research/Administrative experience, Minimum of 10 research publications in peer reviewed or UGC listed journal and a minimum of 110 Research score",
+        "last_date": "20-07-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://alcpune.com/",
+        "official_notification": "https://alcpune.com/ArmyLawCollege_CMS_SRV/pathForContentfilepdf/202607031707293_257_m_ADVERTISEMENT_FOR_THE_POST_OF_PRINCIPAL__ARMY_LAW_COLLEGE_PUNE.pdf"
+    },
+    {
         "date": "04/07/2026",
         "board": "GCF Jabalpur",
         "title": "Skilled (Experienced) Tradesman",
@@ -94,22 +126,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
         "official_notification": "Not Available"
-    },
-    {
-        "date": "29/06/2026",
-        "board": "Indian Navy",
-        "title": "Agniveer (Apprentice)",
-        "qualification": "Passed Matriculation Examination with minimum 50% marks in aggregate from Boards of School Education recognised by Ministry of Education, Govt. of India AND completed a 3-year Diploma course from an AICTE-recognised Polytechnic Institute with minimum 50% marks in aggregate in any of the qualifying diploma trades (Engineering or Electrical as applicable).",
-        "last_date": "05-07-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Exempted from Stage I - INET; directly issued call-up for Stage II based on eligibility",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://www.joinindiannavy.gov.in/files/Advt_Agniveer_Apprentice_01_27_English.pdf"
     },
     {
         "date": "26/06/2026",
@@ -224,22 +240,6 @@
         "official_notification": "https://cisfrectt.cisf.gov.in/file_open.php?fnm=_hPoBcMYJbXUWMSBmhvEMZh0hxK3kq2rYjccS_DMG0EmMrjLxicp_AIji4cGPWajAgVxgxlXihZqidvWH6nRTkGhREcEUJ-zi9np6wjvhjA"
     },
     {
-        "date": "18/06/2026",
-        "board": "IAF",
-        "title": "Agniveervayu & Airmen Group Y",
-        "qualification": "10+2/Intermediate with Maths, Physics & English (50% aggregate + 50% in English) OR 3-year Diploma in Engineering (Mechanical/Electrical/Electronics/Automobile/Computer Science/Instrumentation/IT) with 50% marks OR 2-year Vocational Course with Physics & Maths (50% marks)",
-        "last_date": "26-07-2026",
-        "total_posts": "Not Available",
-        "salary": "Pay structures differ significantly between the two postings, reflecting their different service models - Agniveervayu under the Agnipath Scheme versus a regular 20-year Airmen cadre.",
-        "age_limit": "Candidates born between 01 July 2005 and 01 January 2010 (both dates inclusive) are eligible to apply. If a candidate clears all stages of selection, the upper age limit on the date of enrolment must not exceed 22 years.",
-        "application_fee": "Both notifications carry the same non-refundable examination fee, payable online after submitting the application form. || Payment can be made via Net Banking, Debit Card, Credit Card, or UPI. The fee is non-refundable under any circumstances, including for duplicate or rejected applications.",
-        "selection_process": "Both posts follow a three-phase selection process - an online written test, physical/adaptability tests, and a final medical examination.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://indianairforce.nic.in/",
-        "official_notification": "https://iafrecruitment.edcil.co.in/agniveervayu/pdffiles/Advt%20Agniveervayu%2002%20of%2027.pdf"
-    },
-    {
         "date": "17/06/2026",
         "board": "DRDO CABS",
         "title": "Civilian Medical Officer",
@@ -270,22 +270,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.drdo.gov.in",
         "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDYSLQT16062026en.pdf"
-    },
-    {
-        "date": "11/06/2026",
-        "board": "DRDO ARDE",
-        "title": "Paid Intern",
-        "qualification": "Regular students pursuing BE/BTech (7th/8th semester) or MTech (1st/IInd year) full time course in respective discipline from a recognised Indian University/Institute, Good academic track record with ≥75% marks or ≥7.5 CGPA on a scale of 10, Minimum 7.5 CGPA or above, continuously maintained throughout in previous semesters, Regular students from AICTE approved technical institutions / UGC approved universities",
-        "last_date": "05-07-2026",
-        "total_posts": "40",
-        "salary": "Rs. 5,000 Per Month",
-        "age_limit": "Maximum Age Limit: 28 years",
-        "application_fee": "Not Available",
-        "selection_process": "Merit based shortlisting || Intimation to selected students through e-mail",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://drdo.gov.in/",
-        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtARDE10062026.pdf"
     },
     {
         "date": "05/06/2026",

@@ -1,5 +1,37 @@
 [
     {
+        "date": "06/07/2026",
+        "board": "ICAR NBPGR",
+        "title": "Young Professional-I",
+        "qualification": "Graduate in Computer/ Administration / Management (with minimum 60% marks)",
+        "last_date": "20-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30000 Per Month",
+        "age_limit": "Min: 21 years, Max: 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nbpgr.org.in",
+        "official_notification": "https://nbpgr.org.in/nbpgr2023/application-are-invited-for-the-selection-of-young-professional-i-vacancy-1-at-aicrn-on-potential-crops-20-july-2026/"
+    },
+    {
+        "date": "06/07/2026",
+        "board": "IAF",
+        "title": "Agniveervayu & Airmen Group Y",
+        "qualification": "10+2/Intermediate with Maths, Physics & English (50% aggregate + 50% in English) OR 3-year Diploma in Engineering (Mechanical/Electrical/Electronics/Automobile/Computer Science/Instrumentation/IT) with 50% marks OR 2-year Vocational Course with Physics & Maths (50% marks)",
+        "last_date": "26-07-2026",
+        "total_posts": "Not Available",
+        "salary": "Pay structures differ significantly between the two postings, reflecting their different service models - Agniveervayu under the Agnipath Scheme versus a regular 20-year Airmen cadre.",
+        "age_limit": "Candidates born between 01 July 2005 and 01 January 2010 (both dates inclusive) are eligible to apply. If a candidate clears all stages of selection, the upper age limit on the date of enrolment must not exceed 22 years.",
+        "application_fee": "Both notifications carry the same non-refundable examination fee, payable online after submitting the application form. || Payment can be made via Net Banking, Debit Card, Credit Card, or UPI. The fee is non-refundable under any circumstances, including for duplicate or rejected applications.",
+        "selection_process": "Both posts follow a three-phase selection process - an online written test, physical/adaptability tests, and a final medical examination.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://indianairforce.nic.in/",
+        "official_notification": "https://iafrecruitment.edcil.co.in/agniveervayu/pdffiles/Advt%20Agniveervayu%2002%20of%2027.pdf"
+    },
+    {
         "date": "04/07/2026",
         "board": "ICAR NIPB",
         "title": "Junior Research Fellow (JRF)",
@@ -10,7 +42,7 @@
         "age_limit": "Male: 35 years Female: 40 years (as per ICAR guidelines)",
         "application_fee": "Not Available",
         "selection_process": "Selection will be done through Walk-in Interview. Only candidates with essential qualifications will be considered. Final selection is subject to verification of original documents and performance in the interview.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.nipb.res.in/",
         "official_notification": "https://iari.res.in/files/jobs/Junior_Research_fellow_01072026.pdf"
@@ -753,22 +785,6 @@
     },
     {
         "date": "30/06/2026",
-        "board": "NFSU",
-        "title": "Teaching and Non-Teaching Positions",
-        "qualification": "B.Tech/ B.E, M.E/ M.Tech, Any Post Graduate, M.Sc, M.A, MCA, M.Phil/ Ph.D",
-        "last_date": "05-07-2026",
-        "total_posts": "25",
-        "salary": "Rs. 34,200/- to Rs. 1,94,000/- Per Month",
-        "age_limit": "As per NFSU rules",
-        "application_fee": "INR 500 + GST/-",
-        "selection_process": "Screening Test/Skill Test || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nfsu.ac.in",
-        "official_notification": "https://beta.nfsu.ac.in/data/pdfs/Contarctual_Recruitment/Advertisement%20Contractual%20Engagement%20NFSU%20Delhi%20Campus_2706.pdf"
-    },
-    {
-        "date": "30/06/2026",
         "board": "AIIMS Delhi",
         "title": "Senior Project Assistant (SPA)",
         "qualification": "12th pass or equivalent from a recognized board with 5 years' experience of administrative work and a speed test of not less than 8000 key depressions per hour (kdph) on computer OR Graduate in any discipline with 2 years' experience of administration work and a speed test of not less than 8000 key depressions per hour (kdph) on computer",
@@ -878,22 +894,6 @@
         "syllabus": "Not Available",
         "official_website": "https://aiims.edu/",
         "official_notification": "https://aiims.edu/images/pdf/recruitment/advertisement/dermo-22-6-26.pdf"
-    },
-    {
-        "date": "29/06/2026",
-        "board": "Indian Navy",
-        "title": "Agniveer (Apprentice)",
-        "qualification": "Passed Matriculation Examination with minimum 50% marks in aggregate from Boards of School Education recognised by Ministry of Education, Govt. of India AND completed a 3-year Diploma course from an AICTE-recognised Polytechnic Institute with minimum 50% marks in aggregate in any of the qualifying diploma trades (Engineering or Electrical as applicable).",
-        "last_date": "05-07-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Exempted from Stage I - INET; directly issued call-up for Stage II based on eligibility",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://www.joinindiannavy.gov.in/files/Advt_Agniveer_Apprentice_01_27_English.pdf"
     },
     {
         "date": "29/06/2026",
@@ -1488,22 +1488,6 @@
         "official_notification": "https://cisfrectt.cisf.gov.in/file_open.php?fnm=_hPoBcMYJbXUWMSBmhvEMZh0hxK3kq2rYjccS_DMG0EmMrjLxicp_AIji4cGPWajAgVxgxlXihZqidvWH6nRTkGhREcEUJ-zi9np6wjvhjA"
     },
     {
-        "date": "18/06/2026",
-        "board": "IAF",
-        "title": "Agniveervayu & Airmen Group Y",
-        "qualification": "10+2/Intermediate with Maths, Physics & English (50% aggregate + 50% in English) OR 3-year Diploma in Engineering (Mechanical/Electrical/Electronics/Automobile/Computer Science/Instrumentation/IT) with 50% marks OR 2-year Vocational Course with Physics & Maths (50% marks)",
-        "last_date": "26-07-2026",
-        "total_posts": "Not Available",
-        "salary": "Pay structures differ significantly between the two postings, reflecting their different service models - Agniveervayu under the Agnipath Scheme versus a regular 20-year Airmen cadre.",
-        "age_limit": "Candidates born between 01 July 2005 and 01 January 2010 (both dates inclusive) are eligible to apply. If a candidate clears all stages of selection, the upper age limit on the date of enrolment must not exceed 22 years.",
-        "application_fee": "Both notifications carry the same non-refundable examination fee, payable online after submitting the application form. || Payment can be made via Net Banking, Debit Card, Credit Card, or UPI. The fee is non-refundable under any circumstances, including for duplicate or rejected applications.",
-        "selection_process": "Both posts follow a three-phase selection process - an online written test, physical/adaptability tests, and a final medical examination.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://indianairforce.nic.in/",
-        "official_notification": "https://iafrecruitment.edcil.co.in/agniveervayu/pdffiles/Advt%20Agniveervayu%2002%20of%2027.pdf"
-    },
-    {
         "date": "16/06/2026",
         "board": "CCRAS",
         "title": "Stenographer, Accountant and More",
@@ -1518,22 +1502,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ccras.nic.in",
         "official_notification": "https://ccras.nic.in/wp-content/uploads/2026/06/15062026-Advertisement-for-Deputation-positions-in-CCRAS.pdf"
-    },
-    {
-        "date": "16/06/2026",
-        "board": "Delhi University",
-        "title": "Assistant Professor (Guest Basis)",
-        "qualification": "Qualifications as per UGC regulations for Assistant Professor",
-        "last_date": "05-07-2026",
-        "total_posts": "20",
-        "salary": "As per UGC norms",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Interview (Online)",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.dsj.du.ac.in",
-        "official_notification": "https://www.du.ac.in/uploads/2026/15062026_GuestFaculty_DSJ.pdf"
     },
     {
         "date": "15/06/2026",
@@ -1722,7 +1690,7 @@
         "age_limit": "Note: Total deputation period (including any preceding ex-cadre deputation immediately before this appointment) shall ordinarily not exceed three years.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://nclt.gov.in/",
         "official_notification": "https://nclt.gov.in/"
