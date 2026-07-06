@@ -1,6 +1,22 @@
 [
     {
         "date": "06/07/2026",
+        "board": "NHAI",
+        "title": "Deputy Manager (Information Technology)",
+        "qualification": "Bachelor of Engineering or Bachelor of Technology in Computer Science or Information Technology or Electronics and Communication or Masters in Computer Application (MCA) from a recognised University or Institute",
+        "last_date": "05-08-2026",
+        "total_posts": "2",
+        "salary": "Rs. 56100 - 177500 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nhai.gov.in",
+        "official_notification": "https://nhai.gov.in/nhai/sites/default/files/vacancy_files/Detailed-Advt-DM-IT_0.pdf"
+    },
+    {
+        "date": "06/07/2026",
         "board": "AIIMS Delhi",
         "title": "Project Research Scientist - II (Non-Medical)",
         "qualification": "PhD in Clinical Psychology/Social Work/Sociology/Psychology or similar or Post-Graduate degree in any of the above disciplines with three years post-qualification experience",
@@ -701,7 +717,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "Not Available"
+        "official_notification": "nhidcl-associate-recruitment-2026-apply-online-for-100-posts-3056995"
     },
     {
         "date": "01/07/2026",

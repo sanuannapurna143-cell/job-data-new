@@ -1,6 +1,22 @@
 [
     {
         "date": "06/07/2026",
+        "board": "Central University of Odisha",
+        "title": "Guest Faculty",
+        "qualification": "Master's degree with 55% marks in relevant subject, NET/Ph.D. or equivalent as per UGC Regulations 2018",
+        "last_date": "13-07-2026",
+        "total_posts": "14",
+        "salary": "Rs. 1500/- per lecture subject to maximum of Rs. 50,000/- per month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cuo.ac.in/",
+        "official_notification": "https://www.cuo.ac.in/Recruitment/2026/Botany.pdf"
+    },
+    {
+        "date": "06/07/2026",
         "board": "AIIMS Bhubaneswar",
         "title": "Senior Resident (Non-Academic)",
         "qualification": "MD / DNB (General Medicine/Paediatrics) OR DM/DNB (Cardiology)",
@@ -493,7 +509,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "Not Available"
+        "official_notification": "nhidcl-associate-recruitment-2026-apply-online-for-100-posts-3056995"
     },
     {
         "date": "27/06/2026",
@@ -525,7 +541,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://epi.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "nhidcl-associate-recruitment-2026-apply-online-for-100-posts-3056995"
     },
     {
         "date": "26/06/2026",
