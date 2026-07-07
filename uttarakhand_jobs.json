@@ -1,5 +1,37 @@
 [
     {
+        "date": "07/07/2026",
+        "board": "IIT Roorkee",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.E/B.Tech in ECE/EEE/EIE or equivalent + GATE/NET Qualified, M.E/M.Tech in ECE/VLSI and related areas with GATE/NET Qualified, MTech/BTech from CFTI with CGPA criteria",
+        "last_date": "12-07-2026",
+        "total_posts": "3",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/ECE/2026/adv300620261.pdf"
+    },
+    {
+        "date": "07/07/2026",
+        "board": "GBPUAT",
+        "title": "Seed Production Manager",
+        "qualification": "M.Sc. (Horticulture/ Vegetable Science)",
+        "last_date": "13-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 60000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.gbpuat.ac.in/",
+        "official_notification": "https://www.gbpuat.ac.in/employments/02-07-26-Seed%20Production%20Manager%20Vegetable%20Science.pdf"
+    },
+    {
         "date": "06/07/2026",
         "board": "GBPUAT",
         "title": "Senior Research Fellow",
@@ -301,6 +333,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "nhidcl-associate-recruitment-2026-apply-online-for-100-posts-3056995"
+        "official_notification": "Not Available"
     }
 ]
