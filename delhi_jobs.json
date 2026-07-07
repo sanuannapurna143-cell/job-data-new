@@ -1,19 +1,51 @@
 [
     {
         "date": "07/07/2026",
-        "board": "AIIMS Delhi",
-        "title": "Project Technical Support - III",
-        "qualification": "M.Pharm with one year working experience in developing pharmaceutical formulations and analytical techniques like HPLC/LC-MS/MS.",
-        "last_date": "20-07-2026",
+        "board": "NBEMS",
+        "title": "Deputy Director (Medical), Junior Programmer, Junior Accountant, Stenographer, Junior Assistant",
+        "qualification": "B.Tech/BE/BCA/DOEACC ('B' or 'C' level)/Degree in Computer Science/IT/Electronics with computer specialization",
+        "last_date": "31-07-2026",
+        "total_posts": "53",
+        "salary": "Calculate your exact in-hand Salary in 10 seconds - Calculate Now",
+        "age_limit": "Not Available",
+        "application_fee": "The NBEMS application fee depends on the candidate's category. UR and OBC candidates need to pay a processing fee, while SC, ST, PwBD, and women candidates are exempt. Bank charges, if any, are payable separately by the candidate. || Payment can be made online via debit card, credit card, net banking, or UPI of any bank. The fee, once paid, is non-refundable and cannot be adjusted against any future selection process.",
+        "selection_process": "Candidates wondering about the NBEMS selection process can note that it differs by post category. For Junior Accountant, Stenographer, and Junior Assistant, selection happens in two stages: a Computer Based Test (CBT) followed by a Computer Knowledge/Skill Test. There is no interview for Group B and C posts.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.natboard.edu.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/06/256632545-6a2cd0f30bac580058528.pdf"
+    },
+    {
+        "date": "07/07/2026",
+        "board": "SRCASW",
+        "title": "Assistant Professor",
+        "qualification": "As per UGC regulations for appointment of regular Assistant Professor",
+        "last_date": "10-07-2026",
         "total_posts": "1",
-        "salary": "Rs. 40000 Per Month",
-        "age_limit": "Max: 35 years",
+        "salary": "Rs. 1500 per lecture subject to a maximum of Rs. 50,000 per month.",
+        "age_limit": "Maximum Age Limit: 70 years.",
         "application_fee": "Not Available",
-        "selection_process": "Not Available",
+        "selection_process": "Interview || Document Verification",
         "apply_mode": "Offline",
         "syllabus": "Not Available",
-        "official_website": "https://www.aiims.edu/",
-        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/rpc-6-7-26.pdf"
+        "official_website": "https://www.rajgurucollege.ac.in",
+        "official_notification": "https://www.du.ac.in/uploads/06072026-rajguru-psychology-Guest%20vacancy%20notice%203.07.2026_0001.pdf"
+    },
+    {
+        "date": "07/07/2026",
+        "board": "IIT Delhi",
+        "title": "Junior Research Fellow",
+        "qualification": "1st class M.Sc. in Physics with Qualified CSIR/UGC-JRF/NET",
+        "last_date": "14-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "No specific age limit is mentioned in the provided data. || Relaxation: 5% relaxation of marks for SC/ST candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1782736602191_nsehql7.pdf"
     },
     {
         "date": "07/07/2026",
@@ -30,6 +62,38 @@
         "syllabus": "Not Available",
         "official_website": "https://nhsrcl.in/",
         "official_notification": "https://nhsrcl.in/sites/default/files/notice/2026-07/Vacancy%20Notice%20NE%202%20Final.pdf"
+    },
+    {
+        "date": "07/07/2026",
+        "board": "AIIMS Delhi",
+        "title": "DEO, MTS and More – 57 Posts",
+        "qualification": "PG degree (MA/MSc, including integrated PG) in Population Studies, Social Work, Biostatistics, Developmental Studies or equivalent, with 5 years post-qualification experience, OR PhD with 2 years post-qualification experience",
+        "last_date": "10-07-2026",
+        "total_posts": "57",
+        "salary": "The notification states that salary and other allowances will be paid as per AIIMS/ICMR/Government of India guidelines. A specific consolidated pay scale figure for each post has not been mentioned in the official notice, so candidates should treat salary as per applicable ICMR project norms rather than a fixed published number. TA/DA for field survey travel will be provided as per Government of India rules, strictly on a reimbursement basis after submission of bills and required proformas; there is no provision for advance payment for travel, accommodation, or any other expense.",
+        "age_limit": "Project Research Scientis II (MDS): 40 years || Project Research Scientist I (BDS): 35 years || Project Research Scientist III (Social Scientist): 45 years || Project Research Scientist I (Biostatistician): 35 years || Project Research Scientist I (Programmer): 35 years || Project Research Scientist I (Project Manager/Coordinator): 35 years || Project Technical Support III: 35 years || Data Entry Operator: 28 years || Multi-Tasking Staff: 25 years || Age is relaxable as per ICMR rules for reserved categories.",
+        "application_fee": "The official notification does not mention any application fee for these AIIMS CDER field survey posts. Candidates are advised to rely only on the official notification for any fee-related updates.",
+        "selection_process": "A merit list will be prepared based on percentage marks in the essential qualification, desirable qualifications, merit, and experience. || Only 1:5 shortlisted candidates per post (based on merit and experience) will be called for a physical interview. || In case of a tie in qualifying marks, preference is given to candidates with additional desirable qualifications. || The selection committee may conduct a written test, computer-based exercise, or clinical examination before the interview. || A typing test will be conducted for the Data Entry Operator (DEO) post as per rules. || Interviews will be conducted only in person; no TA/ DA is admissible for attending the interview. || The decision of the selection committee is final.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiims.edu/",
+        "official_notification": "https://aiims.edu/images/pdf/recruitment/advertisement/CDER-25-6-26.pdf"
+    },
+    {
+        "date": "07/07/2026",
+        "board": "AIIMS Delhi",
+        "title": "Project Technical Support - III",
+        "qualification": "M.Pharm with one year working experience in developing pharmaceutical formulations and analytical techniques like HPLC/LC-MS/MS.",
+        "last_date": "20-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 40000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/rpc-6-7-26.pdf"
     },
     {
         "date": "07/07/2026",
@@ -62,22 +126,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.mohfw-dohfw.gov.in/",
         "official_notification": "https://www.mohfw-dohfw.gov.in/static/uploads/2026/07/b0b6100ca6aa7b8767bfe0496ea43aea.pdf"
-    },
-    {
-        "date": "07/07/2026",
-        "board": "AIIMS Delhi",
-        "title": "DEO, MTS and More – 57 Posts",
-        "qualification": "PG degree (MA/MSc, including integrated PG) in Population Studies, Social Work, Biostatistics, Developmental Studies or equivalent, with 5 years post-qualification experience, OR PhD with 2 years post-qualification experience",
-        "last_date": "10-07-2026",
-        "total_posts": "57",
-        "salary": "The notification states that salary and other allowances will be paid as per AIIMS/ICMR/Government of India guidelines. A specific consolidated pay scale figure for each post has not been mentioned in the official notice, so candidates should treat salary as per applicable ICMR project norms rather than a fixed published number. TA/DA for field survey travel will be provided as per Government of India rules, strictly on a reimbursement basis after submission of bills and required proformas; there is no provision for advance payment for travel, accommodation, or any other expense.",
-        "age_limit": "Project Research Scientis II (MDS): 40 years || Project Research Scientist I (BDS): 35 years || Project Research Scientist III (Social Scientist): 45 years || Project Research Scientist I (Biostatistician): 35 years || Project Research Scientist I (Programmer): 35 years || Project Research Scientist I (Project Manager/Coordinator): 35 years || Project Technical Support III: 35 years || Data Entry Operator: 28 years || Multi-Tasking Staff: 25 years || Age is relaxable as per ICMR rules for reserved categories.",
-        "application_fee": "The official notification does not mention any application fee for these AIIMS CDER field survey posts. Candidates are advised to rely only on the official notification for any fee-related updates.",
-        "selection_process": "A merit list will be prepared based on percentage marks in the essential qualification, desirable qualifications, merit, and experience. || Only 1:5 shortlisted candidates per post (based on merit and experience) will be called for a physical interview. || In case of a tie in qualifying marks, preference is given to candidates with additional desirable qualifications. || The selection committee may conduct a written test, computer-based exercise, or clinical examination before the interview. || A typing test will be conducted for the Data Entry Operator (DEO) post as per rules. || Interviews will be conducted only in person; no TA/ DA is admissible for attending the interview. || The decision of the selection committee is final.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://aiims.edu/",
-        "official_notification": "https://aiims.edu/images/pdf/recruitment/advertisement/CDER-25-6-26.pdf"
     },
     {
         "date": "07/07/2026",
@@ -813,7 +861,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "nhsrcl-technician-recruitment-2026-apply-online-for-237-posts-3057054"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",

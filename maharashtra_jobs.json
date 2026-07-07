@@ -1,19 +1,51 @@
 [
     {
         "date": "07/07/2026",
-        "board": "IISER Pune",
-        "title": "Project Associate-I",
-        "qualification": "M.Sc. / B.Tech in Life sciences / Biotechnology / Bioengineering / Chemistry with minimum 70% marks or equivalent grade.",
-        "last_date": "10-07-2026",
-        "total_posts": "01",
-        "salary": "Not Available",
-        "age_limit": "Not more than 30 years (relaxation as per rules).",
+        "board": "PDIL",
+        "title": "Graduate Engineer, Diploma Engineer (Various Disciplines)",
+        "qualification": "Engineering Degree / Diploma / Relevant Qualification",
+        "last_date": "27-07-2026",
+        "total_posts": "153 Posts",
+        "salary": "Rs. 71,000/-",
+        "age_limit": "Graduate Engineer Scale 4:Maximum 42 Years || Graduate Engineer Scale 3:Maximum 37 Years || Graduate Engineer Scale 2:Maximum 35 Years || Graduate Engineer Scale 1:Maximum 32 Years || Diploma Engineer Scale 3:Maximum 43 Years || Diploma Engineer Scale 2:Maximum 40 Years || Diploma Engineer Scale 1:Maximum 37 Years",
+        "application_fee": "For General / OBC Candidates:Rs. 800/- || For SC / ST / EWS Candidates:Rs. 400/-",
+        "selection_process": "Shortlisting of Applications || Personal Interview || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.pdilin.com/",
+        "official_notification": "https://www.pdilin.com/pdf/ADVT-NO-HR712601-Contract_Upload.pdf"
+    },
+    {
+        "date": "07/07/2026",
+        "board": "CSIR NEERI Nagpur",
+        "title": "Project Associate I",
+        "qualification": "M.Sc. in Microbiology/Biotechnology/Biochemistry",
+        "last_date": "09-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 31,000/- + HRA (NET/ GATE qualified) or Rs. 25,000/- + HRA (others) Per Month",
+        "age_limit": "Max: 35 years",
         "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.neeri.res.in",
+        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/1782389870_RECRUIT_SD_8A_EHTD_25062026_B.pdf"
+    },
+    {
+        "date": "07/07/2026",
+        "board": "Jalna DCC Bank",
+        "title": "Deputy Manager, Assistant Manager, Banking Officer & Clerk/Typist",
+        "qualification": "Graduate / Post Graduate / MBA / M.Com / Computer Related Qualification (Post-wise)",
+        "last_date": "18-07-2026",
+        "total_posts": "70 Posts",
+        "salary": "Not Available",
+        "age_limit": "Deputy Manager:21 to 45 Years || Assistant Manager:21 to 40 Years || Banking Officer No.1:21 to 40 Years (Reserved Categories up to 45 Years) || Banking Officer No.2:21 to 38 Years (Reserved Categories up to 43 Years) || Clerk / Typist:21 to 38 Years (Reserved Categories up to 43 Years)",
+        "application_fee": "Application fee details will be updated as per the official notification.",
         "selection_process": "Not Available",
         "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "http://www.iiserpune.ac.in",
-        "official_notification": "https://www.iiserpune.ac.in/storage/recruitment/job-posts/1276/documents/ca67b0ed-9676-4a85-a033-dbc90d16e42f.pdf"
+        "official_website": "https://jalnadcc.bank.in",
+        "official_notification": "https://jalnadcc.bank.in/images/advertise/1783341452_New%20Jalna%20Dcc%20Advertisement%20MD%20SIR.pdf"
     },
     {
         "date": "07/07/2026",
@@ -30,6 +62,22 @@
         "syllabus": "Not Available",
         "official_website": "https://nhsrcl.in/",
         "official_notification": "https://nhsrcl.in/sites/default/files/notice/2026-07/Vacancy%20Notice%20NE%202%20Final.pdf"
+    },
+    {
+        "date": "07/07/2026",
+        "board": "IISER Pune",
+        "title": "Project Associate-I",
+        "qualification": "M.Sc. / B.Tech in Life sciences / Biotechnology / Bioengineering / Chemistry with minimum 70% marks or equivalent grade.",
+        "last_date": "10-07-2026",
+        "total_posts": "01",
+        "salary": "Not Available",
+        "age_limit": "Not more than 30 years (relaxation as per rules).",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.iiserpune.ac.in",
+        "official_notification": "https://www.iiserpune.ac.in/storage/recruitment/job-posts/1276/documents/ca67b0ed-9676-4a85-a033-dbc90d16e42f.pdf"
     },
     {
         "date": "07/07/2026",
@@ -77,7 +125,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://cotcorp.org.in/",
-        "official_notification": "nhsrcl-technician-recruitment-2026-apply-online-for-237-posts-3057054"
+        "official_notification": "Not Available"
     },
     {
         "date": "07/07/2026",
@@ -1261,7 +1309,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://msc.bank.in/career",
-        "official_notification": "nhsrcl-technician-recruitment-2026-apply-online-for-237-posts-3057054"
+        "official_notification": "Not Available"
     },
     {
         "date": "18/06/2026",

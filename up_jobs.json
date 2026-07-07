@@ -1,6 +1,38 @@
 [
     {
         "date": "07/07/2026",
+        "board": "IIT Kanpur",
+        "title": "Project Assistant (PA)",
+        "qualification": "B.Tech., B.Sc., or equivalent degree in Aerospace Engineering, Mechanical Engineering, Chemical Engineering, Computer Science, Civil Engineering, Physics, Mathematics, or a related discipline, with a strong academic record.",
+        "last_date": "10-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 32,400/- per month (consolidated)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in/",
+        "official_notification": "https://www.iitk.ac.in/dord/project/ae-pa-02-07-26.html"
+    },
+    {
+        "date": "07/07/2026",
+        "board": "PDIL",
+        "title": "Graduate Engineer, Diploma Engineer (Various Disciplines)",
+        "qualification": "Engineering Degree / Diploma / Relevant Qualification",
+        "last_date": "27-07-2026",
+        "total_posts": "153 Posts",
+        "salary": "Rs. 71,000/-",
+        "age_limit": "Graduate Engineer Scale 4:Maximum 42 Years || Graduate Engineer Scale 3:Maximum 37 Years || Graduate Engineer Scale 2:Maximum 35 Years || Graduate Engineer Scale 1:Maximum 32 Years || Diploma Engineer Scale 3:Maximum 43 Years || Diploma Engineer Scale 2:Maximum 40 Years || Diploma Engineer Scale 1:Maximum 37 Years",
+        "application_fee": "For General / OBC Candidates:Rs. 800/- || For SC / ST / EWS Candidates:Rs. 400/-",
+        "selection_process": "Shortlisting of Applications || Personal Interview || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.pdilin.com/",
+        "official_notification": "https://www.pdilin.com/pdf/ADVT-NO-HR712601-Contract_Upload.pdf"
+    },
+    {
+        "date": "07/07/2026",
         "board": "AIIMS Gorakhpur",
         "title": "Non-Academic Junior Resident (Dental)",
         "qualification": "BDS from DCI recognized institute with compulsory rotatory internship completion certificate",

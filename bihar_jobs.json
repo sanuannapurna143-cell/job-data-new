@@ -1,6 +1,22 @@
 [
     {
         "date": "07/07/2026",
+        "board": "IIT Patna",
+        "title": "Research Associate - I (RA-I)",
+        "qualification": "Ph.D. in Mechanical, Aerospace, Chemical or equivalent, M.Tech in Mechanical, Thermal, Chemical, Aerospace or equivalent with 3 years experience",
+        "last_date": "18-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 58000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitp.ac.in",
+        "official_notification": "https://iitp.ac.in/media/iitp-media/notices/1783084395839-604.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minioadmin%2F20260707%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T093731Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ef7ec4227c42ae8091731b150377cf085655badc5a37c7a72fbfebe18665b65a"
+    },
+    {
+        "date": "07/07/2026",
         "board": "CSC e-Governance Services Indian",
         "title": "Aadhaar Supervisor/Operator – District",
         "qualification": "Diploma, ITI, 12TH",
