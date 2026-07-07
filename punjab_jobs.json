@@ -1,6 +1,22 @@
 [
     {
         "date": "07/07/2026",
+        "board": "Panjab University",
+        "title": "Coach – 04 Posts",
+        "qualification": "Any Graduate",
+        "last_date": "20-07-2026",
+        "total_posts": "04",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://puchd.ac.in/",
+        "official_notification": "https://jobs.puchd.ac.in/includes/jobs/2026/20260706085207-Notice_compressed.pdf"
+    },
+    {
+        "date": "07/07/2026",
         "board": "IIT Ropar",
         "title": "Junior Research Fellow",
         "qualification": "M.Sc or equivalent degree in Physics with 60% marks (or CGPA 6.5/10) and valid GATE/CSIR-UGC NET/LS/JEST qualified.",

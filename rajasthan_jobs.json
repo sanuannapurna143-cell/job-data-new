@@ -1,6 +1,38 @@
 [
     {
         "date": "07/07/2026",
+        "board": "ICMR NIHR",
+        "title": "Project Technical Support - I",
+        "qualification": "ITI, M.A, DMLT, MLT",
+        "last_date": "14-07-2026",
+        "total_posts": "01",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://niirncd.icmr.org.in/",
+        "official_notification": "https://niirncd.icmr.org.in/admin/en_doc/sca147.pdf"
+    },
+    {
+        "date": "07/07/2026",
+        "board": "BITS Pilani",
+        "title": "Junior Research Fellow/ Project Associate 1",
+        "qualification": "First Class M.Sc. in Chemistry or Physics, or B.Tech. in Chemical Engineering, Mechanical Engineering, or other allied engineering disciplines, with experience in Computer-Aided Design (CAD), Chemical synthesis, and electrode fabrication, Desirable: NET/GATE qualified",
+        "last_date": "27-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30000 - 37000 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bits-pilani.ac.in/",
+        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/Prof-Aditya-Singh-ANRF-Project-ADV-19-6-2026.pdf"
+    },
+    {
+        "date": "07/07/2026",
         "board": "BITS Pilani",
         "title": "Cross Disciplinary Research Fellow (CDRF)",
         "qualification": "M.E./M.Tech. in Electrical Engineering or Power Electronics or Electrical Drives or Energy Systems, B.E./B.Tech. in Electrical Engineering or equivalent",
