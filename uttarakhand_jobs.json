@@ -2,6 +2,22 @@
     {
         "date": "08/07/2026",
         "board": "IIT Roorkee",
+        "title": "Junior Research Fellow (JRF) & Senior Research Fellow (SRF)",
+        "qualification": "B.E./B.Tech in ECE/EEE/EIE + GATE/NET or M.E./M.Tech in ECE/VLSI with GATE/NET",
+        "last_date": "14-07-2026",
+        "total_posts": "03",
+        "salary": "Not Available",
+        "age_limit": "As per GoI norms",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/ECE/2026/adv030720265.pdf"
+    },
+    {
+        "date": "08/07/2026",
+        "board": "IIT Roorkee",
         "title": "Project Assistant",
         "qualification": "Bachelor's degree in Engineering/science or 3-year Diploma in Engineering & Technology with experience in WASH sector",
         "last_date": "10-07-2026",
@@ -397,6 +413,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "csir-aso-recruitment-2026-apply-online-for-100-assistant-section-officer-posts-3055113"
     }
 ]
