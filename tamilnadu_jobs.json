@@ -1,6 +1,38 @@
 [
     {
         "date": "08/07/2026",
+        "board": "IIITDM Kancheepuram",
+        "title": "Resident Medical Officer (RMO)",
+        "qualification": "MBBS degree with valid registration and minimum 15 years of post-qualification experience.",
+        "last_date": "15-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1,00,000/- per month",
+        "age_limit": "Minimum Age: Above 45 years, Maximum Age: 63 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiitdm.ac.in",
+        "official_notification": "https://old.iiitdm.ac.in/img/Recruitment/2026/RMO/RMO_Advertisement_IIITDM_Revised.pdf"
+    },
+    {
+        "date": "08/07/2026",
+        "board": "DHS Ariyalur",
+        "title": "Various Posts",
+        "qualification": "8th Pass, Bachelor of Audiology and Speech language Pathology, B.Pharm or D.Pharm, BUMS, MDMS",
+        "last_date": "17-07-2026",
+        "total_posts": "13",
+        "salary": "Rs. 11,000 to Rs. 60,000 per month",
+        "age_limit": "Audiologist: Maximum 45 years || CEmONC Security Guard: Maximum 45 years || SNCU Cleaner: Maximum 45 years || MPHW-Male / HI Grade II: Maximum 45 years || MMU Cleaner: Maximum 45 years || Unani Consultant - NPCDCS Scheme: Maximum 59 years || Pharmacist - Unani-NPCDCS Scheme: Maximum 40 years || Pharmacist - Siddha NRHM Scheme: Maximum 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://ariyalur.nic.in/",
+        "official_notification": "https://ariyalur.nic.in/notice_category/recruitment/"
+    },
+    {
+        "date": "08/07/2026",
         "board": "IIT Madras",
         "title": "Project Officer",
         "qualification": "Master's degree in business administration or Post Graduate Degree from a reputed institution",

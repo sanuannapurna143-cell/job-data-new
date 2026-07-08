@@ -1,6 +1,22 @@
 [
     {
         "date": "08/07/2026",
+        "board": "NIT Uttarakhand",
+        "title": "Placement Officer",
+        "qualification": "Graduation and MBA from a recognized university, Experience in career counselling & placement activities in government or private or organizations or PSUs",
+        "last_date": "29-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 60000 Per Month",
+        "age_limit": "Maximum Age Limit: 55 years",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-In Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nituk.ac.in/",
+        "official_notification": "https://nituk.ac.in/uploads/topics/17828199595078.pdf"
+    },
+    {
+        "date": "08/07/2026",
         "board": "IIT Roorkee",
         "title": "Junior Research Fellow (JRF) & Senior Research Fellow (SRF)",
         "qualification": "B.E./B.Tech in ECE/EEE/EIE + GATE/NET or M.E./M.Tech in ECE/VLSI with GATE/NET",
@@ -413,6 +429,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "csir-aso-recruitment-2026-apply-online-for-100-assistant-section-officer-posts-3055113"
+        "official_notification": "Not Available"
     }
 ]

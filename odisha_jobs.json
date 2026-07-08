@@ -1,6 +1,22 @@
 [
     {
         "date": "08/07/2026",
+        "board": "AIIMS Bhubaneswar",
+        "title": "Project Technical Support-III",
+        "qualification": "Three years degree in Life Sciences + Three years post qualification experience OR PG in Life Sciences /Public health",
+        "last_date": "23-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 28000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsbhubaneswar.nic.in/",
+        "official_notification": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/07/ped.pdf"
+    },
+    {
+        "date": "08/07/2026",
         "board": "NIT Rourkela",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "MTech/ME/MS (GATE qualified) in relevant fields with 60% marks, B.E./B.Tech. with Valid GATE score and 65% marks, M.Sc. (GATE/CSIR UGC NET/GPAT) with 65% marks",
@@ -573,7 +589,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "csir-aso-recruitment-2026-apply-online-for-100-assistant-section-officer-posts-3055113"
+        "official_notification": "Not Available"
     },
     {
         "date": "27/06/2026",
@@ -605,7 +621,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://epi.gov.in",
-        "official_notification": "csir-aso-recruitment-2026-apply-online-for-100-assistant-section-officer-posts-3055113"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/06/2026",

@@ -1,6 +1,38 @@
 [
     {
         "date": "08/07/2026",
+        "board": "CUSAT",
+        "title": "Assistant Matron",
+        "qualification": "A Bachelors Degree from a recognized University",
+        "last_date": "05-08-2026",
+        "total_posts": "1",
+        "salary": "₹ 25,980/-",
+        "age_limit": "Minimum Age: 30 years || Maximum Age: 55 years",
+        "application_fee": "₹ 950/-",
+        "selection_process": "Shortlisting based on marks in qualifying degree",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cusat.ac.in",
+        "official_notification": "https://recruit.cusat.ac.in/files/NOTIFICATION_469.pdf"
+    },
+    {
+        "date": "08/07/2026",
+        "board": "NIT Calicut",
+        "title": "Junior Research Fellow (JRF)/Project Associate I (PA I)",
+        "qualification": "Master's and Bachelor's degree in Chemical/Mechanical/Materials/Production Engineering/Electrochemistry or related disciplines from a recognised university with first class, GATE/NET qualified (for JRF)",
+        "last_date": "12-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30000 - 37000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitc.ac.in/",
+        "official_notification": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__e8ab8f23-f443-4fc6-a07f-ca4727c27608_.pdf"
+    },
+    {
+        "date": "08/07/2026",
         "board": "NIT Calicut",
         "title": "Project Associate-I",
         "qualification": "MSc in Chemistry with at least 80% marks (or 8.0 CGPA in 10 point scale)",
