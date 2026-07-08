@@ -1,5 +1,37 @@
 [
     {
+        "date": "08/07/2026",
+        "board": "IIT Roorkee",
+        "title": "Project Assistant",
+        "qualification": "Bachelor's degree in Engineering/science or 3-year Diploma in Engineering & Technology with experience in WASH sector",
+        "last_date": "10-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 26000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/WRDM/2026/adv30062026.pdf"
+    },
+    {
+        "date": "08/07/2026",
+        "board": "IIT Roorkee",
+        "title": "JRF",
+        "qualification": "M.Tech. in Chemical Engineering/ Civil Engineering/ Production/ Mechanical/other suitable Engineering",
+        "last_date": "26-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 - 42000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/PPE/2026/adv060720268.pdf"
+    },
+    {
         "date": "07/07/2026",
         "board": "IIT Roorkee",
         "title": "Postdoctoral Fellowship Position",
@@ -365,6 +397,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "tnpsc-cts-diploma-iti-recruitment-2026-839-vacancies-3057204"
+        "official_notification": "Not Available"
     }
 ]
