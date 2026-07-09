@@ -1,5 +1,37 @@
 [
     {
+        "date": "09/07/2026",
+        "board": "JSSC",
+        "title": "Post Name",
+        "qualification": "Degree/Post-Graduate in Pharmacy, Biochemistry or Medicine, or equivalent qualification recognized by the appointing authority; post-qualification lab experience of minimum 6 months required",
+        "last_date": "20-07-2026",
+        "total_posts": "615",
+        "salary": "Pay Matrix Level-7, Rs. 44,900-1,42,400/-",
+        "age_limit": "Upper Age Limit",
+        "application_fee": "Rs. 100/- (Rupees One Hundred only) - Non-Refundable",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://jssc.jharkhand.gov.in/",
+        "official_notification": "https://jssc.jharkhand.gov.in/"
+    },
+    {
+        "date": "09/07/2026",
+        "board": "IIT ISM Dhanbad",
+        "title": "ANRF Junior Research Fellow (ANRF JRF)",
+        "qualification": "M. Tech./M. E. in Civil Engg./Transportation Engg./Planning (M.Plan) or equivalent with first class/division or minimum 60% marks/CGPA 6.0, GATE/NET qualified, B.Tech. in Civil Engineering/Bachelor of Planning",
+        "last_date": "19-07-2026",
+        "total_posts": "1",
+        "salary": "₹ 37000/- p.m. + 20% HRA for first two years; ₹ 42000/- p.m. + 20% HRA for third year",
+        "age_limit": "Maximum Age: 28 years || Age relaxation for SC/ST/OBC/PWD/Female candidate as per GoI rule",
+        "application_fee": "Nil",
+        "selection_process": "Merit based shortlisting || Interview (online or in-person)",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitism.ac.in/",
+        "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1710/Project%20JRF_2026-07-02_16-25-24.pdf"
+    },
+    {
         "date": "08/07/2026",
         "board": "CUJ",
         "title": "Library Trainee",
@@ -430,22 +462,6 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "Not Available"
-    },
-    {
-        "date": "10/06/2026",
-        "board": "JSSC",
-        "title": "Post Name",
-        "qualification": "Degree/Post-Graduate in Pharmacy, Biochemistry or Medicine, or equivalent qualification recognized by the appointing authority; post-qualification lab experience of minimum 6 months required",
-        "last_date": "14-07-2026",
-        "total_posts": "615",
-        "salary": "Pay Matrix Level-7, Rs. 44,900-1,42,400/-",
-        "age_limit": "Upper Age Limit",
-        "application_fee": "Rs. 100/- (Rupees One Hundred only) - Non-Refundable",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://jssc.jharkhand.gov.in/",
-        "official_notification": "https://jssc.jharkhand.gov.in/"
     },
     {
         "date": "03/06/2026",
