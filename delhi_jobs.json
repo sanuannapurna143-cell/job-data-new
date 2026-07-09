@@ -1,6 +1,54 @@
 [
     {
         "date": "09/07/2026",
+        "board": "AIIMS Delhi",
+        "title": "Project Research Scientist-I (Non-Medical)",
+        "qualification": "Post graduate degree including the integrated PG degrees in relevant field",
+        "last_date": "23-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 56000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/jpnatc-9-7-26.pdf"
+    },
+    {
+        "date": "09/07/2026",
+        "board": "AIIMS Delhi",
+        "title": "Data Entry Operator (DEO)",
+        "qualification": "Intermediate or 12th pass from recognized board with 2 years experience in data management work",
+        "last_date": "23-07-2026",
+        "total_posts": "1",
+        "salary": "As per ICMR guidelines",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/labonco-9-7-26.pdf"
+    },
+    {
+        "date": "09/07/2026",
+        "board": "Prasar Bharati",
+        "title": "Anchors",
+        "qualification": "Degree/ PG Diploma in Journalism/ Mass Communication/ relevant field from any university / institute, Camera friendly face with a voice of a very good quality suited for telecast, Correct pronunciation accent and modulation, Proficiency in English Language",
+        "last_date": "23-07-2026",
+        "total_posts": "4",
+        "salary": "Rs. 100000 - 150000 Per Month",
+        "age_limit": "Maximum Age Limit: 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Test and/or Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://prasarbharati.gov.in/",
+        "official_notification": "https://prasarbharati.gov.in/wp-content/uploads/2026/07/NIA-engagment-of-Anchors-1.pdf"
+    },
+    {
+        "date": "09/07/2026",
         "board": "AAI",
         "title": "Head of Training & Continuous Airworthiness Manager (CAMO Post Holder)",
         "qualification": "ATPL/CPL/FATA / Engineering Degree / Aircraft Maintenance Qualification (Post-wise)",
@@ -1213,7 +1261,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "Not Available"
+        "official_notification": "indian-army-ssc-tech-68-men-recruitment-2026-3057473"
     },
     {
         "date": "01/07/2026",
