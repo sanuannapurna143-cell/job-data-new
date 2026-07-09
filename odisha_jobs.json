@@ -1,6 +1,22 @@
 [
     {
         "date": "09/07/2026",
+        "board": "DEO Nuapada",
+        "title": "Legal Retainer",
+        "qualification": "Graduate",
+        "last_date": "23-07-2026",
+        "total_posts": "Not mentioned",
+        "salary": "Rs. 15,000 per month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Selection based on committee's consideration of Experience and reputation || Panel of three names will be prepared || Advocate to convey willingness to accept offer and terms",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nuapada.nic.in",
+        "official_notification": "https://nuapada.odisha.gov.in/sites/default/files/2026-07/Advertisement%20notice%20for%20Legal%20retainer.pdf"
+    },
+    {
+        "date": "09/07/2026",
         "board": "Central University of Odisha",
         "title": "Guest Faculty",
         "qualification": "Master's degree with 55% marks (or equivalent grade) in concerned/relevant/allied subject, NET conducted by UGC/CSIR or Ph.D or SLET/SET accredited by UGC",
@@ -637,7 +653,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "indian-army-ssc-tech-68-men-recruitment-2026-3057473"
+        "official_notification": "Not Available"
     },
     {
         "date": "27/06/2026",
@@ -669,7 +685,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://epi.gov.in",
-        "official_notification": "indian-army-ssc-tech-68-men-recruitment-2026-3057473"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/06/2026",

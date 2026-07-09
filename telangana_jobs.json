@@ -1,6 +1,38 @@
 [
     {
         "date": "09/07/2026",
+        "board": "Telangana Anganwadi",
+        "title": "Anganwadi Teacher (AWT), Anganwadi Helper (Ayah)",
+        "qualification": "Candidates must have passed the Intermediate examination. || For the Anganwadi Helper (Ayah) post, if sufficient Intermediate-qualified applicants are not available at a location, candidates who have passed the 10th class (SSC) will be considered.",
+        "last_date": "25-07-2026",
+        "total_posts": "190",
+        "salary": "The salary or honorarium for the Anganwadi Teacher and Anganwadi Helper posts is not mentioned in the official notification .",
+        "age_limit": "Candidates must be between 18 and 35 years of age as on 01-07-2026 .",
+        "application_fee": "The application fee details are not mentioned in the official notification .",
+        "selection_process": "Selection will be made based on the following weightage criteria: || For the Helper (Ayah) post, if Intermediate-qualified applicants are unavailable at a location, selection among 10th class-qualified applicants will be made in the same manner.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://mis.tgwdcw.in/",
+        "official_notification": "https://mis.tgwdcw.in/AWTNotification2026/Kamareddy_%20Notification_09.07.2026.pdf"
+    },
+    {
+        "date": "09/07/2026",
+        "board": "WCD&SC, Adilabad",
+        "title": "Anganwadi Teacher (AWT), Anganwadi Helper/Ayah (AWH)",
+        "qualification": "Candidates must possess the relevant certificates corresponding to the reservation category (SC/ST/BC/General) as applicable to the specific Anganwadi Center vacancy.",
+        "last_date": "20-07-2026",
+        "total_posts": "242",
+        "salary": "Not specified in the notification.",
+        "age_limit": "Minimum age: 18 years || Maximum age: 35 years",
+        "application_fee": "Not specified in the notification.",
+        "selection_process": "Not officially detailed in the notification beyond the following: candidates meeting the eligibility criteria for each Anganwadi Center will be considered, and for AWH posts, SSC-passed candidates will be selected only if no Intermediate-qualified candidate is available for that center.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://wdcw.tg.nic.in",
+        "official_notification": "https://mis.tgwdcw.in/AWTVacancies2026/ADILABAD_VACANCIES_09.07.2026.pdf"
+    },
+    {
+        "date": "09/07/2026",
         "board": "NIT Warangal",
         "title": "Deputy Director",
         "qualification": "Post Graduate (PG)",
@@ -237,7 +269,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://iith.ac.in/",
-        "official_notification": "/cdn-cgi/l/email-protection#1a697f7f6e727b5a797f3473736e72347b79347374"
+        "official_notification": "/cdn-cgi/l/email-protection#25564040514d446546400b4c4c514d0b44460b4c4b"
     },
     {
         "date": "03/07/2026",

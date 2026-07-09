@@ -1,6 +1,38 @@
 [
     {
         "date": "09/07/2026",
+        "board": "IGIMS",
+        "title": "Medical Physicist (Nuclear Medicine)",
+        "qualification": "M.Sc. Nuclear Medicine Technology from a recognized University/Institution, RSO Level-II Certification recognized by AERB",
+        "last_date": "20-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 90000 Per Month",
+        "age_limit": "Maximum Age: 60 years",
+        "application_fee": "Rs.1000/-",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.igims.org",
+        "official_notification": "https://www.igims.org/resources/uploads/TenderManagement/178357949028.pdf"
+    },
+    {
+        "date": "09/07/2026",
+        "board": "CUSB",
+        "title": "Project Assistant",
+        "qualification": "B. Sc. in Chemistry",
+        "last_date": "28-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 27,000/- per Month + HRA",
+        "age_limit": "Maximum Age: 28 years || Age relaxation is admissible as per ANRF guidelines.",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cusb.ac.in",
+        "official_notification": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=1059:advertisement-for-the-post-of-project-assistant-01-post-under-anrf-funded-project-cusb-rp-129-sanctioned-to-dr-saptarshi-gosh-assistant-professor-department-of-chemistry-2&catid=48&Itemid=587"
+    },
+    {
+        "date": "09/07/2026",
         "board": "CUSB",
         "title": "Project Associate",
         "qualification": "M.Sc./M.tech in Geology/Applied Geology/Earth Science or related field or related sciences with at least 55% marks for GN/OBC (50% for SC/ST/PH) from UGC recognized University/ Institutes",

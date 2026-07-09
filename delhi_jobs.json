@@ -1,6 +1,54 @@
 [
     {
         "date": "09/07/2026",
+        "board": "DUWA",
+        "title": "Office Secretary (Accounts)",
+        "qualification": "B.com or B.A with minimum 2 years work experience in computer/accounts/Tally/MS Word/MS Office",
+        "last_date": "25-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 17000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://duwa.du.ac.in/",
+        "official_notification": "https://duwa.du.ac.in/07072026_OfficeSecretary_DUWA.pdf"
+    },
+    {
+        "date": "09/07/2026",
+        "board": "Ambedkar Nagar Hospital",
+        "title": "Senior Resident (Medicine & Obst. & Gynae)",
+        "qualification": "MBBS, PG Diploma, MS/ MD",
+        "last_date": "17-07-2026",
+        "total_posts": "02",
+        "salary": "Level-11 as per 7th CPC (Basic Pay Rs. 67,700/- + allowances)",
+        "age_limit": "Maximum 45 years as on date of interview",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://anh.delhi.gov.in/",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wanh_37.pdf"
+    },
+    {
+        "date": "09/07/2026",
+        "board": "JPCH",
+        "title": "Junior Resident (MBBS)",
+        "qualification": "MBBS degree from a recognized University, Valid registration with Delhi Medical Council",
+        "last_date": "10-07-2026",
+        "total_posts": "3",
+        "salary": "Rs. 56100 – 177500 of level 10 plus allowances as admissible under the rules",
+        "age_limit": "Maximum Age Limit: 30 years || Age Relaxation: 35 years for SC/ST, 33 years for OBC candidates",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://health.delhi.gov.in/",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wjpch_7.pdf"
+    },
+    {
+        "date": "09/07/2026",
         "board": "AIIMS Delhi",
         "title": "Project Research Scientist-I (Non-Medical)",
         "qualification": "Post graduate degree including the integrated PG degrees in relevant field",
@@ -1261,7 +1309,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "indian-army-ssc-tech-68-men-recruitment-2026-3057473"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",
