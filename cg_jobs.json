@@ -1,6 +1,22 @@
 [
     {
         "date": "10/07/2026",
+        "board": "EMRS Jashpur",
+        "title": "TGT, Counselor and More – 48 Posts",
+        "qualification": "B.Ed, B.Sc, Diploma, Any Post Graduate",
+        "last_date": "20-07-2026",
+        "total_posts": "48",
+        "salary": "₹35,400 (Consolidated)",
+        "age_limit": "Age proof will be based on the marksheet issued by the Board for the High School Certificate Examination, or a marksheet/certificate issued by a competent authority. Age relaxation for ST/SC/OBC and other categories will be given as per Government of India norms. (The notification does not specify an age limit for the Counsellor post separately.)",
+        "application_fee": "Not mentioned in the official notification. None of the five press notices specify an application fee amount, payment mode, or fee exemption for any category. Candidates should check the official website (https://Jashpur.nic.in) for any updates before applying.",
+        "selection_process": "Selection is based on a merit list prepared from the candidate's academic qualification marks, additional experience marks, and Walk-in Interview marks. There is no written examination. The weightage differs by post category:",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://jashpur.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s385fc37b18c57097425b52fc7afbb6969/uploads/2026/07/17835989224463.pdf"
+    },
+    {
+        "date": "10/07/2026",
         "board": "EMRS Sukhrapara",
         "title": "Guest Teacher, Staff Nurse",
         "qualification": "₹35,000/- (if NESTS prescribed full qualification is met), ₹31,000/- (if NESTS prescribed full qualification is not met)",

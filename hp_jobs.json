@@ -58,7 +58,7 @@
         "age_limit": "Age is calculated as on 1 April 2026: || Principal: Minimum 30 years, Maximum 45 years || All other posts under both notifications: Minimum 25 years, Maximum 45 years || Age relaxation will be applicable as per the reservation policy of the State Government.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.hamirpur.nic.in",
         "official_notification": "https://cdn.s3waas.gov.in/s3115f89503138416a242f40fb7d7f338e/uploads/2026/07/17831608173339.pdf"
@@ -282,7 +282,7 @@
         "age_limit": "The minimum age is 18 years and the maximum age is 30 years, calculated as on the closing date of the advertisement (10 July 2026).",
         "application_fee": "The HPPTCL Apprentice 2026 notification does not mention any application fee. Candidates should confirm this on the official application proforma available at www.hpptcl.com before submitting.",
         "selection_process": "Step-by-step selection process: || Application submission (offline, by post) || Shortlisting based on academic marks (Matric/+2/Diploma/Degree) || Document verification - originals must be presented || Final selection and registration under BOAT/NATS Portal || Candidates who have already been registered and received training under BOAT or NATS are not eligible and need not apply.",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.hpptcl.com",
         "official_notification": "https://hpptcl.com/wp-content/uploads/2026/06/New-Doc-06-20-2026-16.55.pdf"
@@ -349,6 +349,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "tgpsc-town-planning-assistant-recruitment-2026-apply-online-for-07-posts-3057781"
     }
 ]

@@ -1,6 +1,22 @@
 [
     {
         "date": "10/07/2026",
+        "board": "NCL",
+        "title": "Post Name",
+        "qualification": "B.Tech/ B.E, Diploma, 10TH",
+        "last_date": "05-08-2026",
+        "total_posts": "Post Name",
+        "salary": "T&S Gr. C (Monthly Rated); Basic pay ₹47,330.25 per month",
+        "age_limit": "Candidates must have attained a minimum age of 18 years as on the Crucial Date (05-08-2026), and age must not exceed the upper age limit of 30 years on the Crucial Date, subject to relaxations below. || The Date of Birth recorded in the Matriculation/Secondary Examination Certificate, or marksheet of Matriculation/10th Standard or equivalent certificate issued by a Central/State Board, will be considered valid.",
+        "application_fee": "Applications without the prescribed fee will not be entertained and will be summarily rejected; no representation against such rejection will be entertained. Fee once paid will neither be refunded nor adjusted under any circumstances. Any tax or bank charges other than the application fee will be borne by the candidate. Fee is payable through online mode only.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nclcil.in/",
+        "official_notification": "http://www.nclcil.in"
+    },
+    {
+        "date": "10/07/2026",
         "board": "OFH VFJ",
         "title": "MBBS Doctor",
         "qualification": "MBBS or Equivalent Degree recognized by MCI/NMC",
@@ -202,7 +218,7 @@
         "age_limit": "40 to 60 years",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.nirth.res.in/",
         "official_notification": "http://icmr.gov.in/icmrobject/uploads/Recruitment/1783317202_conadvteng.PDF"
@@ -653,7 +669,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "tgpsc-town-planning-assistant-recruitment-2026-apply-online-for-07-posts-3057781"
     },
     {
         "date": "15/06/2026",
