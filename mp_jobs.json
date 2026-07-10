@@ -1,5 +1,21 @@
 [
     {
+        "date": "10/07/2026",
+        "board": "OFH VFJ",
+        "title": "MBBS Doctor",
+        "qualification": "MBBS or Equivalent Degree recognized by MCI/NMC",
+        "last_date": "27-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 75000 Per Month (Consolidated)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ddpdoo.gov.in/",
+        "official_notification": "https://ddpdoo.gov.in/storage/document/6a4f8b510c4c5.pdf"
+    },
+    {
         "date": "09/07/2026",
         "board": "AIIMS Bhopal",
         "title": "Project Research Scientist-1 (Non-Medical), Project technical support-II",
@@ -286,22 +302,6 @@
         "syllabus": "Not Available",
         "official_website": "www.aweil.in",
         "official_notification": "https://ddpdoo.gov.in/storage/document/6a47ae23d0ebe.pdf"
-    },
-    {
-        "date": "04/07/2026",
-        "board": "IIT Indore",
-        "title": "Software Developer",
-        "qualification": "B.Tech/B.E./B.Sc. in Computer Science and Engineering or Information Technology or BCA/MCA/PGDCA",
-        "last_date": "09-07-2026",
-        "total_posts": "02",
-        "salary": "Not Available",
-        "age_limit": "Upto 45 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iiti.ac.in/",
-        "official_notification": "https://www.iiti.ac.in/public/storage/recruitments/June2026/uVpGbMUx0HMgnT28KfMB.pdf"
     },
     {
         "date": "04/07/2026",
@@ -653,7 +653,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bsusc-contractual-faculty-recruitment-2026-3056682"
     },
     {
         "date": "15/06/2026",
