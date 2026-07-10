@@ -1,6 +1,70 @@
 [
     {
         "date": "10/07/2026",
+        "board": "NBCFDC",
+        "title": "Consultant",
+        "qualification": "Master's Degree in any discipline",
+        "last_date": "25-07-2026",
+        "total_posts": "1",
+        "salary": "Competitive salary commensurate with qualification and experience.",
+        "age_limit": "Maximum Age Limit: 35 years as on 31-07-2026. || Age relaxation rules will be as per government norms.",
+        "application_fee": "Nil",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://nbcfdc.gov.in",
+        "official_notification": "https://nbcfdc.gov.in/nbcfdc/web/sites/default/files/2026-07/Adv.%2010.07.2026.pdf"
+    },
+    {
+        "date": "10/07/2026",
+        "board": "SVC Delhi University",
+        "title": "Scientific Administrative Assistant/Field Worker",
+        "qualification": "Under Graduate in any Branch of Science from recognized institution.",
+        "last_date": "19-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20,000/- per month (Consolidated)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.du.ac.in/",
+        "official_notification": "https://www.du.ac.in/uploads/2026/10072026-SVC%20-Advertisement_Research_Assistant_and_Field_Investigator_Posts.pdf"
+    },
+    {
+        "date": "10/07/2026",
+        "board": "APEDA",
+        "title": "Associate",
+        "qualification": "Master’s degree in Mass Communications/ MBA (Marketing), Masters in Agriculture/ Horticulture",
+        "last_date": "22-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 80,000/- to Rs. 1,05,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 45 years || Age relaxation rules will be as per government norms.",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://apeda.gov.in/",
+        "official_notification": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Engagement_Associate_on_contact_july_2026.pdf"
+    },
+    {
+        "date": "10/07/2026",
+        "board": "IIT Delhi",
+        "title": "Senoir Project Scientist",
+        "qualification": "PhD in Textile Engineering. M.Tech in Textile Engineering/ Textile Chemistry/ Fibre Science.",
+        "last_date": "15-07-2026",
+        "total_posts": "1",
+        "salary": "Consolidated Pay-slab: Rs. 60,750 - 79,260/- p.m.",
+        "age_limit": "Age relaxation for SC/ST candidates is 5% relaxation of marks.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in/",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1782821096561_rflailg.pdf"
+    },
+    {
+        "date": "10/07/2026",
         "board": "SBSC Delhi University",
         "title": "Staff Nurse",
         "qualification": "B.Sc. (Hons.) in Nursing or Diploma in General Nursing and midwifery with experience.",
@@ -1341,7 +1405,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "bsusc-contractual-faculty-recruitment-2026-3056682"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",
@@ -2090,7 +2154,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3d51b416788b6ee70eb0c381c06efc9f1/uploads/2026/06/20260602123384032.pdf"
@@ -2106,7 +2170,7 @@
         "age_limit": "Maximum Age: 56 years as on the closing date of receipt of applications. || Departmental Candidates: BIS's own departmental candidates are not eligible to apply for deputation posts. || Place of Posting: BIS reserves the right to modify the number of posts and place of posting, and may transfer candidates across any BIS office in India as per organizational requirement.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://www.bis.gov.in/",
         "official_notification": "https://www.bis.gov.in/wp-content/uploads/2026/05/Advertisement-for-the-post-of-SO-on-deputation.pdf"
@@ -2122,7 +2186,7 @@
         "age_limit": "Note: Total deputation period (including any preceding ex-cadre deputation immediately before this appointment) shall ordinarily not exceed three years.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://nclt.gov.in/",
         "official_notification": "https://nclt.gov.in/"
@@ -2138,7 +2202,7 @@
         "age_limit": "Age Limit",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://www.mea.gov.in",
         "official_notification": "https://www.mea.gov.in/Images/CPV/Vacancy-Circular-2205-RPO.pdf"
