@@ -1,5 +1,37 @@
 [
     {
+        "date": "11/07/2026",
+        "board": "RARI Ranikhet",
+        "title": "Yoga Therapist",
+        "qualification": "Degree in Yoga/Yoga & Naturopathy (min 55%) with 2 years Yoga Therapy experience, Graduate + 1-year Yoga Diploma (min 55%) with 5 years practical experience, YCB Level II (Therapy Level) Certificate, Demonstration skills in Yogic practices (Skill Test)",
+        "last_date": "27-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 38,000/- per month (consolidated)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Interview || Skill Test",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ccras.nic.in",
+        "official_notification": "https://ccras.nic.in/wp-content/uploads/2026/07/09072026-RARI-Ranikhet.pdf"
+    },
+    {
+        "date": "11/07/2026",
+        "board": "IIT Roorkee",
+        "title": "Project Attendant",
+        "qualification": "Intermediate with 03 (Three) years' experience.",
+        "last_date": "20-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 18000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CSST/2026/adv040720262.pdf"
+    },
+    {
         "date": "09/07/2026",
         "board": "ICFRE FRI",
         "title": "Allopathic Doctor (General Physician)",
@@ -349,6 +381,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "tgpsc-town-planning-assistant-recruitment-2026-apply-online-for-07-posts-3057781"
+        "official_notification": "Not Available"
     }
 ]
