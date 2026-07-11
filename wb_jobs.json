@@ -1,6 +1,38 @@
 [
     {
         "date": "11/07/2026",
+        "board": "IIEST Shibpur",
+        "title": "Junior Research Fellow (JRF/SRF)",
+        "qualification": "First class M.E. / M.Tech /M.Sc in Electronics and Communication Engg or equivalent, NET/GATE qualified, Minimum 60% marks (General/OBC) or 55% (SC/ST/PH)",
+        "last_date": "20-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 - 42000 Per Month",
+        "age_limit": "Max: 33 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://data.iiests.ac.in/",
+        "official_notification": "https://data.iiests.ac.in/uploads/announcements/files/1783669804_Website%20Coy,%20Debasis%20Mitra,%20ETC,%2007.07.2026.pdf"
+    },
+    {
+        "date": "11/07/2026",
+        "board": "Tea Board India",
+        "title": "Management Trainee",
+        "qualification": "MBA/PGDM with a specialization in Marketing from a reputed recognized University",
+        "last_date": "24-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 35,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.teaboard.gov.in/",
+        "official_notification": "https://www.teaboard.gov.in/pdf/Ad_Material_pdf1687.pdf"
+    },
+    {
+        "date": "11/07/2026",
         "board": "HCSL",
         "title": "Project Officer",
         "qualification": "Degree in Mechanical Engineering with 60% of marks from a recognized University, Degree in Electronics/ Electronics & Communication / Electronics & Instrumentation Engineering with 60% marks from a recognized University",

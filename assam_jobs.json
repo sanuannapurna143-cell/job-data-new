@@ -1,6 +1,22 @@
 [
     {
         "date": "11/07/2026",
+        "board": "Tezpur University",
+        "title": "Assistant Professor (Contractual)",
+        "qualification": "Any Bachelors Degree, MBA/ PGDM",
+        "last_date": "23-07-2026",
+        "total_posts": "02",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tezu.ernet.in/",
+        "official_notification": "https://www.tezu.ernet.in/Admin/Advt_No_12_2026_Contractual_Faculty_BA.pdf"
+    },
+    {
+        "date": "11/07/2026",
         "board": "IIT Guwahati",
         "title": "Junior Resarch Fellow",
         "qualification": "Post Graduate in Physics or Graduate/Post Graduate in Mechanical/ Electrical/ Electronics/ Instrumentation/ Production/ Manufacturing Engineering selected through a process described through National Eligibility Test CSIR UGC NET including lectureship (Assistant Professors) or GATE.",

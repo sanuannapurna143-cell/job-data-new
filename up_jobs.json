@@ -1,6 +1,38 @@
 [
     {
         "date": "11/07/2026",
+        "board": "IIT Kanpur",
+        "title": "Project Associate-I",
+        "qualification": "4 years Bachelor's Degree in Materials/Chemical Engineering/Master's Degree Chemistry and Physics.",
+        "last_date": "22-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30000/-Per Month + HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/chm-pa-I-07-07-26.html"
+    },
+    {
+        "date": "11/07/2026",
+        "board": "AMU Aligarh",
+        "title": "Manpower (Skilled)",
+        "qualification": "SSC/High School, ITI or higher qualification in the relevant field",
+        "last_date": "01-08-2026",
+        "total_posts": "2",
+        "salary": "Rs. 20000 Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 25 years || Age relaxation may be granted to candidates already working in Aligarh Muslim University, Aligarh.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.amu.ac.in/",
+        "official_notification": "https://api.amu.ac.in/storage/file/10075/jobs/1783665383.pdf"
+    },
+    {
+        "date": "11/07/2026",
         "board": "ICAR IVRI Izatnagar",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "Post Graduate degree including the integrated PG degree in Basic Biological Science/Life sciences or Bachelor/ Post Graduate in professional courses preferably in Veterinary Science/ Animal Science & Allied from recognized institute/University.",
@@ -973,7 +1005,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "ngel-recruitment-2026-apply-online-for-114-deputy-general-manager-assistant-manager-posts-3055902"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/06/2026",
