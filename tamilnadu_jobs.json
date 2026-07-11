@@ -1,6 +1,22 @@
 [
     {
         "date": "11/07/2026",
+        "board": "Bharathiar University",
+        "title": "Project Assistant",
+        "qualification": "First class in M.Sc (Physics), Basic knowledge in Quantum Mechanics and Materials Science",
+        "last_date": "24-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.b-u.ac.in/",
+        "official_notification": "https://b-u.ac.in/sites/b-u.ac.in/files/Recruitment/2026/JRF-NOTIFICATION%20FINAL.pdf"
+    },
+    {
+        "date": "11/07/2026",
         "board": "IIT Madras",
         "title": "Technician",
         "qualification": "M.Sc physics or chemistry, BTech, BE in EE, ECE, MME with 3 years of relevant experience",

@@ -1,6 +1,38 @@
 [
     {
         "date": "11/07/2026",
+        "board": "AIIMS Delhi",
+        "title": "Project Associate II – 01 Posts",
+        "qualification": "B.Pharma, B.Tech/ B.E, BVSC, M.Sc",
+        "last_date": "25-07-2026",
+        "total_posts": "01",
+        "salary": "Not Available",
+        "age_limit": "Not exceeding 50 years (as on last date of application)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/cder-10-7-26.pdf"
+    },
+    {
+        "date": "11/07/2026",
+        "board": "Tax Policy Research Unit",
+        "title": "Research Fellow",
+        "qualification": "B Tech. in Computer Science, Information Technology, Electronics and Telecommunications and related streams, Master's degree in Economics/Commerce/Business Economics/Finance/Business Administration, One to five years of programming/research experience, Experience with large databases and tools like Python, R, STATA, SPSS, E-Views",
+        "last_date": "31-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 70000 Per Month",
+        "age_limit": "Max: 32 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://dor.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/876545-6a5216a9d43c52803858.pdf"
+    },
+    {
+        "date": "11/07/2026",
         "board": "NIT Delhi",
         "title": "Assistant Professor",
         "qualification": "B.E./ B.Tech. and/ or M.E./ M.Tech or equivalent in relevant area along with Ph.D. in relevant area",
@@ -1421,7 +1453,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "Not Available"
+        "official_notification": "kea-ksrp-police-constable-recruitment-2026-apply-online-for-2314-posts-3057919"
     },
     {
         "date": "01/07/2026",

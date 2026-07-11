@@ -1,6 +1,22 @@
 [
     {
         "date": "11/07/2026",
+        "board": "IIM Kashipur",
+        "title": "Academic Assistant/ Associate",
+        "qualification": "For Academic Assistant: Post-graduate with first class, BSc/BA in Economics or MSc/MA in Economics or both. Experience in academics or industry or M. Phil preferred. For Academic Associate: Ph.D. in relevant area.",
+        "last_date": "28-07-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Academic Assistant:Rs. 27,500/- to Rs. 32,000/- per month. Rs. 27,500/- per month for no experience. Increment of Rs. 1500/- may be recommended for every completed year of relevant academic / industrial job experience, subject to the maximum ceiling of Rs. 32,000/- per month. || Academic Associate:Rs. 33,000/- to Rs. 39,000/- per month. Rs. 33,000/- per month for Ph.D. (or equivalent). Increment of Rs. 2000/- may be recommended for every completed year of relevant academic / industrial job experience, subject to the maximum ceiling of Rs. 39,000/- per month.",
+        "age_limit": "Preferably below 35 years. || Maximum Age Limit for Academic Assistant/ Associate: 35 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisted candidates will be interviewed in person or online.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iimkashipur.ac.in/",
+        "official_notification": "https://iimkashipur.ac.in/uploads/fo/178353065944.pdf"
+    },
+    {
+        "date": "11/07/2026",
         "board": "IIT Roorkee",
         "title": "Project Associate",
         "qualification": "B.Tech /B.E. in Chemical/Mechanical Engineering",
@@ -397,6 +413,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "kea-ksrp-police-constable-recruitment-2026-apply-online-for-2314-posts-3057919"
     }
 ]

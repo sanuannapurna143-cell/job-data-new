@@ -1,6 +1,54 @@
 [
     {
         "date": "11/07/2026",
+        "board": "UP Anganwadi",
+        "title": "Anganwadi Karyakatri (Worker), Anganwadi Sahayika (Helper)",
+        "qualification": "12TH",
+        "last_date": "31-07-2026",
+        "total_posts": "408",
+        "salary": "Not mentioned in the official notification. The recruitment notice does not specify a fixed monthly honorarium/salary amount for either the Karyakatri or Sahayika post; candidates are advised to refer to the honorarium structure prescribed under Government Order No. 1/1092245/2025/3313/58-1-2025(1917687) dated 17.09.2025 for details.",
+        "age_limit": "Not mentioned in the official notification: any age relaxation for reserved categories (EWS, differently-abled candidates, or freedom fighter dependents) - the notification explicitly states that no reservation benefit is available for these categories under the applicable Government Order.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://upanganwadibharti.in/",
+        "official_notification": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1783689125_894137f3.pdf"
+    },
+    {
+        "date": "11/07/2026",
+        "board": "AIIMS Raebareli",
+        "title": "Project Research Scientist I (Non-Medical)",
+        "qualification": "1st class Master's degree in Physiology/ Life Sciences/Neuroscience/Biotechnology/Molecular Biology or related discipline from a recognized university",
+        "last_date": "16-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 56000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsrbl.edu.in/",
+        "official_notification": "https://aiimsrbl.edu.in/recruitments"
+    },
+    {
+        "date": "11/07/2026",
+        "board": "UP Anganwadi",
+        "title": "Anganwadi Worker and Helper – 144 Posts",
+        "qualification": "The minimum educational qualification for both Anganwadi Karyakartri and Sahayika posts is Intermediate (12th) or equivalent. The maximum qualification considered for merit preparation is Postgraduate - meaning merit will be prepared taking into account qualifications up to the postgraduate level.",
+        "last_date": "30-07-2026",
+        "total_posts": "144",
+        "salary": "Not Available",
+        "age_limit": "The date of birth recorded in the High School certificate/marksheet will be considered valid for age calculation. Category-wise age relaxation, if any, is not mentioned in the official notification.",
+        "application_fee": "Not Available",
+        "selection_process": "Selection is merit-based, prepared according to educational qualification, with a defined priority order applicable in rural areas for candidates residing in the same gram sabha/ward. The official notification specifies the following selection priority flow chart:",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1783679674_97fa1778.pdf"
+    },
+    {
+        "date": "11/07/2026",
         "board": "IIT Kanpur",
         "title": "Project Associate-I",
         "qualification": "4 years Bachelor's Degree in Materials/Chemical Engineering/Master's Degree Chemistry and Physics.",
@@ -1005,7 +1053,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "Not Available"
+        "official_notification": "kea-ksrp-police-constable-recruitment-2026-apply-online-for-2314-posts-3057919"
     },
     {
         "date": "29/06/2026",
