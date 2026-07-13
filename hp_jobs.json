@@ -1,6 +1,22 @@
 [
     {
         "date": "13/07/2026",
+        "board": "ECHS",
+        "title": "Medical Officer, Pharmacist, House Keeper",
+        "qualification": "MBBS with Minimum 03 years work experience, Pharmacy from a recognized institute or 10+2 with Science stream and Approved Diploma in Pharmacy, registered as Pharmacist, Minimum 03 years work experience, Literate, Minimum 5 years work experience",
+        "last_date": "20-07-2026",
+        "total_posts": "4",
+        "salary": "Rs. 21800 - 95000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.echs.gov.in",
+        "official_notification": "https://www.echs.gov.in/assets/advertisement/Yol%20advt.pdf"
+    },
+    {
+        "date": "13/07/2026",
         "board": "IIT Mandi",
         "title": "Junior Research Fellow",
         "qualification": "M.Tech./M. S degree in Mechanical/Aerospace Engineering",

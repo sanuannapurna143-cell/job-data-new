@@ -1,6 +1,22 @@
 [
     {
         "date": "13/07/2026",
+        "board": "CURAJ",
+        "title": "Junior Research Fellow & Project Assistant",
+        "qualification": "M.Sc. in Biochemistry, Botany, or any branch of life science with >= 55% or equivalent CGPA. For JRF, NET/GATE qualification is required.",
+        "last_date": "31-07-2026",
+        "total_posts": "2",
+        "salary": "Junior Research Fellow: Rs. 37,000 + 9% HRA || Project Assistant: Rs. 20,000 + 9% HRA",
+        "age_limit": "Maximum Age: 28 years for Junior Research Fellow & Project Assistant. || Age Relaxation: SC/ST candidates are eligible for a relaxation of up to 5 years, and OBC candidates are eligible for a relaxation of up to 3 years.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Shortlisting based on merit || Offline interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://www.curaj.ac.in",
+        "official_notification": "https://www.curaj.ac.in/sites/default/files/Advertisement%20for%20the%20post%20of%20%2001-JRF%20%26%2001-PA%20under%20DBT%20sponsored%20Project-%20Department%20of%20Biochemistry.pdf"
+    },
+    {
+        "date": "13/07/2026",
         "board": "BITS Pilani",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "B.E./B.Tech. and/or M.E./M.Tech. in Mechanical Engineering or allied disciplines",

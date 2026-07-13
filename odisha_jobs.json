@@ -1,5 +1,37 @@
 [
     {
+        "date": "13/07/2026",
+        "board": "WCD Odisha",
+        "title": "Anganwadi Worker",
+        "qualification": "12th Pass",
+        "last_date": "25-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 10,000/-",
+        "age_limit": "Min: 18 years, Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://engagement-awc.odisha.gov.in",
+        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=166598"
+    },
+    {
+        "date": "13/07/2026",
+        "board": "Vivekananda Kendra Paradip Refinery Hospital",
+        "title": "Medical Officers and Specialists",
+        "qualification": "MBBS, MD (Medicine), MD (Pathology), MD (Pediatrics), MD/MS/DM/DNB",
+        "last_date": "20-07-2026",
+        "total_posts": "5",
+        "salary": "Rs. 110500 - 129000 Per Month",
+        "age_limit": "30 April 2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.vrmvk.org/",
+        "official_notification": "https://www.vrmvk.org/doctors-require-vkprms-paradip"
+    },
+    {
         "date": "11/07/2026",
         "board": "Central University of Odisha",
         "title": "Guest Faculty",
@@ -701,7 +733,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://epi.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "ngel-recruitment-2026-apply-online-for-114-deputy-general-manager-assistant-manager-posts-3055902"
     },
     {
         "date": "26/06/2026",

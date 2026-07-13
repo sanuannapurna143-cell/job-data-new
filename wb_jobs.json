@@ -1,6 +1,38 @@
 [
     {
         "date": "13/07/2026",
+        "board": "DHGMCH",
+        "title": "House Staff / Junior Resident",
+        "qualification": "MBBS, Internship Completion Certificate, Provisional/Permanent Medical Registration",
+        "last_date": "18-07-2026",
+        "total_posts": "2",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age Limit: 35 years for all posts.",
+        "application_fee": "Not Available",
+        "selection_process": "Merit List based on academic qualification || Counselling",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.dhgmc.edu.in/",
+        "official_notification": "https://www.dhgmc.edu.in/assets/uploads/files/410a0-img20260710_12203050.pdf"
+    },
+    {
+        "date": "13/07/2026",
+        "board": "Burdwan Medical College",
+        "title": "Molecular Biologist",
+        "qualification": "M.Sc. in Biotechnology from any recognized University.",
+        "last_date": "16-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 40,000/- (Consolidated)",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.bmcgov.com",
+        "official_notification": "https://www.wbhealth.gov.in/FileServer/UploadedFiles/Recruitments/Recruitment_0ecdcbdd-3205-4fb9-a5a7-b5ef23cb780f.pdf"
+    },
+    {
+        "date": "13/07/2026",
         "board": "NIT Durgapur",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "M.E./M.Tech/M.S or equivalent degree in Electrical Engineering/Material Science/Nanotechnology/Polymer Engineering with minimum of 65% or 6.5 CGPA",
