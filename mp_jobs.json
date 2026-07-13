@@ -1,5 +1,37 @@
 [
     {
+        "date": "13/07/2026",
+        "board": "IIITDM Jabalpur",
+        "title": "Junior Research Fellow and Senior Research Fellow",
+        "qualification": "JRF: Graduate/Post Graduate Degree in Computer Science and Engineering, AI and Data Science, Information Technology or similar. SRF: Same as JRF with two years of research experience.",
+        "last_date": "24-07-2026",
+        "total_posts": "2",
+        "salary": "JRF: Rs. 37,000 + 20% HRA per month. SRF: Rs. 42,000 + 20% HRA per month.",
+        "age_limit": "Junior Research Fellow (JRF): Below 35 years || Senior Research Fellow (SRF): Below 37 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiitdmj.ac.in/",
+        "official_notification": "https://www.iiitdmj.ac.in/jobs/download/JRF/Geospatial_Advt_for_JRF-SRF-PK-10072026.pdf"
+    },
+    {
+        "date": "13/07/2026",
+        "board": "ICMR BMHRC",
+        "title": "Medical Officer",
+        "qualification": "MBBS",
+        "last_date": "20-07-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Medical Officer: Rs. 1,00,000/- per month",
+        "age_limit": "Medical Officer: Maximum age limit is 70 years.",
+        "application_fee": "Rs. 590/- (non-refundable)",
+        "selection_process": "Walk-in-Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bmhrc.ac.in",
+        "official_notification": "https://bmhrc.ac.in/WriteReadData/Orders/202607091117126792823AdvMedicalOfficers(194)-.pdf"
+    },
+    {
         "date": "11/07/2026",
         "board": "PSNSU",
         "title": "Professor",
@@ -637,7 +669,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "kea-ksrp-police-constable-recruitment-2026-apply-online-for-2314-posts-3057919"
+        "official_notification": "Not Available"
     },
     {
         "date": "15/06/2026",

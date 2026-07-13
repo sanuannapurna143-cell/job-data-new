@@ -1,5 +1,37 @@
 [
     {
+        "date": "13/07/2026",
+        "board": "GSSSB",
+        "title": "Occupational Therapist, Class-3",
+        "qualification": "Bachelor degree in Occupational Therapy",
+        "last_date": "27-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 49,600/- (Fixed Pay)",
+        "age_limit": "Min: 18, Max: 35 years",
+        "application_fee": "Rs. 350/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://gsssb.gujarat.gov.in",
+        "official_notification": "https://gsssb.gujarat.gov.in/ViewFile?fileName=4naZ%E2%9C%BF8wS64TzwZ61AZrbMP4tvDBt3Mj8UPSd1xKcshvEzbATnKs8BP9tIVfdBIiCjfBSu8LIdZm10tp9eCEfSSFozLrCXiWQynGfD69UZ6YQcdgFidIOPCuS0gD7W8D8kuUrb%E2%9C%A4xsPutfZar%E2%9C%A4RgIciQ%E2%99%AC%E2%99%AC"
+    },
+    {
+        "date": "13/07/2026",
+        "board": "IIT Gandhinagar",
+        "title": "Junior Research Fellow (JRF) and Research Associate-I (RA-I)",
+        "qualification": "B.Tech/M.Tech/M.Sc, Ph.D, CSIR-UGC NET/GATE or equivalent, Experience in molecular biology techniques",
+        "last_date": "20-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 45880 - 71290 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitgn.ac.in",
+        "official_notification": "https://drive.google.com/file/d/1kNs14_o4pMdHRmncPTduuB96fE5YvA6Z/view"
+    },
+    {
         "date": "11/07/2026",
         "board": "SVNIT Surat",
         "title": "JRF/Project Assistant",
@@ -46,22 +78,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.esic.gov.in",
         "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_In_Interview_on_17_07_2026_for_the_post_of_Senior_Residents_for_ESIC_Hospital_Vapi_Gujarat_1783661258.pdf"
-    },
-    {
-        "date": "11/07/2026",
-        "board": "IIT Gandhinagar",
-        "title": "Research Associate II",
-        "qualification": "Ph.D. in Theoretical Physics with specialization in Open Quantum Systems, Quantum Optics, and/or Ultracold atomic physics",
-        "last_date": "12-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 65880 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitgn.ac.in",
-        "official_notification": "https://drive.google.com/file/d/1n9Tvo6XDnZ1MU9jedtgwaORQyi1uMhWd/view"
     },
     {
         "date": "11/07/2026",
@@ -573,7 +589,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "kea-ksrp-police-constable-recruitment-2026-apply-online-for-2314-posts-3057919"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/06/2026",

@@ -1,5 +1,21 @@
 [
     {
+        "date": "13/07/2026",
+        "board": "IIT Mandi",
+        "title": "Junior Research Fellow",
+        "qualification": "M.Tech./M. S degree in Mechanical/Aerospace Engineering",
+        "last_date": "19-07-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs 37000 p.m. plus HRA as applicable",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitmandi.ac.in/",
+        "official_notification": "https://iitmandi.ac.in/recruitment/DRDO_AR_DB_RK_550_2025_JRF.pdf"
+    },
+    {
         "date": "10/07/2026",
         "board": "HPPSC",
         "title": "Police Constable (Male), Police Constable (Female)",
@@ -301,6 +317,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "kea-ksrp-police-constable-recruitment-2026-apply-online-for-2314-posts-3057919"
+        "official_notification": "Not Available"
     }
 ]

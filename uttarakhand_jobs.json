@@ -1,5 +1,37 @@
 [
     {
+        "date": "13/07/2026",
+        "board": "AIIMS Rishikesh",
+        "title": "Project Research Scientist-I",
+        "qualification": "Proficiency in Computer handling and MS Word, Excel, Power Point, knowledge of statistical tools. || Experience in data collection, data analyses, data handling and report writing. || Excellent written and oral communication skills.",
+        "last_date": "25-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 56,000/- + HRA (1st & 2nd year), Rs. 56,000/- + 5% increments pm fixed + HRA (3rd year) Per Month (ICMR Guidline)",
+        "age_limit": "Maximum 35 years as on 01.02.2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsrishikesh.edu.in/",
+        "official_notification": "https://aiimsrishikesh.edu.in/images/upload_documents/Advertisment%20for%20Research%20Scientist-1%20%281%29.PDF"
+    },
+    {
+        "date": "13/07/2026",
+        "board": "IIT Roorkee",
+        "title": "Post Doctoral Fellow",
+        "qualification": "PhD from Metallurgical and Materials Engineering/Materials Science and Engineering/Ceramic Engineering",
+        "last_date": "20-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 80,000/- per month (+ HRA as per rules) with contingency of Rs. 50,000/- per annum",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview (offline/online mode)",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Post_Doctoral_Fellowship/MME/2026/adv06072026.pdf"
+    },
+    {
         "date": "11/07/2026",
         "board": "IIM Kashipur",
         "title": "Academic Assistant/ Associate",
@@ -381,6 +413,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "kea-ksrp-police-constable-recruitment-2026-apply-online-for-2314-posts-3057919"
+        "official_notification": "Not Available"
     }
 ]
