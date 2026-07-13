@@ -1,6 +1,38 @@
 [
     {
         "date": "13/07/2026",
+        "board": "SVNIT Surat",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.E./ B.Tech. and/ or M.E./ M.Tech./MS (Research) in Computer Science & Engineering, Information Technology, Artificial Intelligence, Data Science, Electronics & Communication Engineering, or related disciplines with Minimum 60% marks or 6.5 CGPA and GATE/ NET or equivalent examination qualification",
+        "last_date": "30-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.svnit.ac.in/",
+        "official_notification": "https://www.svnit.ac.in/Data/jobs/2026/July/SVNIT%20DoCSE%20JRF%20Adv.pdf"
+    },
+    {
+        "date": "13/07/2026",
+        "board": "CSIR CSMCRI",
+        "title": "Project Associate-I (PAT-I)",
+        "qualification": "Bachelor's degree (B.E./B.Tech) in Civil Engineering from a recognized university",
+        "last_date": "23-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000 - 31000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.csmcri.res.in/",
+        "official_notification": "https://www.csmcri.res.in/node/11021"
+    },
+    {
+        "date": "13/07/2026",
         "board": "IIT Gandhinagar",
         "title": "Post-Doctoral Fellow",
         "qualification": "Ph.D. in Psychology, Cognitive Science, Vision Science, Developmental Science/psychology, Developmental Brain Sciences, Neuroscience, or a closely related field. Minimum 60% or equivalent grade from Graduation onward, and 55% or equivalent grade in classes 10th and 12th. Demonstrated experience designing and running controlled psychophysics experiments with coding experience in MATLAB, Python and JavaScript highly recommended. Strong quantitative background: statistics and data science skills (R and/or Python). Solid grounding in basic neuroscience and cognitive development. Ability to conduct independent and collaborative research and communicate science through manuscripts, reports, and presentations.",

@@ -1,6 +1,38 @@
 [
     {
         "date": "13/07/2026",
+        "board": "SAIL",
+        "title": "General Duty Medical Officer (GDMO)",
+        "qualification": "MBBS from University/Institute recognized by MCI",
+        "last_date": "30-07-2026",
+        "total_posts": "3",
+        "salary": "Rs. 1,00,000/- per month",
+        "age_limit": "Maximum Age Limit: 69 years",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in Interview || Medical Screening",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sail.co.in/",
+        "official_notification": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/OTHERUNITS_News%20&%20Jobs_13072026_124328.pdf"
+    },
+    {
+        "date": "13/07/2026",
+        "board": "IIT (ISM) Dhanbad",
+        "title": "Project Research Scientist-I (Non-medical)",
+        "qualification": "First-Class M.Tech./M.E./MSc./MS in Mechanical Engineering, Biomedical Engineering, Mathematics/Mathematics and Computing/Applied Mathematics with strong fundamentals in Computational fluid dynamics (CFD), finite element analysis (FEA), and medical image processing, Proficiency in ANSYS Fluent, COMSOL Multiphysics, MATLAB, Python programming, and image-processing software (3D Slicer), Prior research experience in computational modeling of human tumors biomechanics, PhD in relevant research areas",
+        "last_date": "22-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 56000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitism.ac.in/",
+        "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1231/drnd_prj_scn_2026-07-08_15-54-25.pdf"
+    },
+    {
+        "date": "13/07/2026",
         "board": "IIM Ranchi",
         "title": "Assistant Professor Grade-II / Grade-I, Associate Professor, Professor",
         "qualification": "Essential Qualification: Ph.D. or equivalent degree with a strong publication record in ABDC/ABS journals. || Designation-wise Experience:",

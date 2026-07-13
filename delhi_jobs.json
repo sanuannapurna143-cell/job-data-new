@@ -1,6 +1,54 @@
 [
     {
         "date": "13/07/2026",
+        "board": "AIIMS Delhi",
+        "title": "Project Technical Support-I",
+        "qualification": "10+2 in Science with Diploma (MLT/DMLT/IT or equivalent) and two years experience, Three-year Graduate Degree in relevant subject/field with one year experience",
+        "last_date": "25-07-2026",
+        "total_posts": "1",
+        "salary": "As per ICMR/Funding Agency norms",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/pathology-13-7-26.pdf"
+    },
+    {
+        "date": "13/07/2026",
+        "board": "IHMCL",
+        "title": "Chief Information Security Officer (CISO)",
+        "qualification": "Bachelor's degree in engineering in Computer Science / Information Technology / Electronics & Communication / Information Security / Cyber Security / Telecommunications / MCA or equivalent, with professional certifications and Master's degree in relevant fields.",
+        "last_date": "09-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 100000 - 260000 Per Month",
+        "age_limit": "Max: 50 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.ihmcl.co.in",
+        "official_notification": "https://ihmcl.co.in/wp-content/uploads/2026/07/Advertisement-CISO-1.pdf"
+    },
+    {
+        "date": "13/07/2026",
+        "board": "IIT Delhi",
+        "title": "Sr. Project Associate",
+        "qualification": "B.Tech., M.Tech., M.Sc. or equivalent in Computer Science, Data Science, AI, Biomedical Engineering or related, Strong background in machine learning, computer vision, image processing, Proficiency in Python, PyTorch, TensorFlow",
+        "last_date": "20-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 57000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in/",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1783323464086_pqwh8nf.pdf"
+    },
+    {
+        "date": "13/07/2026",
         "board": "IIT Delhi",
         "title": "Project Scientist",
         "qualification": "B.Tech./ M.Tech./ M.C.A./ Post Graduate in relevant discipline having 1st class or equivalent in the appropriate discipline.",
@@ -1693,7 +1741,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "ngel-recruitment-2026-apply-online-for-114-deputy-general-manager-assistant-manager-posts-3055902"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",

@@ -1,6 +1,38 @@
 [
     {
         "date": "13/07/2026",
+        "board": "IIT Kanpur",
+        "title": "Project Associate",
+        "qualification": "M.Sc, MCA",
+        "last_date": "16-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 21600 - 54000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/ooa-pa-08-07-26.html"
+    },
+    {
+        "date": "13/07/2026",
+        "board": "IIT Kanpur",
+        "title": "Junior Research Fellow",
+        "qualification": "Post Graduate Degree in Basic Science OR Graduate / Post Graduate Degree in Professional Course selected through National Eligibility Tests - CSIR-UGC NET including lectureship (Assistant Professorship) and GATE, The selection process through National level examinations conducted by Central Government Departments and their Agencies and Institutions such as IIT, IISc, IISER etc.",
+        "last_date": "22-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/phy-jrf-18-07-26.html"
+    },
+    {
+        "date": "13/07/2026",
         "board": "Atal Awasiya Vidyalaya",
         "title": "Computer Teacher (Guest Faculty PGT)",
         "qualification": "M.Sc.(Computer Science/IT)/MCA with 50% marks and B.Ed with 50% marks or equivalent as per detailed criteria",
