@@ -1,6 +1,38 @@
 [
     {
         "date": "14/07/2026",
+        "board": "CSIR TKDL",
+        "title": "Project Associate-I",
+        "qualification": "Any Masters Degree, B.Tech/ B.E, MCA",
+        "last_date": "23-07-2026",
+        "total_posts": "5",
+        "salary": "Project Associate-I: Rs. 31,000/- + HRA or Rs. 25,000/- + HRA Per Month",
+        "age_limit": "Maximum Age Limit: 35 years || Age Relaxation: SC/ST/PwBD/Women: 5 years; OBC: 3 years as per CSIR/Govt. of India rules.",
+        "application_fee": "Nil",
+        "selection_process": "Written Test || Interview || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.csir.res.in",
+        "official_notification": "https://www.csir.res.in/sites/default/files/2026-07/advertisement-tkdl.pdf"
+    },
+    {
+        "date": "14/07/2026",
+        "board": "Delhi University South Campus",
+        "title": "Junior Research Fellow",
+        "qualification": "M.Sc. in Electronics/Physics (with specialization in Electronics) or M.Tech. in VLSI/ Electronics and Communication Engineering/ Microwave Electronics with a minimum of 55% marks or an equivalent CGPA in the Master's degree and valid NET and/or GATE score",
+        "last_date": "18-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.du.ac.in",
+        "official_notification": "https://www.du.ac.in/uploads/06072026-electronics-ANRF_JRF.pdf"
+    },
+    {
+        "date": "14/07/2026",
         "board": "TRAI",
         "title": "Consultant (Artificial Intelligence) / Consultant (Data Privacy & Cyber Security)",
         "qualification": "B.Tech./B.E. in Electronics/Electronics & Telecommunication/Electrical and Electronics/IT/Computer Science or MCA/M.Sc (Computer Science) or equivalent, M.Tech./M.E. in Electronics/Electronics & Telecommunication/IT/Computer Science or equivalent, MBA in Information Technology or Information Systems or equivalent, Certification in AI/ML/DL/Data Science (desirable for AI post), CompTIA Security+, CEH, CISSP, CISM, CISA (desirable for Cyber Security post)",
@@ -234,7 +266,7 @@
         "age_limit": "35 years (as on date of advertisement)",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "http://www.iipa.org.in",
         "official_notification": "https://iipa.org.in/upload/Advertisement_Assistant_Professor.pdf"
@@ -714,7 +746,7 @@
         "age_limit": "Maximum 45 years as on date of interview",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://anh.delhi.gov.in/",
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wanh_37.pdf"
@@ -858,7 +890,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.nipb.res.in/",
         "official_notification": "https://iari.res.in/files/jobs/Junior_Research_fellow_01072026.pdf"
@@ -874,7 +906,7 @@
         "age_limit": "Research Associate-I posts: upper age limit of 40 years || Research Associate-II posts (Finance & Accounts and Cyber Security): upper age limit of 45 years || A 5-year age relaxation is given to candidates having a minimum of 3 years' experience in Examination Institutes || Reservation for PwBD candidates is applicable as per extant Government of India rules || Age, educational qualification, and experience are reckoned as on the date of publication of the advertisement in the Employment Newspaper",
         "application_fee": "The official notification for this Walk-in-Interaction does not specify any application fee for Research Associate posts. Since this is a direct walk-in recruitment process and not an online application, candidates are advised to verify fee-related details, if any, on the official NBEMS website before attending the interaction.",
         "selection_process": "Selection for NBEMS Research Associate posts is made purely through a Walk-in-Interaction, with no separate online application stage. The process includes: || Document verification of age, qualification, category, and experience certificates on the day of the Walk-in-Interaction || Screening and interaction conducted by an Interaction Panel, at the panel's discretion || NBEMS reserves the right to hold a written examination or fix its own additional criteria for shortlisting candidates || Candidates found ineligible at any stage will have their candidature cancelled || The decision of NBEMS in all matters relating to eligibility, scrutiny, and selection is final and binding on candidates.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://natboard.edu.in/viewNotice.php?NBE=VHEvRzl5RC95V0JkYVloY01KMFBhZz09"
@@ -1178,7 +1210,7 @@
         "age_limit": "Programme",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://ncert.nic.in/",
         "official_notification": "https://ncert.nic.in/pdf/announcement/vacancies/projectstaffvacancy/SRA_dcsd_jpf_2080.pdf"
@@ -1338,7 +1370,7 @@
         "age_limit": "Male: 35 years Female: 40 years (as per ICAR guidelines)",
         "application_fee": "Not Available",
         "selection_process": "Selection will be done through Walk-in Interview. Only candidates with essential qualifications will be considered. Final selection is subject to verification of original documents and performance in the interview.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.nipb.res.in/",
         "official_notification": "https://iari.res.in/files/jobs/Junior_Research_fellow_01072026.pdf"
@@ -1354,7 +1386,7 @@
         "age_limit": "Upper age limit is 50 years",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "http://www.nipb.res.in/",
         "official_notification": "https://iari.res.in/files/jobs/Project_Assistant-I_01072026.pdf"
@@ -2042,7 +2074,7 @@
         "age_limit": "As per recruitment rules",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://www.dpl.gov.in",
         "official_notification": "https://img2.freejobalert.com/news/2026/06/54861-6a3e0ed51ab3873890712.pdf"
@@ -2346,7 +2378,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3d51b416788b6ee70eb0c381c06efc9f1/uploads/2026/06/20260602123384032.pdf"
