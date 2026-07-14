@@ -1,6 +1,54 @@
 [
     {
         "date": "14/07/2026",
+        "board": "Hansraj College Delhi University",
+        "title": "Guest Faculty",
+        "qualification": "Qualifications as prescribed for regular Assistant Professor under UGC regulations, Minimum API Score 55 marks for shortlisting",
+        "last_date": "15-07-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.hansrajcollege.ac.in/",
+        "official_notification": "https://www.du.ac.in/uploads/2026/14072026-Walk-In%20Notice-%20Department%20of%20Computer%20Science.pdf"
+    },
+    {
+        "date": "14/07/2026",
+        "board": "CERT-In",
+        "title": "Scientist-'B' (Group-'A')",
+        "qualification": "Valid GATE score (2024/2025/2026) + prescribed educational qualification",
+        "last_date": "17-08-2026",
+        "total_posts": "133",
+        "salary": "The post of Scientist-'B' carries Level 10 of the 7th Central Pay Commission (7th CPC) , with a pay scale of Rs. 56,100 to Rs. 1,77,500 . Details of allowances (DA, HRA, TA) are not specified in the notification.",
+        "age_limit": "Age is calculated as completed years on the cut-off date (17.08.2026). Additional age relaxation of 5 years applies to candidates serving in Government Organizations in the same or allied cadre where prior service would be useful for the advertised post. Age relaxation for PwBD candidates applies irrespective of whether the post is reserved for them, provided the post is identified as suitable.",
+        "application_fee": "The application fee is Nil for all categories - no fee payment is required for this recruitment.",
+        "selection_process": "GATE Score Shortlisting:Candidates are shortlisted for interview in the ratio of 1:5 (discipline-wise and category-wise), based on GATE score merit. All candidates with a tied score at the cut-off rank are shortlisted. || Document Verification:Conducted before the interaction/interview. Candidates who fail to appear with original documents are not eligible for further stages. || Personal Interaction/Interview:Maximum 50 marks, assessed on Technical (Academic) knowledge, Presentation/Communication Skill/Comprehension, and Academic performance (0.05 mark per percentage in the qualifying degree).",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cert-in.org.in/",
+        "official_notification": "https://www.cert-in.org.in/PDF/SCB_Advt.pdf"
+    },
+    {
+        "date": "14/07/2026",
+        "board": "NII",
+        "title": "Junior Research Fellow (Project)",
+        "qualification": "M.Sc in any branch of Life Sciences with NET or equivalent degree as per DST guidelines",
+        "last_date": "20-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- per month plus 27% HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nii.res.in",
+        "official_notification": "https://www.nii.res.in/sites/default/files/announcement/events/GTPase%20%28WIN%29%20July%2026%20.pdf"
+    },
+    {
+        "date": "14/07/2026",
         "board": "CSIR TKDL",
         "title": "Project Associate-I",
         "qualification": "Any Masters Degree, B.Tech/ B.E, MCA",
@@ -266,7 +314,7 @@
         "age_limit": "35 years (as on date of advertisement)",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.iipa.org.in",
         "official_notification": "https://iipa.org.in/upload/Advertisement_Assistant_Professor.pdf"
@@ -746,7 +794,7 @@
         "age_limit": "Maximum 45 years as on date of interview",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://anh.delhi.gov.in/",
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wanh_37.pdf"
@@ -890,7 +938,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.nipb.res.in/",
         "official_notification": "https://iari.res.in/files/jobs/Junior_Research_fellow_01072026.pdf"
@@ -906,7 +954,7 @@
         "age_limit": "Research Associate-I posts: upper age limit of 40 years || Research Associate-II posts (Finance & Accounts and Cyber Security): upper age limit of 45 years || A 5-year age relaxation is given to candidates having a minimum of 3 years' experience in Examination Institutes || Reservation for PwBD candidates is applicable as per extant Government of India rules || Age, educational qualification, and experience are reckoned as on the date of publication of the advertisement in the Employment Newspaper",
         "application_fee": "The official notification for this Walk-in-Interaction does not specify any application fee for Research Associate posts. Since this is a direct walk-in recruitment process and not an online application, candidates are advised to verify fee-related details, if any, on the official NBEMS website before attending the interaction.",
         "selection_process": "Selection for NBEMS Research Associate posts is made purely through a Walk-in-Interaction, with no separate online application stage. The process includes: || Document verification of age, qualification, category, and experience certificates on the day of the Walk-in-Interaction || Screening and interaction conducted by an Interaction Panel, at the panel's discretion || NBEMS reserves the right to hold a written examination or fix its own additional criteria for shortlisting candidates || Candidates found ineligible at any stage will have their candidature cancelled || The decision of NBEMS in all matters relating to eligibility, scrutiny, and selection is final and binding on candidates.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://natboard.edu.in/viewNotice.php?NBE=VHEvRzl5RC95V0JkYVloY01KMFBhZz09"
@@ -1210,7 +1258,7 @@
         "age_limit": "Programme",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://ncert.nic.in/",
         "official_notification": "https://ncert.nic.in/pdf/announcement/vacancies/projectstaffvacancy/SRA_dcsd_jpf_2080.pdf"
@@ -1370,7 +1418,7 @@
         "age_limit": "Male: 35 years Female: 40 years (as per ICAR guidelines)",
         "application_fee": "Not Available",
         "selection_process": "Selection will be done through Walk-in Interview. Only candidates with essential qualifications will be considered. Final selection is subject to verification of original documents and performance in the interview.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.nipb.res.in/",
         "official_notification": "https://iari.res.in/files/jobs/Junior_Research_fellow_01072026.pdf"
@@ -1386,7 +1434,7 @@
         "age_limit": "Upper age limit is 50 years",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.nipb.res.in/",
         "official_notification": "https://iari.res.in/files/jobs/Project_Assistant-I_01072026.pdf"
@@ -1821,7 +1869,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "Not Available"
+        "official_notification": "kea-vao-recruitment-2026-apply-online-for-572-posts-3057860"
     },
     {
         "date": "01/07/2026",
@@ -2074,7 +2122,7 @@
         "age_limit": "As per recruitment rules",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.dpl.gov.in",
         "official_notification": "https://img2.freejobalert.com/news/2026/06/54861-6a3e0ed51ab3873890712.pdf"
@@ -2378,7 +2426,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3d51b416788b6ee70eb0c381c06efc9f1/uploads/2026/06/20260602123384032.pdf"

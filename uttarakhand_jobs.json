@@ -1,6 +1,38 @@
 [
     {
         "date": "14/07/2026",
+        "board": "WII",
+        "title": "Project Assistant, Field Worker and More – 20 Posts",
+        "qualification": "Administrative Assistant / Scientific Administrative Assistant / Field Worker: Graduation degree in any discipline from a recognized institute/University. || Project Assistant (Science-based projects): Bachelor's Degree in Science (Wildlife Science, Zoology, Ecology, Marine Sciences, Marine Biology, Environmental Sciences, Geoinformatics, Life Sciences, Agricultural or Forestry Sciences). || Project Assistant (Social Science): Bachelor's Degree in any Social Science discipline (Geography, Statistics, Economics, Public Administration, Personnel Management, Environmental Management, Social Work, Anthropology). || Project Associate-I: Four-Year Bachelor's Degree (as per NEP) or Master's Degree in Natural Sciences (Wildlife Science, Zoology, Ecology, Marine Sciences/Biology, Environmental Sciences, Geoinformatics, Life Sciences)/Agricultural/Forestry Sciences, OR Bachelor's degree in Veterinary Science. || Project Associate-II: Four-Year Bachelor's Degree or Master's Degree in Natural Sciences/Agricultural Sciences with 2 years' relevant R&D experience, OR BVSc with 2 years' experience, OR Bachelor's in Engineering/Technology (CS/IT/Remote Sensing/GIS/Data/Electrical/Electronics/AI) with 2 years' experience. || Senior Project Associate: Four-Year Bachelor's Degree with 4 years' R&D experience, OR Master's Degree with 4 years' R&D experience, OR a Doctoral Degree in Wildlife Science/Zoology/Ecology/Life Sciences. || Desirable qualifications (such as prior field experience, GIS software knowledge, publications, or regional preference for candidates from Andaman & Nicobar Islands) differ by project. Refer to the official notification for the exact desirable criteria of each post.",
+        "last_date": "28-07-2026",
+        "total_posts": "20",
+        "salary": "Administrative Assistant / Scientific Administrative Assistant / Field Worker: ₹24,000 + HRA || Project Assistant: ₹27,000 + HRA || Project Associate-I: ₹37,000 + HRA (NET/GATE qualified) or ₹30,000 + HRA (Non-NET/GATE) || Project Associate-II: ₹42,000 + HRA (NET/GATE qualified) or ₹33,000 + HRA (Non-NET/GATE) || Senior Project Associate: ₹57,000 + HRA",
+        "age_limit": "Age relaxation applicable as per Government of India norms: || SC/ST candidates: up to 5 years || OBC candidates: up to 3 years",
+        "application_fee": "Payment can be made via online banking, NEFT/RTGS, UPI, or offline mode (cash/demand draft) in favor of \"RRP Cell Revolving Fund/Director Wildlife Institute of India\", Union Bank of India, WII Branch, Chandrabani, Dehradun. Account No.: 518502010059776, IFSC: UBIN0551856. The payment receipt must be uploaded with the application. The fee is non-refundable, even if the application is rejected or withdrawn.",
+        "selection_process": "Shortlisting for the online interview is based on essential qualification, age limit, percentage of marks, specialization relevance, research experience, and publications. The scoring pattern differs by post category:",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.wii.gov.in/",
+        "official_notification": "https://wiirp.com/application.php"
+    },
+    {
+        "date": "14/07/2026",
+        "board": "IIT Roorkee",
+        "title": "Project Fellow / Research Associate",
+        "qualification": "Ph.D. or M.Tech. in Mechanical/Civil/Hydropower Engineering or related disciplines with specific experience in CFD, design, fabrication, testing of turbines/pumps.",
+        "last_date": "30-07-2026",
+        "total_posts": "4",
+        "salary": "Project Fellow: Rs. 40,000/- to Rs. 1,00,000/- + HRA per month; Research Associate: Rs. 30,000/- to Rs. 75,000/- + HRA per month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/HRE/2026/adv130720263.pdf"
+    },
+    {
+        "date": "14/07/2026",
         "board": "IIT Roorkee",
         "title": "Junior Research Fellow",
         "qualification": "M.Tech. in Chemical Engineering/ Chemical Technology/ Ceramic Engineering/ Production/ Mechanical/ other suitable Engineering/ Master's in Chemistry/ Applied Chemistry/ Engineering Science/ Chemical Science with GATE/ NET score. Knowledge in ceramic membrane formation/ formulation, porous material, mass transfer through porous materials, membrane preparation, membrane process, water treatment, and/or knowledge of separation technology.",
@@ -429,6 +461,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "kea-vao-recruitment-2026-apply-online-for-572-posts-3057860"
     }
 ]

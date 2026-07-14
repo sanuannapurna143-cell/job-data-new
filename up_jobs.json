@@ -1,6 +1,38 @@
 [
     {
         "date": "14/07/2026",
+        "board": "District Programme Office Shahjahanpur",
+        "title": "Anganwadi Karyakartri (Anganwadi Worker)",
+        "qualification": "12TH",
+        "last_date": "03-08-2026",
+        "total_posts": "333",
+        "salary": "Not Available",
+        "age_limit": "Minimum age: 18 years || Maximum age: 35 years || Age will be calculated as on the cut-off date: 1 July 2026. || Date of birth recorded in the High School marksheet/certificate will be considered valid for age calculation.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://upanganwadibharti.in/",
+        "official_notification": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1783933157_ae972eb6.pdf"
+    },
+    {
+        "date": "14/07/2026",
+        "board": "IIT Kanpur",
+        "title": "Project Engineer",
+        "qualification": "M. Tech or B. Tech / MSc / MCA + 3 years relevant experience",
+        "last_date": "30-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 31600 - 78400 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitk.ac.in",
+        "official_notification": "https://iitk.ac.in/doad/project/doaa-pe-09-07-26.html"
+    },
+    {
+        "date": "14/07/2026",
         "board": "IIT Kanpur",
         "title": "Assistant Project Manager",
         "qualification": "Post Graduate (MBA/ MCA/ M.Com./ M.Sc./ M.A./LLM), Graduate (B.Sc./ B.A./ B.Com. BBA/ BCA/ LLB) +3 years of relevant experience",
@@ -46,22 +78,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ivri.nic.in/",
         "official_notification": "https://www.ivri.nic.in/jobs/Walk%20in%20Interview_IVRI_bs.pdf"
-    },
-    {
-        "date": "14/07/2026",
-        "board": "District Programme Office Shahjahanpur",
-        "title": "Anganwadi Karyakartri (Anganwadi Worker)",
-        "qualification": "12TH",
-        "last_date": "03-08-2026",
-        "total_posts": "333",
-        "salary": "Not Available",
-        "age_limit": "Minimum age: 18 years || Maximum age: 35 years || Age will be calculated as on the cut-off date: 1 July 2026. || Date of birth recorded in the High School marksheet/certificate will be considered valid for age calculation.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://upanganwadibharti.in/",
-        "official_notification": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1783933157_ae972eb6.pdf"
     },
     {
         "date": "14/07/2026",
@@ -1277,7 +1293,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "Not Available"
+        "official_notification": "kea-vao-recruitment-2026-apply-online-for-572-posts-3057860"
     },
     {
         "date": "29/06/2026",
