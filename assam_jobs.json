@@ -1,5 +1,37 @@
 [
     {
+        "date": "15/07/2026",
+        "board": "IIT Guwahati",
+        "title": "Attendant (Project Mode)",
+        "qualification": "High School Pass with minimum 1-year experience in Central Govt. / Autonomous bodies under Central Govt. like IITs.",
+        "last_date": "20-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 15000 Per Month || Rs.15000/- + 20% HRA + Medical Facility",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitg.ac.in",
+        "official_notification": "https://www.iitg.ac.in/pdf/f4b18c443ea7a059e03d2b99ef5365d0.pdf"
+    },
+    {
+        "date": "15/07/2026",
+        "board": "NFR",
+        "title": "Act Apprentice (various trades)",
+        "qualification": "The minimum requirement of 50% aggregate marks in Matriculation is not applicable to candidates belonging to SC/ST/PwBD categories. Only completing the ITI course is not sufficient - candidates must be in possession of their ITI pass certificate/NTC/STC as on the date of the notification (14-07-2026).",
+        "last_date": "20-08-2026",
+        "total_posts": "6777",
+        "salary": "Minimum stipend for NTC/STC holders:₹9,600 per month, effective from 11-09-2025, as per G.S.R. 610(E) dated 03-09-2025 issued by the Ministry of Skill Development and Entrepreneurship (RBE No. 116/2025). || Where one or two years' exemption is admissible under the Apprenticeship curriculum:₹10,560/month(2nd year, 10% increase) and₹11,040/month(3rd year, 15% increase). || Stipend rates are subject to revision from time to time as notified by the appropriate authority. || No hostel accommodation is provided; apprentices must make their own arrangements during training.",
+        "age_limit": "Candidates must be not below 15 years and not above 24 years of age as on the closing date of application, i.e., 19-08-2026. || For children of ex-servicemen, the same age relaxation as applicable to their respective community (UR/SC/ST/OBC) will apply.",
+        "application_fee": "Candidates seeking fee exemption as Economically Backward Class (EBC) must have family income of less than ₹50,000/- per annum and must upload a certificate issued on or after 01-04-2026 (Annexure-XVI). If a candidate wishes to modify or correct the online application after submission, a fee of ₹50/- is charged for each occasion; however, registration details cannot be modified.",
+        "selection_process": "Selection is purely merit-based, with no written examination. The merit list for each unit is prepared using thepercentage of marks in Matriculation (minimum 50% aggregate) plus ITI marksin the relevant trade; the final panel is based on the average of the two. || For Medical Laboratory Technician (Pathology) and (Radiology), merit is based on Matriculation marks plus 12th Science (Physics, Chemistry, Biology) marks. || Calculation uses marks obtained inall subjectsof Matriculation/12th, not select subjects, and the average ITI marks across all semesters (or the National Trade Certificate marks). || Merit lists are prepared unit-wise, trade-wise and community-wise, in descending order of percentage, equal to the number of notified slots. || Shortlisted candidates are called forDocument Verification (DV)to the extent of 1.5 times the notified vacancies. || A candidate is considered for only one combination of Unit-Department-Trade based on merit and order of preference; once selected against a higher preference, all lower preferences are automatically cancelled. || In case of a tie in marks, the older candidate (by age) is ranked higher; if date of birth is also the same, the candidate who passed Matriculation earlier is ranked higher.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nfr.indianrailways.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/741258-6a5703adda55244156558.pdf"
+    },
+    {
         "date": "14/07/2026",
         "board": "NERAMAC",
         "title": "Assistant General Manager - Marketing",
@@ -46,22 +78,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iitg.ac.in",
         "official_notification": "https://www.iitg.ac.in/pdf/b7af6be971e3fd5cf00ea4cf3be8f704.pdf"
-    },
-    {
-        "date": "13/07/2026",
-        "board": "IIT Guwahati",
-        "title": "Biodesign Fellow",
-        "qualification": "Graduate/Postgraduate/Ph.D. in Medicine, Engineering, Design, or Allied Healthcare with evidence of innovative products, entrepreneurship, patents, technology transfer, startup experience or SOP submission",
-        "last_date": "14-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 59250 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitg.ac.in/",
-        "official_notification": "https://www.iitg.ac.in/pdf/70e75ff1bccbac4998d0d588ea0a1a8d.pdf"
     },
     {
         "date": "13/07/2026",
@@ -222,22 +238,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.tezu.ernet.in/",
         "official_notification": "https://www.tezu.ernet.in/Admin/Advt_No_12_2026_Contractual_Faculty_BA.pdf"
-    },
-    {
-        "date": "11/07/2026",
-        "board": "IIT Guwahati",
-        "title": "Junior Resarch Fellow",
-        "qualification": "Post Graduate in Physics or Graduate/Post Graduate in Mechanical/ Electrical/ Electronics/ Instrumentation/ Production/ Manufacturing Engineering selected through a process described through National Eligibility Test CSIR UGC NET including lectureship (Assistant Professors) or GATE.",
-        "last_date": "14-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 38250 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on resume || Online Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitg.ac.in",
-        "official_notification": "https://www.iitg.ac.in/pdf/9d8d6c4d6ee76ee2ffb26bb3ee818d69."
     },
     {
         "date": "11/07/2026",
@@ -573,7 +573,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "kea-vao-recruitment-2026-apply-online-for-572-posts-3057860"
+        "official_notification": "Not Available"
     },
     {
         "date": "25/06/2026",

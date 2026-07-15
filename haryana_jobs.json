@@ -1,5 +1,37 @@
 [
     {
+        "date": "15/07/2026",
+        "board": "RCB",
+        "title": "Project Associate II",
+        "qualification": "M.Sc. in life sciences with NET/DBT-JRF/GATE or equivalent, minimum 60% marks, and two years' experience in R&D.",
+        "last_date": "24-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 42,000/- + 27%HRA per month",
+        "age_limit": "Maximum 34 years as on 31.07.2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rcb.res.in",
+        "official_notification": "https://rcb.res.in/files/advertisement-files/advt._no._20_project_2026_hr.pdf"
+    },
+    {
+        "date": "15/07/2026",
+        "board": "ESIC",
+        "title": "Senior Resident",
+        "qualification": "MBBS with MD/MS/DNB or Super-specialty qualification (MCh/DM/DrNB/FNB) as per NMC guidelines",
+        "last_date": "16-07-2026",
+        "total_posts": "39",
+        "salary": "Rs. 148669 Per Month",
+        "age_limit": "Maximum Age Limit: 45 years",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Document Verification || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_recruitment_of_Senior_Residents_Super_Specialty_Departments_on_contract_basis_through_walk_in_interview_dated_16_07_2026_1784001717.pdf"
+    },
+    {
         "date": "14/07/2026",
         "board": "ESIC Faridabad",
         "title": "Embryologist (Scientist Gr-I)",

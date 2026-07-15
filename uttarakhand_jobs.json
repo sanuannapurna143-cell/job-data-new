@@ -1,5 +1,85 @@
 [
     {
+        "date": "15/07/2026",
+        "board": "IIT Roorkee",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.Tech in EE/ECE specialized in Instrumentation / Signal Processing / VLSI / Embedded Systems with valid GATE qualification",
+        "last_date": "20-07-2026",
+        "total_posts": "01",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/EE/2026/adv04072026.pdf"
+    },
+    {
+        "date": "15/07/2026",
+        "board": "IIT Roorkee",
+        "title": "Junior Research Fellow",
+        "qualification": "M.E./M.Tech. in Manufacturing/Production/Materials or allied engineering disciplines (CGPA ≥ 6.0/10.0 or marks ≥ 60%) with GATE qualified",
+        "last_date": "25-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/MI/2026/adv040720263.pdf"
+    },
+    {
+        "date": "15/07/2026",
+        "board": "IIT Roorkee",
+        "title": "Research Associate (RA-I)",
+        "qualification": "Ph.D. in VLSI Circuit Design and related domain.",
+        "last_date": "19-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 58000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/ECE/2026/adv060720266.pdf"
+    },
+    {
+        "date": "15/07/2026",
+        "board": "IIT Roorkee",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.Sc./ MS in Mathematics with valid qualified GATE/NET scorecard",
+        "last_date": "26-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 - 42000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/MA/2026/adv060720262.pdf"
+    },
+    {
+        "date": "15/07/2026",
+        "board": "Board of School Education Uttarakhand",
+        "title": "Uttarakhand Teacher Eligibility Test",
+        "qualification": "Minimum eligibility qualification for appointment as a teacher in primary (Classes I-V) and upper primary (Classes VI-VIII) schools in Uttarakhand",
+        "last_date": "03-08-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Fee must be paid online via Debit Card, Credit Card, Net Banking, or UPI. No other payment mode is accepted. || Fee once submitted is non-refundable under any circumstances. || Fee must be paid by 6 August 2026, 11:59 PM. Applications for which the fee is not paid by this date/time are automatically rejected. || If a candidate's fee gets deducted more than once due to a technical or user error, the candidate is personally responsible and the amount will not be refunded in any case.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ukutet.com/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/74125-6a5703adda55278639333.pdf"
+    },
+    {
         "date": "14/07/2026",
         "board": "WII",
         "title": "Project Assistant, Field Worker and More – 20 Posts",
@@ -445,6 +525,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "kea-vao-recruitment-2026-apply-online-for-572-posts-3057860"
+        "official_notification": "Not Available"
     }
 ]
