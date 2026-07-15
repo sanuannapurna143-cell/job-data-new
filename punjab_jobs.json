@@ -274,18 +274,18 @@
     {
         "date": "06/07/2026",
         "board": "PAU",
-        "title": "Various Teaching/Non-Teaching Posts",
-        "qualification": "Graduate, M.Sc., Ph.D research and related projects are considered. For Group-C and Group-D posts, Punjabi language proficiency is required.",
+        "title": "Teaching/Non-Teaching Posts",
+        "qualification": "Any Graduate, M.Phil/ Ph.D",
         "last_date": "30-07-2026",
-        "total_posts": "Not Mentioned",
-        "salary": "Rs.18,000/- (Level-01) to Rs. 1,44,200/- (Level-14) + S.A. Rs.800/-",
-        "age_limit": "For Sr. No. 7-10: Minimum age 18 years, Maximum age 37 years. || Upper age limit is relaxed up to 45 years for Government employees. || For all other posts, the age is determined as on 1st January of the year of advertisement.",
-        "application_fee": "Refer to the advertisement for specific fees per post",
-        "selection_process": "Scrutiny of application forms || Examination/Prescribed test (where applicable) || Interview (for shortlisted candidates)",
-        "apply_mode": "Online",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
-        "official_website": "https://www.pau.edu",
-        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7438"
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
     },
     {
         "date": "06/07/2026",
@@ -302,22 +302,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ibps.in",
         "official_notification": "https://www.ibps.in/wp-content/uploads/Detailed-Notification_CRP-PO-XVI_Final_V1_30.06.2026.pdf"
-    },
-    {
-        "date": "02/07/2026",
-        "board": "PAU",
-        "title": "Agromet Observer",
-        "qualification": "12TH",
-        "last_date": "15-07-2026",
-        "total_posts": "01",
-        "salary": "Rs. 21,700/- per month (Fixed)",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://pau.edu/",
-        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7431"
     },
     {
         "date": "02/07/2026",
@@ -352,22 +336,6 @@
         "official_notification": "http://erd.punjab.gov.in/fresh_posts.aspx"
     },
     {
-        "date": "22/06/2026",
-        "board": "PAU",
-        "title": "Junior DTP Assistant",
-        "qualification": "Graduate with one year experience in page making software and DTP composing speed of 50 w.p.m. in English and 40 w.p.m in Punjabi. Matriculation with Punjabi as a language.",
-        "last_date": "15-07-2026",
-        "total_posts": "Not mentioned",
-        "salary": "Fixed salary of Rs. 12506/- + 800/- p.m.",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 37 years || Age Relaxation: Up to 45 years for contract/DPL employees.",
-        "application_fee": "Rs.150/-",
-        "selection_process": "Practical test for the post of Jr. DTP Asstt. (on contract basis) will be as under: a. DTP Composing speed of 50 w.p.m. in English 30 marks b. DTP Composing speed of 40 w.p.m. in Punjabi 30 marks c. Questions based on page making softwares, Photoshop, Corel Draw etc. 25 marks d. The minimum qualifying marks for candidates to become eligible shall be 40% of total marks in the practical test irrespective of the category. || 1½ mark for each completed half year of technical experience in relevant field over and above the minimum required experience, if any will be awarded.",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://pau.edu/",
-        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7413"
-    },
-    {
         "date": "18/06/2026",
         "board": "BBMB",
         "title": "Apprentice",
@@ -382,21 +350,5 @@
         "syllabus": "Not Available",
         "official_website": "https://bbmb.gov.in/",
         "official_notification": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/111_1_Apprentice_REPPHTLW_2026-27.pdf"
-    },
-    {
-        "date": "13/06/2026",
-        "board": "AIIMS Bathinda",
-        "title": "Project Technical Support III",
-        "qualification": "Graduate degree with Biotechnology/Biomedical/Life Sciences with 3 years' post-qualification experience (BSc/BTech/BSc MLT), Postgraduate degree with Biotechnology/Microbiology/Biomedical Sciences/Life Sciences (MSc/MTech/MSc MLT)",
-        "last_date": "15-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 30800 Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://aiimsbathinda.edu.in/",
-        "official_notification": "https://aiimsbathinda.edu.in/images/Reqruitment/20260613115452.pdf"
     }
 ]
