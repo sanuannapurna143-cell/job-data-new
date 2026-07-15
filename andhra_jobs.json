@@ -1,6 +1,38 @@
 [
     {
         "date": "15/07/2026",
+        "board": "DME AP",
+        "title": "Senior Residents",
+        "qualification": "DNB in Broad Specialties, granted by a medical institution with an attached hospital or a hospital with 500+ beds, granted by the National Board of Examination - eligible only as per Teachers Eligibility Qualifications in Medical Institutions Regulations, 2022",
+        "last_date": "19-07-2026",
+        "total_posts": "234",
+        "salary": "Not Available",
+        "age_limit": "Age relaxation for reserved categories (SC/ST/BC/EWS/PH, etc.) is not specified in the notification.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://dme.ap.nic.in/",
+        "official_notification": "https://dme.ap.nic.in/WS/Planning/2026/SR_Notification_0226.pdf"
+    },
+    {
+        "date": "15/07/2026",
+        "board": "IIT Tirupati",
+        "title": "Project Assistant",
+        "qualification": "B.Tech in Mechanical/Civil/Chemical/Aerospace Engineering with minimum CGPA/percentage as per category (65% General, 60% OBC/EWS, 55% SC/ST/PwD)",
+        "last_date": "24-07-2026",
+        "total_posts": "01",
+        "salary": "₹27,000 + 10% HRA",
+        "age_limit": "30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iittp.ac.in/",
+        "official_notification": "https://files.iittp.ac.in/pdfs/announcements/2026/AdvtIITTCSRC26-2706.pdf"
+    },
+    {
+        "date": "15/07/2026",
         "board": "SVIMS Tirupati",
         "title": "Pay Scale",
         "qualification": "Any Bachelors Degree, B.Pharma, B.Tech/ B.E, M.Sc, PG Diploma",

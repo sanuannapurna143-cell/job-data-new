@@ -1,6 +1,38 @@
 [
     {
         "date": "15/07/2026",
+        "board": "Barnala District Court",
+        "title": "Worker and Guard",
+        "qualification": "Matriculate with knowledge of Punjabi language for Worker; Middle standard with knowledge of Punjabi language for Guard.",
+        "last_date": "05-08-2026",
+        "total_posts": "2",
+        "salary": "As per minimum wages fixed by the Deputy Commissioner, Barnala.",
+        "age_limit": "Worker: 20-40 years; Guard: 18-35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://barnala.dcourts.gov.in/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec037371364b3d72ac9a3ed8638e6f0b/uploads/2026/07/2026071451.pdf"
+    },
+    {
+        "date": "15/07/2026",
+        "board": "BFUHS",
+        "title": "Medical Officer",
+        "qualification": "MBBS Degree / As per BFUHS Recruitment Rules",
+        "last_date": "05-08-2026",
+        "total_posts": "630",
+        "salary": "Not Available",
+        "age_limit": "As per BFUHS Recruitment Rules",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bfuhs.ac.in/",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "15/07/2026",
         "board": "Panjab University",
         "title": "Guest Faculty",
         "qualification": "As per Panjab University/UGC norms",

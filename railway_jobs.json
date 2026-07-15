@@ -1,6 +1,22 @@
 [
     {
         "date": "15/07/2026",
+        "board": "RRB",
+        "title": "Section Controller",
+        "qualification": "Graduate Degree from a recognized University or its equivalent",
+        "last_date": "14-08-2026",
+        "total_posts": "119",
+        "salary": "The post of Section Controller carries Level 6 of the 7th Central Pay Commission (7th CPC) with an initial basic pay of Rs. 35,400 per month. Detailed break-up of allowances (DA, HRA, TA etc.) is not specified in the notification.",
+        "age_limit": "The general age band is 20 to 33 years. The date of birth limits above already include community age relaxation for SC/ST/OBC-NCL.",
+        "application_fee": "Fee payment must be made online only (net banking, debit/credit card, or UPI) by 16.08.2026 .",
+        "selection_process": "Selection for the post of Section Controller involves the following stages: || Computer Based Test (CBT):Single stage, 120 minutes, 100 questions, with negative marking of 1/3 mark per wrong answer || Computer Based Aptitude Test (CBAT):Shortlisting to the extent of 8 times the vacancies; candidates must secure a minimum T-Score of 42 marks in each test battery to qualify; no negative marking || Document Verification (DV):Shortlisting at 1:1 ratio of vacancies, based on 70% weightage to CBT and 30% weightage to CBAT || Medical Examination:As per Medical Standard A-2",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rrbcdg.gov.in/",
+        "official_notification": "https://rrbranchi.gov.in/upload/files/pdf/03_04_51pm8da0793f1e5d5a782468721df3738234.pdf"
+    },
+    {
+        "date": "15/07/2026",
         "board": "NFR",
         "title": "Act Apprentice (various trades)",
         "qualification": "The minimum requirement of 50% aggregate marks in Matriculation is not applicable to candidates belonging to SC/ST/PwBD categories. Only completing the ITI course is not sufficient - candidates must be in possession of their ITI pass certificate/NTC/STC as on the date of the notification (14-07-2026).",
@@ -30,22 +46,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.bmrc.co.in",
         "official_notification": "https://www.bmrc.co.in:8282/Kannada/uploads/career/kannada//fileuploads/1784022378259$@!!DGM%20(Operation%20Safety).pdf"
-    },
-    {
-        "date": "14/07/2026",
-        "board": "RRB",
-        "title": "Section Controller",
-        "qualification": "Graduate Degree from a recognized University or its equivalent",
-        "last_date": "14-08-2026",
-        "total_posts": "119",
-        "salary": "The post of Section Controller carries Level 6 of the 7th Central Pay Commission (7th CPC) with an initial basic pay of Rs. 35,400 per month. Detailed break-up of allowances (DA, HRA, TA etc.) is not specified in the notification.",
-        "age_limit": "The general age band is 20 to 33 years. The date of birth limits above already include community age relaxation for SC/ST/OBC-NCL.",
-        "application_fee": "Fee payment must be made online only (net banking, debit/credit card, or UPI) by 16.08.2026 .",
-        "selection_process": "Selection for the post of Section Controller involves the following stages: || Computer Based Test (CBT):Single stage, 120 minutes, 100 questions, with negative marking of 1/3 mark per wrong answer || Computer Based Aptitude Test (CBAT):Shortlisting to the extent of 8 times the vacancies; candidates must secure a minimum T-Score of 42 marks in each test battery to qualify; no negative marking || Document Verification (DV):Shortlisting at 1:1 ratio of vacancies, based on 70% weightage to CBT and 30% weightage to CBAT || Medical Examination:As per Medical Standard A-2",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.rrbcdg.gov.in/",
-        "official_notification": "https://rrbranchi.gov.in/upload/files/pdf/03_04_51pm8da0793f1e5d5a782468721df3738234.pdf"
     },
     {
         "date": "11/07/2026",
