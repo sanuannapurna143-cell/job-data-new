@@ -1,6 +1,22 @@
 [
     {
         "date": "15/07/2026",
+        "board": "NBRC",
+        "title": "Research Assistant -I",
+        "qualification": "MSc in life Sciences with first class",
+        "last_date": "09-08-2026",
+        "total_posts": "1",
+        "salary": "₹25,000.00 per month",
+        "age_limit": "Maximum age limit is 30 years.",
+        "application_fee": "₹200 Demand Draft Favour Director, NBRC, Manesar",
+        "selection_process": "Shortlisting of applications || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nbrc.ac.in",
+        "official_notification": "https://www.nbrc.ac.in/newweb/wp-content/uploads/2026/07/Research-Assistant-I-in-Dr-Sahu-lab.pdf"
+    },
+    {
+        "date": "15/07/2026",
         "board": "RCB",
         "title": "Project Associate II",
         "qualification": "M.Sc. in life sciences with NET/DBT-JRF/GATE or equivalent, minimum 60% marks, and two years' experience in R&D.",
