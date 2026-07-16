@@ -1,5 +1,37 @@
 [
     {
+        "date": "16/07/2026",
+        "board": "IOB",
+        "title": "Apprentice under Apprentices Act, 1961",
+        "qualification": "Any Graduate",
+        "last_date": "20-07-2026",
+        "total_posts": "750",
+        "salary": "Selected apprentices will be paid a monthly stipend for the one-year contract period, based on branch category. || For candidates selected under NATS, the Bank's share of the stipend after adjusting the Government subsidy is as follows. || The Government share of Rs. 6,150 will be directly credited to the apprentice's bank account through DBT mode. Apprentices are not eligible for any other allowances or benefits.",
+        "age_limit": "The minimum age is 20 years and the maximum age is 28 years as on the cut-off date of 01.07.2026 for General and EWS category candidates, meaning the date of birth should fall between 01.07.1998 and 01.07.2006, both dates inclusive. Candidates registered under NAPS should be less than 34 years as on the cut-off date, after applicable relaxation. || Age relaxation for SC/ST/OBC candidates is allowed on a cumulative basis with only one of the remaining categories of relaxation. To claim age relaxation, candidates must submit the requisite certificate at the time of personal interaction along with original certificates.",
+        "application_fee": "Application Fee/Intimation Charges (including 18% GST)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iob.bank.in/en/",
+        "official_notification": "https://www.iob.bank.in/documents/d/guest/web-ad-750-vac-2026-27"
+    },
+    {
+        "date": "16/07/2026",
+        "board": "Bank of India",
+        "title": "Credit Officer (GBO Stream)",
+        "qualification": "ADegree(Graduation) in any discipline from recognized University/Institute with 60% marks or equivalent grade (55% for SC/ ST/ OBC/ PWBD) recognized by the Govt. of India or any equivalent qualification recognized as such by the Central Government orCA/CMA-ICWA/CS/CFA",
+        "last_date": "20-07-2026",
+        "total_posts": "779",
+        "salary": "1,02,300 – 2980(4) – 1,14,220 – 3360(2) – 1,20,940",
+        "age_limit": "Age relaxation is applicable as follows: 5 years for SC/ST , 3 years for OBC (Non-creamy layer) , 10 years for Persons with Benchmark Disabilities , and 5 years for Ex-Servicemen and persons affected by the 1984 riots.",
+        "application_fee": "Candidates applying for the BOI Credit Officer Recruitment Apply Online 2026 must pay the application fee online between 30 June and 20 July 2026. The fee differs by category as shown below. || Payment can be made using Debit/Credit Cards, Internet Banking, UPI, or Mobile Wallets. Bank transaction charges, if any, will be borne by the candidate.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bankofindia.co.in/",
+        "official_notification": "https://bankofindia.bank.in/documents/20121/28761619/Webnotice_2026_27_01-Notice%20(1).pdf/"
+    },
+    {
         "date": "15/07/2026",
         "board": "Surendranagar District Co-Operative Bank",
         "title": "IT-Junior Officer",
@@ -10,7 +42,7 @@
         "age_limit": "The maximum age limit is 35 years, calculated from the date of the advertisement. No relaxation details are specified in the official notification.",
         "application_fee": "Candidates must submit a Demand Draft of ₹300/- drawn in favor of \"The Surendranagar District Co-Operative Bank Ltd.\" along with the application form.",
         "selection_process": "The selection process (such as written exam, interview, or document verification stages) is not specified in the official notification. The notification only states that the final decision on approving or rejecting any candidate's eligibility rests with the bank.",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://sdc.bank.in/",
         "official_notification": "https://sdc.bank.in//pdf/13-Jul-2026/it_officer_advertisement.pdf"
@@ -112,22 +144,6 @@
         "official_notification": "https://www.sidbi.in/head/uploads/career_document/WEBAD-09-07-2026.pdf"
     },
     {
-        "date": "07/07/2026",
-        "board": "IOB",
-        "title": "Apprentice under Apprentices Act, 1961",
-        "qualification": "Any Graduate",
-        "last_date": "20-07-2026",
-        "total_posts": "750",
-        "salary": "Selected apprentices will be paid a monthly stipend for the one-year contract period, based on branch category. || For candidates selected under NATS, the Bank's share of the stipend after adjusting the Government subsidy is as follows. || The Government share of Rs. 6,150 will be directly credited to the apprentice's bank account through DBT mode. Apprentices are not eligible for any other allowances or benefits.",
-        "age_limit": "The minimum age is 20 years and the maximum age is 28 years as on the cut-off date of 01.07.2026 for General and EWS category candidates, meaning the date of birth should fall between 01.07.1998 and 01.07.2006, both dates inclusive. Candidates registered under NAPS should be less than 34 years as on the cut-off date, after applicable relaxation. || Age relaxation for SC/ST/OBC candidates is allowed on a cumulative basis with only one of the remaining categories of relaxation. To claim age relaxation, candidates must submit the requisite certificate at the time of personal interaction along with original certificates.",
-        "application_fee": "Application Fee/Intimation Charges (including 18% GST)",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iob.bank.in/en/",
-        "official_notification": "https://www.iob.bank.in/documents/d/guest/web-ad-750-vac-2026-27"
-    },
-    {
         "date": "06/07/2026",
         "board": "TMB",
         "title": "Senior Relationship Manager & Data Scientist",
@@ -158,22 +174,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ibps.in/",
         "official_notification": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
-    },
-    {
-        "date": "06/07/2026",
-        "board": "Bank of India",
-        "title": "Credit Officer (GBO Stream)",
-        "qualification": "ADegree(Graduation) in any discipline from recognized University/Institute with 60% marks or equivalent grade (55% for SC/ ST/ OBC/ PWBD) recognized by the Govt. of India or any equivalent qualification recognized as such by the Central Government orCA/CMA-ICWA/CS/CFA",
-        "last_date": "20-07-2026",
-        "total_posts": "779",
-        "salary": "1,02,300 – 2980(4) – 1,14,220 – 3360(2) – 1,20,940",
-        "age_limit": "Age relaxation is applicable as follows: 5 years for SC/ST , 3 years for OBC (Non-creamy layer) , 10 years for Persons with Benchmark Disabilities , and 5 years for Ex-Servicemen and persons affected by the 1984 riots.",
-        "application_fee": "Candidates applying for the BOI Credit Officer Recruitment Apply Online 2026 must pay the application fee online between 30 June and 20 July 2026. The fee differs by category as shown below. || Payment can be made using Debit/Credit Cards, Internet Banking, UPI, or Mobile Wallets. Bank transaction charges, if any, will be borne by the candidate.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bankofindia.co.in/",
-        "official_notification": "https://bankofindia.bank.in/documents/20121/28761619/Webnotice_2026_27_01-Notice%20(1).pdf/"
     },
     {
         "date": "06/07/2026",

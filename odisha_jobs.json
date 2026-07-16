@@ -1,6 +1,38 @@
 [
     {
         "date": "16/07/2026",
+        "board": "RRB",
+        "title": "Technician – 6557 Posts",
+        "qualification": "For Technician Grade-I Signal, candidates need a Bachelor of Science in Physics/Electronics/Computer Science/Information Technology/Instrumentation, a three-year diploma in Engineering, or a Degree in Engineering in these streams. For most Technician Grade-III posts, candidates need Matriculation /SSLC plus ITI from NCVT/SCVT or Matriculation/SSLC plus Course Completed Act Apprenticeship in the relevant trade (such as Fitter, Welder, Electrician, Machinist, Carpenter, or Blacksmith, depending on the post applied for).",
+        "last_date": "29-07-2026",
+        "total_posts": "6557",
+        "salary": "Candidates curious about RRB Technician in-hand salary should note that pay depends on the post and pay level assigned. Technician Grade-I Signal carries a higher starting pay than Technician Grade-III posts, as shown below. || Selected candidates will undergo training wherever prescribed, during which only a stipend is paid rather than full pay.",
+        "age_limit": "Candidates from reserved categories get standard relaxation in the upper age limit: 5 years for SC/ST , 3 years for OBC-NCL , and additional relaxation for PwBD candidates (10 years for UR/EWS, 13 years for OBC-NCL, 15 years for SC/ST). Ex-servicemen get age relaxation equal to their length of service plus 3 years (UR/EWS), 6 years (OBC-NCL), or 8 years (SC/ST) after deducting service length from their actual age.",
+        "application_fee": "The application fee for RRB Technician CEN 02/2026 differs by candidate category and is partially refundable for those who appear in the CBT. General category candidates pay more than reserved categories, with both fee structures eligible for partial refund upon attending the exam. || Fee payment is accepted only through online mode - internet banking, debit/credit cards, or UPI. Applications submitted without the prescribed fee will be summarily rejected, so candidates must pay the fee before 31 July 2026.",
+        "selection_process": "Candidates often ask how RRB selects Technicians, and the answer is a three-stage process based purely on merit. The recruitment involves a Computer Based Test (CBT), Document Verification (DV), and a Medical Examination, with shortlisting at each stage determined by performance in the previous one. || Computer Based Test (CBT):A single CBT of 90 minutes with 100 questions and negative marking of 1/3rd mark per wrong answer. Minimum qualifying marks are 40% (UR/EWS), 30% (OBC-NCL/SC), and 25% (ST). || Document Verification (DV):Candidates are shortlisted at a 1:1 ratio against vacancies based on CBT merit, RRB-wise. Original documents must be produced; no extra time is given for missing certificates. || Medical Examination (ME):Conducted by Railway Medical Authorities as per the medical standard (A3, B1, B2, or C1) prescribed for the specific post. || Based on typical RRB recruitment cycles, CBT is expected a few months after the application closes, followed by DV and medical examination in subsequent phases - though exact dates will be announced on official RRB websites.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rrbcdg.gov.in/",
+        "official_notification": "https://www.rrbthiruvananthapuram.gov.in/assets/pdf/Detailed_CEN_02_2026.pdf"
+    },
+    {
+        "date": "16/07/2026",
+        "board": "AIIMS Bhubaneswar",
+        "title": "Project Technical Support-III",
+        "qualification": "Three years degree in Life Sciences + Three years post qualification experience OR PG in Life Sciences /Public health",
+        "last_date": "23-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 28000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsbhubaneswar.nic.in/",
+        "official_notification": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/07/ped.pdf"
+    },
+    {
+        "date": "16/07/2026",
         "board": "NIT Rourkela",
         "title": "Research Associate (RA)",
         "qualification": "B.Tech. with M.Tech. in Food Process Engineering / Food Technology or relevant disciplines + Qualified NET/GATE",
@@ -170,7 +202,7 @@
         "age_limit": "SEBC candidates must furnish a \"Non-Creamy Layer\" certificate for the current year.",
         "application_fee": "Candidates must attach a duly signed photocopy of the deposit receipt along with the application form. No other mode of payment for the application fee will be considered.",
         "selection_process": "Selection is based on a written test only , followed by a qualifying skill test.",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ouat.ac.in",
         "official_notification": "https://img2.freejobalert.com/news/2026/07/86418-6a55ba83dbc015432142.pdf"
@@ -442,7 +474,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://cuo.ac.in/",
         "official_notification": "https://www.cuo.ac.in/Recruitment/2026/Odia.pdf"
@@ -576,22 +608,6 @@
         "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=166377"
     },
     {
-        "date": "08/07/2026",
-        "board": "AIIMS Bhubaneswar",
-        "title": "Project Technical Support-III",
-        "qualification": "Three years degree in Life Sciences + Three years post qualification experience OR PG in Life Sciences /Public health",
-        "last_date": "23-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 28000 Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://aiimsbhubaneswar.nic.in/",
-        "official_notification": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/07/ped.pdf"
-    },
-    {
         "date": "07/07/2026",
         "board": "STCL",
         "title": "Dy Manager (Marketing), Associate (Operation)",
@@ -686,22 +702,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ibps.in/",
         "official_notification": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf"
-    },
-    {
-        "date": "06/07/2026",
-        "board": "RRB",
-        "title": "Technician – 6557 Posts",
-        "qualification": "For Technician Grade-I Signal, candidates need a Bachelor of Science in Physics/Electronics/Computer Science/Information Technology/Instrumentation, a three-year diploma in Engineering, or a Degree in Engineering in these streams. For most Technician Grade-III posts, candidates need Matriculation /SSLC plus ITI from NCVT/SCVT or Matriculation/SSLC plus Course Completed Act Apprenticeship in the relevant trade (such as Fitter, Welder, Electrician, Machinist, Carpenter, or Blacksmith, depending on the post applied for).",
-        "last_date": "29-07-2026",
-        "total_posts": "6557",
-        "salary": "Candidates curious about RRB Technician in-hand salary should note that pay depends on the post and pay level assigned. Technician Grade-I Signal carries a higher starting pay than Technician Grade-III posts, as shown below. || Selected candidates will undergo training wherever prescribed, during which only a stipend is paid rather than full pay.",
-        "age_limit": "Candidates from reserved categories get standard relaxation in the upper age limit: 5 years for SC/ST , 3 years for OBC-NCL , and additional relaxation for PwBD candidates (10 years for UR/EWS, 13 years for OBC-NCL, 15 years for SC/ST). Ex-servicemen get age relaxation equal to their length of service plus 3 years (UR/EWS), 6 years (OBC-NCL), or 8 years (SC/ST) after deducting service length from their actual age.",
-        "application_fee": "The application fee for RRB Technician CEN 02/2026 differs by candidate category and is partially refundable for those who appear in the CBT. General category candidates pay more than reserved categories, with both fee structures eligible for partial refund upon attending the exam. || Fee payment is accepted only through online mode - internet banking, debit/credit cards, or UPI. Applications submitted without the prescribed fee will be summarily rejected, so candidates must pay the fee before 31 July 2026.",
-        "selection_process": "Candidates often ask how RRB selects Technicians, and the answer is a three-stage process based purely on merit. The recruitment involves a Computer Based Test (CBT), Document Verification (DV), and a Medical Examination, with shortlisting at each stage determined by performance in the previous one. || Computer Based Test (CBT):A single CBT of 90 minutes with 100 questions and negative marking of 1/3rd mark per wrong answer. Minimum qualifying marks are 40% (UR/EWS), 30% (OBC-NCL/SC), and 25% (ST). || Document Verification (DV):Candidates are shortlisted at a 1:1 ratio against vacancies based on CBT merit, RRB-wise. Original documents must be produced; no extra time is given for missing certificates. || Medical Examination (ME):Conducted by Railway Medical Authorities as per the medical standard (A3, B1, B2, or C1) prescribed for the specific post. || Based on typical RRB recruitment cycles, CBT is expected a few months after the application closes, followed by DV and medical examination in subsequent phases - though exact dates will be announced on official RRB websites.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.rrbcdg.gov.in/",
-        "official_notification": "https://www.rrbthiruvananthapuram.gov.in/assets/pdf/Detailed_CEN_02_2026.pdf"
     },
     {
         "date": "06/07/2026",
@@ -1066,7 +1066,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://kalahandi.odisha.gov.in/sites/default/files/2026-06/2697%20Advertisement.pdf",
         "official_notification": "https://kalahandi.odisha.gov.in/sites/default/files/2026-06/2697%20Advertisement.pdf"

@@ -1,6 +1,38 @@
 [
     {
         "date": "16/07/2026",
+        "board": "DCPU Guntur",
+        "title": "Counsellor, PT Instructor cum Yoga Teacher, Data Entry Operator",
+        "qualification": "Graduate in Social Work / Sociology / Psychology / Public Health / Counselling, PG Diploma in Counselling and Communication, Degree / Diploma Physical Educational Training, 12th pass with Diploma / Certificate in Computers",
+        "last_date": "23-07-2026",
+        "total_posts": "3",
+        "salary": "Please refer to the official notification for salary details.",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 42 years || Age relaxation will be provided as per Government norms.",
+        "application_fee": "Nil",
+        "selection_process": "Merit || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://guntur.ap.gov.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s30777d5c17d4066b82ab86dff8a46af6f/uploads/2026/07/17841004214165.pdf"
+    },
+    {
+        "date": "16/07/2026",
+        "board": "HSL",
+        "title": "Executive Coordinator - Corporate Affairs",
+        "qualification": "Degree in any discipline or Ex-Serviceman not below the rank of Master Chief Petty Officer (MCPO) in the Indian Navy (or equivalent).",
+        "last_date": "30-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 75,000/- Per Month",
+        "age_limit": "Maximum age limit is 56 years as on 16-07-2026",
+        "application_fee": "Rs.300/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.hslvizag.in",
+        "official_notification": "https://hslvizag.in/hsl-cms/media/Detailed%20Advertisement%20-Executive%20Coordinator%20-%20Jul2026.pdf"
+    },
+    {
+        "date": "16/07/2026",
         "board": "ANGRAU",
         "title": "Teaching Associate (Full Time)",
         "qualification": "B.Tech/ B.E, M.Sc, M.Phil/ Ph.D",
@@ -10,7 +42,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://angrau.ac.in/",
         "official_notification": "https://angrau.ac.in/UPLOADS/CareersPDFs/WII_DeptofFDPE_CFT_PVDL.pdf"
@@ -106,7 +138,7 @@
         "age_limit": "The age limit and physical standards prescribed for the Fire Officer post are given below:",
         "application_fee": "Not Available",
         "selection_process": "The selection process for the Fire Officer post, as per the notification, involves the following stages: || Screening of applications and supporting documents by a Certificate Verification Committee. || Only eligible candidates recommended by the Certificate Verification Committee will be considered for the interview. || Candidates recommended for interview will also be required to undergo a Heavy Vehicle driving test. || Note: Mere submission of an application does not confer any right to be called for selection or interview. VPA reserves the right to cancel the notification or increase/decrease the number of posts, and may also devise its own method of selecting candidates.",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://vpt.shipping.gov.in/",
         "official_notification": "https://vpt.shipping.gov.in/admin_assets/uploads/1783687172_Employment_Notification_Dt_972026___Fire_Officer___Contract_Basis.pdf"
