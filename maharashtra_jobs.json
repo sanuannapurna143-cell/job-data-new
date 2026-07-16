@@ -1,6 +1,38 @@
 [
     {
         "date": "16/07/2026",
+        "board": "TIFR",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "MSc. degree (Post Graduate Degree in Basic Sciences or Graduate/ Post Graduate degree in Professional Course and should qualify for at least one National level Eligibility Test such as CSIR-UGC NET including lectureship, GATE, National Level Examination conducted by Central Government Dept. and their Agencies, and institutions such as DST, DBT, DAE, DOS, DRDO, MHRD, ICAR, ICMR, IIT, IISc., IISER, TIFR, etc. Proficiency in analytical and numerical calculations and sound knowledge in coding using Python and C/C++/Fortran.",
+        "last_date": "15-08-2026",
+        "total_posts": "1",
+        "salary": "Junior Research Fellow [JRF]: ₹37,000/- per month +30% HRA (as admissible)",
+        "age_limit": "Junior Research Fellow [JRF]: Below 28 years as on closing date of application.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://www.tifr.res.in",
+        "official_notification": "https://www.tifr.res.in/maincampus/viewNoticeFile.php?f=cFZ6S3lVWUxZd3lVUXpxenhjclpIUT09&s=WFdXaTkwL1ZDTGdxaHp6eHA1bkh1QT09"
+    },
+    {
+        "date": "16/07/2026",
+        "board": "Ordnance Factory Hospital Bhandara",
+        "title": "MBBS Doctor",
+        "qualification": "MBBS Degree from MCI recognized Medical College of India, Registered Medical Practitioner",
+        "last_date": "23-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 75000 Per Month",
+        "age_limit": "Maximum Age Limit: 70 years || Retired doctors can work up to 70 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ddpdoo.gov.in/",
+        "official_notification": "https://ddpdoo.gov.in/storage/document/6a5867cb0f104.pdf"
+    },
+    {
+        "date": "16/07/2026",
         "board": "MGAHV",
         "title": "Professor, Associate Professor, Assistant Professor",
         "qualification": "Master's degree with 55% marks, Ph.D. degree, NET/SLET/SET qualified (exemptions apply). Specific qualifications vary by position.",

@@ -1,6 +1,22 @@
 [
     {
         "date": "16/07/2026",
+        "board": "AIIMS Deoghar",
+        "title": "Nurse",
+        "qualification": "ANM, GNM, BSc Nursing",
+        "last_date": "29-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 16500 Per Month",
+        "age_limit": "Maximum Age Limit: 40 years || Age Relaxation: None",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walkin",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsdeoghar.edu.in/",
+        "official_notification": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/atf_aiimsdeo_01_nurse_revised_14072026045237161.pdf"
+    },
+    {
+        "date": "16/07/2026",
         "board": "Latehar district",
         "title": "Medical Officer (MBBS) and AYUSH Doctor",
         "qualification": "MBBS, Bachelor in Ayurved/ Homoeopath/ Unani with working knowledge of Computer",

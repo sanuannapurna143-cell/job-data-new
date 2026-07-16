@@ -1,6 +1,22 @@
 [
     {
         "date": "16/07/2026",
+        "board": "IIT Indore",
+        "title": "Joint Research Fellow (JRF)",
+        "qualification": "Master's in Computer Science, AI, DH and allied disciplines OR M.Tech./M.S. in CSE, DH or allied subjects with minimum 60% marks or equivalent CGPA and a valid GATE/CSIR-UGC NET.",
+        "last_date": "30-07-2026",
+        "total_posts": "1",
+        "salary": "INR 37000 + HRA",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiti.ac.in/",
+        "official_notification": "https://www.iiti.ac.in/public/storage/recruitments/July2026/3D0qjKtBhrYWyQ6UTQde.pdf"
+    },
+    {
+        "date": "16/07/2026",
         "board": "MANIT Bhopal",
         "title": "Research Associate, Junior Research Fellow and Senior Research Fellow",
         "qualification": "Masters in Electrical Engineering (Power system/Power Electronics or equivalent) or MBA(Energy Management/Economics) or equivalent degree for RA; Masters in Electrical Engineering (Power system/Power Electronics or equivalent) for SRF; B.E. (Electrical, CSE, IOT) for JRF.",
