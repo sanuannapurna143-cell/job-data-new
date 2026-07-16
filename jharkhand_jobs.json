@@ -1,5 +1,21 @@
 [
     {
+        "date": "16/07/2026",
+        "board": "Latehar district",
+        "title": "Medical Officer (MBBS) and AYUSH Doctor",
+        "qualification": "MBBS, Bachelor in Ayurved/ Homoeopath/ Unani with working knowledge of Computer",
+        "last_date": "25-07-2026",
+        "total_posts": "3",
+        "salary": "MBBS: 36400/-(1400*26), Ayush Physician: 20000/-",
+        "age_limit": "MBBS: Maximum 70 years || Ayush Physician: Maximum 60 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walkin",
+        "syllabus": "Not Available",
+        "official_website": "https://latehar.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s3ba2fd310dcaa8781a9a652a31baf3c68/uploads/2026/07/17839221072415.pdf"
+    },
+    {
         "date": "14/07/2026",
         "board": "West Singhbhum District",
         "title": "District Programme Coordinator",
@@ -60,7 +76,7 @@
         "selection_process": "Not Available",
         "apply_mode": "Email",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
+        "official_website": "https://iitism.ac.in/",
         "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1231/drnd_prj_scn_2026-07-08_15-54-25.pdf"
     },
     {
@@ -94,22 +110,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iitism.ac.in/",
         "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1415/Project%20Assistant_2026-07-09_12-05-44.pdf"
-    },
-    {
-        "date": "13/07/2026",
-        "board": "EMRS Khunti",
-        "title": "Guest Teacher",
-        "qualification": "PGT: Integrated Post Graduate Course or Post Graduation with B.Ed. TGT: Graduation with B.Ed. or integrated B.Ed.-M.Ed. or CTET Paper-II qualified.",
-        "last_date": "15-07-2026",
-        "total_posts": "Not Available",
-        "salary": "PGT: Rs. 35,000/- (with qualification) / Rs. 31,000/- (without qualification) || TGT: Rs. 33,000/- (with qualification) / Rs. 29,000/- (without qualification)",
-        "age_limit": "Minimum Age: 21 years || Maximum Age: 60 years || Age Relaxation: Retired Teachers can apply up to 65 years of age, provided they are medically fit.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Panel of Guest Teachers will be prepared on the basis of educational qualifications, teaching experience, and performance in the walk-in interview. || Teachers will be engaged from the panel as per requirement or as per the directions of NESTS, subject to clearing the Pre-Recruitment Medical Examination, document verification, and any other required verification.",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://khunti.nic.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s301f78be6f7cad02658508fe4616098a9/uploads/2026/07/17831653643931.pdf"
     },
     {
         "date": "13/07/2026",
@@ -240,22 +240,6 @@
         "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1710/Project%20JRF_2026-07-02_16-25-24.pdf"
     },
     {
-        "date": "08/07/2026",
-        "board": "District AYUSH Society Garhwa",
-        "title": "District Program Manager",
-        "qualification": "Graduation degree in any discipline including AYUSH and MBA in Healthcare Management/Masters in health/hospital administration/Post Graduation diploma in Hospital & healthcare management (Two years) from AICTE recognized institute, Minimum 1 year working experience in Public health programme",
-        "last_date": "15-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 50000 Per Month",
-        "age_limit": "Min: 21 years, Max: 60 years",
-        "application_fee": "Rs. 1000",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://garhwa.nic.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s310a7cdd970fe135cf4f7bb55c0e3b59f/uploads/2026/06/17821223918701.pdf"
-    },
-    {
         "date": "07/07/2026",
         "board": "IIT ISM Dhanbad",
         "title": "Junior Research Fellow (JRF)",
@@ -290,18 +274,18 @@
     {
         "date": "06/07/2026",
         "board": "Netaji Subhas Chandra Bose Residential School Ramgarh",
-        "title": "Various Teaching and Support Staff – 15 Posts",
-        "qualification": "10TH, 8TH, Any Graduate, B.Com, B.Ed",
+        "title": "Various Teaching and Support Staff",
+        "qualification": "Graduate with 50% marks + B.Ed/JTET for Teachers, B.Com + Computer Course for Accountant, Matric for Support Staff, 8th Pass for Cooks",
         "last_date": "23-07-2026",
         "total_posts": "15",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "salary": "Rs. 5400 - 15840 Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 40 years || Age Relaxation: UR:35, Female:38, BC:37, SC/ST:40, PwBD:10 years relaxation in respective category, Ex-Servicemen:5 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Merit List || Interview || Document Verification",
+        "apply_mode": "Offline",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "www.ramgarh.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3e165421110ba03099a1c0393373c5b43/uploads/2026/07/17833162158087.pdf"
     },
     {
         "date": "06/07/2026",
@@ -322,34 +306,18 @@
     {
         "date": "06/07/2026",
         "board": "District Welfare Office Dumka",
-        "title": "Part-time/Period-based Teachers – 83 Posts",
-        "qualification": "B.Ed",
+        "title": "Part-time/Period-based Teachers (Ghanti Adharit Shikshak) - Primary, Subject and +2 Level Teachers",
+        "qualification": "Postgraduate in the related subject + B.Ed from an NCTE-recognized institution",
         "last_date": "25-07-2026",
         "total_posts": "83",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
-    },
-    {
-        "date": "04/07/2026",
-        "board": "IIT ISM Dhanbad",
-        "title": "ANRF Junior Research Fellow (ANRF JRF)",
-        "qualification": "M.Tech. in Geotechnical Engineering / Earthquake Engineering / Soil Dynamics / Earth Sciences or equivalent + GATE/NET qualified + B.Tech. in Civil Engineering / Earth Sciences",
-        "last_date": "15-07-2026",
-        "total_posts": "01",
-        "salary": "Not Available",
-        "age_limit": "Upper age limit 28 years (relaxation for SC/ST/OBC/PWD/Female as per GoI rules)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
+        "salary": "Selected candidates will be paid Rs. 200 per teaching period (per ghanti), with a maximum of 4 periods per working day and 5 working days per week. No other allowance is admissible, and payment is based on daily teaching attendance.",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 55 years || Age is calculated as on 31-05-2026 || Age Relaxation: Not Announced Yet.",
+        "application_fee": "Not Announced Yet. The official notification does not mention any application fee details.",
+        "selection_process": "Selection will be made purely on a temporary basis by a district-level committee based on merit (मेधाक्रम) among PG/Graduate/B.Ed or teacher-training degree holders. || Preference will be given to candidates of the respective block, local language speakers, and local candidates of the area where the residential school is located. || If eligible candidates are not available at the block level, eligible candidates available at the district level will be selected. || All selections will follow the Jharkhand government's district reservation roster provisions applicable to direct recruitment for district-level posts. || No written examination details are mentioned in the notification.",
         "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "https://www.iitism.ac.in/",
-        "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1732/Project%20JRF_2026-06-29_19-19-01.pdf"
+        "official_website": "https://dumka.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2026/07/17831531962023.pdf"
     },
     {
         "date": "04/07/2026",
@@ -370,18 +338,18 @@
     {
         "date": "03/07/2026",
         "board": "IIT (ISM) Dhanbad",
-        "title": "Assistant Professor  – 30 Posts",
-        "qualification": "M.Phil/ Ph.D",
+        "title": "Assistant Professor (Grade - I/II)",
+        "qualification": "Ph.D. with first class or equivalent at the preceding degree in appropriate branch, with a very good academic record throughout.",
         "last_date": "31-08-2026",
         "total_posts": "30",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "salary": "Assistant Professor Grade-II: Min Basic Pay ₹70900/-. Assistant Professor Grade-I: Min Basic Pay ₹101500/-.",
+        "age_limit": "Assistant Professor (Grade - I/II)Maximum Age: 35 yearsAge Relaxation:OBC: As per normsSC/ST: As per normsPwD: As per norms || Maximum Age: 35 years || Age Relaxation:OBC: As per normsSC/ST: As per normsPwD: As per norms || OBC: As per norms || SC/ST: As per norms || PwD: As per norms",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Shortlisting based on qualifications and experience || Interview",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "https://fr.iitism.ac.in",
+        "official_notification": "https://www.iitism.ac.in/storage/CareerDocument/Career_1782835923.pdf"
     },
     {
         "date": "03/07/2026",
@@ -417,22 +385,6 @@
     },
     {
         "date": "30/06/2026",
-        "board": "IIT (ISM) Dhanbad",
-        "title": "JRF",
-        "qualification": "M.E./M.Tech in Petroleum Engineering/Chemical Engineering/M. Sc. In Chemistry with more than 60% marks or equivalent CGPA/OGPA and GATE/NET qualified",
-        "last_date": "15-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 37000/- + Applicable HRA per month for first two years and Rs. 42000/- + Applicable HRA per month thereafter.",
-        "age_limit": "Maximum Age Limit: 28 years. || Age Relaxation: SC/ST/OBC (Non-Creamy layer)/ Female candidates as per GOI/DST rules.",
-        "application_fee": "Nil",
-        "selection_process": "Online Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitism.ac.in",
-        "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/900/Project%20JRF_2026-06-29_13-34-11.pdf"
-    },
-    {
-        "date": "30/06/2026",
         "board": "SAIL",
         "title": "Consultant (Specialists & GDMO)",
         "qualification": "Any Post Graduate, MBBS, Diploma, PG Diploma",
@@ -464,36 +416,20 @@
         "official_notification": "https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2026/06/17821980555098.pdf"
     },
     {
-        "date": "27/06/2026",
-        "board": "NABARD",
-        "title": "Bank's Medical Officer (BMO)",
-        "qualification": "MBBS degree in allopathic system of medicine recognized by Medical Council of India, Post graduate degree in General medicine, Minimum 2 years experience in any hospital or clinic as Medical Practitioner",
-        "last_date": "15-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 1000 - 1200 Per Hour",
-        "age_limit": "Max: 70 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nabard.org/",
-        "official_notification": "https://www.nabard.org/auth/writereaddata/CareerNotices/1989015453Advertisement_BMO.pdf?csrt=9666370463396366995"
-    },
-    {
         "date": "25/06/2026",
         "board": "DHS Lohardaga",
-        "title": "Accountant, Staff Nurse and More – 61 Posts",
-        "qualification": "Any Bachelors Degree, B.Com, Diploma, ITI, Any Post Graduate, ANM",
+        "title": "Programme",
+        "qualification": "Graduation from recognized university + 1-year Diploma in Computer Application or PG Diploma / DOEACC 'O' level or Bachelor in Computer Application/B.Sc. (IT) + minimum 2 years post-qualification experience + typing speed 40 WPM (English)",
         "last_date": "24-07-2026",
         "total_posts": "61",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "salary": "₹12,263/-",
+        "age_limit": "The minimum age for all posts is 21 years . Maximum age limits vary by category, calculated as of 31 May 2026 . || Ex-servicemen receive an additional 5-year age relaxation over the prescribed maximum limit for their respective category.",
+        "application_fee": "The application fee must be submitted as a Demand Draft drawn in favour of District Health Society, Lohardaga , payable at Lohardaga. Candidates applying for multiple posts must submit separate applications and separate fees for each post. The fee is non-refundable under all circumstances.",
+        "selection_process": "Written Examination (60 marks):Objective, multiple-choice questions; duration of 1 hour. || Academic/Training Score (40 marks):Marks are awarded based on percentage obtained in qualifying examinations as per the prescribed scoring formula. || Skill Test (if applicable):For select posts, a skill test may be conducted, which is qualifying in nature only and does not contribute to the merit score. || Document Verification:Shortlisted candidates must present original certificates at the time of verification. || Final Merit List:Prepared by the District Selection Committee, Lohardaga, and published on the official district website and notice boards. || The merit list will remain valid for one year from the date of publication. The written test will be held separately for vacancies under different programmes.",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "https://lohardaga.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2026/06/17822876202758.pdf"
     },
     {
         "date": "16/06/2026",
@@ -510,21 +446,5 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "Not Available"
-    },
-    {
-        "date": "03/06/2026",
-        "board": "AIIMS Deoghar",
-        "title": "Contractual Manpower Positions",
-        "qualification": "Master's degree in Health Economics, Economics, Public Health, or Community Medicine, MD/MS/DNB/MPH after MBBS, Ph.D. in Microbiology, Biochemistry, Biotechnology or related field, Bachelor's Degree with 3 years experience in Government Department, Graduate in Science/relevant subject with 3 years work experience, Master's degree in relevant subject or Pharm D",
-        "last_date": "15-07-2026",
-        "total_posts": "6",
-        "salary": "Health Economist (Level of Scientist C): ₹67,000/- + HRA || Scientist D (Medical/Non-Medical) / Senior Research Officer: ₹78,000/- + HRA || Scientist C (Medical/Non-Medical) / Research Officer: ₹67,000/- + HRA || Administrative Officer: ₹40,000/- || Field Officer: ₹25,000/- – ₹30,000/- || Field Investigator: ₹30,000/- – ₹32,000/-",
-        "age_limit": "Maximum Age Limit: 50 years for all posts. || Age Relaxation: As per GOI norms for SC/ST/OBC; relaxable up to 5 years for Government servants and SC/ST/OBC for Administrative Officer.",
-        "application_fee": "Not Available",
-        "selection_process": "Written Test || Skill Test || Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiimsdeoghar.edu.in",
-        "official_notification": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/recruitment_notificationhtainaiimsdeoghar_june_2026_02062026081034121.pdf"
     }
 ]

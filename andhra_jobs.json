@@ -129,22 +129,6 @@
     },
     {
         "date": "13/07/2026",
-        "board": "DCHS Krishna",
-        "title": "GDA/MNO/FNO and Office Subordinate",
-        "qualification": "SSC/10th class or its equivalent from a recognized Board",
-        "last_date": "15-07-2026",
-        "total_posts": "3",
-        "salary": "Rs. 15000 Per Month",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 42 years || Age Relaxation: SC/ST/BC&EWS: 5 years, Physically handicapped persons: 10 years, Ex-servicemen: deduct 3 years in addition to service rendered.",
-        "application_fee": "Rs.500/-",
-        "selection_process": "Aggregate marks in qualifying examination (75 marks) || Weightage for government service experience || Weightage for years since passing qualifying examination",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://krishna.ap.gov.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s3c399862d3b9d6b76c8436e924a68c45b/uploads/2026/07/17835908628862.pdf"
-    },
-    {
-        "date": "13/07/2026",
         "board": "DCHS Prakasam",
         "title": "Record Assistant/MRA, Theatre Assistants, Office Subordinate, Post Mortem Asst., General Duty Attendants",
         "qualification": "SSC/10th or equivalent from a recognized Board",
@@ -158,22 +142,6 @@
         "syllabus": "Not Available",
         "official_website": "https://Prakasam.ap.gov.in",
         "official_notification": "https://cdn.s3waas.gov.in/s3f3f27a324736617f20abbf2ffd806f6d/uploads/2026/07/17835076878321.pdf"
-    },
-    {
-        "date": "13/07/2026",
-        "board": "WDCW Kurnool",
-        "title": "Ayah",
-        "qualification": "Experience of taking care of infants and children below 6 years",
-        "last_date": "15-07-2026",
-        "total_posts": "2",
-        "salary": "Rs. 7944 Per Month",
-        "age_limit": "Minimum Age: 25 years || Maximum Age: 42 years || Age Relaxation: 5 years for SC, ST, BC and PWD candidates",
-        "application_fee": "Nil",
-        "selection_process": "Document Verification",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://kurnool.ap.gov.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s37f24d240521d99071c93af3917215ef7/uploads/2026/07/17835796871633.pdf"
     },
     {
         "date": "13/07/2026",
@@ -382,21 +350,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.shar.gov.in",
         "official_notification": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/June/Research_Associate_advt_2026_Final_24062026.pdf"
-    },
-    {
-        "date": "05/06/2026",
-        "board": "AIIMS Mangalagiri",
-        "title": "Senior Resident/Senior Demonstrator",
-        "qualification": "MDS in Oral and Maxillofacial Surgery, MDS in Pedodontics & Preventive Dentistry, MDS in Conservative Dentistry & Endodontics",
-        "last_date": "15-07-2026",
-        "total_posts": "3",
-        "salary": "Rs. 67700 Per Month",
-        "age_limit": "Maximum Age Limit: 45 years || Age Relaxation: SC/ST: 5 years; OBC: 3 years; PwBD: 10 years (General), 13 years (OBC), 15 years (SC/ST)",
-        "application_fee": "Rs. 1500/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiimsmangalagiri.edu.in",
-        "official_notification": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/06/Advertisement-for-recruitment-of-Senior-Residents-Senior-Demonstrators-in-the-department-of-Dentistry-at-AIIMS-Mangalagiri-June-2026.pdf"
     }
 ]
