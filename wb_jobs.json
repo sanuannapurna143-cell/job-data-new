@@ -1,6 +1,38 @@
 [
     {
         "date": "17/07/2026",
+        "board": "CNCI",
+        "title": "Security Guard",
+        "qualification": "Other",
+        "last_date": "28-07-2026",
+        "total_posts": "10",
+        "salary": "Selected candidates will be paid salary as per the Central Minimum Wage, through the outsourcing agency (M/s. Smart Security of India). The notification also states that PF, ESIC, and other statutory benefits will be paid as applicable. The exact salary figure/pay scale is not mentioned in the notification.",
+        "age_limit": "Maximum Age Limit: 55 years || Age Relaxation: Relaxation of age equivalent to the number of years of experience will be given to candidates having higher experience, after meeting the essential eligibility criteria. || The notification does not specify a minimum age limit; only the maximum age limit of 55 years is mentioned.",
+        "application_fee": "Not Available",
+        "selection_process": "The notification states that: || All recruitment will be done on the recommendation of a duly constituted Screening Committee and Selection Committee. || The Director, CNCI is the Competent Authority to finalize the engagement of the applicant. || The decision of the Competent Authority in all matters of screening, shortlisting, and selection is final and binding. || The notification does not specify whether there will be a written test, physical efficiency test, or interview. These details are not available in the official document.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://cnci.ac.in/",
+        "official_notification": "https://cnci.ac.in/backend/public/uploads/2026/07/17/Advt.%20SmartSecurity-CNCI.pdf"
+    },
+    {
+        "date": "17/07/2026",
+        "board": "BARC",
+        "title": "Scientific Assistant/C (Psychologist), Scientific Assistant/B (Pathology), Scientific Assistant/B (Radiography), Scientific Assistant/B (Nuclear Medicine Technologist)",
+        "qualification": "Graduation in Psychology with minimum 60% marks, PLUS Post Graduation in Applied Psychology/Psychology with specialization in Clinical Psychology or Counselling Psychology with minimum 50% marks. Minimum one year Hospital/Clinical experience after acquiring the postgraduate degree will be given preference.",
+        "last_date": "18-08-2026",
+        "total_posts": "06",
+        "salary": "In addition to entry pay, allowances will be admissible under Central Government Rules. Additional benefits include an exciting working environment, promotions under DAE's Merit Promotion Scheme, healthcare for self and family members, attractive performance-related incentives, professional update allowance, Leave Travel Concession, Children Education Allowance, and Departmental Accommodation as per Government of India Orders. Selected candidates will be governed by the National Pension System (NPS) or Unified Pension Scheme (UPS) as per Government orders.",
+        "age_limit": "Age is calculated as on the closing date, 18.08.2026. Only the Date of Birth indicated in the School Leaving Certificate or equivalent certificate will be accepted; no subsequent request for change will be granted. || Upper age relaxation is admissible as follows: || Departmental candidates with at least 3 years of continuous and regular service in the same line or allied cadre as on the last date of receipt of application, as per Government of India Orders. || 5 years' relaxation for children/family members of those who died in the 1984 Riots. || Widows, divorced women, and women judicially separated from their husbands and not re-married, as per Government of India Orders. || Meritorious sportspersons, as per Government of India Orders. || The notification does not specify separate age relaxation figures for SC/ST/OBC/PwBD categories; candidates claiming any age relaxation must produce documentary proof.",
+        "application_fee": "Mode of payment is online only, through the \"Make Payment\" option under the \"My Account\" menu after the application number is generated. || Fee not paid on or before the closing date (18.08.2026) will make the application incomplete, and it will be rejected. || Fee once paid will not be refunded under any circumstances and cannot be held in reserve for any other recruitment. || If applying for more than one post, application and fee must be submitted separately for each post.",
+        "selection_process": "Selection for all four posts (DR/01 to DR/04) will be based on performance in a personal interview. If the number of applications received is high, BARC reserves the right to restrict the number of candidates called for interview by conducting a screening test in the respective discipline. The decision of the Centre in this regard will be final and binding.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://recruit.barc.gov.in/",
+        "official_notification": "https://recruit.barc.gov.in/barcrecruit/appmanager/UserApps/getDocument?action=docfile&pid=998"
+    },
+    {
+        "date": "17/07/2026",
         "board": "ICAR IARI",
         "title": "Project Assistant",
         "qualification": "10th pass, Graduation in any stream",

@@ -1,5 +1,37 @@
 [
     {
+        "date": "17/07/2026",
+        "board": "NIT Jamshedpur",
+        "title": "Adhoc Faculty",
+        "qualification": "Doctorate in relevant discipline with first class (60% marks or GPA 6.5/10) at both Bachelor's and Master's level.",
+        "last_date": "22-07-2026",
+        "total_posts": "2",
+        "salary": "Rs.70000/-Per month (Consolidated)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitjsr.ac.in",
+        "official_notification": "https://nitjsr.ac.in/backend/uploads/recruitments/cfe727cd-fe1a-4931-b149-7f3fb6a18765-Advt..pdf"
+    },
+    {
+        "date": "17/07/2026",
+        "board": "NIT Jamshedpur",
+        "title": "Temporary Faculty",
+        "qualification": "Master Degree or Doctorate in relevant discipline with first class (60% marks or GPA 6.5/10) at both Bachelor's and Master's level.",
+        "last_date": "20-07-2026",
+        "total_posts": "4",
+        "salary": "Rs. 50000 - 70000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitjsr.ac.in/",
+        "official_notification": "https://nitjsr.ac.in/backend/uploads/recruitments/224e282a-31bf-41ab-8ada-ffe1714438c7-Recruitment%20of%20Temporary%20Faculty%20in%20the%20Department%20of%20Computer%20Science%20&%20Engineering%20%281%29.pdf"
+    },
+    {
         "date": "16/07/2026",
         "board": "IIT ISM Dhanbad",
         "title": "Project Associate-II",

@@ -1,6 +1,22 @@
 [
     {
         "date": "17/07/2026",
+        "board": "FDDI",
+        "title": "Post Code",
+        "qualification": "The notification clarifies that the minimum qualification mentioned should be from a recognized University/Institution.",
+        "last_date": "16-08-2026",
+        "total_posts": "1",
+        "salary": "The notification mentions the compensation as \"Minimum Monthly CTI\" (Cost to Institute), not a traditional pay-scale/ pay-matrix. || As per the notification, the monthly CTI includes: || Basic Pay || House Rent Allowance (HRA) || Special Allowance || Provident Fund || Leave Encashment benefit || Leave Travel Concession (LTC) || Reimbursement of mobile phone expenses || Reimbursement of medical expenditure || Gratuity",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "The notification states that recruitment will be done through written test/interview . It further clarifies: || Merely meeting the job requirements does not entitle a candidate to be called for an interview. || FDDI reserves the right to reject any application without assigning a reason. || FDDI may increase or decrease the number of posts based on requirement. || FDDI may raise the standard of specifications to limit the number of candidates called for the written test/interview. || The decision of Management regarding selection will be final. || No Transport Allowance or Daily Allowance will be paid for attending the interview. || Only shortlisted candidates will be intimated about the interview through email or post. || Specific details such as the written test syllabus, exam pattern, or interview date are not mentioned in the official notification.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://fddiindia.com/",
+        "official_notification": "https://fddiindia.com/uploads/career/AdvertisementFDDIADV17072026.pdf"
+    },
+    {
+        "date": "17/07/2026",
         "board": "RBI",
         "title": "Part Time Bank’s Medical Consultant (BMC)",
         "qualification": "MBBS, MS/ MD",

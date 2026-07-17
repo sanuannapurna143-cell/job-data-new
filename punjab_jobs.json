@@ -1,6 +1,22 @@
 [
     {
         "date": "17/07/2026",
+        "board": "PAU",
+        "title": "Junior Lab/ Field Helper",
+        "qualification": "Middle with Punjabi",
+        "last_date": "24-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 13486 + ESIC and EPF p.m.",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 63 years",
+        "application_fee": "Rs. 50/-",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://pau.edu",
+        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7455"
+    },
+    {
+        "date": "17/07/2026",
         "board": "IIT Ropar",
         "title": "Research Associate",
         "qualification": "PhD in Chemical Engineering/ Chemical Technology/ allied branches/ Chemistry",
