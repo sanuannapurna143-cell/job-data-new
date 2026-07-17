@@ -1,6 +1,22 @@
 [
     {
         "date": "17/07/2026",
+        "board": "CMD",
+        "title": "Project Monitoring Executive",
+        "qualification": "Bachelor's/ Master's in Engineering or related field, Proficiency in SQL and dash Boarding tools (Power BI/ Tableau), Strong report writing and Documentation skills, Familiarity with central scheme reporting formats/ portals is a plus",
+        "last_date": "24-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 46230 Per Month",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "www.cmd.kerala.gov.in",
+        "official_notification": "https://cmd.kerala.gov.in/wp-content/uploads/2026/07/PME-Govt.-PSU-Notification.pdf"
+    },
+    {
+        "date": "17/07/2026",
         "board": "NIT Calicut",
         "title": "Junior Research Fellow",
         "qualification": "Master's Degree in Mechanical Engineering/ Production Engineering with an aggregate minimum of 60% marks (average of all semesters) or CGPA/ CPI grading of 6.5 on a 10-point scale or equivalent, with a valid GATE/ NET score, Experience in designing and monitoring experimental setup/Numerical modelling (Desirable)",

@@ -1,6 +1,38 @@
 [
     {
         "date": "17/07/2026",
+        "board": "ITAT",
+        "title": "Senior Private Secretary & Private Secretary (Group B Gazetted)",
+        "qualification": "Degree from a recognized University",
+        "last_date": "17-08-2026",
+        "total_posts": "42",
+        "salary": "Sr. PS: Level-8",
+        "age_limit": "Maximum age 35 years as on the crucial date (30th day from publication in Employment News). Age relaxation applicable for SC/ST/OBC/Government servants as per rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Examination(200 Marks) || Skill Test(Shorthand & Typing) || Personal Interview || Final merit will be based on Skill Test + Interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.itat.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/232335-6a5a20265d61878578235.pdf"
+    },
+    {
+        "date": "17/07/2026",
+        "board": "LTMG Hospital & Medical College",
+        "title": "Assistant Professor (Contract Basis)",
+        "qualification": "Qualifications as laid down by National Medical Commission (NMC) Regulations dated 30.06.2025 for minimum qualifications for teachers in medical institutions, as amended from time to time. || MS-CIT Passing Certificate. || SSC or HSC passed with Marathi as a subject. || If the MS-CIT and SSC/HSC-with-Marathi certificates are not available at the time of interview, candidates must submit them within 3 months (MS-CIT) and 6 months (SSC/HSC with Marathi) from the date of appointment.",
+        "last_date": "24-07-2026",
+        "total_posts": "52",
+        "salary": "₹1,10,000 per month",
+        "age_limit": "Not more than 38 years for Assistant Professor, as on the date of the advertisement (15.07.2026).",
+        "application_fee": "₹869",
+        "selection_process": "Selection is through document scrutiny followed by a personal interview — there is no written exam. || Mere fulfilment of the qualifications listed in the advertisement does not automatically qualify a candidate for interview or appointment. || Applicants found ineligible will not be informed individually or separately. || All selections will be made as per NMC norms. || The Municipal Commissioner, MCGM has the right to stop the selection process at any time and at any stage.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mcgm.gov.in/",
+        "official_notification": "https://www.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Personnel%20Officer/Recruitment%20Notice/Advertisement%20for%20Assistant%20Professor%20in%20LTMG%2015.07.2026.pdf"
+    },
+    {
+        "date": "17/07/2026",
         "board": "WCL",
         "title": "Mining Sirdar, T&S Grade-C; Assistant Foreman (Trainee) (Electrical)/Electrical Supervisor, T&S Grade-C",
         "qualification": "Candidates with other equivalent qualifications approved by the Central Government, or a higher qualification in the respective discipline, are also eligible. || For Mining Sirdar, candidates with higher statutory competency certificates issued by DGMS are also eligible. || Degree/Postgraduate/Diploma qualifications acquired through distance learning/part-time mode (or their equivalent) will not be considered. || Since these vacancies are for both UG and OC mines, candidates holding restricted competency certificates are not eligible. || All qualifications must be recognized by AICTE/UGC/appropriate Indian Statutory Authorities.",
@@ -13,7 +45,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://westerncoal.in/",
-        "official_notification": "https://docs.westerncoal.in/strapi/uploads/Abridged_NOTIFICATION_English_075ba1bfe7.pdf"
+        "official_notification": "https://docs.westerncoal.in/strapi/uploads/Recruitment_Not_English_58616ee33e.pdf"
     },
     {
         "date": "17/07/2026",

@@ -1,6 +1,22 @@
 [
     {
         "date": "17/07/2026",
+        "board": "SPMCIL",
+        "title": "Young Professional (Legal, Finance, Technical, Cyber Security)",
+        "qualification": "B.Tech/ B.E, LLB, CA, MCA",
+        "last_date": "17-08-2026",
+        "total_posts": "06",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Online Application || Shortlisting based on eligibility and experience || Personal Interview / Written Test (as decided by SPMCIL) || Document Verification || Final Selection",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.spmcil.com",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/741852-6a5a0c5857088309532.pdf"
+    },
+    {
+        "date": "17/07/2026",
         "board": "AIIMS Delhi",
         "title": "Project Technical Support I",
         "qualification": "Any Graduate, DMLT, MLT",
@@ -2029,7 +2045,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "Not Available"
+        "official_notification": "tnpsc-cts-diploma-iti-recruitment-2026-839-vacancies-3057204"
     },
     {
         "date": "01/07/2026",
