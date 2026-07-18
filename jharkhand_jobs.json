@@ -1,5 +1,21 @@
 [
     {
+        "date": "18/07/2026",
+        "board": "ECL",
+        "title": "ITI Apprentice – 140 Posts",
+        "qualification": "ITI",
+        "last_date": "31-07-2026",
+        "total_posts": "140",
+        "salary": "Stipend for ECL ITI apprentices is fixed per trade and paid monthly during the one-year training period. These are the confirmed figures from the notification.",
+        "age_limit": "Not Available",
+        "application_fee": "The ECL ITI Apprentices notification does not mention any application fee. Candidates can apply by sending their application and enclosures by post without making any payment.",
+        "selection_process": "Selection for ECL ITI Apprentice posts is based on merit in the qualifying ITI examination, followed by document verification and a formal engagement process. Here is the step-by-step procedure as stated in the notification. || Amerit list will be prepared based on marks obtained in the qualifying examination(ITI). || If two or more applicants secure the same marks,preference is given to the candidate who passed the qualifying examination earlier(by year of passing). || If the year of passing is also the same,date of birth is used as the tie-breaker, with older candidates given seniority. || If the date of birth of two candidates is also the same, thecandidate who registered earlier on the NAPS portal is considered senior. Reservation applicable for CPSUs is followed throughout. || Based on merit, candidates will be called fordocument verification. || After successful document verification, candidates will be given atraining engagement letterindicating the place of posting, date of reporting, and the scheduled date for contract creation at HRD, ECL Headquarters. || The candidate mustjoin at the respective place of postingon the date mentioned in the engagement letter. || After joining, ajoining letterwill be issued to the candidate from their place of posting. || The candidate must thenreport back to the HRD officewith a copy of the joining letter for creation of the contract on the portal, on the date mentioned in the engagement letter. || Theplace of apprenticeship training will be decided by the General Manager (HRD), ECL. || Mere completion of document verification or empanelment after the selection process does not confer any right of engagement as an apprentice in ECL.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.easterncoalfields.in/",
+        "official_notification": "https://www.easterncoalfields.in/storage/media/notice/1782390904_notice_fl_en.pdf"
+    },
+    {
         "date": "17/07/2026",
         "board": "IIT (ISM) Dhanbad",
         "title": "Coal India S&T Junior Research Fellow",
@@ -541,6 +557,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "gsssb-x-ray-assistant-recruitment-2026-apply-online-for-82-posts-3059128"
+        "official_notification": "eastern-coalfields-iti-apprentice-recruitment-2026-apply-offline-for-140-posts-3059186"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "date": "18/07/2026",
+        "board": "Tripura High Court",
+        "title": "Group-D (Peon/ Orderly/ Guard)",
+        "qualification": "Madhyamik / Secondary School Examination passed or equivalent",
+        "last_date": "10-08-2026",
+        "total_posts": "4",
+        "salary": "Rs. 12,000/- per month",
+        "age_limit": "Minimum:18 years || Maximum:40 years(for UR) || Relaxation: 5 years for SC/ST, Government Servants, Physically Disabled, Ex-Servicemen",
+        "application_fee": "Fee to be paid online only. No refund.",
+        "selection_process": "Written Examination (75 Marks) || Viva-Voce / Interview (25 Marks) || Only candidates qualifying in the written exam will be called for interview (ratio 1:6).",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://thc.nic.in",
+        "official_notification": "https://thc.tripura.gov.in/page/Noticedettc.aspx?NoticeId=26679"
+    },
+    {
         "date": "16/07/2026",
         "board": "NIT Agartala",
         "title": "JRF (Junior Research Fellow) or Project Associate-1",
@@ -109,6 +125,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "gsssb-x-ray-assistant-recruitment-2026-apply-online-for-82-posts-3059128"
+        "official_notification": "eastern-coalfields-iti-apprentice-recruitment-2026-apply-offline-for-140-posts-3059186"
     }
 ]

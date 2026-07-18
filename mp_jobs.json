@@ -1,6 +1,38 @@
 [
     {
         "date": "18/07/2026",
+        "board": "IIITDM",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "GATE/NET qualified candidates preferred. Experience in areas of communication, signal processing, machine learning, molecular communication, or terahertz systems",
+        "last_date": "06-08-2026",
+        "total_posts": "01",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Selection will be based on Written Test / Interview. The interview will be conducted in offline mode. Shortlisted candidates will be notified through email. No TA/DA will be provided. Selected candidates will be eligible to register for the Ph.D. degree at PDPM IIITDM Jabalpur against subsequent advertisement.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiitdmj.ac.in",
+        "official_notification": "https://www.iiitdmj.ac.in/jobs/download/JRF/Advt-JRF-SKT-17072026.pdf"
+    },
+    {
+        "date": "18/07/2026",
+        "board": "IIT Indore",
+        "title": "Research Associate-I",
+        "qualification": "Ph.D. in Computer Science, Artificial Intelligence, Data Science, Computational Linguistics, Information Science, Digital Humanities, or related discipline + Experience in Machine Learning and/or Natural Language Processing",
+        "last_date": "30-07-2026",
+        "total_posts": "02",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiti.ac.in",
+        "official_notification": "https://www.iiti.ac.in/public/storage/recruitments/July2026/bcSRj1lPnw8SS79bY4MB.pdf"
+    },
+    {
+        "date": "18/07/2026",
         "board": "MP High Court",
         "title": "Senior Computer Programmer Assistant",
         "qualification": "As per Schedule-I of the \"Rules 2019,\" candidates must fulfil the following criteria for the post of Senior Computer Programmer Assistant: || B.E./B.Tech/B.Sc in Computer Science/IT/Electronics and Telecommunications, or B.C.A./M.C.A., orM.Sc.(Electronics/CS/IT), with at least 1 year of experience working on Linux/Open Source Software/Windows/DBMS/Software Development. || Work experience of not less than 2 years in a District Court Establishment or the High Court of Madhya Pradesh. || The candidate must not have been punished in any departmental enquiry, or ever punished for misconduct or any other reason. || Only persons having work experience of not less than 2 years in a District Court Establishment or High Court in the State of Madhya Pradesh are eligible to appear in the suitability test, subject to meeting the above essential qualifications. As per the Gazette notification dated 20.02.2026, all employees/officials of the High Court of Madhya Pradesh and District Courts in the state, irrespective of their designation or name of post, working in the IT domain - either as a regular employee or through outsourcing - can participate, as a one-time measure, in this recruitment process, subject to fulfilling the required qualifications and other conditions under the Rules 2019.",
@@ -653,7 +685,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "gsssb-x-ray-assistant-recruitment-2026-apply-online-for-82-posts-3059128"
+        "official_notification": "eastern-coalfields-iti-apprentice-recruitment-2026-apply-offline-for-140-posts-3059186"
     },
     {
         "date": "11/04/2026",
