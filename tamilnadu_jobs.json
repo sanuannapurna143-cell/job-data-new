@@ -1,6 +1,38 @@
 [
     {
         "date": "18/07/2026",
+        "board": "ICAR CICR",
+        "title": "Senior Research Fellow, Young Professional II, Young Professional I",
+        "qualification": "M.Sc. in Agriculture with Specialization in Remote sensing and GIS / Agrometeorology/ Agronomy/ Soil Science, BE/ BTech in Computer Science and Engineering or Information Technology, M.Sc. (Ag.) Genetics and Plant Breeding / Seed Science & Technology, B.Sc. Agriculture",
+        "last_date": "28-07-2026",
+        "total_posts": "4",
+        "salary": "Rs.42,000/- Consolidated Pay/month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 45 years || Age Relaxation: As per Govt. of India rules",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Personal Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.circot.icar.gov.in/",
+        "official_notification": "https://drive.google.com/file/d/1SbXYmu6fo0GLtx3pFaGAvtt_WPZzwya5/view"
+    },
+    {
+        "date": "18/07/2026",
+        "board": "Bharathidasan University",
+        "title": "Guest Lecturer",
+        "qualification": "As per UGC Norms with JRF/NET/SET/Ph.D.",
+        "last_date": "22-07-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bdu.ac.in/",
+        "official_notification": "https://www.bdu.ac.in/docs/employment/GL-Walk-in-Advt-Economics.pdf"
+    },
+    {
+        "date": "18/07/2026",
         "board": "NIT Trichy",
         "title": "Junior Research Fellow (JRF) / Project Associate-I (PA-I)",
         "qualification": "B.E/B.Tech in Electrical and Electronics Engineering or M.E/M.Tech in Power Electronics/Power Systems/Control Systems or relevant with valid GATE score",

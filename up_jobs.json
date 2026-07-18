@@ -1,6 +1,22 @@
 [
     {
         "date": "18/07/2026",
+        "board": "IWAI",
+        "title": "Upper Division Clerk (UDC)",
+        "qualification": "Holding analogous post or 5 years service in LDC or equivalent",
+        "last_date": "24-08-2026",
+        "total_posts": "6",
+        "salary": "Level 4 in the Pay Matrix as per 7th CPC.",
+        "age_limit": "Maximum Age Limit: 56 years. || Age relaxation will be as per government rules.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.iwai.nic.in",
+        "official_notification": "https://iwai.gov.in/sites/default/files/2026-07/advertisement_wrt_udc_2026_0.pdf"
+    },
+    {
+        "date": "18/07/2026",
         "board": "GIMS",
         "title": "Senior Resident – 02 Posts",
         "qualification": "Doctor in Medicine (MD) - General Medicine, Publications in the field of Diabetes and Metabolic disorders",
@@ -1341,7 +1357,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "eastern-coalfields-iti-apprentice-recruitment-2026-apply-offline-for-140-posts-3059186"
+        "official_notification": "opsc-group-b-recruitment-2026-apply-online-for-44-assistant-fisheries-officer-posts-3059258"
     },
     {
         "date": "26/06/2026",
