@@ -1,6 +1,38 @@
 [
     {
         "date": "20/07/2026",
+        "board": "ICAR CIRCOT",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.E / M. Tech. in any discipline or equivalent with 4/5 years of Bachelor's degree, B.E / B. Tech in Textile Technology/ Electronics Engg./ Electrical Engg./ Instrumentation Engg./Computer Science & Technology or Information Technology/ Agricultural Engg./ Agricultural Structures and Process Engineering/ Post Harvest Engineering and Technology/ Farm Machinery and Power/ Mechanical Engineering/ Any other relevant U.G with GATE/JRF qualified, Knowledge of design and development of instruments, Testing of electronic circuit boards, Software development, Statistical Analysis, Research paper/report writing",
+        "last_date": "31-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 + HRA (as applicable) for 1st and 2nd year & Rs. 42000 + HRA (as applicable) for 3rd year",
+        "age_limit": "Maximum Age Limit: 35 years || Age Relaxation: 3 years for OBC, 5 years for SC/ST, 10 years for PH candidates as per GOI rules. 40 years for female candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://circot.icar.gov.in/",
+        "official_notification": "https://circot.icar.gov.in/sites/default/files/Walk_In_Interview_JRF_3.08.2026.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "TMC",
+        "title": "Statistician",
+        "qualification": "M.Sc. in Statistics",
+        "last_date": "27-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 45000 Per Month",
+        "age_limit": "Maximum Age: 50 years",
+        "application_fee": "Not Available",
+        "selection_process": "Screening || Online MCQ Test || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://tmc.gov.in",
+        "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=q1w4iRBJeLpdGKkmxSobkg=="
+    },
+    {
+        "date": "20/07/2026",
         "board": "AIIMS Nagpur",
         "title": "Bio Medical Engineer",
         "qualification": "Bachelor's Degree (B.E./B. Tech) in Biomedical Engineering or an equivalent qualification from a recognized University/Institute.",

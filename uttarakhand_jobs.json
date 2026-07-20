@@ -2,6 +2,22 @@
     {
         "date": "20/07/2026",
         "board": "IIT Roorkee",
+        "title": "Post Doctoral Fellow",
+        "qualification": "PhD in Biotechnology, Microbiology, Biological Sciences, or equivalent with at least one research paper in SCI journal.",
+        "last_date": "28-07-2026",
+        "total_posts": "01",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/BSBE/2026/adv140720261.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "IIT Roorkee",
         "title": "Junior Research Fellow",
         "qualification": "First Class B.E./B.Tech. degree in Electrical Engineering, Electrical and Electronics Engineering, or an equivalent discipline, along with a valid GATE qualification, First Class M.E./M.Tech. degree in High Voltage or Power System Engineering along with a valid GATE qualification",
         "last_date": "07-08-2026",
@@ -557,6 +573,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "pnb-local-bank-officer-recruitment-2026-apply-online-for-545-posts-3059463"
+        "official_notification": "gsssb-supervisor-instructor-recruitment-2026-3059511"
     }
 ]

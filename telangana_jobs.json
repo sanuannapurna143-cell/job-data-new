@@ -1,6 +1,22 @@
 [
     {
         "date": "20/07/2026",
+        "board": "Telangana Anganwadi",
+        "title": "Anganwadi Helper / Ayah (AWH)",
+        "qualification": "Candidates applying for the Anganwadi Helper (Ayah) post must have passed Intermediate (10+2) from a recognized board.",
+        "last_date": "01-08-2026",
+        "total_posts": "878",
+        "salary": "The official notification does not mention the specific salary or honorarium for the Anganwadi Ayah (Helper) post. Anganwadi Helpers in Telangana are generally paid a fixed monthly honorarium as per state government norms, which is revised periodically. Candidates are advised to contact the concerned ICDS Project Office for the current honorarium applicable to this recruitment.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Based on the official notification, the selection process for Bhadradri Kothagudem Anganwadi Ayah posts involves the following steps: || Submission of online application within the given window (20 July 2026 to 1 August 2026). || Verification of original certificates by the concerned authorities between 3 August 2026 and 14 August 2026. || Preparation of merit list and selection as per applicable government norms for Anganwadi Helper recruitment. || Detailed marks-based selection criteria, if any, have not been specified in the notification; candidates should check with the ICDS Project Office for further procedural details.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://mis.tgwdcw.in/",
+        "official_notification": "https://mis.tgwdcw.in/AWTVacancies2026/BHADRADRI_AWH%20Vacancies_20.07.2026.pdf"
+    },
+    {
+        "date": "20/07/2026",
         "board": "IIT Hyderabad",
         "title": "Project Research Scientist II (Non-Medical)",
         "qualification": "PhD in Bioinformatics/Computational Biology",
