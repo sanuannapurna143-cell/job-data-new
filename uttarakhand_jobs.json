@@ -1,5 +1,37 @@
 [
     {
+        "date": "20/07/2026",
+        "board": "AIIMS Rishikesh",
+        "title": "Local Research Coordinator",
+        "qualification": "B.Sc Nursing, GNM Nursing with 2 years experience in 200 bedded hospital, B.Sc MLT",
+        "last_date": "01-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 35000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsrishikesh.edu.in/",
+        "official_notification": "https://aiimsrishikesh.edu.in/images/upload_documents/Recruitment%20adevertisement%20for%20research%20project%20for%20Dept%20of%20Nephrology.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "IIT Roorkee",
+        "title": "Project Associate",
+        "qualification": "M.Tech./ M.E./ M.Sc. in Civil Engineering, Electrical Engineering, Electronics and Communication engineering, Data Science, Machine Learning and Computing, Mathematics, Automation and Robotics or allied fields with at least 65% marks with valid GATE/ NET (UGC, CSIR, etc.) qualified.",
+        "last_date": "28-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000 per month + HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CE/2026/adv17072026.pdf"
+    },
+    {
         "date": "16/07/2026",
         "board": "UKMSSB",
         "title": "Pay Scale / Level",
@@ -477,6 +509,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "opsc-group-b-recruitment-2026-apply-online-for-44-assistant-fisheries-officer-posts-3059258"
+        "official_notification": "Not Available"
     }
 ]

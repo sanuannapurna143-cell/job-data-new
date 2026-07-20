@@ -1,5 +1,37 @@
 [
     {
+        "date": "20/07/2026",
+        "board": "WCL",
+        "title": "Mining Sirdar, T&S Grade-C; Assistant Foreman (Trainee) (Electrical)/Electrical Supervisor, T&S Grade-C",
+        "qualification": "Candidates with other equivalent qualifications approved by the Central Government, or a higher qualification in the respective discipline, are also eligible. || For Mining Sirdar, candidates with higher statutory competency certificates issued by DGMS are also eligible. || Degree/Postgraduate/Diploma qualifications acquired through distance learning/part-time mode (or their equivalent) will not be considered. || Since these vacancies are for both UG and OC mines, candidates holding restricted competency certificates are not eligible. || All qualifications must be recognized by AICTE/UGC/appropriate Indian Statutory Authorities.",
+        "last_date": "10-08-2026",
+        "total_posts": "444",
+        "salary": "In addition to basic pay, other allowances such as Dearness Allowance, attendance bonus, special allowance, HRA, transport subsidy, and medical facility are admissible as per NCWA XI provisions. After successful completion of training/probation, further career growth follows the prevailing cadre schemes and rules.",
+        "age_limit": "Minimum age: 18 years as on the cut-off date (10.08.2026). || Maximum age: 30 years for Unreserved (UR) and EWS candidates as on the cut-off date. || The Date of Birth recorded in the Matriculation/Secondary School Examination/equivalent certificate issued by a Central/State Board only will be accepted; no subsequent request for change will be entertained.",
+        "application_fee": "Applications from UR/OBC(NCL)/EWS candidates without the prescribed fee will not be entertained and will be summarily rejected. || The application fee is non-refundable under any circumstances. || Any tax or bank charges other than the prescribed fee will be borne by the candidate. || Fee must be paid through online mode only; WCL is not responsible if a candidate deposits the fee by any other mode.",
+        "selection_process": "Selection is through a Computer Based Test (CBT), followed by document scrutiny/verification and a medical examination.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://westerncoal.in/",
+        "official_notification": "https://docs.westerncoal.in/strapi/uploads/Recruitment_Not_English_58616ee33e.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "IIT Indore",
+        "title": "Project Technical Support - III",
+        "qualification": "M.Sc. (with valid GATE) / M. Tech. Degree or equivalent in Biotechnology / Biochemistry / Microbiology / Life Sciences OR B.V.Sc. (with valid ICAR AIEEA-PG) OR B.Pharma (with valid GPAT) OR MBBS (with valid NEET PG) or in any other science and engineering stream",
+        "last_date": "24-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 28,000 + 16% HRA Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiti.ac.in",
+        "official_notification": "https://www.iiti.ac.in/public/storage/recruitments/July2026/yPxPbYb8ERgIaXYiNu9Y.pdf"
+    },
+    {
         "date": "18/07/2026",
         "board": "IIITDM",
         "title": "Junior Research Fellow (JRF)",
@@ -46,22 +78,6 @@
         "syllabus": "Post Syllabus Marks Language",
         "official_website": "https://mphc.gov.in/",
         "official_notification": "https://portal.mphc.gov.in/PDF/web_pdf/RE/Advetisement%20SCPA-DC%20suitability%20-2026%20with%20Application%20form.pdf"
-    },
-    {
-        "date": "17/07/2026",
-        "board": "WCL",
-        "title": "Mining Sirdar, T&S Grade-C; Assistant Foreman (Trainee) (Electrical)/Electrical Supervisor, T&S Grade-C",
-        "qualification": "Candidates with other equivalent qualifications approved by the Central Government, or a higher qualification in the respective discipline, are also eligible. || For Mining Sirdar, candidates with higher statutory competency certificates issued by DGMS are also eligible. || Degree/Postgraduate/Diploma qualifications acquired through distance learning/part-time mode (or their equivalent) will not be considered. || Since these vacancies are for both UG and OC mines, candidates holding restricted competency certificates are not eligible. || All qualifications must be recognized by AICTE/UGC/appropriate Indian Statutory Authorities.",
-        "last_date": "10-08-2026",
-        "total_posts": "444",
-        "salary": "In addition to basic pay, other allowances such as Dearness Allowance, attendance bonus, special allowance, HRA, transport subsidy, and medical facility are admissible as per NCWA XI provisions. After successful completion of training/probation, further career growth follows the prevailing cadre schemes and rules.",
-        "age_limit": "Minimum age: 18 years as on the cut-off date (10.08.2026). || Maximum age: 30 years for Unreserved (UR) and EWS candidates as on the cut-off date. || The Date of Birth recorded in the Matriculation/Secondary School Examination/equivalent certificate issued by a Central/State Board only will be accepted; no subsequent request for change will be entertained.",
-        "application_fee": "Applications from UR/OBC(NCL)/EWS candidates without the prescribed fee will not be entertained and will be summarily rejected. || The application fee is non-refundable under any circumstances. || Any tax or bank charges other than the prescribed fee will be borne by the candidate. || Fee must be paid through online mode only; WCL is not responsible if a candidate deposits the fee by any other mode.",
-        "selection_process": "Selection is through a Computer Based Test (CBT), followed by document scrutiny/verification and a medical examination.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://westerncoal.in/",
-        "official_notification": "https://docs.westerncoal.in/strapi/uploads/Recruitment_Not_English_58616ee33e.pdf"
     },
     {
         "date": "17/07/2026",
@@ -637,7 +653,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "opsc-group-b-recruitment-2026-apply-online-for-44-assistant-fisheries-officer-posts-3059258"
+        "official_notification": "Not Available"
     },
     {
         "date": "11/04/2026",

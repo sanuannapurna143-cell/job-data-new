@@ -1,5 +1,85 @@
 [
     {
+        "date": "20/07/2026",
+        "board": "IAF",
+        "title": "Agniveervayu (Musician)",
+        "qualification": "Passed Matriculation/10th or equivalent with minimum pass marks from any Central, State or Union Territory Government recognised School/Board, as on the date of registration.",
+        "last_date": "02-08-2026",
+        "total_posts": "Not Available",
+        "salary": "Agniveervayu (Musician) will be paid an Agniveer package of ₹30,000 per month in the first year, with a fixed yearly increment, along with Risk and Hardship allowances, Dress and Travel allowances, and perks such as ration, clothing, accommodation, and Leave Travel Concession (LTC) as per existing rules.",
+        "age_limit": "No separate age relaxation categories are specified in this notification.",
+        "application_fee": "Application fee, once paid, is non-refundable under any circumstances and cannot be carried forward to any other recruitment or selection process.",
+        "selection_process": "Selection for Agniveervayu (Musician) Intake 01/2027 involves the following stages, conducted in sequence: || Verification of Eligibility Documents- original or DigiLocker-verified educational certificates and other applicable documents are scrutinised at the rally venue before the Physical Fitness Test. || Physical Fitness Test (PFT-I)- 1.6 km run: within 7 minutes for male candidates, within 8 minutes for female candidates. || Physical Fitness Test (PFT-II)- conducted after 10 minutes of recuperation:Male candidates: 10 push-ups (1 minute), 10 sit-ups (1 minute), 20 squats (1 minute), with rest breaks between each exercise.Female candidates: 10 sit-ups (1 minute 30 seconds), 15 squats (1 minute), with rest breaks between exercises. || Male candidates: 10 push-ups (1 minute), 10 sit-ups (1 minute), 20 squats (1 minute), with rest breaks between each exercise. || Female candidates: 10 sit-ups (1 minute 30 seconds), 15 squats (1 minute), with rest breaks between exercises. || Music Proficiency Test (MPT)- candidates who qualify the English written test undergo a proficiency test in playing musical instruments, conducted individually or in groups. || Medical Examination- conducted in September 2026 at 11 AFH, Hindon and SMC, AF Station Jalahalli, including blood, urine, biochemistry, chest X-ray, ECG, and (for female candidates) ultrasonography of the lower abdomen and pelvis.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iafrecruitment.edcil.co.in/",
+        "official_notification": "https://iafrecruitment.edcil.co.in/"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "DTU",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "Masters in Zoology/ Botany/ Biotechnology/ Biochemistry/ Life Sciences (Minimum 55% marks)",
+        "last_date": "05-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- plus 27% HRA Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://dtu.ac.in/",
+        "official_notification": "https://dtu.ac.in/Web/upload/jobs/2026/july/file0709.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "MVH",
+        "title": "Junior Resident (MBBS)",
+        "qualification": "MBBS from recognized university with completed internship",
+        "last_date": "28-07-2026",
+        "total_posts": "5",
+        "salary": "Rs. 56100 Per Month",
+        "age_limit": "Maximum Age Limit: 30 years || Age Relaxation: 35 years for SC/ST, 33 years for OBC; further relaxation to 40 years under provisions of circular dated 10/06/2011.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://mvh.delhi.gov.in/",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wmvh_24.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "ICGEB",
+        "title": "Sr. Project Scientist",
+        "qualification": "Ph.D. in Bioinformatics, Computational Biology, Computer Science, Health Informatics, Data Science or related quantitative field, M.Tech with 6 years experience, Master's degree in Bioinformatics, Computational Biology, Computer Science, Health Informatics, Data Science or related quantitative field",
+        "last_date": "31-07-2026",
+        "total_posts": "3",
+        "salary": "₹77,152/- per month (inclusive of HRA) for Sr. Project Scientist, ₹31,750/- per month (inclusive of HRA) for Project Associate I",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Online Application Submission || Shortlisting || In-person Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.icgeb.org",
+        "official_notification": "https://www.icgeb.org/wp-content/uploads/2026/07/Vacancy-13.07.2026.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "IIT Delhi",
+        "title": "Research Associate-1",
+        "qualification": "Ph.D. in Mechanical/Aerospace Engineering with background in fluid dynamics and compressible flows, 1st class M.Tech in Mechanical/Aerospace Engineering with background in compressible flows with minimum 3 years of experience in aerospace industry",
+        "last_date": "29-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 58,000/- p.m. plus HRA @ 27%",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1784098885816_lb11u6j.pdf"
+    },
+    {
         "date": "18/07/2026",
         "board": "IIT Delhi",
         "title": "Project Research Scientist III (Non-Medical) & Project Research Scientist II (Non-Medical)",
@@ -13,7 +93,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://ird.iitd.ac.in",
-        "official_notification": "/cdn-cgi/l/email-protection#a9c2c4dcc2c1ccdbc3cccc87d9dbc6c3cccadd87c0c0ddcde9cec4c8c0c587cac6c4"
+        "official_notification": "/cdn-cgi/l/email-protection#d3b8bea6b8bbb6a1b9b6b6fda3a1bcb9b6b0a7fdbabaa7b793b4beb2babffdb0bcbe"
     },
     {
         "date": "18/07/2026",
@@ -77,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.icgeb.org",
-        "official_notification": "/cdn-cgi/l/email-protection#e5818791cb8c86828087cb878c8a808b8097829ca58288848c89cb868a88"
+        "official_notification": "/cdn-cgi/l/email-protection#7e1a1c0a50171d191b1c501c17111b101b0c19073e19131f1712501d1113"
     },
     {
         "date": "18/07/2026",
@@ -702,22 +782,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iari.res.in/files/jobs/Young_Professional_II_15072026.pdf",
         "official_notification": "https://iari.res.in/files/jobs/Young_Professional_II_15072026.pdf"
-    },
-    {
-        "date": "16/07/2026",
-        "board": "IAF",
-        "title": "Agniveervayu (Musician)",
-        "qualification": "Passed Matriculation/10th or equivalent with minimum pass marks from any Central, State or Union Territory Government recognised School/Board, as on the date of registration.",
-        "last_date": "02-08-2026",
-        "total_posts": "Not Available",
-        "salary": "Agniveervayu (Musician) will be paid an Agniveer package of ₹30,000 per month in the first year, with a fixed yearly increment, along with Risk and Hardship allowances, Dress and Travel allowances, and perks such as ration, clothing, accommodation, and Leave Travel Concession (LTC) as per existing rules.",
-        "age_limit": "No separate age relaxation categories are specified in this notification.",
-        "application_fee": "Application fee, once paid, is non-refundable under any circumstances and cannot be carried forward to any other recruitment or selection process.",
-        "selection_process": "Selection for Agniveervayu (Musician) Intake 01/2027 involves the following stages, conducted in sequence: || Verification of Eligibility Documents- original or DigiLocker-verified educational certificates and other applicable documents are scrutinised at the rally venue before the Physical Fitness Test. || Physical Fitness Test (PFT-I)- 1.6 km run: within 7 minutes for male candidates, within 8 minutes for female candidates. || Physical Fitness Test (PFT-II)- conducted after 10 minutes of recuperation:Male candidates: 10 push-ups (1 minute), 10 sit-ups (1 minute), 20 squats (1 minute), with rest breaks between each exercise.Female candidates: 10 sit-ups (1 minute 30 seconds), 15 squats (1 minute), with rest breaks between exercises. || Male candidates: 10 push-ups (1 minute), 10 sit-ups (1 minute), 20 squats (1 minute), with rest breaks between each exercise. || Female candidates: 10 sit-ups (1 minute 30 seconds), 15 squats (1 minute), with rest breaks between exercises. || Music Proficiency Test (MPT)- candidates who qualify the English written test undergo a proficiency test in playing musical instruments, conducted individually or in groups. || Medical Examination- conducted in September 2026 at 11 AFH, Hindon and SMC, AF Station Jalahalli, including blood, urine, biochemistry, chest X-ray, ECG, and (for female candidates) ultrasonography of the lower abdomen and pelvis.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iafrecruitment.edcil.co.in/",
-        "official_notification": "https://iafrecruitment.edcil.co.in/"
     },
     {
         "date": "16/07/2026",
@@ -1393,22 +1457,6 @@
     },
     {
         "date": "10/07/2026",
-        "board": "SVC Delhi University",
-        "title": "Scientific Administrative Assistant/Field Worker",
-        "qualification": "Under Graduate in any Branch of Science from recognized institution.",
-        "last_date": "19-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 20,000/- per month (Consolidated)",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.du.ac.in/",
-        "official_notification": "https://www.du.ac.in/uploads/2026/10072026-SVC%20-Advertisement_Research_Assistant_and_Field_Investigator_Posts.pdf"
-    },
-    {
-        "date": "10/07/2026",
         "board": "APEDA",
         "title": "Associate",
         "qualification": "Master’s degree in Mass Communications/ MBA (Marketing), Masters in Agriculture/ Horticulture",
@@ -2001,22 +2049,6 @@
     },
     {
         "date": "03/07/2026",
-        "board": "ICAI",
-        "title": "Branch In-Charge",
-        "qualification": "Graduate from a recognized University",
-        "last_date": "19-07-2026",
-        "total_posts": "129",
-        "salary": "The compensation offered for the Branch In-Charge post varies by Branch Category, based on the minimum post-qualification experience required. Compensation includes Basic Pay, Dearness Allowance (DA), House Rent Allowance (HRA), Transport Allowance, and National Pension System (NPS), along with Leave Travel Concession, Gratuity, and other benefits as per service conditions. || Category-I Branches: Minimum 5 years of experience - Compensation of approximately ₹7.45 lakhs per annum. || Category-II Branches: Minimum 5 years of experience - Compensation of approximately ₹6.33 lakhs per annum. || Category-III Branches: Minimum 5 years of experience - Compensation of approximately ₹5.59 lakhs per annum. || Category-IV Branches: Minimum 3 years of experience - Compensation of approximately ₹4.84 lakhs per annum. || Category-V & VI Branches: Minimum 3 years of experience - Compensation of approximately ₹4.10 lakhs per annum.",
-        "age_limit": "27 to 40 years as on 30.06.2026",
-        "application_fee": "Candidates are required to pay an application fee of ₹250 (Rupees Two Hundred and Fifty only), non-refundable and inclusive of all applicable taxes, through the online portal. An application will be treated as complete only after successful payment of the fee; incomplete applications are liable to be rejected.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.icai.org/",
-        "official_notification": "https://resource.cdn.icai.org/93034hrd-aps5720.pdf"
-    },
-    {
-        "date": "03/07/2026",
         "board": "IUAC",
         "title": "Scientist-C, Junior Engineer-C, Library Assistant-C",
         "qualification": "Scientist-C:M.Sc. (Physics/Applied Physics) with a consistently good academic record (Class-X onwards with at least 60%) from a recognized University/Institute. Candidates completing their M.Sc. in academic year 2025-26 can also apply, provided the final degree is available at the time of interview. Desirable: proficiency in the use of a variety of computer applications. || Junior Engineer-C:Diploma (Electronics) from a recognized university/institute with a consistently good academic record (Class-X onwards with minimum 60% marks). Desirable: 3 years' experience in the relevant field with an R&D institution, and proficiency in computer applications. The diploma/degree must be cleared on or before the last date of application submission. || Library Assistant-C:B.Lib. with B.Sc. and 4 years' experience in the operation of a computerized library. Desirable: knowledge of computer applications.",
@@ -2125,7 +2157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "opsc-group-b-recruitment-2026-apply-online-for-44-assistant-fisheries-officer-posts-3059258"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",
