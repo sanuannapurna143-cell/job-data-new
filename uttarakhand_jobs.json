@@ -1,6 +1,54 @@
 [
     {
         "date": "20/07/2026",
+        "board": "IIT Roorkee",
+        "title": "Junior Research Fellow",
+        "qualification": "First Class B.E./B.Tech. degree in Electrical Engineering, Electrical and Electronics Engineering, or an equivalent discipline, along with a valid GATE qualification, First Class M.E./M.Tech. degree in High Voltage or Power System Engineering along with a valid GATE qualification",
+        "last_date": "07-08-2026",
+        "total_posts": "1",
+        "salary": "₹37,000/- per month for the first two years (JRF) || ₹42,000/- per month for the third year (SRF)",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/EE/2026/adv150720261.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "AIIMS Rishikesh",
+        "title": "Project Coordinator, Data Manager",
+        "qualification": "Masters in Public Health/Hospital Administration/MBA with Data Analytics, SPSS, Python, Advance Excel",
+        "last_date": "25-07-2026",
+        "total_posts": "2",
+        "salary": "Project Coordinator: Rs. 80000/- (10% TDS Deduction) Per Month || Data Manager: Rs. 60000/- Per Month",
+        "age_limit": "Maximum Age Limit for all posts: 35 years. || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsrishikesh.edu.in/",
+        "official_notification": "https://aiimsrishikesh.edu.in/images/upload_documents/Project%20%20%20To%20assess%20understanding%20among%20attendees%20of%20webinars%20and%20perception%20about%20among%20key%20decision%20makers.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "Kumaun University",
+        "title": "Technical Assistant",
+        "qualification": "M.Sc. Botany",
+        "last_date": "25-07-2026",
+        "total_posts": "1",
+        "salary": "Technical Assistant: Rs. 15000/ month, Fixed",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.kunainital.ac.in",
+        "official_notification": "https://www.kunainital.ac.in/read-pdf?slug=https://d3siaoml8cnbuv.cloudfront.net/uploads/advertisement/WALK%20IN%20BOTANY%20DEPT-1784276571.pdf&i=1"
+    },
+    {
+        "date": "20/07/2026",
         "board": "AIIMS Rishikesh",
         "title": "Local Research Coordinator",
         "qualification": "B.Sc Nursing, GNM Nursing with 2 years experience in 200 bedded hospital, B.Sc MLT",
@@ -509,6 +557,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "pnb-local-bank-officer-recruitment-2026-apply-online-for-545-posts-3059463"
     }
 ]

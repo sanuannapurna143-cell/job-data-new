@@ -1,6 +1,54 @@
 [
     {
         "date": "20/07/2026",
+        "board": "IIT BHU",
+        "title": "Assistant Project Engineer",
+        "qualification": "M.Tech with First class in Electronics and Communication Engineering or B.Tech with First class in Electronics and Communication Engineering",
+        "last_date": "05-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 32000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitbhu.ac.in/",
+        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_ape_ece_network.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "NMRC",
+        "title": "Young Professional (Legal)",
+        "qualification": "Minimum 4 years in handling legal cases, drafting contracts, statutory compliance, RTI, etc. (Self-practice as advocate not counted)",
+        "last_date": "14-08-2026",
+        "total_posts": "1",
+        "salary": "Consolidated pay:Rs. 50,000/-per month. || 5% annual increment on consolidated pay. || Medical & Accidental Insurance coverage. || Leave: 1.5 days per month + 2 Restricted Holidays.",
+        "age_limit": "Maximum 35 years as on closing date",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on eligibility followed by Interaction / Interview by Selection Committee.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nmrc.co.in",
+        "official_notification": "https://www.nmrcnoida.com/Upload/CareersRecentItems/46/Advt.%20Young%20Professional%20Legal.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "IIT Kanpur",
+        "title": "Assistant Project Manager",
+        "qualification": "Post graduate degree Or Graduate degree + 3 years of relevant experience.",
+        "last_date": "28-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 16000 - 38000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in/",
+        "official_notification": "https://www.iitk.ac.in/dord/project/spase-apm-18-07-26.html"
+    },
+    {
+        "date": "20/07/2026",
         "board": "MNNIT Allahabad",
         "title": "Technical Manpower [Computer Application]",
         "qualification": "Diploma in Computer Science, I.T., DCA or higher degree in relevant discipline",
@@ -1421,7 +1469,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "Not Available"
+        "official_notification": "pnb-local-bank-officer-recruitment-2026-apply-online-for-545-posts-3059463"
     },
     {
         "date": "26/06/2026",

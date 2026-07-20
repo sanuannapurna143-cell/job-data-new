@@ -1,6 +1,102 @@
 [
     {
         "date": "20/07/2026",
+        "board": "AIIMS Delhi",
+        "title": "Laboratory Technician / Project Technical Support II",
+        "qualification": "12th in science + Diploma (MLT/ DMLT/ Engineering) + 5 years experience in relevant subject/ field. Or Three years Graduate degree in relevant subject / field + two years experience in relevant subject",
+        "last_date": "29-07-2026",
+        "total_posts": "1",
+        "salary": "As per ICMR/AIIMS rules",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/microbiology-16-7-26.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "DGFT",
+        "title": "Young Professional (YP)",
+        "qualification": "MBA or equivalent (from NIRF top 100 Management institutions) / Masters in Public Policy / International Trade",
+        "last_date": "10-08-2026",
+        "total_posts": "Not Available",
+        "salary": "Consolidated fee: Rs. 56,000/- per month (minus applicable taxes). || No other allowances or benefits. || Engagement is purely temporary/contractual. || Maximum period: 3 years (no further extension).",
+        "age_limit": "Below 35 years as on 01.07.2026",
+        "application_fee": "Not Available",
+        "selection_process": "Selection will be based on scrutiny of applications, CV, and supporting documents. Shortlisted candidates may be called for interaction/interview as decided by the competent authority.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.dgft.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/799541-6a5ddca207b9213558664.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "ICSIL",
+        "title": "Project Associate (Documentation and Design Support)",
+        "qualification": "Post Graduate in any discipline, B.Tech/ BE/ B.Arch, Diploma in Graphic Design/Visual Arts (desirable)",
+        "last_date": "02-08-2026",
+        "total_posts": "2",
+        "salary": "Rs. 46,000/- PM (without EPF)",
+        "age_limit": "Maximum Age Limit: 35 years || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Document Scrutiny || Interview/Interaction",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.icsil.in",
+        "official_notification": "https://icsil.in/app/uploads/advertisement/Forest_Department_HQ_ONLINE_advt_PA_Documentation_and_Design_Support_JULY_2026_(1).pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "CWC",
+        "title": "Young Professional (4 post codes)",
+        "qualification": "Key eligibility notes as per the notification: || Candidates must possess the required mark sheets/certificates confirming eligibility as on 22.07.2026 (the last date of application). || Experience will be counted only in the fields specified for each post; no other experience will be considered. || The experience certificate must clearly state the field of experience; only post-qualification experience is counted. || For Post Code 02 (PCS Marketing), desirable skills include good communication and interpersonal skills, basic knowledge of pest control techniques and services, proficiency in MS Office (Word, Excel, PowerPoint), analytical and reporting skills, and the ability to coordinate with multiple stakeholders.",
+        "last_date": "05-08-2026",
+        "total_posts": "06",
+        "salary": "Post Code 01 (Learning & Development):₹50,000/- consolidated per month for 0 to 3 years' experience, OR ₹60,000/- consolidated per month for more than 3 years' experience. || Post Code 02 (PCS Marketing):₹50,000/- consolidated per month for 0 to 3 years' experience, OR ₹60,000/- consolidated per month for more than 3 years' experience. || Post Code 03 (Marketing & Business Development - Hyderabad):₹50,000/- consolidated per month for 0 to 3 years' experience, OR ₹60,000/- consolidated per month for more than 3 years' experience. || Post Code 04 (Marketing & Business Development - Jaipur):Same remuneration structure as Post Code 03, as per the merged entry in the official notification. || The consolidated remuneration is inclusive of all applicable taxes, and no other facility or allowance will be provided in addition to it. || Also Read: Calculate your exact in-hand Salary in 10 seconds - Calculate Now",
+        "age_limit": "The reckoning date for calculation of both age and experience is the last date of application, i.e., 05.08.2026 .",
+        "application_fee": "Application fee details were not specified in the official notification shared for this article. Candidates should check the online application portal on www.cewacor.nic.in at the time of applying for any applicable fee.",
+        "selection_process": "The notification states that CWC reserves the right to fix criteria for shortlisting candidates in order to restrict the number of candidates called for Personal Interaction , based on the number of positions advertised. No written examination or other selection stage is mentioned in the notification.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cwc.gov.in/",
+        "official_notification": "https://cwceportal.com/YPcareers/Guidelines/17/17_Engagement%20of%20Young%20Professional-2026_123b77e4-8b36-4197-8d24-cac3a890db84.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "GIPMER",
+        "title": "Senior Resident",
+        "qualification": "MBBS with P.G Degree or Diploma in the concerned specialty from a Recognized University/Institution and should be registered with the Delhi Medical Council.",
+        "last_date": "21-07-2026",
+        "total_posts": "2",
+        "salary": "Rs 67,700/- plus usual allowances",
+        "age_limit": "Upper age limit 45 years, relaxable by 05 years for SC/ST and 03 years for OBC.",
+        "application_fee": "Rs. 300/- (Non Refundable)",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.gbpant.delhigovt.nic.in",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wpgim_1.pdf"
+    },
+    {
+        "date": "20/07/2026",
+        "board": "NHSRC",
+        "title": "Post Name",
+        "qualification": "Graduation in Journalism/Mass Communication or Literature with min. 3 years' relevant experience",
+        "last_date": "22-07-2026",
+        "total_posts": "14 different contractual posts (01 vacancy each)",
+        "salary": "Remuneration ranges from Rs 28,000 to Rs 1,00,000 per month depending on the post (see the Vacancy Details table above for exact ranges). All selected consultants are entitled to an annual increment of 5% per annum upon renewal of their contract, which may be given for up to five years of engagement at a particular level.",
+        "age_limit": "Age limits vary by post and are calculated as on 1 January 2026 : || Below 41 years: Videographer, Photographer, Senior Media Executive, Sr. Graphic Designer, Strategy Coordinator, Creative Coordinator, Senior Content Writer, Media Executive, Video Editor, Media Assistant || Below 36 years: Jr. Graphic Designer, Junior Content Writer, Media Coordinator || Below 58 years: Lead Photographer",
+        "application_fee": "Not specified in the official notification.",
+        "selection_process": "Not specified in the official notification. The notice states that applications are being invited from qualified candidates purely on a contractual basis; it does not detail a written test, interview, or shortlisting criteria.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nhsrcindia.org/",
+        "official_notification": "https://recruitment.nhsrcindia.org/my/job"
+    },
+    {
+        "date": "20/07/2026",
         "board": "IAF",
         "title": "Agniveervayu (Musician)",
         "qualification": "Passed Matriculation/10th or equivalent with minimum pass marks from any Central, State or Union Territory Government recognised School/Board, as on the date of registration.",
@@ -93,7 +189,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://ird.iitd.ac.in",
-        "official_notification": "/cdn-cgi/l/email-protection#d3b8bea6b8bbb6a1b9b6b6fda3a1bcb9b6b0a7fdbabaa7b793b4beb2babffdb0bcbe"
+        "official_notification": "/cdn-cgi/l/email-protection#157e78607e7d70677f70703b65677a7f7076613b7c7c6171557278747c793b767a78"
     },
     {
         "date": "18/07/2026",
@@ -157,7 +253,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.icgeb.org",
-        "official_notification": "/cdn-cgi/l/email-protection#7e1a1c0a50171d191b1c501c17111b101b0c19073e19131f1712501d1113"
+        "official_notification": "/cdn-cgi/l/email-protection#492d2b3d67202a2e2c2b672b20262c272c3b2e30092e24282025672a2624"
     },
     {
         "date": "18/07/2026",
@@ -1646,22 +1742,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aiims.edu/",
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/labmed-7-7-26.pdf"
-    },
-    {
-        "date": "09/07/2026",
-        "board": "CWC",
-        "title": "Young Professional (4 post codes)",
-        "qualification": "Key eligibility notes as per the notification: || Candidates must possess the required mark sheets/certificates confirming eligibility as on 22.07.2026 (the last date of application). || Experience will be counted only in the fields specified for each post; no other experience will be considered. || The experience certificate must clearly state the field of experience; only post-qualification experience is counted. || For Post Code 02 (PCS Marketing), desirable skills include good communication and interpersonal skills, basic knowledge of pest control techniques and services, proficiency in MS Office (Word, Excel, PowerPoint), analytical and reporting skills, and the ability to coordinate with multiple stakeholders.",
-        "last_date": "22-07-2026",
-        "total_posts": "06",
-        "salary": "Post Code 01 (Learning & Development):₹50,000/- consolidated per month for 0 to 3 years' experience, OR ₹60,000/- consolidated per month for more than 3 years' experience. || Post Code 02 (PCS Marketing):₹50,000/- consolidated per month for 0 to 3 years' experience, OR ₹60,000/- consolidated per month for more than 3 years' experience. || Post Code 03 (Marketing & Business Development - Hyderabad):₹50,000/- consolidated per month for 0 to 3 years' experience, OR ₹60,000/- consolidated per month for more than 3 years' experience. || Post Code 04 (Marketing & Business Development - Jaipur):Same remuneration structure as Post Code 03, as per the merged entry in the official notification. || The consolidated remuneration is inclusive of all applicable taxes, and no other facility or allowance will be provided in addition to it. || Also Read: Calculate your exact in-hand Salary in 10 seconds - Calculate Now",
-        "age_limit": "The reckoning date for calculation of both age and experience is the last date of application, i.e., 22.07.2026 .",
-        "application_fee": "Application fee details were not specified in the official notification shared for this article. Candidates should check the online application portal on www.cewacor.nic.in at the time of applying for any applicable fee.",
-        "selection_process": "The notification states that CWC reserves the right to fix criteria for shortlisting candidates in order to restrict the number of candidates called for Personal Interaction , based on the number of positions advertised. No written examination or other selection stage is mentioned in the notification.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.cwc.gov.in/",
-        "official_notification": "https://cwceportal.com/YPcareers/Guidelines/17/17_Engagement%20of%20Young%20Professional-2026_123b77e4-8b36-4197-8d24-cac3a890db84.pdf"
     },
     {
         "date": "09/07/2026",
