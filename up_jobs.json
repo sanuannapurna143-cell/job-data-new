@@ -1,6 +1,38 @@
 [
     {
         "date": "21/07/2026",
+        "board": "AAM Gonda",
+        "title": "Yoga Instructor (Male)",
+        "qualification": "BNYS Degree, BA(Yoga)/BSc(Yoga)/MA Yoga, PG Diploma in Yoga, Yoga Certification Board Certificate",
+        "last_date": "31-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 8000 Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 65 years || Age as on 30-06-2026",
+        "application_fee": "Not Available",
+        "selection_process": "Document Verification || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://gonda.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3ca46c1b9512a7a8315fa3c5a946e8265/uploads/2026/07/17846198704344.pdf"
+    },
+    {
+        "date": "21/07/2026",
+        "board": "OFH Armapur",
+        "title": "Hired Medical Practitioner (HMP)",
+        "qualification": "MBBS degree, recognized by MCI",
+        "last_date": "28-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 75000 Per Month",
+        "age_limit": "Maximum Age: 70 years",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ddpdoo.gov.in/",
+        "official_notification": "https://ddpdoo.gov.in/storage/document/6a5f07f77d6af.pdf"
+    },
+    {
+        "date": "21/07/2026",
         "board": "MNNIT Allahabad",
         "title": "Junior Research Fellow",
         "qualification": "M.Sc./ M.Tech. in Biotechnology/Microbiology/Biochemical Engineering or any relevant field with qualified certificate of GATE (BT/ LS)/ CSIR UGC NET/ DBT-BET category-II examination",
@@ -1293,7 +1325,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "ulb-haryana-engineering-associate-recruitment-2026-apply-online-for-150-posts-3059529"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/06/2026",

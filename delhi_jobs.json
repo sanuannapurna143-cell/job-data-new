@@ -1,5 +1,85 @@
 [
     {
+        "date": "21/07/2026",
+        "board": "CSIR IGIB",
+        "title": "Multi-Tasking Staff (MTS)",
+        "qualification": "10th Pass / Matriculation",
+        "last_date": "26-08-2026",
+        "total_posts": "02",
+        "salary": "Pay Scale:Pay Matrix Level-01 || Basic Pay:Rs. 18,000 - 56,900/- || Total Emoluments:Approximately Rs. 36,360/- including applicable allowances.",
+        "age_limit": "Maximum Age Limit:25 Years || Age relaxation will be applicable as per Government rules.",
+        "application_fee": "The application fee details will be available in the detailed recruitment advertisement.",
+        "selection_process": "Written Examination || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.igib.res.in/",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "21/07/2026",
+        "board": "ISRO",
+        "title": "UDC, Steno and More – 242 Posts",
+        "qualification": "Any Graduate, Diploma",
+        "last_date": "16-08-2026",
+        "total_posts": "242",
+        "salary": "Selected candidates for Assistant, Junior Personal Assistant, Upper Division Clerk and Stenographer posts will be placed in Level 4 of the Pay Matrix , with a minimum basic pay of Rs. 25,500 per month . In addition to basic pay, the following allowances/benefits are admissible as per extant Central Government rules: || Dearness Allowance (DA) || House Rent Allowance (HRA) || Transport Allowance || New Pension Scheme || Medical facilities for self and dependents, subsidised canteen, limited quarters facility (in lieu of HRA) || Leave Travel Concession (LTC) || Group Insurance || House Building Advance (HBA)",
+        "age_limit": "Age relaxation, wherever posts are reserved, is also applicable to serving Government employees, Ex-Servicemen, Persons with Benchmark Disabilities, meritorious Sportspersons, Widows, Divorced women, and women judicially separated from their husbands and not remarried, as per extant Government of India orders.",
+        "application_fee": "The processing fee is refunded only to candidates who appear in the Written Test, as per the terms above.",
+        "selection_process": "The notification confirms that shortlisted candidates will appear for a Written Test , since fee refunds are explicitly linked to Written Test appearance. Further stages of selection (such as skill test, interview, or document verification) are not specified in this notification; candidates should refer to the detailed notification or updates on www.isro.gov.in for the complete selection process.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.isro.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/7412501-6a5efeb4106ec76496066.pdf"
+    },
+    {
+        "date": "21/07/2026",
+        "board": "UPSC",
+        "title": "Principal and Vice-Principal",
+        "qualification": "Master's Degree + Bachelor of Education (B.Ed) + 2 years' experience as PGT, or 3 years' experience as TGT",
+        "last_date": "14-08-2026",
+        "total_posts": "828 Posts (Principal – 124, Vice-Principal – 704)",
+        "salary": "Not Available",
+        "age_limit": "Age relaxation will be applied as per the applicable government rules. Candidates can use an online age calculator to check their eligibility against the cutoff date.",
+        "application_fee": "Female candidates and candidates from SC, ST, or PwD categories are exempted from paying the application fee. All other candidates must pay Rs. 25 online at the time of application submission.",
+        "selection_process": "Shortlisting Criteria / Recruitment Test || Personal Interview || Document Verification || The exact weightage, exam pattern, or number of questions for the recruitment test has not been specified in the short notice and will likely be detailed in the official notification.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://upsconline.nic.in/",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "21/07/2026",
+        "board": "IIT Delhi",
+        "title": "Project Manager / Sr. Project Assistant (Admin.)",
+        "qualification": "Master's Degree preferably MCA with at least 55% marks, Post Graduate Degree with 55% marks",
+        "last_date": "03-08-2026",
+        "total_posts": "2",
+        "salary": "Rs. 64260 - 66190 - 68180 - 70220 - 72330 - 74500 - 76730 - 79030 - 81400 - 83840/- p.m. plus HRA @30%",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Online Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1784526017197_tu2u33k.pdf"
+    },
+    {
+        "date": "21/07/2026",
+        "board": "RRB",
+        "title": "Junior Engineer (JE), Depot Material Superintendent (DMS) & Chemical and Metallurgical Assistant (CMA)",
+        "qualification": "B.Sc, B.Tech/ B.E, Diploma",
+        "last_date": "13-09-2026",
+        "total_posts": "4098",
+        "salary": "Not Available",
+        "age_limit": "Minimum Age:18 Years || Maximum Age:33 Years || Age relaxation will be applicable as per Government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Computer Based Test (CBT) || Document Verification || Medical Examination",
+        "apply_mode": "Online",
+        "syllabus": "Syllabus RRB JE Syllabus",
+        "official_website": "https://rrb.indianrailways.gov.in/",
+        "official_notification": "Not Available"
+    },
+    {
         "date": "20/07/2026",
         "board": "SDDMASC",
         "title": "Senior Resident (on Ad-hoc basis)",
@@ -349,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.icgeb.org",
-        "official_notification": "/cdn-cgi/l/email-protection#8befe9ffa5e2e8eceee9a5e9e2e4eee5eef9ecf2cbece6eae2e7a5e8e4e6"
+        "official_notification": "/cdn-cgi/l/email-protection#06626472286f6561636428646f6963686374617f46616b676f6a2865696b"
     },
     {
         "date": "18/07/2026",
@@ -690,18 +770,18 @@
     {
         "date": "16/07/2026",
         "board": "IIT Delhi",
-        "title": "Project Research Scientist - I",
-        "qualification": "First Class Post Graduate Degree (including integrated PG degrees) OR Second Class Post Graduate Degree with PhD OR For Engineering/IT/CS - First Class Graduate Degree of Four Years.",
+        "title": "Project Research Scientist I – 01 Posts",
+        "qualification": "Any Post Graduate, M.Phil/ Ph.D",
         "last_date": "29-07-2026",
         "total_posts": "01",
         "salary": "Not Available",
-        "age_limit": "As per IIT Delhi / Government of India norms (5% relaxation for SC/ST candidates)",
+        "age_limit": "Not Available",
         "application_fee": "Not Available",
-        "selection_process": "Candidates will be shortlisted based on qualifications and experience. Only shortlisted candidates will be called for an online interview. Final selection is based on performance in the interview. Names of shortlisted candidates will be displayed on the IRD website: http://ird.iitd.ac.in/shortlisted",
-        "apply_mode": "Online",
+        "selection_process": "Not Available",
+        "apply_mode": "Not Available",
         "syllabus": "Not Available",
-        "official_website": "https://ird.iitd.ac.in/",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1784013538427_mbbno7i.pdf"
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
     },
     {
         "date": "16/07/2026",
@@ -1997,7 +2077,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "karnataka-forest-department-group-d-forest-observer-recruitment-2026-3059518"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",

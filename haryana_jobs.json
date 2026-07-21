@@ -1,6 +1,22 @@
 [
     {
         "date": "21/07/2026",
+        "board": "MDU",
+        "title": "Lecture Basis",
+        "qualification": "Ph.D. Degree holders",
+        "last_date": "27-07-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 600/- per hour (theory), Rs. 300/- per hour (practical)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://mdu.ac.in/",
+        "official_notification": "https://mdu.ac.in/UpFiles/UpPdfFiles/2026/Jul/4_07-20-2026_16-58-23_Adv%20regarding%20empanelment%20of%20Ph.D.%20Degree%20Holders.pdf"
+    },
+    {
+        "date": "21/07/2026",
         "board": "ULB Haryana",
         "title": "Engineering Associate (Civil, Electrical and Horticulture)",
         "qualification": "Degree / Relevant Engineering Qualification (Civil, Electrical, Horticulture)",
@@ -13,7 +29,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://ulbharyana.gov.in/",
-        "official_notification": "karnataka-forest-department-group-d-forest-observer-recruitment-2026-3059518"
+        "official_notification": "Not Available"
     },
     {
         "date": "20/07/2026",
