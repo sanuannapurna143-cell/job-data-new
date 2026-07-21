@@ -1,6 +1,38 @@
 [
     {
         "date": "21/07/2026",
+        "board": "Central University of Kerala",
+        "title": "Laboratory Assistant/ Computer Operator",
+        "qualification": "B.Sc. Computer Science/ BCA/ B.E/ B.Tech. in Computer Science/ MCA/ any other relevant degrees related to computer science or Information Technology from recognized Institute /University",
+        "last_date": "26-07-2026",
+        "total_posts": "6",
+        "salary": "Rs. 23,360/- Per Month",
+        "age_limit": "Maximum Age Limit: 32 years || Age relaxation is applicable as per Govt. of India Rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Email Application Submission || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cukerala.ac.in",
+        "official_notification": "https://www.cukerala.ac.in/EventDetails?Id=4061"
+    },
+    {
+        "date": "21/07/2026",
+        "board": "SCDD",
+        "title": "State Programme Manager, Coordinators, District Coordinators",
+        "qualification": "Master's Degree in Social Work/Public Administration/Rural Development/Management/Economics or any other recognized discipline",
+        "last_date": "27-07-2026",
+        "total_posts": "10",
+        "salary": "Rs. 25000 - 35000 Per Month",
+        "age_limit": "State Programme Manager: Upto 40 years || Coordinators (State Level): Upto 35 years || District Coordinators: Upto 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Proficiency Test || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://cmd.kerala.gov.in/",
+        "official_notification": "https://cmd.kerala.gov.in/wp-content/uploads/2026/07/Notification-PIU.pdf"
+    },
+    {
+        "date": "21/07/2026",
         "board": "ISRO",
         "title": "UDC, Steno and More – 242 Posts",
         "qualification": "Any Graduate, Diploma",

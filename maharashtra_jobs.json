@@ -1,19 +1,35 @@
 [
     {
         "date": "21/07/2026",
-        "board": "BRTC Chichpalli",
-        "title": "Supervisor, Civil Engineer and More – 21 Posts",
-        "qualification": "Ph.D. in Mechanical or Civil Engineering and Technology/Design with First Class at Bachelor's or Master's level. Minimum 12 years' teaching/research/industry experience in Bamboo field, including at least 2 years post-Ph.D. experience in a leadership position, with proven research publications, funded projects and academic administration, as per AICTE norms wherever applicable. OR Bachelor's and Master's Degree in relevant discipline with minimum 15 years of experience in Teaching/Research/Industry, out of which at least 3 years shall be at the level of Lecturer (Selection Grade-II).",
-        "last_date": "27-07-2026",
-        "total_posts": "21",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
+        "board": "DRDO ARDE",
+        "title": "Junior Research Fellow & Research Associate – 24 Posts",
+        "qualification": "Ph.D. in Electronics Engg. from a reputed institution, OR M.E./M.Tech with a minimum of 3 years' R&D experience in a reputed institution. Candidates who have submitted their Ph.D. thesis may also apply, but the associateship will be awarded only after the degree is conferred, within the validity period of the offer. At least one research paper publication in a JCR/SCI-listed refereed journal is mandatory. Experience in RF/Microwaves/Antenna is desirable.",
+        "last_date": "31-08-2026",
+        "total_posts": "24",
+        "salary": "Junior Research Fellow (JRF): Rs. 37,000 per month || Research Associate (RA): Rs. 67,000 per month || HRA, medical facilities, and contingency grant are also admissible as per applicable rules. The fellowship is initially for two years, extendable as per rules for JRF.",
+        "age_limit": "Age relaxation: 5 years for SC/ST candidates || Age relaxation: 3 years for OBC candidates",
         "application_fee": "Not Available",
-        "selection_process": "The selection shall be made through interview / written test as decided by the Selection Committee.",
+        "selection_process": "As per the notification: || Only shortlisted candidates will be called for an interview and/or written test. || Interview/written test dates will be communicated only via email to shortlisted candidates. || Selected candidates must bring a copy of their Bio-data and original certificates for verification at the time of the interview. || The notification does not provide further details of the written test pattern, syllabus, or interview weightage.",
         "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "https://brtc.org.in/",
-        "official_notification": "https://mahaforest.gov.in/writereaddata/fckimagefile/BRTC_Recruitment_Advertisement.pdf"
+        "official_website": "https://drdo.gov.in/",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtARDE21072026.pdf"
+    },
+    {
+        "date": "21/07/2026",
+        "board": "SIDBI",
+        "title": "Consultant Credit Analyst (CCA)",
+        "qualification": "The candidate must be a Qualified Chartered Accountant. || The candidate should have cleared the CA Final examination in not more than two attempts. || This criterion may be relaxed for candidates belonging to SC/ST/OBC/EWS/PwBD categories, if required.",
+        "last_date": "21-08-2026",
+        "total_posts": "2 (including 1 backlog vacancy)",
+        "salary": "Selected candidates will be offered a remuneration of ₹12.00 lakh per annum on a Cost to Company (CTC) basis, inclusive of fixed and variable components. || Additional facilities such as Group Insurance will also be provided. || An annual increment on the initially fixed CTC will be considered based on periodic performance review. || The salary includes a variable component of 10%, released subject to satisfactory performance as decided by the Bank.",
+        "age_limit": "The candidate should not be more than 28 years old as on June 30, 2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Selection is done through shortlisting and personal interview at Mumbai, New Delhi, Chennai, and Ahmedabad. || SIDBI may conduct an online Psychometric Test or any other suitable test to assess personality, communication level, problem-solving ability, efficiency, and suitability for the post. || The Bank reserves the right to modify the selection procedure if deemed fit. || Merit List: Prepared in descending order based solely on interview scores. || Wait List: SIDBI may draw a wait list to meet actual requirements, if needed. || In case of a tie in interview scores, candidates will be ranked by age in descending order (older candidate ranked higher), both in the select list and wait list.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sidbi.in/head/uploads/career_document/Webad_Website_Final_20_07_2026.pdf",
+        "official_notification": "https://icaiplacements.icai.org/#/"
     },
     {
         "date": "21/07/2026",
@@ -33,6 +49,22 @@
     },
     {
         "date": "21/07/2026",
+        "board": "BRTC Chichpalli",
+        "title": "Supervisor, Civil Engineer and More – 21 Posts",
+        "qualification": "Ph.D. in Mechanical or Civil Engineering and Technology/Design with First Class at Bachelor's or Master's level. Minimum 12 years' teaching/research/industry experience in Bamboo field, including at least 2 years post-Ph.D. experience in a leadership position, with proven research publications, funded projects and academic administration, as per AICTE norms wherever applicable. OR Bachelor's and Master's Degree in relevant discipline with minimum 15 years of experience in Teaching/Research/Industry, out of which at least 3 years shall be at the level of Lecturer (Selection Grade-II).",
+        "last_date": "27-07-2026",
+        "total_posts": "21",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "The selection shall be made through interview / written test as decided by the Selection Committee.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://brtc.org.in/",
+        "official_notification": "https://mahaforest.gov.in/writereaddata/fckimagefile/BRTC_Recruitment_Advertisement.pdf"
+    },
+    {
+        "date": "21/07/2026",
         "board": "RRB",
         "title": "Junior Engineer (JE), Depot Material Superintendent (DMS) & Chemical and Metallurgical Assistant (CMA)",
         "qualification": "B.Sc, B.Tech/ B.E, Diploma",
@@ -45,7 +77,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "ulb-haryana-engineering-associate-recruitment-2026-apply-online-for-150-posts-3059529"
+        "official_notification": "Not Available"
     },
     {
         "date": "21/07/2026",

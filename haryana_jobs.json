@@ -1,6 +1,22 @@
 [
     {
         "date": "21/07/2026",
+        "board": "ULB Haryana",
+        "title": "Engineering Associate (Civil), Engineering Associate (Electrical), Engineering Associate (Horticulture)",
+        "qualification": "First class degree in Agriculture with specialization in Horticulture; or M.Sc. degree in Horticulture including Floriculture and Olericulture; or M.Sc. degree in Botany with Horticulture as one of the subjects, from any recognized university or institution in India.",
+        "last_date": "06-08-2026",
+        "total_posts": "150",
+        "salary": "₹30,000/-",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process for this Engineering Associate recruitment involves the following officially confirmed stages: || Applications will be scrutinised at the Directorate of Urban Local Bodies level by a committee, and candidates will be shortlisted based on merit. || The written test of shortlisted candidates will be conducted through a reputed Government agency, Government-controlled agency, or an institution selected by the Department. || Preference will be given to candidates having a PhD, Master's Degree, or who were toppers of their Bachelor's Degree in the prescribed streams. || The decision of the Department will be final, and no further correspondence will be entertained.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ulbharyana.gov.in/",
+        "official_notification": "https://ulbharyana.gov.in/AdminDashboard/ViewUploadFile?fileName=CONTENTFILES%5Ca08cd9d949664c48b047216588801d63.pdf"
+    },
+    {
+        "date": "21/07/2026",
         "board": "MDU",
         "title": "Lecture Basis",
         "qualification": "Ph.D. Degree holders",
@@ -14,22 +30,6 @@
         "syllabus": "Not Available",
         "official_website": "https://mdu.ac.in/",
         "official_notification": "https://mdu.ac.in/UpFiles/UpPdfFiles/2026/Jul/4_07-20-2026_16-58-23_Adv%20regarding%20empanelment%20of%20Ph.D.%20Degree%20Holders.pdf"
-    },
-    {
-        "date": "21/07/2026",
-        "board": "ULB Haryana",
-        "title": "Engineering Associate (Civil, Electrical and Horticulture)",
-        "qualification": "Degree / Relevant Engineering Qualification (Civil, Electrical, Horticulture)",
-        "last_date": "06-08-2026",
-        "total_posts": "150 Posts",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "The selection process details will be available in the detailed terms and conditions issued by the Urban Local Bodies Department, Haryana.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ulbharyana.gov.in/",
-        "official_notification": "Not Available"
     },
     {
         "date": "20/07/2026",

@@ -1,6 +1,38 @@
 [
     {
         "date": "21/07/2026",
+        "board": "SGPGIMS",
+        "title": "Project Research Scientist I",
+        "qualification": "First Class Post Graduate Degree, including the integrated PG degrees OR Second-Class Post Graduate Degree, including the integrated PG degrees with PhD in Life Sciences/Biotechnology/Biochemistry/Molecular Biology",
+        "last_date": "25-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 56000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sgpgi.ac.in",
+        "official_notification": "https://sgpgims.org.in/Home/recruit/Project/2026/Hemato_Dr%20Kulwant_210726.pdf"
+    },
+    {
+        "date": "21/07/2026",
+        "board": "AMU",
+        "title": "Veterinarian",
+        "qualification": "B.V.Sc. & A.H. recognized by the Veterinary Council of India, Three years experience in the relevant field after obtaining B.V.Sc. & A.H.",
+        "last_date": "05-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 26,000/- Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://api.amu.ac.in/",
+        "official_notification": "https://api.amu.ac.in/storage/file/10146/jobs/1784610097.pdf"
+    },
+    {
+        "date": "21/07/2026",
         "board": "AAM Gonda",
         "title": "Yoga Instructor (Male)",
         "qualification": "BNYS Degree, BA(Yoga)/BSc(Yoga)/MA Yoga, PG Diploma in Yoga, Yoga Certification Board Certificate",
