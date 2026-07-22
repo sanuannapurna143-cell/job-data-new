@@ -1,6 +1,102 @@
 [
     {
         "date": "22/07/2026",
+        "board": "AAI",
+        "title": "Educational Qualification",
+        "qualification": "Full-time Bachelor's Degree in Mass Communication/Journalism/Literature (Hindi/English) with a Post Graduate Degree or 2-year full-time Diploma in Journalism/Mass Media/Mass Communication",
+        "last_date": "07-09-2026",
+        "total_posts": "Name of Post",
+        "salary": "In addition to Basic Pay, Dearness Allowance, Perks (35% of Basic Pay), HRA, and other benefits including CPF, Gratuity, Social Security Schemes, and Medical benefits are admissible as per AAI Rules. Pay protection is provided as per DPE Guidelines for candidates joining from other CPSEs/State PSUs/Government Departments through proper channel.",
+        "age_limit": "SC/ST candidates: 5 years || OBC (Non-Creamy Layer) candidates: 3 years || PwBD candidates with permanent disability (in identified suitable categories): 10 years || Ex-servicemen and Commissioned Officers with at least 5 years of military service: 5 years || Candidates in regular AAI service who have completed probation: up to 10 years",
+        "application_fee": "Application Fee: Rs. 1,000 (inclusive of GST), payable through online mode only. || SC candidates, ST candidates, PwBD candidates, Women candidates, and AAI Apprentices who have completed 1 year of Apprenticeship Training in AAI are exempt from the fee. || Fee can be paid via Debit Card, Credit Card, Internet Banking, IMPS, or Cash Cards/Mobile Wallets. || Fees once paid are non-refundable under any circumstances; duplicate payments will be refunded after the closing date. || Candidates can apply for multiple posts with separate registration and separate fee payment for each post.",
+        "selection_process": "Computer Based Test (Objective Type) will be conducted for all posts, with no negative marking for wrong answers. || Provisionally eligible candidates will be called for the Computer Based Test based on details furnished in the application form. || The Computer Based Test will be followed by Application Verification/Subsequent Tests for all posts. || Post Codes 1 to 11 (all Manager posts) will also include an Interview as part of the selection process. || For Manager (Fire Services), Application Verification is followed by a Physical Measurement Test, Driving Test, and Physical Endurance Test (Running, Casualty Carrying, Pole Climbing, Rope Climbing, and Ladder Climbing & Descending). Only candidates who qualify these tests proceed to the interview. || For Manager and Junior Executive (Airport Operations), a valid Light Motor Vehicle License is essential (temporary/learning license not accepted). || Final selection is based on a merit list from Computer Based Test and Interview scores (wherever applicable), subject to meeting all eligibility criteria. || Selected candidates for Manager (Fire Services) must undergo training and execute a Surety Bond of Rs. 5 lakh to serve AAI for 3 years after training completion. || Colour blindness and/or night blindness is a rejection criterion for all posts except Post Codes 3 (Finance) and 12 (Junior Executive Finance). || Selected candidates will be liable to be posted anywhere in India.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.aai.aero/",
+        "official_notification": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Detailed%20Advertisement%2012-2026-CHQ.pdf"
+    },
+    {
+        "date": "22/07/2026",
+        "board": "IIM Sambalpur",
+        "title": "Non-Teaching Staff",
+        "qualification": "B.Tech/ B.E, Any Post Graduate, MBA/ PGDM, MCA, LLB, 10TH, CA, Any Graduate",
+        "last_date": "11-08-2026",
+        "total_posts": "7",
+        "salary": "Consolidated Pay",
+        "age_limit": "All Posts: Please refer to the official notification for specific age limits and relaxation details.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iimsambalpur.ac.in",
+        "official_notification": "https://iimsambalpur.ac.in/wp-content/uploads/2026/07/Non-Teaching-Positions-for-IIM-Sambalpur-DELHI-CENTER.pdf"
+    },
+    {
+        "date": "22/07/2026",
+        "board": "AIIMS Delhi",
+        "title": "Project Research Scientist-I (PRS-I) (Medical)",
+        "qualification": "MBBS/BVSc/BDS or equivalent",
+        "last_date": "30-07-2026",
+        "total_posts": "1",
+        "salary": "As per ICMR guidelines",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/neuro-22-7-26.pdf"
+    },
+    {
+        "date": "22/07/2026",
+        "board": "IIT Delhi",
+        "title": "Jr. Research Fellow",
+        "qualification": "1st Class B.Tech in Chemical Engineering with NET/GATE",
+        "last_date": "31-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1784525353904_8w3lv6w.pdf"
+    },
+    {
+        "date": "22/07/2026",
+        "board": "South Indian Bank",
+        "title": "Probationary Officer (CA)",
+        "qualification": "Chartered Accountant (CA)",
+        "last_date": "29-07-2026",
+        "total_posts": "Not specified in the notification",
+        "salary": "Selected candidates will be placed in Scale I cadre and will be paid the IBA-approved scale of pay applicable to Scale I Officers, which includes Dearness Allowance (DA), House Rent Allowance (HRA), Special Allowance, and other allowances. A Performance Linked Incentive will also be paid as per the scheme applicable to Scale I officers.",
+        "age_limit": "Maximum age: 30 years (as on 30 June 2026) || Age relaxation: 5 years for SC/ST candidates || SC/ST candidates must submit attested copies of certificates from a competent authority to prove their category status when called for the Recruitment Process.",
+        "application_fee": "There is no application fee for this recruitment. The application fee is Nil for all categories.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.southindianbank.bank.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/52148-6a60404856b1796264529.pdf"
+    },
+    {
+        "date": "22/07/2026",
+        "board": "BIRAC",
+        "title": "Associate Consultant [Finance & Accounts]",
+        "qualification": "CA / ICWA, B. Com with MBA-Finance /PGDM -Finance from a recognized Institute",
+        "last_date": "13-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 75000 Per Month",
+        "age_limit": "Max: 45 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://birac.nic.in/",
+        "official_notification": "https://birac.nic.in/desc_new.php?id=1349"
+    },
+    {
+        "date": "22/07/2026",
         "board": "Sri Venkateswara College Delhi",
         "title": "Junior Assistant-cum-Caretaker",
         "qualification": "A Bachelor's Degree from any recognized institute/University, English Typing @35 wpm or Hindi Typing @30 wpm, Proficiency in Computer Operations, Proficiency in accounting software",
@@ -221,7 +317,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.igib.res.in/",
-        "official_notification": "Not Available"
+        "official_notification": "aai-manager-junior-executive-recruitment-2026-3059898"
     },
     {
         "date": "21/07/2026",
@@ -253,7 +349,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://upsconline.nic.in/",
-        "official_notification": "Not Available"
+        "official_notification": "aai-manager-junior-executive-recruitment-2026-3059898"
     },
     {
         "date": "21/07/2026",
@@ -285,7 +381,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "aai-manager-junior-executive-recruitment-2026-3059898"
     },
     {
         "date": "20/07/2026",
@@ -621,7 +717,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.icgeb.org",
-        "official_notification": "/cdn-cgi/l/email-protection#640006104a0d070301064a060d0b010a0116031d240309050d084a070b09"
+        "official_notification": "/cdn-cgi/l/email-protection#147076603a7d777371763a767d7b717a7166736d547379757d783a777b79"
     },
     {
         "date": "18/07/2026",
@@ -2157,7 +2253,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "Not Available"
+        "official_notification": "aai-manager-junior-executive-recruitment-2026-3059898"
     },
     {
         "date": "01/07/2026",

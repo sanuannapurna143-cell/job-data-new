@@ -1,6 +1,38 @@
 [
     {
         "date": "22/07/2026",
+        "board": "ICAR IVRI",
+        "title": "Young Professional",
+        "qualification": "Graduate / B.Tech / M.Tech / Post Graduate",
+        "last_date": "19-08-2026",
+        "total_posts": "5",
+        "salary": "Young Professional-II (YP-II): Rs 42,000/- (Consolidated) || Young Professional-I (YP-I): Rs 30,000/- (Consolidated)",
+        "age_limit": "Young Professional-II (YP-II) (Dairy Engineering): 21 to 45 years || Young Professional-II (YP-II) (Dairy Chemistry): Age limit not specified. || Young Professional-II (YP-II) (IT): 21 to 45 years || Young Professional-I (YP-I) (IT): 21 to 45 years || Young Professional-II (YP-II) (IT): 21 to 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Selection will be purely on merit basis.",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ivri.nic.in",
+        "official_notification": "https://www.ivri.nic.in/jobs/CombAdvtYPsthroughInstitutefund..pdf"
+    },
+    {
+        "date": "22/07/2026",
+        "board": "IIT Kanpur",
+        "title": "Project Engineer",
+        "qualification": "Bachelor’s or master’s degree in computer science, software engineering, or a related field",
+        "last_date": "31-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 31600 - 78400 Per Month",
+        "age_limit": "Please refer to the official notification for specific age limit details and relaxation criteria.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/ee-pe-21-07-26.html"
+    },
+    {
+        "date": "22/07/2026",
         "board": "IIT BHU",
         "title": "Junior Research Assistant (JRA)",
         "qualification": "M.Sc. in Physics, Chemistry, Materials Science, Nanoscience, and/or other related allied discipline with 1st division in graduate and postgraduate examinations.",
@@ -1437,7 +1469,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "Not Available"
+        "official_notification": "aai-manager-junior-executive-recruitment-2026-3059898"
     },
     {
         "date": "26/06/2026",
