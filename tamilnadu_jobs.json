@@ -1,6 +1,38 @@
 [
     {
         "date": "22/07/2026",
+        "board": "Bharathiar University",
+        "title": "Project Assistant",
+        "qualification": "M.Sc. in Chemistry with 55% marks",
+        "last_date": "03-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30000 - 37000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.b-u.ac.in",
+        "official_notification": "https://b-u.ac.in/sites/b-u.ac.in/files/Recruitment/2026/Advertisement%20-SERB%20CRG%20Project.pdf"
+    },
+    {
+        "date": "22/07/2026",
+        "board": "SASTRA",
+        "title": "Project Associate",
+        "qualification": "M. E / M.Tech. / M. Sc. in Environmental Engineering, and Chemical Engineering.",
+        "last_date": "05-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sastra.edu",
+        "official_notification": "https://www.sastra.edu/advertisement/4643-advertisement-for-recruitment-of-project-associate-on-an-aicte-research-promotion-scheme-rps.html"
+    },
+    {
+        "date": "22/07/2026",
         "board": "DHS Tiruchirappalli",
         "title": "Medical Officer",
         "qualification": "MBBS",
@@ -125,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "south-indian-bank-po-recruitment-2026-3059848"
     },
     {
         "date": "21/07/2026",
