@@ -1,5 +1,37 @@
 [
     {
+        "date": "22/07/2026",
+        "board": "NIT Warangal",
+        "title": "Various Posts",
+        "qualification": "Graduate, B.E./ B.Tech., M.Sc., MCA, Master's Degree",
+        "last_date": "19-08-2026",
+        "total_posts": "5",
+        "salary": "Principal Scientific/Technical Officer: Minimum pay of Rs.1,44,200/- in Level 14 of the 7th central pay matrix +DA+allowances || Principal Students Activity and Sports (SAS) Officer: Minimum pay of Rs. 1,44,200/- in Level 14 of the 7th central pay matrix + DA + allowances || Senior Technical Officer: Minimum pay of Rs.78,800/- in Level 12 of the 7th central pay matrix + DA + allowances || Assistant Registrar: Minimum pay of Rs.56,100/- in Level 10 of the 7th central pay matrix + DA + allowances",
+        "age_limit": "Principal Scientific/Technical Officer: Maximum age limit is 56 years. Relaxation: Benchmark Disability: 10 years, Ex-Servicemen: As per Government of India orders, Reserved and departmental candidates: As per rules. || Principal Students Activity and Sports (SAS) Officer: Maximum age limit is 56 years. Relaxation: Benchmark Disability: 10 years, Ex-Servicemen: As per Government of India orders, Reserved and departmental candidates: As per rules. || Senior Technical Officer: Maximum age limit is 56 years. Relaxation: Benchmark Disability: 10 years, Ex-Servicemen: As per Government of India orders, Reserved and departmental candidates: As per rules. || Assistant Registrar: Maximum age limit is 56 years. Relaxation: Benchmark Disability: 10 years, Ex-Servicemen: As per Government of India orders, Reserved and departmental candidates: As per rules.",
+        "application_fee": "Rs. 1500",
+        "selection_process": "Interview || Objective/ Skill Test (if required)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nitw.ac.in/Careers/",
+        "official_notification": "https://nitw.ac.in/api/static/files/03_2026_2026-7-20-17-46-42.pdf"
+    },
+    {
+        "date": "22/07/2026",
+        "board": "MANUU",
+        "title": "Junior Engineer (Civil)",
+        "qualification": "B.E/B.Tech. in Civil Engineering or Diploma in Civil Engineering with three years experience",
+        "last_date": "27-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 32,000/- to 40,000/- per month (Consolidated)",
+        "age_limit": "Maximum Age Limit: 30 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.manuu.edu.in",
+        "official_notification": "https://manuu.edu.in/sites/default/files/Notification/2026-07/Walk-in-interview-JECivil.pdf"
+    },
+    {
         "date": "20/07/2026",
         "board": "Telangana Anganwadi",
         "title": "Anganwadi Helper / Ayah (AWH)",

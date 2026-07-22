@@ -1,5 +1,53 @@
 [
     {
+        "date": "22/07/2026",
+        "board": "ACMS Delhi",
+        "title": "Professor / Associate Professor / Assistant Professor / Senior Resident",
+        "qualification": "Any Post Graduate, M.Phil/ Ph.D",
+        "last_date": "31-07-2026",
+        "total_posts": "16",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Selection on merit after Interview by the Selection Board. No TA/DA will be paid.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.theacms.in",
+        "official_notification": "https://theacms.in/assets/admin/vacancy//895811784609405.pdf"
+    },
+    {
+        "date": "22/07/2026",
+        "board": "IIT Delhi",
+        "title": "Junior Research Fellow",
+        "qualification": "1st class M.Tech./M.S. (or equivalent) in Structural Engineering or a related discipline",
+        "last_date": "29-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- p.m. plus HRA @ 27%",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1784198940049_5ky3pk5.pdf"
+    },
+    {
+        "date": "22/07/2026",
+        "board": "ICSI",
+        "title": "Executive Assistant",
+        "qualification": "Graduate in Commerce.",
+        "last_date": "12-08-2026",
+        "total_posts": "20",
+        "salary": "Also Read: Calculate your exact in-hand Salary in 10 seconds - Calculate Now",
+        "age_limit": "The maximum age limit for the post of Executive Assistant, as on 01 July 2026, is 35 years.",
+        "application_fee": "No application fee has been specified in the notification.",
+        "selection_process": "Selection will be made through a Written Test of Objective Type (MCQ), broadly covering the following topics: || Basic Accounting || General English || Basic Mathematics || Computer Knowledge || Quantitative Aptitude || Reasoning || General Knowledge & Current Affairs || Mere submission of application or fulfilment of eligibility conditions does not confer any right on a candidate to be shortlisted or called for the written test. ICSI reserves the right to call for the written test only those candidates who, in its opinion, are most suitable for the post, and reserves the right to reject any or all applications without assigning any reason. ICSI's decision on eligibility, shortlisting, conduct of the written test, and selection will be final and binding, and no correspondence will be entertained in this regard. No Travel Allowance shall be reimbursed for attending the written test.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.icsi.edu/",
+        "official_notification": "https://www.icsi.edu"
+    },
+    {
         "date": "21/07/2026",
         "board": "SIDBI",
         "title": "Consultant Credit Analyst (CCA)",
@@ -189,7 +237,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "nsti-kanpur-guest-faculties-recruitment-2026-3059719"
     },
     {
         "date": "20/07/2026",
@@ -369,22 +417,6 @@
     },
     {
         "date": "20/07/2026",
-        "board": "GIPMER",
-        "title": "Senior Resident",
-        "qualification": "MBBS with P.G Degree or Diploma in the concerned specialty from a Recognized University/Institution and should be registered with the Delhi Medical Council.",
-        "last_date": "21-07-2026",
-        "total_posts": "2",
-        "salary": "Rs 67,700/- plus usual allowances",
-        "age_limit": "Upper age limit 45 years, relaxable by 05 years for SC/ST and 03 years for OBC.",
-        "application_fee": "Rs. 300/- (Non Refundable)",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.gbpant.delhigovt.nic.in",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wpgim_1.pdf"
-    },
-    {
-        "date": "20/07/2026",
         "board": "NHSRC",
         "title": "Post Name",
         "qualification": "Graduation in Journalism/Mass Communication or Literature with min. 3 years' relevant experience",
@@ -541,7 +573,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.icgeb.org",
-        "official_notification": "/cdn-cgi/l/email-protection#d0b4b2a4feb9b3b7b5b2feb2b9bfb5beb5a2b7a990b7bdb1b9bcfeb3bfbd"
+        "official_notification": "/cdn-cgi/l/email-protection#99fdfbedb7f0fafefcfbb7fbf0f6fcf7fcebfee0d9fef4f8f0f5b7faf6f4"
     },
     {
         "date": "18/07/2026",
@@ -654,22 +686,6 @@
         "syllabus": "Not Available",
         "official_website": "https://dsci.delhi.gov.in",
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wdsci_25.pdf"
-    },
-    {
-        "date": "18/07/2026",
-        "board": "AIIMS Delhi",
-        "title": "Technical Officer",
-        "qualification": "Post graduate degree in life sciences or in related fields",
-        "last_date": "21-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 40000 Per Month",
-        "age_limit": "Maximum Age Limit: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiims.edu/",
-        "official_notification": "https://aiims.edu/images/pdf/recruitment/advertisement/labmed-16-7-26.pdf"
     },
     {
         "date": "18/07/2026",
@@ -1185,22 +1201,6 @@
     },
     {
         "date": "15/07/2026",
-        "board": "AIIMS Delhi",
-        "title": "Project Technical Support III / Project Research Scientist I (Non-Medical)",
-        "qualification": "Three Years Graduate in relevant subject + Three Years experience or PG in relevant subject, Post Graduate Degree including the integrated PG Degree",
-        "last_date": "21-07-2026",
-        "total_posts": "3",
-        "salary": "Not Available",
-        "age_limit": "Age relaxation will be provided as per ICMR rules for SC/ST/OBC/PwBD candidates.",
-        "application_fee": "Not Available",
-        "selection_process": "Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiims.edu/",
-        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/neuro-11-7-26.pdf"
-    },
-    {
-        "date": "15/07/2026",
         "board": "ICSI",
         "title": "Consultant (PMQ, Certificate & Crash Courses and Capacity Building Series)",
         "qualification": "MBA/PG Degree in commerce/ Economics/Management or Equivalent",
@@ -1246,22 +1246,6 @@
         "syllabus": "Not Available",
         "official_website": "https://pngrb.gov.in/",
         "official_notification": "https://pngrb.gov.in/pdf/public-notice/20260713_Engg_II_III_IV.pdf"
-    },
-    {
-        "date": "15/07/2026",
-        "board": "NSIC",
-        "title": "Software Developer as Consultant (IT)",
-        "qualification": "B.Tech. (CS/IT) / B.E. (CS/IT) / MCA",
-        "last_date": "21-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 80,000/- per month",
-        "age_limit": "Maximum Age: 50 years",
-        "application_fee": "Not Available",
-        "selection_process": "Interaction || Personal Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nsic.co.in/",
-        "official_notification": "https://www.nsic.co.in/documents/PDFs/Careers/2026714181514.pdf"
     },
     {
         "date": "15/07/2026",
@@ -1825,22 +1809,6 @@
     },
     {
         "date": "09/07/2026",
-        "board": "AIIMS New Delhi",
-        "title": "Technical Officer",
-        "qualification": "• Fluent in English and Hindi\r\t\t\t• Motivated, committed and able to work independently as well as in a team\r\t\t\t• Good communication and writing skills",
-        "last_date": "21-07-2026",
-        "total_posts": "01",
-        "salary": "Rs. 40,000/- per month",
-        "age_limit": "Maximum 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Only shortlisted candidates will be called for the interview. || Upon selection, candidates must bring all original testimonials of educational qualifications and experience certificates. || No TA/DA will be provided for attending the interview.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiims.edu/",
-        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/labmed-7-7-26.pdf"
-    },
-    {
-        "date": "09/07/2026",
         "board": "CCI",
         "title": "Assistant Manager (Official Language/IT), Management Trainee (Marketing/Accounts), Junior Commercial Executive, Junior Assistant (Accounts/General)",
         "qualification": "The educational qualification varies by post. Candidates must check the specific requirement for the post they intend to apply for before submitting their application. || For post codes 105, 106 and 107, employees currently working in CCI (regular/temporary) require Any Graduate (10+2+3) qualification, with age relaxation limited to their years of service in CCI.",
@@ -1905,38 +1873,6 @@
     },
     {
         "date": "08/07/2026",
-        "board": "NCDC",
-        "title": "Junior Laboratory Technician Grade II and Field Worker",
-        "qualification": "12th pass for Fieldworker, B.Sc in Medical Laboratory Technology for Junior Laboratory Technician Grade II.",
-        "last_date": "21-07-2026",
-        "total_posts": "3",
-        "salary": "Rs. 24,484/- per month (consolidated) for Fieldworker, Rs. 26,671/- per month (consolidated) for Junior Laboratory Technician Grade II",
-        "age_limit": "Field Worker:Maximum age limit is 30 years. || Junior Laboratory Technician Grade II:Maximum age limit is 40 years.",
-        "application_fee": "Not Available",
-        "selection_process": "Screening of documents || Written MCQ Test",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://ncdc.mohfw.gov.in/",
-        "official_notification": "https://ncdc.mohfw.gov.in/uploads/vacancies/1782114595_NCDC_ED_NPSP_2026_01_correspondence_4966315_2026_169_22-06-2026_12-36-15pm.pdf"
-    },
-    {
-        "date": "08/07/2026",
-        "board": "NIT Delhi",
-        "title": "Project Technical Support-III (PTS-III)",
-        "qualification": "For Sciences: Three Years Graduate + three years experience or PG in relevant field. For Engineering: First Class Four Years Graduate Degree + three years experience or PG in relevant field.",
-        "last_date": "21-07-2026",
-        "total_posts": "01",
-        "salary": "Not Available",
-        "age_limit": "Maximum 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://nitdelhi.ac.in/",
-        "official_notification": "https://media.nitdelhi.ac.in/uploads/announcements/Recruitment/ADVERTISEMENT_PTS-III@nitdelhid3233daf-2816-4c5b-a837-e8c4ab5b454b.pdf"
-    },
-    {
-        "date": "08/07/2026",
         "board": "ICAR IARI",
         "title": "Young Professional II",
         "qualification": "Postgraduates in Nematology/ Molecular Biology/ Biotechnology/ Genetics & Plant Breeding/ Botany/ any relevant discipline of life sciences or Graduate degree holders in relevant Agricultural Sciences/ Engineering/ Technology",
@@ -1966,22 +1902,6 @@
         "syllabus": "Not Available",
         "official_website": "www.moef.nic.in",
         "official_notification": "https://moef.gov.in/storage/tender/1783405917.pdf"
-    },
-    {
-        "date": "07/07/2026",
-        "board": "STCL",
-        "title": "Dy Manager (Marketing), Associate (Operation)",
-        "qualification": "Any Graduate, Any Post Graduate, Diploma, MBA/ PGDM",
-        "last_date": "21-07-2026",
-        "total_posts": "11",
-        "salary": "Dy Manager (Marketing):Approx Rs 14.50 LPA (HRA as per POP) || Associate (Operation):Approx Rs 5 LPA",
-        "age_limit": "Maximum Age: 40 years for all posts. || Age will be calculated as on 31 March 2026. || Relaxation may be given to highly deserving candidates.",
-        "application_fee": "Not Available",
-        "selection_process": "Email Application",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.bharattaxiapp.com",
-        "official_notification": "https://www.kribhco.net/pages/other/SahakarTaxi/JDs.pdf"
     },
     {
         "date": "07/07/2026",
@@ -2208,22 +2128,6 @@
         "official_notification": "https://dtu.ac.in/Web/upload/jobs/2026/june/file0613.pdf"
     },
     {
-        "date": "30/06/2026",
-        "board": "Sahakar Taxi Cooperative Limited",
-        "title": "Dy Manager (Marketing), Associate, Executive",
-        "qualification": "Graduation with full-time Master's Degree/ Executive MBA /Post Graduate Diploma (2-years duration) in Marketing, Graduate from an institution/university of repute",
-        "last_date": "21-07-2026",
-        "total_posts": "11",
-        "salary": "Approx Rs 14.50 LPA (HRA as per POP)",
-        "age_limit": "Please refer to the official notification for age limit details. || Age Relaxation:Relaxation may be given to highly deserving candidates.",
-        "application_fee": "Nil",
-        "selection_process": "Please refer to the official notification for selection process details.",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ncdc.in/",
-        "official_notification": "https://www.ncdc.in/documents/career/3812290626JDs-Merged_merged.pdf"
-    },
-    {
         "date": "29/06/2026",
         "board": "JNU",
         "title": "MTS, Steno and More – 267 Posts",
@@ -2414,22 +2318,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ayush.gov.in/",
         "official_notification": "https://ccrum.res.in/writereaddata/UploadFile/Advt%20for%20deputation%20at%20NMPB%20Ministry%20of%20Ayush639160188034594098.pdf"
-    },
-    {
-        "date": "13/06/2026",
-        "board": "CVC",
-        "title": "Technical Examiner / Assistant Technical Examiner / Assistant Technical Examiner (Horticulture) / Staff Car Driver (Grade II)",
-        "qualification": "Bachelors Degree in Engineering, Diploma in Engineering, Trade Test for Driver",
-        "last_date": "21-07-2026",
-        "total_posts": "6",
-        "salary": "Technical Examiner: Level 11 of the 7th CPC (Rs. 67700 – 208700/-) || Assistant Technical Examiner: Level 7 of the 7th CPC (Rs. 44900 – 142400/-) || Assistant Technical Examiner (Horticulture): Level 7 of the 7th CPC (Rs. 44900 – 142400/-) || Staff Car Driver (Grade II): Level 4 of the 7th CPC (Rs. 25500 – 81100/-)",
-        "age_limit": "Maximum Age Limit: 56 years for all posts.",
-        "application_fee": "Nil",
-        "selection_process": "Application Scrutiny || Document Verification",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://cvc.gov.in",
-        "official_notification": "https://cvc.gov.in/uploads/vacancies/vacancies-circular-20260529_165600.pdf"
     },
     {
         "date": "05/06/2026",

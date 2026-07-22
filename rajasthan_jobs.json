@@ -1,5 +1,37 @@
 [
     {
+        "date": "22/07/2026",
+        "board": "MNIT Jaipur",
+        "title": "Medical Officers and Specialist Doctors",
+        "qualification": "MBBS/MD, MBBS/MD/DGO/MS in Gynecology, MBBS/MD/DNB Pediatrics, BAMS, BHMS, BPT/MPT, MBBS/MD in Dermatology, MBBS/MS in Orthopedics, MBBS/MD/DNB in Gastroenterology, MBBS/MD/DM in Cardiology, MBBS/MD/DM in Endocrinology",
+        "last_date": "11-08-2026",
+        "total_posts": "14",
+        "salary": "Rs. 4,500 per visit of one hour OR Rs. 7,000 per visit of two hours",
+        "age_limit": "Maximum Age Limit: 65 years for all posts.",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mnit.ac.in",
+        "official_notification": "https://mnit.ac.in/cms/uploads/2026/07/Advt_MO.pdf"
+    },
+    {
+        "date": "22/07/2026",
+        "board": "RPSC",
+        "title": "Physiotherapist (NSA)",
+        "qualification": "Diploma",
+        "last_date": "21-08-2026",
+        "total_posts": "20",
+        "salary": "Pay Matrix Level L-11",
+        "age_limit": "Additional relaxations also apply to categories such as ex-prisoners, cadet instructors, emergency commissioned officers, and persons repatriated from Pakistan, Burma, Ceylon, or East African countries - as detailed in the official notification.",
+        "application_fee": "The application fee is charged once under Rajasthan's One-Time Registration (OTR) fee structure and depends on the candidate's category. || Note: Candidates who have already completed One-Time Registration under the SSO portal are not required to pay this fee again for this recruitment.",
+        "selection_process": "Selection for the RPSC Physiotherapist post is based purely on the candidate's performance in the written examination described above. There is no interview stage mentioned in this recruitment notification. Final merit will be prepared according to marks scored, subject to eligibility verification and document scrutiny.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rpsc.rajasthan.gov.in/",
+        "official_notification": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/C80D8376B256408692F17AAA61B754DE.pdf"
+    },
+    {
         "date": "21/07/2026",
         "board": "AIIMS Jodhpur",
         "title": "Research Assistant",

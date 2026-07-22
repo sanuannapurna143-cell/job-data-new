@@ -1,5 +1,37 @@
 [
     {
+        "date": "22/07/2026",
+        "board": "DHS Tiruchirappalli",
+        "title": "Medical Officer",
+        "qualification": "MBBS",
+        "last_date": "31-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 63000 Per Month",
+        "age_limit": "Maximum Age Limit: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://tiruchirappalli.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3f73b76ce8949fe29bf2a537cfa420e8f/uploads/2026/07/17842721225716.pdf"
+    },
+    {
+        "date": "22/07/2026",
+        "board": "IBPS",
+        "title": "Probationary Officer/Management Trainee",
+        "qualification": "Candidates must possess a valid mark-sheet/degree certificate confirming graduation on the day of registration and must indicate the percentage of marks obtained in graduation while registering online.",
+        "last_date": "26-07-2026",
+        "total_posts": "6715",
+        "salary": "As per the official notification, the pay scale for Probationary Officer/Management Trainee is: || Basic Pay: ₹48480-2000/7-62480-2340/2-67160-2680/7-85920 || The official will also be eligible for allowances and perquisites as per the rules of the concerned Participating Bank in force from time to time. || Calculate your exact in-hand Salary in 10 seconds - Calculate Now",
+        "age_limit": "Minimum Age: 20 years || Maximum Age: 30 years || A candidate must have been born not earlier than 02.07.1996 and not later than 01.07.2006 (both dates inclusive).",
+        "application_fee": "Payment is accepted only through online mode (Debit Cards, Credit Cards, Internet Banking, IMPS, Cash Cards/Mobile Wallets/UPI). Bank transaction charges, if any, must be borne by the candidate.",
+        "selection_process": "The IBPS CRP PO/MT-XVI selection process consists of the following stages: || Online Preliminary Examination (Objective Test) || Online Main Examination (Objective and Descriptive) || Personality Test (self-report, non-qualifying but mandatory for interview eligibility) || Common Interview || Provisional Allotment",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ibps.in",
+        "official_notification": "https://www.ibps.in/wp-content/uploads/Corrigendum-for-extension_CRP-XVI.pdf"
+    },
+    {
         "date": "21/07/2026",
         "board": "SIDBI",
         "title": "Consultant Credit Analyst (CCA)",
