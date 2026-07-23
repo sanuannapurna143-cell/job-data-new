@@ -1,5 +1,37 @@
 [
     {
+        "date": "23/07/2026",
+        "board": "WCD Odisha",
+        "title": "Anganwadi Helper",
+        "qualification": "12TH",
+        "last_date": "03-08-2026",
+        "total_posts": "3",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.engagement-awc.odisha.gov.in",
+        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=167270"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "VIMSAR Burla",
+        "title": "Office Assistant (Contractual)",
+        "qualification": "Graduation with 55% marks + PGDCA/DCA/MCA/BCA/OS-CIT or equivalent",
+        "last_date": "21-08-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sambalpur.odisha.gov.in/",
+        "official_notification": "https://sambalpur.odisha.gov.in/sites/default/files/2026-07/11944.pdf"
+    },
+    {
         "date": "22/07/2026",
         "board": "AAI",
         "title": "Educational Qualification",
@@ -206,22 +238,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.irel.co.in",
         "official_notification": "https://www.irel.co.in/documents/20126/167125/Final+Full+Advt-35-2026.pdf/fdcd1f78-329d-c4e7-6faf-427c17dbd3a2?t=1784535209048"
-    },
-    {
-        "date": "20/07/2026",
-        "board": "WCD Odisha",
-        "title": "Anganwadi Helper",
-        "qualification": "12TH",
-        "last_date": "03-08-2026",
-        "total_posts": "3",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Document Verification",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.engagement-awc.odisha.gov.in",
-        "official_notification": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=167270"
     },
     {
         "date": "20/07/2026",

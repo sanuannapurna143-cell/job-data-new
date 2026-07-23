@@ -1,6 +1,22 @@
 [
     {
         "date": "23/07/2026",
+        "board": "BTSC",
+        "title": "Technician (Bench Chemist) & Assistant Bacteriologist",
+        "qualification": "B.Sc",
+        "last_date": "23-08-2026",
+        "total_posts": "Technician (Bench Chemist) - 10 Posts\r\t\t\tAssistant Bacteriologist - 3 Posts",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://btsc.bihar.gov.in/",
+        "official_notification": "https://btsc.bihar.gov.in/sites/default/files/circulars/Notice_No_2144_Technician%20%28Bench%20Chemist%29.pdf"
+    },
+    {
+        "date": "23/07/2026",
         "board": "IIT Patna",
         "title": "Project Associate-2",
         "qualification": "B.Tech/M.Tech degree in Computer Science/ Information Technology/ Software Engineering/ Electronics Engineering/ Electrical Engineering/ AI/DS or related fields with a minimum CPI of 6.5 or 60% of marks. Must have qualified GATE in CS/DA not older than 04 years from the last date of submission of application / NET qualification. GATE score is waived for candidates with Bachelor's Degree in Engineering from CFTIs with CGPA of 8.0 and above.",

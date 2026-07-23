@@ -1,6 +1,38 @@
 [
     {
         "date": "23/07/2026",
+        "board": "IIT Gandhinagar",
+        "title": "Project Assistant I",
+        "qualification": "Master in Archaeology, Ancient Indian History and Culture, Heritage and Museum Studies, or Society and Culture.",
+        "last_date": "31-08-2026",
+        "total_posts": "1",
+        "salary": "₹28,000/- to ₹44,000/- per month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitgn.ac.in/",
+        "official_notification": "https://drive.google.com/file/d/1npuI2uLVTyH2P7vsbvBA4FH8q_QAa9hp/view"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "ESIC Ahmedabad",
+        "title": "Teaching Faculty (Professor, Associate Professor, Assistant Professor)",
+        "qualification": "In accordance with the latest guidelines of the National Medical Commission (NMC/MCI)",
+        "last_date": "03-08-2026",
+        "total_posts": "33",
+        "salary": "Professor:Rs. 1,18,500/- (Level 13) + Other Allowances || Associate Professor:Rs. 78,800/- (Level 12) + Other Allowances || Assistant Professor:Rs. 67,700/- (Level 11) + Other Allowances",
+        "age_limit": "Maximum Age Limit: 69 years for all posts. || Age relaxation will be provided as per the prevailing norms of Government of India (GOI).",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Document Verification || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_Interview_for_Recruitment_of_Teaching_Faculty_on_contract_basis_at_ESIC_Medical_College_amp_Hospital_Naroda_Bapunagar_Ahmedabad_English_1784802859.pdf"
+    },
+    {
+        "date": "23/07/2026",
         "board": "AIIMS Rajkot",
         "title": "Study Coordinator",
         "qualification": "PhD in Biological Sciences/Biomedical Sciences from a recognized University",

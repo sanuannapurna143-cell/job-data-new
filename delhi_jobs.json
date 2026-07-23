@@ -1,6 +1,86 @@
 [
     {
         "date": "23/07/2026",
+        "board": "AIIMS Delhi",
+        "title": "Scientist D, Optometrist",
+        "qualification": "MD Ophthalmology for Scientist D, B.Sc Optometry for Optometrist",
+        "last_date": "30-07-2026",
+        "total_posts": "2",
+        "salary": "Rs 1,18,110 per month, Rs 31,000 per month",
+        "age_limit": "Scientist D (medical): Upto 45 years || Optometrist: Upto 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/rpc-22-7-26.pdf"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "ESIC Okhla",
+        "title": "Senior Resident & Specialist – 47 Posts",
+        "qualification": "MBBS, DNB, Any Post Graduate, PG Diploma, MS/ MD, DM",
+        "last_date": "28-07-2026",
+        "total_posts": "12 (1 + 11, across two vacancy tables)",
+        "salary": "Rs. 67,700/- (Level-11, 7th CPC matrix) + other allowances per month as applicable. Rs. 1,350/- deducted if the SR possesses only a diploma.",
+        "age_limit": "Age relaxation for SC/ST/OBC candidates is applicable as per rule. The OBC certificate must be in the prescribed format certifying that the candidate does not belong to the creamy layer. Reservation for PWD candidates is as per rule.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Selection is made purely through a walk-in interview - there is no written examination or online application process. Candidates must appear in person on the notified date and time with the prescribed application form and all original/photocopied documents for verification. The decision of the Selection Board is final on all aspects of selection.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://esic.gov.in/",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_on_27_07_2026_for_Senior_Resident_amp_on_28_07_2026_for_Specialist_Super_Specialist_Reporting_time_9_00AM_to_11_00AM_1784795989.pdf"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "IIT Delhi",
+        "title": "Research Associate",
+        "qualification": "PhD in Cancer Biology, Biochemistry, or a related biomedical discipline",
+        "last_date": "29-07-2026",
+        "total_posts": "1",
+        "salary": "Rs.58,000/- p.m. plus HRA @ 27%",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1784179126743_qtzdxwb.pdf"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "AIIMS Delhi",
+        "title": "Project Research Scientist-I (Medical)",
+        "qualification": "MBBS/BVSc/BDS or equivalent",
+        "last_date": "01-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 67000/- + HRA",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/plasticsurg-18-7-26.pdf"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "DRDO SSPL",
+        "title": "Junior Research Fellow & Research Associate – 23 Posts",
+        "qualification": "B.Tech/ B.E, M.Sc, M.E/ M.Tech, M.Phil/ Ph.D",
+        "last_date": "09-09-2026",
+        "total_posts": "23",
+        "salary": "Candidates naturally want clarity on take-home pay before attending the interview. SSPL has clearly specified the monthly stipend for both fellowship categories in the advertisement itself. || Selected candidates will be paid as per the provision of funds available for the project, up to the Probable Date of Completion (PDC) of that project. This means the payment continuity is tied to the funding and duration of the specific DRDO project the fellow is engaged on.",
+        "age_limit": "Candidates from SC/ST/OBC categories are entitled to age relaxation as per prevailing Government of India rules. No specific number of years is mentioned in the advertisement, so applicable category candidates should carry category certificates to confirm the exact relaxation at the time of the interview.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in/",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtSSPL23072026.pdf"
+    },
+    {
+        "date": "23/07/2026",
         "board": "DTU",
         "title": "Guest Faculty",
         "qualification": "B.E./B.Tech and M.E./M.Tech in relevant branch with 1st class or equivalent either in B.E./B.Tech or M.E./M.Tech from a recognized University OR 1st class or equivalent in B.E./B.Tech in relevant branch alongwith Ph.D. in relevant branch from a recognized University",
@@ -397,7 +477,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.igib.res.in/",
-        "official_notification": "shivamogga-district-court-peon-recruitment-2026-3060015"
+        "official_notification": "Not Available"
     },
     {
         "date": "21/07/2026",
@@ -781,7 +861,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.icgeb.org",
-        "official_notification": "/cdn-cgi/l/email-protection#751117015b1c161210175b171c1a101b1007120c351218141c195b161a18"
+        "official_notification": "/cdn-cgi/l/email-protection#741016005a1d171311165a161d1b111a1106130d341319151d185a171b19"
     },
     {
         "date": "18/07/2026",
