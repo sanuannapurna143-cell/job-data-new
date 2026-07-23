@@ -1,5 +1,69 @@
 [
     {
+        "date": "23/07/2026",
+        "board": "Bhadohi UP Anganwadi",
+        "title": "Anganwadi Sahayika (Helper)",
+        "qualification": "12TH",
+        "last_date": "20-08-2026",
+        "total_posts": "87",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://upanganwadibharti.in/",
+        "official_notification": "https://upanganwadibharti.in/helper-v2/uploadOrder/ordercopy1784625623.pdf"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "UP Anganwadi",
+        "title": "Anganwadi Karyakartri (Anganwadi Worker)",
+        "qualification": "Intermediate (12th) or equivalent",
+        "last_date": "11-08-2026",
+        "total_posts": "336",
+        "salary": "Not Available",
+        "age_limit": "Minimum age: 18 years; Maximum age: 35 years (as on cut-off date 1 July 2026) || Only the date of birth recorded in the High School marksheet/certificate will be considered valid",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://upanganwadibharti.in",
+        "official_notification": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1784632908_d629e489.pdf"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "IIT Kanpur",
+        "title": "Junior Research Fellow",
+        "qualification": "M.Tech./ME/MSc. in Civil Engineering (Transportation Engineering), Computer Science and Engineering, Electrical Engineering, Mechanical Engineering, Electronics and Communication Engineering, Data Science, or allied fields with minimum CPI 6.5 or 60% marks and valid GATE/NET, B.Tech./B.E./B.Sc. in Civil Engineering, Computer Science and Engineering, Electrical Engineering, Mechanical Engineering, Electronics and Communication Engineering, Data Science, Machine Learning and Computing or allied fields with at least 70% marks or 7.5 CPI and valid GATE/NET",
+        "last_date": "05-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in/",
+        "official_notification": "https://www.iitk.ac.in/dord/project/ce-jrf-22-07-26.html"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "MPMMCC",
+        "title": "Project Technical Support-III",
+        "qualification": "Bachelor's Degree in Life Sciences/Clinical Research/Clinical Data Management with minimum 03 years' relevant experience OR Post Graduate Degree in Clinical Research, Bachelor's Degree in Life Sciences/Genetics/Genetics Counselling with minimum 03 years' relevant experience OR Post Graduate Degree in Genetic Counselling",
+        "last_date": "23-07-2026",
+        "total_posts": "2",
+        "salary": "Rs. 33600 Per Month",
+        "age_limit": "Maximum Age Limit: 45 years",
+        "application_fee": "Nil",
+        "selection_process": "Walk-In Interview || Written Test (if more candidates) || Skill Test/Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://tmc.gov.in/",
+        "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=3tGEDlDN7V0dQvb6fB0zwQ=="
+    },
+    {
         "date": "22/07/2026",
         "board": "ICAR IVRI",
         "title": "Young Professional",
@@ -1341,7 +1405,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "aai-manager-junior-executive-recruitment-2026-3059898"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/06/2026",
