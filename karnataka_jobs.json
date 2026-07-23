@@ -1,5 +1,21 @@
 [
     {
+        "date": "23/07/2026",
+        "board": "Shivamogga District Court",
+        "title": "Peon",
+        "qualification": "Pass in SSLC (10th) conducted by the Karnataka Secondary Education Examination Board, or an equivalent examination (CBSE/ICSE Class 10, other State Board Class 10, NIOS Secondary level course, or KSOU Secondary level course, as clarified vide Government Circular dated 27.02.2018)",
+        "last_date": "24-08-2026",
+        "total_posts": "56",
+        "salary": "Not Available",
+        "age_limit": "Minimum age: 18 years || Maximum age – General category: 35 + 5* years || Maximum age – Category 2A, 2B, 3A, 3B: 38 + 5* years || Maximum age – SC, ST, Category-1: 40 + 5* years || *A one-time additional relaxation of 5 years in the maximum age limit is granted to candidates of all categories participating in the selection process, as per Government Order dated 29.01.2026 || Further age relaxations apply for government employees/ex-employees of State Government, local authorities, or government corporations (up to years of service or 10 years, whichever is less), ex-servicemen (service years + 3 years), NCC whole-time instructors, Gram Sevaks, persons with disabilities (10 years), Census Department employees (service years or 5 years, whichever is less), widows (10 years), and released bonded labourers (10 years), as per the Karnataka Civil Services (General Recruitment) Rules, 1977",
+        "application_fee": "₹200/- (General); ₹100/- (Category 2A/2B/3A/3B); Nil for SC/ST/Category-1/Disabled candidates",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://shivamogga.dcourts.gov.in/notice-category/recruitments/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0321c5bba1dd6aed9ab48c2b34c1a0/uploads/2026/07/2026072069.pdf"
+    },
+    {
         "date": "22/07/2026",
         "board": "NABFINS",
         "title": "Customer Service Officer - IT",
@@ -178,18 +194,18 @@
     {
         "date": "21/07/2026",
         "board": "HAL",
-        "title": "Finance Officer, Deputy Manager (Finance), Manager (Design)",
-        "qualification": "Degree / Engineering / Finance Qualification (Post Wise)",
+        "title": "Finance Officer, Dy. Manager (Finance), Manager (Design) – Mechanical/Electrical/Electronics",
+        "qualification": "Degree in Engineering/Technology (in eligible branch) along with M.E./M.Tech from a recognized institute/university",
         "last_date": "12-08-2026",
         "total_posts": "30",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting of Candidates || Interview || Document Verification || Medical Examination",
+        "salary": "Pay Scale (2017 Scales)",
+        "age_limit": "Age reckoned as on the last date for receipt of online applications: 12 August 2026 || SC/ST candidates applying against reserved posts: 5 years' relaxation || OBC (NCL) candidates applying against reserved posts: 3 years' relaxation || PwBD candidates: 10 years' relaxation, over and above relaxation for SC/ST/OBC(NCL) || Candidates domiciled in Jammu & Kashmir during 1.1.1980 to 31.12.1989: 5 years' relaxation || Ex-servicemen and serving Armed Forces officers: relaxation as per Company rules || OBC/SC/ST/EWS candidates applying for UR posts will be treated on par with UR criteria - no relaxation applicable || Maximum age after all relaxations: 56 years for PwBDs, 55 years for all other candidates",
+        "application_fee": "₹500/- (inclusive of 18% GST) for all candidates other than SC/ST/PwBD || SC, ST, and PwBD candidates are exempted from the application fee || Fee once paid is non-refundable under any circumstances, even if the candidate cannot complete registration || Payment is made online via SB Collect (Credit Card/Internet Banking/UPI); applicable convenience fee/taxes are borne by the candidate || Applications submitted without the requisite fee will be summarily rejected with no refund",
+        "selection_process": "Selection will be through Personal Interview only. || Applications are first scrutinized based on essential qualification, age, category, and PPQE; candidates must produce supporting documents at the document verification stage. || Only Executive Cadre experience in the concerned PSU/Central/State/Private organization is considered eligible; contract experience engaged directly by PSU/Government bodies may be considered, but contract experience through third-party contractors will not be considered. || Candidates will be shortlisted for interview in a ratio of 1:10 (maximum), prioritized by relevant experience, then qualifying exam marks, then age (elder/senior first) in case of ties. || The Selection Committee will assess candidates on job knowledge, general knowledge related to the post, and personality, in addition to qualifications and PPQE. || Meeting the minimum qualification/PPQE criteria does not guarantee shortlisting for interview. || Date, time, and venue of interview will be communicated only via email to shortlisted candidates; the shortlist will be hosted on the HAL website.",
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.hal-india.co.in/",
-        "official_notification": "Not Available"
+        "official_notification": "https://halcorp.formflix.com/advertisement"
     },
     {
         "date": "21/07/2026",

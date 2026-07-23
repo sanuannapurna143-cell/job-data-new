@@ -1,6 +1,22 @@
 [
     {
         "date": "23/07/2026",
+        "board": "AIIMS Rajkot",
+        "title": "Study Coordinator",
+        "qualification": "PhD in Biological Sciences/Biomedical Sciences from a recognized University",
+        "last_date": "04-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 100000 Per Month",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsrajkot.edu.in",
+        "official_notification": "https://aiimsrajkot.edu.in/api/files/GOAL-ASIA%20Project%20Recruitment.pdf"
+    },
+    {
+        "date": "23/07/2026",
         "board": "GSSSB",
         "title": "Municipal Engineer, Class-3",
         "qualification": "B.Tech/ B.E",
@@ -1053,6 +1069,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "gsssb-municipal-engineer-recruitment-2026-3059913"
+        "official_notification": "Not Available"
     }
 ]

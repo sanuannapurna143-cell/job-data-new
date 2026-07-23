@@ -1,5 +1,37 @@
 [
     {
+        "date": "23/07/2026",
+        "board": "PAU",
+        "title": "Field Supervisor",
+        "qualification": "B.Sc. Agri. (Hons.) with minimum OCPA of 6.00/10.00 or 60% marks, M.Sc. (Agricultural Economics) with minimum OCPA of 6.50/10.00 or 65% marks, Punjabi at matriculation level from Punjab School Education Board or any other recognized board",
+        "last_date": "05-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 35000 Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 37 years",
+        "application_fee": "Rs. 200/-",
+        "selection_process": "Documents Verification || Practical Test",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://pau.edu",
+        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7464"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "PAU",
+        "title": "Research Fellow",
+        "qualification": "B. Tech. Computer Science /BCA/ B.E. Computer Science/B. Tech Electronics and Communication/ B. Tech Electrical with minimum OCPA of 6.00/10.00 basis or 60% marks OR Masters' Degree in Computer Science /Computer Application/ Electronics and Communication/Electrical or equivalent with minimum OCPA 6.50/10.00 basis or 65% marks with NET OR Masters' Degree in Computer Science /Computer Application/ Electronics and Communication/Electrical or equivalent with minimum OCPA 6.50/10.00 basis or 65% marks without NET",
+        "last_date": "31-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- fixed + 16% HRA p.m. OR Rs. 25000/- +16% HRA (FIXED)",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Rs. 200/-",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://pau.edu/",
+        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7462"
+    },
+    {
         "date": "22/07/2026",
         "board": "IISER Mohali",
         "title": "Library Professional (on training)",

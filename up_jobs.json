@@ -1,6 +1,38 @@
 [
     {
         "date": "23/07/2026",
+        "board": "ICAR IVRI",
+        "title": "Young Professional-II",
+        "qualification": "Post-graduation/Master degree in Veterinary Sciences/Animal Sciences/Microbiology/Biotechnology/Life Sciences OR Bachelor in Veterinary and Animal Husbandry (B.V.Sc. & A.H.)",
+        "last_date": "11-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 42000 Per Month",
+        "age_limit": "Min: 21 years, Max: 45 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ivri.nic.in",
+        "official_notification": "https://www.ivri.nic.in/jobs/Walin_2072026.pdf"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "UP Anganwadi",
+        "title": "Anganwadi Worker",
+        "qualification": "The minimum educational qualification for the Anganwadi Karyakatri post is Intermediate (Class 12) or an equivalent qualification. Merit will be prepared considering marks up to a maximum qualification of postgraduate level, if the candidate holds higher degrees.",
+        "last_date": "11-08-2026",
+        "total_posts": "220",
+        "salary": "This post is a mandeya-adharit (honorarium-based) contractual engagement, not a regular salaried government job. However, the specific monthly honorarium amount is not mentioned in this notification. Candidates should check the official portal (upanganwadibharti.in) or the ICDS Directorate, Lucknow, for the current honorarium structure applicable to Anganwadi Karyakatri.",
+        "age_limit": "The date of birth mentioned in the High School mark sheet and certificate will be treated as valid for age calculation. The notification does not mention any age relaxation for reserved categories for this specific recruitment cycle.",
+        "application_fee": "Not Available",
+        "selection_process": "Selection is entirely merit-based - there is no written examination. The process, as described in the Government Order dated 17 September 2025 (referenced in this notification), works as follows: || 50% posts from serving Anganwadi Sahayikas (Helpers): Half of the vacant Karyakatri posts are first filled through eligible Anganwadi Sahayikas of the same gram sabha/ward who have completed a minimum of 5 years of regular service, are not above 50 years of age, and hold at least Intermediate qualification. Selection among eligible Sahayikas is done through merit. || Remaining 50% posts via direct recruitment: The remaining posts are filled through direct online applications from eligible women residents, following the priority order (widow/divorced/deserted/general, BPL first) described above. || Tie-breaker rule: If two or more candidates score equal merit marks, the older candidate is given preference. If age is also equal, the candidate with higher educational qualification is preferred. || Reservation: Reservation for SC, ST, and OBC categories is applied as per applicable Uttar Pradesh government orders. || Selection Committee: Chaired by the Chief Development Officer (or an Additional District Magistrate-level officer nominated by the District Magistrate), with the District Programme Officer as Member Secretary, along with nominated SC/ST officer, OBC officer, a Group A/B woman officer, and the concerned Child Development Project Officer (CDPO) as member/presenter. || Approval and appointment: The selection list recommended by the committee is approved by the District Magistrate. Appointment letters are to be issued within 15 working days after DM approval, and appointment authority rests with the District Programme Officer.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://upanganwadibharti.in/",
+        "official_notification": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1784634634_c02c225b.pdf"
+    },
+    {
+        "date": "23/07/2026",
         "board": "Bhadohi UP Anganwadi",
         "title": "Anganwadi Sahayika (Helper)",
         "qualification": "12TH",

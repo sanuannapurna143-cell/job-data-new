@@ -1,5 +1,85 @@
 [
     {
+        "date": "23/07/2026",
+        "board": "DTU",
+        "title": "Guest Faculty",
+        "qualification": "B.E./B.Tech and M.E./M.Tech in relevant branch with 1st class or equivalent either in B.E./B.Tech or M.E./M.Tech from a recognized University OR 1st class or equivalent in B.E./B.Tech in relevant branch alongwith Ph.D. in relevant branch from a recognized University",
+        "last_date": "27-07-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Rs. 1750/- to Rs. 2750/- per hour (Theory) || Rs. 875/- to Rs. 1375/- per hour (Lab) as per designation || Maximum ceiling: Rs. 52,000/- to Rs. 70,000/- per month",
+        "age_limit": "No specific age limit is mentioned in the provided data. Please refer to the official notification for details.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://dtu.ac.in/",
+        "official_notification": "https://dtu.ac.in/Web/upload/jobs/2026/july/file0711.pdf"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "CSIR HRDG",
+        "title": "Consultant",
+        "qualification": "Graduation from any recognized university/institution",
+        "last_date": "27-07-2026",
+        "total_posts": "2",
+        "salary": "Consultant (Administration): Last Basic Pay Drawn - Basic Pension || Consultant (Finance & Accounts): Last Basic Pay Drawn - Basic Pension",
+        "age_limit": "Maximum Age Limit: 64 years for all posts.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.csirhrdg.res.in",
+        "official_notification": "https://www.csir.res.in/sites/default/files/2026-07/advt_consultant.pdf"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "AIIMS Delhi",
+        "title": "Project Technical Support 1",
+        "qualification": "10th + Diploma (MLT/ DMLT/ ITI) + two years experience in relevant subject or Three years Graduate degree in relevant subject/field + One year experience in relevant field. Desirable: work experience in a molecular biology laboratory",
+        "last_date": "02-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 18000 Per Month",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/pead-20-7-26.pdf"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "SGMH Delhi",
+        "title": "Junior Resident",
+        "qualification": "MBBS",
+        "last_date": "30-07-2026",
+        "total_posts": "14",
+        "salary": "Rs. 56100-1,77,500/-",
+        "age_limit": "30 yrs for General (5 yrs relaxable for SC/ST, 3 yrs relaxable for OBC and 5 yrs extra relaxable for Persons with disabilities candidate)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walkin",
+        "syllabus": "Not Available",
+        "official_website": "https://sgmh.delhi.gov.in/",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsgm_11.pdf"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "IIT Delhi",
+        "title": "Jr. Research Fellow",
+        "qualification": "Bachelors or Masters degree in mathematics, computer science, or closely related discipline, Strong foundation in discrete mathematics and algorithms, Interest in algebra, number theory, or theoretical computer science, Familiarity with abstract algebra, computational complexity and symbolic computation (useful but not essential), Comfortable with reading and writing proofs, Interest in pursuing a PhD, NET/GATE (relaxable for CFTI graduates with CGPA >8.000)",
+        "last_date": "31-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in/",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1784356920388_14al90u.pdf"
+    },
+    {
         "date": "22/07/2026",
         "board": "AAI",
         "title": "Educational Qualification",
@@ -317,7 +397,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.igib.res.in/",
-        "official_notification": "Not Available"
+        "official_notification": "shivamogga-district-court-peon-recruitment-2026-3060015"
     },
     {
         "date": "21/07/2026",
@@ -349,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://upsconline.nic.in/",
-        "official_notification": "gsssb-municipal-engineer-recruitment-2026-3059913"
+        "official_notification": "Not Available"
     },
     {
         "date": "21/07/2026",
@@ -381,7 +461,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "gsssb-municipal-engineer-recruitment-2026-3059913"
+        "official_notification": "Not Available"
     },
     {
         "date": "20/07/2026",
@@ -701,7 +781,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.icgeb.org",
-        "official_notification": "/cdn-cgi/l/email-protection#1f7b7d6b31767c787a7d317d76707a717a6d78665f78727e7673317c7072"
+        "official_notification": "/cdn-cgi/l/email-protection#751117015b1c161210175b171c1a101b1007120c351218141c195b161a18"
     },
     {
         "date": "18/07/2026",
@@ -2141,7 +2221,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "gsssb-municipal-engineer-recruitment-2026-3059913"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",

@@ -1,6 +1,22 @@
 [
     {
         "date": "23/07/2026",
+        "board": "IIT Indore",
+        "title": "Attendant",
+        "qualification": "Minimum 10th pass",
+        "last_date": "30-07-2026",
+        "total_posts": "3",
+        "salary": "Attendant: Consolidated salary of ₹23,947/- per month.",
+        "age_limit": "The maximum age limit for Attendant posts is 45 Years. || Age relaxation details are not specified in the provided data.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiti.ac.in",
+        "official_notification": "https://www.iiti.ac.in/public/storage/recruitments/July2026/cjEr89bqXa0O5oH2GWUr.pdf"
+    },
+    {
+        "date": "23/07/2026",
         "board": "DHSGSU",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "M.Sc./ M. Tech. in Plant Sciences/ Botany/ Biotechnology/Life Science (with 55% and above) and have qualified NET/GATE/or any National level exam conducted by DST/DBT/DRDO/ICAR/ICMR.",

@@ -1,6 +1,38 @@
 [
     {
         "date": "23/07/2026",
+        "board": "MDU Rohtak",
+        "title": "Assistant Professor",
+        "qualification": "As prescribed by the UGC/State Government/Maharshi Dayanand University, Rohtak",
+        "last_date": "27-07-2026",
+        "total_posts": "5",
+        "salary": "Rs. 57700 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Scrutiny of Applications || Walk-in Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://mdu.ac.in",
+        "official_notification": "https://mdu.ac.in/UpFiles/UpPdfFiles/2026/Jul/4_07-16-2026_15-43-55_notice%20for%20walk%20in%20interview.pdf"
+    },
+    {
+        "date": "23/07/2026",
+        "board": "RCB",
+        "title": "Project JRF",
+        "qualification": "M.Sc. in Life Sciences or related natural science disciplines with at least 60% marks and NET/GATE or equivalent national level examination",
+        "last_date": "05-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- + 27% HRA per month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rcb.res.in/",
+        "official_notification": "https://rcb.res.in/files/advertisement-files/advt._no._23_project_2026_hr-1.pdf"
+    },
+    {
+        "date": "23/07/2026",
         "board": "RCB",
         "title": "Project-JRF",
         "qualification": "M.Sc. Biotechnology / Chemistry / Pharmacy / Pharmacology qualified with any National level test (NET, CSIR-UGC, GATE, GPAT).",
