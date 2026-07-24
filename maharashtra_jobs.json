@@ -1,5 +1,53 @@
 [
     {
+        "date": "24/07/2026",
+        "board": "CSIR NEERI",
+        "title": "Senior Project Associate",
+        "qualification": "B.E. / B.Tech in Mechanical Engineering, 3 years experience in R&D",
+        "last_date": "30-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 42000 Per Month",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.neeri.res.in",
+        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/RECRUIT_SD_3A_EIAAPD_23072026.pdf"
+    },
+    {
+        "date": "24/07/2026",
+        "board": "CSIR NEERI",
+        "title": "Project Associate II",
+        "qualification": "M.E./ M.Tech. in Civil/ Chemical/ Environmental/ Energy Engineering from recognized University",
+        "last_date": "30-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 35,000/- + HRA (for NET/GATE qualified) or Rs. 28,000/- + HRA (others) Per Month",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.neeri.res.in",
+        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/RECRUIT_SD_2A_WESD_23072026_A.pdf"
+    },
+    {
+        "date": "24/07/2026",
+        "board": "CSIR-NEERI",
+        "title": "Project Associate-II",
+        "qualification": "M.Sc. in Remote Sensing and GIS/Geoinformatics from a recognized University",
+        "last_date": "30-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 35,000/- + HRA (NET/GATE qualified) or Rs. 28,000/- + HRA (others) Per Month",
+        "age_limit": "Maximum Age Limit: 35 years || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Online Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.neeri.res.in",
+        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/RECRUIT_SD_2A_WESD_23072026_B.pdf"
+    },
+    {
         "date": "23/07/2026",
         "board": "NFDC",
         "title": "Festival Coordinator",
@@ -365,7 +413,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "aai-consultant-recruitment-2026-3060134"
     },
     {
         "date": "21/07/2026",

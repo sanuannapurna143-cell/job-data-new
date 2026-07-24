@@ -209,22 +209,6 @@
     },
     {
         "date": "10/07/2026",
-        "board": "NABARD",
-        "title": "Specialists on Contract",
-        "qualification": "B.E./B.Tech or Postgraduate Degree in relevant fields for technical roles; Graduation or Master's Degree in relevant fields for other roles.",
-        "last_date": "23-07-2026",
-        "total_posts": "6",
-        "salary": "24-42 lakh p.a. to 30-45 lakh p.a.",
-        "age_limit": "Data Architect: 30 to 45 years || Application Solution Architect: 30 to 45 years || Technology Solution Architect: 30 to 45 years || Carbon Consultant: 27 to 35 years || Climate Change Specialist - Mitigation: 35 to 55 years || Specialist- Derivatives and Treasury Risk Management: 35 to 55 years",
-        "application_fee": "NIL",
-        "selection_process": "Candidates will be shortlisted for interview in the ratio of 1:3 on the basis of qualification, experience, etc. || The final appointment will be based on the decision of the Selection Committee constituted for the purpose.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nabard.org",
-        "official_notification": "https://www.nabard.org/auth/writereaddata/CareerNotices/1354898682FINAL%20%20Advtertisement%20-%2006%20Posts%20-%20SPPID,%20DCAS%20&%20FD%20June%202026.pdf?csrt=2011502644381595063"
-    },
-    {
-        "date": "10/07/2026",
         "board": "SIDBI",
         "title": "Product Manager – Product and Policy",
         "qualification": "Graduate degree in Finance, Commerce, Economics, Business Administration, Engineering or related field from a recognised University/Institute, Post-graduate qualification such as MBA/PGDM (Finance/Marketing/Operations), or equivalent certification in Product Management / Business Analysis",
@@ -254,21 +238,5 @@
         "syllabus": "Not Available",
         "official_website": "https://nabfid.org",
         "official_notification": "https://nabfid.org/careers"
-    },
-    {
-        "date": "03/07/2026",
-        "board": "Bank of Baroda",
-        "title": "Chief Technology Officer (CTO)",
-        "qualification": "Engineering Graduate in Computer Science/ Information Systems / other related fields or MCA or equivalent qualification",
-        "last_date": "23-07-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Min: 40 years, Max: 57 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.bankofbaroda.bank.in",
-        "official_notification": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-07/Advertisement-CTO-02-20.pdf"
     }
 ]

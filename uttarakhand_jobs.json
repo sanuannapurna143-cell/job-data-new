@@ -1,5 +1,37 @@
 [
     {
+        "date": "24/07/2026",
+        "board": "ECHS Dehradun",
+        "title": "Medical/Para Medical/Non-Medical Staff",
+        "qualification": "Graduate (for Officer In Charge), MD/MS/DNB (for Medical Specialist), MBBS (for Medical Officer), BSc/Diploma in Medical Lab Tech (for Lab Tech), DMLT/Class-I Lab Course (for Lab Asst), B Pharmacy/10+2 + Diploma (for Pharmacist), Graduate/Class I Clerical Trade (for Data Entry Operator), Class 8 + MT Driver Course (for Driver), Literate (for House Keeper)",
+        "last_date": "01-08-2026",
+        "total_posts": "15",
+        "salary": "Rs. 21800 - 130000 Per Month",
+        "age_limit": "Please refer to the official notification for specific age limit details for each post. || Age relaxation will be as per government rules.",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.echs.gov.in",
+        "official_notification": "https://www.echs.gov.in/assets/advertisement/DEHRADUN%20124.pdf"
+    },
+    {
+        "date": "24/07/2026",
+        "board": "Uttarakhand High Court",
+        "title": "Law Researcher",
+        "qualification": "Graduate in law",
+        "last_date": "03-08-2026",
+        "total_posts": "1",
+        "salary": "Fixed monthly honorarium of ₹50,000/-",
+        "age_limit": "Not more than 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://highcourtofuttarakhand.gov.in/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3bc7f621451b4f5df308a8e098112185d/uploads/2026/07/20260723288382342.pdf"
+    },
+    {
         "date": "22/07/2026",
         "board": "IIT Roorkee",
         "title": "Project Associate",
