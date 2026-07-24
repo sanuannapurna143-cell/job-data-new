@@ -1,6 +1,38 @@
 [
     {
         "date": "24/07/2026",
+        "board": "DGFT Ludhiana",
+        "title": "Young Professional",
+        "qualification": "Masters in Economics, Business Administration, Engineering, Commerce, or Law with minimum 60% marks.",
+        "last_date": "01-08-2026",
+        "total_posts": "3",
+        "salary": "Rs. 56,000/- per month",
+        "age_limit": "Maximum Age Limit: 35 years. || Age as on 20 July 2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test or Interview || Document Verification",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.dgft.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/789954-6a63332c2ea7310601682.pdf"
+    },
+    {
+        "date": "24/07/2026",
+        "board": "PAU",
+        "title": "Jr. Field / Lab Helper",
+        "qualification": "Matric pass with Punjabi",
+        "last_date": "07-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 13486 + 800 per month (consolidated)",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 63 years",
+        "application_fee": "Rs. 100/-",
+        "selection_process": "Appear before Selection Committee",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://pau.edu",
+        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7468"
+    },
+    {
+        "date": "24/07/2026",
         "board": "PAU",
         "title": "Project Associate-I",
         "qualification": "B.Sc./B.Tech. Biotechnology/Agriculture/B.Sc. Biosciences, M.Sc. in Biotechnology/Molecular Biology/Plant Breeding/Plant Breeding & Genetics/Genetics/crop plants/Biochemistry/Microbiology, NET/NET-LS/GATE/other National level tests",
