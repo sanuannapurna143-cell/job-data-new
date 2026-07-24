@@ -1,6 +1,38 @@
 [
     {
         "date": "24/07/2026",
+        "board": "AIIMS",
+        "title": "Nursing Officer",
+        "qualification": "Candidates must meet either of the following two eligibility routes: || Route I:B.Sc. (Hons.) Nursing / B.Sc. Nursing from an Indian Nursing Council or State Nursing Council recognized institute or university, OR Post-Certificate/Post-Basic B.Sc. Nursing from a recognized institute/university; AND registration as a Nurse and Midwife with the State or Indian Nursing Council. || Candidates who have completed their nursing qualification can also explore more Graduate Government Jobs and GNM/Staff Nurse Jobs available across India.",
+        "last_date": "13-08-2026",
+        "total_posts": "2218",
+        "salary": "Selected Nursing Officers will be placed at Level 07 in the Pay Matrix, corresponding to the pre-revised Pay Band-2 of Rs. 9,300–34,800 with Grade Pay of Rs. 4,600/-, under Group-B classification. Posts also carry usual allowances admissible to Central Government servants of similar status, as applicable at the respective posting city.",
+        "age_limit": "The base age limit for all AIIMS is 18 to 30 years. The crucial date for determining age is the closing date of online registration, i.e. 13 August 2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsexams.ac.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/7741219-6a62e29f1eeae47981983.pdf"
+    },
+    {
+        "date": "24/07/2026",
+        "board": "AIIMS Deoghar",
+        "title": "Junior Resident (Non-Academic)",
+        "qualification": "Candidates must hold a graduate (MBBS) degree from a recognized University/Institute.",
+        "last_date": "06-08-2026",
+        "total_posts": "29",
+        "salary": "Not Available",
+        "age_limit": "Candidates who have already completed 18 months of Junior Residency will not be considered eligible for this post. The date for determining eligibility with regard to age, educational qualification, and experience will be the date on which the candidate appears for the interview/written test examination.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsdeoghar.edu.in/",
+        "official_notification": "https://www.aiimsdeoghar.edu.in/"
+    },
+    {
+        "date": "24/07/2026",
         "board": "SAIL BSL",
         "title": "Consultant - General Duty Medical Officer (GDMO)",
         "qualification": "MBBS degree from a University/Institute recognized by MCI/NMC/SMC. || Registration with MCI/NMC/SMC or a valid practitioner license, and enrolment in the State Register or National Register, as applicable. || Candidates with relevant work experience will be given preference. The essential qualification and experience will be considered as on the date of advertisement, i.e., 23.07.2026.",
@@ -334,37 +366,5 @@
         "syllabus": "Not Available",
         "official_website": "https://fr.iitism.ac.in",
         "official_notification": "https://www.iitism.ac.in/storage/CareerDocument/Career_1782835923.pdf"
-    },
-    {
-        "date": "29/06/2026",
-        "board": "DHS Lohardaga",
-        "title": "Malaria Technical Supervisor (MTS) - NCVBDC",
-        "qualification": "Graduate preferably from biology stream",
-        "last_date": "24-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 24036 Per Month",
-        "age_limit": "Minimum Age: 21 Years || Maximum Age: 40 Years || Age Relaxation: ST: 40 years (50 years for PwD); Ex-Servicemen: 5 years relaxation in respective category",
-        "application_fee": "Nil",
-        "selection_process": "Written Test || Merit List based on Written Test and Educational Qualifications",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://lohardaga.nic.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2026/06/17821980555098.pdf"
-    },
-    {
-        "date": "25/06/2026",
-        "board": "DHS Lohardaga",
-        "title": "Programme",
-        "qualification": "Graduation from recognized university + 1-year Diploma in Computer Application or PG Diploma / DOEACC 'O' level or Bachelor in Computer Application/B.Sc. (IT) + minimum 2 years post-qualification experience + typing speed 40 WPM (English)",
-        "last_date": "24-07-2026",
-        "total_posts": "61",
-        "salary": "₹12,263/-",
-        "age_limit": "The minimum age for all posts is 21 years . Maximum age limits vary by category, calculated as of 31 May 2026 . || Ex-servicemen receive an additional 5-year age relaxation over the prescribed maximum limit for their respective category.",
-        "application_fee": "The application fee must be submitted as a Demand Draft drawn in favour of District Health Society, Lohardaga , payable at Lohardaga. Candidates applying for multiple posts must submit separate applications and separate fees for each post. The fee is non-refundable under all circumstances.",
-        "selection_process": "Written Examination (60 marks):Objective, multiple-choice questions; duration of 1 hour. || Academic/Training Score (40 marks):Marks are awarded based on percentage obtained in qualifying examinations as per the prescribed scoring formula. || Skill Test (if applicable):For select posts, a skill test may be conducted, which is qualifying in nature only and does not contribute to the merit score. || Document Verification:Shortlisted candidates must present original certificates at the time of verification. || Final Merit List:Prepared by the District Selection Committee, Lohardaga, and published on the official district website and notice boards. || The merit list will remain valid for one year from the date of publication. The written test will be held separately for vacancies under different programmes.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://lohardaga.nic.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2026/06/17822876202758.pdf"
     }
 ]
