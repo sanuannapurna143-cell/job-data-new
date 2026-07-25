@@ -1,5 +1,21 @@
 [
     {
+        "date": "25/07/2026",
+        "board": "IIT Delhi",
+        "title": "Project Manager",
+        "qualification": "Master's Degree preferably MCA with at least 55% marks, Post Graduate Degree with 55% marks",
+        "last_date": "03-08-2026",
+        "total_posts": "1",
+        "salary": "Project Manager:Rs. 64260 - 831840/- p.m. plus HRA @30% || Sr. Project Assistant (Admin.):Rs. 47790 - 62350/- p.m. plus HRA @30%",
+        "age_limit": "",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Online Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1784526017197_tu2u33k.pdf"
+    },
+    {
         "date": "24/07/2026",
         "board": "STPI",
         "title": "Junior Hindi Translator",
@@ -333,7 +349,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ncrtc.in/",
-        "official_notification": "upsssc-fsl-recruitment-2026-3060250"
+        "official_notification": "Not Available"
     },
     {
         "date": "24/07/2026",
@@ -845,7 +861,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.igib.res.in/",
-        "official_notification": "upsssc-fsl-recruitment-2026-3060250"
+        "official_notification": "Not Available"
     },
     {
         "date": "21/07/2026",
@@ -877,7 +893,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "upsssc-fsl-recruitment-2026-3060250"
+        "official_notification": "Not Available"
     },
     {
         "date": "20/07/2026",
@@ -1181,7 +1197,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.icgeb.org",
-        "official_notification": "/cdn-cgi/l/email-protection#117573653f78727674733f73787e747f7463766851767c70787d3f727e7c"
+        "official_notification": "/cdn-cgi/l/email-protection#a0c4c2d48ec9c3c7c5c28ec2c9cfc5cec5d2c7d9e0c7cdc1c9cc8ec3cfcd"
     },
     {
         "date": "18/07/2026",
@@ -1601,22 +1617,6 @@
     },
     {
         "date": "16/07/2026",
-        "board": "ICAR IARI",
-        "title": "IT Professional IV and Senior Research Fellow – 02 Posts",
-        "qualification": "B.Tech/ B.E, M.Sc, M.E/ M.Tech",
-        "last_date": "24-07-2026",
-        "total_posts": "02",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iari.res.in",
-        "official_notification": "https://iari.res.in/files/jobs/Advertisement_IT_Professional_IV_and_SRF_08072026.pdf"
-    },
-    {
-        "date": "16/07/2026",
         "board": "IIT Delhi",
         "title": "Jr. Research Fellow",
         "qualification": "1st class M.Tech./M.S. (or equivalent) in Structural Engineering or a related discipline.",
@@ -1712,22 +1712,6 @@
         "official_notification": "https://iari.res.in/files/jobs/Young_Professional_II_15072026.pdf"
     },
     {
-        "date": "16/07/2026",
-        "board": "DTU",
-        "title": "Guest Faculty",
-        "qualification": "B.Sc. and M.Sc. in Chemistry or relevant areas with NET/ JRF in Chemistry, M.Sc. in Chemistry with Ph.D. in relevant areas, as per UGC rules, B.Tech./ B.E. in Chemical Engineering or relevant area and M.Tech./ M.E. in Chemical Engineering or relevant area, B.Tech. in Chemical Engineering or relevant area with Ph.D. in relevant area",
-        "last_date": "24-07-2026",
-        "total_posts": "Not Mentioned",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Personal Interview",
-        "apply_mode": "Walkin",
-        "syllabus": "Not Available",
-        "official_website": "https://dtu.ac.in/",
-        "official_notification": "https://dtu.ac.in/Web/upload/jobs/2026/july/file0702.pdf"
-    },
-    {
         "date": "15/07/2026",
         "board": "NHSRC",
         "title": "Lead Consultant",
@@ -1790,22 +1774,6 @@
         "syllabus": "Not Available",
         "official_website": "https://pngrb.gov.in/",
         "official_notification": "https://pngrb.gov.in/pdf/public-notice/20260713_Engg_II_III_IV.pdf"
-    },
-    {
-        "date": "15/07/2026",
-        "board": "NFDC",
-        "title": "Senior Executive (Finance & Accounts)",
-        "qualification": "CA, ICWA",
-        "last_date": "24-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 70000 Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nfdcindia.com/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/07/2546-6a571eeea7d1887995449.pdf"
     },
     {
         "date": "15/07/2026",
@@ -1969,22 +1937,6 @@
     },
     {
         "date": "13/07/2026",
-        "board": "IIT Delhi",
-        "title": "Junior Research Fellow",
-        "qualification": "First-class M.Sc./M.Tech. (or equivalent) in Life Sciences, Biotechnology, or a related field, with a minimum of 60% marks (or CGPA 6.0/10) and qualification in CSIR-UGC NET, DBT-BET, ICMR-JRF, GATE, or equivalent",
-        "last_date": "24-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 37,000/- p.m. plus HRA @ 27%",
-        "age_limit": "Please refer to the official notification for specific age limits. || Relaxation: 5% relaxation of marks may be granted to the SC/ST Candidates.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://ird.iitd.ac.in/",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1783503865157_qp6fqrj.pdf"
-    },
-    {
-        "date": "13/07/2026",
         "board": "IIPA Delhi",
         "title": "Assistant Professor (Dr. B.R. Ambedkar Chair in Social Justice)",
         "qualification": "LLM, M.A, M.Sc",
@@ -2030,22 +1982,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iari.res.in/",
         "official_notification": "https://iari.res.in/files/jobs/Revised_Plant_Physiology_application__10072026.pdf"
-    },
-    {
-        "date": "13/07/2026",
-        "board": "AIIMS Delhi",
-        "title": "Project Technical Support III",
-        "qualification": "Three Years Graduate in relevant subject/field + three years' experience or PG in relevant subject/field (Forensic Science/Life Science/Genetics/Biotechnology/Bioinformatics/Computational Biology). Desirable - Experience of working in molecular biology laboratory",
-        "last_date": "24-07-2026",
-        "total_posts": "1",
-        "salary": "As per ICMR project salary norms",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiims.edu",
-        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/for.med-10-7-26.pdf"
     },
     {
         "date": "13/07/2026",
@@ -2190,22 +2126,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aai.aero/",
         "official_notification": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Advertisement%20NSOP%20FIU%20AAI%202026.pdf"
-    },
-    {
-        "date": "09/07/2026",
-        "board": "CCI",
-        "title": "Assistant Manager (Official Language/IT), Management Trainee (Marketing/Accounts), Junior Commercial Executive, Junior Assistant (Accounts/General)",
-        "qualification": "The educational qualification varies by post. Candidates must check the specific requirement for the post they intend to apply for before submitting their application. || For post codes 105, 106 and 107, employees currently working in CCI (regular/temporary) require Any Graduate (10+2+3) qualification, with age relaxation limited to their years of service in CCI.",
-        "last_date": "24-07-2026",
-        "total_posts": "148",
-        "salary": "CCI offers pay scales under the IDA (Industrial Dearness Allowance) pattern based on the post applied for. || Selected candidates will be on probation for 12 months and must execute a service bond to serve a minimum of 3 years in the Corporation, or pay 3 months' basic pay in lieu thereof.",
-        "age_limit": "The minimum age for all posts is 18 years as on the date of advertisement. The maximum age limit varies by post as shown below. || Age relaxation is applicable as per Government of India norms. || The maximum age limit, after considering cumulative age relaxation, shall not exceed 47 years as on the date of advertisement.",
-        "application_fee": "Candidates need to pay the application fee/intimation charges online as per their category. The fee once paid is non-refundable under any circumstances. || Payment must be made online only through debit card, credit card, or net banking via the SBI payment gateway. GST and bank/transaction charges are to be borne by the candidate.",
-        "selection_process": "The written test will consist of 120 objective-type MCQs to be completed in 120 minutes. || 1 mark will be awarded for each correct answer, with 0.25 marks deducted for each wrong answer. || The test covers General English, Reasoning, Quantitative Aptitude, General Knowledge, Computer Proficiency (post-wise), and Subject Knowledge specific to the post. || Minimum qualifying percentage for the Computer Based Test is as follows: || Examinations will be conducted in Mumbai/Navi Mumbai, Hyderabad, New Delhi, Chennai, Lucknow, Chandigarh, Kolkata, Bengaluru, Ahmedabad, Patna, and Jaipur.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://cotcorp.org.in/",
-        "official_notification": "https://cotcorp.org.in/storage/AnnouncementDocument/Announcement_1783524490_Final_Advertisement_2026_with_Enclosures_.pdf"
     },
     {
         "date": "08/07/2026",
@@ -2477,7 +2397,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "upsssc-fsl-recruitment-2026-3060250"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",
@@ -2606,22 +2526,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.esic.gov.in",
         "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_recruitment_of_teaching_faculty_professors_in_ESIC_PGIMSRS_and_ESIC_medical_colleges_on_direct_recruitment_basis_2026_English_1779267434.pdf"
-    },
-    {
-        "date": "24/06/2026",
-        "board": "Sports Authority of India",
-        "title": "Junior Engineer",
-        "qualification": "Diploma or Degree in Civil/Electrical Engineering OR Masters' Degree in Civil/Electrical Engineering.",
-        "last_date": "24-07-2026",
-        "total_posts": "1",
-        "salary": "Last Pay Drawn Minus Pension",
-        "age_limit": "Not exceeding 64 Years of age as on opening date for receipt of applications.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://sportsauthorityofindia.nic.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/06/835263-6a3b6348306a217246772.pdf"
     },
     {
         "date": "20/06/2026",
