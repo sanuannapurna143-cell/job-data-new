@@ -1,6 +1,38 @@
 [
     {
         "date": "25/07/2026",
+        "board": "IIT Kanpur",
+        "title": "Assistant Project Manager",
+        "qualification": "Post graduate degree Or Graduate degree + 3 years of relevant experience",
+        "last_date": "31-07-2026",
+        "total_posts": "1",
+        "salary": "Assistant Project Manager: Rs. 16000-1300-38000 (consolidated) Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/bsbe-apm-23-07-26.html"
+    },
+    {
+        "date": "25/07/2026",
+        "board": "IIT BHU",
+        "title": "Junior Research Fellow (JRF)/Senior Research Fellow (SRF)",
+        "qualification": "B.Tech with First class in Electronics and Communication Engineering or allied discipline, M.Tech with First class in Electronics and Communication Engineering or allied discipline, 2 Years of research experience (for SRF)",
+        "last_date": "12-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000 - 42000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitbhu.ac.in/",
+        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_jrf_ece_ris_enabled.pdf"
+    },
+    {
+        "date": "25/07/2026",
         "board": "AVNL",
         "title": "Post Name",
         "qualification": "B.E./B.Tech in Computer Science/IT/Software Engineering/AI & ML/Electronics & Communications with knowledge of AI & ML, real-time software development, Electronic Warfare Systems, Counter Measures Techniques. Desirable: M.Tech/M.E. in Electronic Warfare/Machine Learning/AI/Cyber Security/Embedded Systems",
@@ -1485,7 +1517,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "spmcil-assistant-manager-deputy-manager-recruitment-2026-3060221"
+        "official_notification": "aiims-norcet-11-recruitment-notification-2026-3060085"
     },
     {
         "date": "26/06/2026",

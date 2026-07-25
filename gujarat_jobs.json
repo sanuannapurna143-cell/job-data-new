@@ -1,6 +1,70 @@
 [
     {
         "date": "25/07/2026",
+        "board": "VNSGU",
+        "title": "Temporary Assistant Professor",
+        "qualification": "Master's degree/Ph.D. in Chemistry or allied subject as per UGC norms",
+        "last_date": "04-08-2026",
+        "total_posts": "2",
+        "salary": "Rs. 40000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.vnsgu.ac.in",
+        "official_notification": "https://www.vnsgu.ac.in/uploads/assetlinks/ce2257f1-684a-4527-a2cf-0b8b99833427.pdf"
+    },
+    {
+        "date": "25/07/2026",
+        "board": "ECHS",
+        "title": "Off-in-Charge Polyclinic / Driver",
+        "qualification": "Graduate with minimum 5 years work experience in Health Care Institutions or Managerial positions, 8th pass, Class-I MT Driver (Armed Forces) with 5 years work experience and civil driving licence",
+        "last_date": "18-08-2026",
+        "total_posts": "2",
+        "salary": "Off-in-Charge Polyclinic:Rs. 95000 Per Month || Driver:Rs. 25600 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.echs.gov.in",
+        "official_notification": "https://www.echs.gov.in/assets/advertisement/AHMEDABAD.22.pdf"
+    },
+    {
+        "date": "25/07/2026",
+        "board": "GSEG GPPC",
+        "title": "Assistant Manager - Finance & Accounts",
+        "qualification": "Chartered Accountant (CA) from the Institute of Chartered Accountants of India (ICAI)",
+        "last_date": "07-08-2026",
+        "total_posts": "2",
+        "salary": "Not Available",
+        "age_limit": "Min: 28 years, Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://gspcgroup.com/GPPC/ & https://gspcgroup.com/GSEG/",
+        "official_notification": "https://gspcgroup.com/documents/jobdetail/22-07-2026-16-41-21job-profile.pdf"
+    },
+    {
+        "date": "25/07/2026",
+        "board": "PRL",
+        "title": "Administrative Officer, Accounts Officer, Purchase & Stores Officer",
+        "qualification": "MBA in HR + 1-year experience in supervisory capacity OR Post Graduate + 3 years' experience (1 year in supervisory capacity) OR Graduate with 5 years' experience (2 years in supervisory capacity) and Experience should be in the areas of Administration. ACA/FCA or AICWA/FICWA or MBA in Finance/ Banking Public Systems Management + 1-year experience in supervisory capacity OR M.Com. + 3 years' experience (1 year in supervisory capacity) OR B.Com./BBA/BBM with 5 years' experience (2 years in supervisory capacity) and Experience should be in the areas of Finance and Accounts/Cost Accounting. MBA in Marketing or Materials Management + 1-year experience in supervisory capacity OR Graduate + Post Graduate Diploma in Materials Management [or any other subject relating to Purchase & Stores activity] with 3 years' experience [1-year in supervisory capacity in the relevant field] OR Post Graduate with 3 years' experience [1 year in supervisory capacity in the relevant field] OR Graduate with 5 years' experience [2 years in supervisory capacity in the relevant field] and Experience should be in the areas of Purchase & Stores.",
+        "last_date": "24-08-2026",
+        "total_posts": "5",
+        "salary": "Rs. 56100 - 177500 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.prl.res.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/8425-6a6451beaf10a46087234.pdf"
+    },
+    {
+        "date": "25/07/2026",
         "board": "GSSSB",
         "title": "Senior Industries Inspector, Class-3",
         "qualification": "B.Tech/ B.E, Diploma",
@@ -1021,6 +1085,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "Not Available"
+        "official_notification": "cgssb-assistant-teacher-recruitment-2026-lsat26-exam-dates-application-fee-and-instructions-3060269"
     }
 ]

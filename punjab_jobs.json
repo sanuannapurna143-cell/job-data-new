@@ -1,6 +1,38 @@
 [
     {
         "date": "25/07/2026",
+        "board": "IIT Ropar",
+        "title": "JRF / Project Associate-I, PostDoc / Research Associate III, Project Assistant / Field Assistant / Field worker",
+        "qualification": "B.Tech/ B.E./ MSc or M.Tech./M.E./M.S, PhD/ MD/ MS/ MDS or equivalent or 3 years research/teaching/design experience after ME/ M.Tech, Graduate degree in any discipline",
+        "last_date": "31-07-2026",
+        "total_posts": "9",
+        "salary": "JRF / Project Associate-I:Rs.37000 +9% HRA || PostDoc / Research Associate III:Rs.67000 +9% HRA || Project Assistant / Field Assistant / Field worker:Rs.24000 +9% HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Application Review",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitrpr.ac.in/",
+        "official_notification": "https://www.iitrpr.ac.in/api/v2/files/download/181"
+    },
+    {
+        "date": "25/07/2026",
+        "board": "PAU",
+        "title": "Teaching Assistant (Punjabi)",
+        "qualification": "Bachelor's degree with Punjabi, Master degree in Punjabi, Matric level certificate of Punjabi language.",
+        "last_date": "07-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 35,000/- per month for M.A. || Rs. 40,000/- per month for Ph.D.",
+        "age_limit": "Age relaxation will be applicable as per the rules. Please refer to the official notification for specific details.",
+        "application_fee": "Rs. 200/-",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.pau.edu",
+        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7467"
+    },
+    {
+        "date": "25/07/2026",
         "board": "HBCHRC Punjab",
         "title": "Clerk",
         "qualification": "Any Graduate from recognized university, with good typing speed, computer knowledge and well versed in using MS office minimum 01 year experience is preferable",
