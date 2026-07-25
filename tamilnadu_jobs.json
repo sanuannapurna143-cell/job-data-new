@@ -1,6 +1,38 @@
 [
     {
         "date": "25/07/2026",
+        "board": "Madras University",
+        "title": "Guest Lecturer (Full Time)",
+        "qualification": "Ph.D Degree in Geology/ Applied Geology",
+        "last_date": "28-07-2026",
+        "total_posts": "4",
+        "salary": "Rs. 30000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Merit based on Educational Qualifications, Teaching experience, Publications, Rank || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.unom.ac.in/",
+        "official_notification": "https://www.unom.ac.in/webportal/uploads/appointments/Guest_Lec2026_20260724074855_6923.pdf"
+    },
+    {
+        "date": "25/07/2026",
+        "board": "DCPU Vellore",
+        "title": "Assistant cum Data Entry Operator",
+        "qualification": "12th pass with Diploma/Certificate in Computers, Typewriting Higher Grade in Tamil and English.",
+        "last_date": "06-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 11,916/- Per Month",
+        "age_limit": "Maximum age 42 years as on 01.07.2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://vellore.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2026/07/17848747983759.pdf"
+    },
+    {
+        "date": "25/07/2026",
         "board": "CCRUM",
         "title": "Post Name",
         "qualification": "PG Degree (MD/MS) in Unani System of Medicine from a University/Institution recognized by NCISM (formerly CCIM); enrolment on Central Registrar of NCISM/CCIM or State Register of Unani/ISM",
@@ -397,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "cgssb-assistant-teacher-recruitment-2026-lsat26-exam-dates-application-fee-and-instructions-3060269"
+        "official_notification": "mpsc-talathi-recruitment-2026-apply-online-for-1539-village-revenue-officer-posts-3060376"
     },
     {
         "date": "21/07/2026",

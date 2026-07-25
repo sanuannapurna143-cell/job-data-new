@@ -1,6 +1,22 @@
 [
     {
         "date": "25/07/2026",
+        "board": "AIIMS Bilaspur",
+        "title": "Project Technical Support III",
+        "qualification": "B.Sc. MLT/ Life Sciences with 3 years experience, M.Sc. MLT/ Life Sciences relevant field",
+        "last_date": "04-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 28000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsbilaspur.edu.in",
+        "official_notification": "https://aiimsbilaspur.edu.in/sites/default/files/2026-07/Advertisment%20Project%20Technical%20Support-III.pdf"
+    },
+    {
+        "date": "25/07/2026",
         "board": "IIT Mandi Catalyst",
         "title": "Manager/Senior Manager/AGM/GM (Portfolio Management)",
         "qualification": "Bachelor's/Master's degree in Management, Business Administration, Entrepreneurship, Engineering, or related field. Prior experience in incubation centres, accelerators, startup ecosystem organisations, or innovation programs is mandatory.",
