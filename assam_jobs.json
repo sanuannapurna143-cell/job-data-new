@@ -1,6 +1,22 @@
 [
     {
         "date": "27/07/2026",
+        "board": "IIT Guwahati",
+        "title": "Project Scientist",
+        "qualification": "PhD degree in Organometallic Chemistry",
+        "last_date": "03-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 55750 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitg.ac.in",
+        "official_notification": "https://www.iitg.ac.in/pdf/2db7cabd720f5ced8eb114de7203cf11.pdf"
+    },
+    {
+        "date": "27/07/2026",
         "board": "Assam Allied and Healthcare Council",
         "title": "Part Time Members",
         "qualification": "Postgraduate/ Graduate/ Diploma with 10 years of experience",
@@ -813,6 +829,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "rail-wheel-factory-rwf-sports-quota-recruitment-2026-apply-offline-for-15-sportsperson-posts-3060425"
+        "official_notification": "Not Available"
     }
 ]

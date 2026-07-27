@@ -1,5 +1,21 @@
 [
     {
+        "date": "27/07/2026",
+        "board": "JMC",
+        "title": "Post Name",
+        "qualification": "Graduate from a recognized university, a Government-recognized CCC course pass, and basic knowledge of computer applications as per the Gujarat Civil Service Classification and Recruitment (General) Rules, 1967",
+        "last_date": "16-08-2026",
+        "total_posts": "09",
+        "salary": "Selected candidates will be appointed on a probationary basis for the first 3 years, during which they will receive the fixed monthly pay indicated above, and will need to pass departmental exams before being confirmed on the regular pay scale.",
+        "age_limit": "Maximum age limit for Divyang candidates: 45 years || Age will be calculated as on the last date of online application || Age relaxation as per prevailing Gujarat Government rules is applicable to reserved-category and other eligible candidates within the Divyang pool",
+        "application_fee": "All Divyang candidates (across categories) must pay an application fee of ₹500/- || Fee must be paid only through online mode || Fee once paid is non-refundable and cannot be adjusted for another examination or post || Last date for online fee payment: 17 August 2026, 11:59 PM",
+        "selection_process": "Selection will be made through a competitive written examination conducted by the JMC Staff Selection Committee || Selected candidates will be appointed on a 3-year probationary basis || During probation, candidates must pass the applicable departmental exams, computer proficiency exams, and pre-service training exams as per the recruitment rules for the respective post || A provisional/waiting list is not the same as a final selection list",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mcjamnagar.com",
+        "official_notification": "https://ojas.gujarat.gov.in/ojas1/AdvtDetailFiles/JMC_202627_1.pdf"
+    },
+    {
         "date": "25/07/2026",
         "board": "SVNIT Surat",
         "title": "Senior Urban Planner",
@@ -989,6 +1005,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "rail-wheel-factory-rwf-sports-quota-recruitment-2026-apply-offline-for-15-sportsperson-posts-3060425"
+        "official_notification": "Not Available"
     }
 ]
