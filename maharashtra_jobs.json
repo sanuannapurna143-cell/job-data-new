@@ -1,5 +1,37 @@
 [
     {
+        "date": "27/07/2026",
+        "board": "Tata Memorial Hospital",
+        "title": "Scientific Assistant - Sleep Lab",
+        "qualification": "B.Sc (Science)/Sleep Medicine/Sleep lab Technology",
+        "last_date": "03-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 40,000/- per month",
+        "age_limit": "Maximum Age: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://tmc.gov.in",
+        "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=zFoKZlYPkieHh/wLXcEltw=="
+    },
+    {
+        "date": "27/07/2026",
+        "board": "CSIR NEERI",
+        "title": "Project Associate II",
+        "qualification": "M.Sc. in Microbiology/ Biotechnology, B.Tech/ B.E. in Biotechnology with 2 years R&D experience, M.Tech/ M.E. in Biotechnology",
+        "last_date": "31-07-2026",
+        "total_posts": "1",
+        "salary": "Rs. 28,000/- + HRA or Rs. 35,000/- + HRA Per Month",
+        "age_limit": "Maximum Age Limit: 35 years. || Age relaxation rules will be as per government norms.",
+        "application_fee": "Not Available",
+        "selection_process": "Online Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.neeri.res.in",
+        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/RECRUIT_SD_8A_EHTD_24072026.pdf"
+    },
+    {
         "date": "25/07/2026",
         "board": "MPSC",
         "title": "Talathi (Village Revenue Officer), Group-C",
@@ -448,38 +480,6 @@
         "official_notification": "https://actrec.gov.in/sites/default/files/2026-07/Final%20Advt-137-%20Research%20Assistant.pdf"
     },
     {
-        "date": "22/07/2026",
-        "board": "IBPS",
-        "title": "IT Officer, Agricultural Field Officer and More – 745 Posts",
-        "qualification": "For posts other than IT Officer, candidates must also have studied Computer/Information Technology as a subject in High School, College, or Institute, or hold a certificate/diploma/degree in computer operations.",
-        "last_date": "26-07-2026",
-        "total_posts": "745",
-        "salary": "Selected candidates under IBPS CRP SPL-XVI will be appointed as Specialist Officers, Scale I, with pay determined by the standard officer pay scale applicable across Participating Banks. Officials are also eligible for allowances and perquisites as per each bank's applicable rules. || Calculate your exact in-hand Salary in 10 seconds - Calculate Now",
-        "age_limit": "The minimum age required is 20 years and the maximum age is 30 years , meaning candidates must be born not earlier than 02.07.1996 and not later than 01.07.2006.",
-        "application_fee": "Payment can be made using Debit Cards (RuPay/Visa/MasterCard/Maestro), Credit Cards, Internet Banking, IMPS, Cash Cards, Mobile Wallets, or UPI.",
-        "selection_process": "Selection under IBPS CRP SPL-XVI 2026 follows a three-stage process: Online Preliminary Examination, Online Main Examination, and a Common Interview. Only candidates who clear each stage progress to the next, and the final merit list is based on Main Examination and Interview scores combined. || Online Preliminary Examination– Tentatively in August 2026; candidates must clear individual cut-offs in each of four tests. || Online Main Examination– Tentatively in November 2026; scores from this stage alone are used for interview shortlisting and final merit. || Common Interview– Conducted by Participating Banks and coordinated by Nodal Banks in November/December 2026; total 100 marks with minimum qualifying marks of 40% (35% for SC/ST/OBC/PwBD). || Provisional Allotment– Expected in January 2027, based on merit-cum-preference with an 80:20 weightage between Main Exam and Interview.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ibps.in/",
-        "official_notification": "http://www.ibps.in/wp-content/uploads/Corrigendum-for-extension_CRP-XVI.pdf"
-    },
-    {
-        "date": "22/07/2026",
-        "board": "IBPS",
-        "title": "Probationary Officer/Management Trainee",
-        "qualification": "Candidates must possess a valid mark-sheet/degree certificate confirming graduation on the day of registration and must indicate the percentage of marks obtained in graduation while registering online.",
-        "last_date": "26-07-2026",
-        "total_posts": "6715",
-        "salary": "As per the official notification, the pay scale for Probationary Officer/Management Trainee is: || Basic Pay: ₹48480-2000/7-62480-2340/2-67160-2680/7-85920 || The official will also be eligible for allowances and perquisites as per the rules of the concerned Participating Bank in force from time to time. || Calculate your exact in-hand Salary in 10 seconds - Calculate Now",
-        "age_limit": "Minimum Age: 20 years || Maximum Age: 30 years || A candidate must have been born not earlier than 02.07.1996 and not later than 01.07.2006 (both dates inclusive).",
-        "application_fee": "Payment is accepted only through online mode (Debit Cards, Credit Cards, Internet Banking, IMPS, Cash Cards/Mobile Wallets/UPI). Bank transaction charges, if any, must be borne by the candidate.",
-        "selection_process": "The IBPS CRP PO/MT-XVI selection process consists of the following stages: || Online Preliminary Examination (Objective Test) || Online Main Examination (Objective and Descriptive) || Personality Test (self-report, non-qualifying but mandatory for interview eligibility) || Common Interview || Provisional Allotment",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ibps.in",
-        "official_notification": "https://www.ibps.in/wp-content/uploads/Corrigendum-for-extension_CRP-XVI.pdf"
-    },
-    {
         "date": "21/07/2026",
         "board": "DRDO ARDE",
         "title": "Junior Research Fellow & Research Associate – 24 Posts",
@@ -541,7 +541,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "mpsc-talathi-recruitment-2026-apply-online-for-1539-village-revenue-officer-posts-3060376"
+        "official_notification": "Not Available"
     },
     {
         "date": "21/07/2026",
@@ -734,22 +734,6 @@
         "syllabus": "Not Available",
         "official_website": "https://konkanrailway.com/",
         "official_notification": "https://konkanrailway.com/sites/default/files/2026-07/Notification12.pdf"
-    },
-    {
-        "date": "18/07/2026",
-        "board": "ESIC Medical College Andheri",
-        "title": "Professor, Associate Professor and More – 74 Posts",
-        "qualification": "BHMS, MS/ MD",
-        "last_date": "26-07-2026",
-        "total_posts": "74",
-        "salary": "Faculty and Senior Resident posts follow the 7th CPC pay matrix, while the Homeopathy Physician post carries a fixed consolidated monthly amount. Here are the confirmed pay details from the notification. || Other allowances include DA, NPA, TA, HRA, etc. For the Homeopathy Physician post, the emolument is Rs. 50,000 per month for 5 hours a day, 6 days a week, with no other allowance in any form admissible . Retired employees/pensioners engaged under this notification may draw their total pay without deduction, as this is not treated as re-employment under the CCS (Fixation of Pay of Re-employed Pensioner) Orders, 1986, and they can continue to draw pension and dearness relief during the contract period.",
-        "age_limit": "The maximum age differs by post type, with additional relaxation available only for the Homeopathy Physician post. All age limits are calculated as on 30.06.2026 and verified again on the date of interview. || Professor/Associate Professor/Assistant Professor (faculty posts):Not exceeding68 yearsas on the date of interview. || Senior Resident:Not exceeding45 yearsas on the date of interview. || Homeopathy Physician:Not exceeding35 yearsas on the date of interview, with age relaxation of3 years for OBC candidates and 5 years for SC/ST candidates. || The maximum tenure of engagement for teaching faculty will be till 70 years of age , or 1 year extendable up to 3 years subject to satisfactory performance, whichever is earlier.",
-        "application_fee": "The application fee differs by category and is separate for the Homeopathy Physician post compared to the faculty/Senior Resident posts, though both are payable via Demand Draft in favour of the same ESI Fund account.",
-        "selection_process": "Selection for these posts is based on a combination of academic credentials and interview performance, followed by an offer of appointment sent only through email. Here is the process as described in the notification. || Candidates report for the walk-in interview at the scheduled date and time with the original application form, supporting documents, and demand draft (if fee is applicable). || The selection board evaluates candidates based on theiracquired academic credentials and interview performance. || TheOffer of Appointment is sent only through email. || Selected candidates must join as per the instructions in the offer of appointment; if a selected candidate does not join within the prescribed time, theoffer is issued to the waitlisted candidate. || Mere submission of the application does not confer any right to be interviewed unless the candidate reports on the scheduled date and time with the required documents, and interview opportunities remain provisional, subject to detailed scrutiny of eligibility.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://esic.gov.in/",
-        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_Recruitment_of_Professor_Associate_Professor_Assistant_Professor_Senior_Resident_and_Homeopathy_Physician_on_contract_basis_at_ESIC_Medical_College_and_Hospital_Andheri_East_Mumbai_400093_1784284336.pdf"
     },
     {
         "date": "18/07/2026",
@@ -1073,22 +1057,6 @@
     },
     {
         "date": "14/07/2026",
-        "board": "IDBI Bank",
-        "title": "Specialist Officer (DGM, AGM, Manager)",
-        "qualification": "Note: Only full-time, permanent employee experience is considered. Experience gained through staffing/manpower agencies, contractual roles, or outsourced payroll will not be counted. Experience below 6 months in any organization is not reckoned.",
-        "last_date": "26-07-2026",
-        "total_posts": "31",
-        "salary": "IDBI Bank offers a structured pay scale along with allowances, perquisites, and Performance Linked Variable Pay as applicable to each grade. || Selected candidates are covered under the IDBI Bank Ltd. New Pension Scheme (IBLNPS) Rules, 2011. Initial appointment for all posts is on probation for 1 year, ordinarily confirmed on completion of the probation period.",
-        "age_limit": "The relaxation in upper age limit for SC/ST/OBC candidates is allowed on a cumulative basis with only one of the remaining categories (c to e above). There is no reservation for Ex-servicemen in the Officers' cadre.",
-        "application_fee": "The application fee varies by category and must be paid online only; it is non-refundable under any circumstances. || Payment can be made via Debit Card (RuPay/Visa/MasterCard/Maestro), Credit Card, Internet Banking, or Wallets. Bank transaction/convenience charges must be borne by the candidate.",
-        "selection_process": "Selection is based on a multi-stage process, and merely meeting the eligibility criteria does not guarantee a call for the next stage. || Preliminary Screening:Based on age, educational qualification, and experience declared in the application form. || Document Verification (DV):Verification of all declared details against original documents. || Group Discussion (GD) and/or Personal Interview (PI):Shortlisted candidates are called based on qualification, experience, and overall suitability. || Pre-Recruitment Medical Test (PRMT):Final offer is subject to being declared medically fit as per the Bank's Medical Fitness Standards. || IDBI Bank reserves the right to change, modify, or cancel any part of the selection process, method, or criteria at its discretion.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.idbi.bank.in/",
-        "official_notification": "https://www.idbi.bank.in/pdf/careers/Detailed-Advt-of-SCO-2026-27.pdf"
-    },
-    {
-        "date": "14/07/2026",
         "board": "Shipping Corporation of India",
         "title": "CMA Trainee",
         "qualification": "CMA Intermediate (all groups) cleared from ICMAI and registered for final course, Minimum one year relevant experience after CMA intermediate",
@@ -1246,38 +1214,6 @@
         "syllabus": "Not Available",
         "official_website": "https://csc.gov.in/",
         "official_notification": "https://csc.gov.in/ask"
-    },
-    {
-        "date": "04/07/2026",
-        "board": "DRDO ACEM",
-        "title": "Graduate Apprentice (BE/B.Tech/General Stream), Technician Apprentice (Diploma)",
-        "qualification": "Refer to the Vacancy Details tables above for post-wise essential qualification. In addition to the qualification, the following conditions apply to all applicants: || Only fresh pass-out candidates who completed their respective courses in 2024, 2025, or 2026 can apply. || Graduate/Diploma degree holders who have training or job experience of one year or more after attaining the essential qualification are NOT eligible to be engaged as an apprentice under the Apprentices Act. || Candidates must register on the National Apprenticeship Training Scheme (NATS 2.0) portal (nats.education.gov.in).",
-        "last_date": "26-07-2026",
-        "total_posts": "41",
-        "salary": "₹12,300/-",
-        "age_limit": "Age limit is Not Announced Yet in the official notification.",
-        "application_fee": "Not Available",
-        "selection_process": "The selection procedure will be decided by the Apprentice Selection Committee on the basis of merit/interview. || Only selected candidates will be informed through an offer letter.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "/cdn-cgi/l/email-protection",
-        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtACEM01072026.pdf"
-    },
-    {
-        "date": "01/07/2026",
-        "board": "ACEM DRDO",
-        "title": "Graduate Apprentice / Technician Apprentice",
-        "qualification": "B.E/B.Tech, B.Sc, B.Com, BLIS, Diploma",
-        "last_date": "26-07-2026",
-        "total_posts": "41",
-        "salary": "Graduate Apprentice: ₹12300/- per month || Technician Apprentice: ₹10900/- per month",
-        "age_limit": "The official notification does not specify minimum or maximum age limits for the Graduate Apprentice / Technician Apprentice posts. Age relaxation rules will be as per government guidelines.",
-        "application_fee": "Not Available",
-        "selection_process": "Merit || Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://drdo.gov.in/",
-        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtACEM01072026.pdf"
     },
     {
         "date": "29/06/2026",
