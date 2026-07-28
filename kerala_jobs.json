@@ -1,6 +1,38 @@
 [
     {
         "date": "28/07/2026",
+        "board": "MGU",
+        "title": "Research Assistant and Field Investigator",
+        "qualification": "Post Graduate in Social Sciences/Humanities (55% minimum) with NET/M.Phil./Ph.D., Post Graduate in Social Sciences/Humanities with a minimum 55% marks",
+        "last_date": "10-08-2026",
+        "total_posts": "3",
+        "salary": "Research Assistant: Rs. 37,000/- p.m. || Field Investigator: Rs. 20,000/- p.m.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mgu.ac.in/",
+        "official_notification": "https://www.mgu.ac.in/uploads/2026/07/Call-for-Research-Assistant-and-Field-Investigator-School-of-Social-Sciences.pdf?x11824"
+    },
+    {
+        "date": "28/07/2026",
+        "board": "VISL",
+        "title": "Advisor Land Matters, Revenue Consultant, Estate Officer",
+        "qualification": "Deputy Collector Rank (retired), Tahsildar Rank (retired), Tahsildar Rank or Rtd. Officer from Armed Forces",
+        "last_date": "05-08-2026",
+        "total_posts": "3",
+        "salary": "Advisor Land Matters (ALM): Rs. 45,000/- Per Month || Revenue Consultant (RC): Rs. 40,000/- Per Month || Estate Officer (EO): Rs. 40,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 60 years for all posts.",
+        "application_fee": "Not Available",
+        "selection_process": "Application Screening || Criteria-based Screening || Written Test || Group Discussion || Skill Test/Proficiency Test || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cmd.kerala.gov.in",
+        "official_notification": "https://cmd.kerala.gov.in/wp-content/uploads/2026/07/VISL-Notification-1.pdf"
+    },
+    {
+        "date": "28/07/2026",
         "board": "ISRO",
         "title": "Scientist/Engineer 'SC'",
         "qualification": "BE/B.Tech or equivalent in Mechanical Engineering with Refrigeration & Air Conditioning or allied electives/core subject, min. 65% aggregate or CGPA 6.84/10",

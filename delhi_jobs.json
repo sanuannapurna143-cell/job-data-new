@@ -1,5 +1,53 @@
 [
     {
+        "date": "28/07/2026",
+        "board": "Territorial Army",
+        "title": "Territorial Army Officer (ASB Ex Officers Entry)",
+        "qualification": "Candidates must be a graduate from a recognized university.",
+        "last_date": "25-08-2026",
+        "total_posts": "05",
+        "salary": "15,500/-",
+        "age_limit": "Candidates must be between 18 and 42 years of age as on the date of application.",
+        "application_fee": "Not Available",
+        "selection_process": "Ex-Service Officers will be screened by the Army Headquarters Selection Board (ASB) held at Directorate General Territorial Army (TA-4), Integrated Headquarters of Ministry of Defence, 4th Floor, 'A' Block, Ministry of Defence Office Complex, KG Marg, New Delhi - 110001. || Based on the total number of applications received, Army HQ reserves the right to call up a limited number of applicants for interview. || Candidates who do not receive a call-up letter will have their candidature deemed cancelled. || Type of exam: Only an interview is conducted (no written exam). || Eligible candidates will be issued a call-up letter and sent notification by e-mail through the Territorial Army Directorate.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.indianarmy.nic.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/154236-6a634ab4acfcb15626053.pdf"
+    },
+    {
+        "date": "28/07/2026",
+        "board": "AIIMS Delhi",
+        "title": "Project Nurse - III",
+        "qualification": "Four-year Nursing Course",
+        "last_date": "10-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 28000 Per Month + 30% HRA",
+        "age_limit": "Maximum Age: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/ccm-27-7-26.pdf"
+    },
+    {
+        "date": "28/07/2026",
+        "board": "IIT Delhi",
+        "title": "Sr. Project Scientist",
+        "qualification": "M.Tech in EE/CSE with 8.5 CGPA or more. 3 years of experience in High Performance Computing (HPC) after M.Tech.",
+        "last_date": "11-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 60750 - 79260 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1785145653681_xp69v32.pdf"
+    },
+    {
         "date": "27/07/2026",
         "board": "VMMC & Safdarjung Hospital",
         "title": "Lab Technician",
@@ -285,7 +333,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "isro-scientist-engineer-recruitment-2026-notification-out-apply-online-for-92-posts-3060552"
+        "official_notification": "territorial-army-officer-recruitment-2026-apply-offline-3060214"
     },
     {
         "date": "25/07/2026",
@@ -481,22 +529,6 @@
     },
     {
         "date": "24/07/2026",
-        "board": "Territorial Army",
-        "title": "Territorial Army Officer (ASB Ex Officers Entry)",
-        "qualification": "Candidates must be a graduate from a recognized university.",
-        "last_date": "25-08-2026",
-        "total_posts": "05",
-        "salary": "15,500/-",
-        "age_limit": "Candidates must be between 18 and 42 years of age as on the date of application.",
-        "application_fee": "Not Available",
-        "selection_process": "Ex-Service Officers will be screened by the Army Headquarters Selection Board (ASB) held at Directorate General Territorial Army (TA-4), Integrated Headquarters of Ministry of Defence, 4th Floor, 'A' Block, Ministry of Defence Office Complex, KG Marg, New Delhi - 110001. || Based on the total number of applications received, Army HQ reserves the right to call up a limited number of applicants for interview. || Candidates who do not receive a call-up letter will have their candidature deemed cancelled. || Type of exam: Only an interview is conducted (no written exam). || Eligible candidates will be issued a call-up letter and sent notification by e-mail through the Territorial Army Directorate.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.indianarmy.nic.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/07/154236-6a634ab4acfcb15626053.pdf"
-    },
-    {
-        "date": "24/07/2026",
         "board": "AIU",
         "title": "Consultant, Young Professional (Sports), Young Professional (Finance), Young Professional (IT), Young Professional (AI)",
         "qualification": "Any Graduate, B.Tech/ B.E, Any Post Graduate",
@@ -637,7 +669,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ncrtc.in/",
-        "official_notification": "isro-scientist-engineer-recruitment-2026-notification-out-apply-online-for-92-posts-3060552"
+        "official_notification": "territorial-army-officer-recruitment-2026-apply-offline-3060214"
     },
     {
         "date": "24/07/2026",
@@ -1101,7 +1133,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "isro-scientist-engineer-recruitment-2026-notification-out-apply-online-for-92-posts-3060552"
+        "official_notification": "aai-nscbi-airport-apprentice-recruitment-2026-apply-online-for-38-posts-3060594"
     },
     {
         "date": "20/07/2026",
@@ -2333,7 +2365,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "isro-scientist-engineer-recruitment-2026-notification-out-apply-online-for-92-posts-3060552"
+        "official_notification": "aai-nscbi-airport-apprentice-recruitment-2026-apply-online-for-38-posts-3060594"
     },
     {
         "date": "01/07/2026",

@@ -1,6 +1,22 @@
 [
     {
         "date": "28/07/2026",
+        "board": "NIH Roorkee",
+        "title": "Project Scientist-I",
+        "qualification": "PhD Degree in Science or in Engg. from a recognized University or equivalent in Hydrology/Hydrogeology/ Geo-informatics/ Water Resources/ Remote Sensing and GIS/ Civil Engineering/Geophysics with numerical modelling knowledge",
+        "last_date": "14-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 56,000/- p.m. +HRA (as applicable)",
+        "age_limit": "Maximum Age Limit: 35 years || Age Relaxation: 5 years for SC/ST/OBC/Women and physically handicapped candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in-Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nihroorkee.gov.in",
+        "official_notification": "https://nihroorkee.gov.in/adv_23_07_2026.pdf"
+    },
+    {
+        "date": "28/07/2026",
         "board": "IIT Roorkee",
         "title": "Research Associate",
         "qualification": "M.Tech Biotechnology with three years industrial experience or four years experience if pursuing PhD studies (not awarded)",
