@@ -1,5 +1,21 @@
 [
     {
+        "date": "28/07/2026",
+        "board": "DRIF",
+        "title": "Project Officer",
+        "qualification": "Minimum 5 years in the Armed Forces or equivalent of Pay Band 12 and above in administrative/managerial role in Civil Organisations. Appointment tenanted in any Armed Forces Category 'A' training institute preferred. MBA/PGDBM/diploma/certificate in financial management is desirable.",
+        "last_date": "30-07-2026",
+        "total_posts": "1",
+        "salary": "monthly consolidated pay will be fixed",
+        "age_limit": "Maximum Age Limit: 56 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitrpr.ac.in",
+        "official_notification": "https://www.iitrpr.ac.in/api/v2/files/download/176"
+    },
+    {
         "date": "25/07/2026",
         "board": "AAI",
         "title": "Post Name",
@@ -192,22 +208,6 @@
         "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtSAG10072026.pdf"
     },
     {
-        "date": "10/07/2026",
-        "board": "OFH VFJ",
-        "title": "MBBS Doctor",
-        "qualification": "MBBS or Equivalent Degree recognized by MCI/NMC",
-        "last_date": "27-07-2026",
-        "total_posts": "1",
-        "salary": "Rs. 75000 Per Month (Consolidated)",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://ddpdoo.gov.in/",
-        "official_notification": "https://ddpdoo.gov.in/storage/document/6a4f8b510c4c5.pdf"
-    },
-    {
         "date": "09/07/2026",
         "board": "Indian Army",
         "title": "SSC (Tech)-68 Men     – 350 Posts",
@@ -285,7 +285,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "rajasthan-safai-karmachari-recruitment-2026-apply-online-for-24752-posts-3060551"
+        "official_notification": "isro-scientist-engineer-recruitment-2026-notification-out-apply-online-for-92-posts-3060552"
     },
     {
         "date": "26/06/2026",
