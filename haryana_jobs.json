@@ -1,6 +1,22 @@
 [
     {
         "date": "28/07/2026",
+        "board": "REC",
+        "title": "Post Name",
+        "qualification": "Advisor (Green Hydrogen): B.E./B.Tech or M.Tech in Chemical, Electrical or Mechanical Engineering (full-time courses only), or equivalent. || Advisor (Compressed Biogas - CBG): B.E./B.Tech or M.Tech in Chemical, Environmental or Mechanical Engineering, BBA, or B.Sc. (Hons) in Agricultural Business Management (full-time courses only).",
+        "last_date": "15-08-2026",
+        "total_posts": "02",
+        "salary": "Monthly remuneration for both Advisor posts is ₹2,00,000/-, along with other benefits as per Corporation policy.",
+        "age_limit": "Maximum 65 years as on the last/closing date of application, i.e., 15 August 2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://recindia.nic.in/uploads/files/co-hr-application-for-post-of-Advisor-on-contractual-basis-in-REC-dt-22072026.pdf"
+    },
+    {
+        "date": "28/07/2026",
         "board": "MDU Rohtak",
         "title": "Field Investigator",
         "qualification": "Post Graduate in Medical Biotechnology or any Life Science discipline with minimum 55% marks",

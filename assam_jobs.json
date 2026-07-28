@@ -402,18 +402,18 @@
     {
         "date": "17/07/2026",
         "board": "NIPER Guwahati",
-        "title": "Estate & Security Officer – 1 Posts",
+        "title": "Estate & Security Officer (Non-Teaching)",
         "qualification": "Any Bachelors Degree",
         "last_date": "31-07-2026",
         "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "salary": "Pay Level-10 (Basic Pay ₹56,100/-)",
+        "age_limit": "Maximum age not exceeding 45 years as on the closing date. Age relaxation applicable as per GoI rules for SC/ST/OBC/ PwBD/ Ex-Servicemen/ Departmental candidates.",
+        "application_fee": "Fee is non-refundable. Pay online through the portal.",
+        "selection_process": "Selection will be based on Screening / Written Test / Skill Test / Interview as decided by the Institute. Shortlisting will be done based on qualifications and experience. The decision of the Institute shall be final.",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "http://www.niperguwahati.ac.in",
+        "official_notification": "https://www.niperguwahati.ac.in/DOC/RECRUITMENT/ADV-ESO-JUL-2026/ESO-Regular-Advt_Phase_13_2026_01072026.pdf"
     },
     {
         "date": "17/07/2026",
@@ -797,6 +797,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "aai-nscbi-airport-apprentice-recruitment-2026-apply-online-for-38-posts-3060594"
+        "official_notification": "Not Available"
     }
 ]

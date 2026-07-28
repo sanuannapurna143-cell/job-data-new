@@ -1,19 +1,51 @@
 [
     {
         "date": "28/07/2026",
+        "board": "NCTE",
+        "title": "Consultant",
+        "qualification": "Master's Degree, B.Ed/M.Ed/MA Education, Ph.D/NET/SLET, MBA/Mass Communication/Journalism, Bachelor's in Graphic Design/Visual Communication",
+        "last_date": "30-07-2026",
+        "total_posts": "7",
+        "salary": "Senior Academic Consultant: Rs. 1,00,000/- per month || Monitoring, Evaluation and Learning Consultant (MEL): Rs. 1,00,000/- per month || Academic Consultant: Rs. 90,000/- per month || Outreach Consultant: Rs. 75,000/- per month || Graphic Cum Content Designer: Rs. 50,000/- per month",
+        "age_limit": "Maximum Age Limit: 65 years",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://web.ncte.gov.in",
+        "official_notification": "https://d3swgpghzvje7l.cloudfront.net/WebAdmin/pdf/RecentAnnouncements/2026/Vacancy-Circular-dated-24-07-2026.pdf"
+    },
+    {
+        "date": "28/07/2026",
+        "board": "NBT",
+        "title": "Executive Assistant",
+        "qualification": "Bachelor's degree in English Honours/Humanities or any graduate with strong English communication skills, Diploma/Certificate in Office Administration or Secretarial Practices, Minimum 3 years experience.",
+        "last_date": "05-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 24,365/- Per month",
+        "age_limit": "Maximum Age Limit: 35 years. || Age relaxation will be as per government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Skill Test || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nbtindia.gov.in",
+        "official_notification": "https://www.nbtindia.gov.in/writereaddata/jobattachment/tuesday-july-21-20264-28-19-pmvacancy-notice-for-the-post-of-executive-assistant-on-contract-basis.pdf"
+    },
+    {
+        "date": "28/07/2026",
         "board": "Territorial Army",
-        "title": "Territorial Army Officer (ASB Ex Officers Entry)",
-        "qualification": "Candidates must be a graduate from a recognized university.",
+        "title": "Post Name",
+        "qualification": "Graduate from a recognised university",
         "last_date": "25-08-2026",
         "total_posts": "05",
-        "salary": "15,500/-",
-        "age_limit": "Candidates must be between 18 and 42 years of age as on the date of application.",
-        "application_fee": "Not Available",
-        "selection_process": "Ex-Service Officers will be screened by the Army Headquarters Selection Board (ASB) held at Directorate General Territorial Army (TA-4), Integrated Headquarters of Ministry of Defence, 4th Floor, 'A' Block, Ministry of Defence Office Complex, KG Marg, New Delhi - 110001. || Based on the total number of applications received, Army HQ reserves the right to call up a limited number of applicants for interview. || Candidates who do not receive a call-up letter will have their candidature deemed cancelled. || Type of exam: Only an interview is conducted (no written exam). || Eligible candidates will be issued a call-up letter and sent notification by e-mail through the Territorial Army Directorate.",
+        "salary": "Pay and allowances for Territorial Army Officers, when embodied for training or military service, are the same as those admissible to Regular Army Officers of equivalent rank, as per the 7th Central Pay Commission.",
+        "age_limit": "Minimum age: 18 years || Maximum age: 42 years, as on the date of application || The upper age limit may be relaxed at the discretion of the Chief of the Army Staff",
+        "application_fee": "No application fee has been specified in the notification. The application form is available free of cost for download from the official website.",
+        "selection_process": "Screening and interview by the Army Headquarters Selection Board (ASB) at Directorate General Territorial Army, New Delhi || Number of candidates called for interview depends on total applications received and vacancies to be filled || Recommended candidates undergo Medical Examination at Armed Forces Clinic, New Delhi || Final selection is subject to Police Verification || There is no written examination for this recruitment; selection is through interview only.",
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.indianarmy.nic.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/07/154236-6a634ab4acfcb15626053.pdf"
+        "official_notification": "https://www.indianarmy.nic.in/writereaddata/Documents/DGTA%20Advt_240726.pdf"
     },
     {
         "date": "28/07/2026",
@@ -333,7 +365,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "territorial-army-officer-recruitment-2026-apply-offline-3060214"
+        "official_notification": "Not Available"
     },
     {
         "date": "25/07/2026",
@@ -669,7 +701,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ncrtc.in/",
-        "official_notification": "territorial-army-officer-recruitment-2026-apply-offline-3060214"
+        "official_notification": "Not Available"
     },
     {
         "date": "24/07/2026",
@@ -1133,7 +1165,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "aai-nscbi-airport-apprentice-recruitment-2026-apply-online-for-38-posts-3060594"
+        "official_notification": "Not Available"
     },
     {
         "date": "20/07/2026",
@@ -2365,7 +2397,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "aai-nscbi-airport-apprentice-recruitment-2026-apply-online-for-38-posts-3060594"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/07/2026",

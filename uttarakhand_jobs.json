@@ -1,6 +1,22 @@
 [
     {
         "date": "28/07/2026",
+        "board": "AIIMS Rishikesh",
+        "title": "Research Assistant",
+        "qualification": "Any science Graduate from a recognized university with one year of work experience",
+        "last_date": "07-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 34000 Per Month (excluding TA as permissible)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsrishikesh.edu.in",
+        "official_notification": "https://aiimsrishikesh.edu.in/images/upload_documents/Recruitment%20Advertisement%20for%20Extramural%20Project%20Title%20%E2%80%9CScreening%20of%20breast%20cancer%20%26%20Health%20Education.pdf"
+    },
+    {
+        "date": "28/07/2026",
         "board": "NIH Roorkee",
         "title": "Project Scientist-I",
         "qualification": "PhD Degree in Science or in Engg. from a recognized University or equivalent in Hydrology/Hydrogeology/ Geo-informatics/ Water Resources/ Remote Sensing and GIS/ Civil Engineering/Geophysics with numerical modelling knowledge",

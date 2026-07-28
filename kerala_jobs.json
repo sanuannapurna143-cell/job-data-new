@@ -1,6 +1,38 @@
 [
     {
         "date": "28/07/2026",
+        "board": "Cochin Port Authority",
+        "title": "Executive Level Posts",
+        "qualification": "Degree or equivalent in Civil Engg., Degree or equivalent in Electrical/Electronics and Communication Engineering, Member of ICAI or ICWAI, Degree/AMIE in Electrical & Electronics Engineering, Degree in Computer Engineering/Computer Science or equivalent with P.G. Diploma, Degree in Civil Engineering or AMIE",
+        "last_date": "10-08-2026",
+        "total_posts": "12",
+        "salary": "Rs. 40000 - Rs. 160000 Per Month",
+        "age_limit": "Maximum age for all posts: 35 years. || Age Relaxation: SC/ST candidates will receive a 5-year relaxation, OBC candidates 3 years, and PwBD candidates 10 years (15 years for SC/ST PwBD, 13 years for OBC PwBD).",
+        "application_fee": "Rs.500",
+        "selection_process": "Computer Based Test (Objective type) || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cochinport.gov.in",
+        "official_notification": "https://cochinportrecruitment.info/pdf/DR%20Notification.pdf"
+    },
+    {
+        "date": "28/07/2026",
+        "board": "NHM Thiruvananthapuram",
+        "title": "General Duty Attendant",
+        "qualification": "8th Pass",
+        "last_date": "06-08-2026",
+        "total_posts": "10",
+        "salary": "Rs. 450 Per Day",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.arogyakeralam.gov.in",
+        "official_notification": "https://arogyakeralam.gov.in/wp-content/uploads/2020/04/Notification-5.pdf"
+    },
+    {
+        "date": "28/07/2026",
         "board": "MGU",
         "title": "Research Assistant and Field Investigator",
         "qualification": "Post Graduate in Social Sciences/Humanities (55% minimum) with NET/M.Phil./Ph.D., Post Graduate in Social Sciences/Humanities with a minimum 55% marks",

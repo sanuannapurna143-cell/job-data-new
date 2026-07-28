@@ -1,6 +1,38 @@
 [
     {
         "date": "28/07/2026",
+        "board": "AIIMS Gorakhpur",
+        "title": "Senior Resident",
+        "qualification": "Post Graduate Medical Degree in respective discipline from a NMC recognized University/Institute",
+        "last_date": "04-08-2026",
+        "total_posts": "50",
+        "salary": "Rs. 67700 Per Month",
+        "age_limit": "Maximum Age Limit: 45 years. || Age Relaxation: 5 years for SC/ST, 3 years for OBC, up to 10 years for PwBD (General), 13 years for PwBD (OBC), 15 years for PwBD (SC/ST).",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsgorakhpur.edu.in",
+        "official_notification": "https://aiimsgorakhpur.edu.in/wp-content/uploads/2026/07/SR-Advertisement-1.pdf"
+    },
+    {
+        "date": "28/07/2026",
+        "board": "BHU",
+        "title": "Field Assistant",
+        "qualification": "12TH, Intermediate",
+        "last_date": "11-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 15000 Per Month",
+        "age_limit": "Maximum Age: 28 years || Age Relaxation: 5 years for female/SC/ST/Physically Handicapped candidate, 3 years for OBC candidate.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bhu.ac.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/874596-6a688094daa0760509869.pdf"
+    },
+    {
+        "date": "28/07/2026",
         "board": "IIIT Allahabad",
         "title": "Medical Officer",
         "qualification": "MBBS from Government/Government recognized Medical College, Minimum 2 years professional experience as Medical Practitioner, Registered with Medical Council of State/UT or any State Medical Council, Willing to obtain U.P. Medical Council registration if not already registered, Desired: MD (Medicine)",
@@ -1325,7 +1357,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.iocl.com",
-        "official_notification": "aai-eastern-region-apprentice-recruitment-2026-apply-online-for-140-posts-3060637"
+        "official_notification": "Not Available"
     },
     {
         "date": "23/06/2026",

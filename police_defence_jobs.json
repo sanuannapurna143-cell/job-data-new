@@ -1,6 +1,22 @@
 [
     {
         "date": "28/07/2026",
+        "board": "Territorial Army",
+        "title": "Post Name",
+        "qualification": "Graduate from a recognised university",
+        "last_date": "25-08-2026",
+        "total_posts": "05",
+        "salary": "Pay and allowances for Territorial Army Officers, when embodied for training or military service, are the same as those admissible to Regular Army Officers of equivalent rank, as per the 7th Central Pay Commission.",
+        "age_limit": "Minimum age: 18 years || Maximum age: 42 years, as on the date of application || The upper age limit may be relaxed at the discretion of the Chief of the Army Staff",
+        "application_fee": "No application fee has been specified in the notification. The application form is available free of cost for download from the official website.",
+        "selection_process": "Screening and interview by the Army Headquarters Selection Board (ASB) at Directorate General Territorial Army, New Delhi || Number of candidates called for interview depends on total applications received and vacancies to be filled || Recommended candidates undergo Medical Examination at Armed Forces Clinic, New Delhi || Final selection is subject to Police Verification || There is no written examination for this recruitment; selection is through interview only.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.indianarmy.nic.in",
+        "official_notification": "https://www.indianarmy.nic.in/writereaddata/Documents/DGTA%20Advt_240726.pdf"
+    },
+    {
+        "date": "28/07/2026",
         "board": "DRIF",
         "title": "Project Officer",
         "qualification": "Minimum 5 years in the Armed Forces or equivalent of Pay Band 12 and above in administrative/managerial role in Civil Organisations. Appointment tenanted in any Armed Forces Category 'A' training institute preferred. MBA/PGDBM/diploma/certificate in financial management is desirable.",
@@ -46,22 +62,6 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.joinindiannavy.gov.in/en/event/online-application-window-for-ssc-various-entries-jun-27-course-is-extended-upto-03-aug-26.html"
-    },
-    {
-        "date": "24/07/2026",
-        "board": "Territorial Army",
-        "title": "Territorial Army Officer (ASB Ex Officers Entry)",
-        "qualification": "Candidates must be a graduate from a recognized university.",
-        "last_date": "25-08-2026",
-        "total_posts": "05",
-        "salary": "15,500/-",
-        "age_limit": "Candidates must be between 18 and 42 years of age as on the date of application.",
-        "application_fee": "Not Available",
-        "selection_process": "Ex-Service Officers will be screened by the Army Headquarters Selection Board (ASB) held at Directorate General Territorial Army (TA-4), Integrated Headquarters of Ministry of Defence, 4th Floor, 'A' Block, Ministry of Defence Office Complex, KG Marg, New Delhi - 110001. || Based on the total number of applications received, Army HQ reserves the right to call up a limited number of applicants for interview. || Candidates who do not receive a call-up letter will have their candidature deemed cancelled. || Type of exam: Only an interview is conducted (no written exam). || Eligible candidates will be issued a call-up letter and sent notification by e-mail through the Territorial Army Directorate.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.indianarmy.nic.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/07/154236-6a634ab4acfcb15626053.pdf"
     },
     {
         "date": "23/07/2026",
@@ -285,7 +285,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "aai-nscbi-airport-apprentice-recruitment-2026-apply-online-for-38-posts-3060594"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/06/2026",
