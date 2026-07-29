@@ -1,5 +1,21 @@
 [
     {
+        "date": "29/07/2026",
+        "board": "BPCL",
+        "title": "Post Name",
+        "qualification": "Minimum 1 year relevant work experience or apprenticeship under the Apprenticeship Act, 1961, in Refining/Petroleum/Power/Lube/Petrochemical/Fertilizer Industry",
+        "last_date": "13-08-2026",
+        "total_posts": "154",
+        "salary": "₹26,500/- – ₹34,000/- (NG-2 grade)",
+        "age_limit": "General (including EWS) candidates: Minimum 18 years, Maximum 25 years (as on 01.07.2026) || OBC (NCL) candidates: Relaxation of 3 years in maximum age limit || SC/ST candidates: Relaxation of 5 years in maximum age limit || PwBD candidates (disability not less than 40%): Relaxation of 10 years (up to 15 years for SC/ST PwBD, 13 years for OBC(NCL) PwBD) || Ex-Servicemen: Actual military service period deducted from age, subject to conditions || Total cumulative age relaxation across categories is capped at 15 years",
+        "application_fee": "General, EWS, and OBC (NCL) candidates are required to pay a non-refundable application fee of ₹590/- (₹500/- plus 18% GST, i.e., ₹90/-), plus payment gateway charges if any, through online payment mode only. SC, ST, PwBD, and Ex-Servicemen (ESM) candidates are exempted from payment of application fee.",
+        "selection_process": "Stage 1 – Computer Based Test (CBT):100 objective-type questions of 1 mark each, 120 minutes duration, conducted in English only, with no negative marking. The paper has two sections — Domain Knowledge (60 marks) and General Aptitude comprising English Language, Quantitative Aptitude, Logical Reasoning, and General Awareness & Current Affairs (40 marks). || Stage 2 – Skill/Proficiency Test (SPT):Qualifying in nature, conducted at the respective refinery locations for candidates who clear the CBT cut-off. || Stage 3 – Pre-Employment Medical Examination:Final appointment is subject to candidates meeting BPCL's Medical Fitness norms and standards. || Merely qualifying the CBT does not guarantee a call for SPT; shortlisting depends on the number of positions, reservation ratios, and relative performance.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bharatpetroleum.in/",
+        "official_notification": "https://www.bharatpetroleum.in/images/files/bpcl-kr-and-mr-non-mgmt-rect-notification-july-26.pdf"
+    },
+    {
         "date": "28/07/2026",
         "board": "ARI Pune",
         "title": "Project Associate I",
@@ -833,22 +849,6 @@
     },
     {
         "date": "16/07/2026",
-        "board": "ACTREC",
-        "title": "Fellowship in Hematopoietic Stem Cell Transplant Nursing",
-        "qualification": "M.Sc. Nursing, B.Sc. Nursing, Post Basic B.Sc. Nursing",
-        "last_date": "28-07-2026",
-        "total_posts": "2",
-        "salary": "Rs. 32000 Per Month",
-        "age_limit": "Maximum Age Limit: 40 years. || Age relaxation is applicable by 5 years for SC/ST and 3 years for OBC.",
-        "application_fee": "Rs. 12000/- + 18% GST",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://actrec.gov.in/",
-        "official_notification": "https://actrec.gov.in/sites/default/files/2026-07/Fellowship%20In%20Hematopoietic%20Stemcell%20Transplant%20Nursing%20.pdf"
-    },
-    {
-        "date": "16/07/2026",
         "board": "HPCL",
         "title": "Graduate Apprentice Trainee (Engineering)",
         "qualification": "B.Tech/ B.E",
@@ -894,22 +894,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.hindivishwa.org",
         "official_notification": "https://hindivishwa.org/pdf/gen2026/MGAHV_32_2026_001_2026.pdf"
-    },
-    {
-        "date": "16/07/2026",
-        "board": "CSIR NEERI",
-        "title": "Project Associate-I",
-        "qualification": "B.E./ B. Tech in Civil/ Chemical/ from a recognized University",
-        "last_date": "28-07-2026",
-        "total_posts": "2",
-        "salary": "Rs. 31,000/- + HRA for those candidates who have qualified CSIR-UGC / ICAR / ICMR NET lectureship / Assistant professorship or GATE OR Those who have qualified National level examinations conducted by Central Government conducted by Central Government Departments like DBT/DST or equivalent and / or their Agencies / Institutions. || Rs. 25,000/- + HRA for others who do not fall under the above category.",
-        "age_limit": "Maximum Age Limit: 35 years",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Walk-in-Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.neeri.res.in",
-        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/1784023532_RECRUIT_SMG_1F_BDPMU_14072026.pdf"
     },
     {
         "date": "16/07/2026",
@@ -1054,38 +1038,6 @@
         "syllabus": "Not Available",
         "official_website": "https://mahaforest.gov.in/",
         "official_notification": "https://mahaforest.gov.in/writereaddata/fckimagefile/AdvBufferRec.pdf"
-    },
-    {
-        "date": "14/07/2026",
-        "board": "Shipping Corporation of India",
-        "title": "CMA Trainee",
-        "qualification": "CMA Intermediate (all groups) cleared from ICMAI and registered for final course, Minimum one year relevant experience after CMA intermediate",
-        "last_date": "28-07-2026",
-        "total_posts": "5",
-        "salary": "Rs. 27000 - 30000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.shipindia.com/",
-        "official_notification": "https://www.shipindia.com/upload/Adv/Detailed_ad_SCI_032026_final.pdf"
-    },
-    {
-        "date": "13/07/2026",
-        "board": "AIIMS Nagpur",
-        "title": "Project Technical Support -III",
-        "qualification": "Three-year graduate degree in Life sciences + Three Years post-qualification experience or PG in Life sciences",
-        "last_date": "28-07-2026",
-        "total_posts": "1",
-        "salary": "Project Technical Support -III: 28000/- + 20% Basic pay (HRA) [consolidated]",
-        "age_limit": "Maximum Age: 35 years. || Age Relaxation: The age relaxation for SC/ST candidates is up to a maximum period of 5 (Five) years and for OBC candidate up to a maximum period of 3(Three) years. Age relaxation up to 5 years may be granted to deserving candidates having experience of working in Government Research Organization on a case-to-case basis.",
-        "application_fee": "Not Available",
-        "selection_process": "Online Application via Google Form || Shortlisting || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://aiimsnagpur.edu.in",
-        "official_notification": "https://aiimsnagpur.edu.in/upload/recruitment/Advertisement_PTS_III_Biomarker_Study.pdf"
     },
     {
         "date": "13/07/2026",

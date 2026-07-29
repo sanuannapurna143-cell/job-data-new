@@ -1,5 +1,21 @@
 [
     {
+        "date": "29/07/2026",
+        "board": "IAF",
+        "title": "Lower Division Clerk (LDC) – Group ‘C’",
+        "qualification": "12TH",
+        "last_date": "30-08-2026",
+        "total_posts": "1",
+        "salary": "Level-2 (as per 7th CPC Pay Matrix)",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Scrutiny of Applications– All applications will be scrutinized for age limit, minimum qualification, documents and certificates. || Written Test– Shortlisted candidates will be called for the written examination. || Skill Test (Typing Test)– Qualifying in nature only. || Document Verification– Original certificates and copies of Annexure to be produced. || Written Examination Details || Syllabus:(i) General Intelligence(ii) English Language(iii) Numerical Aptitude(iv) General Awareness || (i) General Intelligence || (ii) English Language || (iii) Numerical Aptitude || (iv) General Awareness || Question-cum-answer paper will be set in bothEnglish and Hindi. || Marking System:Written Test –100% weightageSkill Test –Qualifying only || Written Test –100% weightage || Skill Test –Qualifying only || The written test centre may be different from the place to which the application was sent (purely for administrative convenience).",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://indianairforce.nic.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/07/458712-6a6984343a6df76323342.pdf"
+    },
+    {
         "date": "28/07/2026",
         "board": "NCTE",
         "title": "Consultant",
@@ -286,22 +302,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ird.iitd.ac.in/",
         "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1784612967618_yddhgm9.pdf"
-    },
-    {
-        "date": "25/07/2026",
-        "board": "College of Art Delhi",
-        "title": "Part-Time Non-Teaching Staff",
-        "qualification": "10th pass; at least 3 years' experience in the trade (Lithographic Printing from stones and zinc plates, Intaglio Printing including other graphic printing techniques, maintenance of various machines related to printing work). Approved trade certificate is desirable.",
-        "last_date": "28-07-2026",
-        "total_posts": "22",
-        "salary": "Not Available",
-        "age_limit": "Age Limit",
-        "application_fee": "Not Available",
-        "selection_process": "Selection for Non-Teaching Staff posts will be made purely through a walk-in interview. The notification does not mention any written examination or skill test as part of the selection process.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://colart.delhigovt.nic.in/",
-        "official_notification": "https://colart.delhi.gov.in/sites/default/files/Colart/circulars-orders/notification.pdf"
     },
     {
         "date": "25/07/2026",
@@ -750,22 +750,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aiims.edu",
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/rpc-22-7-26.pdf"
-    },
-    {
-        "date": "23/07/2026",
-        "board": "ESIC Okhla",
-        "title": "Senior Resident & Specialist – 47 Posts",
-        "qualification": "MBBS, DNB, Any Post Graduate, PG Diploma, MS/ MD, DM",
-        "last_date": "28-07-2026",
-        "total_posts": "12 (1 + 11, across two vacancy tables)",
-        "salary": "Rs. 67,700/- (Level-11, 7th CPC matrix) + other allowances per month as applicable. Rs. 1,350/- deducted if the SR possesses only a diploma.",
-        "age_limit": "Age relaxation for SC/ST/OBC candidates is applicable as per rule. The OBC certificate must be in the prescribed format certifying that the candidate does not belong to the creamy layer. Reservation for PWD candidates is as per rule.",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Selection is made purely through a walk-in interview - there is no written examination or online application process. Candidates must appear in person on the notified date and time with the prescribed application form and all original/photocopied documents for verification. The decision of the Selection Board is final on all aspects of selection.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://esic.gov.in/",
-        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_on_27_07_2026_for_Senior_Resident_amp_on_28_07_2026_for_Specialist_Super_Specialist_Reporting_time_9_00AM_to_11_00AM_1784795989.pdf"
     },
     {
         "date": "23/07/2026",
@@ -1345,22 +1329,6 @@
     },
     {
         "date": "20/07/2026",
-        "board": "MVH",
-        "title": "Junior Resident (MBBS)",
-        "qualification": "MBBS from recognized university with completed internship",
-        "last_date": "28-07-2026",
-        "total_posts": "5",
-        "salary": "Rs. 56100 Per Month",
-        "age_limit": "Maximum Age Limit: 30 years || Age Relaxation: 35 years for SC/ST, 33 years for OBC; further relaxation to 40 years under provisions of circular dated 10/06/2011.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://mvh.delhi.gov.in/",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wmvh_24.pdf"
-    },
-    {
-        "date": "20/07/2026",
         "board": "ICGEB",
         "title": "Sr. Project Scientist",
         "qualification": "Ph.D. in Bioinformatics, Computational Biology, Computer Science, Health Informatics, Data Science or related quantitative field, M.Tech with 6 years experience, Master's degree in Bioinformatics, Computational Biology, Computer Science, Health Informatics, Data Science or related quantitative field",
@@ -1520,22 +1488,6 @@
         "official_notification": "https://www.ircon.org/sites/default/files/2026-07/ManagerLegal%20_merged.pdf"
     },
     {
-        "date": "18/07/2026",
-        "board": "KNC Delhi",
-        "title": "Assistant Professor",
-        "qualification": "Qualifications as per UGC Regulations for Assistant Professor and University of Delhi norms",
-        "last_date": "28-07-2026",
-        "total_posts": "1",
-        "salary": "₹1500 per lecture subject to maximum ₹50000 per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-in Interview || Document Verification",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.knc.du.ac.in",
-        "official_notification": "https://www.du.ac.in/uploads/2026/16072026-kamala-Advertisement%20Philosophy.pdf"
-    },
-    {
         "date": "17/07/2026",
         "board": "SPMCIL",
         "title": "Young Professional (Legal, Finance, Technical, Cyber Security)",
@@ -1614,22 +1566,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ncrtc.in",
         "official_notification": "https://www.ncrtc.co.in/hr-module/HR/uploads/2026_07_16_02_07_56262026SDGMAMTransportPlanner.pdf"
-    },
-    {
-        "date": "17/07/2026",
-        "board": "AIIMS Delhi",
-        "title": "Project Technical Support",
-        "qualification": "Graduate degree in social worker discipline OR PG in relevant subject/ field OR 12th in Science + Diploma OR 10th + Diploma",
-        "last_date": "28-07-2026",
-        "total_posts": "5",
-        "salary": "Rs. 28,000/-p.m + HRA, as admissible",
-        "age_limit": "Maximum Age Limit: 35 years for all posts. || Age relaxation rules will be as per government norms.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting || Interview",
-        "apply_mode": "online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiims.edu/",
-        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/ccm-16-7-26.pdf"
     },
     {
         "date": "17/07/2026",
@@ -2176,22 +2112,6 @@
         "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtSAG10072026.pdf"
     },
     {
-        "date": "10/07/2026",
-        "board": "Delhi University",
-        "title": "Research Assistant and Field Investigator",
-        "qualification": "Postgraduate in any Social Science discipline with at least 55% marks. NET/M.Phil./Ph.D. preferred for Research Assistant. Experience in field surveys, data collection, interviews, and computer applications preferred for Field Investigator.",
-        "last_date": "28-07-2026",
-        "total_posts": "2",
-        "salary": "₹37,000/- per month (Consolidated) for Research Assistant, ₹20,000/- per month (Consolidated) for Field Investigator",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.du.ac.in",
-        "official_notification": "https://www.du.ac.in/uploads/2026/07072026_ICSSR-advertisement_DES.pdf"
-    },
-    {
         "date": "09/07/2026",
         "board": "AAI",
         "title": "Head of Training & Continuous Airworthiness Manager (CAMO Post Holder)",
@@ -2209,22 +2129,6 @@
     },
     {
         "date": "08/07/2026",
-        "board": "NBEMS",
-        "title": "Research Associate-I and Research Associate-II",
-        "qualification": "Graduate in Computer Applications / Information Technology / Computer Science / Artificial Intelligence / Operating Systems / Software Engineering or equivalent; preferred certifications include CCNA/CCNP/CCIE, Fortinet/Palo Alto/Checkpoint, RHCE/MCSE, Oracle/MS SQL/PostgreSQL DBA, CEH/OSCP, ITIL v4, and privacy/data-protection certifications",
-        "last_date": "28-07-2026",
-        "total_posts": "30",
-        "salary": "Selected candidates will receive a lump-sum monthly consolidated remuneration as below, with statutory deductions made as applicable. No DA, HRA, or other government allowances apply, since these are contractual, non-regular positions. || Research Associate-I posts: ₹50,000/- per month (consolidated) || Research Associate-II posts (Finance & Accounts, Cyber Security): ₹95,000/- per month (consolidated) || Annual increment: up to 5% of remuneration as a ceiling, on satisfactory completion of one year, subject to a case-by-case performance review",
-        "age_limit": "Research Associate-I posts: upper age limit of 40 years || Research Associate-II posts (Finance & Accounts and Cyber Security): upper age limit of 45 years || A 5-year age relaxation is given to candidates having a minimum of 3 years' experience in Examination Institutes || Reservation for PwBD candidates is applicable as per extant Government of India rules || Age, educational qualification, and experience are reckoned as on the date of publication of the advertisement in the Employment Newspaper",
-        "application_fee": "The official notification for this Walk-in-Interaction does not specify any application fee for Research Associate posts. Since this is a direct walk-in recruitment process and not an online application, candidates are advised to verify fee-related details, if any, on the official NBEMS website before attending the interaction.",
-        "selection_process": "Selection for NBEMS Research Associate posts is made purely through a Walk-in-Interaction, with no separate online application stage. The process includes: || Document verification of age, qualification, category, and experience certificates on the day of the Walk-in-Interaction || Screening and interaction conducted by an Interaction Panel, at the panel's discretion || NBEMS reserves the right to hold a written examination or fix its own additional criteria for shortlisting candidates || Candidates found ineligible at any stage will have their candidature cancelled || The decision of NBEMS in all matters relating to eligibility, scrutiny, and selection is final and binding on candidates.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://natboard.edu.in/viewNotice.php?NBE=VHEvRzl5RC95V0JkYVloY01KMFBhZz09"
-    },
-    {
-        "date": "08/07/2026",
         "board": "Indian Army",
         "title": "Short Service Commission (Technical) Women - SSCW(T)-68",
         "qualification": "B.E./B.Tech in notified Engineering streams",
@@ -2238,22 +2142,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in",
         "official_notification": "http://joinindianarmy.nic.in/writereaddata/Portal/NotificationPDF/Combined_notification__SSCW_Tech_-68_1_.pdf"
-    },
-    {
-        "date": "07/07/2026",
-        "board": "NHSRC",
-        "title": "Consultant",
-        "qualification": "Post-graduation or higher qualification in public health, Community health, Preventive & Social Medicine, MBBS/BAMS/BHMS/BDS/Psychology with Post Graduate Degree in Public Health or Hospital/Health Administration, MBBS/BDS/AYUSH with Master's in Social Work/MD/PhD/MPH/MBA (Health Management)/Post Graduate Diploma in Hospital and Health Management/MBA in Rural Management, MBBS with Public Health post graduate qualifications (MD/MPH) or equivalent with 7+ years experience",
-        "last_date": "28-07-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 40,000/- to Rs. 1,70,000/- per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Written Test",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://nhsrcindia.org",
-        "official_notification": "https://img2.freejobalert.com/news/2026/07/138498-6a4ca20ccec8a99581329.pdf"
     },
     {
         "date": "07/07/2026",
