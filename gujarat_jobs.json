@@ -1,6 +1,22 @@
 [
     {
         "date": "29/07/2026",
+        "board": "IIM Ahmedabad",
+        "title": "Academic Associate",
+        "qualification": "Master's Degree in Economics or Public Policy with interest or exposure to specializations in Agriculture, Development, Applied Econometrics or Data Sciences",
+        "last_date": "05-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 35,000/- to Rs. 40,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iima.ac.in/",
+        "official_notification": "https://www.iima.ac.in/sites/default/files/2026-07/Advt_AA_CMA-Jul%2026.pdf"
+    },
+    {
+        "date": "29/07/2026",
         "board": "ISRO",
         "title": "Scientist/Engineer 'SC'",
         "qualification": "BE/B.Tech or equivalent in Mechanical Engineering with Refrigeration & Air Conditioning or allied electives/core subject, min. 65% aggregate or CGPA 6.84/10",

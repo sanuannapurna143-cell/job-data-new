@@ -1,6 +1,22 @@
 [
     {
         "date": "29/07/2026",
+        "board": "BITS Pilani",
+        "title": "Research Fellow",
+        "qualification": "Post Graduate or Graduate degree in Electronics/Communication/Instrumentation/Computer Science/EEE or equivalent discipline from a recognized University.",
+        "last_date": "05-09-2026",
+        "total_posts": "2",
+        "salary": "₹37,000 - ₹42,000 per month + HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bits-pilani.ac.in/",
+        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/PhD-Advertisement-21st-July-2026.pdf"
+    },
+    {
+        "date": "29/07/2026",
         "board": "CSIR NIO",
         "title": "Project Associate - I",
         "qualification": "MSc Geology/Applied Geology/Earth Sciences with NET/GATE qualifications",
