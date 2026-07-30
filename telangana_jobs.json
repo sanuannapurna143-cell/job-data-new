@@ -1,5 +1,37 @@
 [
     {
+        "date": "30/07/2026",
+        "board": "TSLPRB",
+        "title": "Post Name",
+        "qualification": "B.E./B.Tech in Information Technology or Computer Science (including AI, AI & ML, Data Science, Networks, Cyber Security, or IoT specializations), OR B.Sc. in Computer Science/Computer Applications, from a recognized university, as on the date of notification.",
+        "last_date": "30-08-2026",
+        "total_posts": "325",
+        "salary": "Selected candidates undergo Induction/Institutional Training and are eligible for a stipend fixed by the Government during training. Regular pay applies only after successful completion of training and appointment to the regular post.",
+        "age_limit": "An additional 5-year age relaxation applies across all posts for uniformed services (Police, Fire Services, Prisons, and Special Protection Force), as per GO Ms No. 87, General Administration (Services-A) Department, dated 18-05-2026.",
+        "application_fee": "The notifications state that OC and BC candidates with local status of Telangana State must pay the fee \"as designated in the Online Application,\" while SC and ST local candidates pay a concessional fee. Exact fee amounts in rupees are not specified in any of the notifications - the applicable fee will be displayed on the TSLPRB online portal based on the candidate's category and the post(s)/notification(s) applied for. || Candidates applying for more than one post among the linked technical notifications (SI Civil, RSI, SPF SI, SFO, Deputy Jailor, ASI FPB, PC Civil, PC Mechanic, PC Driver) issued within 3 months of each other are eligible for a fee rebate on the common Physical Measurement Test/Physical Efficiency Test: || ₹50 per additional post (in excess of 1) for Local SC/ST candidates of Telangana || ₹100 per additional post (in excess of 1) for all other candidates || Fee once paid is non-refundable under any circumstances, including under-age/over-age applications or incomplete submissions.",
+        "selection_process": "Selection stages differ slightly depending on the post group.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tgprb.in/",
+        "official_notification": "https://www.tgprb.in/SI_PC_2026/SI%20(Civil%20et%20al)%202026%20Notification%20dated%2029-07-2026.pdf"
+    },
+    {
+        "date": "30/07/2026",
+        "board": "TSLPRB",
+        "title": "Police Constable, SPF Constable, Fire Fighter and Warder",
+        "qualification": "Candidates must have passed Intermediate or an equivalent examination recognized by the State Government as on 29 July 2026 . || Candidates possessing qualifications higher than the prescribed Intermediate qualification will also be considered on par with candidates possessing the required qualification. || For Post Code 26 - Fire Fighter , candidates must additionally possess a valid Light Motor Vehicle (LMV) driving licence as on the date of notification.",
+        "last_date": "30-08-2026",
+        "total_posts": "7112",
+        "salary": "The notified posts carry a pay scale of Rs. 24,280-72,850 .",
+        "age_limit": "For Post Codes 21 to 23, 25, 26, 27 and 28 , the prescribed basic age requirement is 18 to below 22 years as on 01 July 2026 . || However, the Government of Telangana has provided an additional relaxation of 5 years in the upper age limit for direct recruitment to uniformed services, including Police, Fire Services, Prisons and Special Protection Force Departments. || Further category-wise and special-category age relaxations apply as prescribed in the official notification. Candidates should check the age conditions applicable to their category before applying.",
+        "application_fee": "The application fee amount will be determined through the TSLPRB online application system based on the post or posts selected by the candidate. || OC and BC candidates with Telangana local status have to pay the fee designated in the online application. Local SC and ST candidates of Telangana will pay the applicable concessional fee. Other candidates must pay the fee designated by the online application system. || Candidates applying for multiple eligible posts may receive the applicable fee rebate as prescribed in the notification. || The application fee can be paid using Credit Card, Debit Card, Net Banking or other payment methods made available on the TSLPRB website . Fee once paid will not be refunded.",
+        "selection_process": "The TSLPRB Police Constable selection process includes written examinations, physical tests and certificate verification. Candidates must qualify at the applicable stages of the recruitment process. || Preliminary Written Test (PWT) || Physical Measurement Test (PMT) || Physical Efficiency Test (PET) || Final Written Examination (FWE) || Certificate Verification || Final Selection as per the applicable post-wise merit criteria",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tgprb.in/",
+        "official_notification": "https://www.tgprb.in/SI_PC_2026/PC%20(Civil%20et%20al)%202026%20Notification%20dated%2029-07-2026.pdf"
+    },
+    {
         "date": "29/07/2026",
         "board": "ISRO",
         "title": "Scientist/Engineer 'SC'",
@@ -414,22 +446,6 @@
         "syllabus": "Not Available",
         "official_website": "https://nitw.ac.in/",
         "official_notification": "https://nitw.ac.in/api/static/files/01_DEPUTY_DIRECTOR_2026-7-8-17-4-11.pdf"
-    },
-    {
-        "date": "06/07/2026",
-        "board": "TSLPRB",
-        "title": "Police Constable, Warder, SI and More – 7437 Posts",
-        "qualification": "Other",
-        "last_date": "31-07-2026",
-        "total_posts": "7437",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.tgprb.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/07/254136-6a4b2cb37cbf117982184.pdf"
     },
     {
         "date": "02/07/2026",
