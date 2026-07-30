@@ -1,6 +1,54 @@
 [
     {
         "date": "30/07/2026",
+        "board": "IREL",
+        "title": "Director (Human Resources)",
+        "qualification": "Graduate with good academic record from recognized University/Institute, Post Graduate Diploma/Degree in Personnel Management/HRM or MBA/PGDM/PGPM desirable",
+        "last_date": "17-08-2026",
+        "total_posts": "08 April 2026",
+        "salary": "Rs. 160000 - 290000 Per Month",
+        "age_limit": "Minimum Age: 40 years || Age Relaxation: Internal: 2 years residual service as on DOV; Others: 3 years residual service as on DOV. Age of superannuation 60 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://pesb.gov.in/",
+        "official_notification": "https://www.irel.co.in/documents/20126/108267/ADVT+Director+HR.pdf/07b613f3-ab91-9542-a4e1-f57617047676?t=1785302776745"
+    },
+    {
+        "date": "30/07/2026",
+        "board": "IIT Delhi",
+        "title": "Junior Research Fellow",
+        "qualification": "1st class Graduate/ Post-graduate in ECE/ EE/ E&T with GATE qualification or experience in full-wave electromagnetic simulators",
+        "last_date": "11-08-2026",
+        "total_posts": "1",
+        "salary": "Rs.37,000/- p.m. plus HRA @27%",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1785325603552_wwlsbdj.pdf"
+    },
+    {
+        "date": "30/07/2026",
+        "board": "National Book Trust",
+        "title": "Young Professional (For Exhibition)",
+        "qualification": "Graduation in Mass Communication/Management/Humanities or related discipline from recognized University, Postgraduate degree or diploma in Mass Communications/Public Relations/Marketing (preferable), Minimum 5 years experience in planning, coordination and execution of events, exhibitions, conferences in Government/cultural/reputed organization",
+        "last_date": "01-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 60000 - 70000 Per Month",
+        "age_limit": "Max: 32 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nbtindia.gov.in",
+        "official_notification": "https://www.nbtindia.gov.in/writereaddata/jobattachment/friday-july-17-20265-46-32-pmvacancy-notice-for-the-post-of-young-professional-exhibition-on-a-contractual-basis-.pdf"
+    },
+    {
+        "date": "30/07/2026",
         "board": "STPI",
         "title": "Junior Hindi Translator (JHT)",
         "qualification": "Diploma, Any Masters Degree",
@@ -525,7 +573,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "tmb-specialist-officer-recruitment-2026-3060903"
     },
     {
         "date": "25/07/2026",
@@ -845,7 +893,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ncrtc.in/",
-        "official_notification": "Not Available"
+        "official_notification": "tmb-specialist-officer-recruitment-2026-3060903"
     },
     {
         "date": "24/07/2026",
@@ -1245,7 +1293,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "tmb-specialist-officer-recruitment-2026-3060903"
     },
     {
         "date": "20/07/2026",

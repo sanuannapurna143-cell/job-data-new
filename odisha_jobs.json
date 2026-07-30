@@ -1,6 +1,38 @@
 [
     {
         "date": "30/07/2026",
+        "board": "ICAR CRRI",
+        "title": "Young Professional I (YP-I)",
+        "qualification": "B.Sc. in Agriculture / Botany / Zoology / Environmental Science / Biotechnology",
+        "last_date": "07-08-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30000 Per Month",
+        "age_limit": "Min: 21 years, Max: 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://icar-crri.in/",
+        "official_notification": "https://icar-crri.in/wp-content/uploads/2026/07/EAP-440.pdf"
+    },
+    {
+        "date": "30/07/2026",
+        "board": "Bhadrak District Court",
+        "title": "Junior Clerk-cum-Copyist, Stenographer Grade-III, Junior Typist, Salaried Amin",
+        "qualification": "Passed the matriculation examination or an equivalent examination from a recognized Board. || Passed the Revenue Inspector Training from a Government/recognized institution. || Possess knowledge in computer.",
+        "last_date": "28-08-2026",
+        "total_posts": "34",
+        "salary": "Rs. 19,900–63,200/- (Level-4 of Pay Matrix)",
+        "age_limit": "Not Available",
+        "application_fee": "Nil (No fee for any category)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bhadrak.dcourts.gov.in",
+        "official_notification": "https://bhadrak.odisha.gov.in/sites/default/files/2026-07/3314.pdf"
+    },
+    {
+        "date": "30/07/2026",
         "board": "AIIMS Bhubaneswar",
         "title": "Project Technical Support II and Project Nurse II",
         "qualification": "12th-pass, Diploma, Any Graduate",
