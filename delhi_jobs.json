@@ -1,6 +1,70 @@
 [
     {
         "date": "30/07/2026",
+        "board": "Ram Lal Anand College",
+        "title": "Field Investigator",
+        "qualification": "M.Tech Computer Science/Cyber Security/IT/ or any other relevant field OR M.Sc Computer Science/ Digital Forensics/Cyber Security/ or any other equivalent field.",
+        "last_date": "07-08-2026",
+        "total_posts": "1",
+        "salary": "INR 40,000/- p.m.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.du.ac.in/",
+        "official_notification": "https://www.du.ac.in/uploads/2026/29072026-rlac-Re-Advt-%20FI.pdf"
+    },
+    {
+        "date": "30/07/2026",
+        "board": "DRDO SSPL",
+        "title": "Paid Internship",
+        "qualification": "B.E./B.Tech. (ongoing) in a relevant discipline, OR || M.Sc./M.Tech. (ongoing) in a relevant discipline, OR || Equivalent qualification || Eligible disciplines: Physics, Chemistry, Electronics, Electrical, Material Science, Quantum Technology, Laser Optics, and Semiconductor Device (or closely related fields).",
+        "last_date": "30-09-2026",
+        "total_posts": "65",
+        "salary": "Monthly stipend:₹5,000/- (Fixed), applicable only to candidates who undertake the full 6-month internship. || Stipend is paid intwo equal installments of ₹15,000/- each- the first after completion of 3 months, and the second after completion of 6 months - via electronic transfer. || A minimum of 15 days' attendance in a month is required for that month to count toward the stipend calculation. || Interns joining for a shorter duration (less than 6 months, minimum 4 weeks) arenot eligible for the stipend. || Expenses such as lodging, boarding, transport, and medical costs are to be borne by the candidate.",
+        "age_limit": "Not mentioned in the official notification.",
+        "application_fee": "Not mentioned in the official notification. No application fee details have been specified.",
+        "selection_process": "Selection will be made through screening and/or interview-based selection , as stated in the notification. No further breakdown of the screening/interview process is provided.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtSSPL_30072026.pdf"
+    },
+    {
+        "date": "30/07/2026",
+        "board": "RailTel",
+        "title": "Graduate Engineer Apprentice, Diploma Engineer Apprentice",
+        "qualification": "Full-time regular 4-year Graduation in Engineering/Technology from an AICTE-approved college, with an aggregate of 60% marks, in Electronics & Telecommunication; or Telecommunication; or Computer Science & Engineering/Information Technology; or Electrical Engineering; or Electronics Engineering; or any combination of engineering branches where Electronics is one of the main branches (such as Electronics & Instrumentation) - OR passed Sections A and B of the Institution of Engineers (India) examinations in the above relevant branches - OR passed the Graduate Membership Examination of the Institution of Electronics and Telecommunication Engineers (India) in the above relevant branches.",
+        "last_date": "27-08-2026",
+        "total_posts": "40",
+        "salary": "Selected candidates will receive a monthly consolidated stipend for the one-year apprenticeship period, shared between RailTel and the Government of India (DBT share), as shown below. No other benefit, facility, or allowance is payable apart from this consolidated stipend.",
+        "age_limit": "Age Limit",
+        "application_fee": "Not Available",
+        "selection_process": "A merit list will be prepared region/state/location-wise on receipt of online applications, with preference given to Government Institution pass-outs. || Shortlisting will be done based on the merit list prepared using marks obtained in the required qualification (minimum eligibility), and/or through an interview as required. || Only candidates found medically fit as per RailTel's norms will be considered for engagement. || Merely meeting the eligibility criteria does not assure engagement. || Candidature is provisional and subject to subsequent verification of certificates/testimonials at any stage; false or incorrect information can lead to cancellation of candidature or engagement.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.railtelindia.com",
+        "official_notification": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf"
+    },
+    {
+        "date": "30/07/2026",
+        "board": "DRDO SSPL",
+        "title": "Apprentice (ITI Apprentice, Diploma Apprentice, Graduate Apprentice)",
+        "qualification": "Regular Graduation degree (First Division) in Physics, Chemistry, Maths or Computer Science, OR B.A./B.Com, OR B.E./B.Tech (First Division) in Electronics, Mechanical, Electrical, Communication Engineering, VLSI, or Chemical Engineering from a recognized University/Institution",
+        "last_date": "21-08-2026",
+        "total_posts": "41",
+        "salary": "Stipend for all three apprenticeship categories (ITI, Diploma, Graduate Apprentice) is as per rules . The notification does not specify an exact stipend amount.",
+        "age_limit": "Not Available",
+        "application_fee": "Not specified in the notification.",
+        "selection_process": "The notification does not specify a written test, interview or a detailed merit-list procedure. It states that verification of credentials will be carried out for selected candidates prior to creation of the apprenticeship contract, and that any deviation or non-conformity with the desired qualification will lead to summary rejection of candidature. Selected candidates must submit a Police Verification Certificate after joining. The exact basis on which candidates are shortlisted/selected (e.g. merit percentage) is not specified in the notification.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtSSPL_APP30072026.pdf"
+    },
+    {
+        "date": "30/07/2026",
         "board": "IREL",
         "title": "Director (Human Resources)",
         "qualification": "Graduate with good academic record from recognized University/Institute, Post Graduate Diploma/Degree in Personnel Management/HRM or MBA/PGDM/PGPM desirable",
@@ -573,7 +637,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "tmb-specialist-officer-recruitment-2026-3060903"
+        "official_notification": "hartron-junior-programmer-recruitment-2026-apply-online-for-530-posts-3060959"
     },
     {
         "date": "25/07/2026",
@@ -893,7 +957,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ncrtc.in/",
-        "official_notification": "tmb-specialist-officer-recruitment-2026-3060903"
+        "official_notification": "hartron-junior-programmer-recruitment-2026-apply-online-for-530-posts-3060959"
     },
     {
         "date": "24/07/2026",
@@ -1293,7 +1357,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "tmb-specialist-officer-recruitment-2026-3060903"
+        "official_notification": "hartron-junior-programmer-recruitment-2026-apply-online-for-530-posts-3060959"
     },
     {
         "date": "20/07/2026",
@@ -2301,7 +2365,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "Not Available"
+        "official_notification": "hartron-junior-programmer-recruitment-2026-apply-online-for-530-posts-3060959"
     },
     {
         "date": "01/07/2026",

@@ -1,6 +1,38 @@
 [
     {
         "date": "30/07/2026",
+        "board": "Redhakhol Forest Division",
+        "title": "Computer/ Data Science Expert",
+        "qualification": "B.E./B.Tech in Computer Science & Engineering, Information Technology (IT), Data Science or related disciplines from a recognized University or Postgraduate in Computer Science & Engineering or related fields from a recognized University.",
+        "last_date": "12-08-2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Rs. 36,000/- per month",
+        "age_limit": "Upper age limit 35 years as on 01.01.2026, including age relaxation up to 5 years in case of SC/ST/SEBC candidates.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sambalpur.odisha.gov.in/",
+        "official_notification": "https://sambalpur.odisha.gov.in/sites/default/files/2026-07/Data%20Science%20Expert.pdf"
+    },
+    {
+        "date": "30/07/2026",
+        "board": "PM SHRI JNV Bhadrak",
+        "title": "Teachers (PGT/TGT)",
+        "qualification": "Master in Computer Application/M.Sc. or M.E. or M.Tech.(Computer Science/IT), Bachelor in Computer Application/B.Sc. or B.E. or B.Tech.(Computer Science/IT), Four years integrated degree course from NCTE recognized institution / Bachelors/honors degree with B.Ed.",
+        "last_date": "03-08-2026",
+        "total_posts": "3",
+        "salary": "PGT Computer Science: Rs.35750/- Per Month || TGT Computer Science: Rs.34125/- Per Month || TGT English: Rs.34125/- Per Month",
+        "age_limit": "Maximum Age Limit: 50 years for all posts. || Age relaxation will be applicable as per the government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Virtual Interview || Document Verification",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.navodaya.gov.in/nvs/nvs-school/Bhadrak/en/home/",
+        "official_notification": "https://bhadrak.odisha.gov.in/sites/default/files/2026-07/PMShriSchool_JNV_Chandimala.pdf"
+    },
+    {
+        "date": "30/07/2026",
         "board": "ICAR CRRI",
         "title": "Young Professional I (YP-I)",
         "qualification": "B.Sc. in Agriculture / Botany / Zoology / Environmental Science / Biotechnology",
