@@ -1,5 +1,37 @@
 [
     {
+        "date": "31/07/2026",
+        "board": "BEL",
+        "title": "Post Name",
+        "qualification": "Candidates must hold a B.E./B.Tech./B.Sc. Engineering degree (4-year course) from an AICTE-approved college/institute or a recognised university, with a Pass Class, in one of the following disciplines: || Electronics stream: Electronics / Electronics & Communication / Electronics & Telecommunication / Telecommunication / Communication / Electrical & Electronics. || Computer Science stream: Computer Science / Information Technology / Information Science. || Applicants whose degree certificate discipline/specialisation does not match the disciplines listed in the advertisement will not be considered. Candidates assessed under a CGPA/credit system must attach the university's official conversion formula for converting CGPA/credits into a percentage.",
+        "last_date": "05-08-2026",
+        "total_posts": "14",
+        "salary": "Project Engineers are engaged on a consolidated remuneration basis that increases each year, along with additional benefits. || Additional benefits: || Area allowance at 10% of the consolidated remuneration per month - applicable only to candidates posted at various sites/customer locations. || Rs. 12,000 per year towards insurance premium, attire allowance, stitching charges, footwear allowance, etc. || Tenure: Project Engineer-I is initially engaged for a period of 3 years, which may be extended by one more year based on project requirement and individual performance. || Retention Bonus: Project Engineer-I candidates who complete an overall tenure of 4 years are entitled to a Retention Bonus of Rs. 25,000 for every completed year, payable at the end of 4 years - i.e., a total of Rs. 1,00,000.",
+        "age_limit": "The upper age limit for Project Engineer as on 01.07.2026 is 32 years for General category candidates. Age relaxation is available as follows: || The maximum permissible age, after considering all applicable relaxations, is 50 years. SSLC/SSC/ISC mark card or any other valid document will be accepted as proof of date of birth.",
+        "application_fee": "Application fee must be paid through SBI Collect, either online or by visiting an SBI branch. No cheque, demand draft, or cash will be accepted. Fees once paid will not be refunded under any circumstances.",
+        "selection_process": "Selection will be conducted through a walk-in process for pre-registered candidates only. || Candidates must pre-register for the walk-in selection through the official QR code by 09:00 AM on 11.08.2026. Those who do not register will not be allowed to participate. || The selection process starts at 08:00 AM; no candidate is allowed entry after 08:30 AM. || Selection consists of a written test followed by an interview. || Based on the written test score, candidates are shortlisted for interview in the ratio of 1:5 in each category, in order of merit. || No travelling expenses/allowance will be given for attending the walk-in selection. || Candidates may be required to stay for an additional day for the selection process.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bel-india.in/",
+        "official_notification": "https://bel-india.in/wp-content/uploads/2026/07/WEB-ADVERTISEMENT-RAJ-GUJ.pdf"
+    },
+    {
+        "date": "31/07/2026",
+        "board": "RVUNL",
+        "title": "Junior Engineer, Junior Assistant, Technician, Accountant & Other Posts",
+        "qualification": "Any Graduate, B.Com, B.Tech/ B.E, Diploma",
+        "last_date": "25-08-2026",
+        "total_posts": "Approx. 2005 Posts (Expected)",
+        "salary": "Not Available",
+        "age_limit": "18 to 40 Years (Expected)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://energy.rajasthan.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/06/711541-6a3ca4c6a001e62100004.pdf"
+    },
+    {
         "date": "30/07/2026",
         "board": "AIIMS Jodhpur",
         "title": "Project Technical Support III & Project Nurse III",
@@ -318,21 +350,5 @@
         "syllabus": "Not Available",
         "official_website": "https://rssb.rajasthan.gov.in",
         "official_notification": "https://rssb.rajasthan.gov.in/advertisements"
-    },
-    {
-        "date": "25/06/2026",
-        "board": "RVUNL",
-        "title": "Junior Engineer, Junior Assistant, Technician, Accountant & Other Posts",
-        "qualification": "Any Graduate, B.Com, B.Tech/ B.E, Diploma",
-        "last_date": "31-07-2026",
-        "total_posts": "Approx. 2005 Posts (Expected)",
-        "salary": "Not Available",
-        "age_limit": "18 to 40 Years (Expected)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://energy.rajasthan.gov.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/06/711541-6a3ca4c6a001e62100004.pdf"
     }
 ]
