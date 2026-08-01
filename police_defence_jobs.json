@@ -1,5 +1,37 @@
 [
     {
+        "date": "01/08/2026",
+        "board": "IAF",
+        "title": "Agniveervayu",
+        "qualification": "12TH, 10TH",
+        "last_date": "07-09-2026",
+        "total_posts": "Not Available",
+        "salary": "Agniveervayu personnel are paid a customised Agniveer package that increases each year of the 4-year engagement, split between an in-hand component and a contribution to the Agniveer Corpus Fund (matched by the Government of India). || In addition to the monthly package, Agniveervayu will receive Risk and Hardship allowances (as applicable in the Indian Air Force), Dress and Travel allowances, and perks such as ration, clothing, accommodation, and Leave Travel Concession (LTC).",
+        "age_limit": "Candidates born between 01 January 2005 and 01 July 2009 (both dates inclusive) are eligible to appear in this Open Recruitment Rally. If a candidate clears all stages of the selection procedure, the upper age limit as on the date of enrolment should not exceed 22 years.",
+        "application_fee": "No application fee for the Open Recruitment Rally itself is specified in the official notification. A separate fee of ₹40 applies only if a candidate wishes to file an Appeal Medical Board (AMB) request after being declared medically unfit.",
+        "selection_process": "Selection for Agniveervayu Intake 01/2027 involves document verification followed by multiple test stages, all typically conducted over the rally days. || Verification of Eligibility:Original/DigiLocker-verified educational certificates and other applicable documents (domicile, COAFP, NCC, discharge certificate, etc.) are scrutinised prior to the Physical Fitness Test. || Physical Fitness Test (PFT):PFT-I: 1.6 Km run — male candidates within 7 minutes, female candidates within 8 minutes.PFT-II (after 10 minutes recuperation): Male candidates — 10 push-ups (1 min), 10 sit-ups (1 min), 20 squats (1 min), with rest breaks between exercises. Female candidates — 10 sit-ups (1 min 30 sec), 15 squats (1 min), with rest breaks between exercises. || PFT-I: 1.6 Km run — male candidates within 7 minutes, female candidates within 8 minutes. || PFT-II (after 10 minutes recuperation): Male candidates — 10 push-ups (1 min), 10 sit-ups (1 min), 20 squats (1 min), with rest breaks between exercises. Female candidates — 10 sit-ups (1 min 30 sec), 15 squats (1 min), with rest breaks between exercises. || Adaptability Test-I (AT-I):Objective written test assessing suitability for employment in varied geographic, weather, and operational conditions. || Adaptability Test-II (AT-II):Assesses adaptability to Indian Air Force environment and military way of life; conducted the same or a subsequent day. || Medical Examination:Conducted in September 2026 at Jorhat (for 11 ASC) and Sri Vijaya Puram (for 8 ASC), including baseline investigations such as blood haemogram, urine RE/ME, blood sugar, serum cholesterol, RFT, LFT, chest radiograph, ECG, and (for female candidates) ultrasonography of the lower abdomen and pelvis. || Appeal Medical Board (AMB):Candidates declared medically unfit may appeal by depositing ₹40 via e-MRO/MRO within three working days of the medical examination. || Provisional Select List and Enrolment:The state-wise Provisional Select List (PSL) is prepared based on performance and state-wise cut-offs and vacancies; inclusion in the PSL does not guarantee enrolment. The final Enrolment List is published after the PSL.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iafrecruitment.edcil.co.in",
+        "official_notification": "https://iafrecruitment.edcil.co.in/agniveervayu/pdffiles/OS%20%20Rally%2001%20of%202027.pdf"
+    },
+    {
+        "date": "01/08/2026",
+        "board": "ISRO NRSC",
+        "title": "Research Scientist, Project Associate and More     – 48 Posts",
+        "qualification": "M.E./M.Tech in Data Science & Analytics/Computer Vision/Artificial Intelligence/Machine Learning or equivalent, with B.E./B.Tech in any branch of Engineering (experience in satellite data analysis, remote sensing applications, GIS and Python/R/Google Earth Engine programming is desirable)",
+        "last_date": "21-08-2026",
+        "total_posts": "48",
+        "salary": "*HRA is paid at prescribed rates if accommodation is not provided at the place of posting. Female candidates are eligible for maternity leave as per Government of India rules, and selected candidates are eligible for medical benefits for self as per NRSC/ISRO rules. Selected candidates will not be entitled to other benefits or concessions admissible to regular employees, and these provisions may change as per government policy from time to time.",
+        "age_limit": "Age is reckoned as on the last date for receipt of online applications (21.08.2026): || Ex-Servicemen and Persons with Benchmark Disabilities (PwBD) are eligible for upper age relaxation as per Government of India orders. Candidates claiming relaxation must submit relevant certificates issued by competent authorities.",
+        "application_fee": "Each application attracts a non-refundable fee of ₹250, payable online only through the Bharatkosh payment gateway (no cash, cheque, draft, money order, or IPO is accepted). The last date for fee payment is the same as the application closing date - there is no extension. || The ₹250 fee is refunded for all Women, SC/ST/PwBD, and Ex-Servicemen candidates, subject to meeting the eligibility criteria and participating in the selection process (i.e., appearing for the interview). Refunds are made only to the bank account details submitted in the application; NRSC is not responsible for failed refunds due to incorrect bank details, and no refund is considered if a candidate does not appear for interview. Any service charges levied by the payment platform are borne by the applicant.",
+        "selection_process": "Meeting the minimum qualification does not automatically qualify a candidate for interview - NRSC reserves the right to screen applications and fix additional shortlisting criteria as necessary. || Screened-in/shortlisted candidates are called for an interview before a Selection Committee; only shortlisted candidates are contacted, and call letters are sent by email only. || The list of shortlisted candidates is placed on the NRSC website. || Documents uploaded during application are verified at the time of interview; mere admission to the interview does not guarantee selection.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nrsc.gov.in/",
+        "official_notification": "https://www.nrsc.gov.in/Career_Apply"
+    },
+    {
         "date": "31/07/2026",
         "board": "Ordnance Factory Dehu Road",
         "title": "Tenure Based DBW",
@@ -61,7 +93,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.hal-india.co.in/",
-        "official_notification": "/cdn-cgi/l/email-protection#ef878e83829b8b9bdddfddd9af88828e8683c18c8082"
+        "official_notification": "/cdn-cgi/l/email-protection#c7afa6abaab3a3b3f5f7f5f187a0aaa6aeabe9a4a8aa"
     },
     {
         "date": "29/07/2026",
@@ -301,7 +333,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "kpsc-kas-gazetted-probationers-recruitment-2026-3061131"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/06/2026",
