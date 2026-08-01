@@ -1,5 +1,21 @@
 [
     {
+        "date": "01/08/2026",
+        "board": "IBPS",
+        "title": "Customer Service Associate (CSA), commonly known as IBPS Clerk",
+        "qualification": "Ex-Servicemen who do not hold the above civil qualification are eligible if they are matriculate Ex-Servicemen who obtained the Army Special Certificate of Education (or the equivalent Navy/Air Force certificate) after completing at least 15 years of service in the Armed Forces, with the certificate dated on or before 21.08.2026.",
+        "last_date": "21-08-2026",
+        "total_posts": "2027-28",
+        "salary": "The Customer Service Associate post carries the following basic pay scale, plus allowances and perquisites as applicable in the allotted participating bank: || The Customer Service Associate is eligible for allowances and perquisites as per the rules of the participating bank in force from time to time. Exact take-home pay after allowances is not specified in the notification, since it varies bank to bank.",
+        "age_limit": "The standard age limit is 20 to 28 years as on 01.08.2026. Relaxation in the upper age limit is available to reserved categories as follows: || Age relaxation for SC/ST/OBC candidates is available cumulatively with only one of the other relaxation categories listed above (Point II 3 to 5 of the notification), not with more than one.",
+        "application_fee": "The application fee (inclusive of GST) must be paid online between 01.08.2026 and 21.08.2026: || SC/ST/PwBD/ESM/DESM candidates: ₹175 || All other candidates: ₹850 || Bank transaction charges for online payment are to be borne by the candidate. Payment can be made via Debit Card, Credit Card, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI. A correction fee of ₹200 (inclusive of GST) applies if a candidate uses the Edit Window to modify the submitted application. || Also Read: Bank Jobs 2026 | Government Jobs After Graduation | SSC and Banking Exam Calendar 2026",
+        "selection_process": "Selection for CRP CSA-XVI is a two-tier process consisting of an Online Preliminary Examination and an Online Main Examination, followed by a qualifying Local Language Proficiency Test before joining.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ibps.in/",
+        "official_notification": "https://www.ibps.in/"
+    },
+    {
         "date": "30/07/2026",
         "board": "TMB",
         "title": "Post Name",
@@ -14,22 +30,6 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/IT%20GAP%20Vacancy%2028072026.pdf"
-    },
-    {
-        "date": "27/07/2026",
-        "board": "IBPS",
-        "title": "Customer Service Associate (CSA) / Clerk",
-        "qualification": "Any Graduate + Computer Literacy & Local Language Proficiency",
-        "last_date": "21-08-2026",
-        "total_posts": "To be updated soon",
-        "salary": "Selected candidates will be placed in the Clerical Cadre with a pay scale of ₹24,050 – ₹64,480/- per month, along with other allowances as applicable at the respective participating public sector bank.",
-        "age_limit": "Minimum Age: 20 years || Maximum Age: 28 years || Cut-off date for age calculation: 01.08.2026 || Age relaxation applicable as per rules for reserved categories",
-        "application_fee": "₹850/-",
-        "selection_process": "Stage 1: Online Preliminary Examination || Stage 2: Online Main Examination || Stage 3: Local Language Proficiency Test (LLPT) || Stage 4: Document Verification || Stage 5: Medical Examination",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ibps.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/07/026548514-6a66e839e3e7215364911.pdf"
     },
     {
         "date": "24/07/2026",
@@ -96,38 +96,6 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/07/852141-6a5da7423e04254906382.pdf"
     },
     {
-        "date": "20/07/2026",
-        "board": "Central Bank of India",
-        "title": "PSB Officer",
-        "qualification": "Retired officers in the rank equivalent to a Chief Manager & above in Public Sector Banks, having necessary skills and experience of working in different areas of Banking or Human Resources or Industrial Relations or have experience of handling departmental inquiries as Inquiring Authority / Presenting Officer / Disciplinary Authority.",
-        "last_date": "31-07-2026",
-        "total_posts": "Not Mentioned",
-        "salary": "Lump-sum remuneration based on the scale of the charge sheeted officer and time taken to complete the inquiry.",
-        "age_limit": "Maximum Age: 63 years (as on the date of publication of notification for empanelment). || Age relaxation is not specified in the notification.",
-        "application_fee": "Not Available",
-        "selection_process": "Personal Interaction",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.centralbank.bank.in",
-        "official_notification": "https://centralbank.bank.in/sites/default/files/ENGAGEMENT%20OF%20RETIRED%20PSB%E2%80%99S%20OFFICERS%20IN%20THE%20RANK%20OF%20SCALE%20IV%20%26%20ABOVE%20FOR%20THE%20POST%20OF%20INQUIRY%20AUTHORITY%20ON%20CONTRACTUAL%20BASIS.pdf"
-    },
-    {
-        "date": "17/07/2026",
-        "board": "RBI",
-        "title": "Part Time Bank’s Medical Consultant (BMC)",
-        "qualification": "MBBS, MS/MD",
-        "last_date": "31-07-2026",
-        "total_posts": "02",
-        "salary": "Note: ₹1,000/- per month treated as conveyance expense. No other benefits like pension, PF, gratuity, or leave.",
-        "age_limit": "Not specifically mentioned in the advertisement. Candidates are expected to be in a position to perform the duties efficiently for the full contract period.",
-        "application_fee": "Not Available",
-        "selection_process": "Scrutiny of applications || Interview by RBI Panel || Medical Examination & Document Verification || Final engagement after signing contract agreement",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.rbi.org.in",
-        "official_notification": "https://rbidocs.rbi.org.in/rdocs/Content/PDFs/EPTBMCK1707202675797B878BDB4FC5A36CEE9888C31676.PDF"
-    },
-    {
         "date": "13/07/2026",
         "board": "NaBFID",
         "title": "Business Analyst     – 22 Posts",
@@ -142,21 +110,5 @@
         "syllabus": "Not Available",
         "official_website": "https://nabfid.org/careers",
         "official_notification": "https://img2.freejobalert.com/news/2026/07/852147-6a5462d4da8a342531654.pdf"
-    },
-    {
-        "date": "13/07/2026",
-        "board": "BOB",
-        "title": "Assistant Vice President",
-        "qualification": "Bachelor's Degree in any discipline, B.E/B.Tech/BCA/MCA/M.E/M.Tech (Computer Science/IT/Data Science), Bachelor's/Master's in Statistics/Maths/Economics/Quantitative Field, MCA/MBA/PGDM, Professional Certifications: SAFe Program Consultant (SPC), Certified Agile Coach (ICP-ACC), PMI-ACP, Salesforce Architect (CRM), Bachelor's/Master's in Finance/Economics/Accounting/Business Administration/Mathematics/Financial Engineering, CFA/CA/CPA/CMA/CAIA/ACCA/FRM/CIMA",
-        "last_date": "31-07-2026",
-        "total_posts": "5",
-        "salary": "Not Available",
-        "age_limit": "Minimum Age: 27 years || Maximum Age: 40 years || Age relaxation details are not specified in the provided data. Please refer to the official notification for any applicable relaxations.",
-        "application_fee": "Rs.850/- (Inclusive of GST) + Payment Gateway Charges",
-        "selection_process": "Application Scrutiny || Online Test || Psychometric Test || Group Discussion || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.bankofbaroda.bank.in",
-        "official_notification": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-07/Advertisement-PMO-Contractual-11-07-2026-10-23.pdf"
     }
 ]
