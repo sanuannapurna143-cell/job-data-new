@@ -1,5 +1,21 @@
 [
     {
+        "date": "03/08/2026",
+        "board": "DRDO DYSL QT",
+        "title": "Paid Intern",
+        "qualification": "B.Tech or  M.Tech in relevant discipline from recognized Indian University/Institute, Pursuing IInd Year M.Sc Physics",
+        "last_date": "20-08-2026",
+        "total_posts": "5",
+        "salary": "Rs. 5000 Per Month",
+        "age_limit": "Maximum Age Limit: 28 years for all posts.",
+        "application_fee": "Not Available",
+        "selection_process": "CGPA/Percentage based shortlisting || Offline examination / Telephonic interview / In person interaction || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in/",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDYSLQT31072026.pdf"
+    },
+    {
         "date": "01/08/2026",
         "board": "IAF",
         "title": "Agniveervayu",
@@ -93,7 +109,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.hal-india.co.in/",
-        "official_notification": "/cdn-cgi/l/email-protection#563e373a3b2232226466646016313b373f3a7835393b"
+        "official_notification": "/cdn-cgi/l/email-protection#fb939a97968f9f8fc9cbc9cdbb9c969a9297d5989496"
     },
     {
         "date": "29/07/2026",
