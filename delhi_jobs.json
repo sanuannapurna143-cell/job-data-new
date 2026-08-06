@@ -1,6 +1,54 @@
 [
     {
         "date": "06 Aug 2026",
+        "board": "DIBD DIC Vacancy 2026 - 8 Young Professional PostsDIBD DIC Young Professional Vacancy 2026",
+        "title": "Young Professional",
+        "qualification": "B.S./B.E./B.Tech/M.S./M.E./M.Tech/MCA in Technology subjects, Bachelor's degree in Law (LLB), Any graduate preferably with MBA",
+        "last_date": "05 Sep 2026",
+        "total_posts": "8",
+        "salary": "The selected candidates will receive a consolidated salary of Rs. 50,000/- Per Month.",
+        "age_limit": "Maximum Age Limit: 32 years for all posts. || Age relaxation rules will be as per government norms. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bhashini.gov.in/",
+        "official_notification": "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2026/08/JD-YP_DIBD-New08-Openings-3.pdf"
+    },
+    {
+        "date": "06 Aug 2026",
+        "board": "IIT Delhi Vacancy 2026 - 1 Project Attendant PostsIIT Delhi Project Attendant Vacancy 2026",
+        "title": "Project Attendant",
+        "qualification": "Graduate with knowledge of project related operations",
+        "last_date": "17 Aug 2026",
+        "total_posts": "1",
+        "salary": "Rs. 18000-21000-24000-27000-30000-33000 (Consolidated) Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1785843562322_wwy9er7.pdf"
+    },
+    {
+        "date": "05 Aug 2026",
+        "board": "NTPC Vacancy 2026 - 135 Deputy Manager PostsNTPC Deputy Manager Vacancy 2026",
+        "title": "Deputy Manager",
+        "qualification": "The recruitment is specifically for experienced professionals. Detailed educational qualification, experience criteria and eligibility conditions will be available in the official NTPC detailed advertisement.",
+        "last_date": "26 Aug 2026",
+        "total_posts": "Not Available",
+        "salary": "Selected candidates for Deputy Manager posts will be placed at E4 grade with the following pay scale:",
+        "age_limit": "Minimum Age Limit: 18 Years || Maximum Age Limit: 40 Years",
+        "application_fee": "Not Available",
+        "selection_process": "The detailed advertisement will contain complete information regarding: || Shortlisting criteria || Written examination (if applicable) || Interview process || Document verification || Final selection procedure",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ntpc.co.in/",
+        "official_notification": "https://careers.ntpc.co.in/recruitment/pdf_viewer.php?token=dFFyQmw3Qks3K0s0WUpyOTd6WEFTRjF5bHhESzE2V2VhMks1MjRFUWEwS1hUdEJyR0lncjNtRGFHQVhPTmhBeGR1dGNRNXM3ck5RSHE5OGhCOEZSUElZRnBEdjlQMkRoTmZRUmt4MG8ycFdwTWVjZmNKeW90Y29iNE93Rk9KNWVadS9nL3RVWDVxeVdBdkxMY2xBTUxBPT06OjRPYzRZVGVIT2hLYTkrRjN2VDFyWXc9PQ%3D%3D"
+    },
+    {
+        "date": "06 Aug 2026",
         "board": "IIT Delhi Vacancy 2026 - 1 Principal Project Scientist PostsIIT Delhi Principal Project Scientist Vacancy 2026",
         "title": "Principal Project Scientist",
         "qualification": "Ph.D or M.Tech in Biomedical with 2 years experience or equivalent bachelor's with 5 years experience",
@@ -128,22 +176,6 @@
         "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1785840722336_wdq61ci.pdf"
     },
     {
-        "date": "05 Aug 2026",
-        "board": "NTPC Vacancy 2026 - 135 Deputy Manager PostsNTPC Deputy Manager Vacancy 2026",
-        "title": "Deputy Manager",
-        "qualification": "The recruitment is specifically for experienced professionals. Detailed educational qualification, experience criteria and eligibility conditions will be available in the official NTPC detailed advertisement.",
-        "last_date": "20 Aug 2026",
-        "total_posts": "Not Available",
-        "salary": "Selected candidates for Deputy Manager posts will be placed at E4 grade with the following pay scale:",
-        "age_limit": "Minimum Age Limit: 18 Years || Maximum Age Limit: 40 Years",
-        "application_fee": "Not Available",
-        "selection_process": "The detailed advertisement will contain complete information regarding: || Shortlisting criteria || Written examination (if applicable) || Interview process || Document verification || Final selection procedure",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ntpc.co.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/08/742509-6a72b9a93819628096682.pdf"
-    },
-    {
         "date": "21 Jul 2026",
         "board": "RRB Vacancy 2026 - 4098 Junior Engineer PostsRRB Junior Engineer Vacancy 2026",
         "title": "Junior Engineer (JE), Depot Material Superintendent (DMS) & Chemical and Metallurgical Assistant (CMA)",
@@ -157,7 +189,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "csir-nal-recruitment-2026-walk-in-for-89-project-assistant-project-associate-and-more-posts-3061761"
+        "official_notification": "Not Available"
     },
     {
         "date": "21 Jul 2026",
@@ -1085,7 +1117,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "dhs-godda-recruitment-2026-apply-online-for-64-staff-nurse-anm-and-more-posts-3061781"
+        "official_notification": "Not Available"
     },
     {
         "date": "24 Jul 2026",
@@ -1309,7 +1341,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ncrtc.in/",
-        "official_notification": "dhs-godda-recruitment-2026-apply-online-for-64-staff-nurse-anm-and-more-posts-3061781"
+        "official_notification": "Not Available"
     },
     {
         "date": "24 Jul 2026",

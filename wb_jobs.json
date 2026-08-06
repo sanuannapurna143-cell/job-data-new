@@ -1,6 +1,38 @@
 [
     {
         "date": "06 Aug 2026",
+        "board": "IIEST Shibpur Vacancy 2026 - 1 Junior Research Fellow PostsIIEST Shibpur Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.Tech./ M.E. in Computer Science and Engineering/ Information Technology/ Electronics Engineering.",
+        "last_date": "18 Aug 2026",
+        "total_posts": "1",
+        "salary": "Rs. 33480 Per Month",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiests.ac.in/",
+        "official_notification": "https://data.iiests.ac.in/uploads/announcements/files/1785891494_Website%20Copy,%20Soumen%20Moulik,%20CST,%2003.08.2026.pdf"
+    },
+    {
+        "date": "06 Aug 2026",
+        "board": "CSIR CMERI Vacancy 2026 - 34 Project Assistant, Project Scientist and More PostsCSIR CMERI Vacancy 2026",
+        "title": "Project Assistant, Project Scientist and More",
+        "qualification": "Eligibility is post-code-specific. Candidates must match the exact discipline, qualification and experience prescribed for the selected post code. || Candidate caution: The general patterns above do not replace the post-code-wise qualification table in the official notification. Applicants should verify their exact branch and experience before attending.",
+        "last_date": "14 Aug 2026",
+        "total_posts": "Not Available",
+        "salary": "The notified consolidated remuneration ranges from ₹20,000 to ₹56,000 per month . HRA is payable only where specifically mentioned. For certain Project Associate posts, the higher remuneration applies to candidates who have qualified NET, GATE or another prescribed national-level examination. || Project Assistant-II: ₹20,000 per month, with HRA for specified post codes. || Project Associate-I: generally ₹25,000 or ₹31,000, depending on eligibility conditions. || Project Associate-II: generally ₹28,000 or ₹35,000. || Project JRF: ₹37,000. || Senior Project Associate: ₹42,000. || Principal Project Associate: ₹49,000. || Project Scientist-I: ₹56,000, with the notified experience-based increment condition.",
+        "age_limit": "The upper age limit varies from28 to 50 years, depending on the post code. || The relevant interview date will be used to determine age, qualification and experience. || SC, ST, PwBD and women candidates receive up to five years of age relaxation. || OBC candidates receive up to three years of age relaxation, subject to applicable Government of India and CSIR rules.",
+        "application_fee": "No application fee is mentioned in the notification",
+        "selection_process": "Document and eligibility verification || Walk-in interview || Performance and overall assessment by the selection committee || Final engagement subject to availability of funds and approval of the competent authority",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cmeri.res.in/",
+        "official_notification": "https://www.cmeri.res.in/sites/default/files/vacancy/Walk-In-Interview_AdvertisementPRCT042026.pdf"
+    },
+    {
+        "date": "06 Aug 2026",
         "board": "IIT Kharagpur Vacancy 2026 - 1 Junior Research Fellow PostsIIT Kharagpur Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow",
         "qualification": "MTech/ MS/ ME or BE/ BTech in Electrical/ Electronics/ Aerospace Engineering with signal processing specialization",
