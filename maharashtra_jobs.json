@@ -1,6 +1,70 @@
 [
     {
         "date": "08 Aug 2026",
+        "board": "AIIMS Nagpur Vacancy 2026 - 9 Tutor, Medical Officer and More PostsAIIMS Nagpur Vacancy 2026",
+        "title": "Various Group-A Non-Faculty Posts",
+        "qualification": "B.Sc. Nursing, M.A./ M.Sc., M.Phil. Clinical Psychology, Degree in Homeopathy, Degree in Unani, M.Sc. Nuclear Medicine Technology, M.Sc. Medical Physics, B.Sc. Nursing",
+        "last_date": "07 Sep 2026",
+        "total_posts": "9",
+        "salary": "All posts are in Level-10 (7th CPC).",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 35 years || Age Relaxation: SC/ ST: 5 years, OBC(NCL): 3 years, PwBD: 10 years, PwBD+OBC: 13 years, PwBD+SC/ ST: 15 years, Ex-Serviceman: 5 years, Central/ State Govt Employees: 5 years. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "Rs 1000/ -",
+        "selection_process": "Computer Based Test (for shortlisting if required) || Interview || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsnagpur.edu.in",
+        "official_notification": "https://aiimsnagpur.edu.in/upload/recruitment/AIIMS_Nagpur_Group_A_Posts_Advertisement.pdf"
+    },
+    {
+        "date": "08 Aug 2026",
+        "board": "DLSA Sangli Vacancy 2026 - 1 Driver PostsDLSA Sangli Driver Vacancy 2026",
+        "title": "Driver",
+        "qualification": "7th Pass, Valid LMV Driving License, Medical Fitness Certificate, 3 years driving experience",
+        "last_date": "12 Aug 2026",
+        "total_posts": "1",
+        "salary": "As per Minimum Wages Act",
+        "age_limit": "Minimum Age: 25 years || Maximum Age: 35 years || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://sangli.dcourts.gov.in/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0137e7897f62e8d91b1ce60515829c/uploads/2026/08/2026080646.pdf"
+    },
+    {
+        "date": "22 Jul 2026",
+        "board": "AAI Vacancy 2026 - 389 Manager, Junior Executive PostsAAI Vacancy 2026",
+        "title": "Post Name",
+        "qualification": "Bachelor's Degree in Mass Communication/Journalism/Literature + PG Degree or Diploma in Journalism/Mass Communication",
+        "last_date": "07 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "In addition to Basic Pay, selected candidates are entitled to Dearness Allowance, Perks at 35% of Basic Pay, HRA and other benefits including CPF, Gratuity, Social Security Schemes and Medical benefits, as per AAI Rules. Pay protection is available for candidates joining from other CPSEs, State PSUs or Government Departments through proper channel, as per DPE Guidelines.",
+        "age_limit": "SC/ST candidates: 5 years || OBC (Non-Creamy Layer) candidates: 3 years || PwBD candidates with permanent disability (for identified suitable posts): 10 years || Ex-servicemen and Commissioned Officers with at least 5 years of military service: 5 years || Candidates already in regular AAI service who have completed probation: 10 years || The date of birth recorded in the Matriculation/Secondary Examination certificate will only be accepted; no subsequent change requests will be entertained.",
+        "application_fee": "The application fee must be paid online only, through Debit Card, Credit Card, Internet Banking, IMPS, or Cash Cards/Mobile Wallets. Fee once paid is non-refundable under any circumstances.",
+        "selection_process": "Computer Based Test (CBT) - Objective Type, with no negative marking for wrong answers || Application Verification / Subsequent Tests, as applicable to the post || Interview - applicable for Post Codes 1 to 11 (Manager posts) || For Manager (Fire Services): Physical Measurement Test, Driving Test, and Physical Endurance Test (Running, Casualty Carrying, Pole Climbing, Rope Climbing, Ladder Climbing & Descending) after Application Verification || Shortlisting for each subsequent stage is based on performance in the previous stage. Colour blindness and night blindness are rejection criteria for all posts except Post Codes 3 (Manager Finance) and 12 (Junior Executive Finance).",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.aai.aero/",
+        "official_notification": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Detailed%20Advertisement%2012-2026-CHQ.pdf"
+    },
+    {
+        "date": "08 Aug 2026",
+        "board": "IISER Pune Vacancy 2026 - 1 Research Associate PostsIISER Pune Research Associate Vacancy 2026",
+        "title": "Research Associate",
+        "qualification": "Ph.D. in Experimental Condensed Matter Physics with specialization in optics of layered semiconductors",
+        "last_date": "12 Aug 2026",
+        "total_posts": "1",
+        "salary": "Rs. 47000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiserpune.ac.in",
+        "official_notification": "https://www.iiserpune.ac.in/storage/recruitment/job-posts/2292/documents/d41a2808-2988-4abb-ac9c-9dd56a03c795.pdf"
+    },
+    {
+        "date": "08 Aug 2026",
         "board": "KRCL Vacancy 2026 - 134 Apprentice Trainee PostsKRCL Apprentice Trainee Vacancy 2026",
         "title": "Post Name",
         "qualification": "Candidates must have passed out during 2021, 2022, 2023, 2024, or 2025 (within the last 5 years from the date of passing the qualifying exam and date of joining training). Qualification requirements by category: || Category I – Graduate Apprentices (Engineering): BE/B.Tech in Civil Engineering; or Electrical/Electronics & Power Engineering (or a combination of basic Electrical sub-streams) for Electrical Engineering; or Electrical/Electronics/Information Technology/Communication Engineering/Computer Science & Engineering/Computer Science/Computer Engineering (or a combination of these basic streams) for Electronics Engineering; or Mechanical/Industrial/Automobile/Production Engineering for Mechanical Engineering - from an AICTE-recognized university. || Category II – Technician (Diploma) Apprentices: Diploma in Civil Engineering; or Electrical/Electronics & Power Engineering (or a combination of basic streams) for Electrical; or Electrical/Electronics/Information Technology/Communication Engineering/Computer Science & Engineering/Computer Science/Computer Engineering (or a combination) for Electronics; or Mechanical/Industrial/Automobile/Production Engineering for Mechanical - from a University or Institution recognized by the Central/State Govt. Technical Education Board or University. || Category III – Graduate Apprentices (General Stream): Bachelor of Arts / Science / Commerce / Business Administration / Management Science / Journalism and Mass Communication / Business Studies from a UGC or Central/State Govt./Technical Education Board recognized University or Institute. || No additional weightage is given for a higher qualification than the minimum prescribed. Candidates who have already undergone or are currently undergoing apprenticeship training under the Apprentices (Amendment) Act, 1973 in any Government/PSU/Private Industrial Organization are not eligible.",
@@ -365,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "kea-recruitment-2026-apply-online-for-233-nursing-officer-pharmacy-officer-posts-3062113"
     },
     {
         "date": "27 Jul 2026",
@@ -382,22 +446,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ibps.in/",
         "official_notification": "https://www.ibps.in/"
-    },
-    {
-        "date": "22 Jul 2026",
-        "board": "AAI Vacancy 2026 - 389 Manager, Junior Executive PostsAAI Vacancy 2026",
-        "title": "Post Name",
-        "qualification": "Bachelor's Degree in Mass Communication/Journalism/Literature + PG Degree or Diploma in Journalism/Mass Communication",
-        "last_date": "07 Sep 2026",
-        "total_posts": "Not Available",
-        "salary": "In addition to Basic Pay, selected candidates are entitled to Dearness Allowance, Perks at 35% of Basic Pay, HRA and other benefits including CPF, Gratuity, Social Security Schemes and Medical benefits, as per AAI Rules. Pay protection is available for candidates joining from other CPSEs, State PSUs or Government Departments through proper channel, as per DPE Guidelines.",
-        "age_limit": "SC/ST candidates: 5 years || OBC (Non-Creamy Layer) candidates: 3 years || PwBD candidates with permanent disability (for identified suitable posts): 10 years || Ex-servicemen and Commissioned Officers with at least 5 years of military service: 5 years || Candidates already in regular AAI service who have completed probation: 10 years || The date of birth recorded in the Matriculation/Secondary Examination certificate will only be accepted; no subsequent change requests will be entertained.",
-        "application_fee": "The application fee must be paid online only, through Debit Card, Credit Card, Internet Banking, IMPS, or Cash Cards/Mobile Wallets. Fee once paid is non-refundable under any circumstances.",
-        "selection_process": "Computer Based Test (CBT) - Objective Type, with no negative marking for wrong answers || Application Verification / Subsequent Tests, as applicable to the post || Interview - applicable for Post Codes 1 to 11 (Manager posts) || For Manager (Fire Services): Physical Measurement Test, Driving Test, and Physical Endurance Test (Running, Casualty Carrying, Pole Climbing, Rope Climbing, Ladder Climbing & Descending) after Application Verification || Shortlisting for each subsequent stage is based on performance in the previous stage. Colour blindness and night blindness are rejection criteria for all posts except Post Codes 3 (Manager Finance) and 12 (Junior Executive Finance).",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.aai.aero/",
-        "official_notification": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Detailed%20Advertisement%2012-2026-CHQ.pdf"
     },
     {
         "date": "20 Jul 2026",
