@@ -1,5 +1,21 @@
 [
     {
+        "date": "08 Aug 2026",
+        "board": "IOB Vacancy 2026 - 250 Local Bank Officer PostsIOB Local Bank Officer Vacancy 2026",
+        "title": "Local Bank Officer (LBO)",
+        "qualification": "Candidates must hold a Degree (Graduation) in any discipline from a recognized university or an equivalent qualification recognized by the Central Government. Candidates must possess a valid mark-sheet/degree certificate showing they are a graduate on the day they register, and must indicate their graduation percentage while registering online.",
+        "last_date": "24 Aug 2026",
+        "total_posts": "Not Available",
+        "salary": "In addition to Basic Pay, selected candidates will receive DA, HRA, CCA and other allowances as per Bank rules in force from time to time. One advance increment (maximum of two) may be granted for prior completed years of service as an Officer in a Scheduled Commercial Bank, subject to the candidate's job profile matching that of a Scale-I Generalist Officer, and subject to submission of a certified job profile from their existing/previous employer.",
+        "age_limit": "The cut-off date for age and educational qualification eligibility is 01.08.2026 (the first day of the month in which online registration commences). Candidates must have been born not later than 01.08.2006 and not earlier than 02.08.1996 (both dates inclusive).",
+        "application_fee": "The fee is payable online via Debit Card, Credit Card, Internet Banking, or UPI/BHIM. The fee is non-refundable and cannot be adjusted against any other recruitment process, even if the application is not completed.",
+        "selection_process": "Selection is made through an Online Examination, followed by a Language Proficiency Test (LPT) for candidates who have not studied the applied state's local language in Std. X or Std. XII, and a Personal Interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iob.bank.in/",
+        "official_notification": "https://www.iob.bank.in/documents/d/guest/lbo-final-ad-2026-27"
+    },
+    {
         "date": "06 Aug 2026",
         "board": "UCSL Vacancy 2026 - 4 Office Assistant PostsUCSL Office Assistant Vacancy 2026",
         "title": "Office Assistant",
@@ -62,22 +78,6 @@
         "syllabus": "Not Available",
         "official_website": "https://drdo.gov.in/",
         "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtADA06082026.pdf"
-    },
-    {
-        "date": "06 Aug 2026",
-        "board": "DHFWO Koppal Vacancy 2026 - 26 Junior Laboratory Technical Officer, Pharmacist Officer, Nursing Officer PostsDHFWO Koppal Vacancy 2026",
-        "title": "Junior Laboratory Technical Officer, Pharmacist Officer, Nursing Officer",
-        "qualification": "Diploma in Laboratory Technology (DMLT), D.Pharm, GNM/B.Sc Nursing",
-        "last_date": "07 Aug 2026",
-        "total_posts": "26",
-        "salary": "Not Available",
-        "age_limit": "Maximum Age Limit: 45 years for all posts.",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-in Interview || Document Verification || Merit List",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://koppal.nic.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s36cd67d9b6f0150c77bda2eda01ae484c/uploads/2026/08/17855809333737.pdf"
     },
     {
         "date": "06 Aug 2026",
@@ -254,22 +254,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rites.com/",
         "official_notification": "https://www.rites.com/Upload/Career/RG-11-26-AM-Mech_adv_pdf-2026-Jul-17-14-25-24.pdf"
-    },
-    {
-        "date": "09 Jul 2026",
-        "board": "Indian Army Vacancy 2026 - 350 SSC (Tech)-68 Men PostsIndian Army SSC (Tech)-68 Men Vacancy 2026",
-        "title": "SSC (Tech)-68 Men",
-        "qualification": "Candidates who have passed the requiredengineering degree, or are in thefinal yearof an engineering degree course in a notified stream, are eligible to apply. || Final-year candidates must be able to submit proof of passing the engineering degree examination, along with marksheets of all semesters/years, by01 April 2027, and produce the degree certificate within 12 weeks from the start of PCTA training. || Final-year candidates are provisionally allowed to appear for the SSB if their cumulative percentage of marks up to the 6th semester/3rd year (Engineering), 8th semester/4th year (B.Arch), or 2nd semester/1st year (M.Sc in a notified equivalent stream) is not below the approved cut-off percentage for their stream. || The degree must be from a university/institution recognized by an Act of Parliament/State Legislature or deemed university under UGC Act 1956, IIT Act 1961, AICTE Act 1987, NITSER Act 2007, or IIIT Act 2024. Degrees from foreign universities arenot accepted.",
-        "last_date": "07 Aug 2026",
-        "total_posts": "68",
-        "salary": "Approx. CTC ₹17–18 Lakh per annum (excludes free medical cover and one home-town travel per year)",
-        "age_limit": "Candidates must be between 20 and 27 years as on 01 Apr 2027, i.e., born between 01 Apr 2000 and 31 Mar 2007 (both dates inclusive). || Only the date of birth recorded in the Matriculation/Secondary School Examination Certificate (or equivalent) is accepted. No other document for age proof is accepted, and no request for change of recorded date of birth is considered later.",
-        "application_fee": "Not specified in the official notification. The notification does not mention any application fee or fee-payment process for the SSC (Tech)-68 Men course. Candidates should refer to the \"Apply Online\" section on www.joinindianarmy.nic.in at the time of application for the most current information.",
-        "selection_process": "The Indian Army SSC (Tech)-68 Men selection follows this sequence: || Application > Shortlisting > SSB > Medical Examination > Merit List > Joining Letter",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.joinindianarmy.nic.in/",
-        "official_notification": "https://www.joinindianarmy.nic.in/"
     },
     {
         "date": "06 Aug 2026",
@@ -577,22 +561,6 @@
     },
     {
         "date": "31 Jul 2026",
-        "board": "DHFWS Vijayapura Vacancy 2026 - 26 Staff Nurse, Lab Technician and More Posts PostsDHFWS Vijayapura Vacancy 2026",
-        "title": "Staff Nurse, Lab Technician, Pharmacist",
-        "qualification": "B.Sc Nursing / Diploma Nursing, DMLT, D Pharmacy",
-        "last_date": "07 Aug 2026",
-        "total_posts": "26",
-        "salary": "Not Available",
-        "age_limit": "Maximum Age Limit: 45 years for all posts. || Age relaxation rules will be as per government norms.",
-        "application_fee": "Not Available",
-        "selection_process": "Document Verification || Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://vijayapura.nic.in/en/health/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/07/7843-6a6c3c49badb383928990.pdf"
-    },
-    {
-        "date": "31 Jul 2026",
         "board": "Bengaluru Rural District Development Cell Vacancy 2026 - 26 Pourakarmika/ Civil Servant PostsBengaluru Rural District Development Cell Pourakarmika/ Civil Servant Vacancy 2026",
         "title": "Pourakarmika (Civil Servant)",
         "qualification": "The exact educational qualification details are not clearly specified in the provided short notification.",
@@ -734,22 +702,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.stpi.in",
         "official_notification": "https://stpi.in/sites/default/files/career-documents/notice25072026.pdf"
-    },
-    {
-        "date": "30 Jul 2026",
-        "board": "JNCASR Vacancy 2026 - 1 Project Research Scientist I PostsJNCASR Project Research Scientist I Vacancy 2026",
-        "title": "Project Research Scientist I (Non-Medical)",
-        "qualification": "PhD in Chemistry or Life Sciences with good research experience and publication record",
-        "last_date": "07 Aug 2026",
-        "total_posts": "1",
-        "salary": "Rs. 56000 Per Month (plus HRA as per norms)",
-        "age_limit": "Maximum Age: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Online Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.jncasr.ac.in",
-        "official_notification": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-07/NCU-EMR-173.pdf"
     },
     {
         "date": "29 Jul 2026",
