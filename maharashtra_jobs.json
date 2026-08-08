@@ -1,6 +1,38 @@
 [
     {
         "date": "08 Aug 2026",
+        "board": "KRCL Vacancy 2026 - 134 Apprentice Trainee PostsKRCL Apprentice Trainee Vacancy 2026",
+        "title": "Post Name",
+        "qualification": "Candidates must have passed out during 2021, 2022, 2023, 2024, or 2025 (within the last 5 years from the date of passing the qualifying exam and date of joining training). Qualification requirements by category: || Category I – Graduate Apprentices (Engineering): BE/B.Tech in Civil Engineering; or Electrical/Electronics & Power Engineering (or a combination of basic Electrical sub-streams) for Electrical Engineering; or Electrical/Electronics/Information Technology/Communication Engineering/Computer Science & Engineering/Computer Science/Computer Engineering (or a combination of these basic streams) for Electronics Engineering; or Mechanical/Industrial/Automobile/Production Engineering for Mechanical Engineering - from an AICTE-recognized university. || Category II – Technician (Diploma) Apprentices: Diploma in Civil Engineering; or Electrical/Electronics & Power Engineering (or a combination of basic streams) for Electrical; or Electrical/Electronics/Information Technology/Communication Engineering/Computer Science & Engineering/Computer Science/Computer Engineering (or a combination) for Electronics; or Mechanical/Industrial/Automobile/Production Engineering for Mechanical - from a University or Institution recognized by the Central/State Govt. Technical Education Board or University. || Category III – Graduate Apprentices (General Stream): Bachelor of Arts / Science / Commerce / Business Administration / Management Science / Journalism and Mass Communication / Business Studies from a UGC or Central/State Govt./Technical Education Board recognized University or Institute. || No additional weightage is given for a higher qualification than the minimum prescribed. Candidates who have already undergone or are currently undergoing apprenticeship training under the Apprentices (Amendment) Act, 1973 in any Government/PSU/Private Industrial Organization are not eligible.",
+        "last_date": "28 Aug 2026",
+        "total_posts": "Not Available",
+        "salary": "Stipend is paid through the Direct Benefit Transfer (DBT) mechanism, combining the Government of India's DBT share and KRCL's establishment share. || Candidates must have a bank account in their own name and a PAN card to receive the stipend, and must retain the same Aadhaar-linked bank account until training completion. Candidates must also make their own lodging and boarding arrangements during training.",
+        "age_limit": "Age Limit: 18 to 25 years as on 1 January 2026 (date of birth between 1 January 2001 and 1 January 2008). || Age relaxation is subject to submission of the required documents at the time of Document Verification. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://konkanrailway.com/",
+        "official_notification": "https://konkanrailway.com/sites/default/files/2026-08/Notification_%20for_Apprentice%20Trainee_2026_27.pdf"
+    },
+    {
+        "date": "31 Jul 2026",
+        "board": "RCFL Vacancy 2026 - 94 Management Trainee PostsRCFL Management Trainee Vacancy 2026",
+        "title": "Management Trainee (14 disciplines)",
+        "qualification": "BE/B.Tech in Chemical, Petrochemical, Chemical Technology, Mechanical, Electrical, Electrical and Power, Instrumentation, Instrumentation Technology, or Instrumentation and Control Engineering (this post is reserved for ST/PwBD-Low Vision category as per the notification)",
+        "last_date": "24 Aug 2026",
+        "total_posts": "Not Available",
+        "salary": "Selected candidates undergo a one-year training period and are paid a lump sum stipend of ₹60,000 per month during this period. Free hostel accommodation on a sharing basis is provided at Trombay/Thal, along with medical facility at the RCF Hospital. || On successful completion of training, trainees are absorbed in the E1 Grade with a pay scale of ₹40,000–₹140,000. The minimum total monthly gross emoluments (Basic Pay + VDA at 51.80% + Perks at 34% + HRA at 30% and other allowances) work out to approximately ₹86,320. Management Trainees posted outside Trombay and Thal (such as at Marketing Area Offices) additionally receive a fixed allowance of ₹5,000 per month towards boarding, lodging, and local travel, plus TA/DA on tours. || A bond amount of ₹2 lakh must be deposited by the Management Trainee at the time of joining as a fixed deposit with lien marked to RCF Ltd, for a period of 4 years including the one-year training period. On absorption, employees also become eligible for company accommodation (subject to availability), Performance Related Pay, free medical facility for self and dependents, gratuity, contributory provident fund, accident insurance, and pension scheme as per company rules.",
+        "age_limit": "The upper age limit is calculated as on 01.02.2026 and varies by category. The general pattern followed across most disciplines is given below; a few posts (such as Boiler, Materials, CC Lab, Rajbhasha, Civil, and Fire) have narrower category-specific age limits because reservation is not notified for every category in those posts. Candidates should refer to the specific post-code table in the official notification for the exact age limit applicable to their category and discipline. || An additional age relaxation of 5 years is available to children/family members of victims of the 1984 riots, across all categories. Age relaxation for SC/ST and OBC(NCL) candidates applying against reserved posts is up to 5 years and 3 years respectively; PwBD candidates get further relaxation as specified in the notification.",
+        "application_fee": "Fees can be paid online only, through internet banking, debit card, or credit card. Once paid, the application fee is non-refundable under any circumstances, so candidates are advised to verify their eligibility before making the payment.",
+        "selection_process": "The RCF Management Trainee Selection Process consists of an Online Test followed by a Personal Interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rcfltd.com/",
+        "official_notification": "https://www.rcfltd.com/files/MT%202026.pdf"
+    },
+    {
+        "date": "08 Aug 2026",
         "board": "IOB Vacancy 2026 - 250 Local Bank Officer PostsIOB Local Bank Officer Vacancy 2026",
         "title": "Local Bank Officer (LBO)",
         "qualification": "Candidates must hold a Degree (Graduation) in any discipline from a recognized university or an equivalent qualification recognized by the Central Government. Candidates must possess a valid mark-sheet/degree certificate showing they are a graduate on the day they register, and must indicate their graduation percentage while registering online.",
@@ -333,7 +365,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "indian-overseas-bank-lbo-recruitment-2026-apply-online-for-250-local-bank-officer-posts-3061995"
+        "official_notification": "Not Available"
     },
     {
         "date": "27 Jul 2026",
@@ -766,22 +798,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.konkanrailway.com",
         "official_notification": "https://konkanrailway.com/sites/default/files/2026-07/EMPLOYMENT_NOTIFICATION_310726_1.pdf"
-    },
-    {
-        "date": "31 Jul 2026",
-        "board": "RCFL Vacancy 2026 - 94 Management Trainee PostsRCFL Management Trainee Vacancy 2026",
-        "title": "Management Trainee (14 disciplines)",
-        "qualification": "BE/B.Tech in Chemical, Petrochemical, Chemical Technology, Mechanical, Electrical, Electrical and Power, Instrumentation, Instrumentation Technology, or Instrumentation and Control Engineering (this post is reserved for ST/PwBD-Low Vision category as per the notification)",
-        "last_date": "24 Aug 2026",
-        "total_posts": "Not Available",
-        "salary": "Selected candidates undergo a one-year training period and are paid a lump sum stipend of ₹60,000 per month during this period. Free hostel accommodation on a sharing basis is provided at Trombay/Thal, along with medical facility at the RCF Hospital. || On successful completion of training, trainees are absorbed in the E1 Grade with a pay scale of ₹40,000–₹140,000. The minimum total monthly gross emoluments (Basic Pay + VDA at 51.80% + Perks at 34% + HRA at 30% and other allowances) work out to approximately ₹86,320. Management Trainees posted outside Trombay and Thal (such as at Marketing Area Offices) additionally receive a fixed allowance of ₹5,000 per month towards boarding, lodging, and local travel, plus TA/DA on tours. || A bond amount of ₹2 lakh must be deposited by the Management Trainee at the time of joining as a fixed deposit with lien marked to RCF Ltd, for a period of 4 years including the one-year training period. On absorption, employees also become eligible for company accommodation (subject to availability), Performance Related Pay, free medical facility for self and dependents, gratuity, contributory provident fund, accident insurance, and pension scheme as per company rules.",
-        "age_limit": "The upper age limit is calculated as on 01.02.2026 and varies by category. The general pattern followed across most disciplines is given below; a few posts (such as Boiler, Materials, CC Lab, Rajbhasha, Civil, and Fire) have narrower category-specific age limits because reservation is not notified for every category in those posts. Candidates should refer to the specific post-code table in the official notification for the exact age limit applicable to their category and discipline. || An additional age relaxation of 5 years is available to children/family members of victims of the 1984 riots, across all categories. Age relaxation for SC/ST and OBC(NCL) candidates applying against reserved posts is up to 5 years and 3 years respectively; PwBD candidates get further relaxation as specified in the notification.",
-        "application_fee": "Fees can be paid online only, through internet banking, debit card, or credit card. Once paid, the application fee is non-refundable under any circumstances, so candidates are advised to verify their eligibility before making the payment.",
-        "selection_process": "The RCF Management Trainee Selection Process consists of an Online Test followed by a Personal Interview.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.rcfltd.com/",
-        "official_notification": "https://www.rcfltd.com/files/MT%202026.pdf"
     },
     {
         "date": "01 Aug 2026",

@@ -1,6 +1,70 @@
 [
     {
         "date": "07 Aug 2026",
+        "board": "UPSC Vacancy 2026 - 34 Assistant Executive Engineer, Research Officer and More PostsUPSC Vacancy 2026",
+        "title": "Post Name",
+        "qualification": "Master's Degree in Geography/Geology/Applied Geology/Geoinformatics/GIS & Remote Sensing/Geomatics/Geospatial Technology, with Geography or Geology studied in all years at bachelor's level",
+        "last_date": "28 Aug 2026",
+        "total_posts": "Not Available",
+        "salary": "Also Read: Latest UPSC Govt Jobs 2026",
+        "age_limit": "Age relaxation of up to 10 years is available for PwBD candidates (subject to a maximum age of 56 years on the closing date) on posts identified as suitable, irrespective of whether the post is reserved for PwBD or not. Additional relaxations apply for Ex-Servicemen/Commissioned Officers and Central/UT Government employees as detailed in the notification. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "General/OBC/EWS male candidates: Rs. 25/- payable via Debit/Credit Card, UPI, or Internet Banking || Female candidates, SC, ST, and PwBD candidates of any community: No fee || Fee once paid is not refundable and cannot be carried forward to another examination or selection || Applications submitted without the prescribed fee (where applicable) will be summarily rejected",
+        "selection_process": "Selection is made by interview, or by Recruitment Test (RT)/Combined Recruitment Test (CRT) followed by interview, depending on the post; the notification does not specify which mode applies to each individual post above. Category-wise minimum level of suitability in the interview (out of 100 marks) is UR-50, OBC-45, and SC/ST/PwBD-40. Where an RT is held, candidates must meet the minimum qualifying level at both the RT and interview stages.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.upsc.gov.in/",
+        "official_notification": "#overview"
+    },
+    {
+        "date": "08 Aug 2026",
+        "board": "IIT Delhi Vacancy 2026 - 3 Junior Research Fellow, Project Scientist PostsIIT Delhi Vacancy 2026",
+        "title": "Jr. Research Fellow, Project Scientist",
+        "qualification": "Post Graduate Degree in basic science with NET qualification or Graduate Degree, B.Tech/M.Sc/ MCA/ Post Graduate in relevant discipline",
+        "last_date": "19 Aug 2026",
+        "total_posts": "3",
+        "salary": "Jr. Research Fellow:Rs.37,000/- p.m. plus HRA @27% || Project Scientist:Rs.35400-40400-43600-46800-50000/-p.m. plus HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Test || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1786084171888_uwsw82o.pdf"
+    },
+    {
+        "date": "08 Aug 2026",
+        "board": "DTU Vacancy 2026 - 2 Professor, Assistant Professor PostsDTU Vacancy 2026",
+        "title": "Assistant Professor of Practice (Training & Placement) and Professor of Practice (Training & Placement)",
+        "qualification": "B.E./ B.Tech and MBA/ PGDM with first class from recognized University",
+        "last_date": "07 Sep 2026",
+        "total_posts": "2",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 2000 (Assistant)/Rs. 3000 (Professor) for UR/OBC-NCL (Delhi)",
+        "selection_process": "Screening Test (for Assistant Professor) || Document & Points/Marks Verification || Presentation || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.dtu.ac.in",
+        "official_notification": "https://dtu.ac.in/Web/upload/jobs/2026/aug/file0803.pdf"
+    },
+    {
+        "date": "20 Jul 2026",
+        "board": "PNB Vacancy 2026 - 545 Local Bank Officer PostsPNB Local Bank Officer Vacancy 2026",
+        "title": "Local Bank Officer (LBO)",
+        "qualification": "The candidate must possess a valid Mark-sheet/Degree Certificate confirming graduate status on the day of registration, and must indicate the percentage of marks obtained in Graduation while registering online.",
+        "last_date": "16 Aug 2026",
+        "total_posts": "Not Available",
+        "salary": "Selected candidates will draw pay in the scale of Rs. 48480-2000/7-62480-2340/2-67160-2680/7-85920 under JMGS-I. In addition to Basic Pay, selected candidates will be entitled to Dearness Allowance (DA), City Compensatory Allowance (CCA), HRA/Leased Accommodation, Leave Fare Concession, Medical Insurance, Retirement Benefits, and other perquisites as per Bank rules.",
+        "age_limit": "The maximum age limit is applicable to Unreserved (UR) and EWS category candidates. Relaxation for SC/ST/OBC(NCL) is allowed cumulatively with only one of the remaining categories under (iii) to (v) above. Candidates seeking relaxation must submit the necessary certificates at the time of Interview and at any subsequent stage as required by the Bank.",
+        "application_fee": "Payment is accepted only through online mode (Debit Card, Credit Card, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI). Bank transaction charges for online payment are to be borne by the candidate. The fee, once paid, is non-refundable under any circumstances and cannot be reserved for any other examination.",
+        "selection_process": "Selection for the post of Local Bank Officer shall be conducted in four phases. The Bank reserves the right to decide whether all or any of these modes shall be adopted: || Online Written Test || Screening || Local Language Proficiency Test (LLPT), if applicable || Personal Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://pnb.bank.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/08/025485224-6a76b8cfa94598930708.pdf"
+    },
+    {
+        "date": "07 Aug 2026",
         "board": "NII Vacancy 2026 - 1 Research Associate-I/SRF PostsNII Research Associate-I/SRF Vacancy 2026",
         "title": "Research Associate-I/SRF (Project)",
         "qualification": "PhD in any branch of Biological Science with adequate training in molecular genetics, M.Sc. or M.Tech. in any area of Life Sciences with at least 2 years of research experience in molecular genetics, NET/GATE or equivalent National Level Eligibility Test",
@@ -94,22 +158,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ngel.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/08/2014788-6a75560f76dca67497520.pdf"
-    },
-    {
-        "date": "07 Aug 2026",
-        "board": "UPSC Vacancy 2026 - 34 Assistant Executive Engineer, Research Officer and More PostsUPSC Vacancy 2026",
-        "title": "Post Name",
-        "qualification": "The educational qualification for each post is not specified in the provided notification. Candidates are advised to refer to the detailed advertisement on the Commission's website for post-wise qualification requirements before applying.",
-        "last_date": "28 Aug 2026",
-        "total_posts": "Not Available",
-        "salary": "Selected candidates will be placed in the Pay Matrix as per the 7th Central Pay Commission (CPC), based on the pay level applicable to the post applied for.",
-        "age_limit": "The age limit is further relaxable by up to 10 years for PwBD candidates in respect of vacancies identified as suitable and/or reserved for them. The closing date for submission of the online application is the crucial date for determining age. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "As per the notification, these posts are being filled through direct recruitment by selection. Further stage-wise details of the selection process are not specified in the provided notification; candidates should refer to the detailed advertisement and the \"Instructions and Additional Information to Candidates for Recruitment by Selection\" document available on the Commission's website.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.upsc.gov.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/08/125634-6a75b01e26ba569425568.pdf"
     },
     {
         "date": "07 Aug 2026",
@@ -397,7 +445,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "aiims-raipur-senior-resident-recruitment-2026-apply-online-for-121-posts-3061977"
+        "official_notification": "Not Available"
     },
     {
         "date": "21 Jul 2026",
@@ -446,22 +494,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.aai.aero/",
         "official_notification": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Detailed%20Advertisement%2012-2026-CHQ.pdf"
-    },
-    {
-        "date": "20 Jul 2026",
-        "board": "PNB Vacancy 2026 - 545 Local Bank Officer PostsPNB Local Bank Officer Vacancy 2026",
-        "title": "Local Bank Officer (LBO)",
-        "qualification": "The candidate must possess a valid Mark-sheet/Degree Certificate confirming graduate status on the day of registration, and must indicate the percentage of marks obtained in Graduation while registering online.",
-        "last_date": "09 Aug 2026",
-        "total_posts": "Not Available",
-        "salary": "Selected candidates will draw pay in the scale of Rs. 48480-2000/7-62480-2340/2-67160-2680/7-85920 under JMGS-I. In addition to Basic Pay, selected candidates will be entitled to Dearness Allowance (DA), City Compensatory Allowance (CCA), HRA/Leased Accommodation, Leave Fare Concession, Medical Insurance, Retirement Benefits, and other perquisites as per Bank rules.",
-        "age_limit": "The maximum age limit is applicable to Unreserved (UR) and EWS category candidates. Relaxation for SC/ST/OBC(NCL) is allowed cumulatively with only one of the remaining categories under (iii) to (v) above. Candidates seeking relaxation must submit the necessary certificates at the time of Interview and at any subsequent stage as required by the Bank.",
-        "application_fee": "Payment is accepted only through online mode (Debit Card, Credit Card, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI). Bank transaction charges for online payment are to be borne by the candidate. The fee, once paid, is non-refundable under any circumstances and cannot be reserved for any other examination.",
-        "selection_process": "Selection for the post of Local Bank Officer shall be conducted in four phases. The Bank reserves the right to decide whether all or any of these modes shall be adopted: || Online Written Test || Screening || Local Language Proficiency Test (LLPT), if applicable || Personal Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://pnb.bank.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/07/852141-6a5da7423e04254906382.pdf"
     },
     {
         "date": "05 Aug 2026",
@@ -669,7 +701,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://itbpolice.nic.in/",
-        "official_notification": "aiims-raipur-senior-resident-recruitment-2026-apply-online-for-121-posts-3061977"
+        "official_notification": "Not Available"
     },
     {
         "date": "04 Aug 2026",
@@ -1197,7 +1229,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "aiims-raipur-senior-resident-recruitment-2026-apply-online-for-121-posts-3061977"
+        "official_notification": "upsc-recruitment-2026-apply-online-for-34-assistant-executive-engineer-research-officer-and-more-posts-3061953"
     },
     {
         "date": "24 Jul 2026",
@@ -1389,7 +1421,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ncrtc.in/",
-        "official_notification": "aiims-raipur-senior-resident-recruitment-2026-apply-online-for-121-posts-3061977"
+        "official_notification": "upsc-recruitment-2026-apply-online-for-34-assistant-executive-engineer-research-officer-and-more-posts-3061953"
     },
     {
         "date": "23 Jul 2026",
