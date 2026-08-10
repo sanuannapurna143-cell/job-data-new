@@ -65,22 +65,6 @@
     },
     {
         "date": "06 Aug 2026",
-        "board": "NABFINS Vacancy 2026 - 1 Customer Service Officer PostsNABFINS Customer Service Officer Vacancy 2026",
-        "title": "Customer Service Officer (CSO)",
-        "qualification": "PUC/10+2 completed",
-        "last_date": "09 Aug 2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://nabfins.org",
-        "official_notification": "https://nabfins.org/Careers/jobProfile.php?id=1127"
-    },
-    {
-        "date": "06 Aug 2026",
         "board": "ESIC Vacancy 2026 - 24 Advocate PostsESIC Advocate Vacancy 2026",
         "title": "Advocate",
         "qualification": "24 Posts",
@@ -208,22 +192,6 @@
         "official_notification": "https://cdn.s3waas.gov.in/s358a2fc6ed39fd083f55d4182bf88826d/uploads/2026/07/17851360133090.pdf"
     },
     {
-        "date": "29 Jul 2026",
-        "board": "IIM Bodh Gaya Vacancy 2026 - 1 Project Associate/ Project Associate PostsIIM Bodh Gaya Project Associate/ Project Associate Vacancy 2026",
-        "title": "Senior Project Associate/ Project Associate,  AI/ML - IoT Developer",
-        "qualification": "Four Years bachelor's degree in engineering or technology, Master's degree in engineering or technology",
-        "last_date": "09 Aug 2026",
-        "total_posts": "1",
-        "salary": "Project Associate-I: 37000/- + HRA, Project Associate-II: 42000/- + HRA, Senior Project Associate: 57000/- + HRA, Intern: 12000/- stipend",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iimbg.ac.in",
-        "official_notification": "https://iimbg.ac.in/wp-content/uploads/2026/07/Advertisement-for-Hiring-AI-ML-and-IoT-Developer_Revised.pdf"
-    },
-    {
         "date": "28 Jul 2026",
         "board": "AAI Vacancy 2026 - 140 Graduate/ Diploma/ ITI Apprentices PostsAAI Graduate/ Diploma/ ITI Apprentices Vacancy 2026",
         "title": "Graduate Apprentice, Diploma Apprentice, ITI Apprentice",
@@ -318,21 +286,5 @@
         "syllabus": "Not Available",
         "official_website": "https://bpssc.bihar.gov.in",
         "official_notification": "https://bpssc.bihar.gov.in/Notices/EFC/Advt.%20No-10-2026%20FRO.pdf"
-    },
-    {
-        "date": "03 Jul 2026",
-        "board": "BPSSC Vacancy 2026 - 150 Sub-Inspector PostsBPSSC Sub-Inspector Vacancy 2026",
-        "title": "Police Sub-Inspector (General Closed Cadre)",
-        "qualification": "Candidates must hold a graduate degree or an equivalent qualification as on 01-08-2025 to be eligible for the Police Sub-Inspector (General Closed Cadre) post.",
-        "last_date": "09 Aug 2026",
-        "total_posts": "Not Available",
-        "salary": "The post of Police Sub-Inspector (General Closed Cadre) carries Pay Level-6 as per the notification. The official notification does not mention a specific in-hand salary figure.",
-        "age_limit": "The age limit is calculated as on the cut-off date of 01-08-2025, based on the date of birth recorded in the Matriculation or equivalent certificate. The category-wise age limits are given below. || Additional age relaxation is available for specific categories: || Bihar government servants seeking promotion to a higher pay scale/cadre, with a minimum of 3 years of regular service, are eligible for a 5-year relaxation in the maximum age limit. || Ex-servicemen applying for civil posts get a relaxation of 3 years plus the length of their defence service, provided their actual age does not exceed 57 years as on the cut-off date.",
-        "application_fee": "The application fee is the same for all category male and female candidates and must be paid online. || Application Fee: Rs. 100/- (for all categories) || Accepted payment modes: Net Banking, Credit Card, Debit Card and UPI || Bank charges applicable on Net Banking/Credit Card/Debit Card transactions must be borne by the candidate || Application fee once paid successfully will not be refunded",
-        "selection_process": "Selection to the post of Police Sub-Inspector (General Closed Cadre) will be made through a three-stage process consisting of a Preliminary Exam, a Main Exam and a Physical Efficiency Test (PET).",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bpssc.bihar.gov.in/",
-        "official_notification": "https://bpssc.bihar.gov.in/Notices/Advt.%20No-09-2026%20Pdf.pdf"
     }
 ]
