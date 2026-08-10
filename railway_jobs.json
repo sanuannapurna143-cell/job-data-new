@@ -1,6 +1,22 @@
 [
     {
         "date": "10/08/2026",
+        "board": "East Coast Railway",
+        "title": "Post Name",
+        "qualification": "Matriculation/SSLC + ITI (NCVT/SCVT) in a relevant trade, OR Matriculation/SSLC + Act Apprenticeship in a relevant trade, OR 3-year Diploma/Degree in Mechanical/Electrical/Electronics/Automobile Engineering",
+        "last_date": "14-09-2026",
+        "total_posts": "1421",
+        "salary": "The notification does not give specific salary or pay-scale figures. It only states the applicable 7th CPC Pay Level for each post: Assistant Loco Pilot and Technicians - Pay Level 2; Commercial Clerk cum Ticket Collector - Pay Level 3; Goods Trains Manager - Pay Level 5; Station Master and Junior Engineer - Pay Level 6. Exact monthly salary/pay matrix figures are not specified in the notification.",
+        "age_limit": "UR candidates: upper age limit 42 years || OBC candidates: upper age limit 45 years || SC/ST candidates: upper age limit 47 years || Age will be reckoned as on 01.01.2027 || No age relaxation is allowed to SC/ST/OBC-NCL candidates applying against unreserved (UR) vacancies || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "Not Available",
+        "selection_process": "Selection under ECoR GDCE 2026 follows a single-stage Computer Based Test (CBT), followed by post-specific additional stages, Document Verification, and Medical Examination: || There is negative marking in CBT: 1/3rd mark deducted for each wrong answer. There is no negative marking in CBAT. || Minimum qualifying marks in CBT: UR – 40%, OBC (Non-Creamy Layer) – 30%, SC – 30%, ST – 25% (relaxable by 2 marks for PwBD candidates in case of shortage against reserved vacancies). || Shortlisting for CBAT/Typing Skill Test is done at 8 times the number of vacancies, based on CBT merit. || For ALP, final merit uses 50% weightage for CBT and 50% for CBAT. For Station Master, it is 70% CBT and 30% CBAT. || Candidates equal to the number of vacancies are called for Document Verification, based on CBT/CBAT merit. || Final appointment is subject to passing the prescribed Medical Fitness Test.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rrcbbs.org.in",
+        "official_notification": "https://www.rrcbbs.org.in/ECoR-GDCE-2026.pdf"
+    },
+    {
+        "date": "10/08/2026",
         "board": "RCF Kapurthala",
         "title": "Act Apprentice (under the Apprenticeship Act, 1961)",
         "qualification": "Candidates must have passed the 10th class examination or its equivalent (under the 10+2 system) with a minimum of 50% aggregate marks from a recognised board, and must also possess a National Trade Certificate (NTC) in the notified trade issued by the National Council for Vocational Training (NCVT).",
