@@ -1,6 +1,54 @@
 [
     {
         "date": "10 Aug 2026",
+        "board": "EIL Vacancy 2026 - 22 Associate Modellers PostsEIL Associate Modellers Vacancy 2026",
+        "title": "Associate Modellers Group II (Instrumentation, Piping, EWS, Structural, Civil, Equipment)",
+        "qualification": "Candidates must have obtained at least 60% marks or equivalent CGPI in the minimum educational qualification, and the qualification must have been acquired within the prescribed minimum course duration.",
+        "last_date": "21 Aug 2026",
+        "total_posts": "Not Available",
+        "salary": "Selected candidates will receive a consolidated monthly remuneration (inclusive of HRA and PF), which varies by the category of the posting city:",
+        "age_limit": "The upper age limit for all position codes (A1 to F2) is 33 years as on 31 July 2026. || Age relaxations available as per the notification: || 10 years for Persons with Disabilities (General/EWS) || 5 years for SC/ST candidates || 3 years for OBC (Non-Creamy Layer) candidates || 13 years for PwD-OBC (NCL) candidates || 15 years for PwD-SC/ST candidates || Relaxable for Ex-Servicemen (extent not specified in the notification)",
+        "application_fee": "Not Available",
+        "selection_process": "On the day of selection, applications and certificates will be screened to confirm eligibility for the post applied for. Only candidates meeting the eligibility requirements in full will proceed further. The selection process will be conducted at EIL's Delhi, Gurugram, Chennai, Kolkata and Vadodara offices for position codes A1 to F2. Candidates must report at 08:00 AM; the exact date and venue will be intimated separately by email. Depending on the number of candidates, the process may extend up to 08:00 PM and, if required, continue the next day, in which case candidates must arrange their own stay. Only candidates who have registered online and report with a printout bearing a valid registration number will be considered.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://engineersindia.com",
+        "official_notification": "https://recruitment.eil.co.in/hrdnew/others/DETAILED%20ADVT.%20-%202026-27-06.pdf"
+    },
+    {
+        "date": "10 Aug 2026",
+        "board": "ICF Chennai Vacancy 2026 - 1010 Act Apprentice PostsICF Chennai Act Apprentice Vacancy 2026",
+        "title": "Act Apprentice",
+        "qualification": "Candidates with higher qualifications than 10th/Matric/SSLC, such as Degree, Diploma, Engineering Degree, or Course Completed Act Apprentices, are not eligible to apply for Act Apprenticeship, except for MLT where the qualification is 12th/HSC.",
+        "last_date": "07 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "The prescribed minimum stipend increases by 10 percent during the second year of apprenticeship training. For NCVT/SCVT certificate holders, any training period already undergone is factored into determining the minimum payable stipend.",
+        "age_limit": "Age will be reckoned as on 7 September 2026. || ITI candidates: must have completed 15 years and not completed 24 years of age. || Non-ITI candidates: must have completed 15 years and not completed 22 years of age. || Upper age relaxation: 5 years for SC/ST candidates, 3 years for OBC candidates. || Upper age relaxation for Persons with Disability: 10 years. || SC/ST candidates must produce a caste certificate, and OBC candidates must produce an OBC Non-Creamy Layer certificate, at the time of Document Verification. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "A processing fee of ₹100 plus applicable service charges (non-refundable) must be paid online. || No application fee is required for SC, ST, PwBD, and Women candidates. || No request for refund of fee once remitted will be entertained under any circumstances. || After successful payment (for candidates other than SC/ST/PwBD/Women), a unique Transaction ID starting with \"DU\" is sent to the registered mobile number and should be preserved for future reference.",
+        "selection_process": "The merit list is prepared based on marks obtained in Std X. For COVID-pass candidates in Std X, proof of the IX std mark sheet or X std half-yearly mark sheet duly signed by the Principal will be considered. || If two candidates have equal marks, the candidate with older age is preferred; if dates of birth are also the same, the candidate who passed Std X earlier is considered first. || Freshers exercise trade options, and trades are allotted based on merit order and vacancy availability; once allotted, requests for change of trade are not entertained. Candidates selected against benchmark disabilities are allotted only the trade permissible to them. || Ex-ITI candidates are trained in the trade for which they hold an ITI certificate. || Selected candidates must be physically fit as per the Apprentices Act, 1961 and Apprentices Rules, and must produce a Medical Certificate from a Government-authorised doctor (not below the rank of Assistant Surgeon) at Document Verification. || Selected candidates must execute a contract of apprenticeship; if a candidate is a minor, their guardian executes the contract as per the guidelines of the Regional Director of Apprenticeship Training, Guindy, Chennai. || Original Transfer Certificate for the qualifying examination (Std X/XII/ITI) must be produced during document verification.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://pb.icf.gov.in/",
+        "official_notification": "https://pb.icf.gov.in/act2026/Act_Apprentice_2026_27.pdf"
+    },
+    {
+        "date": "10 Aug 2026",
+        "board": "NCDC Sahakar Taxi Cooperative Vacancy 2026 - Regional Chief Operating Officer PostsNCDC Sahakar Taxi Cooperative Regional Chief Operating Officer Vacancy 2026",
+        "title": "Regional Chief Operating Officer",
+        "qualification": "Graduate in Engineering (B.Tech/ M.Tech) with a full-time MBA/ PGDM/ Executive MBA",
+        "last_date": "21 Aug 2026",
+        "total_posts": "3",
+        "salary": "Not Available",
+        "age_limit": "Max: 50 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ncdc.in/",
+        "official_notification": "https://www.ncdc.in/documents/career/4212060826IMG_0001.pdf"
+    },
+    {
+        "date": "10 Aug 2026",
         "board": "IIT Madras Vacancy 2026 - 1 Office Assistant PostsIIT Madras Office Assistant Vacancy 2026",
         "title": "Office Assistant",
         "qualification": "10th Pass or 12th Pass/Fail, Diploma, High school or diploma or equivalent Qualification",
@@ -269,7 +317,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "itbp-medical-officer-recruitment-2026-3061335"
+        "official_notification": "gims-staff-nurse-recruitment-2026-apply-online-for-100-posts-3062130"
     },
     {
         "date": "27 Jul 2026",

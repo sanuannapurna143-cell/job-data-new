@@ -1,5 +1,21 @@
 [
     {
+        "date": "10/08/2026",
+        "board": "RCF Kapurthala",
+        "title": "Act Apprentice (under the Apprenticeship Act, 1961)",
+        "qualification": "Candidates must have passed the 10th class examination or its equivalent (under the 10+2 system) with a minimum of 50% aggregate marks from a recognised board, and must also possess a National Trade Certificate (NTC) in the notified trade issued by the National Council for Vocational Training (NCVT).",
+        "last_date": "05-09-2026",
+        "total_posts": "734",
+        "salary": "As per extant rules & directives issued by Railway Board from time to time. || No Hostel accommodation will be provided and selected candidates will have to make their own arrangement during their training as per Apprentices Act. 1961 and they will be released on completion of the training.",
+        "age_limit": "Candidates should have completed 15 years of age and should not have completed 24 years of age as on 05.09.2026. || Candidates claiming reservation benefits must produce the relevant caste, non-creamy layer, disability, or discharge certificate, as applicable, issued by the appropriate authority at the time of document verification. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
+        "application_fee": "The fee is payable only through the online payment gateway (debit card, credit card, internet banking, SBI challan, etc.) integrated with the application form; cash, cheque, money order, or demand draft are not accepted. Payment must be completed within 2 working days of successfully filling the application, and no edits are allowed once the fee is paid. The fee, once paid, is non-refundable and cannot be adjusted against any other examination.",
+        "selection_process": "Selection is based on a merit list, without any written examination or interview, prepared as follows: || The merit list is based on the simple average of the percentage of marks in matriculation (minimum 50% aggregate) and the percentage of marks in the ITI/NTC certificate for the relevant trade. || Matriculation percentage is calculated using marks obtained in all subjects, not just a selected group of subjects. || In case of a tie in marks, the older candidate is preferred; if the date of birth is also the same, the candidate who passed matriculation earlier is preferred. || A final merit list is prepared trade-wise and community-wise, in descending order of marks, equal to the number of available seats. || Shortlisted candidates are called for Document Verification, where original certificates and a medical fitness certificate are checked. Call letters for document verification may be issued to up to 1.5 times the number of identified slots. || Selected candidates must also be found medically fit as per the standards prescribed under the Apprentices Act, 1961 and the Apprenticeship Rules, 1992.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rcf.indianrailways.gov.in/",
+        "official_notification": "https://rcf.indianrailways.gov.in/uploads/files/act-app/not-act-app-2026.pdf"
+    },
+    {
         "date": "08/08/2026",
         "board": "KRCL",
         "title": "Post Name",
@@ -125,7 +141,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "kea-recruitment-2026-apply-online-for-233-nursing-officer-pharmacy-officer-posts-3062113"
+        "official_notification": "Not Available"
     },
     {
         "date": "05/08/2026",
