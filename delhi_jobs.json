@@ -1,6 +1,70 @@
 [
     {
         "date": "11 Aug 2026",
+        "board": "Gargi College Delhi Vacancy 2026 - 8 Guest Faculty PostsGargi College Delhi Guest Faculty Vacancy 2026",
+        "title": "Guest Faculty",
+        "qualification": "As per UGC/University of Delhi norms",
+        "last_date": "16 Aug 2026",
+        "total_posts": "8",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.gargicollege.in",
+        "official_notification": "https://www.du.ac.in/uploads/2026/11082026-gargi-Guest%20appointment%20COM-26-27.pdf"
+    },
+    {
+        "date": "11 Aug 2026",
+        "board": "AIIMS Delhi Vacancy 2026 - 1 Project Research Scientist PostsAIIMS Delhi Project Research Scientist Vacancy 2026",
+        "title": "Project Research Scientist-II (Medical)",
+        "qualification": "MBBS / BVSc / BDS with three years post qualification experience, MBBS / BVSc / BDS + Post Graduate Degree (MD/MVSc/MDS/MPH) or equivalent including integrated PG degrees, MBBS/BVSc/BDS with PhD",
+        "last_date": "02 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 104000 Per Month",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://docs.google.com/forms/d/e/1FAIpQLSfjcebQU4nQ4HIxym/edit",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/rpv-commnity-6-8-26.pdf"
+    },
+    {
+        "date": "11 Aug 2026",
+        "board": "JMI Vacancy 2026 - 6 Guest Faculty PostsJMI Guest Faculty Vacancy 2026",
+        "title": "Guest Faculty",
+        "qualification": "Master's degree or Ph.D. as per UGC Regulations 2009/2016 and amendments",
+        "last_date": "17 Aug 2026",
+        "total_posts": "6",
+        "salary": "Rs. 50000 per month",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 300/-",
+        "selection_process": "Screening of Applications || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://jmi.ac.in",
+        "official_notification": "https://www.jmi.ac.in/upload/advertisement/jobs_advt5_2026august10.pdf"
+    },
+    {
+        "date": "11 Aug 2026",
+        "board": "MANUU Vacancy 2026 - 6 Assistant Professor PostsMANUU Assistant Professor Vacancy 2026",
+        "title": "Assistant Professor",
+        "qualification": "Post Graduate degree in concerned subject with 55% marks, B.Ed with 55% marks, NET/SLET/Ph.D in Education or concerned subject, Knowledge of Urdu",
+        "last_date": "24 Aug 2026",
+        "total_posts": "6",
+        "salary": "Rs. 50000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://manuu.edu.in",
+        "official_notification": "https://manuu.edu.in/sites/default/files/Notification/2026-08/Website%20-%20Walk-in%20-%20CTE%2C%20Bhopal%20-%20August%2026.pdf"
+    },
+    {
+        "date": "11 Aug 2026",
         "board": "Zakir Husain Delhi College Vacancy 2026 - 6 Assistant Professor PostsZakir Husain Delhi College Assistant Professor Vacancy 2026",
         "title": "Assistant Professor",
         "qualification": "Master's degree with 55% marks (or equivalent) in concerned/relevant/allied subject, NET conducted by UGC/CSIR or Ph.D. as per UGC Regulations",
@@ -845,7 +909,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB JE Syllabus",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "ngel-manager-recruitment-2026-apply-online-for-34-posts-3061957"
+        "official_notification": "Not Available"
     },
     {
         "date": "21 Jul 2026",
@@ -1485,7 +1549,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ngel-manager-recruitment-2026-apply-online-for-34-posts-3061957"
+        "official_notification": "Not Available"
     },
     {
         "date": "24 Jul 2026",
@@ -1661,7 +1725,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ncrtc.in/",
-        "official_notification": "ngel-manager-recruitment-2026-apply-online-for-34-posts-3061957"
+        "official_notification": "Not Available"
     },
     {
         "date": "23 Jul 2026",
