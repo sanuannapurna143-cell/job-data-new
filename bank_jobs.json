@@ -129,22 +129,6 @@
     },
     {
         "date": "05/08/2026",
-        "board": "Union Bank of India",
-        "title": "Post Name",
-        "qualification": "B.E. (Fire)/B.E.-B.Tech (Fire/Safety) from NFSC Nagpur or equivalent, or Divisional Officers Course + 3 yrs as Station Officer",
-        "last_date": "10-08-2026",
-        "total_posts": "395",
-        "salary": "In addition to basic pay, Special Allowance, Dearness Allowance, and other allowances are payable per the Bank's rules. Officers are also eligible for residential quarters/lease rent, LFC, medical/hospitalization reimbursement, and other perquisites. Salary and emoluments are governed by the industry-level bipartite settlement and Joint Note applicable to bank officers. CTC may vary based on location, DA changes, wage revision, and Bank schemes.",
-        "age_limit": "Age limits vary post-wise as detailed in the tables above. The cut-off date for age eligibility is 01.07.2026 (the first day of the month in which online registration commences).",
-        "application_fee": "Application Fee (Inclusive of GST)",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.unionbankofindia.co.in",
-        "official_notification": "https://www.unionbankofindia.bank.in/pdf/union-bank-recruitment-project-2026-27.pdf"
-    },
-    {
-        "date": "05/08/2026",
         "board": "SIDBI",
         "title": "Market Intelligence and Research Analyst (MIRA)",
         "qualification": "Graduate degree in Economics, Statistics, Mathematics, Engineering, Commerce, Finance, Data Science, Public Policy or related field from a recognised University/Institute, Post-graduate qualification (MBA/PGDM – Strategy/Finance/Analytics, M. Stat, M.Sc. in Data/Analytics, MPP/MPA) or certifications in research/analytics (e.g., CFA, FRM, data/BI certifications)",
@@ -174,21 +158,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rbi.org.in",
         "official_notification": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5129"
-    },
-    {
-        "date": "30/07/2026",
-        "board": "TMB",
-        "title": "Post Name",
-        "qualification": "B.E./B.Tech/MCA or equivalent (role-specific qualification and experience required; see eligibility section)",
-        "last_date": "10-08-2026",
-        "total_posts": "Specialist Officer (IT) - 8 roles (see vacancy details)",
-        "salary": "Not Available",
-        "age_limit": "Age relaxation details are not specified in the official notification.",
-        "application_fee": "Nil",
-        "selection_process": "Shortlisted candidates will be called for a personal interview, conducted either directly or through Video Conferencing. The mode, date, and time of the interview will be communicated individually to eligible candidates. The Bank's decision on eligibility, interview, and selection is final.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/IT%20GAP%20Vacancy%2028072026.pdf"
     }
 ]
