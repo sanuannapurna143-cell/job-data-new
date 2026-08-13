@@ -1,6 +1,22 @@
 [
     {
         "date": "13 Aug 2026",
+        "board": "NIT Warangal Vacancy 2026 - 1 Junior Research Fellow PostsNIT Warangal Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.Tech/ B.E or Equivalent degree in Computer Science and Engineering (CSE)/Information Technology (IT)/Artificial Intelligence (AI) or Electronics and Communication Engineering and M.Tech/ ME or equivalent degree in Computer Science and Engineering. (OR) B.Tech/ B.E or Equivalent degree in Computer Science and Engineering (CSE)/Information Technology (IT)/Artificial Intelligence (AI).",
+        "last_date": "16 Aug 2026",
+        "total_posts": "1",
+        "salary": "Rs. 30000 - 42000 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nitw.ac.in/",
+        "official_notification": "https://nitw.ac.in/api/static/files/JRF_Recruitment_2026-8-5-10-4-0.pdf"
+    },
+    {
+        "date": "13 Aug 2026",
         "board": "Jangaon District Vacancy 2026 - 7 Data Entry Operator, Office Subordinate PostsJangaon District Vacancy 2026",
         "title": "Data Entry Operator, Office Subordinate",
         "qualification": "Any Degree & DCA with MS-Office, 12th class",
@@ -349,7 +365,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://aocrecruitment.gov.in/",
-        "official_notification": "gsssb-sanitary-inspector-recruitment-2026-apply-online-for-22-posts-3062746"
+        "official_notification": "Not Available"
     },
     {
         "date": "06 Aug 2026",
