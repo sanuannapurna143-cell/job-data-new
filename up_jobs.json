@@ -1,5 +1,53 @@
 [
     {
+        "date": "31 Jul 2026",
+        "board": "NIPER Vacancy 2026 - 1 IT Assistant PostsNIPER IT Assistant Vacancy 2026",
+        "title": "IT Assistant",
+        "qualification": "Bachelor's degree in Computer Science or MCA from recognized University/Institute, 03 years experience in data management, website management, hardware management, network management",
+        "last_date": "24 Aug 2026",
+        "total_posts": "1",
+        "salary": "Rs. 42000 Per Month",
+        "age_limit": "Maximum Age Limit: 40 years || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Not Available",
+        "selection_process": "Screening || Test/Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.niperraebareli.edu.in",
+        "official_notification": "https://niperraebareli.edu.in/Jobs/2026/AdvertisementforthepostofITAssistantRecruitmentonContract.pdf"
+    },
+    {
+        "date": "14 Aug 2026",
+        "board": "AMU Vacancy 2026 - 1 Assistant Professor PostsAMU Assistant Professor Vacancy 2026",
+        "title": "Assistant Professor (Contractual)",
+        "qualification": "First Class Bachelor's Degree in Fashion / Garment Technology preferably from NIFT or equivalent, Master's Degree in any subject with First Class Diploma in Costume Design & Dress Making / Garment Technology / Fashion Design with 5 years experience",
+        "last_date": "17 Aug 2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Local Selection Committee Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://careers.amuonline.ac.in",
+        "official_notification": "https://api.amu.ac.in/storage/file/36/jobs/1785577481.pdf"
+    },
+    {
+        "date": "14 Aug 2026",
+        "board": "UPSSSC Vacancy 2026 - 134 Junior Engineer / Avar Abhiyanta PostsUPSSSC Junior Engineer / Avar Abhiyanta Vacancy 2026",
+        "title": "Avar Abhiyanta (Krishi) / Junior Engineer (Agriculture)",
+        "qualification": "As per the Uttar Pradesh Agriculture Department Avar Abhiyanta Seva Niyamawali, 2015 (Part-4, Rule-8), candidates must hold: || A High School certificate from the UP Madhyamik Shiksha Parishad, or an equivalent examination recognized by the Government; and || A three-year Diploma in Agricultural Engineering from the Prāvidhik Shiksha Parishad, Uttar Pradesh, or an equivalent qualification recognized by the Government and approved by AICTE. || Candidates should assess their qualification as on the last date of application, 7 October 2026, and must possess the required certificates by that date.",
+        "last_date": "07 Oct 2026",
+        "total_posts": "Not Available",
+        "salary": "The Avar Abhiyanta (Junior Engineer) post carries Pay Level-6 in the pay matrix, with a pay band of ₹9,300 (minimum) to ₹34,800 (maximum) and Grade Pay of ₹4,200. The notification does not specify an in-hand or gross monthly salary figure, so exact take-home pay is not specified in this notification.",
+        "age_limit": "As per Rule-10 of the UP Krishi Vibhag Avar Abhiyanta Seva Niyamawali, 2015 (Part-4), a candidate must have attained 18 years of age and must not have exceeded 40 years of age as on 1 July of the calendar year in which the vacancies are advertised for direct recruitment. || Age relaxation is admissible to SC, ST, and other government-notified categories as per prevailing rules. || Government servants in UP state service get a 5-year relaxation in the upper age limit as per the applicable government order. || Age is calculated based on the date of birth recorded in the High School or equivalent certificate; no other document is accepted for date of birth verification. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "The application fee for this stage of application (registration for the Main Exam) is category-wise as follows:",
+        "selection_process": "Preliminary Eligibility Test 2025 (PET-2025) - already conducted; used only as a shortlisting tool for this Main Exam. || Shortlisting for the Main Exam based on category-wise normalized PET-2025 score, up to 15 times the number of advertised posts. || Avar Abhiyanta (Krishi) Mukhya Pariksha (Main Exam) - a single written objective-type paper of 100 questions and 100 marks, to be completed in 2 hours (120 minutes). || Final selection is based on merit in the written Main Exam, as approved by the Uttar Pradesh Government (Karmik Anubhag-3) exam scheme dated 30 June 2026.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://upsssc.gov.in/",
+        "official_notification": "https://upsssc.gov.in/ViewPdf.aspx?HnWf3AX1TPcbZWvpTaJvREO3S7UAQjKO5DMOPRjzZ3I="
+    },
+    {
         "date": "14 Aug 2026",
         "board": "UP Anganwadi Vacancy 2026 - 307 Anganwadi Helper PostsUP Anganwadi Anganwadi Helper Vacancy 2026",
         "title": "Anganwadi Sahayika (Anganwadi Helper)",
@@ -29,7 +77,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bhel-ranipet-trade-apprentice-recruitment-2026-walk-in-for-305-posts-3063092"
+        "official_notification": "Not Available"
     },
     {
         "date": "14 Aug 2026",
@@ -93,7 +141,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-veterinary-pharmacist-recruitment-2026-notification-out-apply-online-for-1308-posts-3063100"
+        "official_notification": "Not Available"
     },
     {
         "date": "14 Aug 2026",
@@ -990,22 +1038,6 @@
         "syllabus": "Not Available",
         "official_website": "http://upanganwadibharti.in/",
         "official_notification": "http://upanganwadibharti.in/"
-    },
-    {
-        "date": "31 Jul 2026",
-        "board": "NIPER Vacancy 2026 - 1 IT Assistant PostsNIPER IT Assistant Vacancy 2026",
-        "title": "IT Assistant",
-        "qualification": "Bachelor's degree in Computer Science or MCA from recognized University/Institute, 03 years experience in data management, website management, hardware management, network management",
-        "last_date": "24 Aug 2026",
-        "total_posts": "1",
-        "salary": "Rs. 42000 Per Month",
-        "age_limit": "Maximum Age Limit: 40 years",
-        "application_fee": "Not Available",
-        "selection_process": "Screening || Test/Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.niperraebareli.edu.in",
-        "official_notification": "https://niperraebareli.edu.in/Jobs/2026/AdvertisementforthepostofITAssistantRecruitmentonContract.pdf"
     },
     {
         "date": "31 Jul 2026",
