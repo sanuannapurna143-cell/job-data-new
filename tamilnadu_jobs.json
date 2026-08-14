@@ -1,5 +1,37 @@
 [
     {
+        "date": "21 Jul 2026",
+        "board": "RRB Vacancy 2026 - 3993 Junior Engineer PostsRRB Junior Engineer Vacancy 2026",
+        "title": "Junior Engineer",
+        "qualification": "Three years Diploma in Engineering (or a combination of sub-streams) in the discipline mapped to the post - Mechanical, Electrical, Civil or Electronics & Allied Engineering - from a recognized University/Institute; higher qualifications such as B.E./B.Tech in the same discipline are also acceptable",
+        "last_date": "13 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Additional relaxations apply to serving Group C/erstwhile Group D Railway staff, Quasi-Administrative office staff, and widowed/divorced/judicially separated women candidates - see Para 5.2 of the official CEN. Relaxations are not cumulative; a candidate eligible on more than one ground gets only the maximum applicable relaxation.",
+        "application_fee": "Not Available",
+        "selection_process": "Selection comprises four stages: 1st Stage CBT, 2nd Stage CBT, Document Verification (DV) and Medical Examination (ME).",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "14 Aug 2026",
+        "board": "Bharathidasan University Vacancy 2026 - 1 Senior Research Fellow PostsBharathidasan University Senior Research Fellow Vacancy 2026",
+        "title": "Senior Research Fellow (SRF)",
+        "qualification": "M.Sc, B.E, B.Tech, B.VSc, B.Pharm, or equivalent degree and at least two years of post-M.Sc, B.E, B.Tech, B.VSc, B.Pharm, research experience, as evidenced from published papers in standard refereed journals, M.E, M.Tech or equivalent degree in Engineering / Technology,MBBS or BDS, with 1 year internship / M.VSc / M.Pharm or equivalent,Two years of Research experience in Theoretical Physics with sound computational skills",
+        "last_date": "22 Aug 2026",
+        "total_posts": "1",
+        "salary": "Rs. 42000 Per Month",
+        "age_limit": "Max: 32 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bdu.ac.in/",
+        "official_notification": "https://www.bdu.ac.in/docs/employment/SRF-CSIR-DNLD-22082026.pdf"
+    },
+    {
         "date": "13 Aug 2026",
         "board": "Bharathiar University Vacancy 2026 - 9 Temporary Guest Faculty PostsBharathiar University Temporary Guest Faculty Vacancy 2026",
         "title": "Temporary Guest Faculty",
@@ -254,22 +286,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.annauniv.edu",
         "official_notification": "https://www.annauniv.edu/pdf/Advertisement_Mech.pdf"
-    },
-    {
-        "date": "11 Aug 2026",
-        "board": "Madurai Kamaraj University Vacancy 2026 - 3 Guest Faculty PostsMadurai Kamaraj University Guest Faculty Vacancy 2026",
-        "title": "Guest Faculty",
-        "qualification": "PG Degree in Computer Science / Computer Applications / Information Technology, UGC NET / SET Qualified (or) Ph. D. in the concerned discipline",
-        "last_date": "13 Aug 2026",
-        "total_posts": "3",
-        "salary": "Please refer to the official notification for salary details.",
-        "age_limit": "Please refer to the official notification for age limit details.",
-        "application_fee": "Nil",
-        "selection_process": "Screening of Resumes || Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.mkuniversity.ac.in",
-        "official_notification": "https://mkuniversity.ac.in//new/Notification_2026/WEBSITE%20NOTIFICATION%20FOR%20GUEST%20FACULTY.pdf"
     },
     {
         "date": "11 Aug 2026",
@@ -624,22 +640,6 @@
         "official_notification": "https://joinindianarmy.nic.in/writereaddata/Portal/NotificationPDF/Notification_for_JAG_Entry_Scheme_125th_Course_Apr_2027.pdf"
     },
     {
-        "date": "06 Aug 2026",
-        "board": "FDDI Vacancy 2026 - 4 Junior Faculty and Academic Support Staff PostsFDDI Vacancy 2026",
-        "title": "Junior Faculty and Academic Support Staff",
-        "qualification": "Bachelor's Degree or Master's Degree in relevant field with minimum 55% marks and Diploma in Footwear Manufacturing/Technology/Design/Production/Accessories Design/Fashion Design. For Lab Assistant: 12th Pass or above with relevant experience.",
-        "last_date": "13 Aug 2026",
-        "total_posts": "4",
-        "salary": "Junior Faculty (Ad-hoc Basis): Rs. 50,000/- per month || Academic Support Staff (Lab Assistant): Rs. 30,000/- per month",
-        "age_limit": "Junior Faculty (Ad-hoc Basis):Maximum Age: 35 Years (General), 38 Years (OBC), 40 Years (SC/ST), 45 Years (PWD) || Lab Assistant (Ad-hoc Basis):Maximum Age: 35 Years (General), 38 Years (OBC), 40 Years (SC/ST), 45 Years (PWD)",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://docs.google.com/forms/d/e/1FAIpQLSedBNuzMhDpxCfO9uN4KBFwsHq6CYL5v8pVSOo5ufC1esA8Tw/viewform?usp=send_form",
-        "official_notification": "https://fddiindia.com/uploads/career/Vacancy_Notice_chennaifdp_30-07-2026.pdf"
-    },
-    {
         "date": "29 Jul 2026",
         "board": "TNSTC Vacancy 2026 - 1518 Apprentice PostsTNSTC Apprentice Vacancy 2026",
         "title": "Graduate Apprentice (Engineering), Technician (Diploma) Apprentice, Graduate Apprentice (Non-Engineering)",
@@ -656,22 +656,6 @@
         "official_notification": "https://nats.education.gov.in/uploads/events/sr/TNSTC%20MTC%20SETC%20Notification%202026%20-%2027%20%207-Regions.pdf"
     },
     {
-        "date": "21 Jul 2026",
-        "board": "RRB Vacancy 2026 - 4098 Junior Engineer PostsRRB Junior Engineer Vacancy 2026",
-        "title": "Junior Engineer (JE), Depot Material Superintendent (DMS) & Chemical and Metallurgical Assistant (CMA)",
-        "qualification": "4098 Posts",
-        "last_date": "13 Sep 2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Minimum Age:18 Years || Maximum Age:33 Years || Age relaxation will be applicable as per Government rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Computer Based Test (CBT) || Document Verification || Medical Examination",
-        "apply_mode": "Online",
-        "syllabus": "Syllabus RRB JE Syllabus",
-        "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "Not Available"
-    },
-    {
         "date": "27 Jul 2026",
         "board": "IBPS Vacancy 2026 - 11403 Customer Service Associate / Clerk PostsIBPS Customer Service Associate / Clerk Vacancy 2026",
         "title": "Customer Service Associate (CSA), commonly known as IBPS Clerk",
@@ -686,22 +670,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ibps.in/",
         "official_notification": "https://www.ibps.in/"
-    },
-    {
-        "date": "04 Aug 2026",
-        "board": "FDDI Vacancy 2026 - Junior Faculty and Lab Assistant PostsFDDI Vacancy 2026",
-        "title": "Junior Faculty and Academic Support Staff",
-        "qualification": "Master's Degree in Fashion Design or related fields with min. 55% marks, Doctoral Degree (Desirable), Minimum 3 years Academic/Industry Experience, 8th/10th Pass for Lab Assistant",
-        "last_date": "13 Aug 2026",
-        "total_posts": "Not Mentioned",
-        "salary": "Rs. 30000 - 50000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.fddiindia.com",
-        "official_notification": "https://fddiindia.com/uploads/career/Vacancy_Notice_chennaifd_30-07-2026.pdf"
     },
     {
         "date": "04 Aug 2026",
@@ -734,22 +702,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.sainikschoolamaravathinagar.edu.in/",
         "official_notification": "https://www.sainikschoolamaravathinagar.edu.in/assets/pdf/Vacancy/Notification.pdf"
-    },
-    {
-        "date": "01 Aug 2026",
-        "board": "IIT Madras Vacancy 2026 - 2 Post Doctoral Researcher PostsIIT Madras Post Doctoral Researcher Vacancy 2026",
-        "title": "Post Doctoral Researcher",
-        "qualification": "PhD Preferably in Finance/ Economics / Mathematics / Computer Science",
-        "last_date": "13 Aug 2026",
-        "total_posts": "2",
-        "salary": "Rs. 70,000/- to Rs. 1,00,000/- per month",
-        "age_limit": "Not Available",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitm.ac.in/",
-        "official_notification": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1785412915.pdf"
     },
     {
         "date": "27 Jul 2026",

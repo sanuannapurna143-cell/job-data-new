@@ -305,38 +305,6 @@
     },
     {
         "date": "05 Aug 2026",
-        "board": "District Court SBS Nagar Vacancy 2026 - 13 Clerk PostsDistrict Court SBS Nagar Clerk Vacancy 2026",
-        "title": "Clerk",
-        "qualification": "B.A./B.Sc or equivalent from a recognised University, Punjabi language as a subject in Matriculation examination, Proficiency in operation of computer",
-        "last_date": "13 Aug 2026",
-        "total_posts": "13",
-        "salary": "Pay Matrix Level-5 of 7th Central Pay Commission",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 37 years || Relaxation in age to the reserved categories as per rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://districts.ecourts.gov.in/nawanshahr",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec024ad13f04ef4373992c9d3046200a/uploads/2026/07/2026072875.pdf"
-    },
-    {
-        "date": "05 Aug 2026",
-        "board": "PAU Vacancy 2026 - 1 Junior Lab/ Field Helper PostsPAU Junior Lab/ Field Helper Vacancy 2026",
-        "title": "Junior Lab/ Field Helper",
-        "qualification": "Middle with Punjabi",
-        "last_date": "13 Aug 2026",
-        "total_posts": "1",
-        "salary": "Junior Lab./ Field Helper: Rs. 10,737/- p.m. fixed on contractual basis",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 63 years || Age Relaxation: PWD - 3%, Ex-Serviceman - 13%",
-        "application_fee": "Rs. 50/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.pau.edu",
-        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7488"
-    },
-    {
-        "date": "05 Aug 2026",
         "board": "PAU Vacancy 2026 - 2 Research Associate I and Young Professional I PostsPAU Vacancy 2026",
         "title": "Research Associate-I and Young Professional-I",
         "qualification": "B.Sc. Biotechnology/Agriculture/Biosciences (min 60%), M.Sc. Biotechnology/Plant Breeding/Genetics/Molecular Biology (min 65%), Ph.D. in relevant field (min 65%), Graduation in any discipline (min 60%)",
@@ -414,21 +382,5 @@
         "syllabus": "Not Available",
         "official_website": "https://verka.coop/",
         "official_notification": "https://verka.coop/wp-content/uploads/2026/07/final-add-1.pdf"
-    },
-    {
-        "date": "22 Jul 2026",
-        "board": "IISER Mohali Vacancy 2026 - 3 Library Professional PostsIISER Mohali Library Professional Vacancy 2026",
-        "title": "Library Professional (on training)",
-        "qualification": "3 Posts",
-        "last_date": "13 Aug 2026",
-        "total_posts": "Not Available",
-        "salary": "₹18,000/- (1st Year) & ₹20,000/- (2nd Year)",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iisermohali.ac.in/",
-        "official_notification": "https://web.iisermohali.ac.in:8080/noticeportal/attachments/article/3154/Detailed_advertisement_for_Library%20Professionals.pdf"
     }
 ]
