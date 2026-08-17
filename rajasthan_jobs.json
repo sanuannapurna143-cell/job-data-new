@@ -1,5 +1,53 @@
 [
     {
+        "date": "17 Aug 2026",
+        "board": "Nainital Bank Vacancy 2026 - 41 Civil Engineer, Manager and More PostsNainital Bank Vacancy 2026",
+        "title": "Specialist Officer (Grade/Scale I, II & III – 14 specialized profiles)",
+        "qualification": "Min. 5 years as Officer in Indian Army/Navy/Air Force not below rank of Captain, OR min. 5 years as Officer in Paramilitary not below rank of Deputy Commandant",
+        "last_date": "07 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "48480-2000/7-62480-2340/2-67160-2680/7-85920",
+        "age_limit": "Age is reckoned as on 1 August 2026 . The minimum and maximum age limits vary by post/grade as shown in the vacancy table above: || Grade/Scale-I posts (Risk Officer, HR Officer, IT Officer, Data Scientist/Analyst, Civil Engineer/Architect): 21 to 32 years || Grade/Scale-II posts (Manager-Credit, Manager-Law, Manager-Risk, Manager-Company Secretary): 25 to 35 years || Manager-Security Officer (Scale-II): Not more than 35 years of age || Grade/Scale-III posts (Senior Manager-Credit, Forex, Treasury, Law): 25 to 38 years",
+        "application_fee": "Rs. 1,500 (Rupees One Thousand Five Hundred only), including GST",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nainitalbank.bank.in/",
+        "official_notification": "https://www.nainitalbank.bank.in/pdf/Notification%202026.pdf"
+    },
+    {
+        "date": "17 Aug 2026",
+        "board": "RSSB Vacancy 2026 - 874 Junior Engineer PostsRSSB Junior Engineer Vacancy 2026",
+        "title": "Junior Engineer (Civil, Mechanical/Electrical)",
+        "qualification": "Diploma in Civil Engineering from a recognized institution, or a Diploma in Civil Engineering recognized by the Institution of Engineers for the purpose of exemption from its associate membership examination",
+        "last_date": "14 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "The Junior Engineer post carries a pay scale of Pay Matrix Level-10 as per the 7th Pay Commission adopted by the Rajasthan Government. || Selected candidates will be appointed as probationary trainees for a2-year probation period. || During probation, a fixed monthly remuneration (as prescribed by the state government from time to time) will be paid, instead of the regular pay scale. || No additional allowances such as House Rent Allowance, Dearness Allowance, City Compensatory Allowance, or Special Pay are payable during the probation period. || On successful completion of probation (training, passing the required examination, and satisfactory conduct), the candidate becomes eligible for the regular pay scale and confirmation/permanency.",
+        "age_limit": "As per the notification, age is calculated with reference to 1 January 2027 . A candidate must have attained 18 years of age and must not have crossed 40 years of age as on that date. || The relaxation provisions listed above are \"non-cumulative,\" meaning a candidate can avail the benefit of only one applicable provision, not a combination of multiple provisions. Additional relaxation provisions for departmental candidates, NCC cadet instructors, and 1971 Indo-Pak war displaced persons are detailed in the official notification. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
+        "application_fee": "The application fee is a One Time Registration (OTR) fee paid via SSO ID and is payable through e-Mitra kiosk, Citizen Service Centre (CSC), net banking, ATM-cum-debit card, or credit card. || Candidates who have already deposited the OTR fee earlier are not required to pay it again. Candidates from other states who fall under SC/ST/OBC/MBC/EWS categories are treated as General category candidates for this recruitment and must pay the General category fee.",
+        "selection_process": "Selection to the Junior Engineer posts will be made through a written examination only, as per the scheme given below. || The examination will be conducted as a Computer Based Test (CBT), Tablet Based Test (TBT), or OMR-based offline test. If the exam is held in multiple shifts/phases, a normalization process will be applied to the scores. The detailed subject-wise syllabus for Part B (Civil Engineering for the degree/diploma posts, and Mechanical/Electrical Engineering for the diploma post) covering topics such as Building Technology, Fluid Mechanics, Surveying, Irrigation, Strength of Materials, Structural Analysis, Soil Mechanics, RCC & Steel Design, Construction Technology, Highway Engineering, Public Health Engineering, Thermodynamics, Theory of Machines, and AutoCAD is published in the official detailed advertisement on the RSSB website.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rssb.rajasthan.gov.in/",
+        "official_notification": "https://rssb.rajasthan.gov.in/storage/advertisement_item/1786782151.pdf"
+    },
+    {
+        "date": "27 Jul 2026",
+        "board": "Department of Local Self Government Rajasthan Vacancy 2026 - 24752 Safai Karmachari PostsDepartment of Local Self Government Rajasthan Safai Karmachari Vacancy 2026",
+        "title": "Contractual Safai Karmchari (Sanitation Worker)",
+        "qualification": "24752 Posts",
+        "last_date": "28 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "As per the Rajasthan Contractual Hiring to Civil Posts Rules, 2022, an applicant must have attained a minimum age of 21 years and must not have exceeded 40 years, as calculated on 1 January 2027 (the first 1 January following the last date of application). || These age relaxations are non-cumulative - a candidate can avail the benefit of only the single relaxation most favourable to them, not a combination of more than one provision.",
+        "application_fee": "600",
+        "selection_process": "Selection is made through a lottery system (developed by the Rajasthan Department of Information Technology & Communication) among eligible candidates, category-wise, according to the number of advertised posts in each urban local body, in the following priority order: || Priority 1:Candidates with 1 year of sanitation experience in the same urban local body they are applying to. || Priority 2:If posts remain unfilled after Priority 1, candidates with 1 year of sanitation experience in another urban local body within the same district are included in the lottery. || Priority 3:If posts still remain unfilled, candidates with 1 year of sanitation experience in any urban local body anywhere in the state are included in the lottery.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://lsg.urban.rajasthan.gov.in",
+        "official_notification": "https://jankalyanfile.rajasthan.gov.in/WebMyWayFiles/OrderEntry/LSG/2026/Recruitment_Related/O_270726_b3f2c06b-6021-49a2-9661-14cdb0f93dd0.pdf"
+    },
+    {
         "date": "14 Aug 2026",
         "board": "IIM Udaipur Vacancy 2026 - 1 Head of Operations PostsIIM Udaipur Head of Operations Vacancy 2026",
         "title": "Head of Operations - Executive Education",
@@ -61,7 +109,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "nainital-bank-so-recruitment-2026-apply-online-for-41-specialist-officer-posts-3063212"
     },
     {
         "date": "13 Aug 2026",
@@ -350,22 +398,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nrsc.gov.in/",
         "official_notification": "https://www.nrsc.gov.in/Career_Apply"
-    },
-    {
-        "date": "27 Jul 2026",
-        "board": "Department of Local Self Government Rajasthan Vacancy 2026 - 24752 Safai Karmachari PostsDepartment of Local Self Government Rajasthan Safai Karmachari Vacancy 2026",
-        "title": "Sanvida Safai Karmachari (Contract Sanitation Worker)",
-        "qualification": "24752 Posts",
-        "last_date": "28 Sep 2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "No upper age limit, subject to being below the state-prescribed retirement age",
-        "application_fee": "Rs. 600/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://lsg.urban.rajasthan.gov.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/07/2549556662-6a6756dede50b19522767.pdf"
     },
     {
         "date": "25 Jul 2026",
