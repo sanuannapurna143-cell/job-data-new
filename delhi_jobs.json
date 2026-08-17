@@ -1,6 +1,38 @@
 [
     {
         "date": "17 Aug 2026",
+        "board": "IIT Delhi Vacancy 2026 - 2 Project Scientist PostsIIT Delhi Project Scientist Vacancy 2026",
+        "title": "Project Scientist",
+        "qualification": "B.Tech /B.E. in Computer Science, Electronics & Communication, Electrical Engineering, Instrumentation, Mechanical Engineering",
+        "last_date": "27 Aug 2026",
+        "total_posts": "2",
+        "salary": "Rs. 47790 - 62350 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in/",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1786614141292_5w5gnc2.pdf"
+    },
+    {
+        "date": "17 Aug 2026",
+        "board": "ICAR IARI Vacancy 2026 - 1 Young Professional II PostsICAR IARI Young Professional II Vacancy 2026",
+        "title": "Young Professional II (YP-II)",
+        "qualification": "Postgraduate degree in Genetics /Plant Breeding/Genetics & Plant Breeding/ Biotechnology/ Plant Pathology/ Allied disciplines of Life Sciences",
+        "last_date": "03 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 42000 Per Month",
+        "age_limit": "Min: 21 years, Max: 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iari.res.in",
+        "official_notification": "https://iari.res.in/files/jobs/Young-Professional-II_13082026.pdf"
+    },
+    {
+        "date": "17 Aug 2026",
         "board": "Nainital Bank Vacancy 2026 - 41 Civil Engineer, Manager and More PostsNainital Bank Vacancy 2026",
         "title": "Specialist Officer (Grade/Scale I, II & III – 14 specialized profiles)",
         "qualification": "Min. 5 years as Officer in Indian Army/Navy/Air Force not below rank of Captain, OR min. 5 years as Officer in Paramilitary not below rank of Deputy Commandant",
@@ -29,7 +61,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "nainital-bank-so-recruitment-2026-apply-online-for-41-specialist-officer-posts-3063212"
+        "official_notification": "Not Available"
     },
     {
         "date": "17 Aug 2026",
@@ -93,7 +125,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "nainital-bank-so-recruitment-2026-apply-online-for-41-specialist-officer-posts-3063212"
+        "official_notification": "Not Available"
     },
     {
         "date": "14 Aug 2026",
@@ -2061,7 +2093,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ncrtc.in/",
-        "official_notification": "nainital-bank-so-recruitment-2026-apply-online-for-41-specialist-officer-posts-3063212"
+        "official_notification": "Not Available"
     },
     {
         "date": "23 Jul 2026",

@@ -1,6 +1,38 @@
 [
     {
         "date": "17 Aug 2026",
+        "board": "RCB Vacancy 2026 - 2 Research Associate I, Field Assistant PostsRCB Vacancy 2026",
+        "title": "Research Associate I, Field Assistant",
+        "qualification": "PhD, B.Sc./B.Tech., Diploma",
+        "last_date": "27 Aug 2026",
+        "total_posts": "2",
+        "salary": "Research Associate I: Rs.58,000/- + 30% HRA || Field Assistant: Rs.18,000/- + 30% HRA",
+        "age_limit": "Maximum Age Limit: 35 Years || Age relaxation will be applicable as per government rules. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "Not Available",
+        "selection_process": "Online Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rcb.res.in/",
+        "official_notification": "https://rcb.res.in/files/advertisement-files/advt._no.27_project_2026_hr_1_0.pdf"
+    },
+    {
+        "date": "17 Aug 2026",
+        "board": "RCB Vacancy 2026 - 2 Chief Scientific Officer, Project Scientist III PostsRCB Vacancy 2026",
+        "title": "Chief Scientific Officer, Project Scientist III",
+        "qualification": "A Doctoral degree in Science or a Master's degree in Engineering/ Technology from a recognized university or equivalent, with at least 20 years of relevant professional experience, A Doctoral degree in Science or a Master's degree in Engineering/ Technology from a recognized university or equivalent, with a minimum of 7 years of R&D experience in industrial or academic institutions, or in science and technology organizations",
+        "last_date": "13 Sep 2026",
+        "total_posts": "2",
+        "salary": "Rs. 78000 - 200000 Per Month",
+        "age_limit": "For All Posts:Candidates must be a minimum of 45 years and a maximum of 45 years old. || Age Relaxation:Age relaxation as per GoI norms is available to eligible applicants. In all other cases, if a candidate is otherwise suitable, age/experience relaxation may be granted by the Competent Authority.",
+        "application_fee": "Rs. 200/-",
+        "selection_process": "Screening by Screening Committee || Selection Process",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "www.rcb.res.in",
+        "official_notification": "https://rcb.res.in/files/advertisement-files/advt._no._rcb_bsu_02_2026_rectt._hr.pdf"
+    },
+    {
+        "date": "17 Aug 2026",
         "board": "Nainital Bank Vacancy 2026 - 41 Civil Engineer, Manager and More PostsNainital Bank Vacancy 2026",
         "title": "Specialist Officer (Grade/Scale I, II & III – 14 specialized profiles)",
         "qualification": "Min. 5 years as Officer in Indian Army/Navy/Air Force not below rank of Captain, OR min. 5 years as Officer in Paramilitary not below rank of Deputy Commandant",
@@ -45,7 +77,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "nainital-bank-so-recruitment-2026-apply-online-for-41-specialist-officer-posts-3063212"
+        "official_notification": "Not Available"
     },
     {
         "date": "13 Aug 2026",
