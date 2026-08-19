@@ -1,6 +1,86 @@
 [
     {
         "date": "19 Aug 2026",
+        "board": "NBT Vacancy 2026 - 1 Media Coordinator PostsNBT Media Coordinator Vacancy 2026",
+        "title": "Media Coordinator",
+        "qualification": "Graduate in Journalism/ mass Communication/ Public relations/ Media Studies",
+        "last_date": "28 Aug 2026",
+        "total_posts": "1",
+        "salary": "Rs. 70000 - 80000 Per Month",
+        "age_limit": "Maximum Age Limit: 45 years || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "Document Verification || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nbtindia.gov.in",
+        "official_notification": "https://www.nbtindia.gov.in/writereaddata/jobattachment/thursday-august-13-20262-14-01-pmvacancy-notice-for-the-post-of-media-coordinator-on-a-contractual-basis-13082026.pdf"
+    },
+    {
+        "date": "19 Aug 2026",
+        "board": "AIIMS Delhi Vacancy 2026 - 1 Project Technical Support III PostsAIIMS Delhi Project Technical Support III Vacancy 2026",
+        "title": "Project Technical Support-III",
+        "qualification": "Graduate degree in Public Health / Clinical Psychology / Social Work / Sociology / Psychology with three years post-qualification experience, Post-Graduate degree in above fields",
+        "last_date": "05 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 28000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiims.edu/",
+        "official_notification": "https://aiims.edu/images/pdf/recruitment/advertisement/NDDTC-19-8-26.pdf"
+    },
+    {
+        "date": "19 Aug 2026",
+        "board": "Sahitya Akademi Vacancy 2026 - 30 Clerk, MTS and More PostsSahitya Akademi Vacancy 2026",
+        "title": "Deputy Secretary, Assistant Editor, Junior Clerk, MTS & Other Posts",
+        "qualification": "10th / 12th / Post-wise Relevant Qualification",
+        "last_date": "21 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Level-1 to Level-11 under 7th CPC",
+        "age_limit": "The age limit varies according to the post . || The reference recruitment page reports an overall post-wise age range of 18 to 50 years , with age relaxation applicable according to government rules. However, candidates should verify the exact post-wise age limits from the detailed official advertisement once published.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Prescribed Application Proforma",
+        "syllabus": "Not Available",
+        "official_website": "https://sahitya-akademi.gov.in/",
+        "official_notification": "opsc-aee-recruitment-2026-apply-online-for-48-assistant-agriculture-engineer-posts-3063722"
+    },
+    {
+        "date": "19 Aug 2026",
+        "board": "IIT Delhi Vacancy 2026 - 1 Jr. Research Fellow PostsIIT Delhi Jr. Research Fellow Vacancy 2026",
+        "title": "Jr. Research Fellow",
+        "qualification": "1st class MTech with NET/GATE/PhD in Biomass processing/ Pulp and Paper Technology/ Pulp Technology process engineering",
+        "last_date": "01 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs.37,000/-p.m. plus HRA @27%",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1787114673675_k86r6qa.pdf"
+    },
+    {
+        "date": "19 Aug 2026",
+        "board": "AUD Delhi Vacancy 2026 - 89 Professor, Assistant Professor and Associate Professor PostsAUD Delhi Vacancy 2026",
+        "title": "Professor, Assistant Professor and Associate Professor",
+        "qualification": "89 Posts",
+        "last_date": "21 Aug 2026",
+        "total_posts": "Not Available",
+        "salary": "Academic Pay Level (7th CPC)",
+        "age_limit": "Not Available",
+        "application_fee": "₹1,000 (non-refundable)",
+        "selection_process": "Selection is on merit through an all-India advertisement, based on the recommendations of duly constituted Selection Committees, following UGC Regulations 2018. There is no written examination - selection proceeds through screening and interview. || A Scrutiny/Screening Committee reviews all applications and prepares a list of eligible and not-eligible candidates based on stipulated criteria. || The eligible/not-eligible lists (with reasons) are published on the University website; not-eligible candidates may submit grievances with documentary evidence within a stipulated deadline. || For Assistant Professor posts, shortlisting for interview uses an Academic Score matrix (Table 3A of UGC 2018 Regulations) covering Graduation, Post-Graduation, M.Phil., Ph.D., NET/SLET/SET, research publications, teaching/post-doctoral experience and awards - maximum 100 marks. This score is used only for shortlisting; final selection is based on interview performance. || For Professor and Associate Professor posts, shortlisting is based on academic records, publications, experience and Research Score as decided by the University. || Selection may involve a presentation/seminar/interview or a combination, as required. Candidates residing outside India may be interviewed via video conferencing on prior request. || Mere fulfilment of the minimum eligibility criteria does not entitle a candidate to be called for interview; the University may restrict the number of candidates interviewed based on higher qualifications/experience where applications are numerous.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://aud.delhi.gov.in/sites/default/files/2026-08/detailed_teaching_advertisement_no_838_dated_31.07.2026.pdf"
+    },
+    {
+        "date": "19 Aug 2026",
         "board": "IIT Delhi Vacancy 2026 - 2 Project Scientist PostsIIT Delhi Project Scientist Vacancy 2026",
         "title": "Project Scientist",
         "qualification": "B.Tech./B.E. in Computer Science, Electronics & Communication, Electrical Engineering, Instrumentation, Mechanical Engineering, or a closely related discipline.",
@@ -45,7 +125,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://upsc.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "opsc-aee-recruitment-2026-apply-online-for-48-assistant-agriculture-engineer-posts-3063722"
     },
     {
         "date": "19 Aug 2026",
@@ -429,7 +509,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "opsc-aee-recruitment-2026-apply-online-for-48-assistant-agriculture-engineer-posts-3063722"
     },
     {
         "date": "17 Aug 2026",
@@ -493,7 +573,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "opsc-aee-recruitment-2026-apply-online-for-48-assistant-agriculture-engineer-posts-3063722"
     },
     {
         "date": "14 Aug 2026",
@@ -2093,7 +2173,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ncrtc.in/",
-        "official_notification": "Not Available"
+        "official_notification": "opsc-aee-recruitment-2026-apply-online-for-48-assistant-agriculture-engineer-posts-3063722"
     },
     {
         "date": "23 Jul 2026",
