@@ -1,6 +1,54 @@
 [
     {
         "date": "21 Aug 2026",
+        "board": "POWERGRID Vacancy 2026 - Apprentices PostsPOWERGRID Apprentices Vacancy 2026",
+        "title": "Apprentices",
+        "qualification": "Not Mentioned",
+        "last_date": "10 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.powergrid.in",
+        "official_notification": "upsc-epfo-apfc-recruitment-2026-apply-online-for-80-posts-3063552"
+    },
+    {
+        "date": "21 Aug 2026",
+        "board": "DUAC Vacancy 2026 - 2 Lower Division Clerk, Daftry PostsDUAC Vacancy 2026",
+        "title": "Post Name",
+        "qualification": "Essential:\r\t\t\t(i) High School/Matriculation pass.\r\t\t\t(ii) Ability to read and write English.\r\t\t\tDesirable:\r\t\t\t(i) Experience in maintaining records.",
+        "last_date": "20 Oct 2026",
+        "total_posts": "Not Available",
+        "salary": "Both the Lower Division Clerk and Daftry posts are placed in Level 2 of the Pay Matrix . The exact in-hand or basic pay figure is not mentioned in the official notification. In addition to basic pay, selected candidates will be entitled to: || Dearness Allowance (DA) || House Rent Allowance (HRA) || Medical reimbursement || Leave Travel Concession (LTC) || These benefits will be governed as per the Delhi Urban Art Commission (Employees Terms and Conditions of Service) Regulations, as amended from time to time. Selected appointees will be covered under the New Pension Scheme (NPS).",
+        "age_limit": "Minimum age: 18 years || Maximum age: 25 years || Age relaxation for OBC (non-creamy layer) candidates is applicable as per Government instructions. The exact number of relaxation years is not specified in the notification. || The last date/closing date of submission of the application will be used to calculate age.",
+        "application_fee": "Not Available",
+        "selection_process": "As per the notification, eligible candidates will be screened/shortlisted and called for a written examination . The specific criteria adopted for screening, the exam pattern, and the syllabus are not detailed in this notification and will be displayed only on DUAC's official website, duac.org.in , from time to time.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.duac.org.in/",
+        "official_notification": "https://ibtexamination.com/App2o26_DUAC/notification/Advertisement%20-%20LDC.pdf"
+    },
+    {
+        "date": "21 Aug 2026",
+        "board": "DTL Vacancy 2026 - 65 Assistant Manager Trainee PostsDTL Assistant Manager Trainee Vacancy 2026",
+        "title": "Assistant Manager Trainee",
+        "qualification": "Any additional equivalent qualification will be decided solely by a committee constituted by the Managing Director, DTL, whose decision is final. Only qualifications recognized by AICTE or the appropriate statutory authority, and declared equivalent in writing, will be accepted.",
+        "last_date": "01 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Selected candidates will be placed as Asstt. Manager (T) Trainee/Asstt. Manager (Civil) Trainee in Pay Level-09 with Central DA pattern and other allowances such as House Rent/Accommodation/Conveyance Facility/Medical/LTC, as per company rules. On successful completion of the one-year training, candidates will be absorbed as Assistant Manager (T)/Assistant Manager (Civil) in Pay Level-10, with the same set of Central DA pattern allowances. || Selected candidates must execute a service agreement bond to complete the training period and serve the organization for at least three years. The bond amount is INR 5,00,000/- for General/OBC(NCL)/EWS candidates and INR 2,50,000/- for SC/ST/PwBD candidates.",
+        "age_limit": "The upper age limit must not exceed 28 years as on the last date for receipt of applications. || Only Indian Nationals below 28 years of age are eligible to apply. Further relaxations will apply as per Government norms in force on the last date of application. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly",
+        "application_fee": "The Demand Draft must be in favour of Delhi Transco Limited and payable at New Delhi. Fee once paid will not be refunded under any circumstances, so candidates are advised to verify their eligibility before paying the registration fee.",
+        "selection_process": "Selection for all three posts is made purely on the basis of GATE 2026 scores in the respective discipline/paper code - no separate written test or interview is mentioned in the notification. || Separate merit lists are prepared for Asstt. Manager (T) Trainee-Electrical, Asstt. Manager (T) Trainee-Non-Electrical, and Asstt. Manager (Civil) Trainee. || Final selection is based on merit derived from the GATE 2026 score (Normalized Marks out of 100), as per approved selection criteria. || Inter-se seniority of appointed Assistant Manager (Technical) candidates is regulated in a 9:1 ratio between the Electrical and Non-Electrical streams. || Selected candidates undergo one year of training, split into 3 months of academic training (through NPTI or another training institute as per DTL policy) and 9 months of field/on-the-job training in DTL substations/offices. || Candidates must score a minimum of 65% marks in the training examination and in the final assessment for absorption. Those who do not qualify will not be absorbed into DTL and may represent to the Director (HR) within 15 days.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.dtl.gov.in",
+        "official_notification": "https://dtl.gov.in/WriteReadData/Career/DTL-CR-73-170826.pdf"
+    },
+    {
+        "date": "21 Aug 2026",
         "board": "AIIMS Delhi Vacancy 2026 - 1 Project Technical Support I PostsAIIMS Delhi Project Technical Support I Vacancy 2026",
         "title": "Project Technical Support I",
         "qualification": "DMLT + 2 years experience in relevant field, BSc in Medical Laboratory Technology (MLT) + 1 year experience in relevant field",
@@ -605,7 +653,7 @@
         "apply_mode": "Prescribed Application Proforma",
         "syllabus": "Not Available",
         "official_website": "https://sahitya-akademi.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "upsc-epfo-apfc-recruitment-2026-apply-online-for-80-posts-3063552"
     },
     {
         "date": "19 Aug 2026",
@@ -675,17 +723,17 @@
         "date": "19 Aug 2026",
         "board": "UPSC Vacancy 2026 - 80 Assistant Provident Fund Commissioner PostsUPSC Assistant Provident Fund Commissioner Vacancy 2026",
         "title": "Assistant Provident Fund Commissioner (APFC)",
-        "qualification": "Graduate Degree",
+        "qualification": "Essential Qualification: A degree of a recognised university or equivalent. || Desirable Qualification: A diploma in Company Law, Labour Laws, or Public Administration. || The Commission may relax these qualifications at its discretion for otherwise well-qualified candidates, and the notification specifies criteria the Commission may use for shortlisting if the number of applications is large, including preference for desirable qualifications or relevant experience.",
         "last_date": "11 Sep 2026",
         "total_posts": "26085201722",
-        "salary": "Level-10 in the Pay Matrix as per 7th CPC",
-        "age_limit": "UR / EWS:Maximum 35 years || OBC:Maximum 38 years || SC / ST:Maximum 40 years || PwBD:Age limit is further relaxable by up to10 yearsfor vacancies identified as suitable and/or reserved for PwBD candidates. || The crucial date for determining the age limit is11 September 2026.",
-        "application_fee": "According to the recruitment reference information: || UR / OBC / EWS Male Candidates:Rs. 25/- || SC / ST / PwBD Candidates:Nil || Female Candidates:Nil || Payment Mode:Online",
-        "selection_process": "Not Available",
+        "salary": "The post of Assistant Provident Fund Commissioner carries Level-10 in the Pay Matrix as per the 7th Central Pay Commission (CPC) . The post is permanent and classified as Central Board Group \"A\", Non-Ministerial, equivalent to Group-A of the Central Government at the corresponding pay level. The probation period is one year, and the post carries All India Service liability, meaning selected officers may be required to serve anywhere in India.",
+        "age_limit": "Additional age relaxation is available for Ex-Servicemen and Commissioned Officers, Central/UT Government employees, and EPFO employees (up to 5 years), as per the concessions listed in the official notification.",
+        "application_fee": "Fee can be paid online using a Visa/Master/RuPay Credit or Debit Card, UPI, or internet banking. The fee, once paid, is not refunded or carried forward to any other examination.",
+        "selection_process": "Selection to the post of Assistant Provident Fund Commissioner is made through a Recruitment Test (RT) followed by a Personality Test/Interview. || The syllabus for the Recruitment Test broadly covers General English, Indian Culture and Heritage, developmental issues and the Indian economy, governance and the Constitution of India, general science and computer applications, elementary mathematics, statistics and mental ability, industrial relations and labour codes, principles of accountancy, auditing and insurance, and current events of national and international importance. || The Recruitment Test will be held at 84 designated centres across India, including cities such as Delhi, Chennai, Kolkata, Mumbai, Bengaluru, Hyderabad, and Lucknow, with the full list published in the official notification. Centre allotment follows a first-apply-first-allot basis, subject to a ceiling on candidates per centre (except Chennai, Dispur, Kolkata, and Nagpur).",
         "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "https://upsc.gov.in/",
-        "official_notification": "Not Available"
+        "official_website": "https://www.upsc.gov.in/",
+        "official_notification": "https://www.upsc.gov.in/sites/default/files/AdvtNo-52-2026-Special-Engl-210826.pdf"
     },
     {
         "date": "19 Aug 2026",
@@ -1069,7 +1117,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "upsc-epfo-apfc-recruitment-2026-apply-online-for-80-posts-3063552"
     },
     {
         "date": "17 Aug 2026",
@@ -1117,7 +1165,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "upsc-epfo-apfc-recruitment-2026-apply-online-for-80-posts-3063552"
     },
     {
         "date": "14 Aug 2026",
@@ -2413,7 +2461,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.ncrtc.in/",
-        "official_notification": "Not Available"
+        "official_notification": "upsc-epfo-apfc-recruitment-2026-apply-online-for-80-posts-3063552"
     },
     {
         "date": "23 Jul 2026",

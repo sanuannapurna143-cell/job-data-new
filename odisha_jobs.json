@@ -1,6 +1,22 @@
 [
     {
         "date": "21 Aug 2026",
+        "board": "District Education Office Boudh Vacancy 2026 - 61 Guest Teacher PostsDistrict Education Office Boudh Guest Teacher Vacancy 2026",
+        "title": "Guest Teacher",
+        "qualification": "Retired Teacher",
+        "last_date": "28 Aug 2026",
+        "total_posts": "61",
+        "salary": "Rs. 12000 Per Month",
+        "age_limit": "Max: 65 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://boudh.odisha.gov.in/",
+        "official_notification": "https://boudh.odisha.gov.in/sites/default/files/2026-08/4557.pdf"
+    },
+    {
+        "date": "21 Aug 2026",
         "board": "IIT Bhubaneswar Vacancy 2026 - 1 Library Professional Trainee PostsIIT Bhubaneswar Library Professional Trainee Vacancy 2026",
         "title": "Library Professional Trainee",
         "qualification": "First Class in Masters in Library and Information Science or equivalent from a recognized Institute/University having good academic record.",
@@ -317,7 +333,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bpsc-tre-40-notification-2026-32-388-school-teacher-posts-3063451"
     },
     {
         "date": "14 Aug 2026",
