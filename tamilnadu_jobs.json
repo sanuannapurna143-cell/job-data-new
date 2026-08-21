@@ -1,5 +1,85 @@
 [
     {
+        "date": "21 Aug 2026",
+        "board": "IIT Madras Vacancy 2026 - 1 Project Officer PostsIIT Madras Project Officer Vacancy 2026",
+        "title": "Project Officer",
+        "qualification": "4 year UG in Mechanical/Applied Mechanics/Chemical Engineering, ME/MTech or equivalent Master's in Thermofluidics, Good understanding of fluid mechanics, thermodynamics, and heat transfer, Expertise in programming (C++/Py) and CFD simulations (optional), Training in molecular dynamics (MD) simulations (priority)",
+        "last_date": "23 Aug 2026",
+        "total_posts": "1",
+        "salary": "Rs. 27500 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitm.ac.in/",
+        "official_notification": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1785827335.pdf"
+    },
+    {
+        "date": "21 Aug 2026",
+        "board": "IIITDM Kancheepuram Vacancy 2026 - 1 Research Assistant PostsIIITDM Kancheepuram Research Assistant Vacancy 2026",
+        "title": "Research Assistant",
+        "qualification": "M.A. in English / Linguistics / Social Science / Education (any one), Proficiency in both Tamil and English (spoken and written)",
+        "last_date": "31 Aug 2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Max: 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiitdm.ac.in",
+        "official_notification": "https://drive.google.com/file/d/1InRtA3pOKd8It6zxNv9tolKJTP-f6iqQ/view"
+    },
+    {
+        "date": "21 Aug 2026",
+        "board": "Chennai Port Authority Vacancy 2026 - Materials Manager (Dy. HOD) PostsChennai Port Authority Materials Manager (Dy. HOD) Vacancy 2026",
+        "title": "Materials Manager (Dy. HOD)",
+        "qualification": "Degree in Electrical/Mechanical Engineering from a recognized university, Prescribed experience in Materials Management",
+        "last_date": "03 Oct 2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Rs. 80000 - 220000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.chennaiport.gov.in",
+        "official_notification": "https://chennaiport.gov.in/api/static/default/career/Dy.pdf"
+    },
+    {
+        "date": "21 Aug 2026",
+        "board": "RHFL Vacancy 2026 - Chief Manager PostsRHFL Chief Manager Vacancy 2026",
+        "title": "Chief Manager",
+        "qualification": "Any graduation with post-graduation & professional qualification given additional weightage.",
+        "last_date": "24 Aug 2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Based on Current CTC + Attractive incentives.",
+        "age_limit": "Maximum Age: 38 years. || Age Relaxation: Up to 50 years for deserving cases based on commensurate, relevant prior experience based on Management discretion.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Shortlisting based on prescribed criteria and management discretion || Further selection process (date, venue, mode to be communicated) || Reference / background verification",
+        "apply_mode": "Email or Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.repcohome.com/",
+        "official_notification": "https://s3.ap-south-1.amazonaws.com/rhfl-strapi/REGIONAL_COLLECTION_MANAGER_VISHAKHAPATNAM_75e50b89fc.pdf"
+    },
+    {
+        "date": "21 Aug 2026",
+        "board": "CSIR Madras Complex Vacancy 2026 - 1 Security Assistant PostsCSIR Madras Complex Security Assistant Vacancy 2026",
+        "title": "Security Assistant",
+        "qualification": "Ex-servicemen, JCO in Army or equivalent in other Paramilitary Forces with five years experience in the work of security",
+        "last_date": "16 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 35400 - 62400 Per Month",
+        "age_limit": "Maximum Age Limit: 28 years || Age relaxation is applicable as per GOI orders for Ex-servicemen, widows, divorced women etc.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Skill/Physical and Personality Assessment Test || Written Examination || Merit List",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.csircmc.res.in",
+        "official_notification": "https://www.csircmc.res.in/sites/default/files/attachments/Security%20Assistant%20Advertisement%2C%20CSIR%20Madras%20Complex%2C%20Chennai.pdf"
+    },
+    {
         "date": "27 Jul 2026",
         "board": "IBPS Vacancy 2026 - 11403 Customer Service Associate / Clerk PostsIBPS Customer Service Associate / Clerk Vacancy 2026",
         "title": "Customer Service Associate (CSA), commonly known as IBPS Clerk",
@@ -365,7 +445,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "cpcb-recruitment-2026-apply-online-for-51-deo-field-assistant-and-more-posts-3063970"
+        "official_notification": "Not Available"
     },
     {
         "date": "17 Aug 2026",
@@ -445,7 +525,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "cpcb-recruitment-2026-apply-online-for-51-deo-field-assistant-and-more-posts-3063970"
+        "official_notification": "Not Available"
     },
     {
         "date": "14 Aug 2026",
