@@ -1,6 +1,38 @@
 [
     {
         "date": "24 Aug 2026",
+        "board": "DHSGSU Vacancy 2026 - 4 Guest Faculty PostsDHSGSU Guest Faculty Vacancy 2026",
+        "title": "Guest Faculty",
+        "qualification": "B.E./ B.Tech./ B.S. & M.E./ M.Tech in relevant branch, First class or equivalent, M.Sc. in Mathematics with Ph.D/ NET as per UGC Norms",
+        "last_date": "01 Sep 2026",
+        "total_posts": "4",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://dhsgsu.edu.in/",
+        "official_notification": "https://dhsgsu.edu.in/images/2026/August-26/20/final-Advertisement.pdf"
+    },
+    {
+        "date": "24 Aug 2026",
+        "board": "MPPGCL Vacancy 2026 - 95 ITI Apprentice PostsMPPGCL ITI Apprentice Vacancy 2026",
+        "title": "ITI Apprentice (under the Apprentices Act, 1961)",
+        "qualification": "95 Posts",
+        "last_date": "21 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "₹9,600/-",
+        "age_limit": "Age Limit",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "24 Aug 2026",
         "board": "IIT Indore Vacancy 2026 - 1 Project Associate – I PostsIIT Indore Project Associate – I Vacancy 2026",
         "title": "Project Associate – I (PA-I)",
         "qualification": "Master's degree in Physics/Applied Physics/Theoretical Physics/Quantum Information/Optics/Photonics/Computer Science/Electronics or related discipline OR B.Tech./B.E./M.Tech. in Engineering Physics/Computer Science/Electrical & Electronics/Electronics & Communication or equivalent.",
