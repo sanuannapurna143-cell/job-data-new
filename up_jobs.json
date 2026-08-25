@@ -1,6 +1,102 @@
 [
     {
         "date": "25 Aug 2026",
+        "board": "IIT Kanpur Vacancy 2026 - 1 Senior Project Executive Officer PostsIIT Kanpur Senior Project Executive Officer Vacancy 2026",
+        "title": "Senior Project Executive Officer",
+        "qualification": "M.Tech or M.Sc in Engineering/ Sciences + 5 years of relevant experience, Ph.D. in Engineering/ Sciences",
+        "last_date": "31 Aug 2026",
+        "total_posts": "1",
+        "salary": "Rs. 70000 - 200000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/cse-speo-21-08-26.html"
+    },
+    {
+        "date": "25 Aug 2026",
+        "board": "KSSSCI Vacancy 2026 - 19 Senior Resident PostsKSSSCI Senior Resident Vacancy 2026",
+        "title": "Senior Resident (Hospital Services)",
+        "qualification": "MBBS/BDS/MIHA degree recognition by MCI/DCI, MBBS/BDS, Matriculation",
+        "last_date": "31 Aug 2026",
+        "total_posts": "19",
+        "salary": "Rs. 67,700/- in the pay matrix Rs. 67,700-2,08,700, Level-11",
+        "age_limit": "Maximum Age: 45 years || Age Relaxation: SC/ST/OBC/Govt. servants/other categories as per UP Government rules/DoPT rules",
+        "application_fee": "Rs. 500/- (Non-refundable)",
+        "selection_process": "Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://cancerinstitute.edu.in/",
+        "official_notification": "https://cancerinstitute.edu.in/public/uploads/1787227431_6126051f00fd0c56bafe.pdf"
+    },
+    {
+        "date": "25 Aug 2026",
+        "board": "Allahabad University Vacancy 2026 - 2 Junior Research Fellow and Research Assistant PostsAllahabad University Vacancy 2026",
+        "title": "Junior Research Fellow and Research Assistant",
+        "qualification": "MSc in Cognitive Science or related discipline (Neuroscience, Psychology), Experience in computer based behavioural experiments and functional neuroimaging, Experience with fMRI data acquisition and analysis, Experience with E Prime, Psychopy, MATLAB and R, Knowledge of conversational Hindi, Valid NET qualification (for JRF only)",
+        "last_date": "06 Sep 2026",
+        "total_posts": "2",
+        "salary": "Junior Research Fellow:Rs. 37000/- p.m. plus HRA || Research Assistant:Rs. 20000/- p.m. plus HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.allduniv.ac.in/",
+        "official_notification": "https://www.allduniv.ac.in/upload/file_collection/Notice%20for%20JRF_RA%20recruitment%20_BRK%20PROJECT%202026_Final.pdf"
+    },
+    {
+        "date": "25 Aug 2026",
+        "board": "Indian Bank Vacancy 2026 - 1 Authorised Doctor PostsIndian Bank Authorised Doctor Vacancy 2026",
+        "title": "Authorised Doctor",
+        "qualification": "MBBS from recognized university in Allopathic system of medicine, Minimum 10 years post qualification experience in hospital or as Medical Practitioner",
+        "last_date": "08 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://indianbank.bank.in/",
+        "official_notification": "https://indianbank.bank.in/documents/20117/34414/AUTHORISED%20DOCTOR%20ADVERTISEMENT-ZO%20BAHRAICH2026_08_24_10_14_38.pdf/3993dd95-ee06-d777-f627-7db0767d644b"
+    },
+    {
+        "date": "25 Aug 2026",
+        "board": "BHU Vacancy 2026 - 3 Lab Assistant, SRF and More Posts PostsBHU Vacancy 2026",
+        "title": "Research Positions",
+        "qualification": "First-class PG in Biochemistry/Biotechnology/Molecular & Human Genetics/Zoology/Animal Science/Life Sciences with NET/GATE, Graduate (55% marks) with mice handling experience, M.Sc. in Zoology/Life Sciences/Biochemistry/Biotechnology with NET/GATE (55% marks)",
+        "last_date": "09 Sep 2026",
+        "total_posts": "3",
+        "salary": "Rs. 42,000 per month + HRA (18%)",
+        "age_limit": "Maximum age limit for all posts is 35 years. || Age relaxation: 3 years for OBC, 5 years for SC/ST/PH/Female. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Interview || Document Verification || Merit List",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bhu.ac.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/08/67890-6a8d293c338ae64131629.pdf"
+    },
+    {
+        "date": "21 Aug 2026",
+        "board": "POWERGRID Vacancy 2026 - 270 Apprentices PostsPOWERGRID Apprentices Vacancy 2026",
+        "title": "Apprentice (ITI-Electrician, Diploma Electrical, Diploma Civil, Graduate Electrical, Graduate Civil)",
+        "qualification": "B.E./B.Tech/B.Sc. (Engg.) in Civil Engineering (full-time, 4-year course) - not notified in SR-I",
+        "last_date": "10 Sep 2026",
+        "total_posts": "270 (computed by summing region-wise totals; see Vacancy section)",
+        "salary": "The monthly stipend structure is uniform across all 10 regions, subject to satisfactory performance and attendance. || An additional ₹2,500 per month is payable if company accommodation is not provided or availed || The DBT portion is provided by the Government of India under the NATS scheme, subject to an active Aadhaar-seeded, DBT-enabled bank account || Apprentices are entitled to 12 days of Casual Leave (pro-rata) and 15 days of Medical Leave for the one-year duration, across all regions",
+        "age_limit": "Minimum age: Candidates must have completed 18 years of age at the time of application, across all regions || Applicants must be Indian citizens and at least 18 years old at the time of application || No maximum age limit or age relaxation details are specified in any of the 10 regional notifications || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "Nil",
+        "selection_process": "Applications are screened in merit order based on eligibility criteria and the qualification prescribed for each trade, region-wise || Incomplete or ineligible applications are summarily rejected without intimation || Reservation for SC/ST/OBC(NCL)/PwBD is applied as per the Apprentices Act, 1961 || Candidates are called for document verification in a ratio of 1:5 against the notified training slots, in merit order || Shortlisted candidates are informed through their registered email; no TA/DA is paid for attending document verification || A final merit list is prepared from candidates found suitable after document verification || Selected candidates must accept a tripartite apprenticeship contract on the NATS/NAPS portal and submit a medical certificate and police verification before engagement || For PwBD candidates in Western Region-II, reservation/relaxation is subject to submission of a medical certificate for permanent disability, and only candidates with not less than 40% of the relevant disability are eligible for the PwBD benefit",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.powergrid.in/",
+        "official_notification": "https://www.powergrid.in/en/rolling-advertisement-for-enagagement-of-apprentices"
+    },
+    {
+        "date": "25 Aug 2026",
         "board": "Atal Residential School Azamgarh Vacancy 2026 - 11 PGT & TGT PostsAtal Residential School Azamgarh PGT & TGT Vacancy 2026",
         "title": "Guest Faculty Teachers (PGT/TGT)",
         "qualification": "Post Graduate Degree with B.Ed. for PGTs, Graduate Degree with B.Ed. and TET for TGTs, specific subject combinations required.",
@@ -192,22 +288,6 @@
         "official_notification": "https://www.allduniv.ac.in/upload/file_collection/Notice%20for%20JRF_RA%20recruitment%20_BRK%20PROJECT%202026_Final.pdf"
     },
     {
-        "date": "21 Aug 2026",
-        "board": "POWERGRID Vacancy 2026 - 270 Apprentices PostsPOWERGRID Apprentices Vacancy 2026",
-        "title": "Apprentice (ITI-Electrician, Diploma Electrical, Diploma Civil, Graduate Electrical, Graduate Civil)",
-        "qualification": "B.E./B.Tech/B.Sc. (Engg.) in Civil Engineering (full-time, 4-year course) - not notified in SR-I",
-        "last_date": "10 Sep 2026",
-        "total_posts": "270 (computed by summing region-wise totals; see Vacancy section)",
-        "salary": "The monthly stipend structure is uniform across all 10 regions, subject to satisfactory performance and attendance. || An additional ₹2,500 per month is payable if company accommodation is not provided or availed || The DBT portion is provided by the Government of India under the NATS scheme, subject to an active Aadhaar-seeded, DBT-enabled bank account || Apprentices are entitled to 12 days of Casual Leave (pro-rata) and 15 days of Medical Leave for the one-year duration, across all regions",
-        "age_limit": "Minimum age: Candidates must have completed 18 years of age at the time of application, across all regions || Applicants must be Indian citizens and at least 18 years old at the time of application || No maximum age limit or age relaxation details are specified in any of the 10 regional notifications || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Nil",
-        "selection_process": "Applications are screened in merit order based on eligibility criteria and the qualification prescribed for each trade, region-wise || Incomplete or ineligible applications are summarily rejected without intimation || Reservation for SC/ST/OBC(NCL)/PwBD is applied as per the Apprentices Act, 1961 || Candidates are called for document verification in a ratio of 1:5 against the notified training slots, in merit order || Shortlisted candidates are informed through their registered email; no TA/DA is paid for attending document verification || A final merit list is prepared from candidates found suitable after document verification || Selected candidates must accept a tripartite apprenticeship contract on the NATS/NAPS portal and submit a medical certificate and police verification before engagement || For PwBD candidates in Western Region-II, reservation/relaxation is subject to submission of a medical certificate for permanent disability, and only candidates with not less than 40% of the relevant disability are eligible for the PwBD benefit",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.powergrid.in/",
-        "official_notification": "https://www.powergrid.in/en/rolling-advertisement-for-enagagement-of-apprentices"
-    },
-    {
         "date": "22 Aug 2026",
         "board": "DEI Vacancy 2026 - 13 Professor, Assistant Professor and More PostsDEI Vacancy 2026",
         "title": "Professor, Associate Professor, Assistant Professor, Yoga Instructor",
@@ -269,7 +349,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "mpesb-group-3-sub-engineer-recruitment-2026-apply-online-for-1040-draftsman-technical-assistant-and-more-posts-3063300"
+        "official_notification": "Not Available"
     },
     {
         "date": "21 Aug 2026",
@@ -653,7 +733,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "mpesb-group-3-sub-engineer-recruitment-2026-apply-online-for-1040-draftsman-technical-assistant-and-more-posts-3063300"
+        "official_notification": "Not Available"
     },
     {
         "date": "14 Aug 2026",
