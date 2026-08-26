@@ -1,6 +1,38 @@
 [
     {
         "date": "26 Aug 2026",
+        "board": "IIT Gandhinagar Vacancy 2026 - 1 Project Assistant I PostsIIT Gandhinagar Project Assistant I Vacancy 2026",
+        "title": "Project Assistant I",
+        "qualification": "B.C.A/ B.Sc. or equivalent",
+        "last_date": "05 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 28,000/ - to Rs.53,000/ - per month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitgn.ac.in",
+        "official_notification": "https://drive.google.com/file/d/1IfgaCTCGWrgzTEpL_wl0xIpUkkkxF_RF/view"
+    },
+    {
+        "date": "26 Aug 2026",
+        "board": "CUG Vacancy 2026 - 1 Doctor PostsCUG Doctor Vacancy 2026",
+        "title": "Doctor (Medical Officer)",
+        "qualification": "MBBS or equivalent from a recognized institution approved by Medical Council of India with minimum two years experience, MD or equivalent",
+        "last_date": "31 Aug 2026",
+        "total_posts": "1",
+        "salary": "Rs. 80000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cug.ac.in",
+        "official_notification": "https://www.cug.ac.in/flipbook/index.php?pdf=recruitment_tender/recruitment/Doctor_appointment.pdf"
+    },
+    {
+        "date": "26 Aug 2026",
         "board": "SVNIT Vacancy 2026 - 1 Administrative Assistant PostsSVNIT Administrative Assistant Vacancy 2026",
         "title": "Administrative Assistant",
         "qualification": "Any Engineering graduate with a degree from the Govt. recognized Institute/University, 03 years of experience working in the Administration of an Office/Govt. Setup, Proficiency in Computer with MS Office or equivalent",
@@ -525,7 +557,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "rfcl-recruitment-2026-apply-online-for-40-engineer-manager-and-officer-posts-3064788"
+        "official_notification": "Not Available"
     },
     {
         "date": "13 Aug 2026",
