@@ -1,6 +1,86 @@
 [
     {
         "date": "29 Aug 2026",
+        "board": "IIT Roorkee Vacancy 2026 - 1 Junior Research Fellow PostsIIT Roorkee Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow",
+        "qualification": "M.Tech. in Chemical Engineering/Chemical Technology, Master's in Chemistry",
+        "last_date": "07 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 - 42000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/PPE/2026/adv20082026.pdf"
+    },
+    {
+        "date": "29 Aug 2026",
+        "board": "IIT BHU Vacancy 2026 - 1 Junior Research Assistant PostsIIT BHU Junior Research Assistant Vacancy 2026",
+        "title": "Junior Research Assistant (JRA)",
+        "qualification": "B.E. / B.Tech in Electrical Engineering, Electronics & Communication Engineering",
+        "last_date": "21 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 28,000/- per month",
+        "age_limit": "Maximum Age Limit: 28 years. || Age relaxation applicable in accordance with Govt. of India regulations. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitbhu.ac.in/",
+        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_eee_jra_upcst_arupkr.pdf"
+    },
+    {
+        "date": "29 Aug 2026",
+        "board": "KRIBHCO Vacancy 2026 - Agronomist PostsKRIBHCO Agronomist Vacancy 2026",
+        "title": "Agronomist",
+        "qualification": "B.Sc. Agriculture with minimum two years experience in potato contract farming / potato seed production, 12th Pass in first Division with minimum two years experience in potato contract farming / potato seed production",
+        "last_date": "10 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.kribhco.net/",
+        "official_notification": "https://www.kribhco.net/pages/other/Agronomist.pdf"
+    },
+    {
+        "date": "29 Aug 2026",
+        "board": "AIIMS Gorakhpur Vacancy 2026 - 42 Senior Resident PostsAIIMS Gorakhpur Senior Resident Vacancy 2026",
+        "title": "Senior Resident",
+        "qualification": "Post graduate Medical Degree in respective discipline.",
+        "last_date": "08 Sep 2026",
+        "total_posts": "42",
+        "salary": "Pay Band: Rs. 67700/- (Level-11) plus usual allowances including NPA.",
+        "age_limit": "Maximum Age Limit: 45 years || Age Relaxation:SC/ST: 5 yearsOBC: 3 yearsPwBD (General): 10 yearsPwBD (OBC): 13 yearsPwBD (SC/ST): 15 years || SC/ST: 5 years || OBC: 3 years || PwBD (General): 10 years || PwBD (OBC): 13 years || PwBD (SC/ST): 15 years || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsgorakhpur.edu.in",
+        "official_notification": "https://aiimsgorakhpur.edu.in/wp-content/uploads/2026/08/SR-Advertisement-2-1.pdf"
+    },
+    {
+        "date": "29 Aug 2026",
+        "board": "Banda Anganwadi Vacancy 2026 - 122 Anganwadi Worker PostsBanda Anganwadi Anganwadi Worker Vacancy 2026",
+        "title": "Anganwadi Worker",
+        "qualification": "122 Posts",
+        "last_date": "22 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Selection is on a merit-list basis – there is no written examination or interview mentioned in the notification. Key points: || Merit is determined from marks scored in qualifications from Intermediate (12th standard) up to Post-Graduate level. || Income eligibility is assessed against the rural/urban poverty-line income limits fixed under the Revenue Section-9 Government Order dated 30.09.2011 and the Social Welfare Section-2 (UP Government) Order No. 22/2015/2123/26-2-2015 dated 14.09.2015 (as amended); the merit list within the applicable income limit is prepared and selection is carried out accordingly. || For widowed candidates, a death certificate of the spouse and a copy of the family register, attested by the Gram Panchayat Adhikari (or the concerned Nagar Nikay for urban areas), is required. || For legally divorced or deserted (Parityakta) women, a valid legal order issued by a competent court is required.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
+    },
+    {
+        "date": "29 Aug 2026",
         "board": "MNNIT Allahabad Vacancy 2026 - 1 JRA/SRA/RA PostsMNNIT Allahabad JRA/SRA/RA Vacancy 2026",
         "title": "JRA/SRA/RA (On Contract)",
         "qualification": "B.E./B.Tech./M.E./M.Tech. in Mechanical Engineering, Chemical Engineering, Electrical and Electronics Engineering, Energy Engineering, or other relevant specializations.",
@@ -365,7 +445,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "meghalaya-home-guards-recruitment-2026-apply-offline-for-558-posts-3065338"
+        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
     },
     {
         "date": "26 Aug 2026",
@@ -685,7 +765,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "meghalaya-home-guards-recruitment-2026-apply-offline-for-558-posts-3065338"
+        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
     },
     {
         "date": "21 Aug 2026",
@@ -989,7 +1069,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "meghalaya-home-guards-recruitment-2026-apply-offline-for-558-posts-3065338"
+        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
     },
     {
         "date": "14 Aug 2026",
