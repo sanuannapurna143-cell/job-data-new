@@ -1,6 +1,22 @@
 [
     {
         "date": "31/08/2026",
+        "board": "Southern Railway",
+        "title": "Act Apprentice",
+        "qualification": "Fresher Category: || Fitter, Painter, Welder - Passed 10th Class (minimum 50% aggregate) under the 10+2 system or equivalent. || Medical Laboratory Technician (Radiology/Pathology/Cardiology) - Passed 12th Class (minimum 50% aggregate) with Physics, Chemistry, and Biology. || Ex-ITI Category: || Most trades (Fitter, Machinist, MMV, Turner, Diesel Mechanic, Carpenter, Painter, Welder(G&E), Wireman, Advance Welder, Plumber, Draughtsman-Civil, Instrument Mechanic, Mech. R&AC, Gas Cutter, MMTM, Structural Welder) - Passed 10th Class (min. 50%) + ITI course in the relevant trade with an NCVT/SCVT certificate. || Electrician - Same as above, with Science as a subject in 10th. || Electronics Mechanic - Same as above, with Science (Physics & Chemistry) and Mathematics. || Secretarial Assistant & Stenographer (English) - Passed 12th Class + ITI course with NCVT/SCVT certificate. || ICTSM - Passed 10th Class + ITI course with NCVT/SCVT certificate. || COPA/PASAA - Passed 10th Class (min. 50%) + National Trade Certificate in Computer Operator and Programming Assistant. || Note: The minimum 50% requirement in 10th standard does not apply to SC/ST/PwBD candidates. Course Completed Act Apprentices (CCAAs), Engineering Graduates/Diploma holders, or Vocational Certificate holders with one year or more of training/job experience after these qualifications are not eligible.",
+        "last_date": "27-09-2026",
+        "total_posts": "4471",
+        "salary": "Stipend increases by 10% in the second year of training and a further 15% in the third year, over the prescribed minimum.",
+        "age_limit": "As on the date of notification (28-08-2026): || Minimum age: 15 years completed || Maximum age: 22 years (Fresher/Ex-ITI) / 24 years (MLT) || Upper age relaxation: 3 years for OBC-(NCL), 5 years for SC/ST, 10 years for PwBD || Combined relaxation for PwBD candidates: UR/EWS + PwBD = 10 years; OBC-(NCL) + PwBD = 13 years; SC/ST + PwBD = 15 years || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
+        "application_fee": "Processing fee of Rs. 100/- (non-refundable), payable online. No fee is required for SC/ST/PwBD/Women candidates.",
+        "selection_process": "Selection is based on a Merit List, prepared as follows: || Fresher Category: Matriculation marks converted to 200 (minimum 50% aggregate required, except SC/ST/PwBD). || Ex-ITI Category: Matriculation marks converted to 100 + ITI marks converted to 100 = 200 total, with equal weightage to both. || MLT Category: Higher Secondary marks (Physics, Chemistry, Maths & Biology) converted to 200. || In case of a tie, the older candidate is preferred; if birth dates are also the same, the candidate who passed Matriculation earlier is preferred.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sr.indianrailways.gov.in/",
+        "official_notification": "https://sronline.etrpindia.com/rrcchennaiapprentice26/notifications/Act%20Apprentices%20Notification%202026-27%20with%20enclosures.pdf"
+    },
+    {
+        "date": "31/08/2026",
         "board": "CONCOR",
         "title": "Management Trainee & Assistant Officer     – 77 Posts",
         "qualification": "Graduate with PGDCA or BCA or B.Sc (Hons) in Computer Science or DOEACC 'A' Level, min. 50% marks, plus 3 years' experience in IT support/software applications (OR 1 year for candidates holding an MCA/B.Tech/BE (Computer Science/Computer Engg.)/M.Sc(IT)/M.Sc(Computer Science)/DOEACC B level, min. 50% marks).",

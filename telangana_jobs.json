@@ -1,6 +1,54 @@
 [
     {
         "date": "31 Aug 2026",
+        "board": "District Court Warangal Vacancy 2026 - 1 Senior Superintendent (Head Clerk) PostsDistrict Court Warangal Senior Superintendent (Head Clerk) Vacancy 2026",
+        "title": "Senior Superintendent (Head Clerk)",
+        "qualification": "Retired from Judicial Ministerial service in the category Senior Superintendent",
+        "last_date": "21 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 40000 Per Month",
+        "age_limit": "Max: 65 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://warangal.dcourts.gov.in/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0451e6d6e679953c6311757004d8cb/uploads/2026/08/2026082950.pdf"
+    },
+    {
+        "date": "31 Aug 2026",
+        "board": "WCDW Rangareddy Vacancy 2026 - 125 Anganwadi Teacher PostsWCDW Rangareddy Anganwadi Teacher Vacancy 2026",
+        "title": "Anganwadi Teacher (AWT)",
+        "qualification": "Candidates must have passed Intermediate (Class 12) as the minimum qualification. || For the Anganwadi Helper/Aya post, if Intermediate-qualified candidates are not available for a particular post, candidates who have passed 10th class (SSC) will be considered eligible, as per the notification.",
+        "last_date": "10 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Candidates must be between 18 and 35 years of age as on 01.07.2026. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://mis.tgwdcw.in/",
+        "official_notification": "https://mis.tgwdcw.in/AWTNotification2026/RR_NOTIFICATION_31.08.2026.pdf"
+    },
+    {
+        "date": "31 Aug 2026",
+        "board": "Government Area Hospital Madhira Vacancy 2026 - 1 Gynecology Specialist PostsGovernment Area Hospital Madhira Gynecology Specialist Vacancy 2026",
+        "title": "Gynecology Specialist (OBG)",
+        "qualification": "MBBS with MS (OB&GY)",
+        "last_date": "03 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 100000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://khammam.telangana.gov.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2026/08/17879989802183.pdf"
+    },
+    {
+        "date": "31 Aug 2026",
         "board": "IIT Hyderabad Vacancy 2026 - 5 Duty Medical Officer and Staff Nurse PostsIIT Hyderabad Vacancy 2026",
         "title": "Duty Medical Officer and Staff Nurse",
         "qualification": "MBBS with internship and Medical Council registration, Intermediate/10+2 with GNM or B.Sc Nursing",
@@ -272,38 +320,6 @@
         "official_notification": "https://mis.tgwdcw.in/AWTNotification2026/JAYASHANKAR_BHUPALAPALLI_NOTIFICATION_21.08.2026.jpeg"
     },
     {
-        "date": "22 Aug 2026",
-        "board": "TISS Vacancy 2026 - 1 Senior Executive Assistant PostsTISS Senior Executive Assistant Vacancy 2026",
-        "title": "Senior Executive Assistant – Projects & Accounts",
-        "qualification": "Bachelor Degree, Master Degree with 5 years experience in Administration, Projects and Accounts",
-        "last_date": "31 Aug 2026",
-        "total_posts": "1",
-        "salary": "Rs. 40000 Per Month",
-        "age_limit": "Maximum Age Limit: 45 years || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.tiss.ac.in",
-        "official_notification": "https://tiss.ac.in/uploads/files/18.08.2026_SR_EXECUTIVE_ASSISTANT.pdf"
-    },
-    {
-        "date": "19 Aug 2026",
-        "board": "NIT Warangal Vacancy 2026 - 1 Junior Research Fellow PostsNIT Warangal Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "B.E./B.Tech in Mechanical Engineering/Production/Manufacturing/Aerospace Engineering with first class, ME/MTech in Manufacturing/Computer Integrated/Materials science/Production/CAD CAM/Design with first class",
-        "last_date": "31 Aug 2026",
-        "total_posts": "1",
-        "salary": "Rs. 31000 - 37000 Per Month",
-        "age_limit": "Max: 30 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://nitw.ac.in/",
-        "official_notification": "https://nitw.ac.in/api/static/files/JRF_Notification_2026-8-17-17-52-42.pdf"
-    },
-    {
         "date": "19 Aug 2026",
         "board": "NIT Warangal Vacancy 2026 - 1 Junior Research Fellow PostsNIT Warangal Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow",
@@ -334,22 +350,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nitw.ac.in",
         "official_notification": "https://nitw.ac.in/api/static/files/JRF_JEWDAS_TWO_2026-8-18-15-45-42.pdf"
-    },
-    {
-        "date": "19 Aug 2026",
-        "board": "ESIC Vacancy 2026 - 67 Faculty and Senior Resident PostsESIC Vacancy 2026",
-        "title": "Faculty and Senior Resident",
-        "qualification": "The notification states that academic qualifications for Faculty and Senior Resident posts are as per the Medical Institutions (Qualifications of Faculty) Regulations 2025 (NMC Gazette Notification dated 30.06.2025). Specific subject-wise qualification lists (for example, MD/MS/DNB requirements for each individual specialty) are not enumerated in this notification, so candidates should refer to the NMC 2025 regulations and the official advertisement for exact qualification requirements before applying. || Two specific transition-period qualification pathways are mentioned in the notification: || As per NMC TEQ dated 14.02.2022, a DNB (Broad or Super Specialty) is equivalent to the corresponding MD/MS or DM/M.Ch qualification when granted at an institution with an attached hospital of 500+ beds; otherwise, one additional year of senior residency in a medical college is required for teaching-post equivalence. || Candidates with experience as Associate Professor/Assistant Professor may also apply for the post of Professor/Associate Professor. Such candidates will be considered only if no eligible candidate at the required experience level applies; if selected, they will be appointed at the corresponding lower pay scale on the recommendation of the Selection Board.",
-        "last_date": "31 Aug 2026",
-        "total_posts": "Not Available",
-        "salary": "ESIC has adopted a Consolidated Remuneration structure for Contractual Faculty (Super Specialist, Specialist) and Residents/Tutors, as per applicable ESIC Headquarters office memoranda. || Consolidated remuneration for cadres other than regular Senior Resident includes NPA@20%, DA@60%, and HRA@27%; a transport allowance is also payable. These amounts are subject to revision with changes in Dearness Allowance rates as per Central Government policy. No private practice is allowed during the tenure of service in ESIC.",
-        "age_limit": "The crucial date for determining age limit, work experience, and other eligibility criteria is the date of the Walk-in Interview. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://esic.gov.in/",
-        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_Walk_in_Interview_ndash_Recruitment_of_Faculty_and_Senior_Residents_on_Contractual_basis_English_1787055271.pdf"
     },
     {
         "date": "18 Aug 2026",
@@ -400,22 +400,6 @@
         "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtRCI17082026.pdf"
     },
     {
-        "date": "18 Aug 2026",
-        "board": "IIT Hyderabad Vacancy 2026 - 1 Junior Project Assistant PostsIIT Hyderabad Junior Project Assistant Vacancy 2026",
-        "title": "Junior Project Assistant",
-        "qualification": "BTech in Mechanical/Mechatronics/Robotics/Electrical/ECE with 60% marks and relevant experience",
-        "last_date": "31 Aug 2026",
-        "total_posts": "1",
-        "salary": "Rs. 18200 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iith.ac.in/",
-        "official_notification": "https://www.iith.ac.in/assets/files/careers/staff/Advertisement-for-Junior-Project-Assistant.pdf"
-    },
-    {
         "date": "17 Aug 2026",
         "board": "IIT Hyderabad Vacancy 2026 - 1 Research Associate-I PostsIIT Hyderabad Research Associate-I Vacancy 2026",
         "title": "Research Associate I",
@@ -446,22 +430,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.niab.org.in/",
         "official_notification": "https://www.niab.org.in/Notifications/Advt_18_2026/Notification_18_2026.pdf"
-    },
-    {
-        "date": "12 Aug 2026",
-        "board": "Indbank Vacancy 2026 - 14 Relationship Manager and Dealer PostsIndbank Vacancy 2026",
-        "title": "Relationship Manager and Dealer - For Stock Broking Terminals",
-        "qualification": "MBA in Marketing/Finance from a reputed university. NISM certification or equivalent capital market qualification is preferred.",
-        "last_date": "31 Aug 2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "21 to 35 years / 25 to 35 years depending on the post",
-        "application_fee": "Not Available",
-        "selection_process": "Screening of applications || Identification of eligible candidates || Personal Interview || Final selection by the Committee of the company || Only candidates who meet the eligibility criteria for appearing in the Personal Interview will be informed through the email address provided in their application.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.indbankonline.com/",
-        "official_notification": "https://www.indbankonline.com/v/?v=2026/08/Advertisement-for-the-post-of-Relationshipmanager-Dealer-dated-10.08.2026.pdf"
     },
     {
         "date": "07 Aug 2026",
@@ -510,21 +478,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.tgprb.in/",
         "official_notification": "https://www.tgprb.in/SI_PC_2026/PC%20(Civil%20et%20al)%202026%20Notification%20dated%2029-07-2026.pdf"
-    },
-    {
-        "date": "04 Aug 2026",
-        "board": "NCRA TIFR Vacancy 2026 - 8 Clerk, Security Guard and More PostsNCRA TIFR Vacancy 2026",
-        "title": "Post Name",
-        "qualification": "Passed S.S.C. or equivalent; Firefighting Training Certificate/NCC Certificate/Civil Defence training/Home Guard certificate (not applicable to Defence/CAPF candidates); knowledge of personal computers; minimum 3 years' experience in Defence/CAPF/Security work in a reputed organization; specified physical fitness and physical efficiency test standards apply.",
-        "last_date": "31 Aug 2026",
-        "total_posts": "Not Available",
-        "salary": "06/01",
-        "age_limit": "Age relaxation is applicable as per government rules for reserved categories. The notification states age will be reckoned as on 31 August 2026.",
-        "application_fee": "The official notification does not mention any application fee details. This information is not available in the source document; candidates should refer to the official application format on the NCRA website for the latest confirmation before applying.",
-        "selection_process": "The notification refers candidates to a separate linked document for the detailed selection procedure rather than describing the process within the advertisement text itself. Specific stages (such as written test, skill test, or interview) are not detailed in the notification provided. Candidates should check the \"Selection Procedure\" link on the official NCRA recruitment page for exact details.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ncra.tifr.res.in/",
-        "official_notification": "https://www.ncra.tifr.res.in/storage/jobs/Q09GzOF3ZSjebMySzHlvAh4QRwjo1cu7RdNlcGwb.pdf"
     }
 ]
