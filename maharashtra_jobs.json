@@ -1,5 +1,101 @@
 [
     {
+        "date": "31 Aug 2026",
+        "board": "IIPS Vacancy 2026 - 1 Senior Research Officer PostsIIPS Senior Research Officer Vacancy 2026",
+        "title": "Senior Research Officer (SRO)",
+        "qualification": "Ph.D. in Statistics/Biostatistics/Mathematics/Demography/Population Studies, Degree/Diploma/Certificate in Population Studies/Demography and Statistics/Biostatistics/Mathematics",
+        "last_date": "04 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 - 70000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iipsindia.ac.in",
+        "official_notification": "https://www.iipsindia.ac.in/sites/default/files/job-listing/Advt_for_Senior_Research_Officer_2026_August_17_0.pdf"
+    },
+    {
+        "date": "31 Aug 2026",
+        "board": "WCD Amravati East Vacancy 2026 - 13 Anganwadi Worker, Anganwadi Helper PostsWCD Amravati East Vacancy 2026",
+        "title": "Anganwadi Worker, Anganwadi Helper",
+        "qualification": "12th Pass",
+        "last_date": "17 Sep 2026",
+        "total_posts": "13",
+        "salary": "Not Available",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 35 years || Age Relaxation: Widows up to 40 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://amravati.gov.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s302522a2b2726fb0a03bb19f2d8d9524d/uploads/2026/08/17878179349159.pdf"
+    },
+    {
+        "date": "27 Aug 2026",
+        "board": "India Post Vacancy 2026 - 23757 Gramin Dak Sevak PostsIndia Post Gramin Dak Sevak Vacancy 2026",
+        "title": "Brief Role",
+        "qualification": "Secondary School Examination (SSE)/10th standard pass certificate, with passing marks in Mathematics and English, from a Board recognized by the Government of India/State Governments/Union Territories. Candidates with equivalent qualification from any other board are not eligible.",
+        "last_date": "21 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "GDS are not regular Central Government employees; they are paid emoluments in the form of Time Related Continuity Allowance (TRCA), which carries an annual increase of 3% (subject to fulfilment of conditions under the GDS Rules), along with Dearness Allowance on TRCA as declared by the Government of India from time to time. GDS are also entitled to GDS Gratuity and the Service Discharge Benefit Scheme (akin to the National Pension System for regular employees).",
+        "age_limit": "The minimum age is 18 years and the maximum age is 40 years, to be determined as on the last date of submission of applications, subject to the following relaxations in the upper age limit. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "A fee of ₹100/- (Rupees One Hundred only) is payable by applicants for all posts notified in their choice of Division. Payment can be made online through recognized Credit/Debit cards, Net Banking, or UPI (usage charges as applicable will be levied). The fee, once paid, is non-refundable, and payment must be completed strictly within the application closing date and time (up to 1700 hrs). || Fee-exempted categories:All female applicants, SC/ST applicants, PwBD applicants, and Transwomen applicants || Applicants who are exempted may submit their application without making any payment",
+        "selection_process": "There is no written examination for GDS engagement. Selection is entirely merit-based, computed from the candidate's Class 10 (SSE) academic record. || Applicants are shortlisted on the basis of a system-generated merit list || The merit list is prepared from marks obtained (or grades/points converted to marks) in the Secondary School Examination (10th standard), aggregated to a percentage up to 4 decimal places || Where only grades are given, marks are computed using a multiplication factor of 9.5 against the grade point (e.g., A1 = Grade Point 10 × 9.5); where CGPA is given, marks are computed as CGPA × 9.5, and the higher of the two (individual subject grades vs. CGPA) is taken if both are provided || Candidates must enter marks/grades exactly as shown on their marksheet - mixing marks and grades incorrectly, or entering grades where marks are required, can lead to cancellation/disqualification || Tie-breaking in the merit list follows a fixed priority order based on date of birth (older preferred) followed by category and gender combinations (ST trans-woman, ST female, SC trans-woman, SC female, and so on down the prescribed order), with the Department reserving the right to apply additional tie-breaking criteria || Shortlisted candidates must undergo physical verification of original documents by the Engaging Authority (Divisional/Unit Head), followed by an offer of provisional engagement, pre-engagement formalities (including 3 days of basic training and arranging accommodation), and final regularization after antecedent and document verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.indiapost.gov.in",
+        "official_notification": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf"
+    },
+    {
+        "date": "31 Aug 2026",
+        "board": "CSIR NEERI Vacancy 2026 - 1 Project Assistant I PostsCSIR NEERI Project Assistant I Vacancy 2026",
+        "title": "Project Assistant-I",
+        "qualification": "SSC/10th plus ITI from a recognized Institute",
+        "last_date": "07 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 18000 Per Month",
+        "age_limit": "Maximum Age: 35 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.neeri.res.in/",
+        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/1787899521_RECRUIT_CRI_3D_CIECE_28082026.pdf"
+    },
+    {
+        "date": "31 Aug 2026",
+        "board": "BOI Vacancy 2026 - 205 Civil Engineer, Officer and More PostsBOI Vacancy 2026",
+        "title": "Officers in various Specialist streams (48 posts, Scale I to IV)",
+        "qualification": "B.E./B.Tech in Computer Science / Information Technology / Electronics & Communication OR MCA (3 years Full-time) OR M.Sc. in Computer Science / Information Technology. Mandatory (At least One): OCP Java SE Programmer-11 & above / equivalent React JS certification, Meta Front-End Developer Professional Certificate / equivalent Node JS certification, MERN Stack certification, or Certified Professional Python Programmer. Desirable: AWS Machine Learning Specialty / Azure AI Engineer (AI-102), TensorFlow Developer Certificate, Gen AI/Prompt Engineering certification, NLP/LangChain experience, CKA, or DevSecOps Foundation (DSOF).",
+        "last_date": "25 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Basic pay is supplemented by other allowances and perquisites as applicable under Bank policy.",
+        "age_limit": "Minimum and maximum age are calculated as on 01.08.2026 and vary by post - from 21-30 years for Scale I Officer posts up to 28-42 years for Scale IV Chief Manager posts. Upper age relaxation is available as follows: SC/ST – 5 years; OBC (non-creamy layer) – 3 years; PwBD – 10 years; Ex-Servicemen/ECOs/SSCOs – 5 years; persons affected by 1984 riots – 5 years. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Fee is payable online only, from 10.09.2026 to 25.09.2026, via Debit/Credit Card, Internet Banking, UPI, or QR code. Bank transaction charges are borne by the candidate.",
+        "selection_process": "Online Examination: English Language (25 marks, qualifying only) + Professional Knowledge relevant to the post (100 marks), composite duration 100 minutes || Minimum qualifying marks: 35% for General/EWS (30% for SC/ST/OBC/PWD) || Personal Interview: Maximum 100 marks; qualifying 50% for General/EWS, 45% for SC/ST/OBC/PWD; candidates called at approximately 1:3 ratio to vacancies || Final weightage: Online Examination and Interview combined at 60:40 || Bank may, at its discretion, select solely through Interview without an online exam",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bankofindia.bank.in",
+        "official_notification": "https://bankofindia.bank.in/documents/20121/28761619/FINAL_NOTICE_SPECIALIST_OFFICER-01082026.pdf"
+    },
+    {
+        "date": "31 Aug 2026",
+        "board": "IBPS Vacancy 2026 - Officer,Office Assistant PostsIBPS Vacancy 2026",
+        "title": "Office Assistant (Multipurpose), Officer Scale-I, Officer Scale-II & Officer Scale-III",
+        "qualification": "Bachelor's Degree / Relevant Professional Qualification",
+        "last_date": "21 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Office Assistant (Multipurpose):18 to 28 years || Officer Scale-I (Assistant Manager):Above 18 years and below 30 years || Officer Scale-II (Manager):Above 21 years and below 32 years || Officer Scale-III (Senior Manager):Above 21 years and below 40 years || Age relaxation for reserved-category candidates will be applicable as per the rules mentioned in the detailed IBPS CRP RRBs-XV notification. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Not Available",
+        "selection_process": "Office Assistant (Multipurpose):Preliminary Examination followed by Main Examination. There is no interview for the Office Assistant post. || Officer Scale-I:Preliminary Examination, Main Examination and Interview. || Officer Scale-II & III:Single Online Examination followed by Interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ibps.in/",
+        "official_notification": "Not Available"
+    },
+    {
         "date": "29 Aug 2026",
         "board": "Ratnagiri District Court Vacancy 2026 - 1 Contractual Employee PostsRatnagiri District Court Contractual Employee Vacancy 2026",
         "title": "Contractual Employee for e-Seva Kendra Port Cabins",
@@ -256,22 +352,6 @@
         "official_notification": "https://www.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Personnel%20Officer/Recruitment%20Notice/Honarary%20adv12.pdf"
     },
     {
-        "date": "27 Aug 2026",
-        "board": "India Post Vacancy 2026 - 23757 Gramin Dak Sevak PostsIndia Post Gramin Dak Sevak Vacancy 2026",
-        "title": "Brief Role",
-        "qualification": "Secondary School Examination (SSE)/10th standard pass certificate, with passing marks in Mathematics and English, from a Board recognized by the Government of India/State Governments/Union Territories. Candidates with equivalent qualification from any other board are not eligible.",
-        "last_date": "21 Sep 2026",
-        "total_posts": "Not Available",
-        "salary": "GDS are not regular Central Government employees; they are paid emoluments in the form of Time Related Continuity Allowance (TRCA), which carries an annual increase of 3% (subject to fulfilment of conditions under the GDS Rules), along with Dearness Allowance on TRCA as declared by the Government of India from time to time. GDS are also entitled to GDS Gratuity and the Service Discharge Benefit Scheme (akin to the National Pension System for regular employees).",
-        "age_limit": "The minimum age is 18 years and the maximum age is 40 years, to be determined as on the last date of submission of applications, subject to the following relaxations in the upper age limit. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
-        "application_fee": "A fee of ₹100/- (Rupees One Hundred only) is payable by applicants for all posts notified in their choice of Division. Payment can be made online through recognized Credit/Debit cards, Net Banking, or UPI (usage charges as applicable will be levied). The fee, once paid, is non-refundable, and payment must be completed strictly within the application closing date and time (up to 1700 hrs). || Fee-exempted categories:All female applicants, SC/ST applicants, PwBD applicants, and Transwomen applicants || Applicants who are exempted may submit their application without making any payment",
-        "selection_process": "There is no written examination for GDS engagement. Selection is entirely merit-based, computed from the candidate's Class 10 (SSE) academic record. || Applicants are shortlisted on the basis of a system-generated merit list || The merit list is prepared from marks obtained (or grades/points converted to marks) in the Secondary School Examination (10th standard), aggregated to a percentage up to 4 decimal places || Where only grades are given, marks are computed using a multiplication factor of 9.5 against the grade point (e.g., A1 = Grade Point 10 × 9.5); where CGPA is given, marks are computed as CGPA × 9.5, and the higher of the two (individual subject grades vs. CGPA) is taken if both are provided || Candidates must enter marks/grades exactly as shown on their marksheet - mixing marks and grades incorrectly, or entering grades where marks are required, can lead to cancellation/disqualification || Tie-breaking in the merit list follows a fixed priority order based on date of birth (older preferred) followed by category and gender combinations (ST trans-woman, ST female, SC trans-woman, SC female, and so on down the prescribed order), with the Department reserving the right to apply additional tie-breaking criteria || Shortlisted candidates must undergo physical verification of original documents by the Engaging Authority (Divisional/Unit Head), followed by an offer of provisional engagement, pre-engagement formalities (including 3 days of basic training and arranging accommodation), and final regularization after antecedent and document verification",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.indiapost.gov.in",
-        "official_notification": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf"
-    },
-    {
         "date": "11 Aug 2026",
         "board": "IOCL Vacancy 2026 - 470 Engineers, Officers and More PostsIOCL Vacancy 2026",
         "title": "Engineers, Officers and More",
@@ -285,7 +365,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
+        "official_notification": "Not Available"
     },
     {
         "date": "21 Jul 2026",
@@ -346,10 +426,10 @@
         "age_limit": "OBC (Non-Creamy Layer) candidates: 3 years, when applying against the OBC-NCL reserved post. || SC/ST candidates: 5 years, when applying against the SC/ST reserved post. || Ex-Servicemen: relaxation is discretionary.",
         "application_fee": "Not Available",
         "selection_process": "Candidates report and register with the nominated KRCL official at the walk-in venue. || A Group Discussion (GD) or another elimination round (such as a written test) may be introduced depending on the number of candidates; only those who clear this round proceed further. || After preliminary screening of the applications submitted in person, only provisionally eligible candidates are interviewed by a nominated Committee. || The final merit list is drawn based on interview performance, qualification, and post-qualification experience. || The decision of the Nominated Committee of KRCL is final and binding.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
+        "official_notification": "Not Available"
     },
     {
         "date": "28 Aug 2026",
@@ -445,7 +525,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
+        "official_notification": "Not Available"
     },
     {
         "date": "27 Aug 2026",
@@ -541,7 +621,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
+        "official_notification": "Not Available"
     },
     {
         "date": "27 Aug 2026",
@@ -653,7 +733,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
+        "official_notification": "Not Available"
     },
     {
         "date": "26 Aug 2026",
@@ -749,7 +829,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
+        "official_notification": "Not Available"
     },
     {
         "date": "31 Jul 2026",
@@ -928,22 +1008,6 @@
         "official_notification": "https://www.npcil.nic.in/WriteReadData/userfiles/file/Advt_20082026_01.pdf"
     },
     {
-        "date": "21 Aug 2026",
-        "board": "Sindhudurg DCC Bank Vacancy 2026 - 32 Peon PostsSindhudurg DCC Bank Peon Vacancy 2026",
-        "title": "Shipai (Peon)",
-        "qualification": "Candidates must have passed at least the 12th standard (HSC) examination from a recognised board.",
-        "last_date": "30 Aug 2026",
-        "total_posts": "Not Available",
-        "salary": "Selected candidates will draw a starting salary of Rs. 14,000/- per month during the probation period, which is fixed at 18 months . Pay revision after probation will be as per the bank's applicable service rules.",
-        "age_limit": "Minimum age: 21 years || Maximum age: 40 years || Eligible candidates must be born between 30/08/1986 and 30/08/2005 (both dates inclusive). || Candidates born before 30/08/1986 or after 30/08/2005 are not eligible to apply. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "The application fee must be paid online through the payment gateway on the official website. Registration is not considered complete without successful fee payment, and candidates who do not pay the fee will not be eligible for further process.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://sindhudurgdcc.bank.in/",
-        "official_notification": "https://sindhudurgdcc.bank.in/public/uploads/Peon-Advertise-2026.pdf"
-    },
-    {
         "date": "20 Aug 2026",
         "board": "TISS Vacancy 2026 - 1 Junior Engineer PostsTISS Junior Engineer Vacancy 2026",
         "title": "Junior Engineer (Electrical)",
@@ -973,7 +1037,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
+        "official_notification": "Not Available"
     },
     {
         "date": "20 Aug 2026",
@@ -1309,7 +1373,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
+        "official_notification": "Not Available"
     },
     {
         "date": "14 Aug 2026",
@@ -1357,23 +1421,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "beml-non-executive-recruitment-2026-apply-online-for-10-posts-3065380"
-    },
-    {
-        "date": "13 Aug 2026",
-        "board": "DIBD Vacancy 2026 - 1 Engagement Manager PostsDIBD Engagement Manager Vacancy 2026",
-        "title": "Engagement Manager",
-        "qualification": "Full time B.S./ B.Tech./ B.E. or equivalent or B.Sc. (IT/ CS) with Post Graduation; MBA/ MTech preferable",
-        "last_date": "30 Aug 2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Maximum Age Limit: 58 years. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
-        "application_fee": "Not Available",
-        "selection_process": "Screening || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bhashini.gov.in/",
-        "official_notification": "https://dicmedia.digitalindiacorporation.in/Engagement-Manager-Mumbai-August-2026-1.pdf"
+        "official_notification": "Not Available"
     },
     {
         "date": "10 Aug 2026",
@@ -1456,22 +1504,6 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/654754-6a745e4f9469073068413.pdf"
     },
     {
-        "date": "04 Aug 2026",
-        "board": "RITES Vacancy 2026 - 03 IT Professionals PostsRITES IT Professionals Vacancy 2026",
-        "title": "Deputy General Manager, Senior Manager & Manager",
-        "qualification": "Bachelor’s Degree in Computer Engineering/Technology, Computer Science, Computer Applications, Information Technology, Electronics, Electronics & Telecommunication, Electronics & Communication, Electronics & Instrumentation or related Post Graduate Degree fields.",
-        "last_date": "30 Aug 2026",
-        "total_posts": "Not Available",
-        "salary": "₹70,000 – ₹2,00,000",
-        "age_limit": "The upper age limit varies according to the post. Age, experience and eligibility conditions will be calculated as on the last date of application submission, i.e., 24 August 2026.",
-        "application_fee": "Candidates need to pay the application fee during the online application process. The category-wise fee details are mentioned below.",
-        "selection_process": "Document Scrutiny || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.rites.com/",
-        "official_notification": "https://www.rites.com/Upload/Career/IT_Adv_pdf-2026-Aug-03-15-2-58.pdf"
-    },
-    {
         "date": "05 Aug 2026",
         "board": "DoT Vacancy 2026 - 2 Junior Engineer PostsDoT Junior Engineer Vacancy 2026",
         "title": "Junior Engineer (Telecom)",
@@ -1502,22 +1534,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ncra.tifr.res.in/",
         "official_notification": "https://www.ncra.tifr.res.in/storage/jobs/mFSHDzVSbVAip2RgVF9V36TQxDAaYDRzycI30Q2u.pdf"
-    },
-    {
-        "date": "04 Aug 2026",
-        "board": "MRVC Vacancy 2026 - 1 Assistant Manager PostsMRVC Assistant Manager Vacancy 2026",
-        "title": "Assistant Manager (Design)",
-        "qualification": "B.E/ B.Tech in Civil Engineering with minimum 60% marks (M. Tech or ME (Structure)) / (Structural Engineering)/Civil with Structural Engineering.",
-        "last_date": "30 Aug 2026",
-        "total_posts": "1",
-        "salary": "IDA Equivalent E-2 grade Rs.50,000-1,60,000",
-        "age_limit": "Upper age limit not exceed 35 years as on the date of issue of Vacancy Notification.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.mrvc.indianrailways.gov.in",
-        "official_notification": "https://mrvc.indianrailways.gov.in/uploads/images/Notification%20of%20AM%20Design%20E2%20on%20contract%2031072026.pdf"
     },
     {
         "date": "04 Aug 2026",
