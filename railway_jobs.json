@@ -1,5 +1,37 @@
 [
     {
+        "date": "01/09/2026",
+        "board": "RRC WR",
+        "title": "Sports Quota     – 64 Posts",
+        "qualification": "Passed 12th (+2 stage) or equivalent from a recognized Board OR Matriculation plus Act Apprenticeship OR Matriculation plus ITI approved by NCVT/SCVT",
+        "last_date": "30-09-2026",
+        "total_posts": "64",
+        "salary": "2800/2400",
+        "age_limit": "Minimum 18 years, maximum 25 years as on 01-01-2027",
+        "application_fee": "Fee must be paid online through the payment gateway integrated with the application; no edits are allowed after payment. || Payment methods: Debit Card / Credit Card / Internet Banking / UPI, etc. Transaction charges, if any, are borne by the candidate. || Applications without fee payment will be summarily rejected. || Minorities means Muslims, Christians, Sikhs, Buddhists, Zoroastrians (Parsis) and Jains; a self-declaration (Annexure-A) must be uploaded, followed by an affidavit at document verification. || EBC means family income below ₹50,000 per annum; an income certificate (Annexure-B) issued by a prescribed authority is required.",
+        "selection_process": "All eligible candidates are called for a Selection Trial. Only candidates securing 25 or more out of 40 marks for game skill, physical fitness, and coach's observations are declared FIT and assessed further by the Recruitment Committee. Candidates declared NOT FIT are not assessed further.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "01/09/2026",
+        "board": "IRPL",
+        "title": "Finance Assistant, Company Secretary",
+        "qualification": "B. Com, M. Com, CA Intermediate / ICAI(CMA) Intermediate",
+        "last_date": "28-09-2026",
+        "total_posts": "2",
+        "salary": "Finance Assistant: Rs 45,000 per month || Company Secretary: Rs 55,000 per month",
+        "age_limit": "Maximum Age Limit: 35 years for all posts. || Age relaxation will be provided as per Government of India’s guidelines. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Exam || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ircon.org",
+        "official_notification": "https://www.ircon.org/sites/default/files/2026-08/Advt%20%20No%20IRPL%20C02%202026.pdf"
+    },
+    {
         "date": "31/08/2026",
         "board": "Southern Railway",
         "title": "Act Apprentice",
@@ -65,22 +97,6 @@
     },
     {
         "date": "28/08/2026",
-        "board": "RRC NCR",
-        "title": "Act Apprentice (Apprentices Act, 1961)",
-        "qualification": "ITI, 10TH",
-        "last_date": "31-08-2026",
-        "total_posts": "1853",
-        "salary": "Not Available",
-        "age_limit": "Minimum Age: 15 years || Maximum Age: Should not have completed 24 years (as on 07.07.2026) || Age Relaxation: || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://rrcpryj.org/",
-        "official_notification": "https://rrcpryj.org/wp-content/uploads/2026/07/Notification-act-apprentice-2026.pdf"
-    },
-    {
-        "date": "28/08/2026",
         "board": "KRCL",
         "title": "Office Boy/Helper/Khalasi",
         "qualification": "Minimum 2 years post-qualification experience; preference given to candidates with experience in Repair Workshops or Manufacturing Units",
@@ -110,22 +126,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.konkanrailway.com",
         "official_notification": "https://konkanrailway.com/sites/default/files/2026-08/16C.pdf"
-    },
-    {
-        "date": "27/08/2026",
-        "board": "RRC WR",
-        "title": "Sports Quota     – 64 Posts",
-        "qualification": "Passed 12th (+2 stage) or equivalent from a recognized Board OR Matriculation plus Act Apprenticeship OR Matriculation plus ITI approved by NCVT/SCVT",
-        "last_date": "30-09-2026",
-        "total_posts": "64",
-        "salary": "2800/2400",
-        "age_limit": "Minimum 18 years, maximum 25 years as on 01-01-2027",
-        "application_fee": "Fee must be paid online through the payment gateway integrated with the application; no edits are allowed after payment. || Payment methods: Debit Card / Credit Card / Internet Banking / UPI, etc. Transaction charges, if any, are borne by the candidate. || Applications without fee payment will be summarily rejected. || Minorities means Muslims, Christians, Sikhs, Buddhists, Zoroastrians (Parsis) and Jains; a self-declaration (Annexure-A) must be uploaded, followed by an affidavit at document verification. || EBC means family income below ₹50,000 per annum; an income certificate (Annexure-B) issued by a prescribed authority is required.",
-        "selection_process": "All eligible candidates are called for a Selection Trial. Only candidates securing 25 or more out of 40 marks for game skill, physical fitness, and coach's observations are declared FIT and assessed further by the Recruitment Committee. Candidates declared NOT FIT are not assessed further.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
     },
     {
         "date": "26/08/2026",
@@ -350,22 +350,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rites.com",
         "official_notification": "https://www.rites.com/Upload/Career/CS_Adv_pdf-2026-Aug-03-15-0-54.pdf"
-    },
-    {
-        "date": "01/08/2026",
-        "board": "KRCL",
-        "title": "Junior Engineer (Civil/Mechanical), Track Maintainer, Senior Section Engineer (S&T/Mechanical), ESTM-III, Section Controller, Station Master, Goods Train Manager, Assistant Loco Pilot, Technician-III (Mechanical), Commercial Supervisor",
-        "qualification": "4-year Bachelor's Degree in Mechanical/Electrical/Electronics/Manufacturing/Mechatronics/Industrial/Machining/Instrumentation & Control/Tools & Die Making/Automobile/Production Engineering, from an AICTE-approved institution",
-        "last_date": "31-08-2026",
-        "total_posts": "201",
-        "salary": "Selected candidates will be placed in the following Pay Levels as per the 7th CPC Pay Matrix:",
-        "age_limit": "The age of candidates shall be reckoned as on 01/08/2026.",
-        "application_fee": "Fee is payable online only, through Internet Banking, Debit/Credit Cards, or UPI. Minorities include Muslims, Christians, Sikhs, Buddhists, Jains, and Zoroastrians (Parsis). Economically Backward Class (EBC) candidates - annual family income below Rs. 50,000 - get fee concession only, not job reservation. There is no refund for erroneous, incomplete, or rejected applications.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.konkanrailway.com",
-        "official_notification": "https://konkanrailway.com/sites/default/files/2026-07/EMPLOYMENT_NOTIFICATION_310726_1.pdf"
     },
     {
         "date": "24/07/2026",

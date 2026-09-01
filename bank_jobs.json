@@ -1,5 +1,53 @@
 [
     {
+        "date": "01/09/2026",
+        "board": "RNSB",
+        "title": "Jr. Executive (Trainee)",
+        "qualification": "First Class Graduate (Except Arts) OR Postgraduate (Except Arts) 2 year course. 2 years experience in any Co-Operative bank or any financial institute is preferable. Candidate should be well versed with Computer knowledge (Freshers may apply)",
+        "last_date": "08-09-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age Limit: 30 years || Age relaxation will be as per the rules. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rnsb.bank.in",
+        "official_notification": "https://jobs.rnsb.bank.in/CurrentOpening.aspx"
+    },
+    {
+        "date": "01/09/2026",
+        "board": "IBPS",
+        "title": "Post Name",
+        "qualification": "Nationality: a candidate must be a citizen of India, or a subject of Nepal/Bhutan, or a Tibetan refugee who arrived before 1 January 1962 intending to settle permanently in India, or a person of Indian origin migrated from certain specified countries with an eligibility certificate from the Government of India. || Educational qualification (as on the last date of online registration, i.e. 21.09.2026) varies by post:",
+        "last_date": "21-09-2026",
+        "total_posts": "13,706 (indicative; see Vacancy Details section)",
+        "salary": "Salary: Not specified in the notification. || Exam pattern: The online examination structure differs by post and stage. || There is a penalty of 0.25 marks for each wrong answer in the objective tests; unattempted questions are not penalised. Officer Scale-II candidates sit for a single-level examination (structure not itemised separately in the notification excerpt reviewed here beyond the general pattern above).",
+        "age_limit": "Age is reckoned as on 01.09.2026. || Age relaxation is available as follows: 5 years for SC/ST, 3 years for OBC (non-creamy layer), 10 years for Persons with Benchmark Disability (PwBD), and additional relaxation for Ex-Servicemen and (for Office Assistant only) widows, divorced women, and women legally separated from their husbands who have not remarried. Relaxation for SC/ST/OBC is cumulative with only one other applicable category. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Payment is online only, between 01.09.2026 and 21.09.2026. Bank transaction charges for online payment are to be borne by the candidate. A candidate applying for both an Officer post and the Office Assistant post must pay the fee separately for each.",
+        "selection_process": "Office Assistant (Multipurpose):Preliminary Exam → Main Exam → Provisional Allotment (based on Main Exam marks and actual vacancies reported by the RRB). || Officer Scale-I:Preliminary Exam → Main Exam → Common Interview → Provisional Allotment. || Officer Scale-II & III:Single-level online exam → Common Interview → Provisional Allotment. || Interview is out of 100 marks; minimum qualifying marks are 40% (35% for SC/ST/OBC/PwBD candidates). || The relative weightage for Officer posts is 80% online exam and 20% interview. || Interviews for Officer posts are coordinated by the Nodal Regional Rural Bank with the assistance of NABARD and IBPS.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ibps.in/",
+        "official_notification": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
+    },
+    {
+        "date": "01/09/2026",
+        "board": "Punjab & Sind Bank",
+        "title": "Chief Risk Officer",
+        "qualification": "Graduate Degree, Professional certification in financial risk management (GARP/PRMIA), CFA/CA/CMA/PG in Finance/Economics/Banking/Risk Management",
+        "last_date": "12-09-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Minimum Age: 40 years || Maximum Age: 55 years || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Rs. 1180/- (incl. GST)",
+        "selection_process": "Preliminary scrutiny of applications || Shortlisting of candidates || Personal interaction/interview || Assessment of knowledge of risks || Assessment of leadership ability || Verification of credentials || Final selection based on Interview merit",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://punjabandsind.bank.in/",
+        "official_notification": "https://punjabandsind.bank.in/system/uploads/recruitment/7932_2026083121042842330.pdf"
+    },
+    {
         "date": "31/08/2026",
         "board": "ACAB",
         "title": "Cooperative Intern / Specialist",
@@ -61,22 +109,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://pucb.bank.in/",
-        "official_notification": "Not Available"
-    },
-    {
-        "date": "31/08/2026",
-        "board": "IBPS",
-        "title": "Office Assistant (Multipurpose), Officer Scale-I, Officer Scale-II & Officer Scale-III",
-        "qualification": "Bachelor's Degree / Relevant Professional Qualification",
-        "last_date": "21-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Office Assistant (Multipurpose):18 to 28 years || Officer Scale-I (Assistant Manager):Above 18 years and below 30 years || Officer Scale-II (Manager):Above 21 years and below 32 years || Officer Scale-III (Senior Manager):Above 21 years and below 40 years || Age relaxation for reserved-category candidates will be applicable as per the rules mentioned in the detailed IBPS CRP RRBs-XV notification. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Not Available",
-        "selection_process": "Office Assistant (Multipurpose):Preliminary Examination followed by Main Examination. There is no interview for the Office Assistant post. || Officer Scale-I:Preliminary Examination, Main Examination and Interview. || Officer Scale-II & III:Single Online Examination followed by Interview.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ibps.in/",
         "official_notification": "Not Available"
     },
     {
@@ -161,22 +193,6 @@
     },
     {
         "date": "28/08/2026",
-        "board": "SBI",
-        "title": "Junior Associate (Customer Support & Sales)",
-        "qualification": "Graduation in any discipline from a recognized University, or any equivalent qualification recognized as such by the Central Government. Candidates with an Integrated Dual Degree (IDD) certificate must ensure the date of passing the IDD is on or before 31.12.2026. Candidates in their final year/semester of graduation may also apply provisionally, subject to producing proof of having passed the graduation examination on or before 31.12.2026. || Matriculate Ex-servicemen who have obtained the Indian Army Special Certificate of Education, or the corresponding certificate in the Navy or Air Force, after completing not less than 15 years of service in the Armed Forces of the Union, are also eligible. Such certificates should be dated on or before 31.12.2026.",
-        "last_date": "31-08-2026",
-        "total_posts": "9124",
-        "salary": "The pay scale for Junior Associate (Customer Support & Sales) is Rs. 24,050-1340/3-28,070-1650/3-33,020-2000/4-41,020-2340/7-57,400-4400/1-61,800-2680/1-64,480. The starting Basic Pay is Rs. 26,730 (Rs. 24,050 plus two advance increments admissible to graduates). || The total starting emoluments of a Clerical Cadre employee posted at a Metro like Mumbai will be around Rs. 46,000 per month, inclusive of Dearness Allowance, other allowances at the current rate, and two additional increments for newly recruited graduate Junior Associates. Allowances may vary depending on the place of posting. Selected candidates will be eligible for reimbursement of various perquisites, provident fund, pension under the New Pension Scheme (Defined Contribution Benefit), medical, leave-fare, and other facilities as per Bank instructions issued from time to time.",
-        "age_limit": "Not below 20 years and not above 28 years - i.e., candidates must have been born not earlier than 02.04.1998 and not later than 01.04.2006 (both days inclusive). || Cumulative age relaxation is not available either under the above items or in combination with any other item. Candidates seeking age relaxation must submit copies of the necessary certificates at the time of joining; no change in category is permitted after registration of the online application, and no correspondence in this regard will be entertained. || Also Read: Candidates who are working in SBI in the Clerical cadre are not eligible to apply under this project, and candidates who were earlier employed in State Bank of India and resigned while in the clerical cadre are also not eligible. Candidates against whom there is an adverse report regarding character, antecedents, or moral turpitude are also not eligible to apply for the post. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
-        "application_fee": "₹750 (General/OBC/EWS); Nil (SC/ST/PwBD/XS/DXS)",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://sbi.bank.in/",
-        "official_notification": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Detailed_Advt_Eng.pdf"
-    },
-    {
-        "date": "28/08/2026",
         "board": "Bank of Baroda",
         "title": "Local Bank Officer (LBO)",
         "qualification": "Minimum 1 year as an Officer in any Scheduled Commercial Bank listed in the Second Schedule of the Reserve Bank of India",
@@ -256,22 +272,6 @@
         "official_notification": "Not Available"
     },
     {
-        "date": "24/08/2026",
-        "board": "Federal Bank",
-        "title": "Sales Officer - Corporate Salary",
-        "qualification": "Graduation (specific stream not specified)",
-        "last_date": "31-08-2026",
-        "total_posts": "Not Available",
-        "salary": "Selected candidates for the Sales Officer - Corporate Salary post will draw an Annual CTC ranging from ₹4.64 Lakh to ₹10.93 Lakh, as per the official notification. A detailed pay-component breakup has not been specified.",
-        "age_limit": "Upper Age Limit: 35 years || Candidates should be born on or after 01/08/1991 || A lower age limit is not specified in the notification",
-        "application_fee": "The application fee for this recruitment is not specified.",
-        "selection_process": "Candidates will be selected through the following stages: || Application Screening || Personal Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.federal.bank.in/",
-        "official_notification": "https://federalbankcareers.zappyhire.com/job-description?id=3395"
-    },
-    {
         "date": "21/08/2026",
         "board": "RBI",
         "title": "Bank's Medical Consultant (BMC)",
@@ -302,22 +302,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.sebi.gov.in",
         "official_notification": "https://www.sebi.gov.in/sebiweb/other/careerdetail.jsp?careerId=445"
-    },
-    {
-        "date": "20/08/2026",
-        "board": "South Indian Bank",
-        "title": "Junior Officer (Business Promotion Officer)",
-        "qualification": "Indian Nationals meeting the age, qualification and experience criteria below",
-        "last_date": "31-08-2026",
-        "total_posts": "Not Available",
-        "salary": "The total CTC at the time of joining is Rs. 7.85 lakhs per annum , structured as follows: || Additionally, Junior Officers posted under the Delhi, Mumbai and Pune regions are eligible for a special allowance of Rs. 10,000/month , and those posted under the Ahmedabad region are eligible for a special allowance of Rs. 5,000/month , after 3 months of active service and subject to performance review.",
-        "age_limit": "Maximum 30 years (born on or after 01.08.1996). 5 years' age relaxation for SC/ST candidates.",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.southindianbank.bank.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/08/412571-6a868c0f9d77323186824.pdf"
     },
     {
         "date": "19/08/2026",
@@ -366,37 +350,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nainitalbank.bank.in/",
         "official_notification": "https://www.nainitalbank.bank.in/pdf/Notification%202026.pdf"
-    },
-    {
-        "date": "12/08/2026",
-        "board": "Indbank",
-        "title": "Relationship Manager and Dealer - For Stock Broking Terminals",
-        "qualification": "MBA in Marketing/Finance from a reputed university. NISM certification or equivalent capital market qualification is preferred.",
-        "last_date": "31-08-2026",
-        "total_posts": "14",
-        "salary": "Not Available",
-        "age_limit": "21 to 35 years / 25 to 35 years depending on the post",
-        "application_fee": "Not Available",
-        "selection_process": "Screening of applications || Identification of eligible candidates || Personal Interview || Final selection by the Committee of the company || Only candidates who meet the eligibility criteria for appearing in the Personal Interview will be informed through the email address provided in their application.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.indbankonline.com/",
-        "official_notification": "https://www.indbankonline.com/v/?v=2026/08/Advertisement-for-the-post-of-Relationshipmanager-Dealer-dated-10.08.2026.pdf"
-    },
-    {
-        "date": "11/08/2026",
-        "board": "GPCB Bank",
-        "title": "Total Posts",
-        "qualification": "The minimum qualification for recruitment to the Clerical cadre is a Bachelor's degree in any discipline from a recognised university with at least 55% marks. However: || Candidates holding a Bachelor of Arts (B.A.) degree arenot eligible. || Candidates holding degrees in Engineering are alsonot eligible, except those holding a degree in Information Technology or Computer Science (BE/B.Tech or equivalent). || Candidates who have passed CA Intermediate or CMA Intermediate are also eligible. || The notification does not mention any age relaxation for reserved categories (SC/ST/OBC/PwD/Ex-servicemen, etc.); this detail is not specified.",
-        "last_date": "31-08-2026",
-        "total_posts": "13",
-        "salary": "Not Available",
-        "age_limit": "Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Rs. 500/- + 18% GST = Rs. 590/- (non-refundable) for all candidates",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.gpcb.bank.in",
-        "official_notification": "http://gpcb.bank.in/assets/documents/Detailed-Adevertisement.pdf"
     }
 ]
