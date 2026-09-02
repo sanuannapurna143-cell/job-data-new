@@ -1,5 +1,21 @@
 [
     {
+        "date": "02 Sep 2026",
+        "board": "MPESB Vacancy 2026 - 507 Subedar and Sub Inspector PostsMPESB Vacancy 2026",
+        "title": "Subedar, Sub Inspector (SAF/DEF/Arms/Photo/QD/Finger Print)",
+        "qualification": "Bachelor's degree in Mathematics, Physics, and Chemistry from a recognized university, or equivalent",
+        "last_date": "23 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "All Subedar and Sub Inspector cadre posts (SAF, DEF, Arms, Photo, QD, Finger Print) carry Pay Level 9: ₹36,200 – ₹1,14,800. During the 3-year probation period, stipend is payable at 70% of minimum pay in year 1, 80% in year 2, and 90% in year 3, plus other allowances as approved by the government from time to time. Employees appointed on or after 01.01.2005 are covered under the Defined Contribution Pension Scheme.",
+        "age_limit": "Age is reckoned as on the last date of online application (23.09.2026). || If a candidate has more than one basis for age relaxation, only the single relaxation giving the maximum benefit will be granted (relaxations are not cumulative). || Age relaxation is not available to contractual/honorary staff such as Shiksha Karmi or Panchayat Karmi. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "An additional MP Online portal fee applies: ₹60 if the form is filled via an authorized kiosk, or ₹20 if the candidate logs in and fills the form themselves as a registered citizen user. A separate departmental exam/processing fee (₹200 unreserved / ₹100 reserved) applies at the second-stage main written exam for qualified candidates, as per Police Department rules.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.esb.mp.gov.in",
+        "official_notification": "https://esb.mp.gov.in/Rulebooks/RB_2026/SI_Rulebook_2026_01092026.pdf"
+    },
+    {
         "date": "01 Sep 2026",
         "board": "DHSGSU Vacancy 2026 - 1 Junior Research Fellow PostsDHSGSU Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow (JRF)",
@@ -177,22 +193,6 @@
     },
     {
         "date": "28 Aug 2026",
-        "board": "NABFINS Vacancy 2026 - Customer Service Officer, Customer Service Executive PostsNABFINS Vacancy 2026",
-        "title": "Customer Service Officer (CSO), Customer Service Executive (CSE)",
-        "qualification": "The minimum educational qualification is: || PUC/10+2 completed. || Candidates who have completed Higher Secondary or an equivalent 10+2 qualification can apply, subject to the other eligibility requirements.",
-        "last_date": "01 Sep 2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "The detailed selection process has not been specified in the information provided. || Candidates who submit their resume may be shortlisted by NABFINS based on eligibility, educational qualification, experience, field suitability and other requirements of the Customer Service Officer role. || Shortlisted candidates should follow further instructions communicated by NABFINS regarding the next stages of recruitment.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://nabfins.org/",
-        "official_notification": "https://nabfins.org/Careers/"
-    },
-    {
-        "date": "28 Aug 2026",
         "board": "MPESB Vacancy 2026 - 1700 Sub Engineer, Draftsman and More PostsMPESB Vacancy 2026",
         "title": "Sub Engineer (Upyantri), Draftsman/Cartographer, Laboratory Technician, Technical Assistant, Surveyor, Mineral Surveyor, and other equivalent posts",
         "qualification": "Diploma/degree in the relevant engineering or technical discipline (varies by post code)",
@@ -206,22 +206,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.esb.mp.gov.in",
         "official_notification": "https://esb.mp.gov.in/Rulebooks/RB_2026/Group03_2026_Updated_27082026.pdf"
-    },
-    {
-        "date": "27 Aug 2026",
-        "board": "IIITDM Jabalpur Vacancy 2026 - 1 Junior Research Fellow PostsIIITDM Jabalpur Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "Graduate \\ Post Graduate Degree (BE\\BTech\\ME\\MTech)",
-        "last_date": "01 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 37,000 + 20% HRA per month",
-        "age_limit": "Preferably below 35 years as on the date of the written test and/ or interview for JRF.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iiitdmj.ac.in/",
-        "official_notification": "https://www.iiitdmj.ac.in/jobs/download/JRF/Geospatial-Advt-for-JRF-SRF_PK_24082026.pdf"
     },
     {
         "date": "26 Aug 2026",
@@ -289,22 +273,6 @@
     },
     {
         "date": "24 Aug 2026",
-        "board": "DHSGSU Vacancy 2026 - 4 Guest Faculty PostsDHSGSU Guest Faculty Vacancy 2026",
-        "title": "Guest Faculty",
-        "qualification": "B.E./ B.Tech./ B.S. & M.E./ M.Tech in relevant branch, First class or equivalent, M.Sc. in Mathematics with Ph.D/ NET as per UGC Norms",
-        "last_date": "01 Sep 2026",
-        "total_posts": "4",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://dhsgsu.edu.in/",
-        "official_notification": "https://dhsgsu.edu.in/images/2026/August-26/20/final-Advertisement.pdf"
-    },
-    {
-        "date": "24 Aug 2026",
         "board": "MPPGCL Vacancy 2026 - 95 ITI Apprentice PostsMPPGCL ITI Apprentice Vacancy 2026",
         "title": "ITI Apprentice (under the Apprentices Act, 1961)",
         "qualification": "95 Posts",
@@ -317,7 +285,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "mp-police-si-recruitment-2026-apply-online-for-504-subedar-and-sub-inspector-posts-3065810"
     },
     {
         "date": "24 Aug 2026",
@@ -413,7 +381,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "mp-police-si-recruitment-2026-apply-online-for-504-subedar-and-sub-inspector-posts-3065810"
     },
     {
         "date": "14 Aug 2026",
