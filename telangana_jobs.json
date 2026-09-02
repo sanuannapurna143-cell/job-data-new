@@ -1,5 +1,53 @@
 [
     {
+        "date": "02 Sep 2026",
+        "board": "SSC Vacancy 2026 - 1748 Junior Engineer PostsSSC Junior Engineer Vacancy 2026",
+        "title": "Junior Engineer",
+        "qualification": "Essential educational qualifications differ by organization and post. Broadly: || JE (Civil):Degree in Civil Engineering from a recognized university/institute; or a three-year diploma in Civil Engineering plus relevant work experience (requirement varies by organization). || JE (Electrical) / JE (Mechanical) / JE (Electrical & Mechanical):Degree or diploma in the relevant Electrical/Mechanical/Automobile engineering discipline from a recognized university/institute, with experience required in some organizations. || JE (Telecom):Bachelor's degree in Engineering/Technology in Electrical, Electronics, Electrical Communications, Computer Science, Telecommunications, Information Technology, or Instrumentation. || Scientific Assistant (IMD):Bachelor's degree in Science with Physics as one of the subjects, or a Bachelor's degree in Computer Science/Computer Applications/Electronics/Electronics & Communication Engineering/Electronics & Telecommunication Engineering/Instrumentation/Information Technology/Telecommunication Engineering/Communication Engineering. || Because the exact qualification differs organization by organization (for example, CPWD requires a diploma while BRO accepts a degree or diploma-plus-experience), candidates should check the qualification listed against their target organization in the official notice before applying. Qualifications obtained through Open and Distance Learning (ODL)/online mode in restricted disciplines such as Engineering are not accepted unless specifically permitted under applicable UGC regulations or judicial orders.",
+        "last_date": "22 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Selected candidates will be appointed to Group 'B' posts in Pay Level-6 of the Pay Matrix under the 7th Central Pay Commission, with a pay scale of ₹35,400 – ₹112,400 . Actual in-hand salary will also include applicable allowances (such as DA, HRA and TA) as per the rules of the respective recruiting organization, which are not detailed in this notice.",
+        "age_limit": "Not earlier than 02.08.1996 and not later than 01.08.2008",
+        "application_fee": "Fee can be paidonly through online modes: BHIM UPI, Net Banking, or Visa/MasterCard/Maestro/RuPay debit card. || The fee payment deadline is23.09.2026 (23:00 hours). || Fee once paid isnot refundableand cannot be adjusted against any other examination. || Applications with unpaid or incomplete fee status are summarily rejected.",
+        "selection_process": "Selection for SSC JE 2026 is based on the following stages: || Paper-I (Computer Based Examination)– Qualifying in nature. Covers General Intelligence & Reasoning (50 questions/50 marks), General Awareness (50 questions/50 marks), and the relevant engineering/technical subject based on the post applied for (100 questions/100 marks). Total duration is 2 hours (2 hours 40 minutes for candidates eligible for a scribe). Negative marking of 0.25 marks applies for each wrong answer. || Paper-II (Computer Based Examination)– For candidates shortlisted from Paper-I. Covers the relevant engineering/technical subject in depth (100 questions/300 marks) in 2 hours (2 hours 40 minutes for scribe-eligible candidates). Negative marking of 1 mark applies for each wrong answer. || Document Verification (DV)– Provisionally selected candidates must produce original certificates (educational qualification, category, age proof, experience, etc.) for verification by the concerned user department/organization. || Physical Standards and Medical Examination– Applicable specifically for posts under organizations such as Border Roads Organisation (BRO)/GREF, as detailed in the relevant annexure of the notice. || Separate merit lists are prepared for JE (Civil), JE (Electrical & Mechanical), Scientific Assistant (IMD), and JE (Telecom). Both papers consist of objective-type, multiple-choice questions set in Hindi and English.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ssc.gov.in",
+        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_je_2026.pdf"
+    },
+    {
+        "date": "27 Aug 2026",
+        "board": "India Post Vacancy 2026 - 23757 Gramin Dak Sevak PostsIndia Post Gramin Dak Sevak Vacancy 2026",
+        "title": "Brief Role",
+        "qualification": "Secondary School Examination (SSE)/10th standard pass certificate, with passing marks in Mathematics and English, from a Board recognized by the Government of India/State Governments/Union Territories. Candidates with equivalent qualification from any other board are not eligible.",
+        "last_date": "21 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "GDS are not regular Central Government employees; they are paid emoluments in the form of Time Related Continuity Allowance (TRCA), which carries an annual increase of 3% (subject to fulfilment of conditions under the GDS Rules), along with Dearness Allowance on TRCA as declared by the Government of India from time to time. GDS are also entitled to GDS Gratuity and the Service Discharge Benefit Scheme (akin to the National Pension System for regular employees).",
+        "age_limit": "The minimum age is 18 years and the maximum age is 40 years, to be determined as on the last date of submission of applications, subject to the following relaxations in the upper age limit. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "A fee of ₹100/- (Rupees One Hundred only) is payable by applicants for all posts notified in their choice of Division. Payment can be made online through recognized Credit/Debit cards, Net Banking, or UPI (usage charges as applicable will be levied). The fee, once paid, is non-refundable, and payment must be completed strictly within the application closing date and time (up to 1700 hrs). || Fee-exempted categories:All female applicants, SC/ST applicants, PwBD applicants, and Transwomen applicants || Applicants who are exempted may submit their application without making any payment",
+        "selection_process": "There is no written examination for GDS engagement. Selection is entirely merit-based, computed from the candidate's Class 10 (SSE) academic record. || Applicants are shortlisted on the basis of a system-generated merit list || The merit list is prepared from marks obtained (or grades/points converted to marks) in the Secondary School Examination (10th standard), aggregated to a percentage up to 4 decimal places || Where only grades are given, marks are computed using a multiplication factor of 9.5 against the grade point (e.g., A1 = Grade Point 10 × 9.5); where CGPA is given, marks are computed as CGPA × 9.5, and the higher of the two (individual subject grades vs. CGPA) is taken if both are provided || Candidates must enter marks/grades exactly as shown on their marksheet - mixing marks and grades incorrectly, or entering grades where marks are required, can lead to cancellation/disqualification || Tie-breaking in the merit list follows a fixed priority order based on date of birth (older preferred) followed by category and gender combinations (ST trans-woman, ST female, SC trans-woman, SC female, and so on down the prescribed order), with the Department reserving the right to apply additional tie-breaking criteria || Shortlisted candidates must undergo physical verification of original documents by the Engaging Authority (Divisional/Unit Head), followed by an offer of provisional engagement, pre-engagement formalities (including 3 days of basic training and arranging accommodation), and final regularization after antecedent and document verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.indiapost.gov.in",
+        "official_notification": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf"
+    },
+    {
+        "date": "02 Sep 2026",
+        "board": "GMC Nalgonda Vacancy 2026 - 57 Associate Professor, Assistant Professor and More PostsGMC Nalgonda Vacancy 2026",
+        "title": "Associate Professor, Assistant Professor and More",
+        "qualification": "All posts require an MBBS degree as the base qualification, with Associate Professor and Assistant Professor posts additionally requiring an MD/MS/DNB in the relevant subject as per NMC's TEQ Regulation 2022. Outside-state candidates must get their qualification registered with the Telangana State Medical Council within one week of selection for their appointment to be confirmed. DNB candidates will be selected as per the latest NMC guidelines.",
+        "last_date": "10 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Selected candidates will be paid a fixed consolidated monthly remuneration as per G.O.Rt.No.98, Finance (HRM.VII) Department, dated 11.03.2024. The remuneration is all-inclusive and subject to tax deduction at source and other statutory deductions.",
+        "age_limit": "Teaching posts (Associate Professor, Assistant Professor, Tutor): below 69 years as on 31.03.2026 || Non-teaching post (Civil Assistant Surgeon): below 45 years as on 31.03.2026 || Retired teaching faculty of the Government of Telangana or other government bodies are not eligible for contract appointment || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Candidates must pay an application fee of ₹500/- (non-refundable) for each application submitted, through a Demand Draft (DD) drawn in favour of the Principal, Government Medical College, Nalgonda.",
+        "selection_process": "For Assistant Professor posts: marks obtained in the MD/MS/DNB postgraduate degree || For Tutor and CAS posts: marks obtained in the MBBS degree (if marks are not awarded in the qualifying exam, 50% marks will be considered) || For Associate Professor posts: duration of teaching experience in that cadre || Final selection is based on merit, duration of teaching experience, and interview || Rule of Reservation will be followed wherever applicable || For local candidature, Bonafide/Study conduct certificates from Class 1 to Class 7 will be considered || Selection is nationwide, with first preference given to local candidates of Multizone-II for Assistant Professor, CAS, and Tutor posts; candidates from other states will be considered only if local candidates are not available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.gmcnalgonda.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s374071a673307ca7459bcf75fbd024e09/uploads/2026/09/17882612431338.pdf"
+    },
+    {
         "date": "01 Sep 2026",
         "board": "BRIC NIAB Vacancy 2026 - 1 Project Technical Support III PostsBRIC NIAB Project Technical Support III Vacancy 2026",
         "title": "Project Technical Support III",
@@ -253,7 +301,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "mp-police-si-recruitment-2026-apply-online-for-504-subedar-and-sub-inspector-posts-3065810"
+        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
     },
     {
         "date": "27 Aug 2026",
@@ -402,18 +450,18 @@
     {
         "date": "18 Aug 2026",
         "board": "NIT Warangal Vacancy 2026 - 1 Junior Research Fellow PostsNIT Warangal Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow",
-        "qualification": "1 Posts",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.E./ B.Tech Mechanical/Production/ Metallurgy (First class), ME/M.Tech in Manufacturing, welding, Production, Metallurgy, CAD-CAM, Design and relevant specialization",
         "last_date": "07 Sep 2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
+        "total_posts": "1",
+        "salary": "Junior Research Fellow (JRF): Rs. 31000 Per Month",
+        "age_limit": "Maximum Age: 35 years || Upper age relaxation of up to 5 years for OBC/SC/ST categories and for women. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
         "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Offline",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "https://www.nitw.ac.in",
+        "official_notification": "https://nitw.ac.in/api/static/files/JRF_13082026_2026-8-13-12-25-54.pdf"
     },
     {
         "date": "18 Aug 2026",
