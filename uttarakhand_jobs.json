@@ -1,5 +1,53 @@
 [
     {
+        "date": "03 Sep 2026",
+        "board": "IIT Roorkee Vacancy 2026 - 1 Junior Research Fellow PostsIIT Roorkee Junior Research Fellow Vacancy 2026",
+        "title": "JRF",
+        "qualification": "M.Tech/M.E./M.Sc. (with math courses at Bachelor's level) in Civil Engineering/ Remote Sensing & GIS/Environmental Engineering/ Atmospheric science or equivalent",
+        "last_date": "15 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000 + HRA as per institute norms Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CE/2026/adv01092026.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "IIT Roorkee Vacancy 2026 - 1 Project Associate PostsIIT Roorkee Project Associate Vacancy 2026",
+        "title": "Project Associate(I)",
+        "qualification": "Masters in Physics or equivalent disciplines/B.E./B.Tech.",
+        "last_date": "11 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000 - 55000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in/",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/PH/2026/adv010920264.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "IIT Roorkee Vacancy 2026 - 1 Project Consultant PostsIIT Roorkee Project Consultant Vacancy 2026",
+        "title": "Project Consultant",
+        "qualification": "PhD + 2 years relevant experience",
+        "last_date": "07 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 1,47,000 per month + HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/PH/2026/adv010920262.pdf"
+    },
+    {
         "date": "02 Sep 2026",
         "board": "SSC Vacancy 2026 - 1748 Junior Engineer PostsSSC Junior Engineer Vacancy 2026",
         "title": "Junior Engineer",
@@ -208,22 +256,6 @@
         "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/ICED/2026/adv250820266.pdf"
     },
     {
-        "date": "27 Aug 2026",
-        "board": "DESO Almora Vacancy 2026 - 1 GIS Technician PostsDESO Almora GIS Technician Vacancy 2026",
-        "title": "GIS Technician",
-        "qualification": "M.Sc Remote Sensing and GIS, PG Diploma in Remote Sensing & GIS",
-        "last_date": "02 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 20000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Interview || Practical Test || Document Verification",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://almora.nic.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s33a0772443a0739141292a5429b952fe6/uploads/2026/08/17876394141665.pdf"
-    },
-    {
         "date": "26 Aug 2026",
         "board": "IIT Roorkee Vacancy 2026 - 1 Junior Research Fellow PostsIIT Roorkee Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow (JRF)",
@@ -413,7 +445,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "17 Aug 2026",
@@ -461,7 +493,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "22 Jul 2026",

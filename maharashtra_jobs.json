@@ -1,5 +1,85 @@
 [
     {
+        "date": "03 Sep 2026",
+        "board": "TISS Vacancy 2026 - 1 Research Officer PostsTISS Research Officer Vacancy 2026",
+        "title": "Research Officer",
+        "qualification": "Master's degree in Social Sciences, Commerce, Science and/or related fields with at least 55 % marks.",
+        "last_date": "13 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 55000 - 60000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://tiss.ac.in/",
+        "official_notification": "https://tiss.ac.in/uploads/files/Advertisement_for_Research_Officer___Need_Assessment.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "TISS Vacancy 2026 - 2 Assistant Professor PostsTISS Assistant Professor Vacancy 2026",
+        "title": "Assistant Professor",
+        "qualification": "Master's degree with 55% marks in Business Administration or Mathematics/Statistics or allied subjects, and cleared NET/SLET/SET or awarded Ph.D. as per UGC regulations. Foreign Ph.D. from top 500 ranked universities is also accepted.",
+        "last_date": "15 Sep 2026",
+        "total_posts": "2",
+        "salary": "Rs. 57,700/-",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Shortlisting of applications || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tiss.edu",
+        "official_notification": "https://tiss.ac.in/uploads/files/Advertisement_AP_RTSA-01-09-2026.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "UPSC Vacancy 2026 - 127 Assistant Chemist, Geologist and More PostsUPSC Vacancy 2026",
+        "title": "Assistant Chemist, Geologist and More",
+        "qualification": "Master's degree in Geological Science, Geology, Applied Geology, Geo-Exploration, Mineral Exploration, Engineering Geology, Marine Geology, Earth Science and Resource Management, Oceanography and Coastal Areas Studies, Petroleum Geosciences, or Geochemistry",
+        "last_date": "22 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "A candidate must have attained 21 years and must not have attained 32 years as on 1 January 2027 - i.e., born not earlier than 2 January 1995 and not later than 1 January 2006 || Upper age relaxable up to 5 years for Government servants employed in GSI or CGWB applying for the corresponding post || Upper age relaxable up to 5 years for SC/ST candidates, 3 years for OBC candidates, 3 years for disabled Defence Services personnel, 5 years for Ex-servicemen, and 10 years for Persons with Benchmark Disability || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
+        "application_fee": "Candidates are required to pay a fee of ₹200, through net banking or Visa/Master/RuPay Credit/Debit Card/UPI. Female candidates and candidates belonging to Scheduled Castes, Scheduled Tribes, and Persons with Benchmark Disability are exempted from the fee. OBC and EWS candidates are required to pay the full prescribed fee. Fee once paid is non-refundable under any circumstances.",
+        "selection_process": "Selection proceeds through three successive stages: the Preliminary Examination (Stage-I) for shortlisting to the Main Examination; the Main Examination (Stage-II) for shortlisting to the Personality Test; and the Personality Test/Interview (Stage-III). Final selection for GSI and CGWB posts is strictly by merit position in each category, candidate preference, and number of vacancies.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.upsc.gov.in/",
+        "official_notification": "https://www.upsc.gov.in/sites/default/files/Notif-CGSPE-2027-Engl-020926.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "TISS Vacancy 2026 - 6 Senior Administrative Assistant PostsTISS Senior Administrative Assistant Vacancy 2026",
+        "title": "Senior Administrative Assistant (Academic) and Administrative Assistant (Academic/Admission)",
+        "qualification": "Bachelor's Degree, Master's Degree, English Typing Speed of minimum 30 w.p.m., Secretarial Work experience",
+        "last_date": "15 Sep 2026",
+        "total_posts": "6",
+        "salary": "Senior Administrative Assistant (Academic): Rs. 35,000/- per month || Administrative Assistant (Academic/Admission): Rs. 25,000/- per month",
+        "age_limit": "Maximum Age Limit: 40 years as on 31-08-2026. || Age relaxation will be as per government rules. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Personal Interaction || Document Verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tiss.ac.in",
+        "official_notification": "https://tiss.ac.in/uploads/files/Advt_Sr_Admn_Assist_and_Admn_Assist_Academic.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "DBSKKV Ratnagiri Vacancy 2026 - 1 Agromet Observer PostsDBSKKV Ratnagiri Agromet Observer Vacancy 2026",
+        "title": "Agromet Observer",
+        "qualification": "10+2 from science stream (12th Pass) along with basic knowledge of computer operations. MS-CIT Computer Exam, Marathi Typing 30 W.P.M., English Typing 40 W.P.M.",
+        "last_date": "10 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 36890 Per Month",
+        "age_limit": "Max: 38 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.dbskkv.org",
+        "official_notification": "https://img2.freejobalert.com/news/2026/09/8676-6a98fc913171c48082562.pdf"
+    },
+    {
         "date": "02 Sep 2026",
         "board": "MECL Vacancy 2026 - 122 Technician, Assistant and More PostsMECL Vacancy 2026",
         "title": "Technician, Assistant and More",
@@ -32,22 +112,6 @@
         "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_je_2026.pdf"
     },
     {
-        "date": "02 Sep 2026",
-        "board": "Ordnance Factory Hospital Dehu Vacancy 2026 - 1 MBBS Doctor PostsOrdnance Factory Hospital Dehu MBBS Doctor Vacancy 2026",
-        "title": "MBBS Doctor",
-        "qualification": "MBBS degree from MCI recognized medical college/university of India. Must be a Registered Medical Practitioner.",
-        "last_date": "04 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 75000/- per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://ddpdoo.gov.in",
-        "official_notification": "https://ddpdoo.gov.in/storage/document/6a97f421515a2.pdf"
-    },
-    {
         "date": "27 Aug 2026",
         "board": "India Post Vacancy 2026 - 23757 Gramin Dak Sevak PostsIndia Post Gramin Dak Sevak Vacancy 2026",
         "title": "Brief Role",
@@ -62,6 +126,22 @@
         "syllabus": "Not Available",
         "official_website": "https://www.indiapost.gov.in",
         "official_notification": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf"
+    },
+    {
+        "date": "02 Sep 2026",
+        "board": "Ordnance Factory Hospital Dehu Vacancy 2026 - 1 MBBS Doctor PostsOrdnance Factory Hospital Dehu MBBS Doctor Vacancy 2026",
+        "title": "MBBS Doctor",
+        "qualification": "MBBS degree from MCI recognized medical college/university of India. Must be a Registered Medical Practitioner.",
+        "last_date": "04 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 75000/- per month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ddpdoo.gov.in",
+        "official_notification": "https://ddpdoo.gov.in/storage/document/6a97f421515a2.pdf"
     },
     {
         "date": "02 Sep 2026",
@@ -161,22 +241,6 @@
     },
     {
         "date": "01 Sep 2026",
-        "board": "ESIS Hospital Mulund Vacancy 2026 - 1 Speciality Medical Officer PostsESIS Hospital Mulund Speciality Medical Officer Vacancy 2026",
-        "title": "Speciality Medical Officer - Gynecology",
-        "qualification": "MBBS with P.G./DNB Degree from recognized university, PG Diploma from recognized university",
-        "last_date": "02 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 85000 Per Month",
-        "age_limit": "Max: 69 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://esic.gov.in/",
-        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_Interviews_for_appointment_of_Speciality_Medical_Officer_on_Contract_basis_in_ESI_Society_Hospital_Mulund_1788246336.pdf"
-    },
-    {
-        "date": "01 Sep 2026",
         "board": "RCFL Vacancy 2026 - 1 Advisor PostsRCFL Advisor Vacancy 2026",
         "title": "Advisor - Secretarial",
         "qualification": "Graduate in any discipline, Working knowledge of Shorthand and Microsoft Office (Word, Excel, PowerPoint etc.), Superannuated from minimum Manager-Secretarial and above in RCF, Minimum 10 years of total experience as Secretary to Senior Level Executives",
@@ -269,7 +333,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "01 Sep 2026",
@@ -637,7 +701,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "21 Jul 2026",
@@ -685,7 +749,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "28 Aug 2026",
@@ -765,7 +829,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "27 Aug 2026",
@@ -925,7 +989,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "25 Aug 2026",
@@ -973,7 +1037,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "31 Jul 2026",
@@ -990,22 +1054,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rcfltd.com/",
         "official_notification": "https://www.rcfltd.com/files/MT%202026.pdf"
-    },
-    {
-        "date": "24 Aug 2026",
-        "board": "HLL Vacancy 2026 - 6 Associate Manager and Project Coordinator PostsHLL Vacancy 2026",
-        "title": "Associate Manager and Project Coordinator (Sustainable Projects Division)",
-        "qualification": "Bachelor's Degree, M.Tech./M.E., Diploma",
-        "last_date": "02 Sep 2026",
-        "total_posts": "6",
-        "salary": "Associate Manager (Sustainable Projects Division):Basic pay Rs. 25,000 - 45,000; Gross Salary Rs. 53,175 (Metro) approx.; Annual CTC Rs. 7.58 Lakhs (Metro) approx. || Project Coordinator (Sustainable Projects Division):Basic pay Rs. 12,000 - 29,500",
-        "age_limit": "Maximum Age Limit: 37 years for all posts. || Age relaxation for SC/ST/OBC/PwD candidates will be as per Government of India directives. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Not Available",
-        "selection_process": "Document Verification || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.lifecarehll.com/f",
-        "official_notification": "https://www.lifecarehll.com/file/download/reference/8cc9db4e58f997f9ac4cd4dce9b06d3bhYSHgoA"
     },
     {
         "date": "24 Aug 2026",
@@ -1054,22 +1102,6 @@
         "syllabus": "Not Available",
         "official_website": "https://bombayhighcourt.gov.in/",
         "official_notification": "https://bombayhighcourt.gov.in/bhc/notification/download/eyJpdiI6IklmMy96dHEzTFQ1V1RMT2hCZDNEWlE9PSIsInZhbHVlIjoidlpqdEt0OHVVZ2xwTzcybDVxOFkydz09IiwibWFjIjoiYjdjODc2OTgxYzRjMmRhYmRhNDcxYTRkNWYzNWFlNWJjYmM1ZGM2MjEwMWNiMzU2NjM2ODYzYzhjZmE1N2Q3MyIsInRhZyI6IiJ9"
-    },
-    {
-        "date": "22 Aug 2026",
-        "board": "VNIT Vacancy 2026 - 1 Project Assistant PostsVNIT Project Assistant Vacancy 2026",
-        "title": "Project Assistant (PA)",
-        "qualification": "B.Arch. / B. Plan / B. Tech. (Planning)",
-        "last_date": "02 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 20000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.vnit.ac.in",
-        "official_notification": "https://drive.google.com/file/d/1GkakdsadzD3RV4ij-5hhF5swNf-Mmu2Y/view"
     },
     {
         "date": "22 Aug 2026",
@@ -1133,7 +1165,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "20 Aug 2026",
@@ -1182,22 +1214,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.echs.gov.in",
         "official_notification": "https://www.echs.gov.in/assets/advertisement/khadki%20pune%20aug%202026.pdf"
-    },
-    {
-        "date": "20 Aug 2026",
-        "board": "Dr.S.C.G.M.C. Nanded Vacancy 2026 - 1 Medical Officer PostsDr.S.C.G.M.C. Nanded Medical Officer Vacancy 2026",
-        "title": "Medical Officer",
-        "qualification": "MBBS With Valid Registration From The Respective State Medical Council /NMC",
-        "last_date": "02 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 72000 Per Month",
-        "age_limit": "Max: 65 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://mahasacs.org/",
-        "official_notification": "https://cdn.s3waas.gov.in/s32b24d495052a8ce66358eb576b8912c8/uploads/2026/08/17867153916019.pdf"
     },
     {
         "date": "20 Aug 2026",
@@ -1309,7 +1325,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "14 Aug 2026",
@@ -1357,7 +1373,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "10 Aug 2026",

@@ -1,5 +1,21 @@
 [
     {
+        "date": "03 Sep 2026",
+        "board": "UPSC Vacancy 2026 - 127 Assistant Chemist, Geologist and More PostsUPSC Vacancy 2026",
+        "title": "Assistant Chemist, Geologist and More",
+        "qualification": "Master's degree in Geological Science, Geology, Applied Geology, Geo-Exploration, Mineral Exploration, Engineering Geology, Marine Geology, Earth Science and Resource Management, Oceanography and Coastal Areas Studies, Petroleum Geosciences, or Geochemistry",
+        "last_date": "22 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "A candidate must have attained 21 years and must not have attained 32 years as on 1 January 2027 - i.e., born not earlier than 2 January 1995 and not later than 1 January 2006 || Upper age relaxable up to 5 years for Government servants employed in GSI or CGWB applying for the corresponding post || Upper age relaxable up to 5 years for SC/ST candidates, 3 years for OBC candidates, 3 years for disabled Defence Services personnel, 5 years for Ex-servicemen, and 10 years for Persons with Benchmark Disability || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
+        "application_fee": "Candidates are required to pay a fee of ₹200, through net banking or Visa/Master/RuPay Credit/Debit Card/UPI. Female candidates and candidates belonging to Scheduled Castes, Scheduled Tribes, and Persons with Benchmark Disability are exempted from the fee. OBC and EWS candidates are required to pay the full prescribed fee. Fee once paid is non-refundable under any circumstances.",
+        "selection_process": "Selection proceeds through three successive stages: the Preliminary Examination (Stage-I) for shortlisting to the Main Examination; the Main Examination (Stage-II) for shortlisting to the Personality Test; and the Personality Test/Interview (Stage-III). Final selection for GSI and CGWB posts is strictly by merit position in each category, candidate preference, and number of vacancies.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.upsc.gov.in/",
+        "official_notification": "https://www.upsc.gov.in/sites/default/files/Notif-CGSPE-2027-Engl-020926.pdf"
+    },
+    {
         "date": "02 Sep 2026",
         "board": "SSC Vacancy 2026 - 1748 Junior Engineer PostsSSC Junior Engineer Vacancy 2026",
         "title": "Junior Engineer",
@@ -461,7 +477,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "29 Aug 2026",
@@ -705,22 +721,6 @@
     },
     {
         "date": "26 Aug 2026",
-        "board": "MPMMCC Vacancy 2026 - 4 Data Entry Operator, Nurse and More PostsMPMMCC Vacancy 2026",
-        "title": "Various Project Posts",
-        "qualification": "Graduate degree in relevant field with minimum six-month computer course or MS-CIT, B.Sc./ B.Pharm/ M.Sc./ M.Pharm with PG Diploma in Clinical Research, GNM or B.Sc. Nursing with registration eligibility",
-        "last_date": "02 Sep 2026",
-        "total_posts": "4",
-        "salary": "Data Entry Operator:Rs. 25000 Per Month || Clinical Research Coordinator:Rs. 27000 to 35000 Per Month || Nurse:Rs. 32000 to 35000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-In Interview || Written Test (if more candidates) || Skill Test/ Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://tmc.gov.in/",
-        "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=LWTxVIBFQ6wNGHuK4KxK5g=="
-    },
-    {
-        "date": "26 Aug 2026",
         "board": "RFCL Vacancy 2026 - 40 Engineer, Manager & Officer PostsRFCL Vacancy 2026",
         "title": "Engineer, Officer, Officer-Secretarial, Assistant Manager, Deputy Manager, Additional CMO, CMO, Accounts Officer, Chief Manager (across Chemical, Mechanical, Electrical, Materials, Transportation, HR, Medical, Finance & Accounts, and IT disciplines)",
         "qualification": "Degree in Engineering (any specialization), OR full-time regular MBA (Materials Management/Supply Chain Management), OR PG Diploma in Materials Management (2-year regular, UGC/AICTE equivalent to MBA)",
@@ -781,7 +781,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "26 Aug 2026",
@@ -1037,23 +1037,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
-    },
-    {
-        "date": "21 Aug 2026",
-        "board": "ESIC Vacancy 2026 - 37 Senior Resident PostsESIC Senior Resident Vacancy 2026",
-        "title": "Senior Resident",
-        "qualification": "PG Degree/DNB, MCh/DM/DrNB/FNB in concerned specialty from a government recognized University",
-        "last_date": "02 Sep 2026",
-        "total_posts": "37",
-        "salary": "Rs. 1,48,669/- per month for all posts.",
-        "age_limit": "Maximum Age Limit: 45 years. || Age Relaxation to reserved categories will be given as per rules. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Walk-in Interview || Document Verification",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://esic.gov.in/",
-        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_Walk_in_interview_for_recruitment_of_Thirty_seven_37_posts_of_Senior_Residents_on_contract_basis_regarding_1787224098.pdf"
+        "official_notification": "Not Available"
     },
     {
         "date": "21 Aug 2026",
@@ -1137,38 +1121,6 @@
     },
     {
         "date": "18 Aug 2026",
-        "board": "DMSRDE Vacancy 2026 - 3 Research Associate, Junior Research Fellow PostsDMSRDE Vacancy 2026",
-        "title": "Research Associate and Junior Research Fellow",
-        "qualification": "Ph.D. in Chemistry, Post Graduate degree in Chemistry, B.E./B.Tech. in Chemical Engineering, M.E./M.Tech.",
-        "last_date": "02 Sep 2026",
-        "total_posts": "3",
-        "salary": "RA: ₹ 67,000/- p.m., JRF: ₹ 37,000/- p.m.",
-        "age_limit": "Research Associate: 35 years || Junior Research Fellow: 28 years || Age Relaxation: 5 years for SC/ST candidates and 3 years for OBC candidates (OBC creamy layer not eligible). || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-in Interview || Document Verification",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://drdo.gov.in/",
-        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDMSRDE17082026En.pdf"
-    },
-    {
-        "date": "18 Aug 2026",
-        "board": "IIT BHU Vacancy 2026 - 1 Junior Research Fellow PostsIIT BHU Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow",
-        "qualification": "M.Sc. in Physics, Astronomy, Computer Science, Mathematics, B.E./B.Tech. in relevant field",
-        "last_date": "02 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 37000 - 42000 Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitbhu.ac.in",
-        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_jrf_phy_dynamics.pdf"
-    },
-    {
-        "date": "18 Aug 2026",
         "board": "BHEL Vacancy 2026 - 10 FTA Gr III Supervisor PostsBHEL FTA Gr III Supervisor Vacancy 2026",
         "title": "FTA Supervisor (Gr III) - Safety",
         "qualification": "Essential: A full-time Diploma in any branch of Engineering or Technology from a recognized Indian University/Board, with a minimum of 60% marks in aggregate for UR/EWS/OBC/PwD/ST candidates, and a minimum of 50% marks in aggregate for SC candidates. || Desirable: A full-time (1-year) diploma in Industrial Safety, preferably from RLI/CLI.",
@@ -1245,7 +1197,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "14 Aug 2026",
@@ -1278,22 +1230,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.manuu.edu.in/",
         "official_notification": "https://manuu.edu.in/sites/default/files/Notification/2026-08/Walk-in-Interviews-Varanasi1382026.pdf"
-    },
-    {
-        "date": "13 Aug 2026",
-        "board": "UP Anganwadi Vacancy 2026 - 146 Anganwadi Worker PostsUP Anganwadi Anganwadi Worker Vacancy 2026",
-        "title": "Anganwadi Karyakartri (Anganwadi Worker)",
-        "qualification": "Only female candidates are eligible to apply for the advertised posts. The minimum educational qualification for the post of Anganwadi Karyakartri is Intermediate (12th) pass or an equivalent qualification. Candidates holding a higher qualification, up to postgraduate level, will have their merit prepared on the basis of that higher qualification, with marks/grades converted according to the formula approved by the concerned board or university for grading and CGPA.",
-        "last_date": "02 Sep 2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "As per the notification, the age cut-off date is 1 July 2026. The minimum age is 18 years and the maximum age is 35 years as on the cut-off date. Only the date of birth recorded in the High School mark sheet/certificate will be accepted for age calculation. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://upanganwadibharti.in/",
-        "official_notification": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1786532208_015e38f4.pdf"
     },
     {
         "date": "12 Aug 2026",

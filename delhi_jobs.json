@@ -1,5 +1,69 @@
 [
     {
+        "date": "03 Sep 2026",
+        "board": "GGSGH Vacancy 2026 - 26 Senior Resident PostsGGSGH Senior Resident Vacancy 2026",
+        "title": "Senior Resident",
+        "qualification": "MBBS with P.G. Degree/Diploma/DNB or three year experience in concerned specialty from a recognized university/Institution and valid registration with Delhi Medical Council",
+        "last_date": "07 Sep 2026",
+        "total_posts": "26",
+        "salary": "Senior Resident: Level-11 (Rs. 67,700 - 2,08,700) plus admissible allowances Per Month",
+        "age_limit": "Maximum Age Limit: 45 years || Age relaxation will be as per government rules. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ggsgh.delhi.gov.in",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wggsg_80.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "IIT Delhi Vacancy 2026 - 1 Research Associate PostsIIT Delhi Research Associate Vacancy 2026",
+        "title": "Research Associate",
+        "qualification": "Ph.D. in Mechanical Engg. or Applied Mechanics from IITs/IISc/CFTIs with at least 2 research papers in Science Citation (SCI) Journals. Minimum two years of relevant research experience (including PhD) in fluid-structure interaction, guided wave propagation, and structural health monitoring. Exposure to experiments in vibration and structural health monitoring/finite element simulations desirable.",
+        "last_date": "16 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs.58,000/- p.m. plus HRA @27%",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in/",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1788341371551_vywn38p.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "AIIMS Delhi Vacancy 2026 - 1 Clinical Research Coordinator PostsAIIMS Delhi Clinical Research Coordinator Vacancy 2026",
+        "title": "Clinical Research Coordinator",
+        "qualification": "Bachelor Degree in relevant subject with 2 years experience in relevant field OR Master Degree in relevant subject",
+        "last_date": "12 Sep 2026",
+        "total_posts": "1",
+        "salary": "For Clinical Research Coordinator:₹30,000/- per month (duration February 2029)",
+        "age_limit": "For Clinical Research Coordinator:The maximum age limit is 35 years. || Age Relaxation:SC/ST: 5 yearsOBC: 3 years || SC/ST: 5 years || OBC: 3 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Shortlisting of candidates || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/pul.med-2-9-26.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "UPSC Vacancy 2026 - 127 Assistant Chemist, Geologist and More PostsUPSC Vacancy 2026",
+        "title": "Assistant Chemist, Geologist and More",
+        "qualification": "Master's degree in Geological Science, Geology, Applied Geology, Geo-Exploration, Mineral Exploration, Engineering Geology, Marine Geology, Earth Science and Resource Management, Oceanography and Coastal Areas Studies, Petroleum Geosciences, or Geochemistry",
+        "last_date": "22 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "A candidate must have attained 21 years and must not have attained 32 years as on 1 January 2027 - i.e., born not earlier than 2 January 1995 and not later than 1 January 2006 || Upper age relaxable up to 5 years for Government servants employed in GSI or CGWB applying for the corresponding post || Upper age relaxable up to 5 years for SC/ST candidates, 3 years for OBC candidates, 3 years for disabled Defence Services personnel, 5 years for Ex-servicemen, and 10 years for Persons with Benchmark Disability || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
+        "application_fee": "Candidates are required to pay a fee of ₹200, through net banking or Visa/Master/RuPay Credit/Debit Card/UPI. Female candidates and candidates belonging to Scheduled Castes, Scheduled Tribes, and Persons with Benchmark Disability are exempted from the fee. OBC and EWS candidates are required to pay the full prescribed fee. Fee once paid is non-refundable under any circumstances.",
+        "selection_process": "Selection proceeds through three successive stages: the Preliminary Examination (Stage-I) for shortlisting to the Main Examination; the Main Examination (Stage-II) for shortlisting to the Personality Test; and the Personality Test/Interview (Stage-III). Final selection for GSI and CGWB posts is strictly by merit position in each category, candidate preference, and number of vacancies.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.upsc.gov.in/",
+        "official_notification": "https://www.upsc.gov.in/sites/default/files/Notif-CGSPE-2027-Engl-020926.pdf"
+    },
+    {
         "date": "02 Sep 2026",
         "board": "SSC Vacancy 2026 - 1748 Junior Engineer PostsSSC Junior Engineer Vacancy 2026",
         "title": "Junior Engineer",
@@ -158,22 +222,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.gailonline.com",
         "official_notification": "https://www.gailonline.com/careers/currentOpnning/GATE-2027-1st-Advertisement-01-09-2026.pdf"
-    },
-    {
-        "date": "01 Sep 2026",
-        "board": "IIT Delhi Vacancy 2026 - 1 Senior Project Assistant PostsIIT Delhi Senior Project Assistant Vacancy 2026",
-        "title": "Senior Project Assistant (Admin.)",
-        "qualification": "M.A. degree in any discipline with a minimum of 55% marks",
-        "last_date": "02 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 47790 - 62350 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Online Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://ird.iitd.ac.in",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1787116158446_yc308p5.pdf"
     },
     {
         "date": "19 Aug 2026",
@@ -525,7 +573,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "31 Aug 2026",
@@ -721,22 +769,6 @@
     },
     {
         "date": "28 Aug 2026",
-        "board": "DCAC Vacancy 2026 - 2 Assistant Professor PostsDCAC Assistant Professor Vacancy 2026",
-        "title": "Assistant Professor",
-        "qualification": "Master's degree with 55% marks as per UGC Regulations, NET/Ph.D. as applicable",
-        "last_date": "02 Sep 2026",
-        "total_posts": "2",
-        "salary": "Rs. 1500 - 50000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://dcac.du.ac.in",
-        "official_notification": "https://www.du.ac.in/uploads/2026/27082026-dcac-Notice_Guest_Interview_Journalism_compressed.pdf"
-    },
-    {
-        "date": "28 Aug 2026",
         "board": "AIIA Vacancy 2026 - 1 Pharmacist PostsAIIA Pharmacist Vacancy 2026",
         "title": "Pharmacist",
         "qualification": "B. Pharma in Ayurveda, 1 year experience in reputed Ayurveda Hospital",
@@ -781,7 +813,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "tcgl-recruitment-2026-walk-in-for-47-office-assistant-project-engineer-and-more-posts-3066058"
     },
     {
         "date": "11 Aug 2026",
@@ -846,22 +878,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nhai.gov.in",
         "official_notification": "https://nhai.gov.in/nhai/sites/default/files/vacancy_files/advertisement.pdf"
-    },
-    {
-        "date": "27 Aug 2026",
-        "board": "NSC Delhi Vacancy 2026 - 1 Junior Mentor PostsNSC Delhi Junior Mentor Vacancy 2026",
-        "title": "Junior Mentor",
-        "qualification": "Bachelor's degree in Engineering in 1st class (Robotics / Computers / Electronics / Mechanical Engineering/ Mechatronics or Equivalent discipline) with 1 year experience in teaching/research/industry",
-        "last_date": "02 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 37000 Per Month",
-        "age_limit": "Min: 31 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://nscd.gov.in",
-        "official_notification": "https://nscd.gov.in/wp-content/uploads/2026/08/Jr.-Mentor.pdf"
     },
     {
         "date": "27 Aug 2026",
@@ -1169,22 +1185,6 @@
     },
     {
         "date": "25 Aug 2026",
-        "board": "ICMR Vacancy 2026 - 1 Young Professional-II PostsICMR Young Professional-II Vacancy 2026",
-        "title": "Young Professional-II",
-        "qualification": "Post Graduate in Biostatistics/Statistics/Demography/Population Studies/Public Health/Medical Sociology with at least 55% marks and 1 year post-qualification experience",
-        "last_date": "02 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 42000 Per Month",
-        "age_limit": "Max: 40 years",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.icmr.gov.in",
-        "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1785310866_yp-iivacancynotification.pdf"
-    },
-    {
-        "date": "25 Aug 2026",
         "board": "ERNET India Vacancy 2026 - 6 Project Engineer Level 02 / Senior Project Engineer / Project Manager Level 01 / Project Manager Level 02 PostsERNET India Project Engineer Level 02 / Senior Project Engineer / Project Manager Level 01 / Project Manager Level 02 Vacancy 2026",
         "title": "Project Engineer Level 02 / Senior Project Engineer / Project Manager Level 01 / Project Manager Level 02",
         "qualification": "Full time B. Tech. /BE /MCA /M. Sc. or equivalent in Electronics/Information Technology/Electronics and Communication/Tele-Communication/Computer Science/Computer Application/Instrumentation/Physics",
@@ -1345,22 +1345,6 @@
     },
     {
         "date": "24 Aug 2026",
-        "board": "ICSSR Vacancy 2026 - 5 Research Assistant, Field Investigator PostsICSSR Vacancy 2026",
-        "title": "Research Assistant and Field Investigator",
-        "qualification": "Post Graduate in Social Science discipline with NET/ M.Phil/ Ph.D.",
-        "last_date": "02 Sep 2026",
-        "total_posts": "5",
-        "salary": "Research Assistant:Rs.37,000/ - p.m || Field Investigator:Rs.20,000/ - p.m",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting || Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://aud.delhi.gov.in/",
-        "official_notification": "https://aud.delhi.gov.in/sites/default/files/2026-08/advertisement_for_ra_and_fi.pdf"
-    },
-    {
-        "date": "24 Aug 2026",
         "board": "Delhi Cantonment Board Vacancy 2026 - 1 Hospital Administrator PostsDelhi Cantonment Board Hospital Administrator Vacancy 2026",
         "title": "Hospital Administrator",
         "qualification": "Retired/Superannuated officers of the Army Medical Corps (AMC) holding the rank of Colonel or above with at least 05 years' experience in Hospital Administration.",
@@ -1505,22 +1489,6 @@
     },
     {
         "date": "22 Aug 2026",
-        "board": "AIIA Vacancy 2026 - 1 Child Counsellor cum Psychologist PostsAIIA Child Counsellor cum Psychologist Vacancy 2026",
-        "title": "Child Counsellor cum Psychologist",
-        "qualification": "Master Degree in Psychology from a recognized university",
-        "last_date": "02 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 50000 Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://aiia.gov.in/",
-        "official_notification": "https://aiia.gov.in/viewpdf?docTypeId=1&pdfName=1787296118517_Vacancy21082026123833.pdf"
-    },
-    {
-        "date": "22 Aug 2026",
         "board": "NCPSL Vacancy 2026 - 1 Translator PostsNCPSL Translator Vacancy 2026",
         "title": "Translator",
         "qualification": "1 Posts",
@@ -1630,22 +1598,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ird.iitd.ac.in",
         "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1787114988060_d3slkb3.pdf"
-    },
-    {
-        "date": "20 Aug 2026",
-        "board": "NHSRC Vacancy 2026 - 12 Consultant PostsNHSRC Consultant Vacancy 2026",
-        "title": "Consultant",
-        "qualification": "B.E./B.Tech./MCA/M.E./M.Tech., Master’s degree in Computer Science/IT/Engineering",
-        "last_date": "02 Sep 2026",
-        "total_posts": "Not Available",
-        "salary": "Consultant - Lead Front End Developer (Angular): Rs. 1,25,000/- to Rs. 1,50,000/- per month || Consultant Database Developer: Rs. 1,00,000/- to Rs. 1,25,000/- per month || Consultant - Senior DBA: Rs. 1,50,000/- to Rs. 1,75,000/- per month || Consultant - Front End Developer (React): Rs. 1,00,000/- to Rs. 1,25,000/- per month || Consultant - Java Developer: Rs. 1,00,000/- to Rs. 1,25,000/- per month || Consultant - Full Stack Developer (Node.js): Rs. 1,00,000/- to Rs. 1,25,000/- per month || Consultant- Project Management: Rs. 1,75,000/- to Rs. 2,25,000/- per month",
-        "age_limit": "Maximum Age Limit: 55 years for all posts. || Age relaxation rules will be as per government norms. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Not Available",
-        "selection_process": "Written Test || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://nhsrcindia.org",
-        "official_notification": "https://img2.freejobalert.com/news/2026/08/347879-6a86e9543e34265184007.pdf"
     },
     {
         "date": "20 Aug 2026",
@@ -1761,22 +1713,6 @@
     },
     {
         "date": "20 Aug 2026",
-        "board": "IIT Delhi Vacancy 2026 - 1 Jr. Research Fellow PostsIIT Delhi Jr. Research Fellow Vacancy 2026",
-        "title": "Jr. Research Fellow",
-        "qualification": "1st class Postgraduate (M.Tech./M.Sc.) degree in Polymer Science, Fibre Science, Chemistry, Nanotechnology, or allied areas, preferably with experience in polymer synthesis and characterization with NET/GATE",
-        "last_date": "02 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs.37,000/- p.m. plus HRA @27%",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Online Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://ird.iitd.ac.in",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1787115919499_c1m9u09.pdf"
-    },
-    {
-        "date": "20 Aug 2026",
         "board": "ICAR IARI Vacancy 2026 - 2 Senior Research Fellow and Young Professional II PostsICAR IARI Vacancy 2026",
         "title": "Senior Research Fellow and Young Professional II",
         "qualification": "Master's degree for SRF; Postgraduate degree for YP-II.",
@@ -1841,22 +1777,6 @@
     },
     {
         "date": "20 Aug 2026",
-        "board": "IIT Delhi Vacancy 2026 - 1 Principal Project Scientist PostsIIT Delhi Principal Project Scientist Vacancy 2026",
-        "title": "Principal Project Scientist",
-        "qualification": "PhD in power systems area",
-        "last_date": "02 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 75600 - 101610/- p.m. plus HRA @ 27%",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://ird.iitd.ac.in",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1787037494452_y8kdmyu.pdf"
-    },
-    {
-        "date": "20 Aug 2026",
         "board": "NIT Delhi Vacancy 2026 - 8 Project Associate, Project Consultant and More Posts PostsNIT Delhi Vacancy 2026",
         "title": "Project Associate / Project Consultant",
         "qualification": "B.Tech. (Civil) + 2 Years Experience, Diploma (Civil) + 4 Years Experience, B.Tech. (Electrical) + 2 Years Experience, Diploma (Electrical) + 4 Years Experience, Diploma or Above (Civil) + 2 Years Experience, 10th + 10 Years Experience, M.Tech.(Civil) + 4 Years Experience, B.Tech. (Civil) + 6 Years Experience",
@@ -1870,22 +1790,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nitdelhi.ac.in",
         "official_notification": "https://media.nitdelhi.ac.in/uploads/announcements/Recruitment/Aug-Recruitment%20Advertisement%20for%20temporary%20positions%20in%20consultancy%20works@nitdelhice9c53a6-b252-4033-b287-5221d765706a.pdf"
-    },
-    {
-        "date": "20 Aug 2026",
-        "board": "AIIMS Delhi Vacancy 2026 - 5 Project Scientist I, Project Technical Support III PostsAIIMS Delhi Vacancy 2026",
-        "title": "Project Scientist I Non-Medical / Project Technical Support III",
-        "qualification": "PhD or M.Tech/M.Sc. in Biomedical/Electronics/Mechanical, B-Tech/ M-Tech in Mechanical/Electronics/Biomedical",
-        "last_date": "02 Sep 2026",
-        "total_posts": "5",
-        "salary": "Project Scientist I Non-Medical: Rs. 56,000/- + 30% HRA Per Month || Project Technical Support III: Rs. 28,000/- + 30% HRA Per Month",
-        "age_limit": "Maximum Age Limit: 35 years for all posts. || Age relaxation rules will be as per government norms. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting || Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://aiims.edu/",
-        "official_notification": "https://aiims.edu/images/pdf/recruitment/advertisement/neurosurg-19-8-26.pdf"
     },
     {
         "date": "19 Aug 2026",
@@ -2061,7 +1965,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-je-recruitment-2026-notification-out-apply-online-for-1748-junior-engineer-posts-3065989"
+        "official_notification": "Not Available"
     },
     {
         "date": "14 Aug 2026",
@@ -2174,22 +2078,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.icmr.gov.in/",
         "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1786078042_vacancycirculardated06082026.pdf"
-    },
-    {
-        "date": "11 Aug 2026",
-        "board": "AIIMS Delhi Vacancy 2026 - 1 Project Research Scientist PostsAIIMS Delhi Project Research Scientist Vacancy 2026",
-        "title": "Project Research Scientist-II (Medical)",
-        "qualification": "MBBS / BVSc / BDS with three years post qualification experience, MBBS / BVSc / BDS + Post Graduate Degree (MD/MVSc/MDS/MPH) or equivalent including integrated PG degrees, MBBS/BVSc/BDS with PhD",
-        "last_date": "02 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 104000 Per Month",
-        "age_limit": "Max: 40 years",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://docs.google.com/forms/d/e/1FAIpQLSfjcebQU4nQ4HIxym/edit",
-        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/rpv-commnity-6-8-26.pdf"
     },
     {
         "date": "11 Aug 2026",
