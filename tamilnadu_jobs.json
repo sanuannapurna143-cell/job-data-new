@@ -1,6 +1,70 @@
 [
     {
         "date": "03 Sep 2026",
+        "board": "BEL Vacancy 2026 - ITI Apprentice PostsBEL ITI Apprentice Vacancy 2026",
+        "title": "ITI Apprentices",
+        "qualification": "Candidates must have passed ITI. || ITI candidates who passed on or after 01 January 2022 are eligible.",
+        "last_date": "26 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Selected apprentices will receive a monthly stipend during the apprenticeship training period.",
+        "age_limit": "The maximum age limit is 21 years as on 01 September 2025. || SC/ST candidates: 5 years age relaxation || OBC candidates: 3 years age relaxation || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Not Available",
+        "selection_process": "Candidates will be selected based on their performance in the written test.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bel-india.in",
+        "official_notification": "https://bel-india.in/wp-content/uploads/2026/09/Advertisement-Copy.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "DHS Sivagangai Vacancy 2026 - 2 DPPM Coordinator and Driver PostsDHS Sivagangai Vacancy 2026",
+        "title": "District Public-Private Mix Coordinator (DPPM) and Driver",
+        "qualification": "Post Graduate (DPPM), High School Certificate (Driver)",
+        "last_date": "11 Sep 2026",
+        "total_posts": "2",
+        "salary": "29000 per month (DPPM), 17500 per month (Driver)",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://sivaganga.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s31a5b1e4daae265b790965a275b53ae50/uploads/2026/08/17876516432185.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "RDPD Ramanathapuram Vacancy 2026 - 1 Record Clerk PostsRDPD Ramanathapuram Record Clerk Vacancy 2026",
+        "title": "Record Clerk",
+        "qualification": "10th Pass",
+        "last_date": "30 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 15900 - 58600 Per Month",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 37 years || Age Relaxation: PWD: 10 years extension, Ex-Serviceman: 18-55 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://ramanathapuram.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3f9b902fc3289af4dd08de5d1de54f68f/uploads/2026/08/17872307478076.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "CUTN Vacancy 2026 - 1 JRF/Project Fellow PostsCUTN JRF/Project Fellow Vacancy 2026",
+        "title": "JRF/Project Fellow",
+        "qualification": "Post Graduate in Physics",
+        "last_date": "11 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 14000 - 28000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://cutn.ac.in/",
+        "official_notification": "https://cutn.ac.in/wp-content/uploads/2026/09/Adv_Letter_IUAC_project-final_R5_01092026.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
         "board": "IIITDM Kancheepuram Vacancy 2026 - 2 Junior Research Fellow PostsIIITDM Kancheepuram Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "M.E. / M.Tech. specialization in ECE or equivalent",
@@ -301,7 +365,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
     },
     {
         "date": "31 Aug 2026",
@@ -477,7 +541,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
     },
     {
         "date": "28 Aug 2026",
@@ -669,7 +733,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
     },
     {
         "date": "25 Aug 2026",
@@ -685,7 +749,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
     },
     {
         "date": "24 Aug 2026",
@@ -813,7 +877,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
     },
     {
         "date": "12 Aug 2026",
