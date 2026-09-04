@@ -1,6 +1,54 @@
 [
     {
         "date": "04 Sep 2026",
+        "board": "NIT Tirchy Vacancy 2026 - 2 Project Associate & Project Assistant PostsNIT Tirchy Project Associate & Project Assistant Vacancy 2026",
+        "title": "Project Associate & Project Assistant",
+        "qualification": "For Project Associate: M.E./M.Tech./M.Plan or equivalent in Civil Engineering. For Project Assistant: 3 years Diploma in Engineering & Technology or a relevant Degree with First Class in Civil Engineering or equivalent.",
+        "last_date": "21 Sep 2026",
+        "total_posts": "2",
+        "salary": "Project Associate: Rs. 25000 /- per month. Project Assistant: Rs. 18000 /- per month.",
+        "age_limit": "The upper age limit is 35 years as on the closing date of advertisement. || Age relaxation: SC/ST candidates get a relaxation of 5 years, and OBC candidates get a relaxation of 3 years.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Written Test and/or Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://docs.google.com/forms/d/e/1FAIpQLSfOlVP0wHYzaRFO2m5wwzUUP20zYhS1spG9W6OFKlEAATAKWw/viewform",
+        "official_notification": "https://nitt.edu/home/other/jobs/CIV_Project_Staff_Sep_2026.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "IIT Madras Vacancy 2026 - 1 Senior Cyber Security Consultant PostsIIT Madras Senior Cyber Security Consultant Vacancy 2026",
+        "title": "Senior Cyber Security Consultant",
+        "qualification": "Bachelor's in Cybersecurity, Computer Science, Computer Engineering or a related field",
+        "last_date": "07 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs. 166667 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://icandsr.iitm.ac.in",
+        "official_notification": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1788264976.pdf"
+    },
+    {
+        "date": "03 Sep 2026",
+        "board": "IIITDM Kancheepuram Vacancy 2026 - 2 Junior Research Fellow PostsIIITDM Kancheepuram Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.E. / M.Tech. specialization in ECE or equivalent",
+        "last_date": "20 Sep 2026",
+        "total_posts": "2",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiitdm.ac.in",
+        "official_notification": "https://drive.google.com/file/d/1mwhydmUNTgryf01G1NyVurju9iILQKfT/view"
+    },
+    {
+        "date": "04 Sep 2026",
         "board": "RCFL Vacancy 2026 - 326 Graduate, Technician, Trade Apprentice PostsRCFL Vacancy 2026",
         "title": "Graduate, Technician, Trade Apprentice",
         "qualification": "The prescribed qualification must be from a recognised University/Institute, completed as a regular full-time course. Distance Learning, Part-Time, or Correspondence mode qualifications are not eligible. || Allied branches of Diploma in Engineering are not applicable/acceptable. || Candidates who have completed Act Apprentice training or job experience of one year or more, or who are pursuing higher studies, are not eligible. || The candidate's passing certificate/final year mark sheet of the required qualification must be dated on or after 1 July 2023, with the minimum percentage calculated on the final year or the aggregate of the last two semesters. || Applicants with a B.Sc in Chemistry, Physics, and Mathematics will be considered only for Attendant Operator (Chemical Plant) (AOCP) and Laboratory Assistant (Chemical Plant) (LACP) trades under the RDSDE scheme, with Chemistry as the major subject. || Applicants with a B.Sc in Chemistry, Physics, and Mathematics will be considered only for the Instrument Mechanic (Chemical Plant) (IMCP) trade under the RDSDE scheme, with Physics as the major subject. || Candidates with Biology in their Graduation degree, with only Zoology or only Botany, may apply as Graduate Apprentices under Secretarial Assistant or Recruitment Executive (HR). || Candidates may apply without the passing certificate, but the original passing certificate must be submitted at document verification, failing which the candidature will be cancelled.",
@@ -113,22 +161,6 @@
     },
     {
         "date": "03 Sep 2026",
-        "board": "IIITDM Kancheepuram Vacancy 2026 - 2 Junior Research Fellow PostsIIITDM Kancheepuram Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "M.E. / M.Tech. specialization in ECE or equivalent",
-        "last_date": "20 Sep 2026",
-        "total_posts": "2",
-        "salary": "Rs. 37000 Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iiitdm.ac.in",
-        "official_notification": "https://drive.google.com/file/d/1mwhydmUNTgryf01G1NyVurju9iILQKfT/view"
-    },
-    {
-        "date": "03 Sep 2026",
         "board": "IRCTC Vacancy 2026 - 1 Consultant for Control Office PostsIRCTC Consultant for Control Office Vacancy 2026",
         "title": "Consultant for Control Office",
         "qualification": "10th Pass, Graduate (preferred), Retired Railway Official from Level 6-10 (7th CPC) Operating/Commercial Dept",
@@ -142,22 +174,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.irctc.com",
         "official_notification": "https://www.irctc.com/assets/images2/NotificationforConsultantsMAS(2Sep26).pdf"
-    },
-    {
-        "date": "03 Sep 2026",
-        "board": "IIT Madras Vacancy 2026 - 1 Senior Cyber Security Consultant PostsIIT Madras Senior Cyber Security Consultant Vacancy 2026",
-        "title": "Senior Cyber Security Consultant",
-        "qualification": "Bachelor's in Cybersecurity, Computer Science, Computer Engineering or a related field",
-        "last_date": "07 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 166667 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://icandsr.iitm.ac.in",
-        "official_notification": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1788264976.pdf"
     },
     {
         "date": "03 Sep 2026",
@@ -413,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bgssl-recruitment-2026-apply-online-for-1949-apprentice-executive-and-more-posts-3066285"
     },
     {
         "date": "31 Aug 2026",
@@ -749,7 +765,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bgssl-recruitment-2026-apply-online-for-1949-apprentice-executive-and-more-posts-3066285"
     },
     {
         "date": "25 Aug 2026",
@@ -765,7 +781,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bgssl-recruitment-2026-apply-online-for-1949-apprentice-executive-and-more-posts-3066285"
     },
     {
         "date": "24 Aug 2026",
@@ -893,7 +909,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bgssl-recruitment-2026-apply-online-for-1949-apprentice-executive-and-more-posts-3066285"
     },
     {
         "date": "12 Aug 2026",
