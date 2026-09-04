@@ -1,22 +1,6 @@
 [
     {
         "date": "04 Sep 2026",
-        "board": "AIIMS Nagpur Vacancy 2026 - 72 Senior Resident PostsAIIMS Nagpur Senior Resident Vacancy 2026",
-        "title": "Senior Resident (SR)",
-        "qualification": "For the Trauma & Emergency department, the accepted qualifications are: MD in Emergency Medicine, or MD in General Medicine, or MS in General Surgery, or MD in Anaesthesiology, or MD in Respiratory Medicine, or MS in Orthopaedics, or a recognised qualification equivalent thereto.",
-        "last_date": "17 Sep 2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "45 years as on closing date (17/09/2026), with relaxation for SC/ST/OBC/PwD as applicable",
-        "application_fee": "Rs. 500 (General/EWS/OBC); Rs. 250 (SC/ST); exempted for PwD candidates",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://aiimsnagpur.edu.in",
-        "official_notification": "https://aiimsnagpur.edu.in/upload/recruitment/SR_Advt_26_04.pdf"
-    },
-    {
-        "date": "04 Sep 2026",
         "board": "BGSSL Vacancy 2026 - Apprentice, Executive and More PostsBGSSL Vacancy 2026",
         "title": "Apprentice, Executive and More",
         "qualification": "Detailed educational qualification and experience for each role, based on the job description document provided by BGSSL, are given below. Where a role in the recruitment notice does not have a directly corresponding job description in the source document, this is stated explicitly rather than assumed. || Candidates should note that the closest-matching job descriptions above are indicative, since the recruitment notice and the job description document use slightly different role titles and levels in some cases. Where no reasonably matching job description was found in the source documents, this has been stated explicitly rather than assumed.",
@@ -30,6 +14,22 @@
         "syllabus": "Not Available",
         "official_website": "https://www.bgss.in",
         "official_notification": "https://www.bgss.in/careers/all"
+    },
+    {
+        "date": "04 Sep 2026",
+        "board": "AIIMS Nagpur Vacancy 2026 - 72 Senior Resident PostsAIIMS Nagpur Senior Resident Vacancy 2026",
+        "title": "Senior Resident (SR)",
+        "qualification": "For the Trauma & Emergency department, the accepted qualifications are: MD in Emergency Medicine, or MD in General Medicine, or MS in General Surgery, or MD in Anaesthesiology, or MD in Respiratory Medicine, or MS in Orthopaedics, or a recognised qualification equivalent thereto.",
+        "last_date": "17 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "45 years as on closing date (17/09/2026), with relaxation for SC/ST/OBC/PwD as applicable",
+        "application_fee": "Rs. 500 (General/EWS/OBC); Rs. 250 (SC/ST); exempted for PwD candidates",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsnagpur.edu.in",
+        "official_notification": "https://aiimsnagpur.edu.in/upload/recruitment/SR_Advt_26_04.pdf"
     },
     {
         "date": "04 Sep 2026",
