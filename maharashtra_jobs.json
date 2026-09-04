@@ -1,5 +1,37 @@
 [
     {
+        "date": "04 Sep 2026",
+        "board": "NABFINS Vacancy 2026 - Customer Service Officer PostsNABFINS Customer Service Officer Vacancy 2026",
+        "title": "Customer Service Officer (CSO)",
+        "qualification": "Not Mentioned",
+        "last_date": "10 Sep 2026",
+        "total_posts": "Not Mentioned",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nabfins.org/",
+        "official_notification": "https://nabfins.org/Careers/jobProfile.php?id=1143"
+    },
+    {
+        "date": "04 Sep 2026",
+        "board": "SBI Vacancy 2026 - 207 Investment Officer, Zonal Head and More PostsSBI Vacancy 2026",
+        "title": "Investment Officer, Zonal Head and More",
+        "qualification": "3 years in sales & marketing with leading banks/wealth firms/AMCs, or 4 years as an SBI Wealth CRE. Preferred: minimum 3 years as a Relationship Manager or similar role in wealth management",
+        "last_date": "25 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Maximum age indicated is for Unreserved category candidates; relaxation in the upper age limit is available to reserved category candidates as per Government of India guidelines.",
+        "application_fee": "The application fee and intimation charges (non-refundable) are ₹750 for UR/EWS/OBC candidates; there is no fee for SC/ST/PwBD candidates. Fees must be paid online through the payment gateway integrated with the application, using Debit Card, Credit Card, or Internet Banking. The fee, once paid, will not be refunded or adjusted for any other examination or selection.",
+        "selection_process": "Shortlisting: mere fulfilment of minimum qualification and experience does not entitle a candidate to be called for interview; the shortlisting committee decides the parameters and number of candidates called. || Interview: one or more rounds of personal, telephonic, or video interview, carrying 100 marks; the qualifying marks are decided by the Bank. || CTC Negotiation: conducted individually with shortlisted candidates, at the time of interview or after completion of the interview process. || Merit List: prepared in descending order based on interview scores only; candidates tied at the cut-off mark are ranked by age, in descending order.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sbi.bank.in/",
+        "official_notification": "https://sbi.bank.in/documents/77530/57941334/03092026_1_Advt+_Wealth+MGMT_04.09.2026.pdf/d2fd7bab-0791-b62b-61d3-8f46c2cb3ec6?t=1788439145915"
+    },
+    {
         "date": "03 Sep 2026",
         "board": "PFRDA Vacancy 2026 - 30 Officer Grade ‘A’ (Assistant Manager) PostsPFRDA Officer Grade ‘A’ (Assistant Manager) Vacancy 2026",
         "title": "Officer Grade 'A' (Assistant Manager)",
@@ -381,7 +413,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
+        "official_notification": "rcf-apprentice-recruitment-2026-apply-online-for-326-graduate-technician-trade-apprentice-posts-3066186"
     },
     {
         "date": "01 Sep 2026",
@@ -545,22 +577,6 @@
     },
     {
         "date": "29 Aug 2026",
-        "board": "CSIR NEERI Vacancy 2026 - 5 Senior Project Associate PostsCSIR NEERI Senior Project Associate Vacancy 2026",
-        "title": "Senior Project Associate",
-        "qualification": "B.E./ B.Tech (Civil/ Chemical Engineering/ Computer Science/ Environmental Engineering) , M.Sc. (Environment Science/ Life Science/ Chemistry) , M.E./ M.Tech",
-        "last_date": "03 Sep 2026",
-        "total_posts": "5",
-        "salary": "Rs. 42000 + HRA Per Month",
-        "age_limit": "Max: 40 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.neeri.res.in",
-        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/RECRUIT_SD_7A_CEPED_27082026_B.pdf"
-    },
-    {
-        "date": "29 Aug 2026",
         "board": "TIFR Vacancy 2026 - 1 Project Engineer PostsTIFR Project Engineer Vacancy 2026",
         "title": "Project Engineer",
         "qualification": "B.E. / B.Tech. in Electronics Engineering or Electronics",
@@ -625,22 +641,6 @@
     },
     {
         "date": "28 Aug 2026",
-        "board": "CSIR NEERI Vacancy 2026 - 1 Project Assistant-II PostsCSIR NEERI Project Assistant-II Vacancy 2026",
-        "title": "Project Assistant-II",
-        "qualification": "B.Sc. (Environmental Science/ Life Science/Chemistry) from recognized University, 3 years Diploma in Engineering and Technology (Civil/Chemical Engg.)",
-        "last_date": "03 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 20,000/- + HRA Per Month",
-        "age_limit": "Maximum Age Limit: 35 years. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Online Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.neeri.res.in",
-        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/RECRUIT_SD_7A_CEPED_27082026_D.pdf"
-    },
-    {
-        "date": "28 Aug 2026",
         "board": "TMC ACTREC Vacancy 2026 - 1 Scientific Assistant PostsTMC ACTREC Scientific Assistant Vacancy 2026",
         "title": "Scientific Assistant",
         "qualification": "M.Sc. Statistics, M.Sc. IT, M.Sc. Computer Science, M.Sc. Public Health, M. Tech /B. Tech Biotechnology",
@@ -673,38 +673,6 @@
     },
     {
         "date": "28 Aug 2026",
-        "board": "CSIR NEERI Vacancy 2026 - 1 Project Associate-I PostsCSIR NEERI Project Associate-I Vacancy 2026",
-        "title": "Project Associate-I",
-        "qualification": "B.E/B.Tech in Chemical Engineering",
-        "last_date": "03 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 31,000/- + HRA for those candidates who have qualified CSIR-UGC / ICAR / ICMR / NPTEL fellowship / Assistant professorship or GATE, Rs. 25,000/- + HRA for others who do not fall under (a) above.",
-        "age_limit": "Max Age: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.neeri.res.in",
-        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/RECRUIT_SD_3A_EIAAPD_27082026.pdf"
-    },
-    {
-        "date": "28 Aug 2026",
-        "board": "CSIR NEERI Vacancy 2026 - 1 Project Scientist II PostsCSIR NEERI Project Scientist II Vacancy 2026",
-        "title": "Project Scientist II",
-        "qualification": "M.E./ M.Tech (Civil/ Environmental Engg/ Computer Science & Engineering/ Electronics & Telecommunication Engineering)",
-        "last_date": "03 Sep 2026",
-        "total_posts": "1",
-        "salary": "Project Scientist II: Rs. 67,000/- Per Month + HRA",
-        "age_limit": "Maximum Age Limit: 40 years. || Age relaxation will be as per government rules. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.neeri.res.in",
-        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/RECRUIT_SD_7A_CEPED_27082026_C.pdf"
-    },
-    {
-        "date": "28 Aug 2026",
         "board": "ICAR-CIRCOT Vacancy 2026 - 1 Young Professional II PostsICAR-CIRCOT Young Professional II Vacancy 2026",
         "title": "Young Professional-II (YP-II)",
         "qualification": "Graduate degree in Textile Technology\\/Textile Chemistry\\/Chemical Engineering\\/Biotechnology or Master’s Degree in Chemistry\\/Environment Science\\/Microbiology",
@@ -734,22 +702,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.mcgm.gov.in/",
         "official_notification": "https://www.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Chief%20Personnel%20Officer/Recruitment%20Notice/Honarary%20adv12.pdf"
-    },
-    {
-        "date": "11 Aug 2026",
-        "board": "IOCL Vacancy 2026 - 470 Engineers, Officers and More PostsIOCL Vacancy 2026",
-        "title": "Engineers, Officers and More",
-        "qualification": "470 Posts",
-        "last_date": "03 Sep 2026",
-        "total_posts": "Not Available",
-        "salary": "₹50,000–1,60,000",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Selection comprises three stages: Computer Based Test (CBT), Group Discussion (GD) & Group Task (GT), and Personal Interview (PI).",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
     },
     {
         "date": "21 Jul 2026",
@@ -797,7 +749,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
+        "official_notification": "rcf-apprentice-recruitment-2026-apply-online-for-326-graduate-technician-trade-apprentice-posts-3066186"
     },
     {
         "date": "28 Aug 2026",
@@ -848,22 +800,6 @@
         "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/1787813067_RECRUIT_CRI_4D_CESRD_27082026.pdf"
     },
     {
-        "date": "27 Aug 2026",
-        "board": "CSIR NEERI Vacancy 2026 - 1 Project Associate-II PostsCSIR NEERI Project Associate-II Vacancy 2026",
-        "title": "Project Associate-II",
-        "qualification": "B.E./B.Tech (Civil/Computer Science/Environmental Engineering) with 2 years experience, M.Sc. (Environment Science/Life Science) with 2 years experience, M.E./M.Tech (Civil/Environmental Engg/Electronics & Telecommunication Engineering)",
-        "last_date": "03 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 35,000/- + HRA or Rs. 28,000/- + HRA Per Month",
-        "age_limit": "Maximum Age Limit: 35 years || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.neeri.res.in",
-        "official_notification": "https://recruitment.neeri.res.in/appform/Recruit/RECRUIT_SD_7A_CEPED_27082026_A.pdf"
-    },
-    {
         "date": "21 Aug 2026",
         "board": "MTPF Vacancy 2026 - 162 Apprentices PostsMTPF Apprentices Vacancy 2026",
         "title": "Apprentices",
@@ -877,7 +813,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
+        "official_notification": "rcf-apprentice-recruitment-2026-apply-online-for-326-graduate-technician-trade-apprentice-posts-3066186"
     },
     {
         "date": "27 Aug 2026",
@@ -910,22 +846,6 @@
         "syllabus": "Not Available",
         "official_website": "https://actrec.gov.in/",
         "official_notification": "https://actrec.gov.in/sites/default/files/2026-08/walk%20in%20interview%20of%20Scientific%20Assistant.pdf"
-    },
-    {
-        "date": "27 Aug 2026",
-        "board": "ESIC Vacancy 2026 - 76 Professor, Senior Resident and More PostsESIC Vacancy 2026",
-        "title": "Post Name",
-        "qualification": "The notification states that the educational and experience criteria for all advertised posts are as per the latest NMC (National Medical Commission) Gazette notification. The document lists this NMC Gazette notification date as 30.06.2025 in the general notes section and as 30.06.2026 in the Educational Qualification section — both dates appear in the official PDF, and candidates are advised to verify the exact date directly with ESIC or the official notification before applying. In summary, candidates should hold the MBBS/MD/MS/DNB/PG Diploma qualification (as applicable to the post applied for) with updated NMC/State Medical Council registration, meeting the specific teaching/experience norms prescribed under the applicable NMC Gazette notification. || All candidates must have updated Medical Registration (NMC/State Medical Council) along with post-MBBS/MD/MS qualification. If updated registration is not available, candidates must submit a copy of the \"applied for\" document at the time of interview.",
-        "last_date": "03 Sep 2026",
-        "total_posts": "Not Available",
-        "salary": "Pay is fixed as per the 7th Central Pay Commission (CPC), with Basic Pay plus other allowances (DA, NPA, TA, HRA, etc.) as applicable. || Retired employees/pensioners engaged on contract may draw total pay without deduction, as this is not treated as re-employment under the Central Civil Services (Fixation of Pay of Re-employed Pensioner) Orders, 1986, and they can continue to draw pension and dearness relief during the contract period.",
-        "age_limit": "Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
-        "application_fee": "The fee once paid will not be refunded under any circumstances. The original Demand Draft must be carried to the interview venue along with the application form.",
-        "selection_process": "Selection is based on the candidate's acquired academic credentials and performance in the interview before the Selection Board. || The Offer of Appointment will be sent through e-mail only. || Selected candidates must join as per the instructions in the offer of appointment; if a selected candidate does not join within the prescribed time, the offer will be issued to the waitlisted candidate.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://esic.gov.in/",
-        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_Recruitment_of_Professor_Associate_Professor_Assistant_Professor_Senior_Resident_and_Tutor_on_contract_basis_at_ESIC_Medical_College_and_Hospital_Andheri_East_Mumbai_400093_1787812165.pdf"
     },
     {
         "date": "27 Aug 2026",
@@ -1037,7 +957,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
+        "official_notification": "rcf-apprentice-recruitment-2026-apply-online-for-326-graduate-technician-trade-apprentice-posts-3066186"
     },
     {
         "date": "25 Aug 2026",
@@ -1085,7 +1005,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
+        "official_notification": "Not Available"
     },
     {
         "date": "31 Jul 2026",
@@ -1118,22 +1038,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.mahatransco.in",
         "official_notification": "https://www.mahatransco.in/uploads/career/career_1787311668.pdf"
-    },
-    {
-        "date": "24 Aug 2026",
-        "board": "ICMR NIRWoH Vacancy 2026 - 1 Senior Consultant PostsICMR NIRWoH Senior Consultant Vacancy 2026",
-        "title": "Senior Consultant (Scientific–Medical)",
-        "qualification": "MBBS or equivalent, At least 12 years post-qualification experience",
-        "last_date": "03 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 100000 - 150000 Per Month",
-        "age_limit": "Minimum Age: 40 years || Maximum Age: 70 years || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.icmr.gov.in/",
-        "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1787548855_adv_sr_consultant.pdf"
     },
     {
         "date": "24 Aug 2026",
@@ -1213,7 +1117,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
+        "official_notification": "rcf-apprentice-recruitment-2026-apply-online-for-326-graduate-technician-trade-apprentice-posts-3066186"
     },
     {
         "date": "20 Aug 2026",
@@ -1230,22 +1134,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.echs.gov.in",
         "official_notification": "https://www.echs.gov.in/assets/advertisement/INS%20HAMLA%20SHQ%20MUMBAI%202026.pdf"
-    },
-    {
-        "date": "20 Aug 2026",
-        "board": "SEBI Vacancy 2026 - 1 Security Coordinator PostsSEBI Security Coordinator Vacancy 2026",
-        "title": "Security Coordinator",
-        "qualification": "Graduate from recognised University",
-        "last_date": "03 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 391714 - 511714 Per Month",
-        "age_limit": "Max: 60 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.sebi.gov.in",
-        "official_notification": "https://www.sebi.gov.in/sebiweb/other/careerdetail.jsp?careerId=445"
     },
     {
         "date": "20 Aug 2026",
@@ -1373,23 +1261,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
-    },
-    {
-        "date": "14 Aug 2026",
-        "board": "Ordnance Factory Ambarnath Vacancy 2026 - 2 MBBS Doctor PostsOrdnance Factory Ambarnath MBBS Doctor Vacancy 2026",
-        "title": "MBBS Doctor",
-        "qualification": "MBBS Degree from MCI Recognized Medical College of India",
-        "last_date": "03 Sep 2026",
-        "total_posts": "2",
-        "salary": "MBBS Doctor:Rs.75,000/- (Consolidated)",
-        "age_limit": "Maximum Age: 70 years for all posts.",
-        "application_fee": "Nil",
-        "selection_process": "Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://ddpdoo.gov.in",
-        "official_notification": "https://ddpdoo.gov.in/storage/document/6a7eb4c5a834a.pdf"
+        "official_notification": "rcf-apprentice-recruitment-2026-apply-online-for-326-graduate-technician-trade-apprentice-posts-3066186"
     },
     {
         "date": "14 Aug 2026",
@@ -1421,7 +1293,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
+        "official_notification": "rcf-apprentice-recruitment-2026-apply-online-for-326-graduate-technician-trade-apprentice-posts-3066186"
     },
     {
         "date": "10 Aug 2026",

@@ -1,5 +1,69 @@
 [
     {
+        "date": "04 Sep 2026",
+        "board": "Atal Residential School Koraon Vacancy 2026 - 4 Guest Faculty Teacher PostsAtal Residential School Koraon Guest Faculty Teacher Vacancy 2026",
+        "title": "Guest Faculty Teacher",
+        "qualification": "Master Degree with B.Ed for PGT, Bachelor's with B.Ed for TGT, CTET/UPTET qualified for TGT",
+        "last_date": "15 Sep 2026",
+        "total_posts": "4",
+        "salary": "PGT Posts: Rs. 36750 Per Month || TGT Post: Rs. 34125 Per Month",
+        "age_limit": "Maximum Age Limit: 50 years for all posts. || Age relaxation rules are not specified in the provided data.",
+        "application_fee": "Nil",
+        "selection_process": "Merit List || Interview || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://prayagraj.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3cd00692c3bfe59267d5ecfac5310286c/uploads/2026/08/17881663506818.pdf"
+    },
+    {
+        "date": "04 Sep 2026",
+        "board": "UPESSC Vacancy 2026 - Special Teacher Eligibility Test (Special TET) PostsUPESSC Special Teacher Eligibility Test (Special TET) Vacancy 2026",
+        "title": "Special Teacher Eligibility Test (Special TET)",
+        "qualification": "Not Mentioned",
+        "last_date": "04 Oct 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Fee can be paid online via Credit Card, Debit Card, or Net Banking through the payment gateway available on the portal, immediately after registration. Payment is valid only after confirmation is received from the bank. The fee receipt must be preserved after payment. If a candidate completes One Time Registration (OTR) and fee payment but does not complete the application form by the final date, the application will not be considered valid. Fee once deposited for an erroneous application is not refunded under any circumstances, nor adjusted against another application.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.upessc.up.gov.in/",
+        "official_notification": "https://www.upessc.up.gov.in/Notice/badc-2f84-4983-44c3-12bf.pdf"
+    },
+    {
+        "date": "04 Sep 2026",
+        "board": "HAL Vacancy 2026 - 2 Visiting Consultant PostsHAL Visiting Consultant Vacancy 2026",
+        "title": "Visiting Consultant (Specialist Doctor)",
+        "qualification": "D. Ortho/ MS/ DNB, MD/ DCH",
+        "last_date": "30 Sep 2026",
+        "total_posts": "2",
+        "salary": "Orthopedic: Rs. 7000/ - for 2.5 hours per visit || Pediatrician: Rs. 7000/ - for 2.5 hours per visit",
+        "age_limit": "Maximum Age Limit: 65 years as on 30-09-2026. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://hal-india.co.in/",
+        "official_notification": "https://hal-india.co.in/backend//wp-content/uploads/career/Advt-Visiting%20Consultant%20(Specialist%20Doctor)-04-09-2026_1788494835.pdf"
+    },
+    {
+        "date": "04 Sep 2026",
+        "board": "SBI Vacancy 2026 - 207 Investment Officer, Zonal Head and More PostsSBI Vacancy 2026",
+        "title": "Investment Officer, Zonal Head and More",
+        "qualification": "3 years in sales & marketing with leading banks/wealth firms/AMCs, or 4 years as an SBI Wealth CRE. Preferred: minimum 3 years as a Relationship Manager or similar role in wealth management",
+        "last_date": "25 Sep 2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Maximum age indicated is for Unreserved category candidates; relaxation in the upper age limit is available to reserved category candidates as per Government of India guidelines.",
+        "application_fee": "The application fee and intimation charges (non-refundable) are ₹750 for UR/EWS/OBC candidates; there is no fee for SC/ST/PwBD candidates. Fees must be paid online through the payment gateway integrated with the application, using Debit Card, Credit Card, or Internet Banking. The fee, once paid, will not be refunded or adjusted for any other examination or selection.",
+        "selection_process": "Shortlisting: mere fulfilment of minimum qualification and experience does not entitle a candidate to be called for interview; the shortlisting committee decides the parameters and number of candidates called. || Interview: one or more rounds of personal, telephonic, or video interview, carrying 100 marks; the qualifying marks are decided by the Bank. || CTC Negotiation: conducted individually with shortlisted candidates, at the time of interview or after completion of the interview process. || Merit List: prepared in descending order based on interview scores only; candidates tied at the cut-off mark are ranked by age, in descending order.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sbi.bank.in/",
+        "official_notification": "https://sbi.bank.in/documents/77530/57941334/03092026_1_Advt+_Wealth+MGMT_04.09.2026.pdf/d2fd7bab-0791-b62b-61d3-8f46c2cb3ec6?t=1788439145915"
+    },
+    {
         "date": "03 Sep 2026",
         "board": "Atal Awasiya Vidyalaya Vacancy 2026 - 12 PGT and TGT PostsAtal Awasiya Vidyalaya Vacancy 2026",
         "title": "PGT and TGT",
@@ -541,7 +605,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
+        "official_notification": "Not Available"
     },
     {
         "date": "29 Aug 2026",
@@ -845,7 +909,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
+        "official_notification": "Not Available"
     },
     {
         "date": "26 Aug 2026",
@@ -926,22 +990,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.powergrid.in/",
         "official_notification": "https://www.powergrid.in/en/rolling-advertisement-for-enagagement-of-apprentices"
-    },
-    {
-        "date": "25 Aug 2026",
-        "board": "Atal Residential School Azamgarh Vacancy 2026 - 11 PGT & TGT PostsAtal Residential School Azamgarh PGT & TGT Vacancy 2026",
-        "title": "Guest Faculty Teachers (PGT/TGT)",
-        "qualification": "Post Graduate Degree with B.Ed. for PGTs, Graduate Degree with B.Ed. and TET for TGTs, specific subject combinations required.",
-        "last_date": "03 Sep 2026",
-        "total_posts": "11",
-        "salary": "PGT: 35750-36000, TGT: 34125",
-        "age_limit": "Max: 50 years as on 01-07-2026",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://azamgarh.nic.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s306138bc5af6023646ede0e1f7c1eac75/uploads/2026/08/17875521172216.pdf"
     },
     {
         "date": "24 Aug 2026",
@@ -1101,7 +1149,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
+        "official_notification": "Not Available"
     },
     {
         "date": "21 Aug 2026",
@@ -1166,22 +1214,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.rrcpryj.org",
         "official_notification": "https://rrcpryj.org/wp-content/uploads/2026/08/Notification-for-Cultural-Quota-Ope-Market-Recruitment-2026-27-for-NCR-1.pdf"
-    },
-    {
-        "date": "20 Aug 2026",
-        "board": "IIM Lucknow Vacancy 2026 - 1 Counsellor PostsIIM Lucknow Counsellor Vacancy 2026",
-        "title": "Counsellor",
-        "qualification": "M.A./ M.Sc. in Psychology/ Clinical Psychology with 1st Class OR M.Phil. in Psychology or Ph.D. in Psychology/ Clinical Psychology",
-        "last_date": "03 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 1,02,620 per month",
-        "age_limit": "Maximum Age Limit: 50 years || Age relaxation is applicable to SC/ ST/ OBC/ PwBD candidates as per Central Government rules. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Not Available",
-        "selection_process": "Personal Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iiml.ac.in",
-        "official_notification": "https://www.iiml.ac.in/sites/default/files/upload/jobs/467186741Advertisement%20for%20the%20post%20of%20Counsellor%20(on%20contract%20basis).pdf"
     },
     {
         "date": "18 Aug 2026",
@@ -1261,7 +1293,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-recruitment-2026-apply-online-for-12-computer-operator-assistant-computer-operator-posts-3066154"
+        "official_notification": "Not Available"
     },
     {
         "date": "14 Aug 2026",
@@ -1278,22 +1310,6 @@
         "syllabus": "Not Available",
         "official_website": "https://kanpurdehat.dcourts.gov.in",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec057d2be41b1bde6ff8fe45150c3748/uploads/2026/08/2026081350.pdf"
-    },
-    {
-        "date": "13 Aug 2026",
-        "board": "MANUU Vacancy 2026 - 1 Assistant Professor PostsMANUU Assistant Professor Vacancy 2026",
-        "title": "Assistant Professor (Contractual)",
-        "qualification": "Master's Degree in Interior Design, Bachelor's Degree in Interior Design / Interior Architecture or allied disciplines",
-        "last_date": "03 Sep 2026",
-        "total_posts": "1",
-        "salary": "Not exceeding 50000 per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.manuu.edu.in/",
-        "official_notification": "https://manuu.edu.in/sites/default/files/Notification/2026-08/Walk-in-Interviews-Varanasi1382026.pdf"
     },
     {
         "date": "12 Aug 2026",
@@ -1390,22 +1406,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.bsip.res.in/",
         "official_notification": "https://www.bsip.res.in/storage/careers/z87nghuv602wWJxsQP11gf8IRDI6AhrnkfMEP2fF.pdf"
-    },
-    {
-        "date": "04 Aug 2026",
-        "board": "UPPSC Vacancy 2026 - 47 Computer Operator, Microbiologist and More PostsUPPSC Vacancy 2026",
-        "title": "Architectural Assistant, Estate Manager, Microbiologist, Manager (System), Senior Programmer, Programmer Grade-2 and Computer Operator Grade-B",
-        "qualification": "Candidates must have a Bachelor's Degree from a recognised university along with a Post Graduate Diploma in Computer Science from a recognised institute/university or A-Level Certificate from DOEACC (Government of India). Knowledge of software development, database systems, networking and office automation is required.",
-        "last_date": "03 Sep 2026",
-        "total_posts": "Not Available",
-        "salary": "Selected candidates will receive salary according to the pay scale mentioned for each post in the UPPSC notification.",
-        "age_limit": "Age relaxation is applicable for eligible categories according to Uttar Pradesh Government rules. SC, ST, OBC candidates of Uttar Pradesh, skilled players, government employees and other eligible categories may receive relaxation as prescribed in the notification.",
-        "application_fee": "Candidates have to pay the examination fee according to their category while submitting the online application form.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://uppsc.up.nic.in/",
-        "official_notification": "https://uppsc.up.nic.in/OuterPages/View_Enclosure.aspx?ID=749&flag=E&FID=932"
     },
     {
         "date": "29 Jul 2026",
