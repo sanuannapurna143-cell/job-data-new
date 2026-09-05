@@ -1,6 +1,22 @@
 [
     {
         "date": "05 Sep 2026",
+        "board": "IDBI Bank Vacancy 2026 - 1 Part Time Doctor PostsIDBI Bank Part Time Doctor Vacancy 2026",
+        "title": "Part Time Doctor",
+        "qualification": "MBBS/MD",
+        "last_date": "12 Sep 2026",
+        "total_posts": "1",
+        "salary": "Rs.1000/- per hour",
+        "age_limit": "Not more than 67 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.idbi.bank.in",
+        "official_notification": "https://www.idbi.bank.in/pdf/careers/Detailed-Advertisement-BMO-Guwahati.pdf"
+    },
+    {
+        "date": "05 Sep 2026",
         "board": "MHRB Assam Vacancy 2026 - 560 Medical & Health Officer PostsMHRB Assam Medical & Health Officer Vacancy 2026",
         "title": "Medical & Health Officer-I (M&HO-I) or equivalent",
         "qualification": "The candidate must hold an MBBS degree from any university recognised by the Medical Council of India (MCI). || The candidate must be registered under the Assam Medical Council.",
@@ -365,7 +381,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "mhrb-assam-medical-and-health-officer-recruitment-2026-apply-online-for-560-posts-3066363"
+        "official_notification": "Not Available"
     },
     {
         "date": "27 Aug 2026",
