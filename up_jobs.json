@@ -1,6 +1,22 @@
 [
     {
         "date": "07 Sep 2026",
+        "board": "AMU Vacancy 2026 - 6 Assistant Engineer, Work Supervisor and More PostsAMU Vacancy 2026",
+        "title": "Assistant Engineer (Civil)",
+        "qualification": "Bachelor's Degree/Diploma in Civil Engineering, Diploma in Civil/Electrical Engineering, Knowledge of Computer Application",
+        "last_date": "15 Sep 2026",
+        "total_posts": "6",
+        "salary": "Assistant Engineer (Civil): Rs. 50,000/- PM (Consolidated) || Junior Engineer (Civil): Rs. 35,000/- PM (Consolidated) || Junior Engineer (Electrical): Rs. 35,000/- PM (Consolidated) || Work Supervisor: Rs. 25,000/- PM (Consolidated)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.amu.ac.in/",
+        "official_notification": "https://api.amu.ac.in/storage/file/10350/jobs/1788607034.pdf"
+    },
+    {
+        "date": "07 Sep 2026",
         "board": "RGNAU Vacancy 2026 - 3 Server Engineer, Computer Lab Engineer and More PostsRGNAU Vacancy 2026",
         "title": "Non-Teaching Technical Personnel in IT/CIC Areas",
         "qualification": "B.E./B.Tech/MCA/M.Sc. in Computer Science & Engineering, Information Technology or related discipline.",
@@ -205,7 +221,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://cihts.ac.in/",
-        "official_notification": "uiic-administrative-officer-recruitment-2026-apply-online-for-225-posts-3066445"
+        "official_notification": "Not Available"
     },
     {
         "date": "04 Sep 2026",
@@ -531,17 +547,17 @@
         "date": "01 Sep 2026",
         "board": "IIT BHU Vacancy 2026 - 1 Junior Research Fellow PostsIIT BHU Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow",
-        "qualification": "B.E./B.Tech. in CSE/IT/AI/ECE/allied branches + GATE or equivalent examination qualification, M.E./M.Tech. in CSE/IT/AI/ECE/allied branches + GATE or equivalent examination qualification",
+        "qualification": "1 Posts",
         "last_date": "14 Sep 2026",
-        "total_posts": "1",
-        "salary": "Rs. 37000 Per Month",
-        "age_limit": "Max: 30 years",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Email",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
-        "official_website": "https://www.iitbhu.ac.in",
-        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_jrf_cse_finance.pdf"
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
     },
     {
         "date": "01 Sep 2026",
@@ -781,7 +797,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "uiic-administrative-officer-recruitment-2026-apply-online-for-225-posts-3066445"
+        "official_notification": "Not Available"
     },
     {
         "date": "29 Aug 2026",
@@ -1069,7 +1085,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "uiic-administrative-officer-recruitment-2026-apply-online-for-225-posts-3066445"
+        "official_notification": "Not Available"
     },
     {
         "date": "26 Aug 2026",
@@ -1277,7 +1293,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "uiic-administrative-officer-recruitment-2026-apply-online-for-225-posts-3066445"
+        "official_notification": "Not Available"
     },
     {
         "date": "21 Aug 2026",
@@ -1389,7 +1405,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "uiic-administrative-officer-recruitment-2026-apply-online-for-225-posts-3066445"
+        "official_notification": "Not Available"
     },
     {
         "date": "14 Aug 2026",

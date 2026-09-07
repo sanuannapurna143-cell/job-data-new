@@ -1,5 +1,37 @@
 [
     {
+        "date": "07/09/2026",
+        "board": "BPSSC",
+        "title": "Gulma Samadesta (Company Commander)",
+        "qualification": "Candidates must have passed a graduate examination from a recognised university, or an equivalent examination recognised by the State Government, on or before 01-08-2026.",
+        "last_date": "10-10-2026",
+        "total_posts": "65",
+        "salary": "The post of Gulma Samadesta (Company Commander) carries Pay Level-6 of the applicable pay matrix.",
+        "age_limit": "The age limit will be calculated as on 01-08-2026, based on the date of birth recorded in the Matriculation or equivalent certificate. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "Payment must be made online only, through Net Banking, Credit Card, Debit Card, or UPI. Bank charges applicable on Net Banking/Credit/Debit Card transactions must be borne by the candidate. The fee is non-refundable once payment is successful, except where a payment is deducted but registration fails due to technical issues - such amounts are refunded by the payment gateway within 7 working days.",
+        "selection_process": "Selection to the post of Company Commander will be made through a written competitive examination in two phases, followed by a Physical Efficiency Test, as detailed below.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://bpssc.bihar.gov.in",
+        "official_notification": "https://bpssc.bihar.gov.in/Notices/Advt%20No.-11-2026.pdf"
+    },
+    {
+        "date": "07/09/2026",
+        "board": "LRDE DRDO",
+        "title": "Junior Research Fellow (JRF) - ECE",
+        "qualification": "BE/BTech or ME/MTech in Electronics & Communication Engineering (first division) with valid GATE score",
+        "last_date": "25-09-2026",
+        "total_posts": "2",
+        "salary": "Rs. 37,000/- per month plus HRA",
+        "age_limit": "Maximum Age Limit: 28 years. || Age relaxation for SC/ST/OBC candidates as per Government of India rules. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in/",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtLRDE07092026.pdf"
+    },
+    {
         "date": "05/09/2026",
         "board": "Ordnance Factory Dehu Road",
         "title": "Graduate/Diploma Project Engineer",
@@ -186,7 +218,7 @@
         "age_limit": "Candidates born between 01 January 2005 and 01 July 2009 (both dates inclusive) are eligible to appear in this Open Recruitment Rally. If a candidate clears all stages of the selection procedure, the upper age limit as on the date of enrolment should not exceed 22 years.",
         "application_fee": "No application fee for the Open Recruitment Rally itself is specified in the official notification. A separate fee of ₹40 applies only if a candidate wishes to file an Appeal Medical Board (AMB) request after being declared medically unfit.",
         "selection_process": "Selection for Agniveervayu Intake 01/2027 involves document verification followed by multiple test stages, all typically conducted over the rally days. || Verification of Eligibility:Original/DigiLocker-verified educational certificates and other applicable documents (domicile, COAFP, NCC, discharge certificate, etc.) are scrutinised prior to the Physical Fitness Test. || Physical Fitness Test (PFT):PFT-I: 1.6 Km run — male candidates within 7 minutes, female candidates within 8 minutes.PFT-II (after 10 minutes recuperation): Male candidates — 10 push-ups (1 min), 10 sit-ups (1 min), 20 squats (1 min), with rest breaks between exercises. Female candidates — 10 sit-ups (1 min 30 sec), 15 squats (1 min), with rest breaks between exercises. || PFT-I: 1.6 Km run — male candidates within 7 minutes, female candidates within 8 minutes. || PFT-II (after 10 minutes recuperation): Male candidates — 10 push-ups (1 min), 10 sit-ups (1 min), 20 squats (1 min), with rest breaks between exercises. Female candidates — 10 sit-ups (1 min 30 sec), 15 squats (1 min), with rest breaks between exercises. || Adaptability Test-I (AT-I):Objective written test assessing suitability for employment in varied geographic, weather, and operational conditions. || Adaptability Test-II (AT-II):Assesses adaptability to Indian Air Force environment and military way of life; conducted the same or a subsequent day. || Medical Examination:Conducted in September 2026 at Jorhat (for 11 ASC) and Sri Vijaya Puram (for 8 ASC), including baseline investigations such as blood haemogram, urine RE/ME, blood sugar, serum cholesterol, RFT, LFT, chest radiograph, ECG, and (for female candidates) ultrasonography of the lower abdomen and pelvis. || Appeal Medical Board (AMB):Candidates declared medically unfit may appeal by depositing ₹40 via e-MRO/MRO within three working days of the medical examination. || Provisional Select List and Enrolment:The state-wise Provisional Select List (PSL) is prepared based on performance and state-wise cut-offs and vacancies; inclusion in the PSL does not guarantee enrolment. The final Enrolment List is published after the PSL.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://iafrecruitment.edcil.co.in",
         "official_notification": "https://iafrecruitment.edcil.co.in/agniveervayu/pdffiles/OS%20%20Rally%2001%20of%202027.pdf"
