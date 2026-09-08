@@ -1,10 +1,122 @@
 [
     {
-        "date": "08 Sep 2026",
+        "date": "08/09/2026",
+        "board": "AIIMS Delhi Vacancy 2026 - 1 Project Coordinator PostsAIIMS Delhi Project Coordinator Vacancy 2026",
+        "title": "Project Coordinator",
+        "qualification": "MBBS/ MD/ MS/ BDS/ MDS/ PHD Health and Biomedical Science",
+        "last_date": "15-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 100000 Per Month",
+        "age_limit": "Max: 60 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/set%20fac.-8-9-26.pdf"
+    },
+    {
+        "date": "08/09/2026",
+        "board": "EIL Vacancy 2026 - 61 Engineer, Deputy Manager and More PostsEIL Vacancy 2026",
+        "title": "Engineer, Deputy Manager and More",
+        "qualification": "Minimum 12 years' experience in enterprise software architecture, design, development, testing, deployment, product requirement documentation, Sprint Planning, DevOps, AI and MLOps - including minimum 3 years in production-grade Generative AI and Agentic AI solutions (LLMs, RAG, LangChain, LangGraph, CrewAI/Multi-Agent systems, vLLM, LLM fine tuning, on-premise Document Intelligence, LLMOps). Experience leading technical teams, architecting scalable AI solutions, driving end-to-end project delivery, and mentoring engineers.",
+        "last_date": "25-09-2026",
+        "total_posts": "Not Available",
+        "salary": "EIL Salary for this recruitment is based on the IDA pay scale of the position, with Total CTC calculated on the basic pay at the lowest point of the scale. CTC includes Basic Pay, DA, HRA, other perks & allowances, encashment of earned leaves and applicable retirement benefits. || Post-Retirement Medical Coverage Scheme applies to candidates who are 45 years of age or below on the date they join the regular rolls of the company. This condition does not apply to candidates joining after resigning from a CPSE, provided total past CPSE service plus future company service until normal retirement is 15 years or more.",
+        "age_limit": "The EIL Age Limit for this recruitment is calculated as on the cut-off date of 31.08.2026 and varies by grade, as shown below.",
+        "application_fee": "Not Available",
+        "selection_process": "The EIL Selection Process for this recruitment is Interview-based; the notification does not mention a written examination or computer-based test. The prescribed qualification and experience are minimum requirements, and mere possession of them does not guarantee an interview call - EIL may restrict the number of candidates called by raising the minimum qualifying marks and/or the relevance of experience required. || Only shortlisted candidates will be informed via email for the interview. || The interview will be conducted at New Delhi/Gurugram or through video conferencing; the venue/mode will be intimated separately to shortlisted candidates. || Candidates working in PSU/Govt. Sector/Govt. Institutions must forward their application through proper channel or submit a No Objection Certificate (NOC) from their present employer at the time of interview, failing which their candidature will not be considered.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://engineersindia.com/",
+        "official_notification": "https://recruitment.eil.co.in/hrdnew/others/74.pdf"
+    },
+    {
+        "date": "08/09/2026",
+        "board": "BECIL Vacancy 2026 - 41 Pharmacist, Lab Attendant and More PostsBECIL Vacancy 2026",
+        "title": "Post Name",
+        "qualification": "EMT-Basic/EMT-Advanced Certification from institutes approved by the Health Sector Skill Council (National Skill Development Programme, Govt. of India), OR Pre-Hospital Trauma Technician certification from institutes approved by the Directorate General of Health Services, Govt. of India. Role includes patient transfer/care in ambulances and manning the Ambulance Control Room in shifts.",
+        "last_date": "21-09-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 40,710",
+        "age_limit": "Age limits differ by post and are calculated as on the advertisement publishing date, 07 September 2026. Where an age limit is not mentioned against a post in the notification, none is stated. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "The fee is payable online at the time of registration and is non-refundable and non-transferable. Candidates applying for more than one post must submit a separate application, and pay the fee separately, for each post.",
+        "selection_process": "Applications are scrutinized and shortlisted based on the eligibility criteria prescribed for each post; meeting the eligibility criteria does not by itself entitle a candidate to be called for further stages. || Preference may be given to candidates with higher qualifications, superior academic credentials, additional relevant experience, or other criteria decided by the Client/Principal Employer. || The shortlisted list is forwarded to the Client/Principal Employer for further selection - interview, assessment, skill test, or other evaluation method as decided by the Client. || Shortlisted candidates are informed of the date, time, and venue/mode of interview/assessment/skill test via registered email and/or telephone. || Preference may be given to local candidates and/or those with relevant experience in the same or similar department, subject to Client requirements.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.becil.com/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/09/852364-6a9f9c336c4fa12287554.pdf"
+    },
+    {
+        "date": "08/09/2026",
+        "board": "IIT Delhi Vacancy 2026 - 1 Project Scientist PostsIIT Delhi Project Scientist Vacancy 2026",
+        "title": "Project Scientist",
+        "qualification": "Master's degree in Economics with First Division / Merit, Proficiency in Stata, Python, and LaTeX, Experience working with large-scale online job postings data and managing administrative datasets, Strong interest in labor economics, Six months of research experience, Excellent analytical, quantitative, and communication skills.",
+        "last_date": "18-09-2026",
+        "total_posts": "1",
+        "salary": "Rs 47,790-49,220-50,700, 52,220, 53,790, 55,400, 57,060-58,770-60,530, 62,350/- p.m. plus HRA @30%",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in/",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1788775274753_xtsihms.pdf"
+    },
+    {
+        "date": "08/09/2026",
+        "board": "Prasar Bharati Vacancy 2026 - 20 Marketing Executive PostsPrasar Bharati Marketing Executive Vacancy 2026",
+        "title": "Marketing Executive",
+        "qualification": "Candidates must hold an MBA, MBA (Marketing), or PG Diploma in Management/Marketing from a recognised Management Institute/University, along with a minimum of one year of experience in direct sales. Preference will be given to candidates with experience in Media Sales.",
+        "last_date": "22-09-2026",
+        "total_posts": "Not Available",
+        "salary": "The engagement carries no claim to pensionary benefits, and selected candidates will not be entitled to absorption or regularisation in Prasar Bharati.",
+        "age_limit": "Candidates must be below 35 years of age as on the date of notification (07 September 2026). No age relaxation details are specified in the notification. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://prasarbharati.gov.in/",
+        "official_notification": "https://prasarbharati.gov.in/wp-content/uploads/2026/09/NIA-ME-1.pdf"
+    },
+    {
+        "date": "08/09/2026",
+        "board": "NII Vacancy 2026 - 2 Project Technical Support PostsNII Project Technical Support Vacancy 2026",
+        "title": "Project Technical Support III / Project Technical Support I",
+        "qualification": "Three-year graduate degree in a relevant subject or PG in a relevant subject, 10th + Diploma (MLT/DMLT/ITI or equivalent)",
+        "last_date": "21-09-2026",
+        "total_posts": "2",
+        "salary": "Project Technical Support III:Rs. 28,000/- per month plus 30% HRA || Project Technical Support I:Rs. 18,000/- per month plus 30% HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 100/-",
+        "selection_process": "Shortlisting || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nii.ac.in",
+        "official_notification": "https://www.nii.res.in/sites/default/files/announcement/events/PTS-III%20%26%20I%20%28ICMR%20Sep%2026%29%20.pdf"
+    },
+    {
+        "date": "08/09/2026",
+        "board": "National Bal Bhavan Vacancy 2026 - Assistant Director, Curator and More PostsNational Bal Bhavan Vacancy 2026",
+        "title": "Various Posts",
+        "qualification": "Post Graduate Degree in Humanities; M. Sc. from a recognized University; Graduate from a recognized University.",
+        "last_date": "26-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 67700-208700 (Pay Level-11), Rs. 56100-177500 (Pay Level-10), Rs. 44900-142400 (Pay Level-7)",
+        "age_limit": "Deputy Director: Maximum age 45 years. || Assistant Director (Science): Maximum age 40 years. || Curator (Museum): Maximum age 40 years. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Rs. 1000/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nationalbalbhavan.nic.in",
+        "official_notification": "https://www.nationalbalbhavan.nic.in/Files/notice-2026/Recruitment%20to%20various%20posts%20in%20the%20National%20Bal%20Bhavan%20on%20a%20Direct%20Recruitment.jpeg"
+    },
+    {
+        "date": "08/09/2026",
         "board": "AIAHL Vacancy 2026 - 1 Medical Officer PostsAIAHL Medical Officer Vacancy 2026",
         "title": "Medical Officer",
         "qualification": "1 Posts",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "1",
         "salary": "Rs.1,20,000/- per month",
         "age_limit": "Maximum 62 years",
@@ -16,11 +128,11 @@
         "official_notification": "https://www.aiasl.in/resources/Advertisemnt%20for%20Medical%20Officer%2007.09.26.pdf"
     },
     {
-        "date": "08 Sep 2026",
+        "date": "08/09/2026",
         "board": "RRB Vacancy 2026 - 560 Pharmacist, Lab Assistant and More PostsRRB Vacancy 2026",
         "title": "Various Posts of Paramedical Categories",
         "qualification": "560 Posts",
-        "last_date": "14 Oct 2026",
+        "last_date": "14-10-2026",
         "total_posts": "560 Posts (Tentative)",
         "salary": "Not Available",
         "age_limit": "Minimum Age Limit:18 Years || Maximum Age Limit:40 Years",
@@ -32,11 +144,11 @@
         "official_notification": "Not Available"
     },
     {
-        "date": "08 Sep 2026",
+        "date": "08/09/2026",
         "board": "IIT Delhi Vacancy 2026 - 1 Jr. Research Fellow PostsIIT Delhi Jr. Research Fellow Vacancy 2026",
         "title": "Jr. Research Fellow",
         "qualification": "Post Graduate Degree in basic science with NET qualification or Graduate Degree in professional course with NET qualification or Post Graduate Degree with professional course",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "1",
         "salary": "Rs. 37000 Per Month",
         "age_limit": "Not Available",
@@ -48,11 +160,11 @@
         "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1788777931523_0foijxn.pdf"
     },
     {
-        "date": "08 Sep 2026",
+        "date": "08/09/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 1 Project Research Scientist-2 PostsAIIMS Delhi Project Research Scientist-2 Vacancy 2026",
         "title": "Project Research Scientist-2",
         "qualification": "First Class Post Graduate Degree (MSc/MTech - Biotechnology/Molecular Biology/Genomics) with 3 years experience in bioinformatics analysis, wet lab processing and sequencing platforms, Second Class Post Graduate Degree (MSc/MTech - Biotechnology/Molecular Biology/Genomics) with 3 years experience in bioinformatics analysis, wet lab processing and sequencing platforms",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "1",
         "salary": "Rs. 67000 Per Month",
         "age_limit": "Max: 40 years",
@@ -64,11 +176,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/pead-7-9-26.pdf"
     },
     {
-        "date": "08 Sep 2026",
+        "date": "08/09/2026",
         "board": "ACMS Vacancy 2026 - 2 Administrative Staff PostsACMS Administrative Staff Vacancy 2026",
         "title": "Administrative Staff",
         "qualification": "ESM (JCO) with minimum 20 years of service for Estate Supervisor, ESM (Hav/Nb Sub) with minimum 15 years of service for Care Taker, Medically fit, No disciplinary history",
-        "last_date": "30 Sep 2026",
+        "last_date": "30-09-2026",
         "total_posts": "2",
         "salary": "Rs 36,500/- pm (Estate Supervisor), Rs 26,300/- pm (Care Taker)",
         "age_limit": "Not Available",
@@ -80,11 +192,11 @@
         "official_notification": "https://theacms.in/assets/admin/vacancy//449441788836434.pdf"
     },
     {
-        "date": "10 Aug 2026",
+        "date": "10/08/2026",
         "board": "GIMS Vacancy 2026 - 100 Staff Nurse PostsGIMS Staff Nurse Vacancy 2026",
         "title": "Staff Nurse (Non-Teaching)",
         "qualification": "Candidates must possess, by the last date of application, either: || B.Sc Nursing (4-year course) from an Indian Nursing Council/State Medical Faculty recognised Institute or University, or B.Sc Nursing (Post Basic) (2-year course) from an Indian Nursing Council recognised institute/university, and be registered as Nurse & Midwife in State/Indian Nursing Council;OR || Diploma in General Nursing Midwifery (GNM) from an Indian Nursing Council recognised Institute/Board/Council, registered as Nurse & Midwife in State/Indian Nursing Council, with two years' experience in a minimum 50-bedded hospital after acquiring the above qualification.",
-        "last_date": "30 Oct 2026",
+        "last_date": "30-10-2026",
         "total_posts": "Not Available",
         "salary": "Not Available",
         "age_limit": "Age will be reckoned as on 1 July 2026. Candidates must have attained 21 years of age and must not be more than 40 years old. || Persons dismissed by the Union Government or any State Government are not eligible for appointment to any post. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -96,11 +208,11 @@
         "official_notification": "http://www.gims.ac.in/assets/pdf/DetailedAdv1.pdf"
     },
     {
-        "date": "08 Sep 2026",
+        "date": "08/09/2026",
         "board": "SSC Vacancy 2026 - 2536 CHSL PostsSSC CHSL Vacancy 2026",
         "title": "Post Name",
         "qualification": "12th Standard pass in Science stream with Mathematics as a subject, from a recognised Board",
-        "last_date": "07 Oct 2026",
+        "last_date": "07-10-2026",
         "total_posts": "Not Available",
         "salary": "Pay Level-4 (Rs. 25,500–81,100) and Level-5 (Rs. 29,200–92,300)",
         "age_limit": "Only male candidates are eligible for any vacancies reported in the Border Roads Organization (BRO). || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -112,11 +224,11 @@
         "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_chsl_2026.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "Exim Bank Vacancy 2026 - 08 Deputy Manager & Manager PostsExim Bank Deputy Manager & Manager Vacancy 2026",
         "title": "Deputy Manager & Manager",
         "qualification": "08 Posts",
-        "last_date": "10 Oct 2026",
+        "last_date": "10-10-2026",
         "total_posts": "Not Available",
         "salary": "In addition to pay, selected candidates are eligible for allowances, perquisites, and benefits applicable to the grade as per the Bank's rules prevailing at the time of joining, including residential/leased accommodation (subject to availability) and loan schemes for housing, vehicle, and children's education.",
         "age_limit": "Age is computed as on 31-08-2026. The maximum age below already includes applicable age relaxation. || As per Government of India guidelines, the upper age limit for Persons with Disabilities (PWDs) is relaxed by an additional 10 years, and for Ex-servicemen by an additional 5 years.",
@@ -128,11 +240,11 @@
         "official_notification": "https://www.eximbankindia.in/sites/default/files/2026-09/Detailed%20SRD%20Advertisement%20for%20Website.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "TCIL Vacancy 2026 - 3 TECH Team, Hackathon & Project Support PostsTCIL Vacancy 2026",
         "title": "TECH Team, Hackathon & Project Support",
         "qualification": "B.E/ B.Tech/ M.Tech in Computer Science/ Information Technology/, Bachelor in Science/ MCA/ B.E/ B.Tech (EE/ ECE/ CS)",
-        "last_date": "28 Sep 2026",
+        "last_date": "28-09-2026",
         "total_posts": "3",
         "salary": "Rs. 70,000/ - per month (Pro rata basis) for both TECH Team and Hackathon & Project Support posts.",
         "age_limit": "Not Available",
@@ -144,11 +256,11 @@
         "official_notification": "https://Telecommunications Consultants India (TCIL) has released the Recruitment 2026 notification for 3 TECH Team / Hackathon & Project Support vacancies. The online application process will be conducted up to 28 September 2026. Interested candidates can apply online through the official website, TCIL."
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "BCAS Delhi Vacancy 2026 - Guest Faculty PostsBCAS Delhi Guest Faculty Vacancy 2026",
         "title": "Guest Faculty",
         "qualification": "Eligibility for Guest faculty shall be same as prescribed for regular assistant professor as per UGC regulations and adopted by University of Delhi.",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "Not Mentioned",
         "salary": "Honorarium for teaching will be paid as per UGC norms.",
         "age_limit": "Maximum age limit of 70 Years for superannuated teachers.",
@@ -160,11 +272,11 @@
         "official_notification": "https://www.du.ac.in/uploads/uploads/07092026-bcas-Guest_Ad_MB.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "Vivekananda College Delhi Vacancy 2026 - 3 Assistant Professor PostsVivekananda College Delhi Assistant Professor Vacancy 2026",
         "title": "Assistant Professor (Guest Faculty)",
         "qualification": "As per UGC Regulations, 2018 and as adopted by the University of Delhi/UGC",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "3",
         "salary": "As per UGC norms",
         "age_limit": "Max: 70 years",
@@ -176,11 +288,11 @@
         "official_notification": "https://www.du.ac.in/uploads/uploads/07092026-Notice-Guest%20Fac-Commerce-vivekananda.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "IIFCL Vacancy 2026 - 5 Deputy General Manager PostsIIFCL Deputy General Manager Vacancy 2026",
         "title": "Deputy General Manager (Grade D)",
         "qualification": "CA / CMA (ICMAI) / MBA (Finance) / B.E. / B.Tech / Post Graduation in Mathematics / Statistics , Post Graduate Diploma.",
-        "last_date": "20 Sep 2026",
+        "last_date": "20-09-2026",
         "total_posts": "5",
         "salary": "Rs. 153200 - 195400 Per Month",
         "age_limit": "Max: 50 years",
@@ -192,11 +304,11 @@
         "official_notification": "https://iifcl.in/images/FileUploaded/HindiDGMRecruitmentAdvertisementSeptember2026pdf03092026192115.pdf"
     },
     {
-        "date": "20 Aug 2026",
+        "date": "20/08/2026",
         "board": "NSPCL Vacancy 2026 - 17 Sr. Assistant Officer & Sr. Assistant Engineer PostsNSPCL Sr. Assistant Officer & Sr. Assistant Engineer Vacancy 2026",
         "title": "Sr. Assistant Officer & Sr. Assistant Engineer",
         "qualification": "Graduate with at least two years full-time Post Graduate Degree/Post Graduate Diploma/Post Graduate Program in management with specialisation in Human Resource/Industrial Relations/Personnel Management, or Masters in Social Work, or MHROD, or MBA with specialisation in HR from a recognised Indian University/Institute recognised by an appropriate statutory authority, with not less than 60% marks, as per respective university/institute norms. Computer knowledge is essential; a degree in law is desirable.",
-        "last_date": "22 Sep 2026",
+        "last_date": "22-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected candidates for all posts will be placed in Grade E1 with a pay scale of Rs. 40,000/- to Rs. 1,40,000/- under the IDA pattern. Selected candidates will be placed at the initial basic pay of the respective pay scale. Other benefits such as Dearness Allowance, perquisites, allowances, and terminal benefits will be admissible as per company rules in force from time to time.",
         "age_limit": "The upper age limit for all posts is 32 years as on the last date of online application. Age relaxation of 5 years is applicable for SC/ST candidates, 3 years for OBC candidates, and 10 years for PwBD candidates as per Government of India guidelines. Relaxation of age is also applicable to Ex-Servicemen as per Government guidelines. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -208,11 +320,11 @@
         "official_notification": "https://www.nspcl.co.in/storage/app/public/uploads/careers/NSPCL_website.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 7 PTS-III PostsAIIMS Delhi PTS-III Vacancy 2026",
         "title": "PTS-III",
         "qualification": "Graduate in science/relevant subjects from a recognized university, Master's degree in the relevant subject",
-        "last_date": "14 Sep 2026",
+        "last_date": "14-09-2026",
         "total_posts": "7",
         "salary": "Rs. 36400 Per Month",
         "age_limit": "Maximum Age Limit: 35 years",
@@ -224,11 +336,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/ccm-3-9-26.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "ICMR Vacancy 2026 - 1 Young Professional-II PostsICMR Young Professional-II Vacancy 2026",
         "title": "Young Professional-II",
         "qualification": "Post Graduate in Biostatistics/Statistics/Demography/Population Studies/Public Health/Medical Sociology with at least 55% marks and 1 year post-qualification experience",
-        "last_date": "22 Sep 2026",
+        "last_date": "22-09-2026",
         "total_posts": "1",
         "salary": "Rs. 42000 Per Month",
         "age_limit": "Maximum Age Limit: 40 years || Age relaxation will be provided as per ICMR/DoPT guidelines. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -240,11 +352,11 @@
         "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1788430542_yp-iiadvertismentenglish.pdf"
     },
     {
-        "date": "20 Aug 2026",
+        "date": "20/08/2026",
         "board": "IRCTC Vacancy 2026 - 9 Tourism Monitor PostsIRCTC Tourism Monitor Vacancy 2026",
         "title": "Tourism Monitor",
         "qualification": "3-Years Bachelor degree in Tourism, 3-Years bachelor degree in any stream + 1-year diploma in Travel & Tourism",
-        "last_date": "09 Sep 2026",
+        "last_date": "09-09-2026",
         "total_posts": "9",
         "salary": "Rs. 30000 - 35000 Per Month",
         "age_limit": "Max: 35 years",
@@ -256,11 +368,11 @@
         "official_notification": "https://www.irctc.com/assets/images2/NotificationTourismMonitorCONZ772026.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "Punjab & Sind Bank Vacancy 2026 - 1 Chief Risk Officer PostsPunjab & Sind Bank Chief Risk Officer Vacancy 2026",
         "title": "Chief Risk Officer",
         "qualification": "Graduate Degree, Professional certification in financial risk management",
-        "last_date": "12 Sep 2026",
+        "last_date": "12-09-2026",
         "total_posts": "1",
         "salary": "Not Available",
         "age_limit": "Min: 40 years, Max: 55 years",
@@ -272,11 +384,11 @@
         "official_notification": "https://punjabandsind.bank.in/system/uploads/recruitment/7932_2026090317360729759.pdf"
     },
     {
-        "date": "05 Sep 2026",
+        "date": "05/09/2026",
         "board": "Delhi High Court Vacancy 2026 - 150 Senior Personal Assistant and Personal Assistant PostsDelhi High Court Vacancy 2026",
         "title": "Senior Personal Assistant (SPA), Personal Assistant (PA)",
         "qualification": "Graduate from a recognised University with speed of not less than 110 w.p.m. in Shorthand (English) and 40 w.p.m. in Typewriting (English) on Computer, with good working knowledge of Computer",
-        "last_date": "05 Oct 2026",
+        "last_date": "05-10-2026",
         "total_posts": "100 marks; 120 minutes; same pattern as SPA (Essay, Letter Writing, Grammar & Comprehension, Translation); passing marks 45% (Reserved/PwBD categories, since PA has no General category vacancy)",
         "salary": "Selected candidates will be placed as follows: || Senior Personal Assistant: Group 'B', 8th Level of Pay Matrix, 7th CPC || Personal Assistant: Group 'B', 7th Level of Pay Matrix, 7th CPC || Specific pay scale figures in Rupees are not mentioned in the notification beyond the pay matrix level.",
         "age_limit": "As on 01.01.2026, a candidate's age should not be below 18 years and not over 32 years (born not earlier than 02.01.1994 and not later than 01.01.2008). Date of birth as recorded in the Matriculation/Secondary Examination Certificate or an equivalent certificate alone will be accepted; no subsequent request for change will be entertained. || PwBD relaxation applies only to candidates with benchmark disability of 40% or more, in the specific disability categories for which vacancies have been reserved. Widows, divorcees, and certain other categories of married women get relaxation up to 40 years, as per Government of Delhi instructions dated 23.04.1984. There is no upper age limit for persons already in regular service in the Delhi High Court, subject to fulfilling the educational qualification – this relaxation does not apply to candidates working in other Government departments, PSUs, or Delhi District Courts. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -288,11 +400,11 @@
         "official_notification": "https://www.delhihighcourt.nic.in/files/2026-09/recuritment/vacancy_circular_for_spa.pdf"
     },
     {
-        "date": "05 Sep 2026",
+        "date": "05/09/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 1 Administrative Assistant PostsAIIMS Delhi Administrative Assistant Vacancy 2026",
         "title": "Administrative Assistant",
         "qualification": "Master in Scientific discipline from a recognized university",
-        "last_date": "20 Sep 2026",
+        "last_date": "20-09-2026",
         "total_posts": "1",
         "salary": "Rs. 35,400/- (Consolidated) Per Month",
         "age_limit": "Max: 45 years",
@@ -304,11 +416,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/peadsurg-5-9-26.pdf"
     },
     {
-        "date": "05 Sep 2026",
+        "date": "05/09/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 1 Senior Project Assistant PostsAIIMS Delhi Senior Project Assistant Vacancy 2026",
         "title": "Senior Project Assistant",
         "qualification": "12th pass or equivalent with 5 years administrative experience and 8000 KDPH typing speed, Graduate in any discipline with 2 years administrative experience and 8000 KDPH typing speed",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "1",
         "salary": "Rs. 21751 Per Month",
         "age_limit": "Max: 30 years",
@@ -320,11 +432,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/gyne-5-9-26.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "CERC Vacancy 2026 - 17 Assistant, Senior Account Officer and More PostsCERC Vacancy 2026",
         "title": "Various Posts",
         "qualification": "MBA in Finance or CA/ CMA, Post Graduate, Graduate with PG Diploma, Graduate Degree preferably in Commerce,",
-        "last_date": "18 Oct 2026",
+        "last_date": "18-10-2026",
         "total_posts": "17",
         "salary": "Joint Chief (Fin): Level-13 (₹1,23,100-₹2,15,900/-) || Deputy Chief (RA): Level-12 (₹78,800-₹2,09,200/-) || Assistant Secretary (FOR): Level-11 (₹67,700-₹2,08,700/-) || Assistant Chief (Eco): Level-11 (₹67,700-₹2,08,700/-) || Assistant Chief (Engg): Level-11 (₹67,700-₹2,08,700/-) || Assistant Chief (Fin): Level-11 (₹67,700-₹2,08,700/-) || Pay and Accounts Officer: Level-10 (₹56,100-₹1,77,500/-) || Sr. Account Officer: Level-10 (₹56,100-₹1,77,500/-) || Private Secretary: Level-07 (₹44,900-₹1,42,400/-) || Assistant: Level-06 (₹35,400-₹1,12,400/-)",
         "age_limit": "Maximum Age Limit: 56 years for all posts. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -336,11 +448,11 @@
         "official_notification": "https://www.cercind.gov.in/2026/vacancy/VacancyNotice-030926.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "Pt. MMM Hospital Vacancy 2026 - 12 Senior Resident PostsPt. MMM Hospital Senior Resident Vacancy 2026",
         "title": "Senior Resident",
         "qualification": "MBBS with PG Degree/Diploma or equivalent, Registered with Delhi Medical Council, Not completed three years Senior Residency",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "12",
         "salary": "Salary: Level-11 (7th CPC) || Basic Pay in Level-11 as per 7th Pay Commission",
         "age_limit": "Maximum Age Limit: 45 years || Age Relaxation: As per Govt. of India rules for Persons with disabilities (Divyangjan).",
@@ -352,11 +464,11 @@
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wptm_11.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "DIBD Vacancy 2026 - 2 Associate, Assistant Manager PostsDIBD Vacancy 2026",
         "title": "Finance Positions",
         "qualification": "Bachelor's degree in Commerce, Finance or Accounts, MBA (Finance) / CA / ICWA preferred, Knowledge of GFR, GST, TDS, ERP/Tally",
-        "last_date": "09 Sep 2026",
+        "last_date": "09-09-2026",
         "total_posts": "2",
         "salary": "Not Available",
         "age_limit": "Maximum Age Limit: 58 years for all posts.",
@@ -368,11 +480,11 @@
         "official_notification": "https://bhashini.gov.in/talent-samudaye"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "Central Cottage Industries Corporation of India Vacancy 2026 - 4 Consultant, Special Advisor PostsCentral Cottage Industries Corporation of India Vacancy 2026",
         "title": "Consultant, Special Advisor",
         "qualification": "MBA in Marketing or Master's/Postgraduate Degree in Communication/Advertising; Master Degree in Luxury Brand Management, Retail Operations or Fashion Management; MBA or Equivalent Post-Graduate Degree in Management with specializations in Product or Systems Management; MBA (HR)/Master's Degree in Human Resource Management/Personnel Management/Industrial Relations/Labour Welfare or Post Graduate Degree in Management with specialization in Human Resources.",
-        "last_date": "25 Sep 2026",
+        "last_date": "25-09-2026",
         "total_posts": "4",
         "salary": "Rs. 1,00,000/- per month for Consultant posts, Negotiable for Special Advisor",
         "age_limit": "Max 45 years for Consultant posts, Max 65 years for Special Advisor",
@@ -384,11 +496,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/09/56642-6a9a5f5d6580261945204.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "HIL (India) Vacancy 2026 - 10 Manager, Additional general manager PostsHIL (India) Vacancy 2026",
         "title": "Managerial Posts",
         "qualification": "10 Posts",
-        "last_date": "05 Oct 2026",
+        "last_date": "05-10-2026",
         "total_posts": "10",
         "salary": "Not Available",
         "age_limit": "Not Available",
@@ -400,11 +512,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/09/114596-6a9aaf91ad03961519633.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "CSIR TKDL Vacancy 2026 - 5 Project Associate, Senior Project Associate PostsCSIR TKDL Vacancy 2026",
         "title": "Project Personnel",
         "qualification": "Master's degree / Integrated Masters in Sanskrit, B.E./B.Tech in Metallurgy/Metallurgical Engg. or Master's Degree in Chemistry, Master's /Integrated Master's Degree in Agriculture/ Agronomy/ Horticulture/ Animal Science/any branch of Veterinary Sciences/Zoology, B.E./B.Tech/Master's/Integrated Master's degree in Natural Sciences.",
-        "last_date": "23 Sep 2026",
+        "last_date": "23-09-2026",
         "total_posts": "5",
         "salary": "Senior Project Associate (SPA): Rs. 42,000/-+ HRA || Project Associate-I (PAT-I): (a) Rs. 31,000/-+ HRA for those candidates who have qualified CSIR UGC/ICAR/ ICMR/ NET incl. lectureship/assistant professorship or GATE OR those who have qualified National Level examinations conducted by Central Government Departments like DBT/DST or equivalent and/or their Agencies/Institutions. (b) Rs. 25,000/-+HRA for others who do not fall under (a) above.",
         "age_limit": "Senior Project Associate (SPA): Maximum 40 years. || Project Associate-I (PAT-I): Maximum 35 years. || Age relaxable for candidates of reserved/statutory category as per CSIR/Govt. of India rules.",
@@ -416,11 +528,11 @@
         "official_notification": "https://www.csir.res.in/sites/default/files/2026-09/advt_tkdl.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "JPCH Delhi Vacancy 2026 - 2 Junior Resident PostsJPCH Delhi Junior Resident Vacancy 2026",
         "title": "Junior Resident (MBBS)",
         "qualification": "MBBS degree from a recognized University, Valid registration with Delhi Medical Council",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "2",
         "salary": "Rs. 56100 - 177500 Per Month",
         "age_limit": "Maximum Age Limit: 30 years || Age relaxation will be as per government rules.",
@@ -432,11 +544,11 @@
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wjpc_27.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 1 Project Technical Staff 3 PostsAIIMS Delhi Project Technical Staff 3 Vacancy 2026",
         "title": "Project Technical Staff 3",
         "qualification": "Three Years Graduate in relevant subject / field + three Years' experience or PG in relevant subject",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "1",
         "salary": "Rs. 28000 Per Month + HRA, as admissible",
         "age_limit": "Max: 35 years",
@@ -448,11 +560,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/NCI-3-9-26.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "IIT Delhi Vacancy 2026 - 2 Jr Research Fellow PostsIIT Delhi Jr Research Fellow Vacancy 2026",
         "title": "Jr Research Fellow",
         "qualification": "Postgraduate degree in Basic Science with NET qualification, or a Graduate degree in a professional course with NET qualification, or a Postgraduate degree in a professional course.",
-        "last_date": "18 Sep 2026",
+        "last_date": "18-09-2026",
         "total_posts": "2",
         "salary": "Rs 37,000/-p.m. Plus HRA @30%",
         "age_limit": "Not Available",
@@ -464,11 +576,11 @@
         "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1788428957290_w93hyka.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "TCIL Vacancy 2026 - 8 Apprentice PostsTCIL Apprentice Vacancy 2026",
         "title": "Apprentice",
         "qualification": "Three years LLB or Five years integrated Law/LLB course approved by BAR Council of India, B.E./B.Tech in Electronics/Civil Engg., Diploma (3 years Course) in Electronics/Civil Engg./Computer Science/IT",
-        "last_date": "18 Sep 2026",
+        "last_date": "18-09-2026",
         "total_posts": "8",
         "salary": "Legal Apprentice: Rs.12,300/- || Apprentice (Graduate Engineer): Rs. 12,300/- || Apprentice (Technician Diploma): Rs. 10,900/-",
         "age_limit": "Minimum Age: 18 years || Maximum Age: 28 years || Age relaxation in upper age admissible as per GOI guidelines for SC/ST/OBC.",
@@ -480,11 +592,11 @@
         "official_notification": "https://www.tcil.net.in/docs/career/03092026b.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "RCFL Vacancy 2026 - 326 Graduate, Technician, Trade Apprentice PostsRCFL Vacancy 2026",
         "title": "Graduate, Technician, Trade Apprentice",
         "qualification": "The prescribed qualification must be from a recognised University/Institute, completed as a regular full-time course. Distance Learning, Part-Time, or Correspondence mode qualifications are not eligible. || Allied branches of Diploma in Engineering are not applicable/acceptable. || Candidates who have completed Act Apprentice training or job experience of one year or more, or who are pursuing higher studies, are not eligible. || The candidate's passing certificate/final year mark sheet of the required qualification must be dated on or after 1 July 2023, with the minimum percentage calculated on the final year or the aggregate of the last two semesters. || Applicants with a B.Sc in Chemistry, Physics, and Mathematics will be considered only for Attendant Operator (Chemical Plant) (AOCP) and Laboratory Assistant (Chemical Plant) (LACP) trades under the RDSDE scheme, with Chemistry as the major subject. || Applicants with a B.Sc in Chemistry, Physics, and Mathematics will be considered only for the Instrument Mechanic (Chemical Plant) (IMCP) trade under the RDSDE scheme, with Physics as the major subject. || Candidates with Biology in their Graduation degree, with only Zoology or only Botany, may apply as Graduate Apprentices under Secretarial Assistant or Recruitment Executive (HR). || Candidates may apply without the passing certificate, but the original passing certificate must be submitted at document verification, failing which the candidature will be cancelled.",
-        "last_date": "20 Sep 2026",
+        "last_date": "20-09-2026",
         "total_posts": "Not Available",
         "salary": "The stipend applicable to apprentices follows the notification issued by the Board of Apprenticeship Training (Western Region), Mumbai (BOAT WR/2026/529, dated 25.09.2019) under the Ministry of Skill Development and Entrepreneurship. Apprentice trainees are not entitled to any other benefits or allowances besides the consolidated stipend under the Apprentices Act and applicable guidelines. || Stipend payable by RCF is paid monthly on a fixed date. Stipend payable by BOAT is disbursed directly to ACT Apprentices, and RCF is not responsible for any delay or non-payment by BOAT. Additionally, RCF provides morning breakfast, tea, and a vegetarian lunch thali in the company canteen during training (no reimbursement if not availed), OPD-basis medical facilities at RCF Hospital for trainees themselves, and uniform and Personal Protective Equipment (PPE) as per company policy. No transportation facility or reimbursement is provided.",
         "age_limit": "25 years, as on 1 September 2026",
@@ -496,11 +608,11 @@
         "official_notification": "https://www.rcfltd.com/files/Apprentice%20Advt%202026-27(%20new).pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "PMBI Vacancy 2026 - 178 Pharmacist, Executive and More PostsPMBI Vacancy 2026",
         "title": "No. of Vacancies",
         "qualification": "B.Pharma / B.Sc (Medicinal Chemistry) / B.Sc (Pharmaceutical Chemistry); MBA in Sales & Marketing desirable",
-        "last_date": "24 Sep 2026",
+        "last_date": "24-09-2026",
         "total_posts": "Not Available",
         "salary": "Pay is structured as a monthly consolidated amount that differs by post and department, ranging from Rs. 32,500/month (Executive-level posts) up to Rs. 1,58,000/month (General Manager-level posts), as detailed in the post-wise tables above. In addition to consolidated pay, most posts also carry Conveyance Allowance (Rs. 500 to Rs. 15,000/month) and Telephone Allowance (Rs. 500 to Rs. 2,000/month), along with Provident Fund as per norms, Group Mediclaim Policy (Rs. 5 Lacs or Rs. 10 Lacs), Group Term Life Insurance (Rs. 10 Lacs) and Group Accidental Insurance (Rs. 10 Lacs). No other benefits, amenities, perks or allowances are payable, as per the General Terms & Conditions.",
         "age_limit": "Not Available",
@@ -512,11 +624,11 @@
         "official_notification": "https://www.pmbi.co.in/vacancies/HR_Advt_No_022026_03092026.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "SBI Vacancy 2026 - 207 Investment Officer, Zonal Head and More PostsSBI Vacancy 2026",
         "title": "Investment Officer, Zonal Head and More",
         "qualification": "3 years in sales & marketing with leading banks/wealth firms/AMCs, or 4 years as an SBI Wealth CRE. Preferred: minimum 3 years as a Relationship Manager or similar role in wealth management",
-        "last_date": "25 Sep 2026",
+        "last_date": "25-09-2026",
         "total_posts": "Not Available",
         "salary": "Not Available",
         "age_limit": "Maximum age indicated is for Unreserved category candidates; relaxation in the upper age limit is available to reserved category candidates as per Government of India guidelines.",
@@ -528,11 +640,11 @@
         "official_notification": "https://sbi.bank.in/documents/77530/57941334/03092026_1_Advt+_Wealth+MGMT_04.09.2026.pdf/d2fd7bab-0791-b62b-61d3-8f46c2cb3ec6?t=1788439145915"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "PFRDA Vacancy 2026 - 30 Officer Grade ‘A’ (Assistant Manager) PostsPFRDA Officer Grade ‘A’ (Assistant Manager) Vacancy 2026",
         "title": "Officer Grade 'A' (Assistant Manager)",
         "qualification": "Master's Degree/PG Diploma (min. 2 years) in Economics/Commerce/Business Administration/Econometrics/Quantitative Economics/Financial Economics/Mathematical Economics/Business Economics/Agricultural Economics/Industrial Economics/Business Analytics; OR in Finance/Quantitative Finance/Mathematical Finance/Quantitative Techniques/International Finance/Business Finance/International & Trade Finance/Project & Infrastructure Finance/Agri. Business Finance; OR in Statistics/Mathematical Statistics/Statistics & Informatics/Applied Statistics & Informatics/Data Science/AI/Machine Learning/Big Data Analytics; OR Master's Degree in Mathematics with one-year PG Diploma in Statistics or related subjects",
-        "last_date": "24 Sep 2026",
+        "last_date": "24-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected candidates will draw pay in the scale of Rs. 62,500-3600(4)-76,900-4050(7)-1,05,250-EB-4050(4)-1,21,450-4650(1)-1,26,100 (17 years) . As per the notification, gross emoluments - including PFRDA's contribution towards the National Pension System (NPS), Grade Allowance, Special Allowance, Special Grade Allowance, Dearness Allowance, Local Allowance, Family Allowance, Special Compensatory Allowance, Learning Allowance and Housing Allowance - work out to approximately Rs. 2,05,000 per month at the minimum of the scale. Other benefits include Leave Fare Concession, medical expense reimbursement, Personal Accident Insurance, Children Education Allowance, Knowledge Updation Allowance, conveyance expenses, House Cleaning Allowance, and a Pluxee Meal Card, among others admissible to an Officer Grade A in PFRDA.",
         "age_limit": "Not Available",
@@ -544,11 +656,11 @@
         "official_notification": "https://pfrda.org.in/w/advertisement-recruitment-of-officer-grade-a-assistant-manager-2026?p_l_back_url=%2Fget-to-know%2Fcareers%2Fvacancies&p_l_back_url_title=Vacancies"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 1 Project Research Scientist I PostsAIIMS Delhi Project Research Scientist I Vacancy 2026",
         "title": "Project Research Scientist-I (Medical)",
         "qualification": "MBBS, BDS",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "1",
         "salary": "Rs. 67,000/- + 30% HRA Per Month",
         "age_limit": "Max: 40 years",
@@ -560,11 +672,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/pul.med1-1-9-26.pdf"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "IIT Delhi Vacancy 2026 - 1 Research Associate PostsIIT Delhi Research Associate Vacancy 2026",
         "title": "Research Associate",
         "qualification": "Ph.D. in Mechanical, Civil, Aerospace Engineering or related discipline",
-        "last_date": "16 Sep 2026",
+        "last_date": "16-09-2026",
         "total_posts": "1",
         "salary": "Rs.67,000/- p.m. plus HRA @27%",
         "age_limit": "Not Available",
@@ -576,11 +688,11 @@
         "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1788346462561_uzotstn.pdf"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "IIT Delhi Vacancy 2026 - 1 Research Associate PostsIIT Delhi Research Associate Vacancy 2026",
         "title": "Research Associate",
         "qualification": "Ph.D. in Mechanical Engg. or Applied Mechanics from IITs/IISc/CFTIs with at least 2 research papers in Science Citation (SCI) Journals. Minimum two years of relevant research experience (including PhD) in fluid-structure interaction, guided wave propagation, and structural health monitoring. Exposure to experiments in vibration and structural health monitoring/finite element simulations desirable.",
-        "last_date": "16 Sep 2026",
+        "last_date": "16-09-2026",
         "total_posts": "1",
         "salary": "Rs.58,000/- p.m. plus HRA @27%",
         "age_limit": "Not Available",
@@ -592,11 +704,11 @@
         "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1788341371551_vywn38p.pdf"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 1 Clinical Research Coordinator PostsAIIMS Delhi Clinical Research Coordinator Vacancy 2026",
         "title": "Clinical Research Coordinator",
         "qualification": "Bachelor Degree in relevant subject with 2 years experience in relevant field OR Master Degree in relevant subject",
-        "last_date": "12 Sep 2026",
+        "last_date": "12-09-2026",
         "total_posts": "1",
         "salary": "For Clinical Research Coordinator:₹30,000/- per month (duration February 2029)",
         "age_limit": "For Clinical Research Coordinator:The maximum age limit is 35 years. || Age Relaxation:SC/ST: 5 yearsOBC: 3 years || SC/ST: 5 years || OBC: 3 years",
@@ -608,11 +720,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/pul.med-2-9-26.pdf"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "UPSC Vacancy 2026 - 127 Assistant Chemist, Geologist and More PostsUPSC Vacancy 2026",
         "title": "Assistant Chemist, Geologist and More",
         "qualification": "Master's degree in Geological Science, Geology, Applied Geology, Geo-Exploration, Mineral Exploration, Engineering Geology, Marine Geology, Earth Science and Resource Management, Oceanography and Coastal Areas Studies, Petroleum Geosciences, or Geochemistry",
-        "last_date": "22 Sep 2026",
+        "last_date": "22-09-2026",
         "total_posts": "Not Available",
         "salary": "Not Available",
         "age_limit": "A candidate must have attained 21 years and must not have attained 32 years as on 1 January 2027 - i.e., born not earlier than 2 January 1995 and not later than 1 January 2006 || Upper age relaxable up to 5 years for Government servants employed in GSI or CGWB applying for the corresponding post || Upper age relaxable up to 5 years for SC/ST candidates, 3 years for OBC candidates, 3 years for disabled Defence Services personnel, 5 years for Ex-servicemen, and 10 years for Persons with Benchmark Disability || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -624,11 +736,11 @@
         "official_notification": "https://www.upsc.gov.in/sites/default/files/Notif-CGSPE-2027-Engl-020926.pdf"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "SSC Vacancy 2026 - 1748 Junior Engineer PostsSSC Junior Engineer Vacancy 2026",
         "title": "Junior Engineer",
         "qualification": "Essential educational qualifications differ by organization and post. Broadly: || JE (Civil):Degree in Civil Engineering from a recognized university/institute; or a three-year diploma in Civil Engineering plus relevant work experience (requirement varies by organization). || JE (Electrical) / JE (Mechanical) / JE (Electrical & Mechanical):Degree or diploma in the relevant Electrical/Mechanical/Automobile engineering discipline from a recognized university/institute, with experience required in some organizations. || JE (Telecom):Bachelor's degree in Engineering/Technology in Electrical, Electronics, Electrical Communications, Computer Science, Telecommunications, Information Technology, or Instrumentation. || Scientific Assistant (IMD):Bachelor's degree in Science with Physics as one of the subjects, or a Bachelor's degree in Computer Science/Computer Applications/Electronics/Electronics & Communication Engineering/Electronics & Telecommunication Engineering/Instrumentation/Information Technology/Telecommunication Engineering/Communication Engineering. || Because the exact qualification differs organization by organization (for example, CPWD requires a diploma while BRO accepts a degree or diploma-plus-experience), candidates should check the qualification listed against their target organization in the official notice before applying. Qualifications obtained through Open and Distance Learning (ODL)/online mode in restricted disciplines such as Engineering are not accepted unless specifically permitted under applicable UGC regulations or judicial orders.",
-        "last_date": "22 Sep 2026",
+        "last_date": "22-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected candidates will be appointed to Group 'B' posts in Pay Level-6 of the Pay Matrix under the 7th Central Pay Commission, with a pay scale of ₹35,400 – ₹112,400 . Actual in-hand salary will also include applicable allowances (such as DA, HRA and TA) as per the rules of the respective recruiting organization, which are not detailed in this notice.",
         "age_limit": "Not earlier than 02.08.1996 and not later than 01.08.2008",
@@ -640,11 +752,11 @@
         "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_je_2026.pdf"
     },
     {
-        "date": "27 Aug 2026",
+        "date": "27/08/2026",
         "board": "India Post Vacancy 2026 - 23757 Gramin Dak Sevak PostsIndia Post Gramin Dak Sevak Vacancy 2026",
         "title": "Brief Role",
         "qualification": "Secondary School Examination (SSE)/10th standard pass certificate, with passing marks in Mathematics and English, from a Board recognized by the Government of India/State Governments/Union Territories. Candidates with equivalent qualification from any other board are not eligible.",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "Not Available",
         "salary": "GDS are not regular Central Government employees; they are paid emoluments in the form of Time Related Continuity Allowance (TRCA), which carries an annual increase of 3% (subject to fulfilment of conditions under the GDS Rules), along with Dearness Allowance on TRCA as declared by the Government of India from time to time. GDS are also entitled to GDS Gratuity and the Service Discharge Benefit Scheme (akin to the National Pension System for regular employees).",
         "age_limit": "The minimum age is 18 years and the maximum age is 40 years, to be determined as on the last date of submission of applications, subject to the following relaxations in the upper age limit. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -656,11 +768,11 @@
         "official_notification": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "NHSRC Vacancy 2026 - Consultant, Advisor and More PostsNHSRC Vacancy 2026",
         "title": "No Of Post",
         "qualification": "B.E./ B.Tech (CS/ IT)/ BCA/ B.Sc.(IT) along with M.Tech (CS/ IT)/ MCA/ M.Sc.(CS)/ MBA or equivalent",
-        "last_date": "22 Sep 2026",
+        "last_date": "22-09-2026",
         "total_posts": "Not Available",
         "salary": "The fee offered within each band is commensurate with the candidate's qualification and experience. In addition to remuneration, NHSRC Consultants are entitled to free accidental insurance, subsidized medical insurance, mobile bill reimbursement, laptop reimbursement (as per NHSRC policy), 30 days consolidated leave, fully paid maternity leave for female consultants (as per Government of India policy), performance-linked increments, and TA/ DA plus per diem for on-duty visits. The Advisor (PHA) post additionally includes a dedicated sedan car.",
         "age_limit": "To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -672,11 +784,11 @@
         "official_notification": "https://recruitment.nhsrcindia.org/my/job"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "NSD Akashvani Vacancy 2026 - 1 Production Assistant PostsNSD Akashvani Production Assistant Vacancy 2026",
         "title": "Production Assistant",
         "qualification": "Graduation from a recognized university",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "1",
         "salary": "Rs. 1500 Per Day",
         "age_limit": "Minimum Age: 21 years || Maximum Age: 50 years || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -688,11 +800,11 @@
         "official_notification": "https://prasarbharati.gov.in/wp-content/uploads/2026/09/Empanelment_of_Casual_Assignees.pdf"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "IHE Delhi University Vacancy 2026 - 2 Research Fellow PostsIHE Delhi University Research Fellow Vacancy 2026",
         "title": "Research Fellow",
         "qualification": "Masters in Development Communication & Extension/ Resource Management/ Extension Education",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "2",
         "salary": "Rs. 37000 Per Month",
         "age_limit": "Not Available",
@@ -704,11 +816,11 @@
         "official_notification": "https://www.du.ac.in/uploads/2026/31082026-IHE-Advt-Research%20Fellows.pdf"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "EdCIL Vacancy 2026 - 13 Junior Engineer, Young Professional and More PostsEdCIL Vacancy 2026",
         "title": "Architect, Senior Engineer (Civil), Engineer (Civil), Junior Engineer (Civil), AutoCAD/Revit Operator, Young Professional (Data Management & Web Monitoring)",
         "qualification": "2/3-year Diploma in Civil Engineering/Architectural Assistantship, or ITI Drafting certification with certified AutoCAD & Revit/3D Max course",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "Not Available",
         "salary": "Remuneration is on a consolidated monthly basis, inclusive of all allowances, and varies by post: || The engagement is purely contractual for one year, extendable by a further year based on project requirement and individual performance.",
         "age_limit": "Age is reckoned as on 31.07.2026. No age relaxation is mentioned in the notification. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -720,11 +832,11 @@
         "official_notification": "https://www.edcilindia.co.in/Default/ViewFile/?id=1788277002955_KVS%20-%20complete%20ad%20(1).pdf&path=TCareer"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "SGMH Delhi Vacancy 2026 - 4 Senior Resident PostsSGMH Delhi Senior Resident Vacancy 2026",
         "title": "Senior Resident, Dental (Oral & Maxillofacial Surgeon)",
         "qualification": "MDS in Oral & Maxillofacial Surgery from recognized University/ Institution, Valid DCI/ Delhi Dental Council Registration",
-        "last_date": "14 Sep 2026",
+        "last_date": "14-09-2026",
         "total_posts": "4",
         "salary": "Rs. 67700 - 208700 Per Month",
         "age_limit": "Max: 45 years",
@@ -736,11 +848,11 @@
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsgm_12.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 1 Project Research Scientist PostsAIIMS Delhi Project Research Scientist Vacancy 2026",
         "title": "Project Research Scientist-I (Medical)",
         "qualification": "MBBS, 3 years clinical experience in Psychiatry, Psychology or mental health",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "1",
         "salary": "Project Research Scientist-I (Medical):Rs. 87,100 per month",
         "age_limit": "Maximum Age: 35 years",
@@ -752,11 +864,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/psy-1-9-26.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "GAIL Vacancy 2026 - Executive Trainee PostsGAIL Executive Trainee Vacancy 2026",
         "title": "Executive Trainee",
         "qualification": "Note: Engineering Degree can be B.E./B.Tech./B.Sc. Engg. Candidates with a 5-year integrated B.E./B.Tech. + M.E./M.Tech. dual degree in the relevant discipline are also eligible. Candidates with a 5-year integrated B.E./B.Tech. + MBA or B.E./B.Tech. + M.Sc. are also considered, provided the final percentage meets the notified criteria. Candidates with an engineering degree in a branch/discipline other than those listed above are not eligible. Only full-time regular courses from UGC-recognized/AICTE-approved institutions are considered.",
-        "last_date": "18 Mar 2027",
+        "last_date": "18-03-2027",
         "total_posts": "Not Available",
         "salary": "Not Available",
         "age_limit": "Age relaxation for SC/ST/OBC (NCL) is applicable only against posts reserved for the respective category; if applying against an unreserved post, such candidates are assessed under general merit with no age relaxation. || PwBD age relaxation applies irrespective of whether the post is reserved, provided the post is identified suitable for PwBDs. || Maximum upper age of the applicant, after all possible relaxations, shall not exceed 56 years.",
@@ -768,11 +880,11 @@
         "official_notification": "https://www.gailonline.com/careers/currentOpnning/GATE-2027-1st-Advertisement-01-09-2026.pdf"
     },
     {
-        "date": "19 Aug 2026",
+        "date": "19/08/2026",
         "board": "Sahitya Akademi Vacancy 2026 - 30 Clerk, MTS and More PostsSahitya Akademi Vacancy 2026",
         "title": "Post Name",
         "qualification": "Master's Degree in Language (min. 55% marks) with 7 years' experience as Assistant Director/Assistant Secretary/Administrative Officer/Assistant Registrar or equivalent in Level 10 and above; OR Master's in Business/Public Administration (min. 55%) with the same 7 years' experience. Must also have demonstrable experience organizing literary activities/programmes/seminars/conferences/festivals at institutional, regional, or national level, and an unblemished integrity record (no pending criminal/vigilance/disciplinary proceedings, court case involving moral turpitude/financial irregularity, or chargesheet/prosecution sanction as on the closing date).",
-        "last_date": "21 Oct 2026",
+        "last_date": "21-10-2026",
         "total_posts": "Not Available",
         "salary": "Pay is as per the 7th CPC Pay Matrix, ranging from Level-1 (₹18,000–56,900) for Multi-Tasking Staff to Level-11 (₹67,700–2,08,700) for Deputy Secretary. See the Eligibility table above for the pay level of each post.",
         "age_limit": "Maximum age: 50 years for all 13 posts || Age relaxation: as per Government of India rules || Age (along with qualification and experience) is assessed as on the closing date of application || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -784,11 +896,11 @@
         "official_notification": "https://sahitya-akademi.gov.in/pdf/Corrigendum-Variousposts.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "ICAR IARI Vacancy 2026 - 3 JRF/ SRF and Field Assistant PostsICAR IARI Vacancy 2026",
         "title": "Junior Research Fellow/Senior Research Fellow and Field Assistant",
         "qualification": "Master's degree in Horticulture/Fruit Science/Genetics/Plant Breeding/Genetics and Plant Breeding/Plant Molecular Biology and Biotechnology/Life Sciences, B.Sc./3 years diploma in Engineering and Tech",
-        "last_date": "25 Sep 2026",
+        "last_date": "25-09-2026",
         "total_posts": "3",
         "salary": "Junior Research Fellow/Senior Research Fellow:Rs. 37000 + HRA (27%) for the first and second year and Rs. 42000 + HRA (27%) for the third year. || Field Assistant:Rs. 20000 + HRA (27%).",
         "age_limit": "Maximum Age Limit: 50 years for all posts. || Age relaxation for SC/ST/OBC as per Govt. of India/ICAR rules for JRF/SRF; Maximum 35 years for men and 40 years for women (JRF/SRF), 50 years (Field Assistant). || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -800,11 +912,11 @@
         "official_notification": "https://iari.res.in/files/jobs/Advertisement_IARI_website_31082026.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "Delhi University Vacancy 2026 - 1 Music Teacher PostsDelhi University Music Teacher Vacancy 2026",
         "title": "Music Teacher (Part-Time)",
         "qualification": "B.A. Degree with Music as one of the subject from a recognized university OR Higher secondary with Sangeet Visharad / Sangeet Vid / Sangeet Prabhakar / Sangeet Visharad Examination of Bhatkhande / Final examination of Madhya Sangeet Mahavidyalaya / Highest examination of Baroda State School of Music / Final examination of Shankar Gandharava Vidyalaya / Sangeet Ratan diploma",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "1",
         "salary": "As per Delhi University norms",
         "age_limit": "Max: 32 years",
@@ -816,11 +928,11 @@
         "official_notification": "https://www.du.ac.in/uploads/2026/25082026_CIE-Advertisement_Music_Teacher.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "Delhi University Vacancy 2026 - 3 Junior Research Fellow, Research Intern PostsDelhi University Vacancy 2026",
         "title": "Junior Research Fellow (JRF) and Research Intern (RI)",
         "qualification": "B.E./B.Tech. or three-year Diploma in Mechanical/Mechatronics/Electronics/Electrical/Electronics.",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "3",
         "salary": "Rs. 6000 Per Month",
         "age_limit": "Not Available",
@@ -832,11 +944,11 @@
         "official_notification": "https://www.du.ac.in/uploads/2026/31082026-cic-JRF-RI%20Advt..pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "HLL Vacancy 2026 - 16 Manager, Associate General Manager and More PostsHLL Vacancy 2026",
         "title": "Reference Code",
         "qualification": "12 years, in business development/institutional sales/project development in mental health/behavioural wellness/healthcare/rehab/allied services",
-        "last_date": "23 Sep 2026",
+        "last_date": "23-09-2026",
         "total_posts": "Not Available",
         "salary": "Pay ranges from a basic pay of Rs. 35,000 for the Senior Operations Manager post up to a scale of Rs. 1,00,000–2,60,000 for the Vice President & CFO post. For the two Vice President posts on FTC (Pharma Retail and Product Marketing), the notification specifies a consolidated remuneration commensurate with qualification, experience and last drawn salary, rather than a fixed pay scale.",
         "age_limit": "The maximum age for each post is calculated as on 01 August 2026, which is also the cut-off date used for qualification and post-qualification experience. || In addition to the post-specific relaxation above, SC/ST/OBC/PwD candidates are eligible for age relaxation as per Government of India directives. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -848,11 +960,11 @@
         "official_notification": "https://www.lifecarehll.com/careers/view/reference/03f544613917945245041ea1581df0c2hX-Kgg"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "DCAC Vacancy 2026 - 4 Guest Faculty PostsDCAC Guest Faculty Vacancy 2026",
         "title": "Guest Faculty",
         "qualification": "Eligibility criteria are same as prescribed for regular Assistant Professor in UGC Regulation. Minimum API Score of 55 marks and above.",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "4",
         "salary": "Rs.1500/- per lecture subject to a maximum of Rs. 50,000/- per month",
         "age_limit": "Not Available",
@@ -864,11 +976,11 @@
         "official_notification": "https://www.du.ac.in/uploads/2026/31082026-dcac-Notice_Guest_English_2026.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "DIC Vacancy 2026 - 2 Assistant Manager PostsDIC Assistant Manager Vacancy 2026",
         "title": "Assistant Manager – Future Skills",
         "qualification": "Graduate in any discipline, preferably a Bachelor's in Computer Science, IT, Data Science, or a related field. Postgraduate degree in Management, Public Policy, or Business Administration is desirable.",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "2",
         "salary": "Not Available",
         "age_limit": "Not Available",
@@ -880,11 +992,11 @@
         "official_notification": "https://dicmedia.digitalindiacorporation.in/JD-Asst.-Manager-Future-Skill.pdf"
     },
     {
-        "date": "31 Aug 2026",
+        "date": "31/08/2026",
         "board": "IBPS Vacancy 2026 - 13706 Officer,Office Assistant PostsIBPS Vacancy 2026",
         "title": "Post Name",
         "qualification": "Nationality: a candidate must be a citizen of India, or a subject of Nepal/Bhutan, or a Tibetan refugee who arrived before 1 January 1962 intending to settle permanently in India, or a person of Indian origin migrated from certain specified countries with an eligibility certificate from the Government of India. || Educational qualification (as on the last date of online registration, i.e. 21.09.2026) varies by post:",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "13,706 (indicative; see Vacancy Details section)",
         "salary": "Salary: Not specified in the notification. || Exam pattern: The online examination structure differs by post and stage. || There is a penalty of 0.25 marks for each wrong answer in the objective tests; unattempted questions are not penalised. Officer Scale-II candidates sit for a single-level examination (structure not itemised separately in the notification excerpt reviewed here beyond the general pattern above).",
         "age_limit": "Age is reckoned as on 01.09.2026. || Age relaxation is available as follows: 5 years for SC/ST, 3 years for OBC (non-creamy layer), 10 years for Persons with Benchmark Disability (PwBD), and additional relaxation for Ex-Servicemen and (for Office Assistant only) widows, divorced women, and women legally separated from their husbands who have not remarried. Relaxation for SC/ST/OBC is cumulative with only one other applicable category. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -896,11 +1008,11 @@
         "official_notification": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "IRPL Vacancy 2026 - 2 Finance Assistant, Company Secretary PostsIRPL Vacancy 2026",
         "title": "Finance Assistant, Company Secretary",
         "qualification": "B. Com, M. Com, CA Intermediate / ICAI(CMA) Intermediate",
-        "last_date": "28 Sep 2026",
+        "last_date": "28-09-2026",
         "total_posts": "2",
         "salary": "Finance Assistant: Rs 45,000 per month || Company Secretary: Rs 55,000 per month",
         "age_limit": "Maximum Age Limit: 35 years for all posts. || Age relaxation will be provided as per Government of India’s guidelines. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -912,11 +1024,11 @@
         "official_notification": "https://www.ircon.org/sites/default/files/2026-08/Advt%20%20No%20IRPL%20C02%202026.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "IPA Vacancy 2026 - 5 Senior Consultant/ Consultant PostsIPA Senior Consultant/ Consultant Vacancy 2026",
         "title": "Senior Consultant / Consultant",
         "qualification": "Master's degree (full-time) or above from a reputed Indian or International University in Economics, Public Policy, Maritime, Trade, Transport Management, International Relations, or related subjects",
-        "last_date": "18 Sep 2026",
+        "last_date": "18-09-2026",
         "total_posts": "5",
         "salary": "Senior Consultant: Rs. 1500000 Per Annum || Consultant: Rs. 1200000 Per Annum",
         "age_limit": "Minimum Age: 25 years || Maximum Age: 45 years || Age relaxation details are not specified in the provided data. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -928,11 +1040,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/09/5645-6a966088d2a0b77388852.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 1 Research Associate III PostsAIIMS Delhi Research Associate III Vacancy 2026",
         "title": "Research Associate-III",
         "qualification": "PhD/MD/MS/MDS or equivalent, M.Sc/MVSc/M.Pharm/ME/M.Tech with 3 years experience",
-        "last_date": "14 Sep 2026",
+        "last_date": "14-09-2026",
         "total_posts": "1",
         "salary": "Rs. 67000 Per Month",
         "age_limit": "Not Available",
@@ -944,11 +1056,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/peadsurg-31-8-26.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "NIC Vacancy 2026 - 376 Scientific/Technical Assistant PostsNIC Scientific/Technical Assistant Vacancy 2026",
         "title": "Scientific/Technical Assistant-A",
         "qualification": "376 Posts",
-        "last_date": "30 Sep 2026",
+        "last_date": "30-09-2026",
         "total_posts": "Not Available",
         "salary": "The Scientific/Technical Assistant-A post carries a pay of Level 6 under the 7th Central Pay Commission, i.e., ₹35,400 to ₹1,12,400 per month, in addition to applicable allowances as per Government of India norms.",
         "age_limit": "The upper age limit is calculated as on the closing date, 30 September 2026. || An additional 5-year age relaxation applies to candidates serving in Government organizations in the same line or allied cadres, where their existing service is relevant to the advertised post. Age relaxation for SC/ST/OBC(NCL) candidates applies only to posts reserved for them, whereas relaxation for PwBD candidates applies irrespective of reservation status, provided the post is identified as suitable for them. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -960,11 +1072,11 @@
         "official_notification": "https://recruitment.nic.in/DetailedSTA.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "NIT Delhi Vacancy 2026 - 3 Project Associate/ Research Associate PostsNIT Delhi Project Associate/ Research Associate Vacancy 2026",
         "title": "Project Associate / Research Associate",
         "qualification": "B.E./ B.Tech. or M.E./ M.Tech. in ECE / Electronics / Telecommunication Engineering or M.Sc. in Electronics / Physics, Ph.D. in ECE / Physics with focus on Antennas, RF or Microwave Engineering (thesis submitted candidates eligible)",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "3",
         "salary": "Project Associate:Consolidated Rs. 40,000 Per Month || Research Associate:Consolidated Rs. 80,000 Per Month || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
         "age_limit": "Not Available",
@@ -976,11 +1088,11 @@
         "official_notification": "https://media.nitdelhi.ac.in/uploads/announcements/Recruitment/Adv%20&%20Application%20form%20CARS%20DRDO%20RA%20PA@nitdelhi2e4e168c-b29b-4df1-8f24-fdf2bbafa892.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "ICAR IARI Vacancy 2026 - 2 Senior Research Fellow PostsICAR IARI Senior Research Fellow Vacancy 2026",
         "title": "Senior Research Fellow",
         "qualification": "B.Tech/Bachelor degree in Computer Sciences, Master degree in Computer Science / Information Technology / Information Security / Information Sciences / MCA or equivalent from a recognized University. Master degree holders should have completed 4 or 5 Years Bachelor degree in relevant subject. Those with 3 years of Bachelor's degree should have NET qualification or equivalent certificate. At least two years of research experience.",
-        "last_date": "28 Sep 2026",
+        "last_date": "28-09-2026",
         "total_posts": "2",
         "salary": "Senior Research Fellow: Rs. 37,000 + HRA Per month (as admissible)",
         "age_limit": "Maximum Age: 35 years || Age Relaxation:SC/ST: 5 yearsWomen: 5 yearsOBC: 3 years || SC/ST: 5 years || Women: 5 years || OBC: 3 years",
@@ -992,11 +1104,11 @@
         "official_notification": "https://iari.res.in/files/jobs/2026_Application_SRF_31082026.pdf"
     },
     {
-        "date": "31 Aug 2026",
+        "date": "31/08/2026",
         "board": "IPA Vacancy 2026 - 5 Senior Consultant and Consultant PostsIPA Vacancy 2026",
         "title": "Senior Consultant and Consultant",
         "qualification": "Master's degree (full-time) or above from a reputed Indian or International University in Economics, Public Policy, Maritime, Trade, Transport Management, International Relations, or related subjects.",
-        "last_date": "18 Sep 2026",
+        "last_date": "18-09-2026",
         "total_posts": "5",
         "salary": "Senior Consultant:₹15,00,000/- per annum (Monthly fixed remuneration for the initial period of 2 years; no change in remuneration will be considered during the initial period.) || Consultant:₹12,00,000/- per annum (Monthly fixed remuneration for the initial period of 2 years; no change in remuneration will be considered during the initial period.)",
         "age_limit": "Minimum Age: 25 years || Maximum Age: 45 years || Age relaxation is not specified in the provided data.",
@@ -1008,11 +1120,11 @@
         "official_notification": "https://newmangaloreport.gov.in/sites/default/files/2026-08/Consultants%20detailed%20advertisement.pdf"
     },
     {
-        "date": "25 Aug 2026",
+        "date": "25/08/2026",
         "board": "CONCOR Vacancy 2026 - 77 Management Trainee & Assistant Officer PostsCONCOR Management Trainee & Assistant Officer Vacancy 2026",
         "title": "Management Trainee & Assistant Officer",
         "qualification": "Graduate with PGDCA or BCA or B.Sc (Hons) in Computer Science or DOEACC 'A' Level, min. 50% marks, plus 3 years' experience in IT support/software applications (OR 1 year for candidates holding an MCA/B.Tech/BE (Computer Science/Computer Engg.)/M.Sc(IT)/M.Sc(Computer Science)/DOEACC B level, min. 50% marks).",
-        "last_date": "30 Sep 2026",
+        "last_date": "30-09-2026",
         "total_posts": "Not Available",
         "salary": "₹50,000-3%-1,60,000",
         "age_limit": "Age Limit (UR, as on 31.08.2026)",
@@ -1024,11 +1136,11 @@
         "official_notification": "Not Available"
     },
     {
-        "date": "31 Aug 2026",
+        "date": "31/08/2026",
         "board": "IIT Delhi Vacancy 2026 - 9 Research Engineer, Project Assistant and More Posts PostsIIT Delhi Vacancy 2026",
         "title": "Principal Project Scientist / Sr. Project Assistant / Sr. Research Engineer / Sr. Project Scientist / Research Associate",
         "qualification": "Ph.D. (1st class) or M.Tech./MS(R)/MCA (1st Class) with 06 years experience, B.Tech (1st class) or Graduate degree (1st class) with 05 years experience, B.Tech. (1st class) with two years or M.Tech. (1st class), M.Tech./MS(R)/MCA (1st Class) or B.Tech. (1st Class) with 03 years experience, Ph.D. (1st class) or M.Tech. (1st Class) with 03 years experience",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "9",
         "salary": "Rs. 75,600 - 1,01,610 p.m. plus HRA @ 30%",
         "age_limit": "Not Available",
@@ -1040,11 +1152,11 @@
         "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1787911062537_ay8171v.pdf"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "HUDCO Vacancy 2026 - 08 Senior Manager, Deputy General Manager and More PostsHUDCO Vacancy 2026",
         "title": "Post Name",
         "qualification": "Candidates should also possess relevant work experience: Projects Discipline candidates need hands-on experience in project appraisal, financial modelling, project development, project management, project monitoring, and regulatory compliance for Government, Private, or PPP infrastructure projects. Finance Discipline candidates need experience in financial management, budgeting, accounts, taxation, banking, credit appraisal, loan and recovery management, risk management, ERP implementation, and regulatory compliance. || Experience is calculated from the date of acquiring the essential educational qualification. Preference will be given to candidates with experience in Scheduled Commercial Banks, NBFCs (including IFCs), multilateral organizations, or other financial institutions.",
-        "last_date": "16 Sep 2026",
+        "last_date": "16-09-2026",
         "total_posts": "Not Available",
         "salary": "HUDCO offers pay on the IDA pay-scale (w.e.f. 01.01.2017), along with an approximate annual Cost to Company (CTC) for each level. || The CTC includes minimum Basic Pay, Industrial Dearness Allowance (IDA) at 55.7% of basic pay, HRA (30% of basic pay), Perks & Allowances (35% of basic pay), superannuation benefits (30% of basic pay), and Performance Related Pay (PRP) at maximum potential as per DPE slabs. In addition, employees get conveyance, company-leased accommodation (in lieu of HRA), medical reimbursement, loans and advances, group insurance, and other social security/functional benefits. Actual PRP payout depends on individual, team, and company performance, and IDA rates may change as notified by the Ministry of Finance.",
         "age_limit": "Age will be reckoned as on 01.08.2026. Age relaxation is permissible up to 05 years for SC/ST candidates and 03 years for OBC(NCL) candidates. Age relaxation for Ex-Servicemen will be as per applicable Government norms. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -1056,11 +1168,11 @@
         "official_notification": "https://hudco.org.in/writereaddata/Detailed-Advertisement.pdf"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 2 Project Associate PostsAIIMS Delhi Project Associate Vacancy 2026",
         "title": "Project Associate I and Project Associate II",
         "qualification": "Four years Bachelor's Degree / Master's Degree in Psychology from a recognized university",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "2",
         "salary": "Project Associate I:Rs. 37,000 + 30% HRA = Rs. 48,100/- p.m. or Rs. 30,000 + 30% HRA = Rs. 39,000/- p.m. || Project Associate II:Rs. 42,000 + 30% HRA = Rs. 54,600/- p.m. or Rs. 33,000 + 30% HRA = Rs. 42,900/- p.m.",
         "age_limit": "Maximum Age Limit: 50 years for all posts. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -1072,11 +1184,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/psy-29-8-26.pdf"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "IIT Delhi Vacancy 2026 - 1 Senior Research Fellow PostsIIT Delhi Senior Research Fellow Vacancy 2026",
         "title": "Senior Research Fellow",
         "qualification": "M Sc/ B Tech in Physics/ EP/ Electronics with 80% marks and 02 years minimum work experience",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "1",
         "salary": "Rs. 42000 Per Month",
         "age_limit": "Not Available",
@@ -1088,11 +1200,11 @@
         "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1787911554547_akxu0pt.pdf"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "ESIC Rohini Vacancy 2026 - 19 Associate Professor and Assistant Professor PostsESIC Rohini Vacancy 2026",
         "title": "Associate Professor and Assistant Professor",
         "qualification": "As per NMC Teachers Eligibility Qualification Regulations 2022, DCI BDS/MDS Regulations 2007",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "19",
         "salary": "Assistant Professor: ₹1,50,294/- per month || Associate Professor: ₹1,74,936/- per month",
         "age_limit": "Maximum Age Limit: 67 years for all posts. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -1104,11 +1216,11 @@
         "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_Interview_ndash_Associate_Assistant_Professor_Medical_08_Sept_Dental_09_Sept_ESIC_Dental_College_Rohini_1787897539.pdf"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "IIT Delhi Vacancy 2026 - 1 Project Scientist PostsIIT Delhi Project Scientist Vacancy 2026",
         "title": "Project Scientist",
         "qualification": "M.Tech in Applied Optics/Photonics/Optoelectronics with a minimum 7.5 CGPA/CPI",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "1",
         "salary": "Rs. 66,667/- p.m. (Consolidated)",
         "age_limit": "Please refer to the official notification for age limit details.",
@@ -1120,11 +1232,11 @@
         "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1787911325828_wkx6nk6.pdf"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "STPI Vacancy 2026 - 10 Assistant, Administrative Officer and More Posts PostsSTPI Vacancy 2026",
         "title": "Assistant, Administrative Officer and More Posts",
         "qualification": "Graduate with 6 years’ experience in personnel/administration/vigilance, OR Postgraduate with 4 years’ experience in the same field. Desirable: Diploma in Personnel/Financial/Purchase Management, or MBA with 1 year experience in Personnel/Administration/Vigilance.",
-        "last_date": "12 Oct 2026",
+        "last_date": "12-10-2026",
         "total_posts": "Not Available",
         "salary": "Pay is as per the 7th Central Pay Commission Pay Matrix applicable to each post, ranging from Level 1 (Rs. 18,000-56,900) for Office Attendant up to Level 7 (Rs. 44,900-142,400) for Administrative Officer. The notification does not specify additional allowances separately; these would be as per applicable Government/STPI rules.",
         "age_limit": "Age relaxation is applicable as per Government of India rules for candidates already working in Government/STPI on a regular basis, and for SC/ST/OBC/PwBD candidates. Age is reckoned as on the closing date, 12 October 2026. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -1136,11 +1248,11 @@
         "official_notification": "https://stpi.in/sites/default/files/career-documents/notice_26.pdf"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "ESIC Delhi Vacancy 2026 - 1 Scientist PostsESIC Delhi Scientist Vacancy 2026",
         "title": "Scientist Grade-I (Embryologist)",
         "qualification": "Post-graduate in Clinical Embryology with 3 years ART lab experience OR Ph.D. in Clinical Embryology/ART/Fertility with 1 year ART lab experience OR MBBS/BVSc with post-graduate degree in Clinical Embryology and 2 years ART lab experience OR Post-graduate in Life Sciences/Biotechnology with 1 year Clinical Embryology training and 4 years ART lab experience.",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "1",
         "salary": "₹1,05,356/- per month",
         "age_limit": "Maximum age limit shall be 69 years.",
@@ -1152,11 +1264,11 @@
         "official_notification": "https://esic.gov.in/attachments/recruitmentfile/RECRUITMENT_FOR_THE_POST_OF_SCIENTIST_GRADE_I_EMBRYOLOGIST_ON_CONTRACTUAL_BASIS_1787899677.pdf"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "Directorate of Enforcement Vacancy 2026 - 38 Additional Director of Enforcement, Joint Director of Enforcement PostsDirectorate of Enforcement Vacancy 2026",
         "title": "Additional Director of Enforcement and Joint Director of Enforcement",
         "qualification": "38 Posts",
-        "last_date": "28 Sep 2026",
+        "last_date": "28-09-2026",
         "total_posts": "38",
         "salary": "Level-13, Level-12",
         "age_limit": "Not Available",
@@ -1168,11 +1280,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/457896-6a925e4f366ad32539150.pdf"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "IOB Vacancy 2026 - 291 Manager, Assistant Manager and More PostsIOB Vacancy 2026",
         "title": "Generalist / Specialist Officers (14 posts)",
         "qualification": "Minimum 5 years post-qualification experience in Network Operations, including Cisco FTD and Checkpoint firewall security; mandatory CCNA (Routing & Switching/Security) or Checkpoint CCSE certification",
-        "last_date": "29 Sep 2026",
+        "last_date": "29-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected candidates will be placed in the following pay scales, with DA, HRA, CCA, and other allowances as per rules in force. || Specialist Officers recruited laterally in MMG Scale II and III are also eligible for Conveyance Expenses, Newspaper Cost, Telephone/Mobile Expenses, Residential Furniture, and Bank-owned or leased accommodation during probation, as per extant Bank guidelines. Selected candidates must execute a Financial Service Indemnity Bond of ₹2,00,000 (JMGS I, minimum 3 years' service) or ₹2,50,000 (MMGS II & III, minimum 3 years' service).",
         "age_limit": "The minimum and maximum age for each post is listed in the eligibility table above (assessed as on 01.08.2026). Age relaxation for reserved categories is as follows: || Cumulative age relaxation across categories is available to SC/ST/OBC candidates, subject to a maximum upper age limit of 50 years. There is no reservation for Ex-servicemen in the Officers' cadre, though age relaxation applies as per Government guidelines. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -1184,11 +1296,11 @@
         "official_notification": "https://www.iob.bank.in/documents/d/guest/Revised-FINAL-Web-Ad-Recruitment-Gen-Spl-2026-27"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "NJB Vacancy 2026 - 14 Consultant, Young Professional PostsNJB Vacancy 2026",
         "title": "Consultant and Young Professional",
         "qualification": "Retired from Govt. posts, CA/CMA/B.Com with MBA, MBA (Marketing), M.Tech/ME.",
-        "last_date": "18 Sep 2026",
+        "last_date": "18-09-2026",
         "total_posts": "14",
         "salary": "Young Professional (Finance & Economic Services): Rs. 70,000 INR per Month || Young Professional (Market Promotion & Scheme Implementation): Rs. 70,000 INR per Month || Young Professional (Technology & Technical): Rs. 70,000 INR per Month",
         "age_limit": "Consultant: Maximum age limit is 63 years. || Young Professional: Maximum age limit is 35 years. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -1200,11 +1312,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/147852-6a9256a751faf21405148.pdf"
     },
     {
-        "date": "28 Aug 2026",
+        "date": "28/08/2026",
         "board": "APEDA Vacancy 2026 - 1 Associate PostsAPEDA Associate Vacancy 2026",
         "title": "Associate (Legal)",
         "qualification": "Bachelor of Laws (LL.B), At least 2 years of work experience in the relevant field, Knowledge of the basic concepts pertaining to intellectual property law, LL.M./Master's degree in a field related to law, Prior work experience in intellectual property law (especially trademarks, geographical indications)",
-        "last_date": "09 Sep 2026",
+        "last_date": "09-09-2026",
         "total_posts": "1",
         "salary": "Rs. 90,000/- to Rs. 1,20,000/- Per Month",
         "age_limit": "Maximum Age Limit: 45 years || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -1216,11 +1328,11 @@
         "official_notification": "https://apeda.gov.in/sites/default/files/recruitment_appointment/Advertisement_Associate_Legal_27_08_2026.pdf"
     },
     {
-        "date": "28 Aug 2026",
+        "date": "28/08/2026",
         "board": "AIAHL Vacancy 2026 - 1 Chairman & Managing Director PostsAIAHL Chairman & Managing Director Vacancy 2026",
         "title": "Chairman & Managing Director",
         "qualification": "Engineering Graduate or Chartered Accountant or Cost Accountant or Post Graduate or Graduate with MBA/PGDIM from a recognized institute.",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "01 July 2027",
         "salary": "Rs. 180000 - 320000 Per Month",
         "age_limit": "Min: 45 years, Max: 60 years",
@@ -1232,11 +1344,11 @@
         "official_notification": "https://www.aiasl.in/resources/Advertisement%20for%20post%20of%20CMD%20-%20AIAHL.pdf"
     },
     {
-        "date": "28 Aug 2026",
+        "date": "28/08/2026",
         "board": "NHAI Vacancy 2026 - 2 Senior Pavement Design cum Material Expert, Quantity Surveyor PostsNHAI Vacancy 2026",
         "title": "Senior Pavement Design cum Material Expert and Quantity Surveyor",
         "qualification": "Graduate in Civil Engineering or equivalent, Postgraduate (ME/M Tech)",
-        "last_date": "28 Sep 2026",
+        "last_date": "28-09-2026",
         "total_posts": "2",
         "salary": "Rs. 5,00,000/- per month for Senior Pavement Design cum Material Expert, Rs. 1,75,000/- per month for Quantity Surveyor",
         "age_limit": "Senior Pavement Design cum Material Expert: Maximum 65 years. || Quantity Surveyor (QS): Maximum 45 years. || Age relaxation can be relaxed by the Chairman. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -1248,11 +1360,11 @@
         "official_notification": "https://nhai.gov.in/nhai/sites/default/files/vacancy_files/advertisement.pdf"
     },
     {
-        "date": "27 Aug 2026",
+        "date": "27/08/2026",
         "board": "NMDFC Vacancy 2026 - 1 Senior Legal Consultant PostsNMDFC Senior Legal Consultant Vacancy 2026",
         "title": "Senior Legal Consultant",
         "qualification": "Masters Degree in relevant field/subject or technical qualifications like MBA or equivalent with minimum 10 years post qualification experience. Retired Govt. Employees with Grade Pay of Rs. 5400/Level-10 (7th Pay Commission) and above with 10-year Experience are also eligible.",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "1",
         "salary": "Rs 90,000/- per month",
         "age_limit": "Maximum age shall ordinarily be 65 years as on the closing date of receipt of applications.",
@@ -1264,11 +1376,11 @@
         "official_notification": "https://nmdfc.org/uploads/files/Sr-Consultpdf-915fdeaec4d67e3ae1409c6006287093.pdf"
     },
     {
-        "date": "27 Aug 2026",
+        "date": "27/08/2026",
         "board": "NIT Delhi Vacancy 2026 - 10 Project Engineer, Project Attendant and More Posts PostsNIT Delhi Vacancy 2026",
         "title": "Project Engineer, Project Attendant and More Posts",
         "qualification": "B. Tech. (Electrical/ Mechanical), B. Tech. (Civil), Diploma or Equivalent or Above (Electrical/Mechanical), Diploma or Equivalent or Above (Civil), B. Tech. or Equivalent or Above (Civil), 10th Pass (Desirable)",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "10",
         "salary": "Sr. Project Technical Assistant: 42600, Junior Project Technical Assistant: 32800, Project Attendant: 20160",
         "age_limit": "Not Available",
@@ -1280,11 +1392,11 @@
         "official_notification": "https://media.nitdelhi.ac.in/uploads/announcements/Recruitment/Recruitment%20Advertisement%20TPQA%2002@nitdelhi49535133-2c77-4a96-964b-a7033543fb2e.pdf"
     },
     {
-        "date": "27 Aug 2026",
+        "date": "27/08/2026",
         "board": "DHAS Delhi Vacancy 2026 - 9 Senior Resident PostsDHAS Delhi Senior Resident Vacancy 2026",
         "title": "Senior Resident",
         "qualification": "MBBS with post graduate Degree/Diploma/DNB in the concerned specialty from a recognized University/Institution, Valid registration with Delhi Medical Council",
-        "last_date": "09 Sep 2026",
+        "last_date": "09-09-2026",
         "total_posts": "9",
         "salary": "Rs. 67,700 - 2,08,700/- Per Month",
         "age_limit": "Maximum Age Limit: 45 years || Age Relaxation: 5 yrs for SC/ST, 3 yrs for OBC, 5 yrs extra for PwD || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -1296,11 +1408,11 @@
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wdhas_33.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "IIT Delhi Vacancy 2026 - 1 Project Associate PostsIIT Delhi Project Associate Vacancy 2026",
         "title": "Project Associate",
         "qualification": "Masters degree in Computer Science or equivalent",
-        "last_date": "09 Sep 2026",
+        "last_date": "09-09-2026",
         "total_posts": "1",
         "salary": "Rs. 54,600/- p.m. (consolidated)",
         "age_limit": "Not Available",
@@ -1312,11 +1424,11 @@
         "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1787649715868_5iibusr.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "Karmayogi Bharat Vacancy 2026 - 14 Project Manager, Senior Business Analyst and More Posts PostsKarmayogi Bharat Vacancy 2026",
         "title": "AI/ML-Chatbot & AI Dashboard Developer, Mobile App Developer, Project Manager, Senior Technical Support Engineer, Senior Business Analyst, Onboarding and Capacity Building Trainer, Technical Support Engineer",
         "qualification": "Bachelor's Degree in Computer Science / Engineering / Mathematics / or a related field. Master's or Ph.D. in AI, Machine Learning, Data Science, or a related area is preferred.",
-        "last_date": "14 Sep 2026",
+        "last_date": "14-09-2026",
         "total_posts": "14",
         "salary": "Not Available",
         "age_limit": "Not Available",
@@ -1328,11 +1440,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/2145877-6a8e7b0a9285e21361224.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "ICAR IARI Vacancy 2026 - 4 Senior Research Fellow PostsICAR IARI Senior Research Fellow Vacancy 2026",
         "title": "Senior Research Fellow",
         "qualification": "Master’s degree in Genetics/Plant Breeding/Genetics and Plant Breeding/Biotechnology with 4/5 years bachelor’s degree",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "4",
         "salary": "₹37,000 + HRA/month for 1st and 2nd year; ₹42,000 + HRA/month for 3rd year",
         "age_limit": "Maximum Age Limit: 35 years || Age Relaxation: Five years for SC/ST & women and three years for OBC. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -1344,11 +1456,11 @@
         "official_notification": "https://iari.res.in/files/jobs/Senior_Research_Fellow_21082026.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "ICAR IARI Vacancy 2026 - 3 Senior Research Fellow and Young Professional PostsICAR IARI Vacancy 2026",
         "title": "Senior Research Fellow and Young Professional-I",
         "qualification": "Master’s degree in Genetics/Plant Breeding/Genetics and Plant Breeding/Biotechnology, Graduation degree in Agricultural Science or Diploma in Agricultural Sciences / Life Sciences",
-        "last_date": "22 Sep 2026",
+        "last_date": "22-09-2026",
         "total_posts": "3",
         "salary": "Senior Research Fellow (SRF):₹37,000 + HRA/month for 1st and 2nd year; ₹42,000 + HRA/month for 3rd year || Young Professional-I (YP-I):₹30,000/month (fixed); no HRA",
         "age_limit": "Age Relaxation:For SRF: 5 years for SC/ST & women, 3 years for OBC. For YP-I: 5 years for SC/ST/Women, 3 years for OBC. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -1360,11 +1472,11 @@
         "official_notification": "https://iari.res.in/files/jobs/Senior_Research_25082026.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 1 Project Technical Support-III PostsAIIMS Delhi Project Technical Support-III Vacancy 2026",
         "title": "Project Technical Support-III (PTS-III)",
         "qualification": "Three Years Graduate degree in relevant subject/field + Three Years Post-Qualification experience OR PG in relevant subject/field.",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "1",
         "salary": "Rs. 28,000/- + 30% HRA i.e., 36,400/-",
         "age_limit": "Upto 30 years",
@@ -1376,11 +1488,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/physiology-2508026.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 1 Senior Consultant PostsAIIMS Delhi Senior Consultant Vacancy 2026",
         "title": "Senior Consultant",
         "qualification": "Master's degree in Life Sciences, Biotechnology or Bioinformatics with 60% marks and 15 years experience in Toxicology/Analytical Toxicology, Master's degree in Life Sciences, Biotechnology or Bioinformatics with PhD in Toxicology related subject and 10 years experience (3 years PhD counted as experience)",
-        "last_date": "09 Sep 2026",
+        "last_date": "09-09-2026",
         "total_posts": "1",
         "salary": "Not Available",
         "age_limit": "Maximum Age: 50 years || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -1392,11 +1504,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/anatomy-25-8-26.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "IRFC Vacancy 2026 - 1 Head of Internal Audit PostsIRFC Head of Internal Audit Vacancy 2026",
         "title": "Head of Internal Audit (HIA)",
         "qualification": "Chartered Accountant or Cost Accountant or full-time MBA/PGDM Course having specialization in Finance, Officers of Organized Group 'A' Accounts Services",
-        "last_date": "30 Sep 2026",
+        "last_date": "30-09-2026",
         "total_posts": "1",
         "salary": "Not Available",
         "age_limit": "Max: 62 years",
@@ -1408,11 +1520,11 @@
         "official_notification": "https://irfc.co.in/sites/default/files/2026-08/HIA-AD-Final.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "DMRC Vacancy 2026 - 4 Supervisor PostsDMRC Supervisor Vacancy 2026",
         "title": "Supervisor (P. Way)",
         "qualification": "Graduate (Experience in P.Way department in Indian Railways)",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "4",
         "salary": "Supervisor/P. Way (Sr. Section Engineer (SSE)): Rs.72600/- (Per Month) || Supervisor/P. Way (Section Engineer (SE)): Rs.65800/- (Per Month) || Supervisor/P. Way (Junior Engineer (JE)): Rs.56300/- (Per Month)",
         "age_limit": "Minimum Age: 55 years || Maximum Age: 62 years || Age relaxation is not specified in the official notification. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -1424,11 +1536,11 @@
         "official_notification": "https://backend.delhimetrorail.com/documents/11556/Advertisement_233_Supervisor_P_Way_PRCE_04_posts.pdf"
     },
     {
-        "date": "25 Aug 2026",
+        "date": "25/08/2026",
         "board": "SECI Vacancy 2026 - 28 General Manager, Accounts Officer and More PostsSECI Vacancy 2026",
         "title": "General Manager, Accounts Officer and More",
         "qualification": "Minimum 22 years, including executive experience in renewable energy/power sector, with at least 5 years in last 10 years handling high-value contracts",
-        "last_date": "23 Sep 2026",
+        "last_date": "23-09-2026",
         "total_posts": "Not Available",
         "salary": "₹1,20,000-2,80,000",
         "age_limit": "Age relaxation: 3 years for OBC-NCL candidates, 5 years for SC/ST candidates (for posts reserved for the respective category), and 10 years over and above category relaxation for PwBD candidates. Ex-servicemen relaxation is as per Government of India directives. The upper age limit is considered as on the closing date of the advertisement. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -1440,11 +1552,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/56789-6a8d44877ee9341914714.pdf"
     },
     {
-        "date": "25 Aug 2026",
+        "date": "25/08/2026",
         "board": "Delhi University South Campus Vacancy 2026 - 1 Junior Research Fellow PostsDelhi University South Campus Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow",
         "qualification": "M.Sc/M.Tech in Biochemistry/Life Sciences/Biotechnology or related subjects with first class (60% and above)",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "Not Available",
         "salary": "Not Available",
         "age_limit": "Not Available",
@@ -1456,11 +1568,11 @@
         "official_notification": "https://www.du.ac.in/uploads/2026/25082026-biochem-Advt-%20JRF.pdf"
     },
     {
-        "date": "25 Aug 2026",
+        "date": "25/08/2026",
         "board": "DPCC Vacancy 2026 - 17 Environmental Engineer, Assistant Environmental Engineer and More PostsDPCC Vacancy 2026",
         "title": "Senior Environmental Engineer (SEE), Environmental Engineer (EE), Assistant Environmental Engineer (AEE)",
         "qualification": "Bachelor's Degree in Engineering in a related field, from a recognized University/Institution, with 8 years' experience in pollution control or a related field after the Bachelor's degree; OR Master's degree in Engineering in a related field with 6 years' experience in pollution control or a related field after the Master's degree.",
-        "last_date": "13 Sep 2026",
+        "last_date": "13-09-2026",
         "total_posts": "Not Available",
         "salary": "Experience in environment/pollution control/Public Health Engineering field at Level 12 (₹78,800–₹2,09,200 CDA) or above; OR in the IDA pay scale of ₹90,000–₹2,40,000 (E-6) or above in Central/State Government/Union Territory/Autonomous/Statutory Bodies/PSU; OR drawing a minimum CTC of ₹30 Lakhs in a registered company.",
         "age_limit": "The crucial date for determining the age limit is the closing date for receipt of applications , as prescribed against the respective post. The upper age limit for these direct recruitment posts is relaxable for candidates belonging to SC/ST/OBC and other special categories of personnel as per the Instructions/Rules/Guidelines issued by the Government of NCT of Delhi/Government of India from time to time. Candidates belonging to the OBC category but falling in the \"Creamy Layer\" are not entitled to the benefit of OBC reservation and age relaxation.",
@@ -1472,11 +1584,11 @@
         "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1785310866_yp-iivacancynotification.pdf"
     },
     {
-        "date": "25 Aug 2026",
+        "date": "25/08/2026",
         "board": "CERC Vacancy 2026 - 8 Joint Chief, Deputy Chief and More Posts PostsCERC Vacancy 2026",
         "title": "Joint Chief, Deputy Chief and More Posts",
         "qualification": "Degree in Law",
-        "last_date": "08 Oct 2026",
+        "last_date": "08-10-2026",
         "total_posts": "8",
         "salary": "Level-13 (Rs.1,23,100-2,15,900/-)",
         "age_limit": "Maximum Age Limit: 56 years for all posts. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -1488,11 +1600,11 @@
         "official_notification": "https://www.cercind.gov.in/2026/vacancy/VacancyNotice-240826.pdf"
     },
     {
-        "date": "25 Aug 2026",
+        "date": "25/08/2026",
         "board": "Supreme Court of India Vacancy 2026 - 1 Assistant Registrar PostsSupreme Court of India Assistant Registrar Vacancy 2026",
         "title": "Assistant Registrar (Computer)",
         "qualification": "Master’s or Bachelor’s degree in Computer Applications or B.E. in Computers or IT or B.Tech. in Computers",
-        "last_date": "30 Sep 2026",
+        "last_date": "30-09-2026",
         "total_posts": "1",
         "salary": "Rs. 78800 Per Month",
         "age_limit": "Max: 56 years",
@@ -1504,11 +1616,11 @@
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/08/2026082427.pdf"
     },
     {
-        "date": "25 Aug 2026",
+        "date": "25/08/2026",
         "board": "NHAI Vacancy 2026 - 5 Manager, Senior Librarian & Information Officer PostsNHAI Vacancy 2026",
         "title": "Manager (Legal) and Senior Librarian & Information Officer",
         "qualification": "Graduate, Master's Degree",
-        "last_date": "24 Sep 2026",
+        "last_date": "24-09-2026",
         "total_posts": "5",
         "salary": "Manager (Legal): Level 11 in the Pay Matrix (Rs. 67700-208700) || Senior Librarian & Information Officer: Level 11 in the Pay Matrix (Rs. 67700-208700)",
         "age_limit": "Manager (Legal): Not exceeding 56 years. Candidates should have more than two years of remaining service as on closing date. || Senior Librarian & Information Officer: Not exceeding 56 years. Candidates should have more than two years of remaining service as on closing date. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -1520,11 +1632,11 @@
         "official_notification": "https://nhai.gov.in/nhai/sites/default/files/vacancy_files/Detailed_Advertisment-English_Version.pdf"
     },
     {
-        "date": "25 Aug 2026",
+        "date": "25/08/2026",
         "board": "MoEFCC Vacancy 2026 - 1 Scientific Consultant Grade I PostsMoEFCC Scientific Consultant Grade I Vacancy 2026",
         "title": "Scientific Consultant Grade I (Climate Finance)",
         "qualification": "Master's degree in Economics",
-        "last_date": "20 Sep 2026",
+        "last_date": "20-09-2026",
         "total_posts": "1",
         "salary": "INR 90,000/-",
         "age_limit": "Upper age limit: 40 years",
@@ -1536,11 +1648,11 @@
         "official_notification": "https://moef.gov.in/storage/tender/1787309222.pdf"
     },
     {
-        "date": "25 Aug 2026",
+        "date": "25/08/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 2 Data Entry Operator, Project Nurse-III PostsAIIMS Delhi Vacancy 2026",
         "title": "Data Entry Operator & Project Nurse III",
         "qualification": "12th pass, Diploma in Nursing or Midwifery (GNM) or equivalent, Registered nurse or ANM, BSc. Nursing",
-        "last_date": "09 Sep 2026",
+        "last_date": "09-09-2026",
         "total_posts": "2",
         "salary": "Data Entry Operator (DEO): As per ICMR guidelines || Project Nurse III: As per ICMR guidelines",
         "age_limit": "Not Available",
@@ -1552,11 +1664,11 @@
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/pead-25-8-26.pdf"
     },
     {
-        "date": "21 Aug 2026",
+        "date": "21/08/2026",
         "board": "POWERGRID Vacancy 2026 - 270 Apprentices PostsPOWERGRID Apprentices Vacancy 2026",
         "title": "Apprentice (ITI-Electrician, Diploma Electrical, Diploma Civil, Graduate Electrical, Graduate Civil)",
         "qualification": "B.E./B.Tech/B.Sc. (Engg.) in Civil Engineering (full-time, 4-year course) - not notified in SR-I",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "270 (computed by summing region-wise totals; see Vacancy section)",
         "salary": "The monthly stipend structure is uniform across all 10 regions, subject to satisfactory performance and attendance. || An additional ₹2,500 per month is payable if company accommodation is not provided or availed || The DBT portion is provided by the Government of India under the NATS scheme, subject to an active Aadhaar-seeded, DBT-enabled bank account || Apprentices are entitled to 12 days of Casual Leave (pro-rata) and 15 days of Medical Leave for the one-year duration, across all regions",
         "age_limit": "Minimum age: Candidates must have completed 18 years of age at the time of application, across all regions || Applicants must be Indian citizens and at least 18 years old at the time of application || No maximum age limit or age relaxation details are specified in any of the 10 regional notifications || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -1568,11 +1680,11 @@
         "official_notification": "https://www.powergrid.in/en/rolling-advertisement-for-enagagement-of-apprentices"
     },
     {
-        "date": "25 Aug 2026",
+        "date": "25/08/2026",
         "board": "WDRA Vacancy 2026 - 1 Consultant PostsWDRA Consultant Vacancy 2026",
         "title": "Consultant (Banking)",
         "qualification": "Graduate/ post graduate degree preferably in commerce/ banking & finance",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "1",
         "salary": "50% of last pay drawn at the time of retirement",
         "age_limit": "Maximum age on closing date of application: 64 years. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -1584,11 +1696,11 @@
         "official_notification": "https://wdra.gov.in/documents/d/wdra/consultant-banking-20082026"
     },
     {
-        "date": "22 Aug 2026",
+        "date": "22/08/2026",
         "board": "NCPSL Vacancy 2026 - 1 Translator PostsNCPSL Translator Vacancy 2026",
         "title": "Translator",
         "qualification": "1 Posts",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "1",
         "salary": "Rs. 35400 - 112400 Per Month",
         "age_limit": "Maximum Age Limit: 30 years || Age relaxation will be applicable as per the rules. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -1600,11 +1712,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/156965-6a891c7ac90c948589199.pdf"
     },
     {
-        "date": "19 Aug 2026",
+        "date": "19/08/2026",
         "board": "UPSC Vacancy 2026 - 80 Assistant Provident Fund Commissioner PostsUPSC Assistant Provident Fund Commissioner Vacancy 2026",
         "title": "Assistant Provident Fund Commissioner (APFC)",
         "qualification": "Essential Qualification: A degree of a recognised university or equivalent. || Desirable Qualification: A diploma in Company Law, Labour Laws, or Public Administration. || The Commission may relax these qualifications at its discretion for otherwise well-qualified candidates, and the notification specifies criteria the Commission may use for shortlisting if the number of applications is large, including preference for desirable qualifications or relevant experience.",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "26085201722",
         "salary": "The post of Assistant Provident Fund Commissioner carries Level-10 in the Pay Matrix as per the 7th Central Pay Commission (CPC) . The post is permanent and classified as Central Board Group \"A\", Non-Ministerial, equivalent to Group-A of the Central Government at the corresponding pay level. The probation period is one year, and the post carries All India Service liability, meaning selected officers may be required to serve anywhere in India.",
         "age_limit": "Additional age relaxation is available for Ex-Servicemen and Commissioned Officers, Central/UT Government employees, and EPFO employees (up to 5 years), as per the concessions listed in the official notification.",
@@ -1616,11 +1728,11 @@
         "official_notification": "https://www.upsc.gov.in/sites/default/files/AdvtNo-52-2026-Special-Engl-210826.pdf"
     },
     {
-        "date": "21 Aug 2026",
+        "date": "21/08/2026",
         "board": "DUAC Vacancy 2026 - 2 Lower Division Clerk, Daftry PostsDUAC Vacancy 2026",
         "title": "Post Name",
         "qualification": "Essential:\r\t\t\t(i) High School/Matriculation pass.\r\t\t\t(ii) Ability to read and write English.\r\t\t\tDesirable:\r\t\t\t(i) Experience in maintaining records.",
-        "last_date": "20 Oct 2026",
+        "last_date": "20-10-2026",
         "total_posts": "Not Available",
         "salary": "Both the Lower Division Clerk and Daftry posts are placed in Level 2 of the Pay Matrix . The exact in-hand or basic pay figure is not mentioned in the official notification. In addition to basic pay, selected candidates will be entitled to: || Dearness Allowance (DA) || House Rent Allowance (HRA) || Medical reimbursement || Leave Travel Concession (LTC) || These benefits will be governed as per the Delhi Urban Art Commission (Employees Terms and Conditions of Service) Regulations, as amended from time to time. Selected appointees will be covered under the New Pension Scheme (NPS).",
         "age_limit": "Minimum age: 18 years || Maximum age: 25 years || Age relaxation for OBC (non-creamy layer) candidates is applicable as per Government instructions. The exact number of relaxation years is not specified in the notification. || The last date/closing date of submission of the application will be used to calculate age.",
@@ -1632,11 +1744,11 @@
         "official_notification": "https://ibtexamination.com/App2o26_DUAC/notification/Advertisement%20-%20LDC.pdf"
     },
     {
-        "date": "21 Aug 2026",
+        "date": "21/08/2026",
         "board": "NIA Vacancy 2026 - 3 Naib Court PostsNIA Naib Court Vacancy 2026",
         "title": "Naib Court",
         "qualification": "12th Pass",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "3",
         "salary": "Salary: Last pay drawn minus basic pension.",
         "age_limit": "Maximum Age Limit: 65 years. || Age relaxation details are not specified in the provided data. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -1648,11 +1760,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/456982-6a87f7e58540611264276.pdf"
     },
     {
-        "date": "21 Aug 2026",
+        "date": "21/08/2026",
         "board": "DGHS Vacancy 2026 - 2 Professor-cum-Principal and Professor-cum-Vice-Principal PostsDGHS Vacancy 2026",
         "title": "Professor-cum-Principal and Professor-cum-Vice-Principal",
         "qualification": "Master's Degree in Nursing, Registered Nurse and Midwife, M.Phil/Ph.D. in Nursing (Desirable)",
-        "last_date": "13 Oct 2026",
+        "last_date": "13-10-2026",
         "total_posts": "2",
         "salary": "Professor-cum-Principal:Level-13 (₹1,23,100-2,15,900) || Professor-cum-Vice-Principal:Level-12 (₹78,800-2,09,200)",
         "age_limit": "Not Available",
@@ -1664,11 +1776,11 @@
         "official_notification": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/Vacancy%20Circular%20for%20the%20post%20of%20Professor-cum-Principal%20and%20Professor-cum-Vice%20Principal%20in%20Rajkumari%20Amrit%20Kaur%20College%20of%20Nursing,%20Lajpat%20Nagar,%20New%20Delhi.pdf"
     },
     {
-        "date": "20 Aug 2026",
+        "date": "20/08/2026",
         "board": "MEA Vacancy 2026 - 1 Consultant PostsMEA Consultant Vacancy 2026",
         "title": "Consultant (Audit) in the IFD",
         "qualification": "Graduate in any discipline, Retired Government of India official",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "1",
         "salary": "Not Available",
         "age_limit": "Maximum Age Limit: 63 years || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -1680,11 +1792,11 @@
         "official_notification": "https://www.mea.gov.in/Portal/Vacancy/131_1_One_Consultant_in_IFD.pdf"
     },
     {
-        "date": "20 Aug 2026",
+        "date": "20/08/2026",
         "board": "OGEL Vacancy 2026 - 7 Legal Officer, Civil Engineer and More PostsOGEL Vacancy 2026",
         "title": "Various Contractual Officers",
         "qualification": "CA / CMA / MBA (Finance), LLB / LLM, B.E / B.Tech / Commerce + MBA, Masters Degree, B.E / B.Tech Civil, CS from ICSI",
-        "last_date": "12 Sep 2026",
+        "last_date": "12-09-2026",
         "total_posts": "7",
         "salary": "Finance Officer: ₹ 80,000/- per month || Legal Officer: ₹ 60,000/- per month || Contract and Procurement Officer: ₹ 60,000/- to ₹ 80,000/- per month || Executive Officer to CEO: ₹ 80,000/- per month || Civil Engineer: ₹ 80,000/- per month || Company Secretary: ₹ 80,000/- per month",
         "age_limit": "Minimum Age: 18 years || Maximum Age: 45 years || Age relaxation details are not specified in the provided data. Please refer to the official notification for details. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -1696,11 +1808,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/459854-6a86d0eb572c140911129.pdf"
     },
     {
-        "date": "20 Aug 2026",
+        "date": "20/08/2026",
         "board": "NHAI Vacancy 2026 - 60 Deputy General Manager PostsNHAI Deputy General Manager Vacancy 2026",
         "title": "Deputy General Manager (Technical), Manager (Technical)",
         "qualification": "Bachelor's Degree in Civil Engineering, Experience in Highways/Roads/Bridges projects",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "60",
         "salary": "Deputy General Manager (Technical):Level-12 in the Pay Matrix (Rs. 78800-209200) Per Month || Manager (Technical):Level-11 in the Pay Matrix (Rs. 67700-208700) Per Month",
         "age_limit": "Maximum Age Limit: 56 years for all posts. || Age relaxation rules will be as per government norms. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -1712,11 +1824,11 @@
         "official_notification": "https://nhai.gov.in/nhai/sites/default/files/vacancy_files/Detailed_Advertisement_1.pdf"
     },
     {
-        "date": "20 Aug 2026",
+        "date": "20/08/2026",
         "board": "Technology Development Board Vacancy 2026 - 2 Assistant Law Officer PostsTechnology Development Board Assistant Law Officer Vacancy 2026",
         "title": "Assistant Law Officer",
         "qualification": "LLB/ Integrated LLB with minimum 05 years field experience with focus on Corporate/ Company Law",
-        "last_date": "25 Sep 2026",
+        "last_date": "25-09-2026",
         "total_posts": "2",
         "salary": "Rs. 70000 - 90000 Per Month",
         "age_limit": "Max: 40 years",
@@ -1728,11 +1840,11 @@
         "official_notification": "https://tdb.gov.in/sites/default/files/2026-08/vacancy_notice_alo_0.pdf"
     },
     {
-        "date": "20 Aug 2026",
+        "date": "20/08/2026",
         "board": "ICAR IARI Vacancy 2026 - 1 Young Professional (II) PostsICAR IARI Young Professional (II) Vacancy 2026",
         "title": "Young Professional (II)",
         "qualification": "Post Graduate in Genetics/Plant Breeding/Seed Science and Technology",
-        "last_date": "23 Sep 2026",
+        "last_date": "23-09-2026",
         "total_posts": "1",
         "salary": "Rs. 42000 Per Month",
         "age_limit": "Minimum Age: 21 years || Maximum Age: 45 years || Age relaxation is applicable as per rules for SC/ST/PH & OBC Candidates.",
@@ -1744,11 +1856,11 @@
         "official_notification": "https://iari.res.in/files/jobs/Young_Professional_II_19082026.pdf"
     },
     {
-        "date": "20 Aug 2026",
+        "date": "20/08/2026",
         "board": "ICAR IARI Vacancy 2026 - 2 Senior Research Fellow and Young Professional II PostsICAR IARI Vacancy 2026",
         "title": "Senior Research Fellow and Young Professional II",
         "qualification": "Master's degree for SRF; Postgraduate degree for YP-II.",
-        "last_date": "25 Sep 2026",
+        "last_date": "25-09-2026",
         "total_posts": "2",
         "salary": "SRF: ₹37,000 + HRA/month (1st & 2nd year), ₹42,000 + HRA/month (3rd year). YP-II: ₹42,000/- Per month (Consolidated).",
         "age_limit": "Senior Research Fellow:Maximum age limit is 35 years. Age relaxation: 5 years for SC/ST/Women, 3 years for OBC. || Young Professional-II:Minimum age is 21 years, and the maximum age limit is 45 years.",
@@ -1760,11 +1872,11 @@
         "official_notification": "https://iari.res.in/files/jobs/Advt-Bottle-Gourd_19082026.pdf"
     },
     {
-        "date": "20 Aug 2026",
+        "date": "20/08/2026",
         "board": "ICAR IARI Vacancy 2026 - Guest Faculty PostsICAR IARI Guest Faculty Vacancy 2026",
         "title": "Guest Faculty",
         "qualification": "Master’s Degree with at least 55% marks, NET/SET/SLET or Ph.D. as per UGC/ICAR guidelines",
-        "last_date": "09 Sep 2026",
+        "last_date": "09-09-2026",
         "total_posts": "Not Available",
         "salary": "Rs. 1500/- per lecture (maximum Rs. 50,000/- per month)",
         "age_limit": "Maximum Age Limit: 70 years || Age relaxation will be as per government rules. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -1776,11 +1888,11 @@
         "official_notification": "https://iari.res.in/files/jobs/Guest_Faculty_19082026.pdf"
     },
     {
-        "date": "20 Aug 2026",
+        "date": "20/08/2026",
         "board": "CCI Vacancy 2026 - 14 Engineer, Officer and More PostsCCI Vacancy 2026",
         "title": "Engineer, Officer and More",
         "qualification": "14 Posts",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "Not Available",
         "salary": "Not Available",
         "age_limit": "Not Available",
@@ -1792,11 +1904,11 @@
         "official_notification": "https://www.cciltd.in/UserFiles/files/Approved%20-%20draft%20advertisement%20-%20CO-03-2026(2).pdf"
     },
     {
-        "date": "20 Aug 2026",
+        "date": "20/08/2026",
         "board": "ICAR-IARI Vacancy 2026 - 2 Young Professional PostsICAR-IARI Young Professional Vacancy 2026",
         "title": "Young Professional",
         "qualification": "Post graduation degree in Horticulture (Vegetable Science)\\/ Genetics and Plant Breeding, Biotechnology\\/Molecular biology or other disciplines of Agricultural Sciences, Graduation degree in Agricultural Science or Diploma in Agricultural Sciences\\/Engineering\\/Technology",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "2",
         "salary": "Young Professional-II (YP-II): Rs.42,000/- per month (Consolidated) || Young Professional-I (YP-I): Rs.30,000/- per month (Consolidated)",
         "age_limit": "Minimum Age: 21 years || Maximum Age: 45 years || Age Relaxation: Five years for SC/ST/Women and three years for OBC. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -1808,11 +1920,11 @@
         "official_notification": "https://iari.res.in/files/jobs/Full_Advt_Okra_YP-I_and_YP-II_19082026.pdf"
     },
     {
-        "date": "19 Aug 2026",
+        "date": "19/08/2026",
         "board": "NHAI Vacancy 2026 - 12 General Manager / Deputy General Manager PostsNHAI General Manager / Deputy General Manager Vacancy 2026",
         "title": "General Manager / Deputy General Manager",
         "qualification": "Bachelor of Law, B.Tech Civil Engineering, Post Graduate in Transport Planning, Post Graduate in Economics, Graduate/Post Graduate in Environment Science/Engineering, B.Tech Electronics & Communication, B.Tech/BE/MCA in Computer Science/IT",
-        "last_date": "18 Sep 2026",
+        "last_date": "18-09-2026",
         "total_posts": "12",
         "salary": "General Manager Posts: Level-13 (Rs. 123100-215900) Per Month || Deputy General Manager (Information Technology): Level-12 (Rs. 78800-209200) Per Month",
         "age_limit": "Maximum Age Limit: 56 years for all posts. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -1824,11 +1936,11 @@
         "official_notification": "https://nhai.gov.in/nhai/sites/default/files/vacancy_files/Hindi_Detailed_Advertisement_Combined_0.pdf"
     },
     {
-        "date": "18 Aug 2026",
+        "date": "18/08/2026",
         "board": "ICAR IARI Vacancy 2026 - 2 Senior Research Fellow PostsICAR IARI Senior Research Fellow Vacancy 2026",
         "title": "Senior Research Fellow (SRF)",
         "qualification": "Master’s degree in Genetics/Plant Breeding/Genetics and Plant Breeding/Biotechnology with 4/5 years bachelor’s degree or equivalent with NET/Ph.D. as per ICAR guidelines",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "2",
         "salary": "₹37,000 + HRA/month for 1st and 2nd year; ₹42,000 + HRA/month for 3rd year",
         "age_limit": "Maximum Age Limit: 35 years || Age relaxation: five years for SC/ST & women and three years for OBC. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -1840,11 +1952,11 @@
         "official_notification": "https://iari.res.in/files/jobs/Senior_Research_Fellow_17082026.pdf"
     },
     {
-        "date": "18 Aug 2026",
+        "date": "18/08/2026",
         "board": "TRAI Vacancy 2026 - 4 Section Officer, Principal Private Secretary, Junior Hindi Translator PostsTRAI Vacancy 2026",
         "title": "Section Officer, Principal Private Secretary, Junior Hindi Translator",
         "qualification": "Bachelor's degree, Master's degree in Hindi/English, Diploma/Certificate in translation, Proficiency in computer",
-        "last_date": "22 Sep 2026",
+        "last_date": "22-09-2026",
         "total_posts": "4",
         "salary": "Section Officer: Pay Level-7 (Rs. 44900-142400) || Principal Private Secretary: Pay Level-11 (Rs. 67700-208700) || Junior Hindi Translator: Pay Level-6 (Rs. 35400-112400)",
         "age_limit": "Maximum Age Limit: 56 years for all posts. || Age relaxation is applicable as per government rules. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -1856,11 +1968,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/4379-6a841670bc26a17361142.pdf"
     },
     {
-        "date": "18 Aug 2026",
+        "date": "18/08/2026",
         "board": "CSIR Vacancy 2026 - 43 Technician 1 PostsCSIR Technician 1 Vacancy 2026",
         "title": "Technician (1), Group II",
         "qualification": "For every trade code (260101 to 260110), the essential qualification follows the same pattern - any one of the following: || SSC/10th standard or equivalent with Science subjects, minimum 55% marks, plus an ITI certificate or National/State Trade Certificate in the relevant trade;OR || SSC/10th standard or equivalent with Science subjects, minimum 55% marks, plus 2 years of full-time experience as an apprentice trainee from a recognised institution in the relevant trade;OR || SSC/10th standard or equivalent with Science subjects, minimum 55% marks, plus 3 years of work experience in the relevant trade in a Ministry/Department/Organization/Public Sector Undertaking/Autonomous Body under the Government of India/State/UT.",
-        "last_date": "17 Sep 2026",
+        "last_date": "17-09-2026",
         "total_posts": "Not Available",
         "salary": "The Technician (1) post carries Group-C, Pay Matrix Level-2 pay of Rs. 19,900-63,200/-. In addition to basic pay, selected candidates receive Pay and Allowances such as House Rent Allowance (HRA) and Travelling Allowance at Central Government rates applicable to CSIR employees at the place of posting. Other benefits include Leave Travel Concession, reimbursement of medical expenses, and Children's Education Allowance, as per CSIR rules. Accommodation may be provided as per CSIR Residence Allotment Rules, subject to availability (HRA is not admissible where accommodation is provided). New entrants are covered under the National Pension System (NPS). CSIR also offers career advancement opportunities under its Assessment Promotion Scheme for Technical & Support staff.",
         "age_limit": "The upper age limit is 28 years as on the closing date for online applications (17/09/2026). || SC/ST/OBC candidates applying against unreserved (UR) vacancies are not eligible for age relaxation. Candidates covered under SC/ST/OBC who also qualify under ESM or PwBD are eligible for cumulative age relaxation under both categories. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -1872,11 +1984,11 @@
         "official_notification": "https://www.csir.res.in/sites/default/files/2026-08/gr._ii_advertisement.pdf"
     },
     {
-        "date": "18 Aug 2026",
+        "date": "18/08/2026",
         "board": "ICAR IARI Vacancy 2026 - 3 Senior Research Fellow PostsICAR IARI Senior Research Fellow Vacancy 2026",
         "title": "Senior Research Fellow (SRF)",
         "qualification": "Master’s degree in Genetics/ Plant Breeding/Genetics and Plant Breeding/Biotechnology with 4/5 years bachelor’s degree",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "3",
         "salary": "Rs. 37000 - 42000 Per Month",
         "age_limit": "Max: 35 years",
@@ -1888,11 +2000,11 @@
         "official_notification": "https://iari.res.in/files/jobs/Senior_Research_Fellow_14082026.pdf"
     },
     {
-        "date": "14 Aug 2026",
+        "date": "14/08/2026",
         "board": "AAI NR Vacancy 2026 - 205 Apprentice PostsAAI NR Apprentice Vacancy 2026",
         "title": "Apprentice",
         "qualification": "205 Posts",
-        "last_date": "16 Sep 2026",
+        "last_date": "16-09-2026",
         "total_posts": "Not Available",
         "salary": "₹15,000",
         "age_limit": "Relaxation in upper age limit applicable as per Government of India guidelines",
@@ -1904,11 +2016,11 @@
         "official_notification": "Not Available"
     },
     {
-        "date": "14 Aug 2026",
+        "date": "14/08/2026",
         "board": "NHSRC Vacancy 2026 - 2 Project Associate/ Project Assistant PostsNHSRC Project Associate/ Project Assistant Vacancy 2026",
         "title": "Project Associate / Project Assistant",
         "qualification": "Graduate in any discipline, Proficiency in data management and MS Office, 5-8 years experience in RCH programme monitoring (for Project Associate), 5 years experience in health sector under NHM (for Project Assistant)",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "Not Available",
         "salary": "Rs.55,000/- to Rs.70,000/- per month",
         "age_limit": "Maximum Age: 60 years for all posts. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -1920,11 +2032,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/8635-6a7ea8bf3ede680868868.pdf"
     },
     {
-        "date": "13 Aug 2026",
+        "date": "13/08/2026",
         "board": "MVH Delhi Vacancy 2026 - 13 Senior Resident PostsMVH Delhi Senior Resident Vacancy 2026",
         "title": "Senior Resident (Adhoc)",
         "qualification": "Post Graduate Degree (MD/MS/DNB/DIPLOMA equivalent) in concerned specialty. For non-availability, 02 years experience in Govt. Hospital/Govt. Institution in the concerned specialty.",
-        "last_date": "25 Sep 2026",
+        "last_date": "25-09-2026",
         "total_posts": "13",
         "salary": "Basic of Rs. 67700/- in Revised Pay Matrix 11 of 7th CPC & other allowances as admissible.",
         "age_limit": "General: 45 years || SC/ST: 50 years || OBC (Delhi): 48 years",
@@ -1936,11 +2048,11 @@
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wmvh_26.pdf"
     },
     {
-        "date": "13 Aug 2026",
+        "date": "13/08/2026",
         "board": "OIL Green Energy Vacancy 2026 - 07 Finance Officer, Executive Officer and More PostsOIL Green Energy Vacancy 2026",
         "title": "Finance Officer, Legal Officer, Contract & Procurement Officer, Executive Officer to CEO, Civil Engineer, Company Secretary",
         "qualification": "Full-time LLB (3 years or 5 years integrated) with minimum 60% marks or LL.M from a Government recognised University/Institute",
-        "last_date": "12 Sep 2026",
+        "last_date": "12-09-2026",
         "total_posts": "Not Available",
         "salary": "Not Available",
         "age_limit": "The age limit mentioned in the notification for the contractual positions is minimum 18 years and upper age limit 45 years. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -1952,11 +2064,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/741251-6a7d4b8c7e92861574519.pdf"
     },
     {
-        "date": "12 Aug 2026",
+        "date": "12/08/2026",
         "board": "Delhi University Vacancy 2026 - 1 JRF/Project Fellow PostsDelhi University JRF/Project Fellow Vacancy 2026",
         "title": "JRF/Project Fellow",
         "qualification": "Master's Degree in Physics",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "1",
         "salary": "Rs. 25,000/- to Rs 28,000/- per month for candidates qualified JRF through NET/Inspire/any other National Fellowship. || Rs. 14,000/- to Rs 16,000/- per month for other candidates.",
         "age_limit": "Not Available",
@@ -1968,11 +2080,11 @@
         "official_notification": "https://www.du.ac.in/uploads/2026/11082026-physics-Adv-project%20position_20260715.pdf"
     },
     {
-        "date": "12 Aug 2026",
+        "date": "12/08/2026",
         "board": "NCRTC Vacancy 2026 - 1 Assistant Manager/ Civil PostsNCRTC Assistant Manager/ Civil Vacancy 2026",
         "title": "Assistant Manager/ Civil",
         "qualification": "B.E./ B. Tech. (Civil) or its equivalent (Full Time), P.G. Degree/ Diploma in Construction Management or its equivalent",
-        "last_date": "12 Sep 2026",
+        "last_date": "12-09-2026",
         "total_posts": "1",
         "salary": "Rs. 50,000-1,60,000 (IDA) Per Month",
         "age_limit": "Maximum Age Limit: 40 years. || Age relaxation to the extent of completed years of service in NCRTC for employees who have completed one year of service as on date of notification. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
@@ -1984,11 +2096,11 @@
         "official_notification": "https://www.ncrtc.co.in/hr-module/HR/uploads/2026_08_12_04_08_19312026AMCivilImmediateabsorption.pdf"
     },
     {
-        "date": "10 Aug 2026",
+        "date": "10/08/2026",
         "board": "NHAI Vacancy 2026 - 5 Young Professional PostsNHAI Young Professional Vacancy 2026",
         "title": "Young Professional (Legal)",
         "qualification": "Degree in Law from a recognized University/National Law School/Institute, CLAT (Post Graduate) Score – 2026",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "5",
         "salary": "Rs. 60000 Per Month",
         "age_limit": "Max: 32 years",
@@ -2000,11 +2112,11 @@
         "official_notification": "https://nhai.gov.in/nhai/sites/default/files/vacancy_files/Detailed-Advt-YP-Legal.pdf"
     },
     {
-        "date": "04 Aug 2026",
+        "date": "04/08/2026",
         "board": "ITBP Vacancy 2026 - 282 Medical Officer PostsITBP Medical Officer Vacancy 2026",
         "title": "Medical Officer",
         "qualification": "282 Posts",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "Not Available",
         "salary": "In addition to basic pay, officers are entitled to Non-Practicing Allowance, Dearness Allowance, Transport Allowance, House Rent Allowance and other allowances admissible under Central Government orders/provisions, as amended from time to time. No Post Graduate allowance is admissible, since a Post Graduate degree/diploma (or graduate degree/diploma in a particular field of specialization, as applicable) is the basic essential qualification for the post.",
         "age_limit": "Age is reckoned as on the closing date of receipt of application (08-09-2026).",
@@ -2016,11 +2128,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/741252-6a79533c05e5672580296.pdf"
     },
     {
-        "date": "04 Aug 2026",
+        "date": "04/08/2026",
         "board": "SAI Vacancy 2026 - 3 Medical Officer PostsSAI Medical Officer Vacancy 2026",
         "title": "Medical Officer",
         "qualification": "MBBS from recognized University/Institution with 3 years post internship experience in relevant field, PGDSM with 1 year experience in relevant field, PG/DNB in Sports medicine/Orthopaedics/PMR/equivalent",
-        "last_date": "28 Sep 2026",
+        "last_date": "28-09-2026",
         "total_posts": "3",
         "salary": "Rs. 67700 - 208700 Per Month",
         "age_limit": "Maximum Age: 56 years (for Medical Officer)",
@@ -2032,11 +2144,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/258963-6a71c1c16a6f283083063.pdf"
     },
     {
-        "date": "03 Aug 2026",
+        "date": "03/08/2026",
         "board": "STPI Vacancy 2026 - 1 Chief Administrative Officer cum Registrar (A-VIII) PostsSTPI Chief Administrative Officer cum Registrar (A-VIII) Vacancy 2026",
         "title": "Chief Administrative Officer-cum-Registrar (A-VIII)",
         "qualification": "MBA/Post Graduate in any discipline OR Graduate with PG Diploma in management, 15 years experience in Personnel Management and Labour Laws, Experience in organizing senior level meetings, Government functioning, Societies, Budget preparation",
-        "last_date": "14 Sep 2026",
+        "last_date": "14-09-2026",
         "total_posts": "1",
         "salary": "Rs. 123100 - 215900 Per Month",
         "age_limit": "Max: 56 years",
@@ -2048,11 +2160,11 @@
         "official_notification": "https://stpi.in/sites/default/files/career-documents/notice_23.pdf"
     },
     {
-        "date": "30 Jul 2026",
+        "date": "30/07/2026",
         "board": "DRDO SSPL Vacancy 2026 - 65 Paid Internship PostsDRDO SSPL Paid Internship Vacancy 2026",
         "title": "Paid Internship",
         "qualification": "B.E./B.Tech. (ongoing) in a relevant discipline, OR || M.Sc./M.Tech. (ongoing) in a relevant discipline, OR || Equivalent qualification || Eligible disciplines: Physics, Chemistry, Electronics, Electrical, Material Science, Quantum Technology, Laser Optics, and Semiconductor Device (or closely related fields).",
-        "last_date": "30 Sep 2026",
+        "last_date": "30-09-2026",
         "total_posts": "Not Available",
         "salary": "Monthly stipend:₹5,000/- (Fixed), applicable only to candidates who undertake the full 6-month internship. || Stipend is paid intwo equal installments of ₹15,000/- each- the first after completion of 3 months, and the second after completion of 6 months - via electronic transfer. || A minimum of 15 days' attendance in a month is required for that month to count toward the stipend calculation. || Interns joining for a shorter duration (less than 6 months, minimum 4 weeks) arenot eligible for the stipend. || Expenses such as lodging, boarding, transport, and medical costs are to be borne by the candidate.",
         "age_limit": "Not mentioned in the official notification.",
@@ -2064,11 +2176,11 @@
         "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtSSPL_30072026.pdf"
     },
     {
-        "date": "23 Jul 2026",
+        "date": "23/07/2026",
         "board": "DRDO SSPL Vacancy 2026 - 23 Junior Research Fellow & Research Associate PostsDRDO SSPL Junior Research Fellow & Research Associate Vacancy 2026",
         "title": "Junior Research Fellow & Research Associate",
         "qualification": "23 Posts",
-        "last_date": "09 Sep 2026",
+        "last_date": "09-09-2026",
         "total_posts": "Not Available",
         "salary": "Candidates naturally want clarity on take-home pay before attending the interview. SSPL has clearly specified the monthly stipend for both fellowship categories in the advertisement itself. || Selected candidates will be paid as per the provision of funds available for the project, up to the Probable Date of Completion (PDC) of that project. This means the payment continuity is tied to the funding and duration of the specific DRDO project the fellow is engaged on.",
         "age_limit": "Candidates from SC/ST/OBC categories are entitled to age relaxation as per prevailing Government of India rules. No specific number of years is mentioned in the advertisement, so applicable category candidates should carry category certificates to confirm the exact relaxation at the time of the interview.",
@@ -2080,11 +2192,11 @@
         "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtSSPL23072026.pdf"
     },
     {
-        "date": "17 Jul 2026",
+        "date": "17/07/2026",
         "board": "IPL Vacancy 2026 - Individual Consultant PostsIPL Individual Consultant Vacancy 2026",
         "title": "Individual Consultant (IC) – Full Time, Contractual",
         "qualification": "Master's in Agriculture/Horticulture/Agricultural Engineering/Agri-Business Management/Rural Development/Rural Management/Agricultural Economics/Food Technology or Food Processing Engineering",
-        "last_date": "16 Jul 2027",
+        "last_date": "16-07-2027",
         "total_posts": "Not Available",
         "salary": "Remuneration for Individual Consultants is decided within the corresponding band, based on years of post-qualification relevant experience. Final remuneration for a selected candidate depends on expectations, experience, and expertise, and the decision of IPL is final and binding. || Consultants will also be allowed to undertake tours as required by their duties, for which TA/DA and Hotel Accommodation shall be paid or reimbursed as per Company policy.",
         "age_limit": "Not Available",

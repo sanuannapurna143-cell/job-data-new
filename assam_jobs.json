@@ -1,10 +1,26 @@
 [
     {
-        "date": "08 Sep 2026",
+        "date": "08/09/2026",
+        "board": "SASU Vacancy 2026 - 3 Professor, Librarian and More PostsSASU Vacancy 2026",
+        "title": "Professor in Sports Management, Finance & Accounts Officer (FAO) & Librarian",
+        "qualification": "Ph.D in concerned/allied/relevant discipline, Master's Degree with 55% marks, Master's Degree in Library Science/Information Science/Documentation Science with 55% marks",
+        "last_date": "21-09-2026",
+        "total_posts": "3",
+        "salary": "Rs. 144200 - 218200 Per Month",
+        "age_limit": "Maximum Age Limit: 55 years for all posts. || Age relaxation will be as per the government rules and regulations. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Rs. 1000",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sasu.ac.in",
+        "official_notification": "https://sasu.ac.in/uploads/recruitment/Recruitment_1787226457.pdf"
+    },
+    {
+        "date": "08/09/2026",
         "board": "RRB Vacancy 2026 - 560 Pharmacist, Lab Assistant and More PostsRRB Vacancy 2026",
         "title": "Various Posts of Paramedical Categories",
         "qualification": "560 Posts",
-        "last_date": "14 Oct 2026",
+        "last_date": "14-10-2026",
         "total_posts": "560 Posts (Tentative)",
         "salary": "Not Available",
         "age_limit": "Minimum Age Limit:18 Years || Maximum Age Limit:40 Years",
@@ -16,11 +32,11 @@
         "official_notification": "Not Available"
     },
     {
-        "date": "08 Sep 2026",
+        "date": "08/09/2026",
         "board": "IIT Guwahati Vacancy 2026 - 2 Associate Project Engineer/ Associate Project Scientist PostsIIT Guwahati Associate Project Engineer/ Associate Project Scientist Vacancy 2026",
         "title": "Associate Project Engineer / Associate Project Scientist",
         "qualification": "BTech/MTech in Chemical Engineering or Mechanical Engineering, M.Sc./B.Sc. in Chemistry",
-        "last_date": "14 Sep 2026",
+        "last_date": "14-09-2026",
         "total_posts": "2",
         "salary": "Rs. 40000 Per Month",
         "age_limit": "Not Available",
@@ -32,11 +48,11 @@
         "official_notification": "https://www.iitg.ac.in/pdf/706845bdccca82427f5b40e9ef78fb33.pdf"
     },
     {
-        "date": "08 Sep 2026",
+        "date": "08/09/2026",
         "board": "SSC Vacancy 2026 - 2536 CHSL PostsSSC CHSL Vacancy 2026",
         "title": "Post Name",
         "qualification": "12th Standard pass in Science stream with Mathematics as a subject, from a recognised Board",
-        "last_date": "07 Oct 2026",
+        "last_date": "07-10-2026",
         "total_posts": "Not Available",
         "salary": "Pay Level-4 (Rs. 25,500–81,100) and Level-5 (Rs. 29,200–92,300)",
         "age_limit": "Only male candidates are eligible for any vacancies reported in the Border Roads Organization (BRO). || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -48,11 +64,11 @@
         "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_chsl_2026.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "NERAMAC Vacancy 2026 - 1 Assistant Manager PostsNERAMAC Assistant Manager Vacancy 2026",
         "title": "Assistant Manager – Civil Engineer",
         "qualification": "B.E/B. Tech in Civil Engineering",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "1",
         "salary": "Upto Rs. 45,000/- Per Month",
         "age_limit": "Max: 35 years (Relaxable for SC/ST up to 40 years, OBC/MOBC up to 38 years)",
@@ -64,11 +80,11 @@
         "official_notification": "https://neramac.com/files/userfiles/2026/09/03/files/Asst_Manager_-_Civil_Engg__1_.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "DLSA Biswanath Vacancy 2026 - 1 Driver PostsDLSA Biswanath Driver Vacancy 2026",
         "title": "Driver",
         "qualification": "Class X pass with valid LMV driving license",
-        "last_date": "19 Sep 2026",
+        "last_date": "19-09-2026",
         "total_posts": "1",
         "salary": "Rs. 15000 Per Month",
         "age_limit": "Min: 18 years, Max: 40 years",
@@ -80,11 +96,11 @@
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0552c409f1571f500e28f490a302a1/uploads/2026/09/2026090370.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "NERAMAC Vacancy 2026 - 1 Business Development Executive PostsNERAMAC Business Development Executive Vacancy 2026",
         "title": "Business Development Executive – (Marketing – Retail)",
         "qualification": "MBA/ PGDM in Marketing from a recognized University / Institute.",
-        "last_date": "17 Sep 2026",
+        "last_date": "17-09-2026",
         "total_posts": "1",
         "salary": "Rs. 35000 Per Month",
         "age_limit": "Max: 30 years",
@@ -96,11 +112,11 @@
         "official_notification": "https://neramac.com/files/userfiles/2026/09/03/files/BDE_-_Marketing_-_Retail__1_.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "NHM Assam Vacancy 2026 - Medical Officer PostsNHM Assam Medical Officer Vacancy 2026",
         "title": "Medical Officer (MBBS)",
         "qualification": "MBBS degree from a Govt. recognized Medical Colleges of Assam and registered with Assam Medical Council (AMC)",
-        "last_date": "14 Sep 2026",
+        "last_date": "14-09-2026",
         "total_posts": "Not Available",
         "salary": "Rs. 38500 Per Month",
         "age_limit": "Not Available",
@@ -112,11 +128,11 @@
         "official_notification": "https://nhmssd.assam.gov.in/eHRMIS_latest/uploadAdmin/uploads/job178-doc-1.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "DIBD Vacancy 2026 - 2 Ecosystem Engagement Manager PostsDIBD Ecosystem Engagement Manager Vacancy 2026",
         "title": "Ecosystem Engagement Manager",
         "qualification": "B.Tech/ B.E./ B.S. or equivalent or B.Sc. (IT/ CS) with PG, MBA/ MTech preferable, 5+ years relevant experience",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "2",
         "salary": "Not Available",
         "age_limit": "Maximum Age Limit: 58 years for all posts. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -128,11 +144,11 @@
         "official_notification": "https://bhashinimigrationns.sosnm1.shakticloud.ai:9024/bhashinistaticassets/bhashiniportal/Ecosystem%20Engagement%20Manager-%20NER%2805%29-new.pdf"
     },
     {
-        "date": "05 Sep 2026",
+        "date": "05/09/2026",
         "board": "IDBI Bank Vacancy 2026 - 1 Part Time Doctor PostsIDBI Bank Part Time Doctor Vacancy 2026",
         "title": "Part Time Doctor",
         "qualification": "MBBS/MD",
-        "last_date": "12 Sep 2026",
+        "last_date": "12-09-2026",
         "total_posts": "1",
         "salary": "Rs.1000/- per hour",
         "age_limit": "Not more than 67 years",
@@ -144,11 +160,11 @@
         "official_notification": "https://www.idbi.bank.in/pdf/careers/Detailed-Advertisement-BMO-Guwahati.pdf"
     },
     {
-        "date": "05 Sep 2026",
+        "date": "05/09/2026",
         "board": "MHRB Assam Vacancy 2026 - 560 Medical & Health Officer PostsMHRB Assam Medical & Health Officer Vacancy 2026",
         "title": "Medical & Health Officer-I (M&HO-I) or equivalent",
         "qualification": "The candidate must hold an MBBS degree from any university recognised by the Medical Council of India (MCI). || The candidate must be registered under the Assam Medical Council.",
-        "last_date": "20 Sep 2026",
+        "last_date": "20-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected candidates will draw pay in the scale of Rs. 30,000 – Rs. 1,10,000 plus Grade Pay of Rs. 12,700 , along with other allowances admissible under the Rules of the Government of Assam. Government servants joining service on or after 1st February 2005 will be governed by the New Pension Scheme 2005 rather than the Assam Service (Pension) Rules, 1969.",
         "age_limit": "As on 01.01.2026, a candidate should not be less than 21 years and not more than 38 years of age, as per Government Notification AAP.115/72/Pt.I/194 dated 10.03.2008. The upper age limit is relaxable for candidates of reserved categories as per existing provisions/extant rules; specific relaxation figures by category are not specified in the notification. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -160,11 +176,11 @@
         "official_notification": "https://nhmssd.assam.gov.in/eHRMIS_latest/uploadAdmin/uploads/job177-doc-1.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "AIIMS Guwahati Vacancy 2026 - 103 Senior Residents/ Senior Demonstrator PostsAIIMS Guwahati Senior Residents/ Senior Demonstrator Vacancy 2026",
         "title": "Senior Resident / Senior Demonstrator",
         "qualification": "M.Sc., PhD (Medical Microbiology / Microbiology, as stated in the official notification)",
-        "last_date": "18 Sep 2026",
+        "last_date": "18-09-2026",
         "total_posts": "Department",
         "salary": "7th CPC, Pay Level-11, entry pay Rs. 67,700/- plus NPA and other allowances",
         "age_limit": "Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -176,11 +192,11 @@
         "official_notification": "https://aiimsguwahati.in/viewfile.aspx?fname=8fce1a41.pdf&ftype=pdf&rdoctype=cms"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "RCFL Vacancy 2026 - 326 Graduate, Technician, Trade Apprentice PostsRCFL Vacancy 2026",
         "title": "Graduate, Technician, Trade Apprentice",
         "qualification": "The prescribed qualification must be from a recognised University/Institute, completed as a regular full-time course. Distance Learning, Part-Time, or Correspondence mode qualifications are not eligible. || Allied branches of Diploma in Engineering are not applicable/acceptable. || Candidates who have completed Act Apprentice training or job experience of one year or more, or who are pursuing higher studies, are not eligible. || The candidate's passing certificate/final year mark sheet of the required qualification must be dated on or after 1 July 2023, with the minimum percentage calculated on the final year or the aggregate of the last two semesters. || Applicants with a B.Sc in Chemistry, Physics, and Mathematics will be considered only for Attendant Operator (Chemical Plant) (AOCP) and Laboratory Assistant (Chemical Plant) (LACP) trades under the RDSDE scheme, with Chemistry as the major subject. || Applicants with a B.Sc in Chemistry, Physics, and Mathematics will be considered only for the Instrument Mechanic (Chemical Plant) (IMCP) trade under the RDSDE scheme, with Physics as the major subject. || Candidates with Biology in their Graduation degree, with only Zoology or only Botany, may apply as Graduate Apprentices under Secretarial Assistant or Recruitment Executive (HR). || Candidates may apply without the passing certificate, but the original passing certificate must be submitted at document verification, failing which the candidature will be cancelled.",
-        "last_date": "20 Sep 2026",
+        "last_date": "20-09-2026",
         "total_posts": "Not Available",
         "salary": "The stipend applicable to apprentices follows the notification issued by the Board of Apprenticeship Training (Western Region), Mumbai (BOAT WR/2026/529, dated 25.09.2019) under the Ministry of Skill Development and Entrepreneurship. Apprentice trainees are not entitled to any other benefits or allowances besides the consolidated stipend under the Apprentices Act and applicable guidelines. || Stipend payable by RCF is paid monthly on a fixed date. Stipend payable by BOAT is disbursed directly to ACT Apprentices, and RCF is not responsible for any delay or non-payment by BOAT. Additionally, RCF provides morning breakfast, tea, and a vegetarian lunch thali in the company canteen during training (no reimbursement if not availed), OPD-basis medical facilities at RCF Hospital for trainees themselves, and uniform and Personal Protective Equipment (PPE) as per company policy. No transportation facility or reimbursement is provided.",
         "age_limit": "25 years, as on 1 September 2026",
@@ -192,11 +208,11 @@
         "official_notification": "https://www.rcfltd.com/files/Apprentice%20Advt%202026-27(%20new).pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "IIT Guwahati Vacancy 2026 - 5 Project Manager, Consultant and More PostsIIT Guwahati Vacancy 2026",
         "title": "Domain Expert - Procurement",
         "qualification": "Bachelor's degree in relevant discipline",
-        "last_date": "12 Sep 2026",
+        "last_date": "12-09-2026",
         "total_posts": "5",
         "salary": "Rs. 2,00,000 + 20% HRA + Medical as per norms",
         "age_limit": "Not Available",
@@ -208,11 +224,11 @@
         "official_notification": "https://www.iitg.ac.in/pdf/40297ed634e12913e19ba685ede9703f.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "SBI Vacancy 2026 - 207 Investment Officer, Zonal Head and More PostsSBI Vacancy 2026",
         "title": "Investment Officer, Zonal Head and More",
         "qualification": "3 years in sales & marketing with leading banks/wealth firms/AMCs, or 4 years as an SBI Wealth CRE. Preferred: minimum 3 years as a Relationship Manager or similar role in wealth management",
-        "last_date": "25 Sep 2026",
+        "last_date": "25-09-2026",
         "total_posts": "Not Available",
         "salary": "Not Available",
         "age_limit": "Maximum age indicated is for Unreserved category candidates; relaxation in the upper age limit is available to reserved category candidates as per Government of India guidelines.",
@@ -224,11 +240,11 @@
         "official_notification": "https://sbi.bank.in/documents/77530/57941334/03092026_1_Advt+_Wealth+MGMT_04.09.2026.pdf/d2fd7bab-0791-b62b-61d3-8f46c2cb3ec6?t=1788439145915"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "PFRDA Vacancy 2026 - 30 Officer Grade ‘A’ (Assistant Manager) PostsPFRDA Officer Grade ‘A’ (Assistant Manager) Vacancy 2026",
         "title": "Officer Grade 'A' (Assistant Manager)",
         "qualification": "Master's Degree/PG Diploma (min. 2 years) in Economics/Commerce/Business Administration/Econometrics/Quantitative Economics/Financial Economics/Mathematical Economics/Business Economics/Agricultural Economics/Industrial Economics/Business Analytics; OR in Finance/Quantitative Finance/Mathematical Finance/Quantitative Techniques/International Finance/Business Finance/International & Trade Finance/Project & Infrastructure Finance/Agri. Business Finance; OR in Statistics/Mathematical Statistics/Statistics & Informatics/Applied Statistics & Informatics/Data Science/AI/Machine Learning/Big Data Analytics; OR Master's Degree in Mathematics with one-year PG Diploma in Statistics or related subjects",
-        "last_date": "24 Sep 2026",
+        "last_date": "24-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected candidates will draw pay in the scale of Rs. 62,500-3600(4)-76,900-4050(7)-1,05,250-EB-4050(4)-1,21,450-4650(1)-1,26,100 (17 years) . As per the notification, gross emoluments - including PFRDA's contribution towards the National Pension System (NPS), Grade Allowance, Special Allowance, Special Grade Allowance, Dearness Allowance, Local Allowance, Family Allowance, Special Compensatory Allowance, Learning Allowance and Housing Allowance - work out to approximately Rs. 2,05,000 per month at the minimum of the scale. Other benefits include Leave Fare Concession, medical expense reimbursement, Personal Accident Insurance, Children Education Allowance, Knowledge Updation Allowance, conveyance expenses, House Cleaning Allowance, and a Pluxee Meal Card, among others admissible to an Officer Grade A in PFRDA.",
         "age_limit": "Not Available",
@@ -240,11 +256,11 @@
         "official_notification": "https://pfrda.org.in/w/advertisement-recruitment-of-officer-grade-a-assistant-manager-2026?p_l_back_url=%2Fget-to-know%2Fcareers%2Fvacancies&p_l_back_url_title=Vacancies"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "Tezpur University Vacancy 2026 - 1 IPR Chair Professor PostsTezpur University IPR Chair Professor Vacancy 2026",
         "title": "IPR Chair Professor",
         "qualification": "Professor or Associate Professor as per UGC with IPR experience, IP attorney with 10 years practice, Retired IP Office official with PhD and 5 years at Level 12+",
-        "last_date": "16 Sep 2026",
+        "last_date": "16-09-2026",
         "total_posts": "1",
         "salary": "Rs. 150000 Per Month",
         "age_limit": "Max: 70 years",
@@ -256,11 +272,11 @@
         "official_notification": "https://www.tezu.ernet.in/Admin/Advt_No_28_2026_IPR_Chair_Professor_Merged.pdf"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "UPSC Vacancy 2026 - 127 Assistant Chemist, Geologist and More PostsUPSC Vacancy 2026",
         "title": "Assistant Chemist, Geologist and More",
         "qualification": "Master's degree in Geological Science, Geology, Applied Geology, Geo-Exploration, Mineral Exploration, Engineering Geology, Marine Geology, Earth Science and Resource Management, Oceanography and Coastal Areas Studies, Petroleum Geosciences, or Geochemistry",
-        "last_date": "22 Sep 2026",
+        "last_date": "22-09-2026",
         "total_posts": "Not Available",
         "salary": "Not Available",
         "age_limit": "A candidate must have attained 21 years and must not have attained 32 years as on 1 January 2027 - i.e., born not earlier than 2 January 1995 and not later than 1 January 2006 || Upper age relaxable up to 5 years for Government servants employed in GSI or CGWB applying for the corresponding post || Upper age relaxable up to 5 years for SC/ST candidates, 3 years for OBC candidates, 3 years for disabled Defence Services personnel, 5 years for Ex-servicemen, and 10 years for Persons with Benchmark Disability || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -272,11 +288,11 @@
         "official_notification": "https://www.upsc.gov.in/sites/default/files/Notif-CGSPE-2027-Engl-020926.pdf"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "SSC Vacancy 2026 - 1748 Junior Engineer PostsSSC Junior Engineer Vacancy 2026",
         "title": "Junior Engineer",
         "qualification": "Essential educational qualifications differ by organization and post. Broadly: || JE (Civil):Degree in Civil Engineering from a recognized university/institute; or a three-year diploma in Civil Engineering plus relevant work experience (requirement varies by organization). || JE (Electrical) / JE (Mechanical) / JE (Electrical & Mechanical):Degree or diploma in the relevant Electrical/Mechanical/Automobile engineering discipline from a recognized university/institute, with experience required in some organizations. || JE (Telecom):Bachelor's degree in Engineering/Technology in Electrical, Electronics, Electrical Communications, Computer Science, Telecommunications, Information Technology, or Instrumentation. || Scientific Assistant (IMD):Bachelor's degree in Science with Physics as one of the subjects, or a Bachelor's degree in Computer Science/Computer Applications/Electronics/Electronics & Communication Engineering/Electronics & Telecommunication Engineering/Instrumentation/Information Technology/Telecommunication Engineering/Communication Engineering. || Because the exact qualification differs organization by organization (for example, CPWD requires a diploma while BRO accepts a degree or diploma-plus-experience), candidates should check the qualification listed against their target organization in the official notice before applying. Qualifications obtained through Open and Distance Learning (ODL)/online mode in restricted disciplines such as Engineering are not accepted unless specifically permitted under applicable UGC regulations or judicial orders.",
-        "last_date": "22 Sep 2026",
+        "last_date": "22-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected candidates will be appointed to Group 'B' posts in Pay Level-6 of the Pay Matrix under the 7th Central Pay Commission, with a pay scale of ₹35,400 – ₹112,400 . Actual in-hand salary will also include applicable allowances (such as DA, HRA and TA) as per the rules of the respective recruiting organization, which are not detailed in this notice.",
         "age_limit": "Not earlier than 02.08.1996 and not later than 01.08.2008",
@@ -288,11 +304,11 @@
         "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_je_2026.pdf"
     },
     {
-        "date": "27 Aug 2026",
+        "date": "27/08/2026",
         "board": "India Post Vacancy 2026 - 23757 Gramin Dak Sevak PostsIndia Post Gramin Dak Sevak Vacancy 2026",
         "title": "Brief Role",
         "qualification": "Secondary School Examination (SSE)/10th standard pass certificate, with passing marks in Mathematics and English, from a Board recognized by the Government of India/State Governments/Union Territories. Candidates with equivalent qualification from any other board are not eligible.",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "Not Available",
         "salary": "GDS are not regular Central Government employees; they are paid emoluments in the form of Time Related Continuity Allowance (TRCA), which carries an annual increase of 3% (subject to fulfilment of conditions under the GDS Rules), along with Dearness Allowance on TRCA as declared by the Government of India from time to time. GDS are also entitled to GDS Gratuity and the Service Discharge Benefit Scheme (akin to the National Pension System for regular employees).",
         "age_limit": "The minimum age is 18 years and the maximum age is 40 years, to be determined as on the last date of submission of applications, subject to the following relaxations in the upper age limit. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -304,11 +320,11 @@
         "official_notification": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "TISS Vacancy 2026 - 1 Assistant Professor PostsTISS Assistant Professor Vacancy 2026",
         "title": "Assistant Professor",
         "qualification": "Master's degree with 55% marks in Sociology and cleared NET/SLET/SET or PhD. Alternatively, PhD from a foreign university ranked among top 500 in QS, THE, or ARWU.",
-        "last_date": "16 Sep 2026",
+        "last_date": "16-09-2026",
         "total_posts": "1",
         "salary": "Rs. 57700/- in the Academic Pay level 10 as per 7th CPC",
         "age_limit": "Not Available",
@@ -320,11 +336,11 @@
         "official_notification": "https://tiss.ac.in/uploads/files/Advt._Assistant_Professor_Sociology_TISS_GC_1.9.2026.pdf"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "NIT Silchar Vacancy 2026 - 1 Junior Research Fellow PostsNIT Silchar Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "M.Sc in Chemistry, Biotechnology, Life Sciences or relevant/ allied discipline with minimum 60% marks",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "1",
         "salary": "Rs. 37000 Per Month",
         "age_limit": "Max: 28 years",
@@ -336,11 +352,11 @@
         "official_notification": "https://www.nits.ac.in/storage/CareerDocument/Career_6a96a0e41377f.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "Tezpur University Vacancy 2026 - 2 Assistant Professor and Guest Faculty PostsTezpur University Vacancy 2026",
         "title": "Assistant Professor and Guest Faculty",
         "qualification": "Ph.D. degree in Design/ Interaction Design/ Product Design/Visual Communication Design or Bachelor's Degree or minimum 4-year Diploma in Design, Fine Arts, Applied Arts, Architecture or Engineering with First class or equivalent AND Master's degree or equivalent Post Graduate Diploma in relevant disciplines with First Class or equivalent. Desirable: Minimum 2 years of professional design experience in Industry/research organization/Design. Teaching/Research experience in University/ Institute of National Importance.",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "2",
         "salary": "Rs. 80,000/- per month (Assistant Professor), Rs.1,500/- per lecture subject to a maximum of Rs.50,000/- per month (Guest Faculty)",
         "age_limit": "Not Available",
@@ -352,11 +368,11 @@
         "official_notification": "https://www.tezu.ernet.in/Admin/Advt_No_27_2026_Design_AssistantProfessor_Contractual.pdf"
     },
     {
-        "date": "31 Aug 2026",
+        "date": "31/08/2026",
         "board": "ESIC Guwahati Vacancy 2026 - 33 Teaching Faculty PostsESIC Guwahati Teaching Faculty Vacancy 2026",
         "title": "Teaching Faculty",
         "qualification": "As per NMC guidelines as stipulated in Gazette Notification No. CG-DL-E-05072025-264399 dated 30.06.2025",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "33",
         "salary": "Professor:Fixed Basic Pay of Rs. 1,18,500/- (Level 13) + Other Allowances. || Associate Professor:Fixed Basic Pay of Rs. 78,800/- (Level 12) + Other Allowances. || Assistant Professor:Fixed Basic Pay of Rs. 67,700/- (Level 11) + Other Allowances.",
         "age_limit": "Maximum Age Limit: 69 years for all posts. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -368,11 +384,11 @@
         "official_notification": "https://esic.gov.in/attachments/recruitmentfile/ENGAGEMENT_OF_TEACHING_FACULTY_ON_CONTRACTUAL_BASIS_FOR_ESIC_MEDICAL_COLLEGE_amp_HOSPITAL_BELTOLA_GUWAHATI_22_1788005742.pdf"
     },
     {
-        "date": "31 Aug 2026",
+        "date": "31/08/2026",
         "board": "ACAB Vacancy 2026 - 2 Cooperative Intern/ Specialist PostsACAB Cooperative Intern/ Specialist Vacancy 2026",
         "title": "Cooperative Intern / Specialist",
         "qualification": "MBA or PGDM in Marketing/Cooperative/Agri Business/Rural Development Management, Bachelor's degree or PG Diploma in Agriculture/Cooperation, Graduate in Rural Development/Social Work/Sociology or Graduate with Diploma in Rural Development/Social Work",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "2",
         "salary": "Cooperative Intern: Rs. 25,000/- || Specialist (Social Mobilisation): Rs. 35,000/-",
         "age_limit": "Not Available",
@@ -384,11 +400,11 @@
         "official_notification": "https://www.acab.bank.in/Cooperative%20%20Intern%20Notification%20and%20application%20format_25-08-2026.pdf"
     },
     {
-        "date": "31 Aug 2026",
+        "date": "31/08/2026",
         "board": "Goalpara District Vacancy 2026 - 1 Copyist PostsGoalpara District Copyist Vacancy 2026",
         "title": "Copyist",
         "qualification": "Higher Secondary (10+2) Passed and 6 months Diploma in Computer Application/IT with knowledge of software applications and proficiency in English and Assamese typing.",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "1",
         "salary": "Rs. 9,000/- per month.",
         "age_limit": "Min: 18 years, Max: 40 years as on 01.01.2026",
@@ -400,11 +416,11 @@
         "official_notification": "https://goalpara.assam.gov.in/sites/default/files/public_utility/Advertisement_0.pdf"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "CSIR NEIST Vacancy 2026 - 4 Junior Stenographer, Junior Hindi Translator and More Posts PostsCSIR NEIST Vacancy 2026",
         "title": "Junior Stenographer, Junior Secretariat Assistant, Junior Hindi Translator",
         "qualification": "10+2/XII or equivalent with stenography proficiency, 10+2/XII or equivalent with computer typing proficiency, Master's degree in Hindi or English",
-        "last_date": "28 Sep 2026",
+        "last_date": "28-09-2026",
         "total_posts": "4",
         "salary": "Junior Stenographer:Pay Level-4 (Rs. 25,500-Rs. 81,100/-) As per 7th CPC || Junior Secretariat Assistant:Pay Level-2 (Rs.19,900-Rs. 63,200/-) As per 7th CPC || Junior Hindi Translator:Pay Level-6 (Rs. 35,400.00 - Rs 1,12,400.00/-) As per 7th CPC",
         "age_limit": "Maximum Age Limit: 30 years for all posts. || Age relaxation will be applicable as per government rules. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -416,11 +432,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/8456912-6a9277f5b5d6081393854.pdf"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "Foreigners Tribunal Goalpara Vacancy 2026 - 1 Data Entry Operator PostsForeigners Tribunal Goalpara Data Entry Operator Vacancy 2026",
         "title": "Data Entry Operator",
         "qualification": "HS Passed from a recognized Board/Council, Minimum 6 months Computer Diploma with DTP knowledge",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "1",
         "salary": "Rs. 10000 Per Month",
         "age_limit": "Min: 18 years, Max: 40 years",
@@ -432,11 +448,11 @@
         "official_notification": "https://goalpara.assam.gov.in/sites/default/files/public_utility/ft.pdf"
     },
     {
-        "date": "29 Aug 2026",
+        "date": "29/08/2026",
         "board": "STPI Vacancy 2026 - 10 Assistant, Administrative Officer and More Posts PostsSTPI Vacancy 2026",
         "title": "Assistant, Administrative Officer and More Posts",
         "qualification": "Graduate with 6 years’ experience in personnel/administration/vigilance, OR Postgraduate with 4 years’ experience in the same field. Desirable: Diploma in Personnel/Financial/Purchase Management, or MBA with 1 year experience in Personnel/Administration/Vigilance.",
-        "last_date": "12 Oct 2026",
+        "last_date": "12-10-2026",
         "total_posts": "Not Available",
         "salary": "Pay is as per the 7th Central Pay Commission Pay Matrix applicable to each post, ranging from Level 1 (Rs. 18,000-56,900) for Office Attendant up to Level 7 (Rs. 44,900-142,400) for Administrative Officer. The notification does not specify additional allowances separately; these would be as per applicable Government/STPI rules.",
         "age_limit": "Age relaxation is applicable as per Government of India rules for candidates already working in Government/STPI on a regular basis, and for SC/ST/OBC/PwBD candidates. Age is reckoned as on the closing date, 12 October 2026. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -448,11 +464,11 @@
         "official_notification": "https://stpi.in/sites/default/files/career-documents/notice_26.pdf"
     },
     {
-        "date": "21 Jul 2026",
+        "date": "21/07/2026",
         "board": "RRB Vacancy 2026 - 4029 Junior Engineer PostsRRB Junior Engineer Vacancy 2026",
         "title": "Junior Engineer",
         "qualification": "Electronics, Instrumentation & Control, Communication, Computer Science & Engineering, Computer Engineering, Computer Science, Information Technology",
-        "last_date": "13 Sep 2026",
+        "last_date": "13-09-2026",
         "total_posts": "Not Available",
         "salary": "₹35,400",
         "age_limit": "Age Limit",
@@ -464,11 +480,11 @@
         "official_notification": "https://www.rrbapply.gov.in/assets/forms/CEN_04_2026_Corrigendum_1.pdf"
     },
     {
-        "date": "28 Aug 2026",
+        "date": "28/08/2026",
         "board": "AHVD Assam Vacancy 2026 - 200 Veterinary Field Assistant PostsAHVD Assam Veterinary Field Assistant Vacancy 2026",
         "title": "Veterinary Field Assistant (VFA) and its allied cadre posts",
         "qualification": "Full-time HSSLC (Class 12) examination pass in Science stream with Biology as one of the subjects, from a recognized Board/Council/University",
-        "last_date": "23 Sep 2026",
+        "last_date": "23-09-2026",
         "total_posts": "Filled as per existing vacancy in the respective category, per Post Based Roster Register",
         "salary": "Not Available",
         "age_limit": "Minimum 18 years, maximum 40 years, as on 01-01-2026 (per Govt. Office Memorandum No. ABP.6/2016/51 dated 02-09-2020)",
@@ -480,11 +496,11 @@
         "official_notification": "Not Available"
     },
     {
-        "date": "27 Aug 2026",
+        "date": "27/08/2026",
         "board": "AIIMS Guwahati Vacancy 2026 - 1 Project Associate I PostsAIIMS Guwahati Project Associate I Vacancy 2026",
         "title": "Project Associate I",
         "qualification": "Postgraduate degree (minimum 55% marks) in Biochemistry/Biotechnology/Biological Sciences or related discipline",
-        "last_date": "09 Sep 2026",
+        "last_date": "09-09-2026",
         "total_posts": "1",
         "salary": "Rs 36580 (with valid national eligibility certificate) or Rs 29500 (others) Per Month",
         "age_limit": "Maximum Age Limit: 35 years || Age Relaxation: As per Govt of India guidelines || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -496,11 +512,11 @@
         "official_notification": "https://aiimsguwahati.in/viewfile.aspx?fname=8a8375db.pdf&ftype=pdf&rdoctype=cms"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "IIT Guwahati Vacancy 2026 - 1 Research Associate PostsIIT Guwahati Research Associate Vacancy 2026",
         "title": "Research Associate",
         "qualification": "Ph.D. in Computational Chemistry, Chemical Engineering, Biophysics, Biology",
-        "last_date": "13 Sep 2026",
+        "last_date": "13-09-2026",
         "total_posts": "1",
         "salary": "Rs. 58000 - 69600 Per Month",
         "age_limit": "Not Available",
@@ -512,11 +528,11 @@
         "official_notification": "https://www.iitg.ac.in/pdf/170c8c338bcce7f29e6233377e1a6424.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "RNU Guwahati Vacancy 2026 - Stenographer, CG Operator and More PostsRNU Guwahati Vacancy 2026",
         "title": "Stenographer, CG Operator and More",
         "qualification": "Candidates of Indian origin residing in Assam, meeting the qualification and age criteria for the respective category",
-        "last_date": "23 Sep 2026",
+        "last_date": "23-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected candidates are engaged as Casual Assignees and paid on a per-day or per-day-per-shift basis, as shown below. The notification clarifies that a maximum of 7 (seven) assignments may be given per month, and empanelment does not constitute a regular post.",
         "age_limit": "Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -528,11 +544,11 @@
         "official_notification": "https://prasarbharati.gov.in/wp-content/uploads/2026/08/Notification_Adv_RNU_Guwahati.pdf"
     },
     {
-        "date": "22 Aug 2026",
+        "date": "22/08/2026",
         "board": "NIPER Guwahati Vacancy 2026 - 1 Secretary to Registrar PostsNIPER Guwahati Secretary to Registrar Vacancy 2026",
         "title": "Secretary to Registrar",
         "qualification": "Bachelor's Degree in any discipline.",
-        "last_date": "19 Sep 2026",
+        "last_date": "19-09-2026",
         "total_posts": "1",
         "salary": "Salary: Rs. 47,600 Per Month (Level-8, Basic Pay).",
         "age_limit": "Max: 40 years",
@@ -544,11 +560,11 @@
         "official_notification": "https://www.niperguwahati.ac.in/DOC/RECRUITMENT/ADV-PS-REG-AUG-2026/Advt_Phase_14_2026_Secy_Registrar.pdf"
     },
     {
-        "date": "18 Aug 2026",
+        "date": "18/08/2026",
         "board": "AIIMS Guwahati Vacancy 2026 - 63 Faculty PostsAIIMS Guwahati Faculty Vacancy 2026",
         "title": "Professor, Additional Professor, Associate Professor, Assistant Professor",
         "qualification": "For non-medical candidates (Anatomy, Pharmacology, Microbiology, etc.), the requirement is a postgraduate degree in the relevant discipline along with a Doctorate degree from a recognized university, with teaching/research experience ranging from 3 years (Assistant Professor) to 14 years (Professor) depending on the post applied for. || Candidates holding a DNB qualification must submit documentary evidence of DNB equivalence with MD/MS/DM/M.Ch as per the NMC (formerly MCI) notification dated 31.10.2018. Depending on the training institution, DNB candidates may need 1 to 2 years of additional experience.",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "Not Available",
         "salary": "Rs. 1,68,900/- (plus NPA for medically qualified candidates)",
         "age_limit": "The upper age limit is calculated as on the last date of submission of the online application. Age relaxation is admissible as follows: || No age relaxation is available to SC/ST/OBC/EWS candidates applying against unreserved vacancies. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -560,11 +576,11 @@
         "official_notification": "https://aiimsguwahati.in/viewfile.aspx?fname=a241aba4.pdf&ftype=pdf&rdoctype=cms"
     },
     {
-        "date": "04 Aug 2026",
+        "date": "04/08/2026",
         "board": "APSC Vacancy 2026 - 1 Research Assistant PostsAPSC Research Assistant Vacancy 2026",
         "title": "Research Assistant",
         "qualification": "Graduate",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "1",
         "salary": "Pay Scale: Rs. 22,000/- to Rs. 97,000/- || Grade Pay: Rs. 9,400/- || Pay Band: Pay Band - 3",
         "age_limit": "Minimum Age: 21 years (as on 01-01-2026) || Maximum Age: 38 years (as on 01-01-2026) || Age Relaxation:SC/ST: upto 43 yearsOBC/MOBC: upto 41 yearsPwBD: 10 years irrespective of SC/ST/OBC and UR Category || SC/ST: upto 43 years || OBC/MOBC: upto 41 years || PwBD: 10 years irrespective of SC/ST/OBC and UR Category",
