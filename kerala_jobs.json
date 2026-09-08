@@ -1,10 +1,74 @@
 [
     {
-        "date": "07 Sep 2026",
+        "date": "08/09/2026",
+        "board": "KAU Vacancy 2026 - 1 Field Assistant PostsKAU Field Assistant Vacancy 2026",
+        "title": "Field Assistant (Daily Wages)",
+        "qualification": "B.Sc. Agriculture with relevant field experience (M.Sc. Agriculture desirable)",
+        "last_date": "10-09-2026",
+        "total_posts": "1",
+        "salary": "₹750 per day (maximum ₹14000 per month)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.kau.in/",
+        "official_notification": "https://www.kau.in/sites/default/files/announcements/img_20260903_0002.pdf"
+    },
+    {
+        "date": "08/09/2026",
+        "board": "NIT Calicut Vacancy 2026 - 1 Junior Research Fellow PostsNIT Calicut Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow",
+        "qualification": "M.Sc in Chemistry with minimum 60% marks or equivalent grade and with NET/GATE qualified.",
+        "last_date": "21-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitc.ac.in",
+        "official_notification": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__39eddb2b-4ef7-4e23-966e-ee55610ad2f0_.pdf"
+    },
+    {
+        "date": "08/09/2026",
+        "board": "NIT Calicut Vacancy 2026 - 1 Junior Research Fellow PostsNIT Calicut Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow",
+        "qualification": "M.Tech (Env Engg.)/M.Sc. (Microbiology)/M.Sc (Biotechnology) with GATE/NET qualified, Ph.D in Microbiology/Biotechnology (Desirable)",
+        "last_date": "21-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitc.ac.in",
+        "official_notification": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__edf455e4-efc6-4d92-9d45-f5c2417667f2_.pdf"
+    },
+    {
+        "date": "08/09/2026",
+        "board": "SSC Vacancy 2026 - 2536 CHSL PostsSSC CHSL Vacancy 2026",
+        "title": "Post Name",
+        "qualification": "12th Standard pass in Science stream with Mathematics as a subject, from a recognised Board",
+        "last_date": "07-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Pay Level-4 (Rs. 25,500–81,100) and Level-5 (Rs. 29,200–92,300)",
+        "age_limit": "Only male candidates are eligible for any vacancies reported in the Border Roads Organization (BRO). || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
+        "application_fee": "Fee can be paid online through BHIM UPI, Net Banking, or Visa/MasterCard/Maestro/RuPay debit cards, up to 08 October 2026 (23:00 Hours). Fee once paid is not refundable or adjustable against any other exam.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ssc.gov.in/",
+        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_chsl_2026.pdf"
+    },
+    {
+        "date": "07/09/2026",
         "board": "KAU Vacancy 2026 - 1 Assistant Professor PostsKAU Assistant Professor Vacancy 2026",
         "title": "Assistant Professor",
         "qualification": "MSc (Horticulture), PhD in Floriculture and Landscaping preferred",
-        "last_date": "23 Sep 2026",
+        "last_date": "23-09-2026",
         "total_posts": "1",
         "salary": "Rs. 1470 Per Day",
         "age_limit": "Max: 40 years",
@@ -16,11 +80,11 @@
         "official_notification": "https://www.kau.in/sites/default/files/announcements/notification_assistant_professor.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "District Court Thalassery Vacancy 2026 - 2 Court Attender PostsDistrict Court Thalassery Court Attender Vacancy 2026",
         "title": "Court Attender",
         "qualification": "2 Posts",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "2",
         "salary": "Rs. 23360 Per Month",
         "age_limit": "Not Available",
@@ -32,11 +96,11 @@
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/09/2026090317.pdf"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "Pathanamthitta District Court Vacancy 2026 - 1 Computer Assistant/ LD Typist PostsPathanamthitta District Court Computer Assistant/ LD Typist Vacancy 2026",
         "title": "Computer Assistant/ LD Typist",
         "qualification": "1 Posts",
-        "last_date": "09 Sep 2026",
+        "last_date": "09-09-2026",
         "total_posts": "1",
         "salary": "Rs. 23360 Per Month",
         "age_limit": "Max: 62 years",
@@ -48,11 +112,11 @@
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec037a4bf9ba2bd774068ad50351fb89/uploads/2026/09/2026090193.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "CMD Kerala Vacancy 2026 - 162 Green Marshal PostsCMD Kerala Green Marshal Vacancy 2026",
         "title": "Green Marshal",
         "qualification": "SSLC Pass",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected candidates will be paid ₹810 per day, payable on the basis of actual attendance/days engaged, subject to applicable deductions and rules. The engagement is purely temporary and for one year, and does not confer any right or claim to regular appointment, permanent employment, continuation, renewal, or absorption in the Directorate of Tourism, CMD, or Government service.",
         "age_limit": "As on 01.09.2026, candidates must be a minimum of 20 years and a maximum of 45 years of age. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -64,11 +128,11 @@
         "official_notification": "https://cmd.kerala.gov.in/wp-content/uploads/2026/09/Green_Marshal_Notification_2026_v4_0509.pdf"
     },
     {
-        "date": "07 Sep 2026",
+        "date": "07/09/2026",
         "board": "Kerala High Court Vacancy 2026 - 1 Registrar PostsKerala High Court Registrar Vacancy 2026",
         "title": "Registrar (Protocol & Security Control)",
         "qualification": "Degree in any subject/ Diploma in Public Relations",
-        "last_date": "03 Oct 2026",
+        "last_date": "03-10-2026",
         "total_posts": "1",
         "salary": "Pay scale of ₹123700 - ₹166800",
         "age_limit": "Born between 02/01/1971 and 01/01/1991 (both days inclusive).",
@@ -80,11 +144,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/09/852142-6a9e473562efd40920222.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "Kannur University Vacancy 2026 - 1 Office Attendant PostsKannur University Office Attendant Vacancy 2026",
         "title": "Office Attendant",
         "qualification": "7th Standard Pass (not completed Graduation)",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "1",
         "salary": "Not Available",
         "age_limit": "Minimum Age: 18 years || Maximum Age: 40 years || Age relaxation is applicable for reserved categories as per government norms. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -96,11 +160,11 @@
         "official_notification": "https://www.kannuruniversity.ac.in/media/documents/Adobe_Scan_03_Sept_2026.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "NIT Calicut Vacancy 2026 - 1 Junior Research Fellow PostsNIT Calicut Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow",
         "qualification": "Master's degree (M.Sc./ M.Tech./ MS/ equivalent) in Mathematics",
-        "last_date": "17 Sep 2026",
+        "last_date": "17-09-2026",
         "total_posts": "1",
         "salary": "Rs. 37000 Per Month",
         "age_limit": "Not Available",
@@ -112,11 +176,11 @@
         "official_notification": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__9a6cbc44-32db-4a6c-975c-c35c60132c34_.pdf"
     },
     {
-        "date": "04 Sep 2026",
+        "date": "04/09/2026",
         "board": "SBI Vacancy 2026 - 207 Investment Officer, Zonal Head and More PostsSBI Vacancy 2026",
         "title": "Investment Officer, Zonal Head and More",
         "qualification": "3 years in sales & marketing with leading banks/wealth firms/AMCs, or 4 years as an SBI Wealth CRE. Preferred: minimum 3 years as a Relationship Manager or similar role in wealth management",
-        "last_date": "25 Sep 2026",
+        "last_date": "25-09-2026",
         "total_posts": "Not Available",
         "salary": "Not Available",
         "age_limit": "Maximum age indicated is for Unreserved category candidates; relaxation in the upper age limit is available to reserved category candidates as per Government of India guidelines.",
@@ -128,11 +192,11 @@
         "official_notification": "https://sbi.bank.in/documents/77530/57941334/03092026_1_Advt+_Wealth+MGMT_04.09.2026.pdf/d2fd7bab-0791-b62b-61d3-8f46c2cb3ec6?t=1788439145915"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "BEL Vacancy 2026 - ITI Apprentice PostsBEL ITI Apprentice Vacancy 2026",
         "title": "ITI Apprentices",
         "qualification": "Candidates must have passed ITI. || ITI candidates who passed on or after 01 January 2022 are eligible.",
-        "last_date": "26 Sep 2026",
+        "last_date": "26-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected apprentices will receive a monthly stipend during the apprenticeship training period.",
         "age_limit": "The maximum age limit is 21 years as on 01 September 2025. || SC/ST candidates: 5 years age relaxation || OBC candidates: 3 years age relaxation || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -144,11 +208,11 @@
         "official_notification": "https://bel-india.in/wp-content/uploads/2026/09/Advertisement-Copy.pdf"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "PFRDA Vacancy 2026 - 30 Officer Grade ‘A’ (Assistant Manager) PostsPFRDA Officer Grade ‘A’ (Assistant Manager) Vacancy 2026",
         "title": "Officer Grade 'A' (Assistant Manager)",
         "qualification": "Master's Degree/PG Diploma (min. 2 years) in Economics/Commerce/Business Administration/Econometrics/Quantitative Economics/Financial Economics/Mathematical Economics/Business Economics/Agricultural Economics/Industrial Economics/Business Analytics; OR in Finance/Quantitative Finance/Mathematical Finance/Quantitative Techniques/International Finance/Business Finance/International & Trade Finance/Project & Infrastructure Finance/Agri. Business Finance; OR in Statistics/Mathematical Statistics/Statistics & Informatics/Applied Statistics & Informatics/Data Science/AI/Machine Learning/Big Data Analytics; OR Master's Degree in Mathematics with one-year PG Diploma in Statistics or related subjects",
-        "last_date": "24 Sep 2026",
+        "last_date": "24-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected candidates will draw pay in the scale of Rs. 62,500-3600(4)-76,900-4050(7)-1,05,250-EB-4050(4)-1,21,450-4650(1)-1,26,100 (17 years) . As per the notification, gross emoluments - including PFRDA's contribution towards the National Pension System (NPS), Grade Allowance, Special Allowance, Special Grade Allowance, Dearness Allowance, Local Allowance, Family Allowance, Special Compensatory Allowance, Learning Allowance and Housing Allowance - work out to approximately Rs. 2,05,000 per month at the minimum of the scale. Other benefits include Leave Fare Concession, medical expense reimbursement, Personal Accident Insurance, Children Education Allowance, Knowledge Updation Allowance, conveyance expenses, House Cleaning Allowance, and a Pluxee Meal Card, among others admissible to an Officer Grade A in PFRDA.",
         "age_limit": "Not Available",
@@ -160,11 +224,11 @@
         "official_notification": "https://pfrda.org.in/w/advertisement-recruitment-of-officer-grade-a-assistant-manager-2026?p_l_back_url=%2Fget-to-know%2Fcareers%2Fvacancies&p_l_back_url_title=Vacancies"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "SCTIMST Vacancy 2026 - 1 Project Fellow PostsSCTIMST Project Fellow Vacancy 2026",
         "title": "Project Fellow",
         "qualification": "Master's degree in any branch of Biotechnology/ Molecular Biology/ Biochemistry, Minimum of two years' experience in Cellular reprogramming, phenotypic characterization and molecular analysis",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "1",
         "salary": "Rs. 32560 Per Month",
         "age_limit": "Maximum Age Limit: 35 years. || Age relaxation for SC/ST/OBC candidates will be as per Government of India rules.",
@@ -176,11 +240,11 @@
         "official_notification": "https://www.sctimst.ac.in/recruitment/RESOURCES/H_2026-27_1552.pdf"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "IIM Kozhikode Vacancy 2026 - 1 Senior Advisor PostsIIM Kozhikode Senior Advisor Vacancy 2026",
         "title": "Senior Advisor (Development)",
         "qualification": "Graduation in any stream",
-        "last_date": "30 Sep 2026",
+        "last_date": "30-09-2026",
         "total_posts": "1",
         "salary": "Not Available",
         "age_limit": "Max: 65 years",
@@ -192,11 +256,11 @@
         "official_notification": "https://webapps.iimk.ac.in/jobportal/vacancy_details/eyJpdiI6IlpBaXhYU3Vkb3lTWFcwSEVVekIvbWc9PSIsInZhbHVlIjoiL3MwU2VoQ3RQLzJsYVVjR2FaVWdLZz09IiwibWFjIjoiMTEzNmNjYTRiMTQ4ZmM0OTE4YWUzYmUwM2M2OWViMjBhMGIwY2I1ZDE2OTNjZGY1MzY1ZDU0ZDU4NjlhMDM5OSIsInRhZyI6IiJ9"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "CSL Vacancy 2026 - 09 ITI Trade Apprentices PostsCSL ITI Trade Apprentices Vacancy 2026",
         "title": "ITI Trade Apprentices",
         "qualification": "Candidates must have passed 10th standard. || Candidates must have passed ITI (National Trade Certificate - NTC) in any one of the notified trades.",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected ITI Trade Apprentices will receive a stipend of ₹11,000 per month during the apprenticeship training period.",
         "age_limit": "Not Available",
@@ -208,11 +272,11 @@
         "official_notification": "https://cochinshipyard.in/uploads/career/2f5b44d5cebeb8b116eb6126621e9d97.pdf"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "NIT Calicut Vacancy 2026 - 1 Junior Research Fellow PostsNIT Calicut Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow",
         "qualification": "M.Sc. in Chemistry with minimum 60% marks or equivalent grade and a Valid NET/GATE Certificate",
-        "last_date": "13 Sep 2026",
+        "last_date": "13-09-2026",
         "total_posts": "1",
         "salary": "Junior Research Fellow: Rs.37,000/- Per month (Consolidated) + 16% HRA",
         "age_limit": "Maximum Age: 35 years. || Age relaxation to SC/ST/OBC candidates as per Government of India norms. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
@@ -224,11 +288,11 @@
         "official_notification": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__16627d57-d7a9-4a9b-8d4e-798a8ad277e3_.pdf"
     },
     {
-        "date": "03 Sep 2026",
+        "date": "03/09/2026",
         "board": "NIT Calicut Vacancy 2026 - 1 Project Research Scientist PostsNIT Calicut Project Research Scientist Vacancy 2026",
         "title": "Project Research Scientist",
         "qualification": "B.E./B.Tech. and M.E./M.Tech. (or Integrated M.Tech) in Computer Sc. & Engg./ Information Technology or equivalent from an Institute of National Importance/ AICTE-approved University/Institution with minimum 65% marks or 7.0 CGPA (out of 10) in M.E./M.Tech. OR B.E./B.Tech. from an Institute of National Importance with minimum 85% marks or 9.0 CGPA (out of 10)",
-        "last_date": "17 Sep 2026",
+        "last_date": "17-09-2026",
         "total_posts": "1",
         "salary": "Rs. 56000 Per Month",
         "age_limit": "Max: 35 years",
@@ -240,11 +304,11 @@
         "official_notification": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__58395df0-4474-4405-acf0-61e6b6ca54f1_.pdf"
     },
     {
-        "date": "27 Aug 2026",
+        "date": "27/08/2026",
         "board": "India Post Vacancy 2026 - 23757 Gramin Dak Sevak PostsIndia Post Gramin Dak Sevak Vacancy 2026",
         "title": "Brief Role",
         "qualification": "Secondary School Examination (SSE)/10th standard pass certificate, with passing marks in Mathematics and English, from a Board recognized by the Government of India/State Governments/Union Territories. Candidates with equivalent qualification from any other board are not eligible.",
-        "last_date": "21 Sep 2026",
+        "last_date": "21-09-2026",
         "total_posts": "Not Available",
         "salary": "GDS are not regular Central Government employees; they are paid emoluments in the form of Time Related Continuity Allowance (TRCA), which carries an annual increase of 3% (subject to fulfilment of conditions under the GDS Rules), along with Dearness Allowance on TRCA as declared by the Government of India from time to time. GDS are also entitled to GDS Gratuity and the Service Discharge Benefit Scheme (akin to the National Pension System for regular employees).",
         "age_limit": "The minimum age is 18 years and the maximum age is 40 years, to be determined as on the last date of submission of applications, subject to the following relaxations in the upper age limit. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
@@ -256,11 +320,11 @@
         "official_notification": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "Kerala High Court Vacancy 2026 - 1 Registrar PostsKerala High Court Registrar Vacancy 2026",
         "title": "Various Posts",
         "qualification": "12th Pass",
-        "last_date": "03 Oct 2026",
+        "last_date": "03-10-2026",
         "total_posts": "1",
         "salary": "₹123700 - 166800",
         "age_limit": "Born between 02/01/1971 and 01/01/1991 (both days inclusive)",
@@ -272,11 +336,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/09/147965-6a980e0b78d7b16736257.pdf"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "SCTIMST Vacancy 2026 - 1 Project Assistant PostsSCTIMST Project Assistant Vacancy 2026",
         "title": "Project Assistant",
         "qualification": "3 years Diploma in Engineering / Technology in Biomedical / Mechanical / Electrical / Electronics / Instrumentation or equivalent",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "1",
         "salary": "Rs. 20,000/- + 18% HRA Per Month",
         "age_limit": "Maximum Age Limit: 50 years. || Age relaxation will be as per government rules. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -288,11 +352,11 @@
         "official_notification": "https://www.sctimst.ac.in/recruitment/RESOURCES/B_2026-27_1589.pdf"
     },
     {
-        "date": "02 Sep 2026",
+        "date": "02/09/2026",
         "board": "BEL Vacancy 2026 - 14 Deputy Engineer PostsBEL Deputy Engineer Vacancy 2026",
         "title": "Deputy Engineer E-II (FTE)",
         "qualification": "Candidates should have a full-time B.E./B.Tech degree in the relevant discipline from an AICTE-approved college/institute or recognised university. || Electronics / Electronics & Communication / Communication / Electronics & Telecommunication / Telecommunication Engineering || Mechanical Engineering || Computer Science / Computer Science Engineering || UR, EWS and OBC(NCL) candidates should have First Class, while SC, ST and PwBD candidates should have Pass Class in the required qualification.",
-        "last_date": "23 Sep 2026",
+        "last_date": "23-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected candidates for Deputy Engineer E-II (FTE) posts will receive salary as per the pay scale mentioned below. || Apart from basic pay, candidates will receive Dearness Allowance, House Rent Allowance, 35% of basic pay as perquisites, Performance Related Pay (PRP), Group Insurance, Medical facilities and Provident Fund as per company rules.",
         "age_limit": "Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -304,11 +368,11 @@
         "official_notification": "https://bel-india.in/wp-content/uploads/2026/09/E-II-adv-14FTE-02092026-Final-1-1.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "DRDO NPOL Vacancy 2026 - 04 Junior Research Fellow PostsDRDO NPOL Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "For the Graduate level, \"1st Division\" refers to a B.Sc or B.Tech degree, as applicable. The equivalent acceptable subjects/disciplines for the essential qualification are as per RAC, DRDO norms, and NET is deemed to include other relevant national-level fellowships awarded by Central Government Departments/Agencies. The decision of the Director, NPOL, on the prescribed qualifications, their equivalence, and relevance to the Laboratory is final.",
-        "last_date": "10 Oct 2026",
+        "last_date": "10-10-2026",
         "total_posts": "Not Available",
         "salary": "Selected Junior Research Fellows receive monthly emoluments of Rs. 37,000/- plus House Rent Allowance (HRA) as admissible under the rules. The Fellowship is awarded initially for a period of two years, extendable as per rules. The notification clarifies that the offer of a Fellowship does not confer on Fellows any right to absorption in DRDO.",
         "age_limit": "28 years",
@@ -320,11 +384,11 @@
         "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtNPOL01092026.pdf"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "Spices Board Vacancy 2026 - 2 Trainee PostsSpices Board Trainee Vacancy 2026",
         "title": "Trainee (QEL Chemistry)",
         "qualification": "Bachelor of Science Degree with Chemistry as one of the major subject",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "2",
         "salary": "Rs. 20000 Per Month",
         "age_limit": "Maximum Age: 30 years || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -336,11 +400,11 @@
         "official_notification": "https://www.indianspices.com/opportunities/details.html?id=897"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "HLL Vacancy 2026 - 16 Manager, Associate General Manager and More PostsHLL Vacancy 2026",
         "title": "Reference Code",
         "qualification": "12 years, in business development/institutional sales/project development in mental health/behavioural wellness/healthcare/rehab/allied services",
-        "last_date": "23 Sep 2026",
+        "last_date": "23-09-2026",
         "total_posts": "Not Available",
         "salary": "Pay ranges from a basic pay of Rs. 35,000 for the Senior Operations Manager post up to a scale of Rs. 1,00,000–2,60,000 for the Vice President & CFO post. For the two Vice President posts on FTC (Pharma Retail and Product Marketing), the notification specifies a consolidated remuneration commensurate with qualification, experience and last drawn salary, rather than a fixed pay scale.",
         "age_limit": "The maximum age for each post is calculated as on 01 August 2026, which is also the cut-off date used for qualification and post-qualification experience. || In addition to the post-specific relaxation above, SC/ST/OBC/PwD candidates are eligible for age relaxation as per Government of India directives. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -352,11 +416,11 @@
         "official_notification": "https://www.lifecarehll.com/careers/view/reference/03f544613917945245041ea1581df0c2hX-Kgg"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "MGU Vacancy 2026 - 6 Assistant Professor PostsMGU Assistant Professor Vacancy 2026",
         "title": "Assistant Professor",
         "qualification": "As per UGC norms",
-        "last_date": "10 Sep 2026",
+        "last_date": "10-09-2026",
         "total_posts": "6",
         "salary": "Consolidated pay of ₹40,000/- per month for all posts.",
         "age_limit": "Maximum Age Limit: 70 years || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -368,11 +432,11 @@
         "official_notification": "https://www.mgu.ac.in/uploads/2026/09/Re-notification-No-5931-Dated-31-August-2026_Assistant-Professor-on-contract-IIRBS_GS_NIPST.pdf?x85863"
     },
     {
-        "date": "31 Aug 2026",
+        "date": "31/08/2026",
         "board": "Kerala PSC Vacancy 2026 - 31 Junior Assistant, Beat Forest Officer and More PostsKerala PSC Vacancy 2026",
         "title": "Junior Assistant, Beat Forest Officer and More Posts",
         "qualification": "Diploma in Pharmacy and First-Aid certificate recognized by Government/Govt. of Kerala.",
-        "last_date": "07 Oct 2026",
+        "last_date": "07-10-2026",
         "total_posts": "31 Posts",
         "salary": "₹193,000/- to ₹75,400/-",
         "age_limit": "Usual age relaxation applicable (maximum age limit shall not exceed 50 years)",
@@ -384,11 +448,11 @@
         "official_notification": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-31082026"
     },
     {
-        "date": "01 Sep 2026",
+        "date": "01/09/2026",
         "board": "NIT Calicut Vacancy 2026 - 2 Project Associate I PostsNIT Calicut Project Associate I Vacancy 2026",
         "title": "Project Associate I",
         "qualification": "BE/ B. Tech in Electronics and Communication Engineering/ allied fields , M.E./ M. Tech in Communication Engineering",
-        "last_date": "13 Sep 2026",
+        "last_date": "13-09-2026",
         "total_posts": "2",
         "salary": "Rs. 30000 Per Month",
         "age_limit": "Max: 35 years",
@@ -400,11 +464,11 @@
         "official_notification": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__395e0d5b-b079-469a-abb9-2d1f3cfa2147_.pdf"
     },
     {
-        "date": "31 Aug 2026",
+        "date": "31/08/2026",
         "board": "Southern Railway Vacancy 2026 - 4471 Act Apprentice PostsSouthern Railway Act Apprentice Vacancy 2026",
         "title": "Act Apprentice",
         "qualification": "Fresher Category: || Fitter, Painter, Welder - Passed 10th Class (minimum 50% aggregate) under the 10+2 system or equivalent. || Medical Laboratory Technician (Radiology/Pathology/Cardiology) - Passed 12th Class (minimum 50% aggregate) with Physics, Chemistry, and Biology. || Ex-ITI Category: || Most trades (Fitter, Machinist, MMV, Turner, Diesel Mechanic, Carpenter, Painter, Welder(G&E), Wireman, Advance Welder, Plumber, Draughtsman-Civil, Instrument Mechanic, Mech. R&AC, Gas Cutter, MMTM, Structural Welder) - Passed 10th Class (min. 50%) + ITI course in the relevant trade with an NCVT/SCVT certificate. || Electrician - Same as above, with Science as a subject in 10th. || Electronics Mechanic - Same as above, with Science (Physics & Chemistry) and Mathematics. || Secretarial Assistant & Stenographer (English) - Passed 12th Class + ITI course with NCVT/SCVT certificate. || ICTSM - Passed 10th Class + ITI course with NCVT/SCVT certificate. || COPA/PASAA - Passed 10th Class (min. 50%) + National Trade Certificate in Computer Operator and Programming Assistant. || Note: The minimum 50% requirement in 10th standard does not apply to SC/ST/PwBD candidates. Course Completed Act Apprentices (CCAAs), Engineering Graduates/Diploma holders, or Vocational Certificate holders with one year or more of training/job experience after these qualifications are not eligible.",
-        "last_date": "27 Sep 2026",
+        "last_date": "27-09-2026",
         "total_posts": "Not Available",
         "salary": "Stipend increases by 10% in the second year of training and a further 15% in the third year, over the prescribed minimum.",
         "age_limit": "As on the date of notification (28-08-2026): || Minimum age: 15 years completed || Maximum age: 22 years (Fresher/Ex-ITI) / 24 years (MLT) || Upper age relaxation: 3 years for OBC-(NCL), 5 years for SC/ST, 10 years for PwBD || Combined relaxation for PwBD candidates: UR/EWS + PwBD = 10 years; OBC-(NCL) + PwBD = 13 years; SC/ST + PwBD = 15 years || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -416,11 +480,11 @@
         "official_notification": "https://sronline.etrpindia.com/rrcchennaiapprentice26/notifications/Act%20Apprentices%20Notification%202026-27%20with%20enclosures.pdf"
     },
     {
-        "date": "31 Aug 2026",
+        "date": "31/08/2026",
         "board": "ISTC Vacancy 2026 - 1 Chief Executive Officer PostsISTC Chief Executive Officer Vacancy 2026",
         "title": "Chief Executive Officer (CEO)",
         "qualification": "Degree in Naval Architecture Engineering/Marine Engineering/Ocean Engineering/Mechanical Engineering from a recognized University, PhD in Engineering from a recognized University",
-        "last_date": "18 Sep 2026",
+        "last_date": "18-09-2026",
         "total_posts": "1",
         "salary": "Rs. 300000 Per Month",
         "age_limit": "Minimum Age: 50 years || Maximum Age: 62 years || Age as on 18-09-2026 || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -432,11 +496,11 @@
         "official_notification": "https://cochinshipyard.in/uploads/career/ea26fb786fa290fa5ef44562a10329a5.pdf"
     },
     {
-        "date": "31 Aug 2026",
+        "date": "31/08/2026",
         "board": "Spices Board Vacancy 2026 - 2 Trainee PostsSpices Board Trainee Vacancy 2026",
         "title": "Trainee (QEL Chemistry)",
         "qualification": "Bachelor of Science Degree with Chemistry as one of the major subject or Bachelor degree in Chemistry from a recognized university or equivalent.",
-        "last_date": "11 Sep 2026",
+        "last_date": "11-09-2026",
         "total_posts": "2",
         "salary": "Rs. 20000 Per Month",
         "age_limit": "Maximum Age: 30 years || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -448,11 +512,11 @@
         "official_notification": "https://www.indianspices.com/opportunities/details.html?id=897"
     },
     {
-        "date": "28 Aug 2026",
+        "date": "28/08/2026",
         "board": "IIM Kozhikode Vacancy 2026 - 3 Executive PostsIIM Kozhikode Executive Vacancy 2026",
         "title": "Executive (C.A.R.E)",
         "qualification": "Master's Degree (two-year full-time programme) in Management",
-        "last_date": "16 Sep 2026",
+        "last_date": "16-09-2026",
         "total_posts": "3",
         "salary": "Rs. 75,000 – Rs. 1,00,000/- Per Month",
         "age_limit": "Maximum Age Limit: 40 years || Age relaxation rules are not specified in the provided data. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
@@ -464,11 +528,11 @@
         "official_notification": "https://webapps.iimk.ac.in/jobportal/vacancy_details/eyJpdiI6ImpIa2dMdzdndE93Ulk3dUxuWnc2bEE9PSIsInZhbHVlIjoib3h0VjRsRzdmdVhub2tvTjA4anhtdz09IiwibWFjIjoiY2YxMjVkMDhlMDM5ODYwM2Q0ODc4MjZiMTBhYjRjNzI0MzlmNmI5ZjNjNDJmM2YzZGNhZjBiY2ZmNmRkNjU5YyIsInRhZyI6IiJ9"
     },
     {
-        "date": "28 Aug 2026",
+        "date": "28/08/2026",
         "board": "IIM Kozhikode Vacancy 2026 - 4 Admin. Associate PostsIIM Kozhikode Admin. Associate Vacancy 2026",
         "title": "Admin. Associate",
         "qualification": "Post-Graduation with minimum two years experience in Clerical duties/office administration, Graduation with minimum three years experience in Clerical duties/office administration, Proficiency in MS-Office, internet, Zoom, English and Hindi communication, Drafting skills",
-        "last_date": "16 Sep 2026",
+        "last_date": "16-09-2026",
         "total_posts": "4",
         "salary": "Selected candidates will receive a salary of Rs. 24,300/- per month.",
         "age_limit": "Maximum Age Limit: 35 years. || Age relaxation rules will be as per government norms.",
@@ -480,11 +544,11 @@
         "official_notification": "https://webapps.iimk.ac.in/jobportal/vacancy_details/eyJpdiI6ImVLUk0vV0RrM1NDdkRSajBXeDVXaVE9PSIsInZhbHVlIjoia3BSdHdIVnBGbW81OWRjbGFzWFVIQT09IiwibWFjIjoiZDBhZmVjZTJlZjRhMDVhNGJlNTBmYjg1MDM1YjI0OWViMGQxYjk2ZDU5MDFmZDNhNWZiNDcxZmRiMmYzMGJhMSIsInRhZyI6IiJ9"
     },
     {
-        "date": "27 Aug 2026",
+        "date": "27/08/2026",
         "board": "CUSAT Vacancy 2026 - Assistant Professor, Associate Professor PostsCUSAT Vacancy 2026",
         "title": "Associate Professor, Assistant Professor",
         "qualification": "B.Tech in Marine/ Mechanical Engineering/ Master's degree in Mathematics or Ph.D for Assistant Professor.",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "Not Available",
         "salary": "Associate Professor: ₹1,25,000/- per month. || Assistant Professor: ₹47,000/- (with Ph.D.) or ₹45,000/- (without Ph.D.) per month. (effective from 01.07.2026).",
         "age_limit": "No age limit specified in the provided data.",
@@ -496,11 +560,11 @@
         "official_notification": "https://recruit.cusat.ac.in/files/NOTIFICATION_481.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "ISTC Vacancy 2026 - 1 Chief Executive Officer PostsISTC Chief Executive Officer Vacancy 2026",
         "title": "Chief Executive Officer (CEO)",
         "qualification": "Degree in Naval Architecture Engineering/Marine Engineering/Ocean Engineering/ Mechanical Engineering AND PhD in Engineering from a recognized University.",
-        "last_date": "18 Sep 2026",
+        "last_date": "18-09-2026",
         "total_posts": "1",
         "salary": "The monthly consolidated pay shall be ₹3,00,000/- and an annual increase shall be applicable in the subsequent years.",
         "age_limit": "The age of candidates should be between 50 to 62 years as on 18 September 2026. || Age relaxation rules are not specified in the provided data.",
@@ -512,11 +576,11 @@
         "official_notification": "https://cochinshipyard.in/uploads/career/6961e237ed7cdf161777db34e98c0109.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "CMD Kerala Vacancy 2026 - 1 Training Coordinator PostsCMD Kerala Training Coordinator Vacancy 2026",
         "title": "Training Coordinator",
         "qualification": "B. Tech in Food Technology, Full-Time MBA in Marketing from a recognized Institution/University",
-        "last_date": "09 Sep 2026",
+        "last_date": "09-09-2026",
         "total_posts": "1",
         "salary": "Rs. 50000 Per Month",
         "age_limit": "Max: 40 years",
@@ -528,11 +592,11 @@
         "official_notification": "https://cmd.kerala.gov.in/wp-content/uploads/2026/08/Training-Coordinator-Notification.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "CUSAT Vacancy 2026 - 1 Course in Charge PostsCUSAT Course in Charge Vacancy 2026",
         "title": "Course in Charge",
         "qualification": "B.Tech in Marine/Mechanical Engineering/ Naval Architecture / Extra First Class certificate of Competency (MOT), 15 years of relevant experience out of which at least 2 years as Chief Engineer OR 5 years as Reader in Marine Engineering, Ph.D / M.Tech in Marine Engineering (Desirable)",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "1",
         "salary": "Rs. 148000 Per Month",
         "age_limit": "Not Available",
@@ -544,11 +608,11 @@
         "official_notification": "https://recruit.cusat.ac.in/files/NOTIFICATION_479.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "CSL Vacancy 2026 - 227 Draughtsman, Intern and More PostsCSL Vacancy 2026",
         "title": "Draughtsman, Intern and More",
         "qualification": "A Diploma in Engineering or Technology in the relevant discipline, granted by a State Council/Board of Technical Education, a University, or an institution recognized as equivalent by the State or Central Government",
-        "last_date": "31 Oct 2026",
+        "last_date": "31-10-2026",
         "total_posts": "Not Available",
         "salary": "ITI Trades, SSLC, and HSE/ITI categories: ₹11,000 per month (including Direct Benefit Transfer (DBT) by the Government of India) || Diploma, Graduation, and Post Graduation categories: ₹13,000 per month (including Direct Benefit Transfer (DBT) by the Government of India) || No travel expenses are admissible for attending certificate verification or during the internship training period. Boarding and lodging will not be provided by CSL during the internship period.",
         "age_limit": "18–25 years",
@@ -560,11 +624,11 @@
         "official_notification": "https://cochinshipyard.in/uploads/career/072fc88c8393c880260f39bd5b0bbf1e.pdf"
     },
     {
-        "date": "26 Aug 2026",
+        "date": "26/08/2026",
         "board": "ISTC Vacancy 2026 - 09 Lead Engineer, Executive and More PostsISTC Vacancy 2026",
         "title": "Post Name",
         "qualification": "09 Posts",
-        "last_date": "18 Sep 2026",
+        "last_date": "18-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected candidates will receive a consolidated monthly pay as per the post, with an annual increase of 3% on the monthly pay. || All posts are on contract basis for a tenure of five years, extendable for a further period subject to organisational requirements and individual performance. The place of posting for all selected candidates is ISTC, Kochi.",
         "age_limit": "The notification does not specify age relaxation details for reserved categories; candidates should refer to the official notification or contact ISTC for clarification if applicable. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -576,11 +640,11 @@
         "official_notification": "https://cochinshipyard.in/uploads/career/cd5346e2da18d06f6905eb292e8ce195.pdf"
     },
     {
-        "date": "24 Aug 2026",
+        "date": "24/08/2026",
         "board": "Kerala High Court Vacancy 2026 - 1 Clerical Assistant PostsKerala High Court Clerical Assistant Vacancy 2026",
         "title": "Clerical Assistant",
         "qualification": "Plus Two or equivalent",
-        "last_date": "26 Sep 2026",
+        "last_date": "26-09-2026",
         "total_posts": "1",
         "salary": "₹25100-₹57900",
         "age_limit": "See details in age_limits",
@@ -592,11 +656,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/159357-6a8be38d15db499566820.pdf"
     },
     {
-        "date": "22 Aug 2026",
+        "date": "22/08/2026",
         "board": "High Court of Kerala Vacancy 2026 - 5 Gardener PostsHigh Court of Kerala Gardener Vacancy 2026",
         "title": "Gardener",
         "qualification": "S.S.L.C. or equivalent, Diploma in Gardening or VHSE in Nursery Management and Ornamental Gardening or VHSE - Agriculture (Plant Protection) or VHSE Agriculture. Good physique.",
-        "last_date": "26 Sep 2026",
+        "last_date": "26-09-2026",
         "total_posts": "5",
         "salary": "₹23700-52600",
         "age_limit": "General: 02-01-1986 to 01-01-2008. SC/ST: 02-01-1981 to 01-01-2008. OBC: 02-01-1983 to 01-01-2008. Max 50 years for Ex-servicemen and differently abled candidates.",
@@ -608,11 +672,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/3254-6a898275a957883047045.pdf"
     },
     {
-        "date": "20 Aug 2026",
+        "date": "20/08/2026",
         "board": "MGU Vacancy 2026 - 1 Grounds Man cum Marker PostsMGU Grounds Man cum Marker Vacancy 2026",
         "title": "Grounds Man cum Marker",
         "qualification": "FDSC or equivalent, 5 years experience in grounds maintenance, 2 years experience using lawn mower",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "1",
         "salary": "Grounds Man cum Marker: Rs. 645 per day (max Rs. 20,000 per month)",
         "age_limit": "Minimum Age: 20 years || Maximum Age: 56 years || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -624,11 +688,11 @@
         "official_notification": "https://www.mgu.ac.in/uploads/2026/08/9991-AD_A5-2-2021-SPESS.pdf?x33994"
     },
     {
-        "date": "19 Aug 2026",
+        "date": "19/08/2026",
         "board": "BEML Vacancy 2026 - 1346 Apprentices PostsBEML Apprentices Vacancy 2026",
         "title": "Apprentice (under the Apprentices Act, 1961)",
         "qualification": "Graduate (Technical) – 4-yr Full Time Engineering",
-        "last_date": "08 Sep 2026",
+        "last_date": "08-09-2026",
         "total_posts": "Not Available",
         "salary": "Selected apprentices will receive a monthly stipend based on their qualification category, subject to satisfactory performance and attendance.",
         "age_limit": "Applicants must be Indian citizens and 17 years old or above at the time of application. || Candidates who have not completed 17 years of age are not eligible to apply. || No upper age limit is specified in the notification. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
@@ -640,11 +704,11 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/08/412571-6a868c0f9d77394789622.pdf"
     },
     {
-        "date": "19 Aug 2026",
+        "date": "19/08/2026",
         "board": "IIM Kozhikode Vacancy 2026 - 28 Assistant Professor PostsIIM Kozhikode Assistant Professor Vacancy 2026",
         "title": "Assistant Professor",
         "qualification": "Ph.D. or equivalent degree in appropriate subjects with first class or equivalent (Overall 60 percent or above) at the preceding degree and with excellent academic record throughout.",
-        "last_date": "30 Sep 2026",
+        "last_date": "30-09-2026",
         "total_posts": "28",
         "salary": "Pay Level 10/11/12/13A1",
         "age_limit": "Not Available",
@@ -656,11 +720,11 @@
         "official_notification": "https://iimk.ac.in/uploads/userfiles/Notification_A-02.2026.pdf"
     },
     {
-        "date": "13 Aug 2026",
+        "date": "13/08/2026",
         "board": "Kerala University Vacancy 2026 - 1 Field Investigator PostsKerala University Field Investigator Vacancy 2026",
         "title": "Field Investigator",
         "qualification": "Master's Degree in Life Sciences",
-        "last_date": "15 Sep 2026",
+        "last_date": "15-09-2026",
         "total_posts": "1",
         "salary": "Not Available",
         "age_limit": "Not Available",
@@ -672,11 +736,11 @@
         "official_notification": "https://www.keralauniversity.ac.in/pdfs/jobNoti/10005973881785755853.pdf"
     },
     {
-        "date": "12 Aug 2026",
+        "date": "12/08/2026",
         "board": "Cochin Port Authority Vacancy 2026 - 1 Executive Engineer PostsCochin Port Authority Executive Engineer Vacancy 2026",
         "title": "Executive Engineer (Ele/E&C)",
         "qualification": "Degree in Electrical/Electronics and Communication Engineering",
-        "last_date": "24 Sep 2026",
+        "last_date": "24-09-2026",
         "total_posts": "1",
         "salary": "Rs. 50000 - 160000 Per Month",
         "age_limit": "Not Available",
