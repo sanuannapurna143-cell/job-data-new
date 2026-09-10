@@ -1,6 +1,70 @@
 [
     {
         "date": "10/09/2026",
+        "board": "CUTN Vacancy 2026 - 1 Project Associate PostsCUTN Project Associate Vacancy 2026",
+        "title": "Project Associate",
+        "qualification": "M.Sc./ M.Tech. / Integrated M.Sc. / BS-MS in Applied Geology, Geology.",
+        "last_date": "16-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 25000 Per Month",
+        "age_limit": "Max: 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://cutn.ac.in/",
+        "official_notification": "https://cutn.ac.in/wp-content/uploads/2026/09/Advertisement-for-the-position-of-Project-Associate-PA-in-the-Department-of-Geology_09092026.pdf"
+    },
+    {
+        "date": "10/09/2026",
+        "board": "DHS Kanniyakumari Vacancy 2026 - 3 Microbiologist, Lab Technician, Lab Assistant PostsDHS Kanniyakumari Vacancy 2026",
+        "title": "Microbiologist, Lab Technician, Lab Assistant",
+        "qualification": "8th Pass, DMLT, MSC (Medical Microbiology)",
+        "last_date": "24-09-2026",
+        "total_posts": "3",
+        "salary": "Rs. 11,000 to Rs. 44,000 per month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://Kanniyakumari.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s38fe0093bb30d6f8c31474bd0764e6ac0/uploads/2026/09/17890182325234.pdf"
+    },
+    {
+        "date": "10/09/2026",
+        "board": "Anna University Vacancy 2026 - 4 DEO, Programme Officer and More PostsAnna University Vacancy 2026",
+        "title": "EIACP Coordinator",
+        "qualification": "M.E/ M.Tech, B.E/ B.Tech in Computer Science, B.E./ B.Tech. or B.Sc. in any discipline, or M.Sc. or M.S.W.",
+        "last_date": "25-09-2026",
+        "total_posts": "4",
+        "salary": "Rs. 52,500/ -, Rs. 44,100/ -, Rs. 35,700/ -, Rs. 16,800/ -",
+        "age_limit": "Programme Officer: Maximum 45 years || Information Officer: Maximum 40 years || IT/ GIS Officer: Maximum 35 years || Data Entry Operator: Maximum 30 years || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "Not Available",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.annauniv.edu/",
+        "official_notification": "https://www.annauniv.edu/pdf/ReAdvertisement.pdf"
+    },
+    {
+        "date": "10/09/2026",
+        "board": "RDPR Tiruchirappalli Vacancy 2026 - 1 Jeep Driver PostsRDPR Tiruchirappalli Jeep Driver Vacancy 2026",
+        "title": "Jeep Driver",
+        "qualification": "8th Standard Pass, Valid Driving License under Motor Vehicles Act 1988, Minimum 5 years driving experience",
+        "last_date": "09-10-2026",
+        "total_posts": "1",
+        "salary": "Rs. 19500 - 71900 Per Month",
+        "age_limit": "Min: 18 years, Max: 42 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tiruchirappalli.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3f73b76ce8949fe29bf2a537cfa420e8f/uploads/2026/09/17888651777315.pdf"
+    },
+    {
+        "date": "10/09/2026",
         "board": "SSC Vacancy 2026 - 1871 Sub-Inspector in Delhi Police and CAPFs PostsSSC Vacancy 2026",
         "title": "Sub-Inspector in Delhi Police and CAPFs",
         "qualification": "Bachelor's degree in Science with Physics, Chemistry and Mathematics from a recognised university or equivalent; OR Matriculation plus a 3-year diploma in Mechanical/Civil/Electrical/Automobile/Chemical/Mining/Aeronautical/Telecommunication Engineering or equivalent. A higher qualification (B.Tech/M.Tech) in relevant fields is treated as value addition, subject to the basic diploma being held.",
@@ -173,7 +237,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB Paramedical Syllabus 2026",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "ssc-cpo-si-capf-recruitment-2026-3067208"
+        "official_notification": "Not Available"
     },
     {
         "date": "09/09/2026",
@@ -941,7 +1005,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-cpo-si-capf-recruitment-2026-3067208"
+        "official_notification": "Not Available"
     },
     {
         "date": "31/08/2026",
@@ -1117,7 +1181,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-cpo-si-capf-recruitment-2026-3067208"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/08/2026",
@@ -1213,7 +1277,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-cpo-si-capf-recruitment-2026-3067208"
+        "official_notification": "Not Available"
     },
     {
         "date": "06/08/2026",

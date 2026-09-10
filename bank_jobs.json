@@ -1,6 +1,22 @@
 [
     {
         "date": "10/09/2026",
+        "board": "Sindhudurg DCC Bank",
+        "title": "Clerk",
+        "qualification": "Candidates must hold a Graduate or Post-Graduate degree in any discipline with at least 40% marks, and must have passed the Matriculation (10th) examination with Marathi as one of the subjects. Preference will be given to candidates who have pursued a Bachelor's or Master's degree in B.Com, B.A., B.Sc. (IT/Agriculture/Maths/Statistics), or a Degree/Post Graduate Degree in Computer and IT-related disciplines such as B.C.A. or other equivalent qualifications.",
+        "last_date": "17-09-2026",
+        "total_posts": "67",
+        "salary": "Selected candidates will be paid a stipend of Rs. 18,000/- per month during the probation period. The probation period for the post of Clerk is 18 months. After successful completion of probation, subject to satisfactory performance, the probationary Clerk will be placed in the Bank's regular Clerk grade and paid total emoluments as per the bank's Clerk pay scale. The exact pay scale and detailed salary structure after confirmation are not specified in the provided notification.",
+        "age_limit": "Note: the age-limit section of the official notification specifies the reference date as 31 August 2026, while the general instructions section separately mentions 31 August 2025. This appears to be an inconsistency within the official document itself. Candidates are advised to confirm the correct reference date directly from the bank before applying. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "The examination fee must be paid only through offline mode, via NEFT, IMPS, or Account Transfer, to the bank account specified in the official notification. Candidates must enter the Transaction ID generated for the fee payment while submitting the application and upload proof of payment. Application fees are non-refundable.",
+        "selection_process": "Selection for the post of Clerk will be based on an Online Examination followed by a Personal Interview. The online examination pattern is as follows. || The online examination will be conducted in English and Marathi, with a duration of 75 minutes. Candidates must score a minimum of 50% (45 marks) as cut-off marks to be shortlisted for the personal interview; the bank reserves the right to increase or decrease this cut-off. Shortlisting for interview is also subject to validation of educational qualifications and experience based on submitted documents. The final merit list will be prepared in descending order based on combined scores from the online examination and the interview. The personal interview will be held at Sindhudurg.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://sindhudurgdcc.bank.in/",
+        "official_notification": "https://sindhudurgdcc.bank.in/public/uploads/General_Condition.pdf"
+    },
+    {
+        "date": "10/09/2026",
         "board": "BOI",
         "title": "Officers in various Specialist streams (48 posts, Scale I to IV)",
         "qualification": "B.E./B.Tech in Computer Science / Information Technology / Electronics & Communication OR MCA (3 years Full-time) OR M.Sc. in Computer Science / Information Technology. Mandatory (At least One): OCP Java SE Programmer-11 & above / equivalent React JS certification, Meta Front-End Developer Professional Certificate / equivalent Node JS certification, MERN Stack certification, or Certified Professional Python Programmer. Desirable: AWS Machine Learning Specialty / Azure AI Engineer (AI-102), TensorFlow Developer Certificate, Gen AI/Prompt Engineering certification, NLP/LangChain experience, CKA, or DevSecOps Foundation (DSOF).",

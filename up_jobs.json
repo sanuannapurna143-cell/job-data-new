@@ -1,6 +1,86 @@
 [
     {
         "date": "10/09/2026",
+        "board": "IIT BHU Vacancy 2026 - 3 Project Associate I, Project Assistant PostsIIT BHU Vacancy 2026",
+        "title": "Project Associate I, Project Assistant",
+        "qualification": "Post Graduate Degree in Basic Science, Graduate/Post Graduate Degree in Engineering/Professional Course, Graduate/Post Graduate Degree in Basic Science/Engineering",
+        "last_date": "27-09-2026",
+        "total_posts": "3",
+        "salary": "Project Associate I:₹37,000/- + 20% HRA or ₹30,000/- + 20% HRA || Project Assistant:₹37,000/- + 20% HRA or ₹27,000/- + 20% HRA",
+        "age_limit": "Maximum Age Limit: 50 years for all posts. || Age relaxation details are not specified in the provided data.",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iitbhu.ac.in",
+        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_pa_che_green.pdf"
+    },
+    {
+        "date": "10/09/2026",
+        "board": "IIT Kanpur Vacancy 2026 - 2 Project Multi Skilled Worker PostsIIT Kanpur Project Multi Skilled Worker Vacancy 2026",
+        "title": "Project Multi Skilled Worker (Level 1)",
+        "qualification": "8th Class with 2 years relevant experience",
+        "last_date": "18-09-2026",
+        "total_posts": "2",
+        "salary": "Rs. 10000 - 28000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/cse-pmsw-l-1-08-09-26.html"
+    },
+    {
+        "date": "10/09/2026",
+        "board": "MMMUT Vacancy 2026 - 1 Senior Research Assistant PostsMMMUT Senior Research Assistant Vacancy 2026",
+        "title": "Senior Research Assistant (SRA)",
+        "qualification": "M.Sc. or equivalent degree with First Class",
+        "last_date": "25-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 28,000/- Per Month",
+        "age_limit": "Maximum Age: 32 years || Age relaxation will be as per government rules.",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.mmmut.ac.in",
+        "official_notification": "https://www.mmmut.ac.in/News_content/12253advertisment_09102026.pdf"
+    },
+    {
+        "date": "09/09/2026",
+        "board": "PGIMER Vacancy 2026 - 243 Nursing Officer PostsPGIMER Nursing Officer Vacancy 2026",
+        "title": "Nursing Officer",
+        "qualification": "Candidates must possess one of the following qualification combinations: || Option A:B.Sc. (Hons) in Nursing from a recognized University or Institute, OR Regular course in B.Sc. Nursing from a recognized University or Institute, OR Post Basic B.Sc. Nursing from a recognized University or Institute; AND Registered as a Nurse or Nurse and mid-wife (RN or RN & RM) with a State Nursing Council. || Option B:Diploma in General Nursing and Mid-wifery (GNM) from a recognized Board or Council; Registered as a Nurse or Nurse and mid-wife from a State Nursing Council; AND one year of experience in a minimum fifty-bedded hospital after acquiring the above qualification. || Unless diplomas/degrees obtained through Open and Distance Learning mode are recognized for the relevant period as per the Ministry of Education Notification dated 10.06.2015, they will not be accepted for the purpose of educational qualification.",
+        "last_date": "03-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Selected candidates for the post of Nursing Officer will be placed in Pay Level-7 of the 7th CPC Pay Matrix, with a pay scale of Rs. 44,900 – 142,400/- . The notification does not specify additional allowances separately; candidates may refer to applicable Central Government allowance rules for details not covered in this notice.",
+        "age_limit": "Note: No age relaxation is available to reserved category candidates applying against an unreserved (UR) vacancy. Age relaxation for PwBD and Central Government Civilian Employees will not be considered together; only the more beneficial relaxation among the two will be allowed. The maximum age of a PwBD applicant after relaxation shall not exceed 56 years on the crucial date. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Mode of Payment: Candidates can deposit the application fee through the online payment gateway available on the application portal using Debit Card, Credit Card, or Net Banking. Payment through UPI may be avoided. The application fee is non-refundable, and no correspondence regarding refund of fee for erroneously filled applications will be entertained.",
+        "selection_process": "Selection to the post of Nursing Officer will be made purely on the basis of a Computer Based Test (CBT); there is no interview for this Group 'B' (Non-Gazetted) post, as per Government of India instructions.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://pgimer.edu.in",
+        "official_notification": "https://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/Vacancies/JSP/ViewAll.jsp?record=15617"
+    },
+    {
+        "date": "10/09/2026",
+        "board": "IIT Kanpur Vacancy 2026 - 1 Project Multi-Skilled Worker PostsIIT Kanpur Project Multi-Skilled Worker Vacancy 2026",
+        "title": "Project Multi-Skilled Worker- L3",
+        "qualification": "8th Class + 8 years of relevant experience",
+        "last_date": "17-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 12000 - 36000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/ee-pmsw-l-3-28-08-2026.html"
+    },
+    {
+        "date": "10/09/2026",
         "board": "SSC Vacancy 2026 - 1871 Sub-Inspector in Delhi Police and CAPFs PostsSSC Vacancy 2026",
         "title": "Sub-Inspector in Delhi Police and CAPFs",
         "qualification": "Bachelor's degree in Science with Physics, Chemistry and Mathematics from a recognised university or equivalent; OR Matriculation plus a 3-year diploma in Mechanical/Civil/Electrical/Automobile/Chemical/Mining/Aeronautical/Telecommunication Engineering or equivalent. A higher qualification (B.Tech/M.Tech) in relevant fields is treated as value addition, subject to the basic diploma being held.",
@@ -62,22 +142,6 @@
         "syllabus": "Not Available",
         "official_website": "https://upanganwadibharti.in/",
         "official_notification": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1788779086_51bd336d.pdf"
-    },
-    {
-        "date": "09/09/2026",
-        "board": "PGIMER Vacancy 2026 - 243 Nursing Officer PostsPGIMER Nursing Officer Vacancy 2026",
-        "title": "Nursing Officer",
-        "qualification": "Candidates must possess one of the following qualification combinations: || Option A:B.Sc. (Hons) in Nursing from a recognized University or Institute, OR Regular course in B.Sc. Nursing from a recognized University or Institute, OR Post Basic B.Sc. Nursing from a recognized University or Institute; AND Registered as a Nurse or Nurse and mid-wife (RN or RN & RM) with a State Nursing Council. || Option B:Diploma in General Nursing and Mid-wifery (GNM) from a recognized Board or Council; Registered as a Nurse or Nurse and mid-wife from a State Nursing Council; AND one year of experience in a minimum fifty-bedded hospital after acquiring the above qualification. || Unless diplomas/degrees obtained through Open and Distance Learning mode are recognized for the relevant period as per the Ministry of Education Notification dated 10.06.2015, they will not be accepted for the purpose of educational qualification.",
-        "last_date": "03-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Selected candidates for the post of Nursing Officer will be placed in Pay Level-7 of the 7th CPC Pay Matrix, with a pay scale of Rs. 44,900 – 142,400/- . The notification does not specify additional allowances separately; candidates may refer to applicable Central Government allowance rules for details not covered in this notice.",
-        "age_limit": "Note: No age relaxation is available to reserved category candidates applying against an unreserved (UR) vacancy. Age relaxation for PwBD and Central Government Civilian Employees will not be considered together; only the more beneficial relaxation among the two will be allowed. The maximum age of a PwBD applicant after relaxation shall not exceed 56 years on the crucial date. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Mode of Payment: Candidates can deposit the application fee through the online payment gateway available on the application portal using Debit Card, Credit Card, or Net Banking. Payment through UPI may be avoided. The application fee is non-refundable, and no correspondence regarding refund of fee for erroneously filled applications will be entertained.",
-        "selection_process": "Selection to the post of Nursing Officer will be made purely on the basis of a Computer Based Test (CBT); there is no interview for this Group 'B' (Non-Gazetted) post, as per Government of India instructions.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://pgimer.edu.in",
-        "official_notification": "https://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/Vacancies/JSP/ViewAll.jsp?record=15617"
     },
     {
         "date": "11/08/2026",
@@ -717,7 +781,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://cihts.ac.in/",
-        "official_notification": "ssc-cpo-si-capf-recruitment-2026-3067208"
+        "official_notification": "Not Available"
     },
     {
         "date": "04/09/2026",
@@ -1117,7 +1181,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-cpo-si-capf-recruitment-2026-3067208"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/08/2026",
@@ -1309,7 +1373,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-cpo-si-capf-recruitment-2026-3067208"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/08/2026",
@@ -1469,7 +1533,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-cpo-si-capf-recruitment-2026-3067208"
+        "official_notification": "Not Available"
     },
     {
         "date": "21/08/2026",
@@ -1533,7 +1597,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ssc-cpo-si-capf-recruitment-2026-3067208"
+        "official_notification": "Not Available"
     },
     {
         "date": "14/08/2026",
