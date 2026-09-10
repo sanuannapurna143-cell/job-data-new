@@ -1,5 +1,37 @@
 [
     {
+        "date": "10/09/2026",
+        "board": "SSC Vacancy 2026 - 1871 Sub-Inspector in Delhi Police and CAPFs PostsSSC Vacancy 2026",
+        "title": "Sub-Inspector in Delhi Police and CAPFs",
+        "qualification": "Bachelor's degree in Science with Physics, Chemistry and Mathematics from a recognised university or equivalent; OR Matriculation plus a 3-year diploma in Mechanical/Civil/Electrical/Automobile/Chemical/Mining/Aeronautical/Telecommunication Engineering or equivalent. A higher qualification (B.Tech/M.Tech) in relevant fields is treated as value addition, subject to the basic diploma being held.",
+        "last_date": "30-09-2026",
+        "total_posts": "Not Available",
+        "salary": "Level-6 (₹35,400 – ₹1,12,400)",
+        "age_limit": "Age is reckoned as on the crucial date, 01.08.2026. || All posts except SI (Fire) in CISF:20–25 years (born not earlier than 02.08.2001 and not later than 01.08.2006). || SI (Fire) in CISF:18–30 years (born not earlier than 02.08.1996 and not later than 01.08.2008). || Departmental candidates among Constables, Head Constables and Assistant Sub-Inspectors of Delhi Police with a minimum of three years' service, not exceeding 30 years (33 for OBC, 35 for SC/ST) of age, may also apply for Open Vacancies of SI (Executive), Delhi Police-Male. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Fee payable: ₹100 (Rupees One Hundred only). || Women candidates and candidates belonging to SC, ST and Ex-Servicemen (eligible for reservation) are exempted from fee payment. || Fee can be paid only through online modes: BHIM UPI, Net Banking, Visa, MasterCard, Maestro, or RuPay Debit card. || Fee payment closes 01.10.2026 (23:00 hrs); no other mode of payment is permitted. || Fee once paid is non-refundable and non-adjustable against any other examination. || Application Form Correction Window (08.10.2026 to 10.10.2026) charges: ₹200 for the first correction, ₹500 for the second correction - applicable to all candidates regardless of gender/category.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ssc.gov.in",
+        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_capf_2026.pdf"
+    },
+    {
+        "date": "10/09/2026",
+        "board": "CUH Vacancy 2026 - 1 Senior Research Fellow PostsCUH Senior Research Fellow Vacancy 2026",
+        "title": "Senior Research Fellow",
+        "qualification": "Post Graduate Degree in Basic Science OR Graduate/Post Graduate Degree in Professional Course selected through CSIR-UGC NET including lectureship and GATE or national-level examinations by Central Government Departments/Agencies such as DST, DBT, DAE, DOS, DRDO, MoE, ICAR, ICMR, IIT, IISc, IISER, NISER etc. with two years research experience",
+        "last_date": "24-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 42000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://cuh.ac.in",
+        "official_notification": "https://file.cuh.ac.in/recruitment/advt_no_6aa22c8c3acd2.pdf"
+    },
+    {
         "date": "09/09/2026",
         "board": "PGIMER Vacancy 2026 - 243 Nursing Officer PostsPGIMER Nursing Officer Vacancy 2026",
         "title": "Nursing Officer",
@@ -34,18 +66,18 @@
     {
         "date": "09/09/2026",
         "board": "GJUST Vacancy 2026 - 33 Expert PostsGJUST Expert Vacancy 2026",
-        "title": "Part Time Teacher",
-        "qualification": "As per UGC/AICTE/RCI/NCAHP for Assistant Professor",
+        "title": "Expert",
+        "qualification": "33 Posts",
         "last_date": "15-09-2026",
-        "total_posts": "33",
-        "salary": "Rs. 1500 - 50000 Per Month",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
         "age_limit": "Not Available",
         "application_fee": "Not Available",
-        "selection_process": "Walk-in Interview || Document Verification",
-        "apply_mode": "Walk-in",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
-        "official_website": "https://gjust.ac.in",
-        "official_notification": "https://gjust.ac.in/portal/upload/Notice-Panel%20of%20Experts-2026-27_03September2026_18-19-24-13.pdf"
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
     },
     {
         "date": "27/08/2026",
@@ -237,7 +269,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://pucb.bank.in/",
-        "official_notification": "pgimer-nursing-officer-recruitment-2026-apply-online-for-243-posts-3067054"
+        "official_notification": "ssc-cpo-si-capf-recruitment-2026-3067208"
     },
     {
         "date": "01/09/2026",
@@ -509,7 +541,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "pgimer-nursing-officer-recruitment-2026-apply-online-for-243-posts-3067054"
+        "official_notification": "Not Available"
     },
     {
         "date": "10/08/2026",

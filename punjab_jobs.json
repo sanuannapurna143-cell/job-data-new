@@ -1,5 +1,37 @@
 [
     {
+        "date": "10/09/2026",
+        "board": "SSC Vacancy 2026 - 1871 Sub-Inspector in Delhi Police and CAPFs PostsSSC Vacancy 2026",
+        "title": "Sub-Inspector in Delhi Police and CAPFs",
+        "qualification": "Bachelor's degree in Science with Physics, Chemistry and Mathematics from a recognised university or equivalent; OR Matriculation plus a 3-year diploma in Mechanical/Civil/Electrical/Automobile/Chemical/Mining/Aeronautical/Telecommunication Engineering or equivalent. A higher qualification (B.Tech/M.Tech) in relevant fields is treated as value addition, subject to the basic diploma being held.",
+        "last_date": "30-09-2026",
+        "total_posts": "Not Available",
+        "salary": "Level-6 (₹35,400 – ₹1,12,400)",
+        "age_limit": "Age is reckoned as on the crucial date, 01.08.2026. || All posts except SI (Fire) in CISF:20–25 years (born not earlier than 02.08.2001 and not later than 01.08.2006). || SI (Fire) in CISF:18–30 years (born not earlier than 02.08.1996 and not later than 01.08.2008). || Departmental candidates among Constables, Head Constables and Assistant Sub-Inspectors of Delhi Police with a minimum of three years' service, not exceeding 30 years (33 for OBC, 35 for SC/ST) of age, may also apply for Open Vacancies of SI (Executive), Delhi Police-Male. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Fee payable: ₹100 (Rupees One Hundred only). || Women candidates and candidates belonging to SC, ST and Ex-Servicemen (eligible for reservation) are exempted from fee payment. || Fee can be paid only through online modes: BHIM UPI, Net Banking, Visa, MasterCard, Maestro, or RuPay Debit card. || Fee payment closes 01.10.2026 (23:00 hrs); no other mode of payment is permitted. || Fee once paid is non-refundable and non-adjustable against any other examination. || Application Form Correction Window (08.10.2026 to 10.10.2026) charges: ₹200 for the first correction, ₹500 for the second correction - applicable to all candidates regardless of gender/category.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ssc.gov.in",
+        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_capf_2026.pdf"
+    },
+    {
+        "date": "10/09/2026",
+        "board": "IIM Amritsar Vacancy 2026 - 2 Research Assistant PostsIIM Amritsar Research Assistant Vacancy 2026",
+        "title": "Research Assistant",
+        "qualification": "Bachelor's Degree with excellent academic record in Management, Economics, Statistics, Psychology, Sociology, Public Policy, Commerce, Engineering, Data Analytics or related disciplines.",
+        "last_date": "23-09-2026",
+        "total_posts": "2",
+        "salary": "₹25,000/- per month, ₹18,000/- per month",
+        "age_limit": "Not exceeding 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iimamritsar.ac.in",
+        "official_notification": "https://iimamritsar.ac.in/storage/files/1788960262-0-7771.pdf"
+    },
+    {
         "date": "09/09/2026",
         "board": "PGIMER Vacancy 2026 - 243 Nursing Officer PostsPGIMER Nursing Officer Vacancy 2026",
         "title": "Nursing Officer",
@@ -45,7 +77,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB Paramedical Syllabus 2026",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "pgimer-nursing-officer-recruitment-2026-apply-online-for-243-posts-3067054"
+        "official_notification": "ssc-cpo-si-capf-recruitment-2026-3067208"
     },
     {
         "date": "09/09/2026",
@@ -352,22 +384,6 @@
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec01512fc3c5227f637e41437c999a2d/uploads/2026/08/2026083116.pdf"
     },
     {
-        "date": "13/03/2026",
-        "board": "SSSB Punjab Vacancy 2026 - Junior Engineer PostsSSSB Punjab Junior Engineer Vacancy 2026",
-        "title": "Junior Engineer (Civil), Junior Engineer (Mechanical), Junior Engineer (Electrical)",
-        "qualification": "Should possess 3 years Diploma in Mechanical Engineering or its equivalent from a recognized university or institution; OR who possess higher qualification in same discipline from a recognized university or institution",
-        "last_date": "09-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Level-6, Rs. 35,400/- per month",
-        "age_limit": "Note: State & Central Government employees must produce NOC (No Objection Certificate) from their department at the time of counselling to avail age relaxation.​",
-        "application_fee": "General: Rs. 1500/- | SC/BC (Punjab): Rs. 750/- | ESM/EWS/PWD/LDESM (Punjab): Rs. 500/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://sssb.punjab.gov.in",
-        "official_notification": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/%E0%A8%B8%E0%A9%8B%E0%A8%A7-%E0%A8%AA%E0%A9%B1%E0%A8%A4%E0%A8%B0-1.pdf"
-    },
-    {
         "date": "01/09/2026",
         "board": "IIM Amritsar Vacancy 2026 - 1 Research Associate PostsIIM Amritsar Research Associate Vacancy 2026",
         "title": "Research Associate",
@@ -541,7 +557,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "pgimer-nursing-officer-recruitment-2026-apply-online-for-243-posts-3067054"
+        "official_notification": "ssc-cpo-si-capf-recruitment-2026-3067208"
     },
     {
         "date": "14/08/2026",

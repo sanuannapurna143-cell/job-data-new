@@ -1,5 +1,21 @@
 [
     {
+        "date": "10/09/2026",
+        "board": "BOI",
+        "title": "Officers in various Specialist streams (48 posts, Scale I to IV)",
+        "qualification": "B.E./B.Tech in Computer Science / Information Technology / Electronics & Communication OR MCA (3 years Full-time) OR M.Sc. in Computer Science / Information Technology. Mandatory (At least One): OCP Java SE Programmer-11 & above / equivalent React JS certification, Meta Front-End Developer Professional Certificate / equivalent Node JS certification, MERN Stack certification, or Certified Professional Python Programmer. Desirable: AWS Machine Learning Specialty / Azure AI Engineer (AI-102), TensorFlow Developer Certificate, Gen AI/Prompt Engineering certification, NLP/LangChain experience, CKA, or DevSecOps Foundation (DSOF).",
+        "last_date": "25-09-2026",
+        "total_posts": "205",
+        "salary": "Basic pay is supplemented by other allowances and perquisites as applicable under Bank policy.",
+        "age_limit": "Minimum and maximum age are calculated as on 01.08.2026 and vary by post - from 21-30 years for Scale I Officer posts up to 28-42 years for Scale IV Chief Manager posts. Upper age relaxation is available as follows: SC/ST – 5 years; OBC (non-creamy layer) – 3 years; PwBD – 10 years; Ex-Servicemen/ECOs/SSCOs – 5 years; persons affected by 1984 riots – 5 years. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Fee is payable online only, from 10.09.2026 to 25.09.2026, via Debit/Credit Card, Internet Banking, UPI, or QR code. Bank transaction charges are borne by the candidate.",
+        "selection_process": "Online Examination: English Language (25 marks, qualifying only) + Professional Knowledge relevant to the post (100 marks), composite duration 100 minutes || Minimum qualifying marks: 35% for General/EWS (30% for SC/ST/OBC/PWD) || Personal Interview: Maximum 100 marks; qualifying 50% for General/EWS, 45% for SC/ST/OBC/PWD; candidates called at approximately 1:3 ratio to vacancies || Final weightage: Online Examination and Interview combined at 60:40 || Bank may, at its discretion, select solely through Interview without an online exam",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bankofindia.bank.in",
+        "official_notification": "https://bankofindia.bank.in/documents/20121/28761619/FINAL_NOTICE_SPECIALIST_OFFICER-01082026.pdf"
+    },
+    {
         "date": "09/09/2026",
         "board": "Nainital Bank",
         "title": "HR Advisor",
@@ -253,7 +269,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://pucb.bank.in/",
-        "official_notification": "pgimer-nursing-officer-recruitment-2026-apply-online-for-243-posts-3067054"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/09/2026",
@@ -286,22 +302,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.acab.bank.in",
         "official_notification": "https://www.acab.bank.in/Cooperative%20%20Intern%20Notification%20and%20application%20format_25-08-2026.pdf"
-    },
-    {
-        "date": "31/08/2026",
-        "board": "BOI",
-        "title": "Officers in various Specialist streams (48 posts, Scale I to IV)",
-        "qualification": "B.E./B.Tech in Computer Science / Information Technology / Electronics & Communication OR MCA (3 years Full-time) OR M.Sc. in Computer Science / Information Technology. Mandatory (At least One): OCP Java SE Programmer-11 & above / equivalent React JS certification, Meta Front-End Developer Professional Certificate / equivalent Node JS certification, MERN Stack certification, or Certified Professional Python Programmer. Desirable: AWS Machine Learning Specialty / Azure AI Engineer (AI-102), TensorFlow Developer Certificate, Gen AI/Prompt Engineering certification, NLP/LangChain experience, CKA, or DevSecOps Foundation (DSOF).",
-        "last_date": "25-09-2026",
-        "total_posts": "205",
-        "salary": "Basic pay is supplemented by other allowances and perquisites as applicable under Bank policy.",
-        "age_limit": "Minimum and maximum age are calculated as on 01.08.2026 and vary by post - from 21-30 years for Scale I Officer posts up to 28-42 years for Scale IV Chief Manager posts. Upper age relaxation is available as follows: SC/ST – 5 years; OBC (non-creamy layer) – 3 years; PwBD – 10 years; Ex-Servicemen/ECOs/SSCOs – 5 years; persons affected by 1984 riots – 5 years. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Fee is payable online only, from 10.09.2026 to 25.09.2026, via Debit/Credit Card, Internet Banking, UPI, or QR code. Bank transaction charges are borne by the candidate.",
-        "selection_process": "Online Examination: English Language (25 marks, qualifying only) + Professional Knowledge relevant to the post (100 marks), composite duration 100 minutes || Minimum qualifying marks: 35% for General/EWS (30% for SC/ST/OBC/PWD) || Personal Interview: Maximum 100 marks; qualifying 50% for General/EWS, 45% for SC/ST/OBC/PWD; candidates called at approximately 1:3 ratio to vacancies || Final weightage: Online Examination and Interview combined at 60:40 || Bank may, at its discretion, select solely through Interview without an online exam",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.bankofindia.bank.in",
-        "official_notification": "https://bankofindia.bank.in/documents/20121/28761619/FINAL_NOTICE_SPECIALIST_OFFICER-01082026.pdf"
     },
     {
         "date": "29/08/2026",
@@ -381,7 +381,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "pgimer-nursing-officer-recruitment-2026-apply-online-for-243-posts-3067054"
+        "official_notification": "Not Available"
     },
     {
         "date": "21/08/2026",
