@@ -1,5 +1,37 @@
 [
     {
+        "date": "11/09/2026",
+        "board": "DRDO ASL",
+        "title": "Junior Research Fellow (JRF) and Research Associate (RA)",
+        "qualification": "First Class B.E/B.Tech with valid GATE Score, ME/M.Tech with first division, Ph.D in Electronics",
+        "last_date": "03-10-2026",
+        "total_posts": "17",
+        "salary": "JRF Posts: Rs. 37,000/- Per Month || RA Post: Rs. 67,000/- Per Month",
+        "age_limit": "Maximum Age Limit: 35 years || Age Relaxation: SC/ST up to 5 years, OBC up to 3 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/09/120360-6aa390da4cfc634361930.pdf"
+    },
+    {
+        "date": "11/09/2026",
+        "board": "Sainik School Korukonda",
+        "title": "Trained Graduate Teacher (TGT) Mathematics",
+        "qualification": "Any Bachelors Degree, Any Post Graduate, B.Ed, M.Ed",
+        "last_date": "02-10-2026",
+        "total_posts": "1",
+        "salary": "Rs. 44900 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sainikschoolkorukonda.org",
+        "official_notification": "https://img2.freejobalert.com/news/2026/09/145792-6aa3e7815f02367501092.pdf"
+    },
+    {
         "date": "10/09/2026",
         "board": "SSC",
         "title": "Sub-Inspector in Delhi Police and CAPFs     – 1871 Posts",
@@ -237,6 +269,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "optcl-apprentice-recruitment-2026-apply-online-for-100-diploma-graduate-iti-apprentice-posts-3067414"
+        "official_notification": "Not Available"
     }
 ]

@@ -1,6 +1,38 @@
 [
     {
         "date": "11/09/2026",
+        "board": "ICAR CRRI Vacancy 2026 - 1 Project Assistant PostsICAR CRRI Project Assistant Vacancy 2026",
+        "title": "Project Assistant (PA)",
+        "qualification": "B.Sc. (Hons.) in Agriculture, B.Sc. (Hons.) in Botany / Microbiology / Environmental Science / Biotechnology / Geography / GIS and Remote Sensing / Geoinformatics / Chemistry",
+        "last_date": "17-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20,000/- p.m. + HRA",
+        "age_limit": "Maximum Age Limit: 50 years || Age relaxation for SC, ST and OBC candidates as per Govt. of India norms. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://icar-crri.in/",
+        "official_notification": "https://icar-crri.in/wp-content/uploads/2026/09/EAP-471.pdf"
+    },
+    {
+        "date": "11/09/2026",
+        "board": "ICAR CRRI Vacancy 2026 - 1 Young Professional-I PostsICAR CRRI Young Professional-I Vacancy 2026",
+        "title": "Young Professional-I",
+        "qualification": "B.Sc. (Hons.) in Agriculture (Soil Science / Agronomy / Agricultural Microbiology) OR B.Sc. (Hons.) in Botany / Microbiology / Environmental Science / Biotechnology / Chemistry",
+        "last_date": "15-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 30,000/- p.m. (consolidated)",
+        "age_limit": "Min: 21 years and max: 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://icar-crri.in",
+        "official_notification": "https://icar-crri.in/wp-content/uploads/2026/09/EAP-469.pdf"
+    },
+    {
+        "date": "11/09/2026",
         "board": "OPTCL Vacancy 2026 - 100 Apprentice PostsOPTCL Apprentice Vacancy 2026",
         "title": "Degree Engineering Apprentice, Degree Non-Engineering Apprentice, Diploma Technician Apprentice, ITI Trade Apprentice",
         "qualification": "The prescribed qualification must be from a recognised Board/Council/University/Institute, completed as a regular full-time course. As noted in the notification, for Non-Engineering Apprentices, graduation in non-engineering disciplines such as BA, B.Sc, B.Com, or BBA, or equivalent, shall be preferred.",

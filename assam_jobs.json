@@ -1,6 +1,38 @@
 [
     {
         "date": "11/09/2026",
+        "board": "National Test House Vacancy 2026 - 36 Young Professional PostsNational Test House Young Professional Vacancy 2026",
+        "title": "Young Professionals",
+        "qualification": "Graduates/Post graduates",
+        "last_date": "26-09-2026",
+        "total_posts": "36",
+        "salary": "Rs. 70,000/-, Rs. 40,000/-",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nth.gov.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/09/124589-6aa3da92e610017775717.pdf"
+    },
+    {
+        "date": "11/09/2026",
+        "board": "IIT Guwahati Vacancy 2026 - 2 Assistant Project Engineer PostsIIT Guwahati Assistant Project Engineer Vacancy 2026",
+        "title": "Assistant Project Engineer",
+        "qualification": "Bachelor's degree in chemical engineering or mechanical engineering",
+        "last_date": "16-09-2026",
+        "total_posts": "2",
+        "salary": "Rs. 28500",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitg.ac.in/",
+        "official_notification": "https://www.iitg.ac.in/pdf/92475c8a37261949e682869d7c217ec9.pdf"
+    },
+    {
+        "date": "11/09/2026",
         "board": "Oil India Vacancy 2026 - 3 Deputy Chief Engineer, Economist and More PostsOil India Vacancy 2026",
         "title": "Deputy Chief Chemist / Deputy Chief Engineer (Reservoir) / Economist",
         "qualification": "Postgraduate Degree in Chemistry, Bachelor's/ Master's Degree in Petroleum Engineering or Business Economics",
@@ -605,7 +637,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "optcl-apprentice-recruitment-2026-apply-online-for-100-diploma-graduate-iti-apprentice-posts-3067414"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/08/2026",

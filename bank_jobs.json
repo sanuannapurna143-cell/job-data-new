@@ -1,6 +1,38 @@
 [
     {
         "date": "11/09/2026",
+        "board": "UPCBL",
+        "title": "Cooperative Intern",
+        "qualification": "MBA or equivalent in Marketing Management/ Cooperative Management",
+        "last_date": "24-09-2026",
+        "total_posts": "5",
+        "salary": "Rs. 25000 Per Month",
+        "age_limit": "Min: 21 years, Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.upcbl.in",
+        "official_notification": "https://www.upcbl.in/pdf/co-operative_080926.pdf"
+    },
+    {
+        "date": "11/09/2026",
+        "board": "J&K Bank",
+        "title": "Zonal Security Officer, FL Counsellor",
+        "qualification": "Graduate in any discipline, Graduate from recognized institute with 1 year banking experience",
+        "last_date": "25-09-2026",
+        "total_posts": "8",
+        "salary": "Zonal Security Officer: Rs. 45,000/- Per Month. || FL Counsellor: Rs. 22,000/- Per Month.",
+        "age_limit": "Maximum Age Limit: 62 years as on 01-01-2026.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Screening of applications || Interview/Interaction",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.jkb.bank.in",
+        "official_notification": "https://jkb.bank.in/sites/default/files/2026-09/Detailed%20Notification_10092026.pdf"
+    },
+    {
+        "date": "11/09/2026",
         "board": "SIDBI",
         "title": "Project Manager/ Project Coordinator",
         "qualification": "Graduate degree in Engineering/Technology/Management/Economics/Finance/Environmental Science/Sustainability/Climate Change, Post-Graduate degree desirable, Relevant experience in climate finance/sustainable development",
@@ -397,6 +429,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "blw-sports-quota-recruitment-2026-apply-online-for-25-posts-3067470"
     }
 ]
