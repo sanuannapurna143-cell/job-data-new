@@ -1,5 +1,21 @@
 [
     {
+        "date": "11/09/2026",
+        "board": "NCRTC Vacancy 2026 - 90 Supervisor-I and Junior Maintainer PostsNCRTC Vacancy 2026",
+        "title": "Post Name",
+        "qualification": "3 Years Diploma in Computer Science/IT or BCA/B.Sc. (IT) or B.E./B.Tech (CS/IT/Electronics) or MCA or equivalent (Full Time)",
+        "last_date": "09-10-2026",
+        "total_posts": "No. 33/2026 (Supervisors & Non-Supervisors, Contract basis) and No. 32/2026 (Operations & Maintenance Staff, Direct Recruitment basis)",
+        "salary": "In addition to Basic Pay, selected candidates will receive Variable Dearness Allowance (VDA), House Rent Allowance (HRA), and Perks and Allowances under the Cafeteria Approach, plus other benefits as per extant Company Rules.",
+        "age_limit": "The maximum age limit for all posts under both notices is 28 years , as on 10.09.2026. || Cumulative relaxation for candidates falling under more than one category is admissible. However, the maximum upper age of any candidate shall not exceed 50 years, including all possible age relaxations. Ex-servicemen relaxation is also capped at a maximum age of 50 years. NCRTC employees who have completed one year of service as on the date of the notice get age relaxation to the extent of completed years of service, plus relaxation in the Full-Time qualification requirement. || Candidates from SC/ST/OBC/EWS/PwBD categories who apply against unreserved posts will not get the benefit of age relaxation or relaxed qualifying marks at any stage of the process. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
+        "application_fee": "UR, OBC (NCL), EWS and Ex-Servicemen category candidates: ₹500 (non-refundable), exclusive of transaction processing charges and GST. || SC, ST and PwBD category candidates: No fee. || Fee once paid, including transaction charges and GST, is non-refundable under any circumstances. || Candidates applying for more than one post must pay the application fee separately for each post. || Payment modes: Credit Card, Debit Card, or Net Banking.",
+        "selection_process": "Selection under both notices follows a Computer Based Test (CBT) followed by a Medical Fitness Test. || The CBT will have 100 questions for 100 marks; each correct answer carries 1 mark, and there is no negative marking for wrong answers. || Duration of the CBT is 90 minutes, available in Hindi or English (candidate's choice). || Minimum qualifying percentage: 60% for UR/OBC (NCL)/EWS; 50% for SC/ST/PwBD/Ex-Servicemen. Final selection is on merit basis beyond the qualifying marks. || Candidates give a preference of 5 cities for their Test Centre; no change is permitted later. Test Centre options include Delhi-NCR, Lucknow, Ahmedabad, Bhopal, Mumbai, Kolkata, Bhubaneswar, Hyderabad, Bengaluru, Chennai, Kanpur, Agra, Vadodara, Indore, Thane, Pune, Guwahati, Raipur (Chhattisgarh), Cuttack, Harohalli, Jaipur, and Patiala. || Candidates applying for multiple posts should note that CBTs for different posts may clash in date/time - a candidate can appear in the CBT for one post only in such cases.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ncrtc.in",
+        "official_notification": "https://ncrtc.in/wp-content/uploads/2026/09/322026VacancyNoticeforOnM.pdf"
+    },
+    {
         "date": "09/09/2026",
         "board": "PGIMER Vacancy 2026 - 243 Nursing Officer PostsPGIMER Nursing Officer Vacancy 2026",
         "title": "Nursing Officer",
@@ -305,22 +321,6 @@
     },
     {
         "date": "01/09/2026",
-        "board": "Gurugram University Vacancy 2026 - 1 Research Assistant PostsGurugram University Research Assistant Vacancy 2026",
-        "title": "Research Assistant",
-        "qualification": "First class M. Pharm. (Pharmaceutical Chemistry); Minimum 60% marks or equivalent CGPA",
-        "last_date": "10-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 37000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.gurugramuniversity.ac.in",
-        "official_notification": "https://gurugramuniversity.ac.in/Notice/Advertisement%20for%20Research%20Assistant%20(1).pdf"
-    },
-    {
-        "date": "01/09/2026",
         "board": "RITES Vacancy 2026 - 3 General Manager, Joint General Manager and More PostsRITES Vacancy 2026",
         "title": "GM (Team Leader / Metro works), JGM (Geotechnical Expert / Metro works), DGM (Architect / Metro works)",
         "qualification": "Bachelor's Degree, Master's Degree in Civil Engineering, Geotechnical Engineering, Bachelor's Degree in Architecture",
@@ -417,22 +417,6 @@
     },
     {
         "date": "26/08/2026",
-        "board": "NBRC Vacancy 2026 - 1 Project Technical Support I PostsNBRC Project Technical Support I Vacancy 2026",
-        "title": "Project Technical Support I",
-        "qualification": "Bachelor/ Diploma",
-        "last_date": "10-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 18,000/ - pm + HRA (as per applicable)",
-        "age_limit": "Maximum Age Limit: 35 years || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "₹200",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nbrc.ac.in/",
-        "official_notification": "https://www.nbrc.ac.in/newweb/wp-content/uploads/2026/08/Dr-Khushbu-lab-Re-Advertisement-Project-Technical-Support.pdf"
-    },
-    {
-        "date": "26/08/2026",
         "board": "RITES Vacancy 2026 - 1 AM-Programmer PostsRITES AM-Programmer Vacancy 2026",
         "title": "AM-Programmer",
         "qualification": "Full time Diploma/B.E./B.Tech in Computer Science, IT, EC&E or equivalent branch of engineering or Post Graduate Degree in Computer Application",
@@ -449,22 +433,6 @@
     },
     {
         "date": "25/08/2026",
-        "board": "BRIC NBRC Vacancy 2026 - 1 Project Technical Support-I PostsBRIC NBRC Project Technical Support-I Vacancy 2026",
-        "title": "Project Technical Support-I",
-        "qualification": "Bachelor/Diploma preferred, Experience in medical record keeping and filing of research files and documentation and office related work, Knowledge of basic data handling, sample collection etc.",
-        "last_date": "10-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 18,000/- pm + HRA",
-        "age_limit": "Max: 35 years",
-        "application_fee": "200",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nbrc.ac.in/",
-        "official_notification": "https://www.nbrc.ac.in/newweb/wp-content/uploads/2026/08/Dr-Khushbu-lab-Re-Advertisement-Project-Technical-Support.pdf"
-    },
-    {
-        "date": "25/08/2026",
         "board": "RITES Vacancy 2026 - 8 Engineer PostsRITES Engineer Vacancy 2026",
         "title": "Engineer-UT Testing",
         "qualification": "Candidates applying for the post of Engineer (VC No. CL/08/26) must possess any one of the following: || Full-time Diploma in Mechanical/Metallurgical branch of Engineering with UT Level-2 Certificate (ASNT/ISNT),or || Full-time Degree in Mechanical/Metallurgical branch of Engineering with UT Level-2 Certificate (ASNT/ISNT) || The Diploma/Degree must be from an institution recognised by BTE/AICTE, or from a university incorporated by an Act of Central or State legislature in India, or from an institution established/deemed under the University Grants Commission Act, 1956. Sections A & B examinations of the Institution of Engineers (India), treated as equivalent to a Degree and recognised by AICTE, are also accepted. || Candidates from UR/EWS category (and SC/ST/OBC(NCL)/PWD candidates applying against unreserved posts) must have a first-class degree or a minimum of 60% marks. Reserved category candidates applying against reserved posts must have at least 50% marks. Where the certificate or marksheet does not show a class/division or percentage, candidates must submit the CGPA/DGPA conversion formula issued by their university; where no such formula exists, an authorised undertaking is required, with a minimum of 6 on a 10-point scale considered equivalent to 60%.",
@@ -478,22 +446,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rites.com",
         "official_notification": "https://www.rites.com/Upload/Career/Advertisement_for_CL_08_26_pdf-2026-Aug-24-16-15-2.pdf"
-    },
-    {
-        "date": "21/08/2026",
-        "board": "POWERGRID Vacancy 2026 - 270 Apprentices PostsPOWERGRID Apprentices Vacancy 2026",
-        "title": "Apprentice (ITI-Electrician, Diploma Electrical, Diploma Civil, Graduate Electrical, Graduate Civil)",
-        "qualification": "B.E./B.Tech/B.Sc. (Engg.) in Civil Engineering (full-time, 4-year course) - not notified in SR-I",
-        "last_date": "10-09-2026",
-        "total_posts": "270 (computed by summing region-wise totals; see Vacancy section)",
-        "salary": "The monthly stipend structure is uniform across all 10 regions, subject to satisfactory performance and attendance. || An additional ₹2,500 per month is payable if company accommodation is not provided or availed || The DBT portion is provided by the Government of India under the NATS scheme, subject to an active Aadhaar-seeded, DBT-enabled bank account || Apprentices are entitled to 12 days of Casual Leave (pro-rata) and 15 days of Medical Leave for the one-year duration, across all regions",
-        "age_limit": "Minimum age: Candidates must have completed 18 years of age at the time of application, across all regions || Applicants must be Indian citizens and at least 18 years old at the time of application || No maximum age limit or age relaxation details are specified in any of the 10 regional notifications || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Nil",
-        "selection_process": "Applications are screened in merit order based on eligibility criteria and the qualification prescribed for each trade, region-wise || Incomplete or ineligible applications are summarily rejected without intimation || Reservation for SC/ST/OBC(NCL)/PwBD is applied as per the Apprentices Act, 1961 || Candidates are called for document verification in a ratio of 1:5 against the notified training slots, in merit order || Shortlisted candidates are informed through their registered email; no TA/DA is paid for attending document verification || A final merit list is prepared from candidates found suitable after document verification || Selected candidates must accept a tripartite apprenticeship contract on the NATS/NAPS portal and submit a medical certificate and police verification before engagement || For PwBD candidates in Western Region-II, reservation/relaxation is subject to submission of a medical certificate for permanent disability, and only candidates with not less than 40% of the relevant disability are eligible for the PwBD benefit",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.powergrid.in/",
-        "official_notification": "https://www.powergrid.in/en/rolling-advertisement-for-enagagement-of-apprentices"
     },
     {
         "date": "24/08/2026",
@@ -557,23 +509,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
-    },
-    {
-        "date": "10/08/2026",
-        "board": "THSTI Vacancy 2026 - 4 Project Associate I, Senior Project Associate PostsTHSTI Vacancy 2026",
-        "title": "Project Associate I, Senior Project Associate",
-        "qualification": "B.E./ B.Tech./ M.Sc./ M.Tech/ B.Pharm in Life Sciences, Master's/Ph.D. in Mathematics/Physics, B.E./ B.Tech/ M.Sc./ M.Tech in Mathematics",
-        "last_date": "10-09-2026",
-        "total_posts": "4",
-        "salary": "Rs. 30,000/- + HRA to Rs. 42,000/- plus HRA",
-        "age_limit": "Maximum age limit is 35 years for Project Associate-I (Post 1 & 2). || Maximum age limit is 40 years for Senior Project Associate (Post 3). || Maximum age limit is 35 years for Project Associate-I (Post 4). || Age Relaxation: SC/ST: 5 years, OBC: 3 years, PwBD: 10-15 years, Central Govt servants: 5 years, Institute employees: service rendered, Ex-servicemen: service + 3 years. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Not Available",
-        "selection_process": "Written Test || Skill Test || Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://thsti.res.in/",
-        "official_notification": "https://recruitment.thsti.in/public/upload/job_pdf/178609307555web-advt-RN-01-08-I-walkin.pdf"
+        "official_notification": "optcl-apprentice-recruitment-2026-apply-online-for-100-diploma-graduate-iti-apprentice-posts-3067414"
     },
     {
         "date": "23/07/2026",

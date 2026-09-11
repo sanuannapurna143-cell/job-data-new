@@ -1,5 +1,37 @@
 [
     {
+        "date": "11/09/2026",
+        "board": "SIDBI",
+        "title": "Project Manager/ Project Coordinator",
+        "qualification": "Graduate degree in Engineering/Technology/Management/Economics/Finance/Environmental Science/Sustainability/Climate Change, Post-Graduate degree desirable, Relevant experience in climate finance/sustainable development",
+        "last_date": "01-10-2026",
+        "total_posts": "2",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age Limit: 50 years for all posts. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "Not Available",
+        "selection_process": "Personal Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sidbi.in",
+        "official_notification": "https://www.sidbi.in/head/uploads/career_document/TOR_Hiring_10_09_2026.pdf"
+    },
+    {
+        "date": "11/09/2026",
+        "board": "SNS Bank Vijayapura",
+        "title": "Post Name",
+        "qualification": "SSLC (10th standard) pass with a minimum aggregate of 50% marks. || Must have studied Kannada as one language. || Note: The notification specifically requires these qualifications; candidates not meeting the exact percentage and language conditions are not eligible, even if they hold an equivalent qualification.",
+        "last_date": "28-09-2026",
+        "total_posts": "18",
+        "salary": "44425-1125-47800-1250-52800-1375-58300-1500-64300-1650-74200-1900-83700",
+        "age_limit": "The SNS Bank Vijayapura age limit is calculated as on the last date fixed for submission of the online application. The minimum age is 18 years for both posts. The maximum age limit, as per Karnataka Government rules, is given below. || As per Karnataka Government Order No. ಸಿಆಸುಇ262ಸೇನೇ2025, Bangalore, dated 29-01-2026, an additional age relaxation of 5 years is applicable over the maximum age limit shown above. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "Selection for the Junior Assistant post is through a written examination followed by an interview. || A merit list is prepared based on marks scored in the written examination, and candidates are called for interview in a ratio of 1:5. || Marks fixed for the interview: 15. || The written examination marks are converted to 85% weightage and added to the interview marks to prepare the final merit list, from which selection is made as per rules. || The written examination for Junior Assistant carries 100 marks each in two question papers (200 marks total):",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://snsbankvijayapur.com/",
+        "official_notification": "https://snsbankvijayapur.com/public/assets/adisuchane.pdf"
+    },
+    {
         "date": "10/09/2026",
         "board": "Sindhudurg DCC Bank",
         "title": "Clerk",
@@ -304,22 +336,6 @@
         "official_notification": "https://punjabandsind.bank.in/system/uploads/recruitment/7932_2026083121042842330.pdf"
     },
     {
-        "date": "31/08/2026",
-        "board": "ACAB",
-        "title": "Cooperative Intern / Specialist",
-        "qualification": "MBA or PGDM in Marketing/Cooperative/Agri Business/Rural Development Management, Bachelor's degree or PG Diploma in Agriculture/Cooperation, Graduate in Rural Development/Social Work/Sociology or Graduate with Diploma in Rural Development/Social Work",
-        "last_date": "10-09-2026",
-        "total_posts": "2",
-        "salary": "Cooperative Intern: Rs. 25,000/- || Specialist (Social Mobilisation): Rs. 35,000/-",
-        "age_limit": "Not Available",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Personal Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.acab.bank.in",
-        "official_notification": "https://www.acab.bank.in/Cooperative%20%20Intern%20Notification%20and%20application%20format_25-08-2026.pdf"
-    },
-    {
         "date": "29/08/2026",
         "board": "RBI",
         "title": "Bank's Medical Consultant",
@@ -353,22 +369,6 @@
     },
     {
         "date": "29/08/2026",
-        "board": "Central Bank of India",
-        "title": "Officer (Contractual)",
-        "qualification": "Graduation degree from a recognized University, Computer Knowledge / Literacy",
-        "last_date": "10-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 40000 - 41500 Per Month",
-        "age_limit": "Min: 60 years, Max: 65 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://centralbank.bank.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/08/147489-6a92766c5ecc724048916.pdf"
-    },
-    {
-        "date": "29/08/2026",
         "board": "IOB",
         "title": "Generalist / Specialist Officers (14 posts)",
         "qualification": "Minimum 5 years post-qualification experience in Network Operations, including Cisco FTD and Checkpoint firewall security; mandatory CCNA (Routing & Switching/Security) or Checkpoint CCSE certification",
@@ -398,21 +398,5 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "Not Available"
-    },
-    {
-        "date": "21/08/2026",
-        "board": "RBI",
-        "title": "Bank's Medical Consultant (BMC)",
-        "qualification": "MBBS degree of any university recognized by the Medical Council of India",
-        "last_date": "10-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 1000 Per Hour",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.rbi.org.in",
-        "official_notification": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5144"
     }
 ]
