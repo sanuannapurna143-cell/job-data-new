@@ -1,5 +1,37 @@
 [
     {
+        "date": "12/09/2026",
+        "board": "MRSPTU Vacancy 2026 - 1 Assistant Professor PostsMRSPTU Assistant Professor Vacancy 2026",
+        "title": "Assistant Professor (Guest Faculty)",
+        "qualification": "Ph.D. / M.Tech or any other equivalent specializations",
+        "last_date": "15-09-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mrsptu.ac.in",
+        "official_notification": "https://mrsptu.ac.in/uploads2026/jobs/Walk_in_Interview_SASE_08092026.pdf"
+    },
+    {
+        "date": "12/09/2026",
+        "board": "PAU Vacancy 2026 - 1 Junior Research Fellow PostsPAU Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow",
+        "qualification": "B.E./ B.Tech./ B.Sc",
+        "last_date": "22-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Rs. 200",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.pau.edu",
+        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7566"
+    },
+    {
         "date": "13/03/2026",
         "board": "SSSB Punjab Vacancy 2026 - Junior Engineer PostsSSSB Punjab Junior Engineer Vacancy 2026",
         "title": "Junior Engineer (Civil), Junior Engineer (Mechanical), Junior Engineer (Electrical)",
@@ -125,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB Paramedical Syllabus 2026",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "ladakh-police-constable-recruitment-2026-apply-online-for-331-posts-3067554"
+        "official_notification": "mysore-city-corporation-ugd-helper-recruitment-2026-apply-offline-for-116-posts-3067616"
     },
     {
         "date": "09/09/2026",
@@ -493,7 +525,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ladakh-police-constable-recruitment-2026-apply-online-for-331-posts-3067554"
+        "official_notification": "Not Available"
     },
     {
         "date": "14/08/2026",

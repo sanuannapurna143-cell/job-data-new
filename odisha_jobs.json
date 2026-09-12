@@ -1,19 +1,67 @@
 [
     {
         "date": "12/09/2026",
+        "board": "ICAR CRRI Vacancy 2026 - 4 Young Professional I, Field Assistant PostsICAR CRRI Vacancy 2026",
+        "title": "Young Professional I, Field Assistant",
+        "qualification": "B.Sc. in Agriculture/ Botany/ Biotechnology; Matriculation with +2 Vocational or Diploma in Agricultural or Matric with 2 years experience for FA.",
+        "last_date": "16-09-2026",
+        "total_posts": "4",
+        "salary": "Rs. 30,000/ - p.m. (consolidated) for YP-I; Rs. 18,000/ - p.m. (consolidated) for FA",
+        "age_limit": "Young Professional I (YP-I):Minimum Age: 21 years, Maximum Age: 45 years. || Field Assistant (FA):Minimum Age: 18 years, Maximum Age: 50 years. || Age relaxation will be as per government rules. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "Written-cum-personal interview || Screening test (if large number of candidates appear)",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://icar-crri.in/",
+        "official_notification": "https://icar-crri.in/wp-content/uploads/2026/09/EAP-473.pdf"
+    },
+    {
+        "date": "12/09/2026",
+        "board": "ICAR IISWC Vacancy 2026 - 2 Senior Research Fellow, Young Professional II PostsICAR IISWC Vacancy 2026",
+        "title": "Senior Research Fellow (SRF) and Young Professional-II (YP-II)",
+        "qualification": "M.Sc, B.Sc",
+        "last_date": "06-10-2026",
+        "total_posts": "2",
+        "salary": "Rs.42,000/- per month (Consolidated)",
+        "age_limit": "Maximum 35 years for men and 40 years for women for Senior Research Fellow (SRF). || 21-45 years for Young Professional-II (YP-II), with relaxation for SC/ST/OBC as per rules. || Age relaxation for SC/ST/OBC/PwD as per rule; 5 years for SC/ST and 3 years for OBC for YP-II. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.cswcrtiweb.org",
+        "official_notification": "http://www.cswcrtiweb.org/Recruitment/INSTITUTE/2026/Sept/kpt_REWARD_SRF_YP_10_sept_2026.pdf"
+    },
+    {
+        "date": "12/09/2026",
+        "board": "ICAR CRRI Vacancy 2026 - 2 Young Professional I/ Field Operator PostsICAR CRRI Young Professional I/ Field Operator Vacancy 2026",
+        "title": "Young Professional-I (YP-I) / Field Operator (FO)",
+        "qualification": "B.Sc. (Hons.) in Agriculture / Botany / Biotechnology / Environmental Science / Microbiology / Molecular Biology, Matriculation with +2 Vocational/Diploma/Experience in Agricultural related subject",
+        "last_date": "16-09-2026",
+        "total_posts": "2",
+        "salary": "Young Professional-I (YP-I): ₹ 30,000/- p.m. (consolidated) || Field Operator (FO): ₹ 18,000/- p.m. (consolidated)",
+        "age_limit": "Young Professional-I (YP-I):Min. 21 years and max. 45 years with relaxation as per rule. || Field Operator (FO):Minimum 18 years and maximum 50 years. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date",
+        "application_fee": "Nil",
+        "selection_process": "Interview || Trade Test (for FO)",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://icar-crri.in/",
+        "official_notification": "https://icar-crri.in/wp-content/uploads/2026/09/EAP-486.pdf"
+    },
+    {
+        "date": "12/09/2026",
         "board": "CUO Vacancy 2026 - 2 Guest Faculty PostsCUO Guest Faculty Vacancy 2026",
         "title": "Guest Faculty",
-        "qualification": "B.Sc. Agriculture with at least 55% marks, Master's degree in relevant Agriculture subject with at least 55% marks, NET (CSIR/ICAR/UGC) or Ph.D. as per UGC Regulations",
+        "qualification": "2 Posts",
         "last_date": "18-09-2026",
-        "total_posts": "2",
-        "salary": "Rs. 1500 - 50000 Per Month",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
-        "official_website": "https://cuo.ac.in",
-        "official_notification": "https://cuo.ac.in/Recruitment/2026/Agriculture_Walk-In_GuestFaculty.pdf"
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
     },
     {
         "date": "12/09/2026",
@@ -205,7 +253,7 @@
         "apply_mode": "Online",
         "syllabus": "Syllabus RRB Paramedical Syllabus 2026",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "sainik-school-bijapur-recruitment-2026-apply-offline-for-17-pgt-tgt-nursing-assistant-and-more-posts-3067596"
     },
     {
         "date": "09/09/2026",
