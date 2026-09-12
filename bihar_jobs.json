@@ -368,22 +368,6 @@
         "official_notification": "https://iitp.ac.in/media/iitp-media/notices/1787806363327-Advertisement%20no%20622%20dated%2020.08.2026.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minioadmin%2F20260828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260828T093612Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=afbdfae0c48fbc8073c3b12492e7c7eb6aa8f47dfe18d8b435acf825cdf5d89f"
     },
     {
-        "date": "27/08/2026",
-        "board": "CUSB Vacancy 2026 - 1 CRS Project Fellow PostsCUSB CRS Project Fellow Vacancy 2026",
-        "title": "CRS Project Fellow (JUNIOR)",
-        "qualification": "M.Sc. in Physics with minimum 55% marks.",
-        "last_date": "11-09-2026",
-        "total_posts": "1",
-        "salary": "CRS Project Fellow -I:₹14,000 pm + HRA @ 10% || CRS Project Fellow -II:₹31,000 pm + HRA @ 10%",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Application review || Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.cusb.ac.in/",
-        "official_notification": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=1084:re-advertisement-for-the-post-of-crs-project-fellow-junior-i-crs-project-fellow-junior-ii-01-post-under-under-ugc-dae-csr-funded-project-cusb-rp-124&catid=48&Itemid=587"
-    },
-    {
         "date": "25/08/2026",
         "board": "BSFC Vacancy 2026 - 259 Accountant, Lower Grade Clerk and More PostsBSFC Vacancy 2026",
         "title": "Post Name",
@@ -398,22 +382,6 @@
         "syllabus": "Not Available",
         "official_website": "https://bceceboard.bihar.gov.in",
         "official_notification": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BSFC26_01.pdf"
-    },
-    {
-        "date": "25/08/2026",
-        "board": "CUSB Vacancy 2026 - 1 CRS Project Fellow PostsCUSB CRS Project Fellow Vacancy 2026",
-        "title": "CRS Project Fellow (Junior)",
-        "qualification": "M.Sc. Physics with minimum 55% marks (not earlier than 3 years)",
-        "last_date": "11-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 14000 - 31000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://cusb.ac.in",
-        "official_notification": "https://cusb.ac.in/index.php?option=com_content&view=article&id=1084:re-advertisement-for-the-post-of-crs-project-fellow-junior-i-crs-project-fellow-junior-ii-01-post-under-under-ugc-dae-csr-funded-project-cusb-rp-124&catid=48&Itemid=587"
     },
     {
         "date": "24/08/2026",
@@ -446,21 +414,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aiimspatna.edu.in",
         "official_notification": "https://api.aiimspatna.edu.in/advertisement/DeputationAdvertisementGroupB_C_Dated20082026.pdf"
-    },
-    {
-        "date": "13/08/2026",
-        "board": "DLSA Sheikhpura Vacancy 2026 - 100 Para Legal Volunteer PostsDLSA Sheikhpura Para Legal Volunteer Vacancy 2026",
-        "title": "Para Legal Volunteer",
-        "qualification": "Matric (10th) pass or equivalent.",
-        "last_date": "11-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Minimum age: 18 years. No maximum age limit is specified in this notice.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://sheikhpura.dcourts.gov.in/",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec045421e013565f7f1afa0cfe8ad87a/uploads/2026/08/20260811100.pdf"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "date": "12/09/2026",
+        "board": "NIT Warangal Vacancy 2026 - 1 Junior Research Fellow PostsNIT Warangal Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.Tech./ B.E. in Metallurgical & Materials Engineering, M.E./ M.Tech., M.Sc. in Physics/ Chemistry",
+        "last_date": "28-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37000 - 42000 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitw.ac.in",
+        "official_notification": "https://nitw.ac.in/api/static/files/JRF__Recruitment_2026-9-8-15-56-23.pdf"
+    },
+    {
         "date": "11/09/2026",
         "board": "DRDO ASL Vacancy 2026 - 17 Junior Research Fellow and Research Associate PostsDRDO ASL Vacancy 2026",
         "title": "Junior Research Fellow (JRF) and Research Associate (RA)",
@@ -14,22 +30,6 @@
         "syllabus": "Not Available",
         "official_website": "https://drdo.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/09/120360-6aa390da4cfc634361930.pdf"
-    },
-    {
-        "date": "11/09/2026",
-        "board": "YISU Vacancy 2026 - 1 Demonstrator Bio Laboratory PostsYISU Demonstrator Bio Laboratory Vacancy 2026",
-        "title": "Demonstrator Bio Laboratory",
-        "qualification": "Master's or Bachelor's Degree in Life Sciences / Pharmaceutical Sciences / Biotechnology / Microbiology /Biochemistry / Genetics / Biomedical Sciences or an allied discipline from a recognized University.",
-        "last_date": "11-09-2026",
-        "total_posts": "1",
-        "salary": "Salary as approved by the University, commensurate with qualifications and relevant experience.",
-        "age_limit": "Maximum Age Limit: 35 years. || Age relaxation may be considered by the University for candidates with relevant experience.",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://yisu.in",
-        "official_notification": "https://yisu.in/pdfs/demonstrator-bio-laboratory.pdf"
     },
     {
         "date": "11/09/2026",
@@ -158,22 +158,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iith.ac.in/",
         "official_notification": "https://www.iith.ac.in/assets/files/careers/staff/Advertizement_RA_Atanu.pdf"
-    },
-    {
-        "date": "09/09/2026",
-        "board": "YISU Vacancy 2026 - 1 Lab Assistant PostsYISU Lab Assistant Vacancy 2026",
-        "title": "Lab Assistant -Bio Laboratory",
-        "qualification": "As approved by the University, commensurate with qualifications and relevant experience",
-        "last_date": "11-09-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Preferably below 35 years. || Relaxation may be considered by the University for candidates with relevant experience. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://yisu.in/",
-        "official_notification": "https://yisu.in/pdfs/lab-assistant-bio-laboratory.pdf"
     },
     {
         "date": "09/09/2026",
@@ -608,22 +592,6 @@
         "official_notification": "https://www.iob.bank.in/documents/d/guest/Revised-FINAL-Web-Ad-Recruitment-Gen-Spl-2026-27"
     },
     {
-        "date": "28/08/2026",
-        "board": "CSC Vacancy 2026 - 05 Aadhaar Supervisor/ Operator PostsCSC Aadhaar Supervisor/ Operator Vacancy 2026",
-        "title": "Aadhaar Supervisor/Operator - District",
-        "qualification": "12th (Intermediate/Senior Secondary), OR || Matriculation + 2 Years ITI, OR || Matriculation + 3 Years Polytechnic Diploma || In addition, candidates must hold an Aadhaar Operator/Supervisor certificate issued by a testing and certifying agency authorized by UIDAI for delivering Aadhaar services, and should have basic computer skills.",
-        "last_date": "11-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Candidates must be a minimum of 18 years of age or above. The maximum age limit is not specified in the provided notification. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Based on the official notification, candidates are required to complete certification steps rather than a conventional multi-stage selection process: || Candidates can take the Aadhaar Supervisor exam through the official link provided by UIDAI. || When a candidate applies for the exam, an authorization request is sent to the State Team. Once the State Team approves the request, the candidate can appear for the Aadhaar Supervisor exam. || Candidates can take the Aadhaar LMS Certification once their LMS ID and password are created and approved. After approval, candidates can appear for the LMS Certification through the official e-learning portal. || Further selection stages, if any, are not specified in the provided notification.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://cscspv.in/",
-        "official_notification": "https://career.csccloud.in/job-post/MTM4Mg=="
-    },
-    {
         "date": "27/08/2026",
         "board": "NFC Hyderabad Vacancy 2026 - 106 Apprentice PostsNFC Hyderabad Apprentice Vacancy 2026",
         "title": "Apprentice",
@@ -637,7 +605,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "ladakh-police-constable-recruitment-2026-apply-online-for-331-posts-3067554"
     },
     {
         "date": "27/08/2026",
@@ -766,21 +734,5 @@
         "syllabus": "Not Available",
         "official_website": "https://drdo.gov.in/",
         "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtRCI17082026.pdf"
-    },
-    {
-        "date": "13/08/2026",
-        "board": "NIAB Vacancy 2026 - 2 Scientist B, Farm Manager PostsNIAB Vacancy 2026",
-        "title": "Scientist-B, Farm Manager",
-        "qualification": "M.V.Sc/ M.Sc/ M.Tech , Graduation in Animal husbandry / horticulture or Masters in Life Sciences",
-        "last_date": "11-09-2026",
-        "total_posts": "2",
-        "salary": "Pay Level 10 (Scientist-B), Pay Level 6 (Farm Manager) as per 7th CPC",
-        "age_limit": "Maximum Age: 35 years for all posts. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Rs. 500/ - (Scientist-B), Rs. 200/ - (Farm Manager)",
-        "selection_process": "Written Test || Skill Test",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.niab.org.in/",
-        "official_notification": "https://www.niab.org.in/Notifications/Advt_18_2026/Notification_18_2026.pdf"
     }
 ]
