@@ -1,5 +1,21 @@
 [
     {
+        "date": "08/09/2026",
+        "board": "RRB Vacancy 2026 - 590 Pharmacist, Lab Assistant and More PostsRRB Vacancy 2026",
+        "title": "Post Name",
+        "qualification": "10+2 with Physics and Chemistry plus Diploma in Radiography/X-Ray Technician/Radiodiagnosis Technology (2-year course); Science graduates with the same diploma preferred (various equivalent B.Sc. Radiography/Imaging qualifications also eligible)",
+        "last_date": "14-10-2026",
+        "total_posts": "Not Available",
+        "salary": "₹44,900",
+        "age_limit": "Age is reckoned as on 01.01.2027. The lower and upper age limits vary by post, as shown in the Vacancy table above (ranging from 18–33 years to 20–40 years). Date of birth must match the Matriculation/SSLC certificate; no subsequent change will be considered. || If a candidate is eligible for relaxation on more than one ground, only the maximum single relaxation applies (not cumulative). SC/ST/OBC-NCL candidates applying against UR vacancies will not get any age relaxation. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Fee payment modes: internet banking, debit/credit cards, or UPI only — no other mode is accepted. || Applications received without the prescribed fee will be summarily rejected. || Refunds are credited only to the candidate's Aadhaar-seeded bank account. || EBC (Economically Backward Class), EWS (Economically Weaker Section), and OBC are three distinct categories — EBC candidates get only fee concession, not job reservation.",
+        "selection_process": "Selection consists of a Single Stage Computer Based Test (CBT), followed by Document Verification (DV) and a Medical Examination. || The CBT is of 90 minutes' duration for 100 questions (120 minutes for PwBD/PWD candidates eligible for the Scribe facility), with objective multiple-choice questions (4 options, 1 correct answer). || There is negative marking of 1/3 mark for every wrong answer.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rrb.indianrailways.gov.in/",
+        "official_notification": "https://www.rrbapply.gov.in/assets/forms/CEN_05_2026_PM.pdf"
+    },
+    {
         "date": "12/09/2026",
         "board": "NHM Assam Vacancy 2026 - 78 Medical Officer PostsNHM Assam Medical Officer Vacancy 2026",
         "title": "Medical Officer (MBBS)",
@@ -14,22 +30,6 @@
         "syllabus": "Not Available",
         "official_website": "https://nhm.assam.gov.in",
         "official_notification": "https://nhmssd.assam.gov.in/eHRMIS_latest/uploadAdmin/uploads/job186-doc-1.pdf"
-    },
-    {
-        "date": "07/09/2026",
-        "board": "NHM Assam Vacancy 2026 - Medical Officer PostsNHM Assam Medical Officer Vacancy 2026",
-        "title": "Medical Officer (MBBS)",
-        "qualification": "MBBS degree from a Govt. recognized Medical Colleges of Assam and registered with Assam Medical Council (AMC)",
-        "last_date": "14-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 38500 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://nhm.assam.gov.in",
-        "official_notification": "https://nhmssd.assam.gov.in/eHRMIS_latest/uploadAdmin/uploads/job178-doc-1.pdf"
     },
     {
         "date": "12/09/2026",
@@ -177,38 +177,6 @@
     },
     {
         "date": "10/09/2026",
-        "board": "IIT Guwahati Vacancy 2026 - 1 Research Associate PostsIIT Guwahati Research Associate Vacancy 2026",
-        "title": "Research Associate",
-        "qualification": "Ph.D Degree + 2 Yr Exp in solar thermal system performance analysis.",
-        "last_date": "14-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 49000 Per Month + 16% HRA",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitg.ac.in",
-        "official_notification": "https://www.iitg.ac.in/pdf/6cf3d5317198ce5354b2f7450b2680dd.pdf"
-    },
-    {
-        "date": "10/09/2026",
-        "board": "IIT Guwahati Vacancy 2026 - 1 Team Leader cum Civil Engineer PostsIIT Guwahati Team Leader cum Civil Engineer Vacancy 2026",
-        "title": "Team Leader cum Civil Engineer",
-        "qualification": "Bachelor of Technology in Civil Engineering.",
-        "last_date": "14-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 109000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitg.ac.in",
-        "official_notification": "https://www.iitg.ac.in/pdf/935acf6b4a06a0ad86d5496227403769.pdf"
-    },
-    {
-        "date": "10/09/2026",
         "board": "SSC Vacancy 2026 - 1871 Sub-Inspector in Delhi Police and CAPFs PostsSSC Vacancy 2026",
         "title": "Sub-Inspector in Delhi Police and CAPFs",
         "qualification": "Bachelor's degree in Science with Physics, Chemistry and Mathematics from a recognised university or equivalent; OR Matriculation plus a 3-year diploma in Mechanical/Civil/Electrical/Automobile/Chemical/Mining/Aeronautical/Telecommunication Engineering or equivalent. A higher qualification (B.Tech/M.Tech) in relevant fields is treated as value addition, subject to the basic diploma being held.",
@@ -286,22 +254,6 @@
         "syllabus": "Not Available",
         "official_website": "https://bcplonline.co.in/",
         "official_notification": "https://bcplonline.co.in/UploadFiles/Downloads/BCPL-NE062026.pdf"
-    },
-    {
-        "date": "08/09/2026",
-        "board": "RRB Vacancy 2026 - 560 Pharmacist, Lab Assistant and More PostsRRB Vacancy 2026",
-        "title": "Various Posts of Paramedical Categories",
-        "qualification": "560 Posts",
-        "last_date": "14-10-2026",
-        "total_posts": "560 Posts (Tentative)",
-        "salary": "Not Available",
-        "age_limit": "Minimum Age Limit:18 Years || Maximum Age Limit:40 Years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Syllabus RRB Paramedical Syllabus 2026",
-        "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "mysore-city-corporation-ugd-helper-recruitment-2026-apply-offline-for-116-posts-3067616"
     },
     {
         "date": "09/09/2026",
@@ -382,22 +334,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.sasu.ac.in",
         "official_notification": "https://sasu.ac.in/uploads/recruitment/Recruitment_1787226457.pdf"
-    },
-    {
-        "date": "08/09/2026",
-        "board": "IIT Guwahati Vacancy 2026 - 2 Associate Project Engineer/ Associate Project Scientist PostsIIT Guwahati Associate Project Engineer/ Associate Project Scientist Vacancy 2026",
-        "title": "Associate Project Engineer / Associate Project Scientist",
-        "qualification": "BTech/MTech in Chemical Engineering or Mechanical Engineering, M.Sc./B.Sc. in Chemistry",
-        "last_date": "14-09-2026",
-        "total_posts": "2",
-        "salary": "Rs. 40000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Online Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitg.ac.in",
-        "official_notification": "https://www.iitg.ac.in/pdf/706845bdccca82427f5b40e9ef78fb33.pdf"
     },
     {
         "date": "07/09/2026",
@@ -653,7 +589,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "mysore-city-corporation-ugd-helper-recruitment-2026-apply-offline-for-116-posts-3067616"
+        "official_notification": "tn-nhm-staff-nurse-recruitment-2026-apply-offline-for-4724-posts-3067564"
     },
     {
         "date": "26/08/2026",
