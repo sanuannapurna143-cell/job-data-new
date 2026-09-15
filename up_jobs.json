@@ -1,6 +1,70 @@
 [
     {
         "date": "15/09/2026",
+        "board": "AIIMS Gorakhpur Vacancy 2026 - 68 Professor, Associate Professor and More PostsAIIMS Gorakhpur Vacancy 2026",
+        "title": "Professor, Associate Professor and More",
+        "qualification": "MBBS or equivalent (recognised by IMC Act 1956/NMC), plus a Postgraduate qualification (MD/MS or NMC-recognised equivalent) in the subject of the post",
+        "last_date": "13-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Candidates can apply for Direct Recruitment, Deputation basis, or Contract basis (for retired faculty), depending on vacancy availability; Associate Professor and Assistant Professor posts can only be filled on Direct Recruitment basis.",
+        "age_limit": "Age Relaxation Beyond Upper Age Limit",
+        "application_fee": "₹2,000 (General/OBC/EWS); ₹500 (SC/ST); Nil for PwBD and retired faculty (contract/deputation)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiimsgorakhpur.edu.in",
+        "official_notification": "https://aiimsgorakhpur.edu.in/wp-content/uploads/2026/09/Advertisement-12.pdf"
+    },
+    {
+        "date": "15/09/2026",
+        "board": "Gautam Buddha Nagar Anganwadi Vacancy 2026 - 267 Anganwadi Worker & Helper PostsGautam Buddha Nagar Anganwadi Anganwadi Worker & Helper Vacancy 2026",
+        "title": "Anganwadi Worker & Helper",
+        "qualification": "267 Posts",
+        "last_date": "28-09-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://upanganwadibharti.in",
+        "official_notification": "https://upanganwadibharti.in/worker-v4/uploadOrder/ordercopy_1788845526_43e2a414.pdf"
+    },
+    {
+        "date": "15/09/2026",
+        "board": "IIT Kanpur Vacancy 2026 - 2 Senior Project Scientist / Senior Project Engineer PostsIIT Kanpur Senior Project Scientist / Senior Project Engineer Vacancy 2026",
+        "title": "Senior Project Scientist / Senior Project Engineer",
+        "qualification": "Ph.D / M.Tech / M.E. / M.S. / M.Sc. / MCA (Geoinformatics / Civil / Computer Science / Information Technology / Electronics / Earth Sciences / Mathematics / Physics / Data Science / Allied disciplines) with relevant experience, B.Tech / B.E. / B.S. (Geoinformatics / Civil / Computer Science / Information Technology / Electronics / Allied Engineering disciplines) with 2 years relevant experience",
+        "last_date": "25-09-2026",
+        "total_posts": "2",
+        "salary": "Rs. 38800 - 96400 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/ncg-sps-spe-11-09-26.html"
+    },
+    {
+        "date": "15/09/2026",
+        "board": "BSA KGBV Gorakhpur Vacancy 2026 - 132 PGT, Peon and More PostsBSA KGBV Gorakhpur Vacancy 2026",
+        "title": "PGT, Peon and More",
+        "qualification": "Qualification requirements vary by post and are specified in detail in the official notification. A summary: || Principal: Postgraduate with B.Ed., along with prescribed teaching/administrative experience as per notification norms. || PGT (Hindi/English/Maths/Biology/Chemistry/Physics/Computer Science): Relevant postgraduate degree with B.Ed. or equivalent training qualification in the respective subject. || Full-Time Teacher (Classes 6–8): Graduate with B.Ed./equivalent training qualification, subject-specific as listed in the vacancy table. || Part-Time Teacher (Computer): Graduate in Computer Science/related field or equivalent recognized computer qualification, as specified in the notification. || Part-Time Teacher (Art, Craft & Music): Graduate with relevant training qualification in Art/Craft or Music. || Accountant: Graduate in Commerce with knowledge of MS Office/Computer accounting; Computer Diploma preferred. || Lab Assistant: High School/Intermediate (Science) with a laboratory technique diploma, as specified in the notification. || Office Superintendent/Clerk: Intermediate pass with computer typing proficiency (Hindi minimum 25 words/minute, English minimum 30 words/minute) and a recognized computer certificate. || Head Cook/Assistant Cook/Peon/Chowkidar: Class 8 pass; candidates must not be suffering from any physical disability or infectious disease. || Candidates should refer to the official notification for the complete qualification details applicable to their specific post.",
+        "last_date": "30-09-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "General posts: Minimum 25 years – Maximum 45 years (as on 1 April 2026) || Principal: Minimum 30 years – Maximum 45 years (as on 1 April 2026) || Age relaxation will be given as per state government rules. || Maximum service age for existing staff continuing in Kasturba Gandhi Balika Vidyalayas is 60 years, subject to the conditions specified in the notification. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "The application fee is not specified in the provided notification. Candidates are only required to enclose three self-addressed envelopes with their correspondence address, each affixed with a ₹58 postage stamp, along with the application.",
+        "selection_process": "Selection will be made as follows, as per the notification: || Principal, PGT posts, Full-Time Teacher, Part-Time Teacher, Accountant, and Lab Assistant: Direct selection based on merit (quality marks derived from academic percentage). || Office Superintendent/Clerk: Selection based on a typing test. || Head Cook, Assistant Cook, Peon, and Chowkidar: Selection through interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://gorakhpur.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s301386bd6d8e091c2ab4c7c7de644d37b/uploads/2026/09/17893904192270.pdf"
+    },
+    {
+        "date": "15/09/2026",
         "board": "IIT Kanpur Vacancy 2026 - 3 Project Scientist/ Project Engineer PostsIIT Kanpur Project Scientist/ Project Engineer Vacancy 2026",
         "title": "Project Scientist / Project Engineer",
         "qualification": "M.Tech/M.E./M.S./M.Sc./MCA in Geoinformatics/Civil/Computer Science/Information Technology/Electronics/Earth Sciences/Mathematics/Physics/Data Science/Allied disciplines, B.Tech/B.E./B.S. in Geoinformatics/Civil/Computer Science/Information Technology/Electronics/Allied Engineering disciplines with 1 year relevant experience",
@@ -29,7 +93,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bhavini-trade-apprentice-recruitment-2026-apply-online-for-50-posts-3067692"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "11/09/2026",
@@ -481,22 +545,6 @@
     },
     {
         "date": "09/09/2026",
-        "board": "MACT Baghpat Vacancy 2026 - 1 Assistant Accountant PostsMACT Baghpat Assistant Accountant Vacancy 2026",
-        "title": "Assistant Accountant",
-        "qualification": "Retired government servant, Computer knowledge in UP Treasury Portal and accounts work, No criminal case pending (notarized affidavit required)",
-        "last_date": "15-09-2026",
-        "total_posts": "1",
-        "salary": "Last drawn pay minus net pension (consolidated)",
-        "age_limit": "Maximum Age Limit: 65 years || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Not Available",
-        "selection_process": "Document Verification || Interview || Merit based on ACRs and suitability",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.allahabadhighcourt.in/",
-        "official_notification": "https://www.allahabadhighcourt.in/event/event_26793_08-09-2026.pdf"
-    },
-    {
-        "date": "09/09/2026",
         "board": "CBI Vacancy 2026 - Special Public Prosecutor PostsCBI Special Public Prosecutor Vacancy 2026",
         "title": "Special Public Prosecutor",
         "qualification": "Eligible advocates with LLB qualification, Bar Council enrollment, and minimum 10 years' standing with criminal-matter experience at the Bar (see Eligibility section)",
@@ -625,22 +673,6 @@
     },
     {
         "date": "08/09/2026",
-        "board": "IIT Kanpur Vacancy 2026 - 1 Assistant Project Manager PostsIIT Kanpur Assistant Project Manager Vacancy 2026",
-        "title": "Assistant Project Manager",
-        "qualification": "Post graduate degree Or Graduate degree + 3 years of relevant experience",
-        "last_date": "15-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 16000 - 38000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitk.ac.in",
-        "official_notification": "https://www.iitk.ac.in/dord/project/dora-apm-07-09-26.html"
-    },
-    {
-        "date": "08/09/2026",
         "board": "DLSA Bijnor Vacancy 2026 - 1 Peon PostsDLSA Bijnor Peon Vacancy 2026",
         "title": "Peon",
         "qualification": "Retired employee from Civil Court/Collectorate/Court",
@@ -734,22 +766,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.gims.ac.in/",
         "official_notification": "http://www.gims.ac.in/assets/pdf/DetailedAdv1.pdf"
-    },
-    {
-        "date": "07/09/2026",
-        "board": "AMU Vacancy 2026 - 6 Assistant Engineer, Work Supervisor and More PostsAMU Vacancy 2026",
-        "title": "Assistant Engineer (Civil)",
-        "qualification": "Bachelor's Degree/Diploma in Civil Engineering, Diploma in Civil/Electrical Engineering, Knowledge of Computer Application",
-        "last_date": "15-09-2026",
-        "total_posts": "6",
-        "salary": "Assistant Engineer (Civil): Rs. 50,000/- PM (Consolidated) || Junior Engineer (Civil): Rs. 35,000/- PM (Consolidated) || Junior Engineer (Electrical): Rs. 35,000/- PM (Consolidated) || Work Supervisor: Rs. 25,000/- PM (Consolidated)",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting || Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.amu.ac.in/",
-        "official_notification": "https://api.amu.ac.in/storage/file/10350/jobs/1788607034.pdf"
     },
     {
         "date": "07/09/2026",
@@ -909,23 +925,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://cihts.ac.in/",
-        "official_notification": "bhavini-trade-apprentice-recruitment-2026-apply-online-for-50-posts-3067692"
-    },
-    {
-        "date": "04/09/2026",
-        "board": "Atal Residential School Koraon Vacancy 2026 - 4 Guest Faculty Teacher PostsAtal Residential School Koraon Guest Faculty Teacher Vacancy 2026",
-        "title": "Guest Faculty Teacher",
-        "qualification": "Master Degree with B.Ed for PGT, Bachelor's with B.Ed for TGT, CTET/UPTET qualified for TGT",
-        "last_date": "15-09-2026",
-        "total_posts": "4",
-        "salary": "PGT Posts: Rs. 36750 Per Month || TGT Post: Rs. 34125 Per Month",
-        "age_limit": "Maximum Age Limit: 50 years for all posts. || Age relaxation rules are not specified in the provided data.",
-        "application_fee": "Nil",
-        "selection_process": "Merit List || Interview || Document Verification",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://prayagraj.nic.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s3cd00692c3bfe59267d5ecfac5310286c/uploads/2026/08/17881663506818.pdf"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "04/09/2026",
@@ -1041,38 +1041,6 @@
     },
     {
         "date": "02/09/2026",
-        "board": "Allahabad University Vacancy 2026 - 1 Junior Research Assistant PostsAllahabad University Junior Research Assistant Vacancy 2026",
-        "title": "Junior Research Assistant (JRA)",
-        "qualification": "M.Sc. in Life Science/Environmental Science/related discipline with first-class academic record.",
-        "last_date": "15-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 25,000/- per month (consolidated) for the first two years; Rs. 28,000/- per month (consolidated) for the third year",
-        "age_limit": "Max: 28 years as on 01 April 2026",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://allduniv.ac.in",
-        "official_notification": "https://allduniv.ac.in/upload/file_collection/JRA%20ADV.%20%20UPCST%203108.pdf"
-    },
-    {
-        "date": "02/09/2026",
-        "board": "MNNIT Allahabad Vacancy 2026 - 1 Junior Research Fellow or Project Associate I PostsMNNIT Allahabad Junior Research Fellow or Project Associate I Vacancy 2026",
-        "title": "Junior Research Fellow (JRF) or Project Associate-I",
-        "qualification": "PG degree with minimum 60% marks or 6.5 CGPA (55% for SC/ST/PH) from UGC recognized University/ Institute. GATE/CSIR-UGC NET/GPAT qualified for JRF.",
-        "last_date": "15-09-2026",
-        "total_posts": "1",
-        "salary": "JRF: Rs. 37,000-42,000 per month + 20% HRA. Project Associate-I: Rs. 30,000-33,000 per month + 20% HRA.",
-        "age_limit": "28 years (Relaxable by 5 years for SC/ST/OBC/PH and women candidates)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.mnnit.ac.in",
-        "official_notification": "https://mnnit.ac.in/images/newstories/2026/JobMnnit/ANRF-ECRG-2025-002671-CS__JRF_or_Project_Associate_Advertisement_28082026.pdf"
-    },
-    {
-        "date": "02/09/2026",
         "board": "IIT Kanpur Vacancy 2026 - 1 Research Associate-I PostsIIT Kanpur Research Associate-I Vacancy 2026",
         "title": "Research Associate-I",
         "qualification": "Ph.D. or equivalent degree or having 3 years of research, teaching and design and development experience after ME/M.Tech with at least one research paper in Science Citation Indexed (SCI) journal.",
@@ -1152,22 +1120,6 @@
         "official_notification": "https://upanganwadibharti.in/worker-v4/uploadOrder/ordercopy_1787817543_42faee29.pdf"
     },
     {
-        "date": "01/09/2026",
-        "board": "Allahabad University Vacancy 2026 - 1 Junior Research Assistant PostsAllahabad University Junior Research Assistant Vacancy 2026",
-        "title": "Junior Research Assistant (JRA)",
-        "qualification": "M.Sc. in Life Science/ Environmental Science/ related discipline with first-class academic record",
-        "last_date": "15-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 25000 - 28000 Per Month",
-        "age_limit": "Max: 28 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://allduniv.ac.in/",
-        "official_notification": "https://allduniv.ac.in/upload/file_collection/JRA%20ADV.%20%20UPCST%203108.pdf"
-    },
-    {
         "date": "31/08/2026",
         "board": "Fatehpur Anganwadi Vacancy 2026 - 389 Anganwadi Worker & Helper PostsFatehpur Anganwadi Anganwadi Worker & Helper Vacancy 2026",
         "title": "Anganwadi Worker & Helper",
@@ -1213,7 +1165,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bhavini-trade-apprentice-recruitment-2026-apply-online-for-50-posts-3067692"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "29/08/2026",
@@ -1264,22 +1216,6 @@
         "official_notification": "https://csjmu.ac.in/wp-content/uploads/docs/2026/08/Recruitment-Notice-For-Non-Teaching-Postition-2026.pdf"
     },
     {
-        "date": "27/08/2026",
-        "board": "Allahabad University Vacancy 2026 - 1 Junior Research Assistant PostsAllahabad University Junior Research Assistant Vacancy 2026",
-        "title": "Junior Research Assistant (RA)",
-        "qualification": "Bachelor's Degree (B.E. / B.Tech) in relevant branch of Engineering/ Technology with first division.",
-        "last_date": "15-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 28000/ - per month (consolidated)",
-        "age_limit": "Max: 28 years on 01st April 2026",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.allduniv.ac.in",
-        "official_notification": "https://allduniv.ac.in/upload/file_collection/Revised%20JRA_Advertisement%20CST%20UP.pdf"
-    },
-    {
         "date": "26/08/2026",
         "board": "DRRMLIMS Vacancy 2026 - 74 Stenographer, Receptionist and More PostsDRRMLIMS Vacancy 2026",
         "title": "Post Name",
@@ -1325,7 +1261,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bhavini-trade-apprentice-recruitment-2026-apply-online-for-50-posts-3067692"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "26/08/2026",
@@ -1389,7 +1325,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bhavini-trade-apprentice-recruitment-2026-apply-online-for-50-posts-3067692"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "20/08/2026",
@@ -1422,21 +1358,5 @@
         "syllabus": "Not Available",
         "official_website": "https://upsssc.gov.in/",
         "official_notification": "https://upsssc.gov.in/ViewPdf.aspx?HnWf3AX1TPcbZWvpTaJvREO3S7UAQjKO5DMOPRjzZ3I="
-    },
-    {
-        "date": "29/07/2026",
-        "board": "CSIR Vacancy 2026 - 1 Director PostsCSIR Director Vacancy 2026",
-        "title": "Director",
-        "qualification": "Ph.D. in Natural Sciences or Master’s Degree in Engineering/Health/Medical Sciences",
-        "last_date": "15-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 182200 - 224100 Per Month",
-        "age_limit": "Minimum Age: 45 years || Maximum Age: 56 years || Age relaxation can be relaxed in case of exceptionally meritorious candidates with approval of DG, CSIR.",
-        "application_fee": "Not Available",
-        "selection_process": "Application/Nomination Review.",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nbri.res.in",
-        "official_notification": "https://www.csir.res.in/sites/default/files/2026-07/recruit_director-eng.pdf"
     }
 ]

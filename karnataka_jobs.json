@@ -1,6 +1,38 @@
 [
     {
         "date": "15/09/2026",
+        "board": "CASDIC DRDO Vacancy 2026 - 30 Paid Intern PostsCASDIC DRDO Paid Intern Vacancy 2026",
+        "title": "Paid Intern",
+        "qualification": "Pursuing final year B.E/ B.Tech with minimum CGPA 7.5, Pursuing 2nd year M.Sc",
+        "last_date": "11-10-2026",
+        "total_posts": "30",
+        "salary": "Rs. 5000 Per Month",
+        "age_limit": "Maximum Age Limit: 25 years. || Age relaxation rules are not specified in the provided data. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "Not Available",
+        "selection_process": "Merit based on previous exam marks || Online Interview / Interaction",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in/",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtCASDIC14092026.pdf"
+    },
+    {
+        "date": "15/09/2026",
+        "board": "IISc Vacancy 2026 - 4 Software Engineer PostsIISc Software Engineer Vacancy 2026",
+        "title": "Software Engineer (SAP Functional Analyst)",
+        "qualification": "MSc/ BE/ BTech/ MCA/ BSc (Research)/ MSc (Research), BSc in Computer Science/ Electronics/ Science, BCA, 3 year diploma in Engineering and at least 5 years of experience, 1-2 years of relevant domain and/or SAP functional experience",
+        "last_date": "06-10-2026",
+        "total_posts": "4",
+        "salary": "Rs. 29,000/- + HRA p.m.",
+        "age_limit": "Maximum Age Limit: 30 years",
+        "application_fee": "Nil",
+        "selection_process": "Shortlisting || Online/In-person Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iisc.ac.in/",
+        "official_notification": "https://www.iisc.ac.in/wp-content/uploads/2026/09/1.-Advertisement-Software-engineer.pdf"
+    },
+    {
+        "date": "15/09/2026",
         "board": "MAHE Vacancy 2026 - Project Technical Support PostsMAHE Project Technical Support Vacancy 2026",
         "title": "Project Technical Support – III (JRF equivalent)",
         "qualification": "M.Sc/M.Tech/B.E in Computer Science, Information and Communication Technology, Data Science, Electronics or Biomedical Engineering. UGC-CSIR/NET/GATE qualification preferred.",
@@ -29,7 +61,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://cpri.res.in/",
-        "official_notification": "Not Available"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "12/09/2026",
@@ -797,7 +829,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "tn-nhm-staff-nurse-recruitment-2026-apply-offline-for-4724-posts-3067564"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "29/08/2026",
@@ -861,7 +893,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bhavini-trade-apprentice-recruitment-2026-apply-online-for-50-posts-3067692"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "29/08/2026",
@@ -893,7 +925,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bhavini-trade-apprentice-recruitment-2026-apply-online-for-50-posts-3067692"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "28/08/2026",
@@ -925,7 +957,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "tn-nhm-staff-nurse-recruitment-2026-apply-offline-for-4724-posts-3067564"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "27/08/2026",
@@ -957,7 +989,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "tn-nhm-staff-nurse-recruitment-2026-apply-offline-for-4724-posts-3067564"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "27/08/2026",
@@ -989,7 +1021,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "25/08/2026",
@@ -1037,7 +1069,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bhavini-trade-apprentice-recruitment-2026-apply-online-for-50-posts-3067692"
+        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
     },
     {
         "date": "21/08/2026",
