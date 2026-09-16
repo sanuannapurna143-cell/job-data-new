@@ -1,5 +1,85 @@
 [
     {
+        "date": "16/09/2026",
+        "board": "Exim Bank Vacancy 2026 - 12 Business Development Officer PostsExim Bank Business Development Officer Vacancy 2026",
+        "title": "Business Development Officer (BDO)",
+        "qualification": "12 Posts",
+        "last_date": "15-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.eximbankindia.in",
+        "official_notification": "https://www.eximbankindia.in/sites/default/files/2026-09/Advertisement%20for%20upload.pdf"
+    },
+    {
+        "date": "16/09/2026",
+        "board": "UPESSC Vacancy 2026 - 12405 Primary Assistant Teacher PostsUPESSC Primary Assistant Teacher Vacancy 2026",
+        "title": "Primary Assistant Teacher",
+        "qualification": "Graduate degree from a University established by law in India (or an equivalent Government-recognised degree), plus a Government-recognised training qualification - including Basic Teacher Certificate (B.T.C.), Biennial B.T.C. (Urdu), Special B.T.C., a Biennial Diploma in Special Education recognised by the Rehabilitation Council of India, or a 4-year B.El.Ed. degree, or a Biennial Diploma in Elementary Education per NCTE Regulations 2002 - AND must have qualified the Teacher Eligibility Test (TET) conducted by the State Government or Government of India. (Note: the B.T.C. course is currently run under the name D.El.Ed.)",
+        "last_date": "15-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Level-6, ₹35,400 – ₹1,12,400",
+        "age_limit": "15 years relaxation in maximum age limit",
+        "application_fee": "₹1,000 (General/OBC/EWS); ₹500 (SC/ST); ₹300 (PwBD)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.upessc.up.gov.in/",
+        "official_notification": "https://www.upessc.up.gov.in/Notice/a429-726e-4862-f3dc-8a6f.pdf"
+    },
+    {
+        "date": "16/09/2026",
+        "board": "NABFINS Vacancy 2026 - Customer Service Officer PostsNABFINS Customer Service Officer Vacancy 2026",
+        "title": "Customer Service Officer (CSO)",
+        "qualification": "The minimum educational qualification is: || PUC/10+2 completed. || Candidates who have completed Higher Secondary or an equivalent 10+2 qualification can apply, subject to the other eligibility requirements.",
+        "last_date": "20-09-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nabfins.org",
+        "official_notification": "https://nabfins.org/Careers/"
+    },
+    {
+        "date": "16/09/2026",
+        "board": "IIT Kanpur Vacancy 2026 - 1 Project Engineer PostsIIT Kanpur Project Engineer Vacancy 2026",
+        "title": "Project Engineer",
+        "qualification": "M.Tech/B.Tech+3years Experience in Computer Science Engineering, Significant knowledge of Python, Machine learning and AI, Significant knowledge of React Js, Typescript and Electron, Experience in state of art image processing tools their usage, Experience in the development of image analysis algorithms",
+        "last_date": "30-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 31600 - 78400 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in",
+        "official_notification": "https://www.iitk.ac.in/dord/project/che-pe-15-09-26.html"
+    },
+    {
+        "date": "16/09/2026",
+        "board": "UPESSC Vacancy 2026 - 2607 Pravakta (PGT) PostsUPESSC Pravakta (PGT) Vacancy 2026",
+        "title": "Pravakta (PGT/Lecturer)",
+        "qualification": "For most of the 26 subjects, the essential qualification is a postgraduate degree in the relevant subject from a university/deemed university established by law in India, together with a B.Ed (Shiksha Snatak) degree from an NCTE-recognised programme. A few subjects have a distinct qualification pattern: || Candidates must possess the requisite educational qualification by the closing date for accepting applications.",
+        "last_date": "17-10-2026",
+        "total_posts": "Not Available",
+        "salary": "₹47,600 – ₹1,51,100",
+        "age_limit": "As stated in the notification, an application will not be accepted if the date of birth is not mentioned, or if the candidate's age exceeds 62 years as on 1 July 2026. The date of birth entered on the High School (or equivalent) certificate is the only document accepted for age verification; no other record is valid for this purpose. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "Fee can be paid only via Credit Card, Debit Card, or Net Banking through the online payment gateway available on the portal, immediately after registration. Payment is valid only once confirmed by the bank; candidates should retain the fee payment receipt.",
+        "selection_process": "Selection to Pravakta posts in aided schools (boys'/girls') is made out of a total of 400 marks , comprising a 360-mark written examination (based on 120 objective-type questions) and a 40-mark interview , on the basis of a merit list prepared from the combined score.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.upessc.up.gov.in",
+        "official_notification": "https://www.upessc.up.gov.in/Notice/b9ce-e9ff-48c3-10f9-4b52.pdf"
+    },
+    {
         "date": "15/09/2026",
         "board": "AIIMS Gorakhpur Vacancy 2026 - 68 Professor, Associate Professor and More PostsAIIMS Gorakhpur Vacancy 2026",
         "title": "Professor, Associate Professor and More",
@@ -93,7 +173,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
+        "official_notification": "Not Available"
     },
     {
         "date": "11/09/2026",
@@ -925,7 +1005,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://cihts.ac.in/",
-        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
+        "official_notification": "Not Available"
     },
     {
         "date": "04/09/2026",
@@ -1165,7 +1245,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/08/2026",
@@ -1261,7 +1341,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/08/2026",
@@ -1325,7 +1405,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
+        "official_notification": "Not Available"
     },
     {
         "date": "20/08/2026",

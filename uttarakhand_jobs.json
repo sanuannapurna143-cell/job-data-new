@@ -1,5 +1,21 @@
 [
     {
+        "date": "16/09/2026",
+        "board": "UKSSSC Vacancy 2026 - 200 Scaler PostsUKSSSC Scaler Vacancy 2026",
+        "title": "Scaler",
+        "qualification": "200 Posts",
+        "last_date": "22-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 19,900 – Rs. 63,200 (Level-2)",
+        "age_limit": "Actual age minus the length of military service, provided the resultant age does not exceed the prescribed maximum age limit for the post by more than 3 years",
+        "application_fee": "Not Available",
+        "selection_process": "Selection is completed in two stages : a qualifying Physical Standard Test (PST) and Physical Efficiency Test (PET), followed by a written competitive examination.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
         "date": "15/09/2026",
         "board": "Doon University Vacancy 2026 - 2 Project Assistant PostsDoon University Project Assistant Vacancy 2026",
         "title": "Project Assistant",
@@ -416,70 +432,6 @@
         "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/ECE/2026/adv060920261.pdf"
     },
     {
-        "date": "03/09/2026",
-        "board": "IIT Roorkee Vacancy 2026 - 1 Junior Research Fellow PostsIIT Roorkee Junior Research Fellow Vacancy 2026",
-        "title": "JRF",
-        "qualification": "M.Tech/M.E./M.Sc. (with math courses at Bachelor's level) in Civil Engineering/ Remote Sensing & GIS/Environmental Engineering/ Atmospheric science or equivalent",
-        "last_date": "15-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 37,000 + HRA as per institute norms Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in/",
-        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CE/2026/adv01092026.pdf"
-    },
-    {
-        "date": "01/09/2026",
-        "board": "AIIMS Rishikesh Vacancy 2026 - 5 Project Nurse III, Project Technical Support III and More PostsAIIMS Rishikesh Vacancy 2026",
-        "title": "Project Research Scientist I (Non-Medical), Project Nurse(III), Project Technical Support III",
-        "qualification": "Post Graduate Degree in life sciences, Four-year Nursing Course, Three Years Graduate degree",
-        "last_date": "15-09-2026",
-        "total_posts": "5",
-        "salary": "Rs. 30800 - 61600 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://aiimsrishikesh.edu.in",
-        "official_notification": "https://aiimsrishikesh.edu.in/images/upload_documents/Recruitment%20forms%20for%20eschar%20trial%20modified%201%20%281%29.pdf"
-    },
-    {
-        "date": "25/08/2026",
-        "board": "IIT Roorkee Vacancy 2026 - 1 Junior Research Fellow PostsIIT Roorkee Junior Research Fellow Vacancy 2026",
-        "title": "JRF",
-        "qualification": "B.Tech or M.Tech in Electrical/Electronics/Mechanical Engineering",
-        "last_date": "15-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 37000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in/",
-        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/MI/2026/adv22082026.pdf"
-    },
-    {
-        "date": "24/08/2026",
-        "board": "IIT Roorkee Vacancy 2026 - 1 Post Doctoral Fellow PostsIIT Roorkee Post Doctoral Fellow Vacancy 2026",
-        "title": "Post Doctoral Fellow (PDF)",
-        "qualification": "Ph.D. in Materials Engineering/ Polymer Engineering/ Biotechnology/ Biomedical Engineering or allied branches",
-        "last_date": "15-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 80,000 per month for the 1st and 2nd year.",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in/",
-        "official_notification": "https://iitr.ac.in/Careers/static/Post_Doctoral_Fellowship/MI/2026/adv200820264.pdf"
-    },
-    {
         "date": "13/08/2026",
         "board": "HNBGU Vacancy 2026 - 27 Assistant, Junior Engineer and More PostsHNBGU Vacancy 2026",
         "title": "Post Name",
@@ -493,7 +445,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
+        "official_notification": "Not Available"
     },
     {
         "date": "30/06/2026",

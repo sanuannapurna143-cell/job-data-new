@@ -1,5 +1,21 @@
 [
     {
+        "date": "16/09/2026",
+        "board": "PCCF HoFF Assam Vacancy 2026 - 3 Computer Assistant, GIS Analyst PostsPCCF HoFF Assam Vacancy 2026",
+        "title": "Computer Assistant, GIS Analyst",
+        "qualification": "Graduation in any discipline with One year Diploma in Computer Application, Master's degree in GIS and Remote Sensing",
+        "last_date": "21-09-2026",
+        "total_posts": "3",
+        "salary": "Rs. 40000 Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 40 years || Age relaxation details are not specified in the provided data.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://forest.assam.gov.in/",
+        "official_notification": "https://www.asbb.gov.in/pdf/whats_new/110926/Add110926.pdf"
+    },
+    {
         "date": "08/09/2026",
         "board": "RRB Vacancy 2026 - 590 Pharmacist, Lab Assistant and More PostsRRB Vacancy 2026",
         "title": "Post Name",
@@ -512,38 +528,6 @@
         "official_notification": "https://tiss.ac.in/uploads/files/Advt._Assistant_Professor_Sociology_TISS_GC_1.9.2026.pdf"
     },
     {
-        "date": "02/09/2026",
-        "board": "NIT Silchar Vacancy 2026 - 1 Junior Research Fellow PostsNIT Silchar Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "M.Sc in Chemistry, Biotechnology, Life Sciences or relevant/ allied discipline with minimum 60% marks",
-        "last_date": "15-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 37000 Per Month",
-        "age_limit": "Max: 28 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nits.ac.in",
-        "official_notification": "https://www.nits.ac.in/storage/CareerDocument/Career_6a96a0e41377f.pdf"
-    },
-    {
-        "date": "31/08/2026",
-        "board": "ESIC Guwahati Vacancy 2026 - 33 Teaching Faculty PostsESIC Guwahati Teaching Faculty Vacancy 2026",
-        "title": "Teaching Faculty",
-        "qualification": "As per NMC guidelines as stipulated in Gazette Notification No. CG-DL-E-05072025-264399 dated 30.06.2025",
-        "last_date": "15-09-2026",
-        "total_posts": "33",
-        "salary": "Professor:Fixed Basic Pay of Rs. 1,18,500/- (Level 13) + Other Allowances. || Associate Professor:Fixed Basic Pay of Rs. 78,800/- (Level 12) + Other Allowances. || Assistant Professor:Fixed Basic Pay of Rs. 67,700/- (Level 11) + Other Allowances.",
-        "age_limit": "Maximum Age Limit: 69 years for all posts. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.esic.gov.in",
-        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/ENGAGEMENT_OF_TEACHING_FACULTY_ON_CONTRACTUAL_BASIS_FOR_ESIC_MEDICAL_COLLEGE_amp_HOSPITAL_BELTOLA_GUWAHATI_22_1788005742.pdf"
-    },
-    {
         "date": "29/08/2026",
         "board": "CSIR NEIST Vacancy 2026 - 4 Junior Stenographer, Junior Hindi Translator and More Posts PostsCSIR NEIST Vacancy 2026",
         "title": "Junior Stenographer, Junior Secretariat Assistant, Junior Hindi Translator",
@@ -589,7 +573,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
+        "official_notification": "bihar-stet-2026-notification-secondary-teacher-eligibility-test-3063020"
     },
     {
         "date": "26/08/2026",
@@ -622,21 +606,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.niperguwahati.ac.in",
         "official_notification": "https://www.niperguwahati.ac.in/DOC/RECRUITMENT/ADV-PS-REG-AUG-2026/Advt_Phase_14_2026_Secy_Registrar.pdf"
-    },
-    {
-        "date": "18/08/2026",
-        "board": "AIIMS Guwahati Vacancy 2026 - 63 Faculty PostsAIIMS Guwahati Faculty Vacancy 2026",
-        "title": "Professor, Additional Professor, Associate Professor, Assistant Professor",
-        "qualification": "For non-medical candidates (Anatomy, Pharmacology, Microbiology, etc.), the requirement is a postgraduate degree in the relevant discipline along with a Doctorate degree from a recognized university, with teaching/research experience ranging from 3 years (Assistant Professor) to 14 years (Professor) depending on the post applied for. || Candidates holding a DNB qualification must submit documentary evidence of DNB equivalence with MD/MS/DM/M.Ch as per the NMC (formerly MCI) notification dated 31.10.2018. Depending on the training institution, DNB candidates may need 1 to 2 years of additional experience.",
-        "last_date": "15-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 1,68,900/- (plus NPA for medically qualified candidates)",
-        "age_limit": "The upper age limit is calculated as on the last date of submission of the online application. Age relaxation is admissible as follows: || No age relaxation is available to SC/ST/OBC/EWS candidates applying against unreserved vacancies. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
-        "application_fee": "The application fee, once paid, is non-refundable under any circumstances. Applications submitted without the prescribed fee will be summarily rejected.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://aiimsguwahati.ac.in/",
-        "official_notification": "https://aiimsguwahati.in/viewfile.aspx?fname=a241aba4.pdf&ftype=pdf&rdoctype=cms"
     }
 ]

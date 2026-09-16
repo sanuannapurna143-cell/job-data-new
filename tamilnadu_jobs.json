@@ -1,5 +1,69 @@
 [
     {
+        "date": "16/09/2026",
+        "board": "DCPU Kallakurichi Vacancy 2026 - 2 Junior Assistant Cum Record Clerk and Office Assistant PostsDCPU Kallakurichi Vacancy 2026",
+        "title": "Junior Assistant Cum Record Clerk and Office Assistant",
+        "qualification": "SSLC (Class 10) or equivalent with Computer Proficiency and Typing preference, VIII (Class 8) from recognized board",
+        "last_date": "28-09-2026",
+        "total_posts": "2",
+        "salary": "Junior Assistant Cum Record Clerk: Rs. 20,000/- per month || Office Assistant: Rs. 13,000/- per month",
+        "age_limit": "Maximum Age Limit: 42 years for all posts. || Age relaxation rules will be as per government norms.",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://kallakurichi.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3c7e1249ffc03eb9ded908c236bd1996d/uploads/2026/09/17894600111099.pdf"
+    },
+    {
+        "date": "16/09/2026",
+        "board": "Exim Bank Vacancy 2026 - 12 Business Development Officer PostsExim Bank Business Development Officer Vacancy 2026",
+        "title": "Business Development Officer (BDO)",
+        "qualification": "12 Posts",
+        "last_date": "15-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.eximbankindia.in",
+        "official_notification": "https://www.eximbankindia.in/sites/default/files/2026-09/Advertisement%20for%20upload.pdf"
+    },
+    {
+        "date": "12/09/2026",
+        "board": "TN NHM Vacancy 2026 - 4724 Contractual / Temporary Staff Nurse PostsTN NHM Contractual / Temporary Staff Nurse Vacancy 2026",
+        "title": "Contractual/Temporary Staff Nurse",
+        "qualification": "4724 Posts",
+        "last_date": "25-09-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "The upper age limit for applicants is 50 years. The notification does not specify a minimum age or any upper-age relaxation details for reserved categories. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nhm.tn.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/09/055654445-6aa4d5f9a300110475704.pdf"
+    },
+    {
+        "date": "07/09/2026",
+        "board": "Exim Bank Vacancy 2026 - 08 Deputy Manager & Manager PostsExim Bank Deputy Manager & Manager Vacancy 2026",
+        "title": "Deputy Manager & Manager",
+        "qualification": "08 Posts",
+        "last_date": "10-10-2026",
+        "total_posts": "Not Available",
+        "salary": "In addition to pay, selected candidates are eligible for allowances, perquisites, and benefits applicable to the grade as per the Bank's rules prevailing at the time of joining, including residential/leased accommodation (subject to availability) and loan schemes for housing, vehicle, and children's education.",
+        "age_limit": "Age is computed as on 31-08-2026. The maximum age below already includes applicable age relaxation. || As per Government of India guidelines, the upper age limit for Persons with Disabilities (PWDs) is relaxed by an additional 10 years, and for Ex-servicemen by an additional 5 years.",
+        "application_fee": "Fees are non-refundable, including in cases where the applicant is later found ineligible for the post. Bank transaction charges for online payment must be borne by the candidate. The notification does not separately specify a fee amount for General/Unreserved male candidates.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.eximbankindia.in",
+        "official_notification": "https://www.eximbankindia.in/sites/default/files/2026-09/Detailed%20SRD%20Advertisement%20for%20Website.pdf"
+    },
+    {
         "date": "15/09/2026",
         "board": "IIT Madras Vacancy 2026 - 1 Patent Agent PostsIIT Madras Patent Agent Vacancy 2026",
         "title": "Patent Agent",
@@ -80,22 +144,6 @@
         "official_notification": "https://cdn.s3waas.gov.in/s37f6ffaa6bb0b408017b62254211691b5/uploads/2026/09/17894524805815.pdf"
     },
     {
-        "date": "12/09/2026",
-        "board": "TN NHM Vacancy 2026 - 4724 Contractual / Temporary Staff Nurse PostsTN NHM Contractual / Temporary Staff Nurse Vacancy 2026",
-        "title": "Contractual/Temporary Staff Nurse",
-        "qualification": "4724 Posts",
-        "last_date": "25-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "The upper age limit for applicants is 50 years. The notification does not specify a minimum age or any upper-age relaxation details for reserved categories. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://nhm.tn.gov.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/09/055654445-6aa4d5f9a300110475704.pdf"
-    },
-    {
         "date": "11/09/2026",
         "board": "ISRO IPRC Vacancy 2026 - 22 Fireman, Technician and More PostsISRO IPRC Vacancy 2026",
         "title": "Fireman, Technician and More",
@@ -109,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
+        "official_notification": "Not Available"
     },
     {
         "date": "08/09/2026",
@@ -721,22 +769,6 @@
     },
     {
         "date": "07/09/2026",
-        "board": "Exim Bank Vacancy 2026 - 08 Deputy Manager & Manager PostsExim Bank Deputy Manager & Manager Vacancy 2026",
-        "title": "Deputy Manager & Manager",
-        "qualification": "08 Posts",
-        "last_date": "10-10-2026",
-        "total_posts": "Not Available",
-        "salary": "In addition to pay, selected candidates are eligible for allowances, perquisites, and benefits applicable to the grade as per the Bank's rules prevailing at the time of joining, including residential/leased accommodation (subject to availability) and loan schemes for housing, vehicle, and children's education.",
-        "age_limit": "Age is computed as on 31-08-2026. The maximum age below already includes applicable age relaxation. || As per Government of India guidelines, the upper age limit for Persons with Disabilities (PWDs) is relaxed by an additional 10 years, and for Ex-servicemen by an additional 5 years.",
-        "application_fee": "Fees are non-refundable, including in cases where the applicant is later found ineligible for the post. Bank transaction charges for online payment must be borne by the candidate. The notification does not separately specify a fee amount for General/Unreserved male candidates.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.eximbankindia.in",
-        "official_notification": "https://www.eximbankindia.in/sites/default/files/2026-09/Detailed%20SRD%20Advertisement%20for%20Website.pdf"
-    },
-    {
-        "date": "07/09/2026",
         "board": "UIIC Vacancy 2026 - 225 Administrative Officer PostsUIIC Administrative Officer Vacancy 2026",
         "title": "Administrative Officer (Scale I) – Generalists & Hindi Officers",
         "qualification": "The minimum educational qualification must have been obtained on or before 30.06.2026 from a recognised university or institute, approved by UGC/AICTE, through the 10+2+3 pattern or an equivalent system. Working knowledge of computers is mandatory for all candidates. || Where only CGPA/OGPA/SGPA is awarded, candidates must produce a conversion certificate from the university; a fraction such as 59.99% will be treated as less than 60%.",
@@ -1133,7 +1165,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "vmc-recruitment-2026-apply-online-for-178-draftsman-work-assistant-and-more-posts-3067779"
+        "official_notification": "Not Available"
     },
     {
         "date": "31/08/2026",
