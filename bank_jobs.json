@@ -1,6 +1,22 @@
 [
     {
         "date": "16/09/2026",
+        "board": "RBI",
+        "title": "Medical Consultant",
+        "qualification": "MBBS, Post Graduate Degree in General Medicine",
+        "last_date": "08-10-2026",
+        "total_posts": "1",
+        "salary": "₹1400/- per hour (MBBS upto 20 years) or ₹1800/- per hour (MBBS >20 years or MD)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Medical Tests || Document Verification",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rbi.org.in",
+        "official_notification": "https://rbidocs.rbi.org.in/rdocs/Content/PDFs/ABMCS16092026FE3930297B4AD465D994AC5D5F9DA0D48.PDF"
+    },
+    {
+        "date": "16/09/2026",
         "board": "Exim Bank",
         "title": "Business Development Officer (BDO)",
         "qualification": "Any Post Graduate, MBA/PGDM",

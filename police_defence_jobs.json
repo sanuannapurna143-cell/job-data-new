@@ -1,5 +1,69 @@
 [
     {
+        "date": "16/09/2026",
+        "board": "DRDO MTRDC",
+        "title": "Junior Research Fellow",
+        "qualification": "Graduate Degree in Professional course in (B.E/B.Tech) in Electronics/EI/ECE/ET/EEE Engineering in first division with valid NET/GATE OR Post graduate degree (M.Sc.) in Electronics with First Division with NET OR Post Graduate Degree in Professional course(M.E./M.Tech) in Electronics or Power Electronics or Electrical Engineering in first Division both at graduate and Post Graduate level.",
+        "last_date": "15-10-2026",
+        "total_posts": "3",
+        "salary": "Junior Research Fellow (JRF): Rs. 37,000/- per month plus House Rent allowance as per rules.",
+        "age_limit": "Maximum Age: 28 years for Junior Research Fellow (JRF). || Age Relaxation:SC/ST/PH: 5 yearsOBC: 3 years || SC/ST/PH: 5 years || OBC: 3 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in/",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtMTRDC16092026.pdf"
+    },
+    {
+        "date": "16/09/2026",
+        "board": "DIAT",
+        "title": "Project Assistant (PA) & Analyst",
+        "qualification": "MBA (Operations, Finance), MBA (Logistics & Supply Chain Management) with minimum one year industry experience",
+        "last_date": "30-09-2026",
+        "total_posts": "2",
+        "salary": "Project Assistant (PA): ₹20,000/- (consolidated) Per Month || Analyst: ₹30,000/- (consolidated) Per Month",
+        "age_limit": "Maximum Age Limit: 28 years for all posts. || Age Relaxation: Up to 05 years for SC/ST, Women & PwBD and 03 years for OBC (NCL).",
+        "application_fee": "Not Available",
+        "selection_process": "Interview (in-person or video conferencing)",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.diat.ac.in",
+        "official_notification": "https://diat.ac.in/wp-content/uploads/2026/09/Advertisement-26-2026-PA-Analyst.pdf"
+    },
+    {
+        "date": "16/09/2026",
+        "board": "SLPRB AP",
+        "title": "Post Name",
+        "qualification": "The onus of proving recognition of educational qualification (such as an Intermediate or SSC certificate or its equivalent) by the State Government rests solely with the candidate, in case of doubt.",
+        "last_date": "30-10-2026",
+        "total_posts": "SCT Police Constable (Communications) (Men & Women)",
+        "salary": "Selected candidates receive a stipend during the period of institutional training, as fixed by the Government. On successful completion of training, they are appointed to the regular time scale of pay.",
+        "age_limit": "Age is reckoned as on 01.07.2026. || The prescribed age limits are not relaxed under any circumstances beyond what is specified. SLPRB does not validate age in the online application form due to the number of relaxation categories - the responsibility for checking age eligibility rests entirely with the candidate. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "Candidates who are non-local to Andhra Pradesh will be treated under the Open Category (OC) and must pay the OC fee rate. If a candidate pays the fee but fails to press \"Submit\" on the online application form, the application will be rejected without notice and the fee will not be refunded under any circumstances.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://slprb.ap.gov.in/",
+        "official_notification": "https://slprb.ap.gov.in/2026_PDFS/SLPRB_AP_SI_Notification_2026.pdf"
+    },
+    {
+        "date": "16/09/2026",
+        "board": "DRDO DHR&V",
+        "title": "DRDO Chair, DRDO Distinguished Fellowships, DRDO Fellowships",
+        "qualification": "Retired or due to retire officers from Central Government/Autonomous Body.",
+        "last_date": "16-10-2026",
+        "total_posts": "15",
+        "salary": "Fixed monthly honorarium shall be restricted to the amount arrived by deducting the basic pension from the last basic pay drawn at the time of retirement. No annual increment/percentage increased during the contract period. No allowances such as Dearness Allowance, House Rent Allowance, Government Accommodation, Medical reimbursement, Telephone/broadband reimbursement, etc., except Transport Allowance as admissible.",
+        "age_limit": "Maximum age limit is 5 years after superannuation.",
+        "application_fee": "Not Available",
+        "selection_process": "Applications received would be examined by a screening committee || The shortlisted names recommended by the screening committee would be submitted to the selection committee || The selection committee would then recommend the final list, before approval of the Competent Authority",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDRDO15092026.pdf"
+    },
+    {
         "date": "15/09/2026",
         "board": "CASDIC DRDO",
         "title": "Paid Intern",
@@ -253,6 +317,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bihar-stet-2026-notification-secondary-teacher-eligibility-test-3063020"
+        "official_notification": "Not Available"
     }
 ]
