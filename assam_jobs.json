@@ -1,5 +1,37 @@
 [
     {
+        "date": "17/09/2026",
+        "board": "STPI Vacancy 2026 - 15 Apprentice Trainee PostsSTPI Apprentice Trainee Vacancy 2026",
+        "title": "Apprentice Trainee",
+        "qualification": "Only candidates who have completed their Degree/Diploma qualification in June 2021 or thereafter shall be considered for engagement as Apprentice Trainee. Candidates who have already completed their apprenticeship (if any) in the past at STPI or any other organization shall not be considered.",
+        "last_date": "30-09-2026",
+        "total_posts": "Not Available",
+        "salary": "Selected Apprentice Trainees will receive a monthly stipend based on their qualification: || B.E/B.Tech candidates:Rs. 15,000/- per month || Bachelor in Arts/Commerce/Administration, etc.:Rs. 12,300/- per month || The Screening-cum-Selection Committee may offer a higher stipend, up to Rs. 20,000/- per month, based on the candidate's performance in the interview. The stipend payable to apprentices will be facilitated through the Direct Benefit Transfer (DBT) mechanism - the admissible Government share of stipend will be directly credited to the apprentices' bank accounts through the NATS portal after successful registration on the NATS Portal for DBT.",
+        "age_limit": "Reservation shall be applicable as per Government of India Rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Selection of candidates for STPI Apprentice Trainee posts will be carried out by shortlisting, based on their performance in the interview, depending upon the vacancies available in the various disciplines. Reservation shall be applicable as per Government of India Rules. There is no written examination specified in the notification.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://stpi.in/",
+        "official_notification": "https://stpi.in/sites/default/files/career-documents/notfn140926.pdf"
+    },
+    {
+        "date": "17/09/2026",
+        "board": "IIT Guwahati Vacancy 2026 - 2 Project Engineer PostsIIT Guwahati Project Engineer Vacancy 2026",
+        "title": "Project Engineer",
+        "qualification": "M.E/M.Tech in Engineering or Ph.D. in sensor development, B.E/B.Tech in Engineering",
+        "last_date": "20-09-2026",
+        "total_posts": "2",
+        "salary": "Rs. 31750 - Rs. 83750 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Online Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitg.ac.in",
+        "official_notification": "https://www.iitg.ac.in/pdf/3c0e2d073f1a1b72c43dd747a22aad67.pdf"
+    },
+    {
         "date": "16/09/2026",
         "board": "GRID India Vacancy 2026 - 52 Executive Trainee PostsGRID India Executive Trainee Vacancy 2026",
         "title": "Executive Trainee (Electrical / Computer Science)",
@@ -161,22 +193,6 @@
     },
     {
         "date": "11/09/2026",
-        "board": "IIT Guwahati Vacancy 2026 - 2 Assistant Project Engineer PostsIIT Guwahati Assistant Project Engineer Vacancy 2026",
-        "title": "Assistant Project Engineer",
-        "qualification": "Bachelor's degree in chemical engineering or mechanical engineering",
-        "last_date": "16-09-2026",
-        "total_posts": "2",
-        "salary": "Rs. 28500",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitg.ac.in/",
-        "official_notification": "https://www.iitg.ac.in/pdf/92475c8a37261949e682869d7c217ec9.pdf"
-    },
-    {
-        "date": "11/09/2026",
         "board": "Oil India Vacancy 2026 - 3 Deputy Chief Engineer, Economist and More PostsOil India Vacancy 2026",
         "title": "Deputy Chief Chemist / Deputy Chief Engineer (Reservoir) / Economist",
         "qualification": "Postgraduate Degree in Chemistry, Bachelor's/ Master's Degree in Petroleum Engineering or Business Economics",
@@ -318,22 +334,6 @@
         "syllabus": "Not Available",
         "official_website": "https://bcplonline.co.in/",
         "official_notification": "https://bcplonline.co.in/UploadFiles/Downloads/BCPL-NE062026.pdf"
-    },
-    {
-        "date": "09/09/2026",
-        "board": "DGFT Vacancy 2026 - 2 Young Professional PostsDGFT Young Professional Vacancy 2026",
-        "title": "Young Professional",
-        "qualification": "Master's Degree in Economics (preferably with International Trade), LLM/LLB and PG Diploma in any legal subject, MBA or equivalent from NIRF ranked institution up to 100/Masters in Public Policy/International Trade, B.Tech/B.E. in any discipline/MCA/Masters in Data Science or Data Analytics or Computational Mathematics",
-        "last_date": "16-09-2026",
-        "total_posts": "2",
-        "salary": "Rs. 56,000/- per month",
-        "age_limit": "Maximum Age Limit: 35 years || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Not Available",
-        "selection_process": "Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.dgft.gov.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/09/9667-6aa0dc883480013851384.pdf"
     },
     {
         "date": "08/09/2026",
@@ -529,22 +529,6 @@
     },
     {
         "date": "03/09/2026",
-        "board": "Tezpur University Vacancy 2026 - 1 IPR Chair Professor PostsTezpur University IPR Chair Professor Vacancy 2026",
-        "title": "IPR Chair Professor",
-        "qualification": "Professor or Associate Professor as per UGC with IPR experience, IP attorney with 10 years practice, Retired IP Office official with PhD and 5 years at Level 12+",
-        "last_date": "16-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 150000 Per Month",
-        "age_limit": "Max: 70 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.tezu.ernet.in",
-        "official_notification": "https://www.tezu.ernet.in/Admin/Advt_No_28_2026_IPR_Chair_Professor_Merged.pdf"
-    },
-    {
-        "date": "03/09/2026",
         "board": "UPSC Vacancy 2026 - 127 Assistant Chemist, Geologist and More PostsUPSC Vacancy 2026",
         "title": "Assistant Chemist, Geologist and More",
         "qualification": "Master's degree in Geological Science, Geology, Applied Geology, Geo-Exploration, Mineral Exploration, Engineering Geology, Marine Geology, Earth Science and Resource Management, Oceanography and Coastal Areas Studies, Petroleum Geosciences, or Geochemistry",
@@ -558,22 +542,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.upsc.gov.in/",
         "official_notification": "https://www.upsc.gov.in/sites/default/files/Notif-CGSPE-2027-Engl-020926.pdf"
-    },
-    {
-        "date": "02/09/2026",
-        "board": "TISS Vacancy 2026 - 1 Assistant Professor PostsTISS Assistant Professor Vacancy 2026",
-        "title": "Assistant Professor",
-        "qualification": "Master's degree with 55% marks in Sociology and cleared NET/SLET/SET or PhD. Alternatively, PhD from a foreign university ranked among top 500 in QS, THE, or ARWU.",
-        "last_date": "16-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 57700/- in the Academic Pay level 10 as per 7th CPC",
-        "age_limit": "Not Available",
-        "application_fee": "Rs 1000/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.tiss.ac.in",
-        "official_notification": "https://tiss.ac.in/uploads/files/Advt._Assistant_Professor_Sociology_TISS_GC_1.9.2026.pdf"
     },
     {
         "date": "29/08/2026",
@@ -621,7 +589,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "stpi-apprentice-trainee-recruitment-2026-apply-online-for-15-posts-3067983"
     },
     {
         "date": "26/08/2026",

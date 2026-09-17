@@ -1,5 +1,21 @@
 [
     {
+        "date": "17/09/2026",
+        "board": "DMSRDE",
+        "title": "Paid Internship",
+        "qualification": "Final year Graduate in Engineering / Post Graduate in Engineering and Science, full time Course in the respective discipline from a recognized Indian University/Institute",
+        "last_date": "28-09-2026",
+        "total_posts": "9",
+        "salary": "Rs. 5000 Per Month",
+        "age_limit": "Maximum Age Limit: 28 years || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "Not Available",
+        "selection_process": "CGPA based shortlisting (65% or 6.5 CGPA) || Online interview/Interaction || Document Verification || Merit List",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in/",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDMSRDE16092026.pdf"
+    },
+    {
         "date": "16/09/2026",
         "board": "DRDO MTRDC",
         "title": "Junior Research Fellow",
@@ -257,22 +273,6 @@
     },
     {
         "date": "27/08/2026",
-        "board": "ISRO ICRB",
-        "title": "Scientist/Engineer 'SC' (Electronics, Mechanical, Computer Science)",
-        "qualification": "BE/B.Tech or equivalent in Electronics & Communication / Mechanical / Computer Science Engineering with minimum 65% marks or CGPA 6.84/10",
-        "last_date": "16-09-2026",
-        "total_posts": "175",
-        "salary": "Selected candidates will be appointed as Scientist/Engineer 'SC' in Level 10 of the Pay Matrix with a minimum basic pay of ₹56,100 per month. In addition to basic pay, Dearness Allowance (DA), House Rent Allowance (HRA), and Transport Allowance are payable as per extant Central Government rules.",
-        "age_limit": "Maximum age limit: 28 years as on 16-09-2026. || Age relaxation is applicable for serving Central Government civilian employees, Ex-servicemen, and Persons with Benchmark Disabilities as per Government of India orders (specific relaxation figures are not specified in this notification). || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "There is a non-refundable application fee of ₹250 for all posts. However, all candidates must initially and uniformly pay ₹750 as a processing fee at the time of applying online. || The application fee is collected only in online mode through the Bharatkosh e-payment gateway, using Internet Banking, Unified Payment Interface (UPI), or Domestic Debit Cards. Cash, cheque, draft, money order, or IPO payments are not accepted. Refunds will be credited to the bank account details furnished by the candidate in the application; ICRB/ISRO will not be responsible for refund issues arising from incorrect bank details entered by the candidate. Refund will not be considered if a candidate does not appear for the Written Test/CBT.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.isro.gov.in",
-        "official_notification": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/August/Bilingual_Advertisement_27082026.pdf"
-    },
-    {
-        "date": "27/08/2026",
         "board": "DRDO DEBEL",
         "title": "Junior Research Fellow",
         "qualification": "BE/ BTech or ME/ MTech in Mechanical Engineering with 1st Division and valid GATE score",
@@ -302,21 +302,5 @@
         "syllabus": "Not Available",
         "official_website": "https://drdo.gov.in/",
         "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDIBT25082026.pdf"
-    },
-    {
-        "date": "14/08/2026",
-        "board": "AAI NR",
-        "title": "Apprentice     – 205 Posts",
-        "qualification": "BCA, B.Com, B.Tech/B.E, Diploma, ITI",
-        "last_date": "16-09-2026",
-        "total_posts": "205",
-        "salary": "₹15,000",
-        "age_limit": "Relaxation in upper age limit applicable as per Government of India guidelines",
-        "application_fee": "Not Available",
-        "selection_process": "Selection is merit-based , with no written examination. The process comprises: || Provisional selectionbased on the percentage of marks obtained in the qualifying examination (CGPA converted to percentage per the concerned Board/University norms). In case of a tie, date of birth and thereafter date of passing determine seniority. || Document Verificationat the establishment office, intimated only through the candidate's registered email ID. || Interview / Certificate Verification, with candidature remaining provisional throughout. || Medical Fitness Certificate(from a Government Medical Officer or Medical Officer of a Government Undertaking only), to be submitted at the time of joining. || Final selection and issuance of the apprentice engagement letter follow successful document verification and medical fitness clearance.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
     }
 ]
