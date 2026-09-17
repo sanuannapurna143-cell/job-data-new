@@ -1,6 +1,22 @@
 [
     {
         "date": "17/09/2026",
+        "board": "DIAT",
+        "title": "Senior Research Fellow, Junior Research Fellow, Project Assistant",
+        "qualification": "B.E./B.Tech/M.Sc. in Physics/ Electronics/ Applied Physics/ Optics/ Photonics with NET/GATE or M.E./M.Tech with First Division at Graduate & Post Graduate level for SRF/JRF. Bachelor's degree in any discipline with computer proficiency for Project Assistant.",
+        "last_date": "30-09-2026",
+        "total_posts": "7",
+        "salary": "Senior Research Fellow (SRF):₹42,000/- + 30% HRA (with NET/GATE) or ₹33,000/- + 30% HRA (without NET/GATE). || Junior Research Fellow (JRF):₹37,000/- + 30% HRA (For 1st & 2nd year), ₹42,000/- + 30% HRA (For 3rd year) (with NET/GATE) or ₹30,000/- + 30% HRA (without NET/GATE). || Project Assistant (PA):₹22,000/- + 30% HRA.",
+        "age_limit": "Senior Research Fellow (SRF):Maximum age limit is 32 years. Age relaxation applicable for SC/ST (05 years), Women & PwBD (05 years), OBC (NCL) (03 years). || Junior Research Fellow (JRF):Maximum age limit is 28 years. Age relaxation applicable for SC/ST (05 years), Women & PwBD (05 years), OBC (NCL) (03 years). || Project Assistant (PA):Maximum age limit is 28 years. Age relaxation applicable for SC/ST (05 years), Women & PwBD (05 years), OBC (NCL) (03 years).",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Interview (in-person or via video conference)",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://diat.ac.in",
+        "official_notification": "https://diat.ac.in/wp-content/uploads/2026/09/Advt-No.25-2026-SRF-JRF-PA-DIAT-2.pdf"
+    },
+    {
+        "date": "17/09/2026",
         "board": "DMSRDE",
         "title": "Paid Internship",
         "qualification": "Final year Graduate in Engineering / Post Graduate in Engineering and Science, full time Course in the respective discipline from a recognized Indian University/Institute",
