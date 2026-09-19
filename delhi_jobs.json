@@ -1,5 +1,21 @@
 [
     {
+        "date": "27/08/2026",
+        "board": "India Post Vacancy 2026 - 23757 Gramin Dak Sevak PostsIndia Post Gramin Dak Sevak Vacancy 2026",
+        "title": "Brief Role",
+        "qualification": "Secondary School Examination (SSE)/10th standard pass certificate, with passing marks in Mathematics and English, from a Board recognized by the Government of India/State Governments/Union Territories. Candidates with equivalent qualification from any other board are not eligible.",
+        "last_date": "19-09-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "The minimum age is 18 years and the maximum age is 40 years, to be determined as on the last date of submission of applications, subject to the following relaxations in the upper age limit. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "A fee of ₹100/- (Rupees One Hundred only) is payable by applicants for all posts notified in their choice of Division. Payment can be made online through recognized Credit/Debit cards, Net Banking, or UPI (usage charges as applicable will be levied). The fee, once paid, is non-refundable, and payment must be completed strictly within the application closing date and time (up to 1700 hrs). || Fee-exempted categories:All female applicants, SC/ST applicants, PwBD applicants, and Transwomen applicants || Applicants who are exempted may submit their application without making any payment",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.indiapost.gov.in",
+        "official_notification": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf"
+    },
+    {
         "date": "18/09/2026",
         "board": "NCDC Vacancy 2026 - 16 Technical Officer, data Manager and More PostsNCDC Vacancy 2026",
         "title": "Various Contractual Posts",
@@ -142,22 +158,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ird.iitd.ac.in",
         "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1789624485283_54c93vu.pdf"
-    },
-    {
-        "date": "27/08/2026",
-        "board": "India Post Vacancy 2026 - 23757 Gramin Dak Sevak PostsIndia Post Gramin Dak Sevak Vacancy 2026",
-        "title": "Brief Role",
-        "qualification": "Secondary School Examination (SSE)/10th standard pass certificate, with passing marks in Mathematics and English, from a Board recognized by the Government of India/State Governments/Union Territories. Candidates with equivalent qualification from any other board are not eligible.",
-        "last_date": "21-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "The minimum age is 18 years and the maximum age is 40 years, to be determined as on the last date of submission of applications, subject to the following relaxations in the upper age limit. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
-        "application_fee": "A fee of ₹100/- (Rupees One Hundred only) is payable by applicants for all posts notified in their choice of Division. Payment can be made online through recognized Credit/Debit cards, Net Banking, or UPI (usage charges as applicable will be levied). The fee, once paid, is non-refundable, and payment must be completed strictly within the application closing date and time (up to 1700 hrs). || Fee-exempted categories:All female applicants, SC/ST applicants, PwBD applicants, and Transwomen applicants || Applicants who are exempted may submit their application without making any payment",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.indiapost.gov.in",
-        "official_notification": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf"
     },
     {
         "date": "17/09/2026",
@@ -434,18 +434,18 @@
     {
         "date": "16/09/2026",
         "board": "GRID India Vacancy 2026 - 52 Executive Trainee PostsGRID India Executive Trainee Vacancy 2026",
-        "title": "Executive Trainee",
+        "title": "Executive Trainee (Electrical / Computer Science)",
         "qualification": "52 Posts",
         "last_date": "15-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
+        "total_posts": "Vacancy Type",
+        "salary": "Selected candidates will be placed at E2 level in the pay scale of Rs. 50,000 – 1,60,000/- IDA for a period of one year during On-The-Job Training (OJT), along with other applicable allowances and benefits. Upon successful completion of training, Executive Trainees will be regularized at E2 level in the same pay scale of Rs. 50,000 – 1,60,000/- IDA. The training period may be extended based on performance evaluation or at the discretion of the Management. || Upon regularization, the compensation package will also include Performance Related Pay, Company Leased Accommodation/Company Quarters or HRA, reimbursement of monthly conveyance expenditure, mobile facility, Group Insurance, Personal Accident Insurance, PF, Gratuity, Pension, Leave encashment, and other allowances and benefits as applicable. The Corporation also offers short and long-term Loans & Advances, including House Building Advance, and medical facilities for self and dependents.",
+        "age_limit": "The upper age limit is 28 years as on 31.07.2027 (candidates should have been born on or after 01.08.1999). Only Indian Nationals of age 18 years or above are eligible to apply for GRID-INDIA.",
+        "application_fee": "Candidates are not required to send any hard copy of the application to GRID-INDIA. Incomplete applications or applications submitted without the applicable fee will be rejected.",
         "selection_process": "Not Available",
-        "apply_mode": "Not Available",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "https://grid-india.in/",
+        "official_notification": "https://webcdn.grid-india.in/files/grdw/2026/09/Detailed%20Advt_GATE%202027_187.pdf"
     },
     {
         "date": "16/09/2026",
@@ -637,7 +637,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "tgpsc-manager-recruitment-2026-apply-online-for-130-posts-3068341"
+        "official_notification": "gmrc-recruitment-2026-notification-out-apply-online-for-48-manager-engineer-and-more-posts-3068358"
     },
     {
         "date": "15/09/2026",
@@ -685,7 +685,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://joinindianarmy.nic.in/dental/",
-        "official_notification": "tgpsc-manager-recruitment-2026-apply-online-for-130-posts-3068341"
+        "official_notification": "gmrc-recruitment-2026-notification-out-apply-online-for-48-manager-engineer-and-more-posts-3068358"
     },
     {
         "date": "08/09/2026",
@@ -750,22 +750,6 @@
         "syllabus": "Not Available",
         "official_website": "https://esic.gov.in/",
         "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Recruitment_for_engagement_against_25_vacant_positions_in_the_Project_Management_Unit_PMU_ICT_regarding_1789117508.pdf"
-    },
-    {
-        "date": "31/08/2026",
-        "board": "IPA Vacancy 2026 - 5 Senior Consultant and Consultant PostsIPA Vacancy 2026",
-        "title": "Senior Consultant and Consultant",
-        "qualification": "Master's degree (full-time) or above from a reputed Indian or International University in Economics, Public Policy, Maritime, Trade, Transport Management, International Relations, or related subjects.",
-        "last_date": "18-09-2026",
-        "total_posts": "5",
-        "salary": "Senior Consultant:₹15,00,000/- per annum (Monthly fixed remuneration for the initial period of 2 years; no change in remuneration will be considered during the initial period.) || Consultant:₹12,00,000/- per annum (Monthly fixed remuneration for the initial period of 2 years; no change in remuneration will be considered during the initial period.)",
-        "age_limit": "Minimum Age: 25 years || Maximum Age: 45 years || Age relaxation is not specified in the provided data.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Please refer to the official notification for selection process details.",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ipa.org.in",
-        "official_notification": "https://newmangaloreport.gov.in/sites/default/files/2026-08/Consultants%20detailed%20advertisement.pdf"
     },
     {
         "date": "11/09/2026",
@@ -1265,22 +1249,6 @@
     },
     {
         "date": "08/09/2026",
-        "board": "IIT Delhi Vacancy 2026 - 1 Project Scientist PostsIIT Delhi Project Scientist Vacancy 2026",
-        "title": "Project Scientist",
-        "qualification": "Master's degree in Economics with First Division / Merit, Proficiency in Stata, Python, and LaTeX, Experience working with large-scale online job postings data and managing administrative datasets, Strong interest in labor economics, Six months of research experience, Excellent analytical, quantitative, and communication skills.",
-        "last_date": "18-09-2026",
-        "total_posts": "1",
-        "salary": "Rs 47,790-49,220-50,700, 52,220, 53,790, 55,400, 57,060-58,770-60,530, 62,350/- p.m. plus HRA @30%",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "http://ird.iitd.ac.in/",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1788775274753_xtsihms.pdf"
-    },
-    {
-        "date": "08/09/2026",
         "board": "Prasar Bharati Vacancy 2026 - 20 Marketing Executive PostsPrasar Bharati Marketing Executive Vacancy 2026",
         "title": "Marketing Executive",
         "qualification": "Candidates must hold an MBA, MBA (Marketing), or PG Diploma in Management/Marketing from a recognised Management Institute/University, along with a minimum of one year of experience in direct sales. Preference will be given to candidates with experience in Media Sales.",
@@ -1553,38 +1521,6 @@
     },
     {
         "date": "04/09/2026",
-        "board": "IIT Delhi Vacancy 2026 - 2 Jr Research Fellow PostsIIT Delhi Jr Research Fellow Vacancy 2026",
-        "title": "Jr Research Fellow",
-        "qualification": "Postgraduate degree in Basic Science with NET qualification, or a Graduate degree in a professional course with NET qualification, or a Postgraduate degree in a professional course.",
-        "last_date": "18-09-2026",
-        "total_posts": "2",
-        "salary": "Rs 37,000/-p.m. Plus HRA @30%",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "http://ird.iitd.ac.in/",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1788428957290_w93hyka.pdf"
-    },
-    {
-        "date": "04/09/2026",
-        "board": "TCIL Vacancy 2026 - 8 Apprentice PostsTCIL Apprentice Vacancy 2026",
-        "title": "Apprentice",
-        "qualification": "Three years LLB or Five years integrated Law/LLB course approved by BAR Council of India, B.E./B.Tech in Electronics/Civil Engg., Diploma (3 years Course) in Electronics/Civil Engg./Computer Science/IT",
-        "last_date": "18-09-2026",
-        "total_posts": "8",
-        "salary": "Legal Apprentice: Rs.12,300/- || Apprentice (Graduate Engineer): Rs. 12,300/- || Apprentice (Technician Diploma): Rs. 10,900/-",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 28 years || Age relaxation in upper age admissible as per GOI guidelines for SC/ST/OBC.",
-        "application_fee": "Nil",
-        "selection_process": "Merit-based || Interview || Verification of certificates/testimonials",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.tcil.net.in",
-        "official_notification": "https://www.tcil.net.in/docs/career/03092026b.pdf"
-    },
-    {
-        "date": "04/09/2026",
         "board": "RCFL Vacancy 2026 - 326 Graduate, Technician, Trade Apprentice PostsRCFL Vacancy 2026",
         "title": "Graduate, Technician, Trade Apprentice",
         "qualification": "The prescribed qualification must be from a recognised University/Institute, completed as a regular full-time course. Distance Learning, Part-Time, or Correspondence mode qualifications are not eligible. || Allied branches of Diploma in Engineering are not applicable/acceptable. || Candidates who have completed Act Apprentice training or job experience of one year or more, or who are pursuing higher studies, are not eligible. || The candidate's passing certificate/final year mark sheet of the required qualification must be dated on or after 1 July 2023, with the minimum percentage calculated on the final year or the aggregate of the last two semesters. || Applicants with a B.Sc in Chemistry, Physics, and Mathematics will be considered only for Attendant Operator (Chemical Plant) (AOCP) and Laboratory Assistant (Chemical Plant) (LACP) trades under the RDSDE scheme, with Chemistry as the major subject. || Applicants with a B.Sc in Chemistry, Physics, and Mathematics will be considered only for the Instrument Mechanic (Chemical Plant) (IMCP) trade under the RDSDE scheme, with Physics as the major subject. || Candidates with Biology in their Graduation degree, with only Zoology or only Botany, may apply as Graduate Apprentices under Secretarial Assistant or Recruitment Executive (HR). || Candidates may apply without the passing certificate, but the original passing certificate must be submitted at document verification, failing which the candidature will be cancelled.",
@@ -1744,22 +1680,6 @@
         "official_notification": "https://www.ircon.org/sites/default/files/2026-08/Advt%20%20No%20IRPL%20C02%202026.pdf"
     },
     {
-        "date": "01/09/2026",
-        "board": "IPA Vacancy 2026 - 5 Senior Consultant/ Consultant PostsIPA Senior Consultant/ Consultant Vacancy 2026",
-        "title": "Senior Consultant / Consultant",
-        "qualification": "Master's degree (full-time) or above from a reputed Indian or International University in Economics, Public Policy, Maritime, Trade, Transport Management, International Relations, or related subjects",
-        "last_date": "18-09-2026",
-        "total_posts": "5",
-        "salary": "Senior Consultant: Rs. 1500000 Per Annum || Consultant: Rs. 1200000 Per Annum",
-        "age_limit": "Minimum Age: 25 years || Maximum Age: 45 years || Age relaxation details are not specified in the provided data. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
-        "application_fee": "Not Available",
-        "selection_process": "Interview || Document Verification",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ipa.org.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/09/5645-6a966088d2a0b77388852.pdf"
-    },
-    {
         "date": "26/08/2026",
         "board": "NIC Vacancy 2026 - 376 Scientific/Technical Assistant PostsNIC Scientific/Technical Assistant Vacancy 2026",
         "title": "Scientific/Technical Assistant-A",
@@ -1805,7 +1725,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "tgpsc-manager-recruitment-2026-apply-online-for-130-posts-3068341"
+        "official_notification": "gmrc-recruitment-2026-notification-out-apply-online-for-48-manager-engineer-and-more-posts-3068358"
     },
     {
         "date": "29/08/2026",
@@ -1854,22 +1774,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iob.bank.in",
         "official_notification": "https://www.iob.bank.in/documents/d/guest/Revised-FINAL-Web-Ad-Recruitment-Gen-Spl-2026-27"
-    },
-    {
-        "date": "29/08/2026",
-        "board": "NJB Vacancy 2026 - 14 Consultant, Young Professional PostsNJB Vacancy 2026",
-        "title": "Consultant and Young Professional",
-        "qualification": "Retired from Govt. posts, CA/CMA/B.Com with MBA, MBA (Marketing), M.Tech/ME.",
-        "last_date": "18-09-2026",
-        "total_posts": "14",
-        "salary": "Young Professional (Finance & Economic Services): Rs. 70,000 INR per Month || Young Professional (Market Promotion & Scheme Implementation): Rs. 70,000 INR per Month || Young Professional (Technology & Technical): Rs. 70,000 INR per Month",
-        "age_limit": "Consultant: Maximum age limit is 63 years. || Young Professional: Maximum age limit is 35 years. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.jute.com",
-        "official_notification": "https://img2.freejobalert.com/news/2026/08/147852-6a9256a751faf21405148.pdf"
     },
     {
         "date": "28/08/2026",
@@ -2142,22 +2046,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iari.res.in/",
         "official_notification": "https://iari.res.in/files/jobs/Full_Advt_Okra_YP-I_and_YP-II_19082026.pdf"
-    },
-    {
-        "date": "19/08/2026",
-        "board": "NHAI Vacancy 2026 - 12 General Manager / Deputy General Manager PostsNHAI General Manager / Deputy General Manager Vacancy 2026",
-        "title": "General Manager / Deputy General Manager",
-        "qualification": "Bachelor of Law, B.Tech Civil Engineering, Post Graduate in Transport Planning, Post Graduate in Economics, Graduate/Post Graduate in Environment Science/Engineering, B.Tech Electronics & Communication, B.Tech/BE/MCA in Computer Science/IT",
-        "last_date": "18-09-2026",
-        "total_posts": "12",
-        "salary": "General Manager Posts: Level-13 (Rs. 123100-215900) Per Month || Deputy General Manager (Information Technology): Level-12 (Rs. 78800-209200) Per Month",
-        "age_limit": "Maximum Age Limit: 56 years for all posts. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Not Available",
-        "selection_process": "Deputation || Document Verification || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nhai.gov.in",
-        "official_notification": "https://nhai.gov.in/nhai/sites/default/files/vacancy_files/Hindi_Detailed_Advertisement_Combined_0.pdf"
     },
     {
         "date": "18/08/2026",
