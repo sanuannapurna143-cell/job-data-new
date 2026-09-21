@@ -1,6 +1,22 @@
 [
     {
         "date": "21/09/2026",
+        "board": "STCL Vacancy 2026 - 15 Executive, Senior Executive and More Posts PostsSTCL Vacancy 2026",
+        "title": "Executive, Senior Executive and More Posts",
+        "qualification": "Graduate with MBA/PGDM (Operation), Graduate",
+        "last_date": "11-10-2026",
+        "total_posts": "15",
+        "salary": "Executive (Operations): Rs 7.62 LPA || Senior Executive (Operations): Rs 8.51 LPA || Associate (Operations): Rs 5 LPA || Dy Manager/Assistant Manager (Operations): Rs 13.75 LPA / Rs 11.40 LPA",
+        "age_limit": "Maximum Age Limit: 40 years for all posts. || Age Relaxation: Relaxation may be given to highly deserving candidates. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "Not Available",
+        "selection_process": "CV Screening || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bharattaxiapp.com",
+        "official_notification": "https://www.ncdc.in/documents/career/1914210926Dy-ManagerAssistant-Manager-(Operation).pdf"
+    },
+    {
+        "date": "21/09/2026",
         "board": "GBPUAT Vacancy 2026 - 1 Senior Research Fellow PostsGBPUAT Senior Research Fellow Vacancy 2026",
         "title": "Senior Research Fellow (SRF)",
         "qualification": "M.Sc. Agri. Entomology with 4 year Bachelor Degree and at least two years experience in the field of bio efficacy testing.",
@@ -65,22 +81,6 @@
     },
     {
         "date": "18/09/2026",
-        "board": "IIT Roorkee Vacancy 2026 - 1 Project Consultant PostsIIT Roorkee Project Consultant Vacancy 2026",
-        "title": "Project Consultant",
-        "qualification": "B.Tech (Electrical/Mechanical), BEE Certified Energy Auditor, Minimum 25 Years of Work Experience",
-        "last_date": "21-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 250000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in",
-        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/AR/2026/adv170920261.pdf"
-    },
-    {
-        "date": "18/09/2026",
         "board": "GBPUAT Vacancy 2026 - 45 Associate Professor and Assistant Professor PostsGBPUAT Vacancy 2026",
         "title": "Associate Professor and Assistant Professor",
         "qualification": "A relaxation of 5% at Bachelor's and Master's levels is available to eligible SC, ST, OBC Non-Creamy Layer and differently-abled candidates. || The relaxation is based only on qualifying marks and does not include grace marks. || Eligible Ph.D. holders who obtained their Master's degree before 19 September 1991 may receive relaxation from 55% to 50%.",
@@ -112,22 +112,6 @@
         "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CSE/2026/adv170920262.pdf"
     },
     {
-        "date": "17/09/2026",
-        "board": "Badrinath Forest Division Vacancy 2026 - 1 Subject Matter Expert PostsBadrinath Forest Division Subject Matter Expert Vacancy 2026",
-        "title": "Subject Matter Expert (Silviculture & Forest Management)",
-        "qualification": "Graduate/Post Graduate in Science from recognized university, Minimum 15 years experience in Silviculture & Forest Management, Knowledge of Uttarakhand geography, MS Office, MS Excel, Internet and data analysis skills",
-        "last_date": "21-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 60000 Per Month",
-        "age_limit": "Maximum Age Limit: 70 years",
-        "application_fee": "Nil",
-        "selection_process": "Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.forest.uk.gov.in",
-        "official_notification": "https://forest.uk.gov.in/uploads/recruitments/rec-8249_vigyapti.pdf"
-    },
-    {
         "date": "16/09/2026",
         "board": "UKSSSC Vacancy 2026 - 200 Scaler PostsUKSSSC Scaler Vacancy 2026",
         "title": "Scaler",
@@ -141,7 +125,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        "official_notification": "Not Available"
     },
     {
         "date": "15/09/2026",

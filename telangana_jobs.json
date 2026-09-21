@@ -1,6 +1,38 @@
 [
     {
         "date": "21/09/2026",
+        "board": "ECHS Telangana and Andhra Pradesh Vacancy 2026 - 96 Peon, Clerk and More PostsECHS Telangana and Andhra Pradesh Vacancy 2026",
+        "title": "Vacancies",
+        "qualification": "Candidates should refer to the detailed terms and conditions available on the ECHS website for post-wise experience and age requirements.",
+        "last_date": "04-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs.21,800 to Rs.1,30,000 per month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Scrutiny of applications and supporting documents || Written test for candidates meeting the qualitative requirements || Interview for candidates who qualify in the written test || Final selection based on overall merit || The written test date, time and venue will be communicated to accepted applicants through email. No travelling allowance or daily allowance will be paid for attending the selection process.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.echs.gov.in",
+        "official_notification": "https://www.echs.gov.in/assets/advertisement/7896523.pdf"
+    },
+    {
+        "date": "21/09/2026",
+        "board": "NIT Warangal Vacancy 2026 - 2 Junior Research Fellow PostsNIT Warangal Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.E./B.Tech., M.E./M.Tech./M.S., M.Sc.",
+        "last_date": "03-10-2026",
+        "total_posts": "2",
+        "salary": "Rs. 37000 Per Month",
+        "age_limit": "Max: 30 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitw.ac.in",
+        "official_notification": "https://nitw.ac.in/api/static/files/JRFNotification_Prof_Shyam_Perugu_2026-9-21-16-40-45.pdf"
+    },
+    {
+        "date": "21/09/2026",
         "board": "BITS Pilani Vacancy 2026 - 1 Junior Research Fellow PostsBITS Pilani Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow (JRF)",
         "qualification": "M.Tech/ M.E. in Manufacturing/ Production/ CAD-CAM/ Design",
@@ -353,22 +385,6 @@
     },
     {
         "date": "15/09/2026",
-        "board": "Gayatri Bank Vacancy 2026 - Law Officer, Junior Software Associate and More PostsGayatri Bank Vacancy 2026",
-        "title": "Law Officer, Junior Software Associate and More",
-        "qualification": "MCA, OR M.Tech (Computer Science and Electronics), OR M.Sc. (Computer Science) - with a minimum of 70 marks in academic weightage as per the bank's marking chart (maximum 85)",
-        "last_date": "21-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Age Limit",
-        "application_fee": "There is no application fee for any of the three posts - Qualified/Semi-Qualified CA's, Junior Software Associate, and Law Officer. Gayatri Bank does not charge applicants any recruitment fee or deposit in return for job offers, and no third party is authorized on behalf of the Bank to make employment offers, refer, or place candidates for a fee.",
-        "selection_process": "The selection process is the same across all three posts: || Interview || Documentation || For the Junior Software Associate post specifically, eligible male candidates meeting the minimum academic weightage of 70 marks will be called for interview. No written examination is conducted for any of these posts. Applying for the job does not confer any right on the candidates to claim appointment.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://gayatri.bank.in/",
-        "official_notification": "https://gayatri.bank.in/wp-content/uploads/2026/09/Law-Officer.pdf"
-    },
-    {
-        "date": "15/09/2026",
         "board": "Narayanpet ICDS Anganwadi Vacancy 2026 - 65 Anganwadi Teacher & Helper PostsNarayanpet ICDS Anganwadi Anganwadi Teacher & Helper Vacancy 2026",
         "title": "Anganwadi Teacher & Helper",
         "qualification": "Candidates applying for Anganwadi Teacher and Anganwadi Helper posts must have passed Intermediate (12th class) as the mandatory educational qualification. For the Anganwadi Helper post specifically, if no candidate with Intermediate/12th class qualification is available in a given area, a candidate with a lower qualification (SSC) will be considered for selection.",
@@ -397,7 +413,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "gujarat-anganwadi-recruitment-2026-apply-online-for-6843-anganwadi-worker-and-helper-posts-3068594"
+        "official_notification": "Not Available"
     },
     {
         "date": "15/09/2026",
@@ -609,22 +625,6 @@
     },
     {
         "date": "08/09/2026",
-        "board": "Telangana Anganwadi Vacancy 2026 - 255 Anganwadi Teacher, Anganwadi Helper PostsTelangana Anganwadi Vacancy 2026",
-        "title": "Anganwadi Teacher, Anganwadi Helper",
-        "qualification": "255 Posts",
-        "last_date": "21-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Candidates must be between 18 and 35 years of age as on 01.07.2026. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://mis.tgwdcw.in/",
-        "official_notification": "https://mis.tgwdcw.in/AWTNotification2026/NAGARKURNOOL_NOTIFICATION1_07.09.2026.jpeg"
-    },
-    {
-        "date": "08/09/2026",
         "board": "NIAB Vacancy 2026 - 2 Senior Research Fellow, Senior Project Assistant PostsNIAB Vacancy 2026",
         "title": "Senior Research Fellow, Senior Project Assistant",
         "qualification": "MVSc./M.Tech./MSc. in Biotechnology/Biochemistry/Microbiology/Immunology with 2 years' experience OR Graduate Degree in Arts/ Science/ Commerce or Business Management with 5 years' experience.",
@@ -782,38 +782,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iith.ac.in",
         "official_notification": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_58_SeniorConsultant.pdf"
-    },
-    {
-        "date": "01/09/2026",
-        "board": "Khammam District Court Vacancy 2026 - 1 Special Judicial Magistrate of Second Class PostsKhammam District Court Special Judicial Magistrate of Second Class Vacancy 2026",
-        "title": "Special Judicial Magistrate of Second Class",
-        "qualification": "Retired Judicial Officer or equivalent as per High Court ROC No.2589/95/E1 dated 29.03.1997",
-        "last_date": "21-09-2026",
-        "total_posts": "1",
-        "salary": "Rs.45,000 + 5,000 conveyance allowance per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Application Scrutiny || Document Verification",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://khammam.dcourts.gov.in/",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec02e8bf0f27d70d480d3ab793bb7619/uploads/2026/08/2026082117.pdf"
-    },
-    {
-        "date": "31/08/2026",
-        "board": "District Court Warangal Vacancy 2026 - 1 Senior Superintendent (Head Clerk) PostsDistrict Court Warangal Senior Superintendent (Head Clerk) Vacancy 2026",
-        "title": "Senior Superintendent (Head Clerk)",
-        "qualification": "Retired from Judicial Ministerial service in the category Senior Superintendent",
-        "last_date": "21-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 40000 Per Month",
-        "age_limit": "Max: 65 years",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://warangal.dcourts.gov.in/",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0451e6d6e679953c6311757004d8cb/uploads/2026/08/2026082950.pdf"
     },
     {
         "date": "29/08/2026",

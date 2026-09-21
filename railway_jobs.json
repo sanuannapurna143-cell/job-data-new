@@ -1,6 +1,38 @@
 [
     {
         "date": "21/09/2026",
+        "board": "Central Railway",
+        "title": "Railway Advocate",
+        "qualification": "LL.B. from recognized University, Minimum 3 years experience as Advocate",
+        "last_date": "23-10-2026",
+        "total_posts": "33",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Personal Interview || Document Verification || Background Verification",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://cr.indianrailways.gov.in",
+        "official_notification": "https://cr.indianrailways.gov.in/cris//uploads/files/1789988441789-BP-70C65_20260921_143612.pdf"
+    },
+    {
+        "date": "21/09/2026",
+        "board": "DMRC",
+        "title": "Head Operations",
+        "qualification": "Bachelor's degree in any engineering discipline",
+        "last_date": "11-10-2026",
+        "total_posts": "1",
+        "salary": "Level 14 (Rs. 144200-218200) CDA or Rs. 120000-280000 IDA or equivalent",
+        "age_limit": "Maximum Age: 58 years || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "Not Available",
+        "selection_process": "Personal Interview || Medical Fitness Examination",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.delhimetrorail.com",
+        "official_notification": "https://backend.delhimetrorail.com/documents/11747/Advt-234-Head-Operations.pdf"
+    },
+    {
+        "date": "21/09/2026",
         "board": "RRB",
         "title": "Non-Technical Popular Categories     – 3,477",
         "qualification": "This recruitment is intended for graduate-level Non-Technical Popular Category posts.",
@@ -301,7 +333,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ntpc-assistant-officer-recruitment-2026-apply-online-for-15-posts-3068557"
+        "official_notification": "Not Available"
     },
     {
         "date": "15/09/2026",
@@ -477,7 +509,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ntpc-assistant-officer-recruitment-2026-apply-online-for-15-posts-3068557"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/09/2026",
@@ -525,7 +557,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ntpc-assistant-officer-recruitment-2026-apply-online-for-15-posts-3068557"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/08/2026",
