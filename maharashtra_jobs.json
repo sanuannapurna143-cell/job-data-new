@@ -1,6 +1,86 @@
 [
     {
         "date": "22/09/2026",
+        "board": "TISS Vacancy 2026 - 1 Field Coordinator PostsTISS Field Coordinator Vacancy 2026",
+        "title": "Field Coordinator",
+        "qualification": "Master’s degree in Psychology or Social Work",
+        "last_date": "26-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 48000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://tiss.ac.in",
+        "official_notification": "https://tiss.ac.in/uploads/files/JD-_FC.docx.pdf"
+    },
+    {
+        "date": "22/09/2026",
+        "board": "BECIL Vacancy 2026 - 10 Supervisor PostsBECIL Supervisor Vacancy 2026",
+        "title": "Supervisor",
+        "qualification": "M.E./M.Tech. in Safety Engineering along with B.E./B.Tech. in Civil, Mechanical, or Electrical Engineering; OR B.E./B.Tech. in Civil, Mechanical, or Electrical Engineering along with a one-year full-time Degree/Diploma in Safety; OR B.E./B.Tech. in Fire & Safety Engineering. Minimum CGPA of 6.0 or 60% marks required, from a Government-recognized University/Institution approved by UGC/AICTE or any other competent Government authority.",
+        "last_date": "06-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "The notification does not specify a reference date for age calculation or any age relaxation for reserved categories. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "The application processing fee, once paid, is non-refundable and non-transferable under any circumstances.",
+        "selection_process": "Applications are invited from eligible candidates through the advertisement published by BECIL. || Applications received are scrutinized and shortlisted based on the eligibility criteria prescribed for the respective post. || Mere possession of the prescribed educational qualification, experience and other eligibility requirements does not entitle a candidate to be called for any stage of the selection process. || Preference may be given to candidates possessing higher qualifications, superior academic credentials, additional relevant experience, or any other desirable criteria, as determined by the Client/Principal Employer. || The list of shortlisted candidates is forwarded to the Client/Principal Employer for further selection process, including interview, assessment, skill test, or any other evaluation method as decided by the Client. || Shortlisted candidates are informed of the date, time and venue/mode of interview, assessment or skill test through registered email and/or telephone.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.becil.com/",
+        "official_notification": "https://www.becil.com/uploads/topics/17900771609733.pdf"
+    },
+    {
+        "date": "22/09/2026",
+        "board": "IIPS Vacancy 2026 - 1 Research Officer PostsIIPS Research Officer Vacancy 2026",
+        "title": "Research Officer",
+        "qualification": "Masters in Population Studies/ Demography / Public Health/ Economics/ Statistics/ Allied Subjects, Experience in analysing large-scale demographic and health survey data such as NSS, NFHS, Proficiency in STATA, R and MS Office Suite (Word, Excel, PowerPoint), Excellent oral and written communication skills in English",
+        "last_date": "01-10-2026",
+        "total_posts": "1",
+        "salary": "Rs. 60000 Per Month",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "Nil",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iipsindia.ac.in/",
+        "official_notification": "https://www.iipsindia.ac.in/sites/default/files/job-listing/Advertisement_for_Research_Officer_PMJAY_Project.pdf"
+    },
+    {
+        "date": "22/09/2026",
+        "board": "Sainik School Satara Vacancy 2026 - 8 Nursing Sister, Ward Boy and More PostsSainik School Satara Vacancy 2026",
+        "title": "Number of Vacancies",
+        "qualification": "Desirable qualifications (such as additional certifications, prior experience in a residential school, sports/art/music attainments, and computer knowledge) vary by post and are mentioned separately for each role in the official notification; these are not compulsory requirements.",
+        "last_date": "09-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 40,000/-",
+        "age_limit": "Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "Rs. 250/- (non-refundable), payable via A/c payee Demand Draft of any Nationalised Bank in favour of \"Principal, Sainik School Satara\", payable at Satara",
+        "selection_process": "The notification states that shortlisted candidates will be sent call letters by e-mail or post, indicating the date, venue and type of examination. The venue of examination is Sainik School Satara. Detailed selection stages (such as written test, skill test, or interview) are not specified in the provided notification.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sainiksatara.org/",
+        "official_notification": "https://www.sainiksatara.org/images/AdvtforWebsite_sep_2026.pdf"
+    },
+    {
+        "date": "22/09/2026",
+        "board": "Mumbai Port Authority Vacancy 2026 - 3 Deputy Chief Engineer PostsMumbai Port Authority Deputy Chief Engineer Vacancy 2026",
+        "title": "Deputy Chief Engineer (Civil)",
+        "qualification": "Degree in Civil Engineering with 12 years of experience",
+        "last_date": "21-10-2026",
+        "total_posts": "3",
+        "salary": "Rs. 80000-220000",
+        "age_limit": "Max age limit for direct recruitment is 42 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mumbaiport.gov.in",
+        "official_notification": "https://mumbaiport.gov.in/WriteReadData/RTF1984/1789987756.pdf"
+    },
+    {
+        "date": "22/09/2026",
         "board": "TMC Vacancy 2026 - 4 Medical Officer PostsTMC Medical Officer Vacancy 2026",
         "title": "Medical Officer",
         "qualification": "M.B.B.S graduate with successful completion of internship from recognized University.",
@@ -781,7 +861,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bpsc-tre-40-notification-2026-32-388-school-teacher-posts-3063451"
     },
     {
         "date": "16/09/2026",
@@ -925,7 +1005,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bpsc-tre-40-notification-2026-32-388-school-teacher-posts-3063451"
     },
     {
         "date": "15/09/2026",
@@ -1533,7 +1613,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bpsc-tre-40-notification-2026-32-388-school-teacher-posts-3063451"
     },
     {
         "date": "01/09/2026",
@@ -1629,7 +1709,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bpsc-tre-40-notification-2026-32-388-school-teacher-posts-3063451"
     },
     {
         "date": "27/08/2026",
