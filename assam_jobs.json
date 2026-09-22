@@ -1,5 +1,37 @@
 [
     {
+        "date": "22/09/2026",
+        "board": "CSC Vacancy 2026 - 35 Aadhaar Supervisor/Operator PostsCSC Aadhaar Supervisor/Operator Vacancy 2026",
+        "title": "Aadhaar Supervisor/Operator - District",
+        "qualification": "Candidates should have any one of the following qualifications: || 12th (Intermediate/Senior Secondary) || Matriculation + 2 Years ITI || Matriculation + 3 Years Polytechnic Diploma",
+        "last_date": "03-10-2026",
+        "total_posts": "Not Available",
+        "salary": "The selected candidates will receive remuneration as per the minimum wages of the respective state set for semi-skilled manpower .",
+        "age_limit": "The minimum age required is 18 years or above .",
+        "application_fee": "Not Available",
+        "selection_process": "The notification mentions eligibility requirements and certification-related conditions. Candidates must have the required Aadhaar Operator/Supervisor certification issued by a UIDAI-authorized agency.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "22/09/2026",
+        "board": "C-DAC Vacancy 2026 - 1 Consultant PostsC-DAC Consultant Vacancy 2026",
+        "title": "Consultant (IT and Network Engineer)",
+        "qualification": "B.E/B-Tech in CSE/ECE/EEE/IT or relevant domain(s) with 60% or equivalent CGPA, M.E/M.Tech/Post Graduate degree in CSE/EEE/ECE/IT or relevant domain(s) with 60% or equivalent CGPA, Ph.D. (all but thesis) in relevant discipline, 8-10 Years Relevant Experience in Network Administration, LAN/WAN, Routing & Switching, Cisco devices, Firewalls, VPN, etc.",
+        "last_date": "28-09-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Maximum Age: 56 years || Age will be calculated as on 01 June 2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Pre-Qualification Evaluation || Interview (Offline/Online)",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cdac.in",
+        "official_notification": "https://www.cdac.in/index.aspx?id=pdf_hrd_sil&dynamicId=Advertisement-Consultant.pdf"
+    },
+    {
         "date": "21/09/2026",
         "board": "NCDC Vacancy 2026 - Consultant PostsNCDC Consultant Vacancy 2026",
         "title": "Consultant / Consulting Firm",
@@ -176,22 +208,6 @@
         "official_notification": "/cdn-cgi/l/email-protection"
     },
     {
-        "date": "16/09/2026",
-        "board": "PCCF HoFF Assam Vacancy 2026 - 3 Computer Assistant, GIS Analyst PostsPCCF HoFF Assam Vacancy 2026",
-        "title": "Computer Assistant, GIS Analyst",
-        "qualification": "Graduation in any discipline with One year Diploma in Computer Application, Master's degree in GIS and Remote Sensing",
-        "last_date": "21-09-2026",
-        "total_posts": "3",
-        "salary": "Rs. 40000 Per Month",
-        "age_limit": "Minimum Age: 21 years || Maximum Age: 40 years || Age relaxation details are not specified in the provided data.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://forest.assam.gov.in/",
-        "official_notification": "https://www.asbb.gov.in/pdf/whats_new/110926/Add110926.pdf"
-    },
-    {
         "date": "08/09/2026",
         "board": "RRB Vacancy 2026 - 590 Pharmacist, Lab Assistant and More PostsRRB Vacancy 2026",
         "title": "Post Name",
@@ -222,22 +238,6 @@
         "syllabus": "Not Available",
         "official_website": "https://nhm.assam.gov.in",
         "official_notification": "https://nhmssd.assam.gov.in/eHRMIS_latest/uploadAdmin/uploads/job186-doc-1.pdf"
-    },
-    {
-        "date": "12/09/2026",
-        "board": "PCCF & HoFF Assam Vacancy 2026 - 3 Computer Assistant, GIS Analyst PostsPCCF & HoFF Assam Vacancy 2026",
-        "title": "Computer Assistant and GIS Analyst",
-        "qualification": "Graduation in any discipline, Diploma in Computer Application, Master's degree",
-        "last_date": "21-09-2026",
-        "total_posts": "3",
-        "salary": "Rs. 40,000/- Per Month (Fixed) for both posts.",
-        "age_limit": "Minimum Age: 21 years || Maximum Age: 40 years || Age will be calculated as on 01-01-2026. || Age relaxation will be as per government rules. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.asbb.gov.in/",
-        "official_notification": "https://www.asbb.gov.in/pdf/whats_new/110926/Add110926.pdf"
     },
     {
         "date": "11/09/2026",
@@ -446,38 +446,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ssc.gov.in",
         "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_je_2026.pdf"
-    },
-    {
-        "date": "08/09/2026",
-        "board": "SASU Vacancy 2026 - 3 Professor, Librarian and More PostsSASU Vacancy 2026",
-        "title": "Professor in Sports Management, Finance & Accounts Officer (FAO) & Librarian",
-        "qualification": "Ph.D in concerned/allied/relevant discipline, Master's Degree with 55% marks, Master's Degree in Library Science/Information Science/Documentation Science with 55% marks",
-        "last_date": "21-09-2026",
-        "total_posts": "3",
-        "salary": "Rs. 144200 - 218200 Per Month",
-        "age_limit": "Maximum Age Limit: 55 years for all posts. || Age relaxation will be as per the government rules and regulations. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Rs. 1000",
-        "selection_process": "Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.sasu.ac.in",
-        "official_notification": "https://sasu.ac.in/uploads/recruitment/Recruitment_1787226457.pdf"
-    },
-    {
-        "date": "07/09/2026",
-        "board": "NERAMAC Vacancy 2026 - 1 Assistant Manager PostsNERAMAC Assistant Manager Vacancy 2026",
-        "title": "Assistant Manager – Civil Engineer",
-        "qualification": "B.E/B. Tech in Civil Engineering",
-        "last_date": "21-09-2026",
-        "total_posts": "1",
-        "salary": "Upto Rs. 45,000/- Per Month",
-        "age_limit": "Max: 35 years (Relaxable for SC/ST up to 40 years, OBC/MOBC up to 38 years)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.neramac.com",
-        "official_notification": "https://neramac.com/files/userfiles/2026/09/03/files/Asst_Manager_-_Civil_Engg__1_.pdf"
     },
     {
         "date": "04/09/2026",
