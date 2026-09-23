@@ -1,6 +1,86 @@
 [
     {
         "date": "23/09/2026",
+        "board": "NIELIT Vacancy 2026 - Senior Hardware Engineer, Senior Programmer and More PostsNIELIT Vacancy 2026",
+        "title": "IT Resource Persons",
+        "qualification": "B.E./B.Tech/M.E./M.Tech in Computer Science or MCA/M.Sc (Electronics/IT) or equivalent. BCA.",
+        "last_date": "05-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 33756 - 60519 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nielit.gov.in/",
+        "official_notification": "https://www.nielit.gov.in/form?formName=Recruitments&center=DEL"
+    },
+    {
+        "date": "23/09/2026",
+        "board": "AIIMS Delhi Vacancy 2026 - 1 Scientist D PostsAIIMS Delhi Scientist D Vacancy 2026",
+        "title": "Scientist D (medical)",
+        "qualification": "MD/MS Ophthalmology",
+        "last_date": "08-10-2026",
+        "total_posts": "1",
+        "salary": "Rs. 118110 Per Month",
+        "age_limit": "Maximum Age Limit: 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/rpc-22-9-26.pdf"
+    },
+    {
+        "date": "23/09/2026",
+        "board": "ICSIL Vacancy 2026 - 20 DEO, Salesperson and Helper PostsICSIL Vacancy 2026",
+        "title": "Data Entry Operator, Salesperson and Helper",
+        "qualification": "Graduation or equivalent qualification from a recognised university",
+        "last_date": "27-09-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "21 to 45 years, depending on the post",
+        "application_fee": "Non-refundable one-time registration fee",
+        "selection_process": "The ICSIL DSIIDC selection process will include: || Online registration and payment of the registration fee || Scrutiny of age, qualification and experience documents || Shortlisting of eligible candidates || Interview or interaction with the department || Skill test or written test, if required for the post || Final selection by the interview panel or department || Contractual deployment in DSIIDC || Appearing for the walk-in interview does not guarantee selection or deployment. The decision of the interview panel will be final.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://icsil.in",
+        "official_notification": "https://icsil.in/sites/default/files/2026-09/DSIIDC-DEO%2C%20Salespersons%2C%20Helper_0.pdf"
+    },
+    {
+        "date": "23/09/2026",
+        "board": "DRDO DIPR Vacancy 2026 - 24 Apprentice PostsDRDO DIPR Apprentice Vacancy 2026",
+        "title": "Apprentice (ITI Pass-Out, various trades)",
+        "qualification": "24 Posts",
+        "last_date": "13-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Selected apprentices will be paid the applicable minimum stipend prescribed for their trade, on a monthly basis through the prescribed banking mode. The stipend ranges from ₹9,600/- to ₹10,560/- per month depending on the trade, as detailed in the trade-wise vacancy table above. Selected candidates must furnish valid bank account details linked with Aadhaar, wherever required, at the time of joining.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "The DIPR Apprentice selection process consists of the following steps, as per the notification: || A duly constituted Board, approved by the Competent Authority, will scrutinise applications and shortlist candidates based on the prescribed eligibility and selection criteria and the number of vacancies available. || Selection will be made on the basis of marks obtained in the respective qualifying examination/trade, followed by an interaction/interview, as applicable, depending on the number of candidates applying for the advertised vacancies. || The final merit list will be prepared category-wise (General/OBC/SC/ST), as applicable under the rules. || Offer letters to selected candidates will be issued through email only.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://drdo.gov.in/",
+        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDIPR22092026.pdf"
+    },
+    {
+        "date": "23/09/2026",
+        "board": "AIIMS Delhi Vacancy 2026 - 2 Research Staff PostsAIIMS Delhi Research Staff Vacancy 2026",
+        "title": "Research Staff",
+        "qualification": "MBBS/BDS/BHMS/BUMS/BAMS, Master's Degree in Epidemiology / Public Health / Community Medicine, Master's Degree in Public Health / Life Sciences / Clinical Research / Social Sciences / Epidemiology",
+        "last_date": "05-10-2026",
+        "total_posts": "2",
+        "salary": "Project Research Scientist – I: Rs. 73000 Per Month || Junior Research Fellow: Rs. 48000 Per Month",
+        "age_limit": "As per Government of India guidelines",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting || Walk-in Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/irch1-22-9-26.pdf"
+    },
+    {
+        "date": "23/09/2026",
         "board": "NCERT Vacancy 2026 - 2 Assistant Editor PostsNCERT Assistant Editor Vacancy 2026",
         "title": "Assistant Editor",
         "qualification": "Bachelor degree with Post Graduate Diploma in Book Publishing/Mass Communication/Journalism (editing as one of the subjects).",
@@ -29,7 +109,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "oavs-teacher-recruitment-2026-apply-online-for-815-principals-and-teachers-posts-3069031"
+        "official_notification": "Not Available"
     },
     {
         "date": "23/09/2026",
@@ -221,7 +301,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://presscouncil.nic.in/",
-        "official_notification": "rrb-paramedical-recruitment-2026-apply-online-for-560-posts-3066740"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/09/2026",

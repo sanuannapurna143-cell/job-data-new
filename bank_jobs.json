@@ -1,6 +1,38 @@
 [
     {
         "date": "23/09/2026",
+        "board": "RBI",
+        "title": "Bank's Medical Consultant (BMC)",
+        "qualification": "MBBS, Post Graduate Degree in General Medicine",
+        "last_date": "22-10-2026",
+        "total_posts": "1",
+        "salary": "Rs. 1400/- per hour (for MBBS with up to 20 years of experience) || Rs. 1800/- per hour (for MD or more than 20 years of experience)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://rbi.org.in/",
+        "official_notification": "https://rbidocs.rbi.org.in/rdocs/Content/PDFs/BMCITANAGAR2309202697A31995261F484D8BA585F12A3FB3F1.PDF"
+    },
+    {
+        "date": "23/09/2026",
+        "board": "Abhyudaya Bank",
+        "title": "Credit Officer, Manager, Chief Manager, Assistant General Manager and Deputy General Manager",
+        "qualification": "Bachelor's degree from a government-recognised university; BE in Civil Engineering is preferred",
+        "last_date": "05-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Preferably below 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process will consist of the following stages: || Preliminary screening of applications || Shortlisting based on qualification, experience and job requirements || Personal interview || Final selection based on previous experience and interview performance || Meeting the minimum eligibility conditions does not automatically give a candidate the right to be called for an interview. The bank may call only the required number of candidates after preliminary screening.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.abhyudaya.bank.in/",
+        "official_notification": "https://www.abhyudaya.bank.in/English/career.aspx"
+    },
+    {
+        "date": "23/09/2026",
         "board": "TMB",
         "title": "Senior Relationship Manager, Relationship Manager",
         "qualification": "Any Graduate, Any Post Graduate",
