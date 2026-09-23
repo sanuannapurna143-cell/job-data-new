@@ -1,5 +1,21 @@
 [
     {
+        "date": "23/09/2026",
+        "board": "YSP University Nauni Vacancy 2026 - 3 Guest Faculty PostsYSP University Nauni Guest Faculty Vacancy 2026",
+        "title": "Guest Faculty",
+        "qualification": "3 Posts",
+        "last_date": "30-09-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://uhf.ac.in/",
+        "official_notification": "https://uhf.ac.in/storage/uploads/docs/1790059422.pdf"
+    },
+    {
         "date": "22/09/2026",
         "board": "HP Jal Shakti Vibhag Vacancy 2026 - 3 Para Cook and Para Helper PostsHP Jal Shakti Vibhag Vacancy 2026",
         "title": "Para Cook and Para Helper",
@@ -80,22 +96,6 @@
         "official_notification": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20260915141709_Final_Advt._no._15_by__2026_with_Application_Form.pdf"
     },
     {
-        "date": "11/09/2026",
-        "board": "Himachal Pradesh Jal Shakti Vibhag Vacancy 2026 - 10 Multipurpose Worker, Para Pump Operator and More Posts PostsHimachal Pradesh Jal Shakti Vibhag Vacancy 2026",
-        "title": "Para Pump Operator, Para Fitter, Multipurpose Worker",
-        "qualification": "Matriculation (10th) with ITI in relevant trade, Matriculation (10th) with Skill Development Certificate, Middle Pass (8th) or equivalent",
-        "last_date": "22-09-2026",
-        "total_posts": "10",
-        "salary": "Rs. 6000 - 7100 Per Month",
-        "age_limit": "Min: 18 years, Max: 45 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.jsv.hp.gov.in",
-        "official_notification": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROgt%2Bb%2FPgYGItOJJhUYyQrgxglWjzQJiEEPPdbLnhhHPqjUBY2b%2F9Nf4%3D"
-    },
-    {
         "date": "10/09/2026",
         "board": "CSIR IHBT Vacancy 2026 - 16 Young Professional I, Project Assistant II and More PostsCSIR IHBT Vacancy 2026",
         "title": "Various Project Positions",
@@ -158,22 +158,6 @@
         "syllabus": "Not Available",
         "official_website": "https://chamba.dcourts.gov.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec03946e3ece1fc8b24bd656449d88ec/uploads/2026/09/2026090389.pdf"
-    },
-    {
-        "date": "02/09/2026",
-        "board": "SSC Vacancy 2026 - 1748 Junior Engineer PostsSSC Junior Engineer Vacancy 2026",
-        "title": "Junior Engineer",
-        "qualification": "Essential educational qualifications differ by organization and post. Broadly: || JE (Civil):Degree in Civil Engineering from a recognized university/institute; or a three-year diploma in Civil Engineering plus relevant work experience (requirement varies by organization). || JE (Electrical) / JE (Mechanical) / JE (Electrical & Mechanical):Degree or diploma in the relevant Electrical/Mechanical/Automobile engineering discipline from a recognized university/institute, with experience required in some organizations. || JE (Telecom):Bachelor's degree in Engineering/Technology in Electrical, Electronics, Electrical Communications, Computer Science, Telecommunications, Information Technology, or Instrumentation. || Scientific Assistant (IMD):Bachelor's degree in Science with Physics as one of the subjects, or a Bachelor's degree in Computer Science/Computer Applications/Electronics/Electronics & Communication Engineering/Electronics & Telecommunication Engineering/Instrumentation/Information Technology/Telecommunication Engineering/Communication Engineering. || Because the exact qualification differs organization by organization (for example, CPWD requires a diploma while BRO accepts a degree or diploma-plus-experience), candidates should check the qualification listed against their target organization in the official notice before applying. Qualifications obtained through Open and Distance Learning (ODL)/online mode in restricted disciplines such as Engineering are not accepted unless specifically permitted under applicable UGC regulations or judicial orders.",
-        "last_date": "22-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Selected candidates will be appointed to Group 'B' posts in Pay Level-6 of the Pay Matrix under the 7th Central Pay Commission, with a pay scale of ₹35,400 – ₹112,400 . Actual in-hand salary will also include applicable allowances (such as DA, HRA and TA) as per the rules of the respective recruiting organization, which are not detailed in this notice.",
-        "age_limit": "Not earlier than 02.08.1996 and not later than 01.08.2008",
-        "application_fee": "Fee can be paidonly through online modes: BHIM UPI, Net Banking, or Visa/MasterCard/Maestro/RuPay debit card. || The fee payment deadline is23.09.2026 (23:00 hours). || Fee once paid isnot refundableand cannot be adjusted against any other examination. || Applications with unpaid or incomplete fee status are summarily rejected.",
-        "selection_process": "Selection for SSC JE 2026 is based on the following stages: || Paper-I (Computer Based Examination)– Qualifying in nature. Covers General Intelligence & Reasoning (50 questions/50 marks), General Awareness (50 questions/50 marks), and the relevant engineering/technical subject based on the post applied for (100 questions/100 marks). Total duration is 2 hours (2 hours 40 minutes for candidates eligible for a scribe). Negative marking of 0.25 marks applies for each wrong answer. || Paper-II (Computer Based Examination)– For candidates shortlisted from Paper-I. Covers the relevant engineering/technical subject in depth (100 questions/300 marks) in 2 hours (2 hours 40 minutes for scribe-eligible candidates). Negative marking of 1 mark applies for each wrong answer. || Document Verification (DV)– Provisionally selected candidates must produce original certificates (educational qualification, category, age proof, experience, etc.) for verification by the concerned user department/organization. || Physical Standards and Medical Examination– Applicable specifically for posts under organizations such as Border Roads Organisation (BRO)/GREF, as detailed in the relevant annexure of the notice. || Separate merit lists are prepared for JE (Civil), JE (Electrical & Mechanical), Scientific Assistant (IMD), and JE (Telecom). Both papers consist of objective-type, multiple-choice questions set in Hindi and English.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ssc.gov.in",
-        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_je_2026.pdf"
     },
     {
         "date": "08/09/2026",
@@ -256,22 +240,6 @@
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec03946e3ece1fc8b24bd656449d88ec/uploads/2026/09/2026090389.pdf"
     },
     {
-        "date": "03/09/2026",
-        "board": "UPSC Vacancy 2026 - 127 Assistant Chemist, Geologist and More PostsUPSC Vacancy 2026",
-        "title": "Assistant Chemist, Geologist and More",
-        "qualification": "Master's degree in Geological Science, Geology, Applied Geology, Geo-Exploration, Mineral Exploration, Engineering Geology, Marine Geology, Earth Science and Resource Management, Oceanography and Coastal Areas Studies, Petroleum Geosciences, or Geochemistry",
-        "last_date": "22-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "A candidate must have attained 21 years and must not have attained 32 years as on 1 January 2027 - i.e., born not earlier than 2 January 1995 and not later than 1 January 2006 || Upper age relaxable up to 5 years for Government servants employed in GSI or CGWB applying for the corresponding post || Upper age relaxable up to 5 years for SC/ST candidates, 3 years for OBC candidates, 3 years for disabled Defence Services personnel, 5 years for Ex-servicemen, and 10 years for Persons with Benchmark Disability || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
-        "application_fee": "Candidates are required to pay a fee of ₹200, through net banking or Visa/Master/RuPay Credit/Debit Card/UPI. Female candidates and candidates belonging to Scheduled Castes, Scheduled Tribes, and Persons with Benchmark Disability are exempted from the fee. OBC and EWS candidates are required to pay the full prescribed fee. Fee once paid is non-refundable under any circumstances.",
-        "selection_process": "Selection proceeds through three successive stages: the Preliminary Examination (Stage-I) for shortlisting to the Main Examination; the Main Examination (Stage-II) for shortlisting to the Personality Test; and the Personality Test/Interview (Stage-III). Final selection for GSI and CGWB posts is strictly by merit position in each category, candidate preference, and number of vacancies.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.upsc.gov.in/",
-        "official_notification": "https://www.upsc.gov.in/sites/default/files/Notif-CGSPE-2027-Engl-020926.pdf"
-    },
-    {
         "date": "02/09/2026",
         "board": "HPPSC Vacancy 2026 - 04 Deputy Director PostsHPPSC Deputy Director Vacancy 2026",
         "title": "Deputy Director, Class-I (Gazetted), Group-A (Job Trainee)",
@@ -334,21 +302,5 @@
         "syllabus": "Not Available",
         "official_website": "http://hpconsumercommission.nic.in",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/08/2026082663.pdf"
-    },
-    {
-        "date": "26/08/2026",
-        "board": "HPPSC Vacancy 2026 - 22 Tehsildar, BDO and More PostsHPPSC Vacancy 2026",
-        "title": "Post Name",
-        "qualification": "A candidate must be a citizen of India. || A candidate must possess a bachelor's degree or its equivalent from a recognized university. || Candidates who have passed the final professional M.B.B.S. or an equivalent medical examination but have not completed internship may be provisionally admitted, subject to submitting proof at the time of the Personality Test.",
-        "last_date": "22-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Selected candidates will be placed in the following pay bands based on the post:",
-        "age_limit": "A candidate must have attained the age of 21 years and must not have attained the age of 35 years as on 01-01-2026. || Upper age limit is relaxable by 5 years for SC/ST/OBC/Persons with Disabilities/Children and Grandchildren of Freedom Fighters of Himachal Pradesh, only where a post is reserved for these categories. || Age relaxation for Ex-servicemen of HP for HPAS and HP Police Service posts is as per the Ex-Servicemen (Reservation of Vacancies, Pay Fixation and Regulation of Seniority in the HPAS) Rules, 2020. || Government servants of HP holding substantive/officiating/contractual appointments are eligible up to 45 years for HPAS and other posts (Tehsildar, Block Development Officer, Treasury Officer), 42 years for HP Police Service, and 42 years for District Controller (Class-I Gazetted). || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "A uniform examination fee is charged from all candidates, irrespective of category: || Fee once paid will not be refunded under any circumstance. || Payment can be made online via Debit Card, Credit Card, UPI, or any other prescribed online digital mode. || Applications submitted without the prescribed fee will be summarily rejected.",
-        "selection_process": "Candidates will be selected through a three-stage process: || Preliminary Examination (Screening):Two objective-type papers of 200 marks each - General Studies and Aptitude Test. This is a qualifying/screening stage only; marks are not counted for final merit. || Main Examination:Includes compulsory papers (English, Hindi, Essay, General Studies I, II, III) and two papers of one optional subject. Candidates must secure at least 40% marks in each of the Hindi and English compulsory papers and 45% in the aggregate (excluding Hindi and English) to qualify. || Personality Test (Interview):Candidates qualifying the Main Examination are called for a Personality Test to assess overall suitability. || Final merit is based on marks obtained in the Main Examination (written papers, excluding Hindi and English) and the Personality Test.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://hppsc.hp.gov.in/",
-        "official_notification": "https://hppsc.hp.gov.in/CommonControls/CMSFileView?qs=oeMK915q2HkdpWSZ%2B0aaIFmLDoF0cTjGvKykbXugJ5FH4sUacllacYlnRK0MeZGEfxeUsdEM2p69nc6WDWdQBhIBr3TooKs4EQ87JuUdBNI%3D"
     }
 ]

@@ -1,5 +1,37 @@
 [
     {
+        "date": "23/09/2026",
+        "board": "RRB",
+        "title": "Pharmacist, Lab Assistant and More     – 590 Posts",
+        "qualification": "Nursing Superintendent:Registered Nurse & Midwife (3-yr GNM course) or B.Sc. Nursing || Dialysis Technician:B.Sc. + Diploma in Haemodialysis, or 2 yrs experience/in-house training || Health & Malaria Inspector Gr II:B.Sc. (Chemistry) + 1-yr Diploma/NTC in Health/Sanitary Inspector || Audiologist & Speech Therapist:BASLP, registered with Rehabilitation Council of India || Pharmacist (Entry Grade):B.Pharm or Pharm.D, registered under the Pharmacy Act, 1948 || Radiographer X-Ray Technician:10+2 (PCM/PCB) + 2-yr Diploma in Radiography/X-Ray Technology, or equivalent B.Sc. || ECG Technician:10+2/Graduation in Science + Certificate/Diploma in ECG/Cardiology Technology || Optometrist:B.Sc. Optometry or Diploma in Ophthalmic Technician (3–4 yrs), registered with the concerned council || Lab Assistant Gr. II:12th (Science) + Diploma/Certificate in Medical Laboratory Technology (min. 1 yr), or B.Sc. MLT",
+        "last_date": "14-10-2026",
+        "total_posts": "590",
+        "salary": "₹44,900 ( Pay Level 7)",
+        "age_limit": "Age limits are reckoned as on 01.01.2027 and vary by post (see the post table above, 18–40 years depending on post).",
+        "application_fee": "Fee is payable online only (net banking/debit/credit card/UPI). Refunds are credited only to an Aadhaar-seeded bank account and only to candidates who attend the CBT.",
+        "selection_process": "Duration:90 minutes(120 minutes for PwBD candidates eligible for scribe assistance). || Objective, multiple-choice, single-stage CBT;negative marking of 1/3 markper wrong answer. || Minimum qualifying marks:UR/EWS 40%, OBC-NCL & SC 30%, ST 25%(relaxable by 2 marks for PwBD where vacancies remain unfilled). || Candidates equal to the number of vacancies (RRB-wise, 1:1) are called for Document Verification based on CBT merit. || DV is followed by a Medical Examination as per the post's medical standard (B1/C1/C2); medically unfit candidates get no alternative post. || Final empanelment is based on CBT merit, subject to DV and medical fitness; selection does not itself confer a right to appointment.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "oavs-teacher-recruitment-2026-apply-online-for-815-principals-and-teachers-posts-3069031"
+    },
+    {
+        "date": "23/09/2026",
+        "board": "RRC Southern Railway",
+        "title": "Sports Quota     – 67 Posts",
+        "qualification": "Candidates must possess the prescribed recognised sports achievements for the pay level for which they apply. The required standard varies according to the level and may include representation or medal-winning performance in recognised: || Olympic Games || World Championships or World Cups || Asian Games || Commonwealth Games || Asian Championships or Asian Cups || South Asian Federation Games || National Championships || National Games || All India Inter-University Championships || National School Games and other recognised competitions || The recognised sports achievement must have been obtained on or after 1 April 2024 and up to the notification date. Applicants must be active sportspersons.",
+        "last_date": "25-10-2026",
+        "total_posts": "67",
+        "salary": "Rs.25,500 or Rs.29,200",
+        "age_limit": "No upper or lower age relaxation is permissible under this recruitment.",
+        "application_fee": "The fee must be paid online through the payment gateway. The applicable refund will be provided only to candidates who appear in the sports trial.",
+        "selection_process": "The Southern Railway Sports Quota selection process includes: || Screening of online applications || Sports trial || Assessment of recognised sports achievements || Assessment of educational qualification || Document verification || Medical examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rrcmas.in/",
+        "official_notification": "Not Available"
+    },
+    {
         "date": "22/09/2026",
         "board": "RRB",
         "title": "Vacancies",
@@ -13,7 +45,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "bpsc-tre-40-notification-2026-32-388-school-teacher-posts-3063451"
+        "official_notification": "oavs-teacher-recruitment-2026-apply-online-for-815-principals-and-teachers-posts-3069031"
     },
     {
         "date": "21/09/2026",
@@ -257,22 +289,6 @@
     },
     {
         "date": "17/09/2026",
-        "board": "Central Railway",
-        "title": "Senior Resident",
-        "qualification": "Post Graduate Degree /DM/DNB or Diploma in the concerned specialty from university recognized by state/Central Government, MBBS with at least three years experience after MBBS out of which one year Junior residency in Government hospital in the concerned specialty (subject to conditions)",
-        "last_date": "22-09-2026",
-        "total_posts": "2",
-        "salary": "Gen Surgery:Rs.67700/- (Basic) + NPA 20% of Basic +DA (Basic + NPA) 28% + Transportation + HRA (if not staying in Rly Qtrs) & other relevant allowance || Orthopedics:Rs.67700/- (Basic) + NPA 20% of Basic +DA (Basic + NPA) 28% + Transportation + HRA (if not staying in Rly Qtrs) & other relevant allowance",
-        "age_limit": "Maximum Age: 40 years for all posts. || Age Relaxation: 5 years for SC/ST candidate. Railway may relax above 40 years in particular specialty with approval of General Manager if no candidate satisfies 40 years limit. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Not Available",
-        "selection_process": "Document Verification || Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.cr.indianrailway.gov.in",
-        "official_notification": "https://cr.indianrailways.gov.in/cris//uploads/files/1789456035625-Senior%20resident%20interview%2022.09.2026.pdf"
-    },
-    {
-        "date": "17/09/2026",
         "board": "IRCTC",
         "title": "Hospitality Monitors and Tourism Monitors     – 28 Posts",
         "qualification": "(1) Full time B.Sc. in Hospitality and Hotel Administration from a Central or State institute of Hotel Management (CIHM/SIHM/PIHM) affiliated to NCHM&CT/UGC/AICTE/Government of India\r\t\t\t(2) BBA/MBA (Culinary Arts) from Indian Culinary Institutes under Ministry of Tourism\r\t\t\t(3) B.Sc. Hotel Management and Catering Science from Government-recognized Universities affiliated to UGC/AICTE/Government of India/State Government\r\t\t\t(4) M.B.A (Tourism and Hotel Management) from Government-recognized Universities affiliated to UGC/AICTE/Government of India/State Government",
@@ -349,23 +365,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bpsc-tre-40-notification-2026-32-388-school-teacher-posts-3063451"
-    },
-    {
-        "date": "15/09/2026",
-        "board": "RRB",
-        "title": "Post Name",
-        "qualification": "10+2 with Physics and Chemistry plus Diploma in Radiography/X-Ray Technician/Radiodiagnosis Technology (2-year course); Science graduates with the same diploma preferred (various equivalent B.Sc. Radiography/Imaging qualifications also eligible)",
-        "last_date": "14-10-2026",
-        "total_posts": "590",
-        "salary": "₹44,900",
-        "age_limit": "Age is reckoned as on 01.01.2027. The lower and upper age limits vary by post, as shown in the Vacancy table above (ranging from 18–33 years to 20–40 years). Date of birth must match the Matriculation/SSLC certificate; no subsequent change will be considered. || If a candidate is eligible for relaxation on more than one ground, only the maximum single relaxation applies (not cumulative). SC/ST/OBC-NCL candidates applying against UR vacancies will not get any age relaxation. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Fee payment modes: internet banking, debit/credit cards, or UPI only — no other mode is accepted. || Applications received without the prescribed fee will be summarily rejected. || Refunds are credited only to the candidate's Aadhaar-seeded bank account. || EBC (Economically Backward Class), EWS (Economically Weaker Section), and OBC are three distinct categories — EBC candidates get only fee concession, not job reservation.",
-        "selection_process": "Selection consists of a Single Stage Computer Based Test (CBT), followed by Document Verification (DV) and a Medical Examination. || The CBT is of 90 minutes' duration for 100 questions (120 minutes for PwBD/PWD candidates eligible for the Scribe facility), with objective multiple-choice questions (4 options, 1 correct answer). || There is negative marking of 1/3 mark for every wrong answer.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "https://www.rrbapply.gov.in/assets/forms/CEN_05_2026_PM.pdf"
+        "official_notification": "Not Available"
     },
     {
         "date": "11/09/2026",
@@ -525,7 +525,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bpsc-tre-40-notification-2026-32-388-school-teacher-posts-3063451"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/09/2026",
@@ -573,7 +573,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bpsc-tre-40-notification-2026-32-388-school-teacher-posts-3063451"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/08/2026",
@@ -592,22 +592,6 @@
         "official_notification": "https://mrvc.indianrailways.gov.in/uploads/files/V_No21-2026.pdf"
     },
     {
-        "date": "27/08/2026",
-        "board": "KRCL",
-        "title": "Senior Technical Assistant/S&T",
-        "qualification": "Four years Bachelor’s Degree in Electrical/Electronics/Information Technology/Communication Engineering/Computer Science & Engineering/Computer Science/Computer Engineering or M.Sc Electronics or combination of any sub stream from recognised university/institute approved by AICTE, Minimum 01 year experience in Signal and Telecom Systems",
-        "last_date": "22-09-2026",
-        "total_posts": "3",
-        "salary": "Consolidated Remuneration Rs. 57140 (A Class) / 53600 (B Class) / 50060 (C Class) Per Month",
-        "age_limit": "Maximum Age Limit: 33 years || Age relaxation rules are not specified in the provided data. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-in Interview || Document Verification || Merit List",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.konkanrailway.com",
-        "official_notification": "https://konkanrailway.com/sites/default/files/2026-08/16C.pdf"
-    },
-    {
         "date": "26/08/2026",
         "board": "IRFC",
         "title": "Head of Internal Audit (HIA)",
@@ -622,21 +606,5 @@
         "syllabus": "Not Available",
         "official_website": "https://irfc.co.in/",
         "official_notification": "https://irfc.co.in/sites/default/files/2026-08/HIA-AD-Final.pdf"
-    },
-    {
-        "date": "24/08/2026",
-        "board": "NMRC",
-        "title": "Senior Section Engineer, Senior Section Officer",
-        "qualification": "Candidates must have qualifications from a Government recognised university/institute. The required qualification varies according to the post.",
-        "last_date": "22-09-2026",
-        "total_posts": "34",
-        "salary": "Selected candidates will receive salary as per IDA pay scale of ₹46,000 - ₹1,45,000 along with applicable allowances and benefits. || Basic Pay || HRA @ 30% || IDA @ 55.7% || Perks @ 31.5% || PF, Gratuity and other benefits || Medical benefits at CGHS rates || The compensation package details are mentioned in the NMRC notification.",
-        "age_limit": "The maximum age limit for the advertised posts is 40 years as on the closing date of application. || Age relaxation will be applicable for reserved category candidates as per rules. SC/ST candidates get 5 years relaxation and OBC-NCL candidates get 3 years relaxation for reserved posts. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nmrcnoida.com/",
-        "official_notification": "https://www.nmrcnoida.com/Upload/CareersRecentItems/47/Advertisement%2022.08.2026.pdf"
     }
 ]
