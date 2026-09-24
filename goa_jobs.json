@@ -1,5 +1,21 @@
 [
     {
+        "date": "24/09/2026",
+        "board": "Goa College of Agriculture Vacancy 2026 - 3 Assistant Professor PostsGoa College of Agriculture Assistant Professor Vacancy 2026",
+        "title": "Assistant Professor",
+        "qualification": "3 Posts",
+        "last_date": "05-10-2026",
+        "total_posts": "3",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://goacollegeofagriculture.edu.in/",
+        "official_notification": "https://www.goa.gov.in/wp-content/uploads/2026/09/Advertisement_AGRO-FARM.pdf"
+    },
+    {
         "date": "22/09/2026",
         "board": "BITS Pilani Vacancy 2026 - 01 Research Fellow PostsBITS Pilani Research Fellow Vacancy 2026",
         "title": "Research Fellow",
@@ -62,22 +78,6 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "Not Available"
-    },
-    {
-        "date": "12/09/2026",
-        "board": "BITS Pilani Vacancy 2026 - 1 Field Investigator PostsBITS Pilani Field Investigator Vacancy 2026",
-        "title": "Field Investigator",
-        "qualification": "Post graduate in Economics or International Relation (55% minimum)",
-        "last_date": "23-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 20000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.bits-pilani.ac.in/",
-        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/1-FI-Recruitment.pdf"
     },
     {
         "date": "05/09/2026",
@@ -206,21 +206,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nitgoa.ac.in/",
         "official_notification": "https://nitgoa.ac.in/uploads/faculty_recruitment2026/Advt_Faculty%20_%20Recruitment%2031august2026.pdf"
-    },
-    {
-        "date": "27/08/2026",
-        "board": "ECHS Vacancy 2026 - 5 Peon, Clerk and More PostsECHS Vacancy 2026",
-        "title": "Medical Officer, Clerk, Female Attendant, Peon",
-        "qualification": "MBBS with 3 years experience, Graduate with 5 years clerical experience, Class 8",
-        "last_date": "23-09-2026",
-        "total_posts": "5",
-        "salary": "Medical Officer:Minimum 95000/- || Clerk:Minimum 29200/- || Female Attendant:Minimum 21800/- || Peon:Minimum 21800/-",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Interview || Document Verification",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.echs.gov.in",
-        "official_notification": "https://www.echs.gov.in/assets/advertisement/INS%20Gomantak%2023%20Sep.pdf"
     }
 ]
