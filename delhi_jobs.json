@@ -1,6 +1,54 @@
 [
     {
         "date": "24/09/2026",
+        "board": "ABGH Vacancy 2026 - 3 Senior Resident PostsABGH Senior Resident Vacancy 2026",
+        "title": "Senior Resident",
+        "qualification": "Post Graduate Degree (MD/ DNB/ DIPLOMA or equivalent in concerned stream)",
+        "last_date": "29-09-2026",
+        "total_posts": "3",
+        "salary": "Rs. 67700 - 208700 Per Month",
+        "age_limit": "Maximum Age Limit: 45 years || Age Relaxation: 5 years for SC/ ST, 3 years for OBC || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://asbh.delhi.gov.in/",
+        "official_notification": "https://asbh.delhi.gov.in/sites/default/files/asbh/circulars-orders/docscanner_23_sept_2026_12-57_pm.pdf"
+    },
+    {
+        "date": "24/09/2026",
+        "board": "AIIMS Delhi Vacancy 2026 - 1 Project Technical Support-III PostsAIIMS Delhi Project Technical Support-III Vacancy 2026",
+        "title": "Project Technical Support-III",
+        "qualification": "Three Years Graduate degree in relevant subject/field + three Years post qualification experience, PG in relevant subject/field, For Engineering/IT/CS - Four Years Graduate Degree",
+        "last_date": "30-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 28000 Per Month",
+        "age_limit": "Max: 35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/plasticsurg-24-9-26.pdf"
+    },
+    {
+        "date": "22/09/2026",
+        "board": "Maitreyi College Vacancy 2026 - 52 Lab Assistant, Junior Assistant and More PostsMaitreyi College Vacancy 2026",
+        "title": "Administrative Officer, Senior Assistant, Junior Assistant, Library Attendant, Laboratory Assistant, Laboratory Attendant",
+        "qualification": "Bachelor's degree with minimum 2 years' working and maintenance experience of sophisticated scientific instruments in a laboratory, in the relevant subject as decided by the University for the concerned Department; experience in University/Research establishment/Central/State Govt./PSU/Autonomous Body or a private organisation of repute with annual turnover of at least ₹200 crore",
+        "last_date": "09-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Level 10",
+        "age_limit": "As per Central Government orders adopted by the University, for SC/ST/OBC (Central List)/PwD/Ex-servicemen and other specified categories || Up to a maximum of 5 years (or completed years of service, whichever is less) for candidates with at least 3 years' regular service in the same/allied field under Government Departments, Statutory/Autonomous Bodies, Universities, or affiliated/constituent colleges/PSUs || Upper age limit not insisted upon for departmental candidates of the University/colleges; a one-time exemption is available to those already working on contract/daily wages/ad-hoc basis in the University or its Colleges, with at least 1 year of service || Age is determined as on the closing date of the advertisement; documents for age relaxation must be submitted at the time of written examination/interview/skill test/document verification, even if submitted earlier || SC/ST/OBC(NCL)/PWD candidates who opt for unreserved vacancies are not eligible for age relaxation or relaxation in cut-off marks otherwise allowed to their category",
+        "application_fee": "₹1000",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Stage Syllabus in Brief Marks",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "24/09/2026",
         "board": "IGNOU Vacancy 2026 - 14 Technical Assistant, Technical Manager and More PostsIGNOU Vacancy 2026",
         "title": "Assistant Director, Technical Manager, Technical Assistant",
         "qualification": "The common essential qualification across all posts is B.E/B.Tech (CS/IT), M.Sc (CS/IT), or MCA from a recognized University/Institute with 55% marks or equivalent grade. Additional working-knowledge requirements apply for Assistant Director - LMS (HTML, CSS, JavaScript, JAVA, MySQL/RDBMS, MongoDB/NoSQL DB, API integration, SSO, app development for Android/iOS, and more - see the official notification for the full list).",
@@ -14,6 +62,22 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ignou.ac.in/",
         "official_notification": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf"
+    },
+    {
+        "date": "24/09/2026",
+        "board": "JMI Vacancy 2026 - 1 Field Investigator PostsJMI Field Investigator Vacancy 2026",
+        "title": "Field Investigator",
+        "qualification": "Post Graduate in Social Science discipline with minimum 55% marks",
+        "last_date": "30-09-2026",
+        "total_posts": "1",
+        "salary": "Rs. 20000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview || Document Verification",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.jmi.ac.in",
+        "official_notification": "https://jmi.ac.in/upload/advertisement/jobs_ais_2026september23.pdf"
     },
     {
         "date": "18/09/2026",
@@ -238,22 +302,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aiims.edu/",
         "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/irch1-22-9-26.pdf"
-    },
-    {
-        "date": "22/09/2026",
-        "board": "Maitreyi College Vacancy 2026 - 52 Lab Assistant, Junior Assistant and More PostsMaitreyi College Vacancy 2026",
-        "title": "Administrative Officer, Senior Assistant, Junior Assistant, Library Attendant, Laboratory Assistant and Laboratory Attendant",
-        "qualification": "10+2 or equivalent with Science subjects from a recognised board; or Class 10 with Science and the prescribed laboratory-technology skill certificate.",
-        "last_date": "09-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Level 10",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "The post-wise selection process will be conducted according to the University of Delhi recruitment rules. Depending on the post, it may include: || Written examination || Skill or typing test, where applicable || Document verification || The final recruitment stages and examination scheme should be confirmed from the detailed official advertisement.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.maitreyi.ac.in/",
-        "official_notification": "drdo-pxe-apprentice-recruitment-2026-apply-offline-for-50-graduate-technician-apprentice-posts-3069242"
     },
     {
         "date": "22/09/2026",
@@ -1469,7 +1517,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "drdo-pxe-apprentice-recruitment-2026-apply-offline-for-50-graduate-technician-apprentice-posts-3069242"
+        "official_notification": "Not Available"
     },
     {
         "date": "15/09/2026",

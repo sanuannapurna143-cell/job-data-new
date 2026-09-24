@@ -1,6 +1,38 @@
 [
     {
         "date": "24/09/2026",
+        "board": "OUAT Vacancy 2026 - 2 Guest Faculty PostsOUAT Guest Faculty Vacancy 2026",
+        "title": "Guest Faculty",
+        "qualification": "Master Degree in Vety. Medicine/ Vety. Clinical Medicine/Vety Preventive medicine or Masters Degree in Vety. Surgery from a recognized University with minimum of 55% marks or equivalent of CGPA 5.5 in 10 points scale with good academic records.",
+        "last_date": "09-10-2026",
+        "total_posts": "2",
+        "salary": "Guest Faculty:Rs. 1,200/- per class subjected to maximum of 50 Classes. Rs. 60,000/- per month",
+        "age_limit": "Maximum age of 64 years as on 01.10.2026.",
+        "application_fee": "Rs. 500.00",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ouat.ac.in",
+        "official_notification": "https://ouat.ac.in/wp-content/uploads/2026/09/2587-CVSCAH.pdf"
+    },
+    {
+        "date": "24/09/2026",
+        "board": "Govt ITI Boudh Vacancy 2026 - 7 Guest Instructor PostsGovt ITI Boudh Guest Instructor Vacancy 2026",
+        "title": "Guest Instructor",
+        "qualification": "B.Voc/ Degree in relevant field with 1 year experience.",
+        "last_date": "29-09-2026",
+        "total_posts": "7",
+        "salary": "Rs. 200/ - per hour for theory (max 16 hrs/ month) and Rs. 150/ - per hour for practical (max 112 hrs/ month).",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://boudh.odisha.gov.in/",
+        "official_notification": "https://boudh.odisha.gov.in/sites/default/files/2026-09/Notice%20for%20Guest%20Instructor.pdf"
+    },
+    {
+        "date": "24/09/2026",
         "board": "DRDO PXE Vacancy 2026 - 50 Apprentice PostsDRDO PXE Apprentice Vacancy 2026",
         "title": "Apprentice",
         "qualification": "B.Tech (in the discipline applied for) for Graduate Apprentice, or a Diploma (in the discipline applied for) for Technician Apprentice – see the discipline-wise tables above.",
