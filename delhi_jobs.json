@@ -1,6 +1,86 @@
 [
     {
         "date": "26/09/2026",
+        "board": "IIT Delhi Vacancy 2026 - 2 Project Manager PostsIIT Delhi Project Manager Vacancy 2026",
+        "title": "Project Manager",
+        "qualification": "Diploma/Degree in Civil Engineering/Architecture with 02 years of relevant experience",
+        "last_date": "13-10-2026",
+        "total_posts": "2",
+        "salary": "Project Manager:Rs. 64,260 - 83,840/-p.m. plus HRA @30%",
+        "age_limit": "All Posts:Maximum age is 35 years. 5% relaxation of marks may be granted to the SC/ST Candidates. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Test || Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://ird.iitd.ac.in/rec",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1790334176062_90k6im3.pdf"
+    },
+    {
+        "date": "26/09/2026",
+        "board": "MCD Vacancy 2026 - 9 Labour Welfare Superintendent PostsMCD Labour Welfare Superintendent Vacancy 2026",
+        "title": "Labour Welfare Superintendent",
+        "qualification": "Graduation Degree with Post Graduate Degree/Diploma in Social Work or Labour Welfare or Industrial Relations or Personnel Management",
+        "last_date": "12-10-2026",
+        "total_posts": "9",
+        "salary": "The appointee will be paid remuneration on selection as per 7th CPC (i.e. initial pay at the Level-7-Rs. 44900+Variable DA). No other benefits applicable to the regular Municipal employees shall be admissible to the appointee (s) on selection.",
+        "age_limit": "Labour Welfare Superintendent:Maximum Age: 30 years. Age Relaxation: As per Govt. Rules (Delhi Only) for SC/ST/OBC. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Merit calculated on basis of: Secondary Level (20% weightage of marks obtained by candidate) || Sr. Secondary Level (20% weightage of marks obtained by candidate) || Graduate (20% weightage of marks obtained by candidate) || Post Graduate (20% weightage of marks obtained by candidate) || Interview (Marks obtained by candidate)",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://mcdonline.nic.in/",
+        "official_notification": "https://mcdonline.nic.in/portal/downloadFile/vacancy_notice_260926074827927.pdf"
+    },
+    {
+        "date": "26/09/2026",
+        "board": "DERC Vacancy 2026 - 5 Secretary, Joint Secretary, Dy. Director (Consumer Assistance), Personnel Officer, Assistant Accounts Officer PostsDERC Vacancy 2026",
+        "title": "Secretary, Joint Secretary, Dy. Director (Consumer Assistance), Personnel Officer, Assistant Accounts Officer",
+        "qualification": "Graduate/Commerce Graduate with relevant experience as per post requirement.",
+        "last_date": "26-10-2026",
+        "total_posts": "5",
+        "salary": "Level-8 to Level-14 (7th CPC)",
+        "age_limit": "All Posts:Maximum age limit is 56 years. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Shortlisting based on eligibility criteria || Skill test / Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.derc.gov.in",
+        "official_notification": "https://www.derc.gov.in/app/uploads/pdf/1/general_instructions/Final_ADV_Secy_others7.pdf"
+    },
+    {
+        "date": "26/09/2026",
+        "board": "AIIMS Delhi Vacancy 2026 - 3 Project Technical Support, Project Research Scientist I PostsAIIMS Delhi Vacancy 2026",
+        "title": "Project Research Scientist I (Medical), Project Technical Support II (PTS), Project Technical Support I (PTS)",
+        "qualification": "MBBS/ BDS/ MVSc or equivalent, 12th in Science + Diploma + 5 years experience OR 3 years Graduate degree + 2 years experience, Graduate + 2 years experience in DEO + Computer Course",
+        "last_date": "28-09-2026",
+        "total_posts": "3",
+        "salary": "Rs. 23,400 to Rs. 87,100 per month plus HRA",
+        "age_limit": "Project Research Scientist I (Medical):Maximum age 35 years || Project Technical Support II (PTS):Maximum age 30 years || Project Technical Support-I (PTS):Maximum age 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting of candidates || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/labmed-25-9-26.pdf"
+    },
+    {
+        "date": "26/09/2026",
+        "board": "ICAR NBPGR Vacancy 2026 - 2 Young Professional II ,Research Associate III PostsICAR NBPGR Vacancy 2026",
+        "title": "Research Associate III, Young Professional II",
+        "qualification": "Ph.D./ Master's degree in Science",
+        "last_date": "23-10-2026",
+        "total_posts": "2",
+        "salary": "₹67,000 plus 27% HRA for RA-III and ₹42,000 for YP-II",
+        "age_limit": "Research Associate III:Maximum Age: 40 years || Young Professional II:Maximum Age: 45 years || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in-interview || Document verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://nbpgr.org.in/",
+        "official_notification": "https://nbpgr.org.in/nbpgr2023/walk-in-interview-for-the-temporary-positions-of-research-associate-iii-one-position-and-youngprofessional-ii-one-position/"
+    },
+    {
+        "date": "26/09/2026",
         "board": "NLU Delhi Vacancy 2026 - 1 Consultant PostsNLU Delhi Consultant Vacancy 2026",
         "title": "Consultant (Placement & Career Development)",
         "qualification": "Postgraduate degree in Law, Social Sciences or MBA (HR) with minimum 55% marks and 10 years of relevant experience",
@@ -45,7 +125,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/09/2026",
@@ -349,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        "official_notification": "Not Available"
     },
     {
         "date": "23/09/2026",
@@ -589,7 +669,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://presscouncil.nic.in/",
-        "official_notification": "assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/09/2026",

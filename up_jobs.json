@@ -1,6 +1,70 @@
 [
     {
         "date": "26/09/2026",
+        "board": "CSJMU Vacancy 2026 - 36 Professor, Associate Professor, Assistant Professor PostsCSJMU Vacancy 2026",
+        "title": "Professor, Associate Professor, Assistant Professor",
+        "qualification": "As per UGC Regulations-2018/AICTE-2019 and U.P. State Government's rules",
+        "last_date": "31-10-2026",
+        "total_posts": "36",
+        "salary": "Not Available",
+        "age_limit": "All Posts:Minimum age and maximum age limits are governed as per U.P. State Govt. norms. Please check the official notification for complete details.",
+        "application_fee": "Rs. 2500/-",
+        "selection_process": "Short-listing || Written test (for Assistant Professor) || Assessment of teaching skills || Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.csjmu.ac.in",
+        "official_notification": "https://csjmu.ac.in/wp-content/uploads/docs/2026/09/980.-Advertisement-For-Teaching-post.pdf"
+    },
+    {
+        "date": "26/09/2026",
+        "board": "RGNAU Vacancy 2026 - 3 Visiting Medical Consultant and Health Inspector PostsRGNAU Vacancy 2026",
+        "title": "Visiting Medical Consultant and Health Inspector",
+        "qualification": "MD/DNB in Obstetrics & Gynaecology with 1 year experience, MD/DNB in Paediatrics with 1 year experience, Diploma/Certificate in Health Inspector/Sanitary Inspector/Public Health with 5 years experience",
+        "last_date": "06-11-2026",
+        "total_posts": "3",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rgnau.ac.in",
+        "official_notification": "https://img2.freejobalert.com/news/2026/09/98987-6ab750f900a4463171470.pdf"
+    },
+    {
+        "date": "26/09/2026",
+        "board": "AMU Vacancy 2026 - 1 Guest Teacher PostsAMU Guest Teacher Vacancy 2026",
+        "title": "Guest Teacher",
+        "qualification": "A Master's degree in Sunni Theology with 55% marks and Ph.D. Degree in Sunni Theology or equivalent.",
+        "last_date": "05-10-2026",
+        "total_posts": "1",
+        "salary": "Guest Teacher: Rs. 50,000/- per month (@1500/- per lecture subject to a maximum)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://api.amu.ac.in/",
+        "official_notification": "https://api.amu.ac.in/storage/file/86/notice-and-circular/1790400425.pdf"
+    },
+    {
+        "date": "26/09/2026",
+        "board": "IIT Kanpur Vacancy 2026 - Project Postdoctoral Fellow PostsIIT Kanpur Project Postdoctoral Fellow Vacancy 2026",
+        "title": "Project Postdoctoral Fellow",
+        "qualification": "PhD in Metallurgical Engineering",
+        "last_date": "05-10-2026",
+        "total_posts": "Not Available",
+        "salary": "60000-5000-85000",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in/",
+        "official_notification": "https://www.iitk.ac.in/dord/project/mse-ppdf-24-09-26.html"
+    },
+    {
+        "date": "26/09/2026",
         "board": "KGBV Badaun Vacancy 2026 - 76 PGT, Peon, Accountant and More PostsKGBV Badaun Vacancy 2026",
         "title": "PGT, Peon, Accountant and More",
         "qualification": "8th, 12th, Graduate, Post Graduate, B.Ed, LT, etc.",
@@ -141,7 +205,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        "official_notification": "Not Available"
     },
     {
         "date": "26/08/2026",
@@ -605,7 +669,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        "official_notification": "Not Available"
     },
     {
         "date": "19/09/2026",
@@ -637,7 +701,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        "official_notification": "Not Available"
     },
     {
         "date": "19/09/2026",
@@ -957,7 +1021,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        "official_notification": "Not Available"
     },
     {
         "date": "16/09/2026",
@@ -1069,7 +1133,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        "official_notification": "Not Available"
     },
     {
         "date": "11/09/2026",
@@ -1517,7 +1581,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://cihts.ac.in/",
-        "official_notification": "assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        "official_notification": "Not Available"
     },
     {
         "date": "04/09/2026",

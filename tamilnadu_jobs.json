@@ -1,6 +1,54 @@
 [
     {
         "date": "26/09/2026",
+        "board": "DCCM Cuddalore Vacancy 2026 - 1 Technical Assistant PostsDCCM Cuddalore Technical Assistant Vacancy 2026",
+        "title": "Technical Assistant",
+        "qualification": "Bachelor's degree in Biological Sciences, Environmental Science, Ecology, Forestry, Wild Life Science, Public Policy, or related fields / M.A. English with basic typing skills in Tamil and English",
+        "last_date": "30-09-2026",
+        "total_posts": "1",
+        "salary": "Technical Assistant:Rs. 22,000/- per month",
+        "age_limit": "Technical Assistant:Maximum age limit is 40 years.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Application Eligibility Screening || Interview || Typing Test",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://cuddalore.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s3a96b65a721e561e1e3de768ac819ffbb/uploads/2026/09/17903393697925.pdf"
+    },
+    {
+        "date": "26/09/2026",
+        "board": "CUTN Vacancy 2026 - 2 Consultant & Technical Assistant PostsCUTN Consultant & Technical Assistant Vacancy 2026",
+        "title": "Consultant (Civil) & Technical Assistant (HVAC)",
+        "qualification": "Bachelor's Degree in Civil Engineering, Bachelor's Degree of Engineering in Mechanical Engineering, Diploma in Mechanical Engineering",
+        "last_date": "10-10-2026",
+        "total_posts": "2",
+        "salary": "Rs. 29200 - 65000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Written Test || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://cutn.ac.in/",
+        "official_notification": "https://cutn.ac.in/wp-content/uploads/2026/09/Advt_for_Contract_Post_25092026.pdf"
+    },
+    {
+        "date": "26/09/2026",
+        "board": "Central Prison Coimbatore Vacancy 2026 - 6 Sanitary Worker PostsCentral Prison Coimbatore Sanitary Worker Vacancy 2026",
+        "title": "Sanitary Worker",
+        "qualification": "Must know to read and write",
+        "last_date": "05-10-2026",
+        "total_posts": "6",
+        "salary": "Not Available",
+        "age_limit": "Min: Not specified, Max: 30-35 years depending on category",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://coimbatore.nic.in/",
+        "official_notification": "https://cdn.s3waas.gov.in/s3bca82e41ee7b0833588399b1fcd177c7/uploads/2026/09/17903355535466.pdf"
+    },
+    {
+        "date": "26/09/2026",
         "board": "CMRL Vacancy 2026 - 6 Manager, Assistant Manager and More PostsCMRL Vacancy 2026",
         "title": "Joint General Manager, Manager and More",
         "qualification": "B.E/ B.Tech, UG/ PG, M.E/ M.Tech in relevant disciplines",
@@ -253,7 +301,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        "official_notification": "Not Available"
     },
     {
         "date": "23/09/2026",
@@ -957,7 +1005,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        "official_notification": "Not Available"
     },
     {
         "date": "12/09/2026",
