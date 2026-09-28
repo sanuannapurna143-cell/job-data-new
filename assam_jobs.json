@@ -1,6 +1,54 @@
 [
     {
         "date": "28/09/2026",
+        "board": "IOCL Vacancy 2026 - 58 Apprentice PostsIOCL Apprentice Vacancy 2026",
+        "title": "Apprentice (Trade Apprentice and Technician Apprentice)",
+        "qualification": "3 years Diploma in Instrumentation Engg / Instrumentation & Electronics / Instrumentation & Control Engg / Applied Electronics and Instrumentation Engineering",
+        "last_date": "18-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Stipend per month is payable as prescribed under the Apprentices Act, 1961/1973, the Apprentices Rules 1992 (as amended) and the Corporation's guidelines. The exact amount is not stated in the notification. Other conditions in the notification: || Safety shoes (one pair) and a helmet are provided to apprentices under Codes 101, 103 and 107, wherever applicable, and are returnable on completion of training. || No HRA or company accommodation is provided. || Leave: General leave of 32 days (8 days per quarter, including medical grounds) and casual leave of 12 days per calendar year (pro-rata). Holidays observed by the establishment are available. Leave not availed lapses at the end of apprenticeship. || Apprentices are covered under suitable accident insurance and the Certified Standing Orders applicable to workmen at the establishment. || The training period may be extended under certain circumstances under Rule 7 of the Apprentices Rules 1992. || IOCL has no obligation to offer employment after apprenticeship, and an apprentice cannot claim employment on that ground.",
+        "age_limit": "The age limit is minimum 18 years and maximum 24 years as on 30.09.2026 for General and EWS candidates. Only the Matriculation (Class X) mark sheet/certificate issued by the Board of Secondary Education is accepted as age proof. || A PwBD candidate availing only age relaxation (no relaxation in qualification marks) is considered against an unreserved seat in order of merit before being considered against a reserved seat. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "The application fee is not specified in the notification. IOCL cautions candidates against agencies or individuals aiming at fleecing money from the public.",
+        "selection_process": "There is no written test . Candidates registered on NAPS/NATS and applying against the notification are considered as follows. || Selection is on the percentage of marks, in descending order, in the prescribed qualification for the trade applied for (aggregate of all subjects of all years/semesters), among candidates meeting the eligibility criteria. First-time apprenticeship applicants get preference. || Tie-break: senior by date of birth first; if the date of birth is the same, higher Matriculation percentage. || PwBD candidates who availed relaxation in qualification marks are considered against reserved seats irrespective of position in the select list (in order of merit within the category). || Shortlisted candidates, subject to seats in each trade, are called for document verification and then pre-engagement medical examination. || Filling of seats is at the management's discretion based on suitability, and no claim arises if seats remain unfilled. || Finally shortlisted candidates whose documents and medical fitness certificate are in order are issued an offer of engagement.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iocl.com/admin/img/Apprenticeships/Files/2794684a49d74953b8c77e6d21379c23.pdf",
+        "official_notification": "gsssb-staff-nurse-recruitment-2026-apply-online-for-131-posts-3070030"
+    },
+    {
+        "date": "28/09/2026",
+        "board": "IIT Guwahati Vacancy 2026 - 1 JRF PostsIIT Guwahati JRF Vacancy 2026",
+        "title": "JRF (GATE)",
+        "qualification": "BTech in CSE or related subjects and GATE in CSE",
+        "last_date": "29-09-2026",
+        "total_posts": "1",
+        "salary": "JRF (GATE):Rs. 44910 Per Month",
+        "age_limit": "For All Posts: Minimum and maximum age limits are not specified. Candidates may refer to the official notification for further details.",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitg.ac.in/",
+        "official_notification": "https://www.iitg.ac.in/pdf/e5386ff9d5e256beca296536c1746f8d.pdf"
+    },
+    {
+        "date": "28/09/2026",
+        "board": "AIIMS Guwahati Vacancy 2026 - 1 Project Associate I PostsAIIMS Guwahati Project Associate I Vacancy 2026",
+        "title": "Project Associate I",
+        "qualification": "Postgraduate degree (with minimum 55% marks) in Bioinformatics/Biochemistry/Biotechnology/Biological Sciences or a related discipline.",
+        "last_date": "08-10-2026",
+        "total_posts": "1",
+        "salary": "Project Associate I:Rs 29,500/- per month",
+        "age_limit": "Project Associate I:Up to 35 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Screening/skill test or written examination || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsguwahati.ac.in",
+        "official_notification": "https://aiimsguwahati.in/viewfile.aspx?fname=8486cd23.pdf&ftype=pdf&rdoctype=cms"
+    },
+    {
+        "date": "28/09/2026",
         "board": "IIT Guwahati Vacancy 2026 - 3 JRF, Assistant Project Engineer PostsIIT Guwahati Vacancy 2026",
         "title": "Assistant Project Engineer, JRF",
         "qualification": "B.Tech. in Electronics or Mechanical or closely related discipline, or M.Sc. in Electronics",
@@ -30,22 +78,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.neist.res.in",
         "official_notification": "https://neist.res.in/public/storage/documents/1790569561_ADVT%20ENGLISH%20Security%20Officer%20FINAL.pdf"
-    },
-    {
-        "date": "26/09/2026",
-        "board": "IIT Guwahati Vacancy 2026 - 1 Post Doctoral Fellow PostsIIT Guwahati Post Doctoral Fellow Vacancy 2026",
-        "title": "Post Doctoral Fellow",
-        "qualification": "PhD in Chemical Science or Chemistry or Biotechnology with strong publication record in Q1 journals",
-        "last_date": "28-09-2026",
-        "total_posts": "1",
-        "salary": "Rs. 70850 total amount (58000 Pay + 11600 HRA + 1250 Medical)",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitg.ac.in/",
-        "official_notification": "https://www.iitg.ac.in/pdf/b8ac3bc0623b83ec934da55c987f7c16.pdf"
     },
     {
         "date": "26/09/2026",
@@ -269,7 +301,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "gsssb-staff-nurse-recruitment-2026-apply-online-for-131-posts-3070030"
     },
     {
         "date": "23/09/2026",
@@ -333,23 +365,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
-    },
-    {
-        "date": "22/09/2026",
-        "board": "C-DAC Vacancy 2026 - 1 Consultant PostsC-DAC Consultant Vacancy 2026",
-        "title": "Consultant (IT and Network Engineer)",
-        "qualification": "B.E/B-Tech in CSE/ECE/EEE/IT or relevant domain(s) with 60% or equivalent CGPA, M.E/M.Tech/Post Graduate degree in CSE/EEE/ECE/IT or relevant domain(s) with 60% or equivalent CGPA, Ph.D. (all but thesis) in relevant discipline, 8-10 Years Relevant Experience in Network Administration, LAN/WAN, Routing & Switching, Cisco devices, Firewalls, VPN, etc.",
-        "last_date": "28-09-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Maximum Age: 56 years || Age will be calculated as on 01 June 2026.",
-        "application_fee": "Not Available",
-        "selection_process": "Pre-Qualification Evaluation || Interview (Offline/Online)",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.cdac.in",
-        "official_notification": "https://www.cdac.in/index.aspx?id=pdf_hrd_sil&dynamicId=Advertisement-Consultant.pdf"
+        "official_notification": "gsssb-staff-nurse-recruitment-2026-apply-online-for-131-posts-3070030"
     },
     {
         "date": "21/09/2026",
@@ -622,22 +638,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ssc.gov.in/",
         "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_chsl_2026.pdf"
-    },
-    {
-        "date": "29/08/2026",
-        "board": "CSIR NEIST Vacancy 2026 - 4 Junior Stenographer, Junior Hindi Translator and More Posts PostsCSIR NEIST Vacancy 2026",
-        "title": "Junior Stenographer, Junior Secretariat Assistant, Junior Hindi Translator",
-        "qualification": "10+2/XII or equivalent with stenography proficiency, 10+2/XII or equivalent with computer typing proficiency, Master's degree in Hindi or English",
-        "last_date": "28-09-2026",
-        "total_posts": "4",
-        "salary": "Junior Stenographer:Pay Level-4 (Rs. 25,500-Rs. 81,100/-) As per 7th CPC || Junior Secretariat Assistant:Pay Level-2 (Rs.19,900-Rs. 63,200/-) As per 7th CPC || Junior Hindi Translator:Pay Level-6 (Rs. 35,400.00 - Rs 1,12,400.00/-) As per 7th CPC",
-        "age_limit": "Maximum Age Limit: 30 years for all posts. || Age relaxation will be applicable as per government rules. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.neist.res.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/08/8456912-6a9277f5b5d6081393854.pdf"
     },
     {
         "date": "29/08/2026",
