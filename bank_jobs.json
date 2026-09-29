@@ -1,6 +1,38 @@
 [
     {
         "date": "29/09/2026",
+        "board": "NaBFID",
+        "title": "Chief Information Security Officer (CISO)",
+        "qualification": "Engineering Graduate / post-Graduate in fields such as Computer Science/ Computer Science & Engineering/ Software Engineering/ Information Technology/ Electronics & Communication Engineering/ Cyber Security related fields or MCA or equivalent qualification.",
+        "last_date": "20-10-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "55 years and below",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://nabfid.org",
+        "official_notification": "https://img2.freejobalert.com/news/2026/09/654894896-6abb46a6d390a12101239.pdf"
+    },
+    {
+        "date": "29/09/2026",
+        "board": "APCOB",
+        "title": "Faculty",
+        "qualification": "Graduation with CAIIB/ Diploma in Cooperative Business Management (or) Post graduate in Commerce/MBA/Agriculture",
+        "last_date": "07-10-2026",
+        "total_posts": "2",
+        "salary": "Consolidated remuneration:Rs.70,000/- per month || Conveyance:Rs.5000/- per month",
+        "age_limit": "Faculty:Minimum Age: 35 years, Maximum Age: 62 years. Age relaxation rules apply as per guidelines.",
+        "application_fee": "Rs.1000/-",
+        "selection_process": "Preliminary screening/ short listing with reference to candidates' qualification, experience, profile || Interview by Selection Committee",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.apcob.bank.in",
+        "official_notification": "https://apcob.bank.in/wp-content/uploads/2026/09/Notification_CTI_Open-market.pdf"
+    },
+    {
+        "date": "29/09/2026",
         "board": "APCOB",
         "title": "Chief Business Development Officer (CBDO)",
         "qualification": "Graduate from a recognised University/Institution, with MBA/PGDM/CAIIB desirable and minimum 15 years banking/financial services experience.",

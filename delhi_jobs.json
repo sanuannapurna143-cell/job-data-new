@@ -1,6 +1,54 @@
 [
     {
         "date": "29/09/2026",
+        "board": "Ministry of Culture Vacancy 2026 - 20 Intern PostsMinistry of Culture Intern Vacancy 2026",
+        "title": "Intern",
+        "qualification": "Candidates must hold a graduate degree. Since no particular discipline is mentioned, candidates should read the official advertisement carefully or contact the Ministry through the official email if they have doubts. Experience with government institutions, museums, cultural organizations or international cultural events is listed as desirable, not mandatory.",
+        "last_date": "14-10-2026",
+        "total_posts": "Not Available",
+        "salary": "The notification mentions a remuneration of ₹20,000 for the intern. Whether this amount is payable monthly or for the full internship period is not specified in the notification.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process is not specified in the provided notification. The advertisement only asks interested candidates to submit their application documents by email.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://culture.gov.in/",
+        "official_notification": "https://culture.gov.in/files/vacancies_documents/TIB_Inters_advert.pdf"
+    },
+    {
+        "date": "29/09/2026",
+        "board": "ICMR Vacancy 2026 - 2 Young Professional PostsICMR Young Professional Vacancy 2026",
+        "title": "Young Professional-I (Basic Sciences) and Young Professional-II (Information Technology)",
+        "qualification": "Graduate degree in Life Sciences or allied basic-science discipline / Postgraduate degree in Computer Applications, IT, Computer Science, AI, Operating Systems, Software Engineering, or Computer Graphics",
+        "last_date": "21-10-2026",
+        "total_posts": "2",
+        "salary": "Rs. 35,000/- to Rs. 42,000/- per month",
+        "age_limit": "Young Professional-I (Basic Sciences):Maximum age 30 years (Age relaxation will be as per rules). || Young Professional-II (Information Technology):Maximum age 35 years (Age relaxation will be as per rules).",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Screening against prescribed eligibility criteria || Written test, skill test, or assignment where necessary || Interview for shortlisted candidates",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.icmr.gov.in",
+        "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790577324_icmr-yp-2.pdf"
+    },
+    {
+        "date": "29/09/2026",
+        "board": "AAI Vacancy 2026 - 1 Co Pilot PostsAAI Co Pilot Vacancy 2026",
+        "title": "Co Pilot (P2)-Beechcraft B350/B360",
+        "qualification": "10+2 with physics & mathematics, Current valid CPL issued by DGCA, India with minimum 500 flying hours on multi engine.",
+        "last_date": "20-10-2026",
+        "total_posts": "1",
+        "salary": "Negotiable monthly package:Rs. 2.50 lakhs",
+        "age_limit": "Co Pilot (P2):Maximum age is 60 years. Age relaxation: Re-engaged up to 65 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Scrutiny of applications || Personal interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aai.aero/",
+        "official_notification": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/advertisement%20AAI%20website%20CO_PILOT%2029-09-2026.pdf"
+    },
+    {
+        "date": "29/09/2026",
         "board": "NII Vacancy 2026 - 1 Project Research Scientist-I (Non-Medical) PostsNII Project Research Scientist-I (Non-Medical) Vacancy 2026",
         "title": "Project Research Scientist-I (Non-Medical)",
         "qualification": "Post Graduate Degree with at least 3 years of research experience in laboratory settings, M.Sc in Life Sciences/Biotechnology/Biochemistry from a recognized University",
@@ -653,7 +701,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "ministry-of-culture-intern-recruitment-2026-apply-online-for-20-posts-3070231"
     },
     {
         "date": "26/09/2026",
@@ -909,7 +957,7 @@
         "apply_mode": "Online",
         "syllabus": "Stage Syllabus in Brief Marks",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "ministry-of-culture-intern-recruitment-2026-apply-online-for-20-posts-3070231"
     },
     {
         "date": "24/09/2026",
@@ -957,7 +1005,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "ministry-of-culture-intern-recruitment-2026-apply-online-for-20-posts-3070231"
     },
     {
         "date": "23/09/2026",
@@ -1053,7 +1101,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "ministry-of-culture-intern-recruitment-2026-apply-online-for-20-posts-3070231"
     },
     {
         "date": "23/09/2026",
@@ -1133,7 +1181,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "ministry-of-culture-intern-recruitment-2026-apply-online-for-20-posts-3070231"
     },
     {
         "date": "15/09/2026",
@@ -1165,7 +1213,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://presscouncil.nic.in/",
-        "official_notification": "Not Available"
+        "official_notification": "ministry-of-culture-intern-recruitment-2026-apply-online-for-20-posts-3070231"
     },
     {
         "date": "22/09/2026",
@@ -1245,7 +1293,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://joinindianarmy.nic.in/",
-        "official_notification": "Not Available"
+        "official_notification": "ministry-of-culture-intern-recruitment-2026-apply-online-for-20-posts-3070231"
     },
     {
         "date": "22/09/2026",
@@ -1325,7 +1373,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "itbpf-sports-quota-recruitment-2026-notification-out-apply-online-for-126-constable-gd-posts-3070096"
+        "official_notification": "ministry-of-culture-intern-recruitment-2026-apply-online-for-20-posts-3070231"
     },
     {
         "date": "21/09/2026",
@@ -1997,7 +2045,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "ministry-of-culture-intern-recruitment-2026-apply-online-for-20-posts-3070231"
     },
     {
         "date": "15/09/2026",
@@ -2413,7 +2461,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "ministry-of-culture-intern-recruitment-2026-apply-online-for-20-posts-3070231"
     },
     {
         "date": "29/08/2026",
