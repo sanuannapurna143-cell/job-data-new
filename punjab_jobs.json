@@ -1,5 +1,37 @@
 [
     {
+        "date": "29/09/2026",
+        "board": "PAU Vacancy 2026 - 1 Jr. Field/Lab Helper PostsPAU Jr. Field/Lab Helper Vacancy 2026",
+        "title": "Jr. Field/Lab Helper",
+        "qualification": "Middle pass including Punjabi subject",
+        "last_date": "13-10-2026",
+        "total_posts": "1",
+        "salary": "Jr. Field / Lab Helper:Rs. 13,486/- + Rs. 800/- per month",
+        "age_limit": "Jr. Field / Lab Helper:Minimum Age: 18 years, Maximum Age: 63 years",
+        "application_fee": "Rs. 100/-",
+        "selection_process": "Appearance before selection committee",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://pau.edu/",
+        "official_notification": "https://pau.edu/index.php?_act=manageVacancy&DO=viewVacancyDetail&intID=7585"
+    },
+    {
+        "date": "29/09/2026",
+        "board": "IIT Ropar Vacancy 2026 - 3 Junior Research Fellow PostsIIT Ropar Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.Tech/M.E. in Electrical Engineering / Power Systems / High Voltage Engineering or Bachelor's degree / 3 Year Diploma in Engineering & Technology",
+        "last_date": "20-10-2026",
+        "total_posts": "3",
+        "salary": "37000 + HRA for JRF, 27000 + HRA for Assistant positions",
+        "age_limit": "All Posts: Age limits are not explicitly specified; please refer to the official notification for detailed guidelines.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitrpr.ac.in/",
+        "official_notification": "https://www.iitrpr.ac.in/api/v2/files/download/209"
+    },
+    {
         "date": "28/09/2026",
         "board": "PAU Vacancy 2026 - 1 Junior Field/Lab Helper PostsPAU Junior Field/Lab Helper Vacancy 2026",
         "title": "Junior Field/Lab Helper",
@@ -157,7 +189,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "gsssb-staff-nurse-recruitment-2026-apply-online-for-131-posts-3070030"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/09/2026",

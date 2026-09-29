@@ -1,5 +1,37 @@
 [
     {
+        "date": "29/09/2026",
+        "board": "NIT Warangal Vacancy 2026 - 1 Junior Research Fellow PostsNIT Warangal Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow",
+        "qualification": "Bachelor's degree (B.Tech) or Master's degree (M.Tech) in relevant engineering branches",
+        "last_date": "05-10-2026",
+        "total_posts": "1",
+        "salary": "Rs. 37,000/- per month plus HRA for GATE/NET qualified",
+        "age_limit": "Junior Research Fellow :Maximum age 32 years. Age relaxation: 5 years for SC/ST/OBC/Women/PwD.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on eligibility and qualifications || Interview (Online/Offline)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitw.ac.in",
+        "official_notification": "https://nitw.ac.in/api/static/files/jrf_Prof.saikat_EE_final_2026-9-29-11-58-56.pdf"
+    },
+    {
+        "date": "29/09/2026",
+        "board": "IIT Hyderabad Vacancy 2026 - 1 Project Associate II (Accountant) PostsIIT Hyderabad Project Associate II (Accountant) Vacancy 2026",
+        "title": "Project Associate II (Accountant)",
+        "qualification": "Any Bachelor's degree from a recognised university/institution with minimum 1 year of relevant experience in accounting and advanced MS Excel skills.",
+        "last_date": "10-10-2026",
+        "total_posts": "1",
+        "salary": "Project Associate II (Accountant): ₹ 35,000 – ₹ 45,000 per month (consolidated)",
+        "age_limit": "Project Associate II (Accountant): Maximum age 35 years. Relaxation as per Government of India / IIT Hyderabad norms.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Written test / skill test and/or personal interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://iith.ac.in/",
+        "official_notification": "https://iith.ac.in/assets/files/careers/staff/Advertisement%20Draft%20copy_CLEANZ.COE.pdf"
+    },
+    {
         "date": "28/09/2026",
         "board": "CGG Vacancy 2026 - Software Developer, Project Associate and More PostsCGG Vacancy 2026",
         "title": "Project Associate, Team Lead and More",
@@ -573,7 +605,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "gsssb-staff-nurse-recruitment-2026-apply-online-for-131-posts-3070030"
+        "official_notification": "Not Available"
     },
     {
         "date": "11/09/2026",
