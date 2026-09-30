@@ -1,6 +1,38 @@
 [
     {
         "date": "30/09/2026",
+        "board": "IRCTC",
+        "title": "Apprentice (4 trades)",
+        "qualification": "All applicants, regardless of trade, must additionally have passed Matriculation with minimum 50% aggregate marks from a recognized Board.",
+        "last_date": "18-10-2026",
+        "total_posts": "27",
+        "salary": "The training period is one year (as mentioned against each post). Selected candidates engaged as Apprentices will be paid a monthly stipend as per the prescribed rates under the Apprenticeship Act.",
+        "age_limit": "The age limit for all posts, as on 18/08/25 , is 15 (completed) to 25 years , with the following relaxation: || *Ex-servicemen's upper age limit is relaxed by an additional 10 years, to the extent of service rendered in the Defence Forces, plus 3 years, provided they have put in a minimum of 6 months' service at a stretch - except ex-servicemen who have already joined Government Services on the civil side after availing Ex-servicemen status for the purpose of their engagement. || Ex-servicemen, their children, and children of Armed Forces personnel will be engaged for Apprenticeship as per the following: || Children of deceased/disabled Ex-servicemen, including those killed/disabled during peace time. || Children of Ex-servicemen. || Children of Serving Jawans. || Children of Serving Officers. || Ex-Servicemen.",
+        "application_fee": "Not specified in the notification",
+        "selection_process": "There is no written test or viva . Selection follows this mode: || Selection is based on a merit list prepared on the percentage of marks obtained in the Matriculation examination. In case of a grading system of marking, the average of the highest and lowest marks in the scale will be taken. || If two applicants have the same marks, the applicant with the older age is preferred. If the dates of birth are also the same, the applicant who passed the Matriculation exam earlier is considered first. || Final selection is subject to verification of original testimonials. || Candidates on the Stand-by list will be offered to join only on receipt of details of absentees and rejected candidates from the Merit list. || Offers are issued strictly in order of merit. || Shortlisted candidates should be in readiness to report to the concerned office for Document/Certificate Verification at short notice.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "www.irctc.com",
+        "official_notification": "https://www.irctc.com/assets/images2/Advertisement(30Sep26).pdf"
+    },
+    {
+        "date": "30/09/2026",
+        "board": "KRCL",
+        "title": "Assistant Electrical Engineer",
+        "qualification": "Degree/Diploma in Electrical/Electronics/Mechanical Engineering",
+        "last_date": "28-10-2026",
+        "total_posts": "1",
+        "salary": "Assistant Electrical Engineer:7th CPC Pay Matrix Level-10 (6th CPC, PB-3, Rs.15600-39100 with GP Rs.5400/-)",
+        "age_limit": "Assistant Electrical Engineer:Up to 63 years",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Application screening || Vigilance and D&AR clearance",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://konkanrailway.com/",
+        "official_notification": "https://konkanrailway.com/sites/default/files/2026-09/AEE_CO_RE_7_2026.pdf"
+    },
+    {
+        "date": "30/09/2026",
         "board": "RRB",
         "title": "Non-Technical Popular Categories     – 3,477",
         "qualification": "This recruitment is intended for graduate-level Non-Technical Popular Category posts.",
@@ -493,7 +525,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "prl-udaipur-recruitment-2026-apply-online-for-telescope-operator-trainee-office-trainee-and-more-posts-3070265"
+        "official_notification": "Not Available"
     },
     {
         "date": "11/09/2026",

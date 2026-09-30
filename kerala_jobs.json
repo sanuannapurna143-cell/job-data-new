@@ -1,6 +1,54 @@
 [
     {
         "date": "30/09/2026",
+        "board": "RGCB Vacancy 2026 - 1 Junior Research Fellow PostsRGCB Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow",
+        "qualification": "B.S. 4 years programme / BPharm / MBBS / Integrated BS-MS / MSC / BE / BTech or equivalent degree with 55% marks and NET/GATE test",
+        "last_date": "09-10-2026",
+        "total_posts": "1",
+        "salary": "Junior Research Fellow:₹ 37,000/- + 16% HRA per month",
+        "age_limit": "Junior Research Fellow:Maximum Age: 28 years. Age relaxation will be given as per Govt. of India norms.",
+        "application_fee": "Not Available",
+        "selection_process": "Applications should be submitted online. || Shortlisting for the online selection interview based on eligibility criteria. || Selection of suitable candidates will be made based on qualifications and performance in the selection interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rgcb.res.in/",
+        "official_notification": "https://rgcb.res.in/adv-2026-05"
+    },
+    {
+        "date": "30/09/2026",
+        "board": "CUSAT Vacancy 2026 - 1 Assistant Professor PostsCUSAT Assistant Professor Vacancy 2026",
+        "title": "Assistant Professor (on Contract basis)-Forensic Science",
+        "qualification": "Master's degree in Forensic Science with 55% marks and NET / Ph.D",
+        "last_date": "24-10-2026",
+        "total_posts": "1",
+        "salary": "For Ph.D holder:₹ 47,000/- per month || For rest of the contract teachers:₹ 45,000/- per month",
+        "age_limit": "No specific age limit restrictions or minimum/maximum age criteria have been explicitly mandated in the official notification for this post.",
+        "application_fee": "₹ 950/-",
+        "selection_process": "Online Application || Shortlisting based on qualifications || Interview / Appointment",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://recruit.cusat.ac.in/",
+        "official_notification": "https://recruit.cusat.ac.in/files/NOTIFICATION_484.pdf"
+    },
+    {
+        "date": "30/09/2026",
+        "board": "Amrita Vishwa Vidyapeetham Vacancy 2026 - 5 Embedded IoT Engineer, STEM Project Manager and More Posts PostsAmrita Vishwa Vidyapeetham Vacancy 2026",
+        "title": "Postdoctoral Fellow-Snake venom Research, Embedded IoT Engineer, Soft Skills Trainer & Placement Officer, STEM Project Manager (PM)",
+        "qualification": "5 Posts",
+        "last_date": "10-10-2026",
+        "total_posts": "5",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Please refer to the official notification for selection process details.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.amrita.edu",
+        "official_notification": "https://www.amrita.edu/jobs/"
+    },
+    {
+        "date": "30/09/2026",
         "board": "KCB Vacancy 2026 - 1 Accounts Officer PostsKCB Accounts Officer Vacancy 2026",
         "title": "Accounts Officer",
         "qualification": "CA/ICMA Inter with Articleship, M.Com. with 3 years experience",
@@ -46,22 +94,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ssc.gov.in/",
         "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_chsl_2026.pdf"
-    },
-    {
-        "date": "10/09/2026",
-        "board": "SSC Vacancy 2026 - 1871 Sub-Inspector in Delhi Police and CAPFs PostsSSC Vacancy 2026",
-        "title": "Sub-Inspector in Delhi Police and CAPFs",
-        "qualification": "Bachelor's degree in Science with Physics, Chemistry and Mathematics from a recognised university or equivalent; OR Matriculation plus a 3-year diploma in Mechanical/Civil/Electrical/Automobile/Chemical/Mining/Aeronautical/Telecommunication Engineering or equivalent. A higher qualification (B.Tech/M.Tech) in relevant fields is treated as value addition, subject to the basic diploma being held.",
-        "last_date": "30-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Level-6 (₹35,400 – ₹1,12,400)",
-        "age_limit": "Age is reckoned as on the crucial date, 01.08.2026. || All posts except SI (Fire) in CISF:20–25 years (born not earlier than 02.08.2001 and not later than 01.08.2006). || SI (Fire) in CISF:18–30 years (born not earlier than 02.08.1996 and not later than 01.08.2008). || Departmental candidates among Constables, Head Constables and Assistant Sub-Inspectors of Delhi Police with a minimum of three years' service, not exceeding 30 years (33 for OBC, 35 for SC/ST) of age, may also apply for Open Vacancies of SI (Executive), Delhi Police-Male. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Fee payable: ₹100 (Rupees One Hundred only). || Women candidates and candidates belonging to SC, ST and Ex-Servicemen (eligible for reservation) are exempted from fee payment. || Fee can be paid only through online modes: BHIM UPI, Net Banking, Visa, MasterCard, Maestro, or RuPay Debit card. || Fee payment closes 01.10.2026 (23:00 hrs); no other mode of payment is permitted. || Fee once paid is non-refundable and non-adjustable against any other examination. || Application Form Correction Window (08.10.2026 to 10.10.2026) charges: ₹200 for the first correction, ₹500 for the second correction - applicable to all candidates regardless of gender/category.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ssc.gov.in",
-        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_capf_2026.pdf"
     },
     {
         "date": "30/09/2026",
@@ -334,38 +366,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.kannuruniversity.ac.in/",
         "official_notification": "https://www.kannuruniversity.ac.in/media/documents/AD_B_AD_B4_13468_2026_i_dt_24.09.2026.pdf"
-    },
-    {
-        "date": "24/09/2026",
-        "board": "Life Mission Kerala Vacancy 2026 - 2 Non Engineering Interns PostsLife Mission Kerala Non Engineering Interns Vacancy 2026",
-        "title": "Non Engineering Interns",
-        "qualification": "Any Graduate with Computer proficiency",
-        "last_date": "30-09-2026",
-        "total_posts": "2",
-        "salary": "Rs. 10000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Screening Process || Written Test || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://asapkerala.gov.in/",
-        "official_notification": "https://asapkerala.gov.in/job/non-engineering-intern-vacancies-in-life-mission/"
-    },
-    {
-        "date": "24/09/2026",
-        "board": "Thalassery District Court Vacancy 2026 - 2 Office Attendant PostsThalassery District Court Office Attendant Vacancy 2026",
-        "title": "Office Attendant",
-        "qualification": "Retired from courts or similar government departments",
-        "last_date": "30-09-2026",
-        "total_posts": "2",
-        "salary": "Rs. 20280 Per Month",
-        "age_limit": "Maximum Age Limit: 62 years",
-        "application_fee": "Not Available",
-        "selection_process": "Application Scrutiny || Merit List || Document Verification",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://kannur.dcourts.gov.in/",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/09/2026092356.pdf"
     },
     {
         "date": "24/09/2026",
@@ -768,22 +768,6 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/09/852142-6a9e473562efd40920222.pdf"
     },
     {
-        "date": "03/09/2026",
-        "board": "IIM Kozhikode Vacancy 2026 - 1 Senior Advisor PostsIIM Kozhikode Senior Advisor Vacancy 2026",
-        "title": "Senior Advisor (Development)",
-        "qualification": "Graduation in any stream",
-        "last_date": "30-09-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Max: 65 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iimk.ac.in",
-        "official_notification": "https://webapps.iimk.ac.in/jobportal/vacancy_details/eyJpdiI6IlpBaXhYU3Vkb3lTWFcwSEVVekIvbWc9PSIsInZhbHVlIjoiL3MwU2VoQ3RQLzJsYVVjR2FaVWdLZz09IiwibWFjIjoiMTEzNmNjYTRiMTQ4ZmM0OTE4YWUzYmUwM2M2OWViMjBhMGIwY2I1ZDE2OTNjZGY1MzY1ZDU0ZDU4NjlhMDM5OSIsInRhZyI6IiJ9"
-    },
-    {
         "date": "02/09/2026",
         "board": "Kerala High Court Vacancy 2026 - 1 Registrar PostsKerala High Court Registrar Vacancy 2026",
         "title": "Various Posts",
@@ -846,21 +830,5 @@
         "syllabus": "Not Available",
         "official_website": "https://cochinshipyard.in",
         "official_notification": "https://cochinshipyard.in/uploads/career/072fc88c8393c880260f39bd5b0bbf1e.pdf"
-    },
-    {
-        "date": "19/08/2026",
-        "board": "IIM Kozhikode Vacancy 2026 - 28 Assistant Professor PostsIIM Kozhikode Assistant Professor Vacancy 2026",
-        "title": "Assistant Professor",
-        "qualification": "Ph.D. or equivalent degree in appropriate subjects with first class or equivalent (Overall 60 percent or above) at the preceding degree and with excellent academic record throughout.",
-        "last_date": "30-09-2026",
-        "total_posts": "28",
-        "salary": "Pay Level 10/11/12/13A1",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Seminar || Interview || Document Verification",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iimk.ac.in",
-        "official_notification": "https://iimk.ac.in/uploads/userfiles/Notification_A-02.2026.pdf"
     }
 ]
