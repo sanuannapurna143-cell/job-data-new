@@ -1,6 +1,22 @@
 [
     {
         "date": "01/10/2026",
+        "board": "BITS Pilani Vacancy 2026 - 1 Junior Research Fellow PostsBITS Pilani Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "First class B.E./B.Tech. or M.E./M.Tech. in Computer Science and Engineering and related branches, Data Science, Artificial Intelligence, Cyber Security, or allied disciplines with GATE/NET preferred.",
+        "last_date": "30-10-2026",
+        "total_posts": "1",
+        "salary": "Junior Research Fellow:Rs. 37,000/- per month as JRF for NET/GATE Qualified Candidates",
+        "age_limit": "Junior Research Fellow:Maximum age 28 years. Age relaxation: SC/ST/PwD candidates get 5 years, OBC candidates get 3 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on merit and experience || Online interview for shortlisted candidates",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bits-pilani.ac.in",
+        "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/Ashutosh_Bhatia_DRDO_Project_30_Sep_2026.pdf"
+    },
+    {
+        "date": "01/10/2026",
         "board": "RRC North Western Railway Vacancy 2026 - 2008 Act Apprentice PostsRRC North Western Railway Act Apprentice Vacancy 2026",
         "title": "Act Apprentice",
         "qualification": "2008 Posts",
@@ -176,22 +192,6 @@
         "official_notification": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1790402525_Adobe%20Scan%2026%20Sept%202026.pdf"
     },
     {
-        "date": "27/07/2026",
-        "board": "Department of Local Self Government Rajasthan Vacancy 2026 - 24752 Safai Karmachari PostsDepartment of Local Self Government Rajasthan Safai Karmachari Vacancy 2026",
-        "title": "Contractual Safai Karmchari (Sanitation Worker)",
-        "qualification": "24752 Posts",
-        "last_date": "01-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "As per the Rajasthan Contractual Hiring to Civil Posts Rules, 2022, an applicant must have attained a minimum age of 21 years and must not have exceeded 40 years, as calculated on 1 January 2027 (the first 1 January following the last date of application). || These age relaxations are non-cumulative - a candidate can avail the benefit of only the single relaxation most favourable to them, not a combination of more than one provision.",
-        "application_fee": "600",
-        "selection_process": "Selection is made through a lottery system (developed by the Rajasthan Department of Information Technology & Communication) among eligible candidates, category-wise, according to the number of advertised posts in each urban local body, in the following priority order: || Priority 1:Candidates with 1 year of sanitation experience in the same urban local body they are applying to. || Priority 2:If posts remain unfilled after Priority 1, candidates with 1 year of sanitation experience in another urban local body within the same district are included in the lottery. || Priority 3:If posts still remain unfilled, candidates with 1 year of sanitation experience in any urban local body anywhere in the state are included in the lottery.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://lsg.urban.rajasthan.gov.in",
-        "official_notification": "https://jankalyanfile.rajasthan.gov.in/WebMyWayFiles/OrderEntry/LSG/2026/Recruitment_Related/O_270726_b3f2c06b-6021-49a2-9661-14cdb0f93dd0.pdf"
-    },
-    {
         "date": "24/09/2026",
         "board": "AIIMS Jodhpur Vacancy 2026 - 51 Senior Resident PostsAIIMS Jodhpur Senior Resident Vacancy 2026",
         "title": "Senior Resident",
@@ -285,23 +285,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "rrc-north-western-railway-act-apprentice-recruitment-2026-apply-online-for-2008-posts-3070677"
-    },
-    {
-        "date": "22/09/2026",
-        "board": "AIIMS Jodhpur Vacancy 2026 - 1 Project Technical Support-I PostsAIIMS Jodhpur Project Technical Support-I Vacancy 2026",
-        "title": "Project Technical Support-I (Lab Technician cum Research Assistant)",
-        "qualification": "10th + DMLT + two years' experience. Or B.Sc. + one-year experience.",
-        "last_date": "01-10-2026",
-        "total_posts": "1",
-        "salary": "Rs. 18,000/- Per Month + HRA, as admissible",
-        "age_limit": "Maximum Age Limit: 28 years || Age relaxation will be as per government rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-In Interview || Screening/Scrutiny Test (if applicable)",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "http://www.aiimsjodhpur.edu.in",
-        "official_notification": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1790054331_PRR-Res-Adv-41-220926.pdf"
+        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
     },
     {
         "date": "14/08/2026",

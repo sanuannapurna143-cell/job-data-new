@@ -1,6 +1,86 @@
 [
     {
         "date": "01/10/2026",
+        "board": "IFFCO Vacancy 2026 - Agriculture Graduate Trainee PostsIFFCO Agriculture Graduate Trainee Vacancy 2026",
+        "title": "Agriculture Graduate Trainee (AGT)",
+        "qualification": "Four-year B.Sc. (Agriculture) full-time regular degree from a UGC/AICTE recognized University/Institute, with minimum 60% (General/OBC) or 55% (SC/ST) aggregate marks",
+        "last_date": "14-10-2026",
+        "total_posts": "Not specified",
+        "salary": "The stipend and pay details given in the advertisement are as follows: || Stipend during Training:Rs. 33,300/- per month (as per the rules of the organisation, at present). || Pay on Absorption:On successful completion of one year's training, and subject to the requirement of IFFCO, AGTs may be absorbed at a basic pay of Rs. 37,000/- per month in the regular pay scale of Rs. 37,000 - 70,000. || Allowances and Benefits:As per the rules of the organisation (specific allowances are not listed in the advertisement).",
+        "age_limit": "The maximum age limit is 30 years as on 01-09-2026. Age relaxation is given as follows: || Maximum Age:30 years || SC/ST Candidates:Relaxation of 5 years || OBC (Non-Creamy Layer) Candidates:Relaxation of 3 years || Minimum Age:Not specified in the advertisement || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Candidates should check the online application portal for any fee details at the time of applying.",
+        "selection_process": "The selection of Agriculture Graduate Trainees will be through the following stages: || Preliminary Online Test:Eligible candidates must appear for a Preliminary Computer Based Online Test in an open environment, using their own resources, i.e. a computer/laptop with internet facility. || Final Online Test:Candidates shortlisted based on their performance in the Preliminary Online Test will be called for the Final Online Test in a controlled environment at designated centres. || Personal Interview:Shortlisted candidates will be called for a Personal Interview. || Medical Examination:Candidates shortlisted after the Personal Interview will be medically examined as per IFFCO's medical standards before final selection. || IFFCO management reserves the right to make any change in the selection procedure based on the number of applications received. || The advertisement does not mention the exam pattern, number of questions or marking scheme.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iffco.in/",
+        "official_notification": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2026-10/Advertisement%20for-the-post-of-Agriculture-Graduate-Trainee.pdf?VersionId=i3.TtpCAgNdb4fRD_soFchZRBvvALDJ"
+    },
+    {
+        "date": "01/10/2026",
+        "board": "AIIMS Delhi Vacancy 2026 - 3 DEO, Project Research Scientist I PostsAIIMS Delhi Vacancy 2026",
+        "title": "Project Research Scientist I (Medical)",
+        "qualification": "MBBS / BVSc / BDS or Post Graduate Degree or Intermediate",
+        "last_date": "15-10-2026",
+        "total_posts": "3",
+        "salary": "₹24,000 to ₹92,300 per month",
+        "age_limit": "Project Research Scientist I (MEDICAL):Maximum age 35 years || Project Research Scientist I (NON-MEDICAL):Maximum age 35 years || Data Entry Operator:Maximum age 28 years",
+        "application_fee": "Not Available",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/gestro-30-9-26.pdf"
+    },
+    {
+        "date": "26/09/2026",
+        "board": "NCRTC Vacancy 2026 - 2 Assistant Manager/ Operations PostsNCRTC Assistant Manager/ Operations Vacancy 2026",
+        "title": "Assistant Manager/ Operations",
+        "qualification": "Engineering Graduate (Full Time)",
+        "last_date": "23-10-2026",
+        "total_posts": "2",
+        "salary": "Assistant Manager/ Operations:Rs. 50,000 - 1,60,000 (IDA)",
+        "age_limit": "Assistant Manager/ Operations:Maximum 40 Years. Age relaxations applicable: SC/ST: 05 Years, OBC-NCL: 03 Years, PwBD: 10 Years, Ex-serviceman: 05 Years. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Written Test/ CBT (80% Weightage) || Interview (20% Weightage)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ncrtc.co.in/",
+        "official_notification": "https://www.ncrtc.co.in/hr-module/HR/uploads/2026_09_24_02_09_45362026AMOperationsDirect.pdf"
+    },
+    {
+        "date": "01/10/2026",
+        "board": "IIT Delhi Vacancy 2026 - 2 Project Scientist, Project Attendent PostsIIT Delhi Vacancy 2026",
+        "title": "Project Scientist, Project Attendant",
+        "qualification": "B.Tech in Electronics and Communication / BSc in physics",
+        "last_date": "15-10-2026",
+        "total_posts": "2",
+        "salary": "Rs. 47,790 - 49,220 - 50,700 - 52,200 - 53,790 - 55,400 - 57,060 - 58,770 - 60,530 - 62,350 / p.m. Plus HRA @ 27%",
+        "age_limit": "All Posts:No specific age limit is mentioned in the official notification. SC/ST candidates are eligible for 5% relaxation of marks.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on qualifications and requirements || Online interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in/rec",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1790763061976_322yt7r.pdf"
+    },
+    {
+        "date": "29/09/2026",
+        "board": "ITBP Vacancy 2026 - 126 Constable (General Duty) PostsITBP Constable (General Duty) Vacancy 2026",
+        "title": "Constable (General Duty), Sports Quota, Group 'C' Non-Gazetted, Non-Ministerial",
+        "qualification": "126 Posts",
+        "last_date": "01-11-2026",
+        "total_posts": "Not Available",
+        "salary": "₹21,700 – ₹69,100",
+        "age_limit": "Age Limit (as on 01.11.2026)",
+        "application_fee": "Exempted (Nil)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
+    },
+    {
+        "date": "01/10/2026",
         "board": "AIIMS Delhi Vacancy 2026 - 3 Project Technical Support, Project Research Scientist PostsAIIMS Delhi Vacancy 2026",
         "title": "Project Technical Support - I, Project Research Scientist-I (Non-Medical)",
         "qualification": "B.Sc/ M.Sc, B.Tech / M.Tech / Ph.D as per post",
@@ -125,7 +205,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
     },
     {
         "date": "30/09/2026",
@@ -158,22 +238,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iari.res.in",
         "official_notification": "https://iari.res.in/files/jobs/Advertisement_30092026.pdf"
-    },
-    {
-        "date": "30/09/2026",
-        "board": "DCBH Vacancy 2026 - 6 Junior Resident PostsDCBH Junior Resident Vacancy 2026",
-        "title": "Junior Resident",
-        "qualification": "6 Posts",
-        "last_date": "01-10-2026",
-        "total_posts": "6",
-        "salary": "Junior Resident: Rs. 56100/- as per 7th CPC level 10 plus allowances",
-        "age_limit": "All Posts:Maximum age limit is 30 years. Age relaxation is applicable: 5 years for SC/ST, 3 years for OBC (Delhi only).",
-        "application_fee": "Nil",
-        "selection_process": "Walk-in Interview || Document Verification",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://dcbh.delhi.gov.in/",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wdcbj_3.pdf"
     },
     {
         "date": "30/09/2026",
@@ -432,22 +496,6 @@
         "official_notification": "https://www.rrbapply.gov.in"
     },
     {
-        "date": "29/09/2026",
-        "board": "ITBP Vacancy 2026 - 126 Constable (General Duty) PostsITBP Constable (General Duty) Vacancy 2026",
-        "title": "Constable (General Duty) – Sports Quota",
-        "qualification": "The educational qualification for the post is not specified in the Employment News notice. The notice only refers to \"educational qualifications\" as one of the eligibility conditions and states that candidates must furnish a certificate, in the prescribed form and from the prescribed authority, relating to appointment of meritorious sportspersons. Candidates should read the detailed advertisement on https://recruitment.itbpolice.nic.in for the exact qualification and sports achievement criteria.",
-        "last_date": "01-11-2026",
-        "total_posts": "2025",
-        "salary": "The post of Constable (General Duty) carries Pay Level-3 in the pay matrix, with a pay range of Rs. 21,700 to Rs. 69,100. Allowances and other benefits are not detailed in the notice.",
-        "age_limit": "The age relaxation is available only to sportspersons who satisfy all other eligibility conditions relating to educational qualifications and who furnish the required certificate in the prescribed form from the prescribed authority. The date on which age is to be calculated is not mentioned in the notice. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "The fee is to be paid through the ITBP recruitment website. The mode of payment is not specified in the notice.",
-        "selection_process": "The selection stages are not specified in the Employment News notice. The notice states that ITBP may change the sequence of the recruitment process as given in the detailed advertisement, so candidates should check the full advertisement on the official website for the stages and schedule.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://img2.freejobalert.com/news/2026/09/0659956566-6abb46a6d390a88128474.pdf"
-    },
-    {
         "date": "22/09/2026",
         "board": "CRPF Vacancy 2026 - 521 Sports Quota PostsCRPF Sports Quota Vacancy 2026",
         "title": "Sports Quota",
@@ -461,7 +509,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-regional-youth-welfare-officer-recruitment-2026-apply-online-for-412-posts-3070585"
+        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
     },
     {
         "date": "30/09/2026",
@@ -1213,7 +1261,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-regional-youth-welfare-officer-recruitment-2026-apply-online-for-412-posts-3070585"
+        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
     },
     {
         "date": "26/09/2026",
@@ -1313,22 +1361,6 @@
     },
     {
         "date": "25/09/2026",
-        "board": "ICSIL Vacancy 2026 - 27 MTS, DEO and More PostsICSIL Vacancy 2026",
-        "title": "Assistant Nursing (ANM), Nursing Attendant (Unskilled), Housekeeping Staff/Safai Karamchari (Unskilled), DEO, MTS",
-        "qualification": "10+2 pass with ANM/MPW/ASHA or 8th Pass or Graduate",
-        "last_date": "01-10-2026",
-        "total_posts": "27",
-        "salary": "Varies by post (Rs. 18,456/- to Rs. 26,366/-)",
-        "age_limit": "All Posts:Minimum Age: 18 years, Maximum Age: 45 years. Age relaxation is applicable as per government norms.",
-        "application_fee": "Rs. 590/-",
-        "selection_process": "Scrutiny of documents || Walk-in-Interview/Interaction",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "www.icsil.in",
-        "official_notification": "https://icsil.in/sites/default/files/2026-09/NDC%20%28DEO%20%20MTS%29%20%28Walk-In%20%29.pdf"
-    },
-    {
-        "date": "25/09/2026",
         "board": "IARI Vacancy 2026 - 1 Research Assistant PostsIARI Research Assistant Vacancy 2026",
         "title": "Research Assistant",
         "qualification": "Minimum B.Sc Agriculture/Life Sciences/Zoology with Specialization in Entomology from a recognized University/College",
@@ -1342,22 +1374,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iari.res.in",
         "official_notification": "https://iari.res.in/files/jobs/website_advt_widushi_25092026.pdf"
-    },
-    {
-        "date": "25/09/2026",
-        "board": "AIIMS Delhi Vacancy 2026 - 1 Project Technical Support III PostsAIIMS Delhi Project Technical Support III Vacancy 2026",
-        "title": "Project Technical Support III",
-        "qualification": "MA/ M.Phil in Psychology/ Clinical Psychology",
-        "last_date": "01-10-2026",
-        "total_posts": "1",
-        "salary": "Rs. 36400 Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiims.edu/",
-        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/pead-18-9-26.pdf"
     },
     {
         "date": "04/09/2026",
@@ -1389,7 +1405,7 @@
         "apply_mode": "Online",
         "syllabus": "Stage Syllabus in Brief Marks",
         "official_website": "Not Available",
-        "official_notification": "upsssc-regional-youth-welfare-officer-recruitment-2026-apply-online-for-412-posts-3070585"
+        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
     },
     {
         "date": "24/09/2026",
@@ -1421,7 +1437,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-regional-youth-welfare-officer-recruitment-2026-apply-online-for-412-posts-3070585"
+        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
     },
     {
         "date": "23/09/2026",
@@ -1517,7 +1533,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-regional-youth-welfare-officer-recruitment-2026-apply-online-for-412-posts-3070585"
+        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
     },
     {
         "date": "23/09/2026",
@@ -1534,22 +1550,6 @@
         "syllabus": "Not Available",
         "official_website": "https://nbcfdc.gov.in/",
         "official_notification": "https://nbcfdc.gov.in/nbcfdc/web/sites/default/files/2026-09/Advertisement%20for%20website_0.pdf"
-    },
-    {
-        "date": "23/09/2026",
-        "board": "DRRMLIMS Vacancy 2026 - 1 Medical Officer PostsDRRMLIMS Medical Officer Vacancy 2026",
-        "title": "Medical Officer",
-        "qualification": "MBBS with valid registration from the respective state Medical council/NMC",
-        "last_date": "01-10-2026",
-        "total_posts": "1",
-        "salary": "Rs. 72000 Per Month",
-        "age_limit": "Min: 21 years, Max: 62 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.drrmlims.ac.in/",
-        "official_notification": "https://www.drrmlims.ac.in/Assets/pages/recruitment/RMLIMS_ART_Medical_Officer_WalkIn_Notice_Oct2026.pdf"
     },
     {
         "date": "23/09/2026",
@@ -1613,7 +1613,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://presscouncil.nic.in/",
-        "official_notification": "upsssc-regional-youth-welfare-officer-recruitment-2026-apply-online-for-412-posts-3070585"
+        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
     },
     {
         "date": "22/09/2026",
@@ -1697,22 +1697,6 @@
     },
     {
         "date": "22/09/2026",
-        "board": "AIIMS Delhi Vacancy 2026 - 3 Staff Nurse, Pharmacist and More Posts PostsAIIMS Delhi Vacancy 2026",
-        "title": "Clinical Research Coordinator / Staff Nurse / Pharmacist",
-        "qualification": "Bachelor/Master in relevant subject, Diploma in Nursing/GNM/B.Sc Nursing, Diploma in Pharmacy",
-        "last_date": "01-10-2026",
-        "total_posts": "3",
-        "salary": "Rs. 30000 Per Month",
-        "age_limit": "Maximum Age Limit: 35 years for all posts. || Age relaxation rules will be as per government norms. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting || Interview || Document Verification",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiims.edu/",
-        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/irch-21-9-26.pdf"
-    },
-    {
-        "date": "22/09/2026",
         "board": "RRB Vacancy 2026 - Junior Clerk Cum Typist, Accounts Clerk Cum Typist and More PostsRRB Vacancy 2026",
         "title": "Vacancies",
         "qualification": "Candidates applying for undergraduate-level NTPC posts should have passed Class 12 or an equivalent examination from a recognised board. || Typing proficiency in English or Hindi will be required for the following posts: || Junior Clerk cum Typist || Accounts Clerk cum Typist",
@@ -1725,7 +1709,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "upsssc-regional-youth-welfare-officer-recruitment-2026-apply-online-for-412-posts-3070585"
+        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
     },
     {
         "date": "21/09/2026",
@@ -2189,7 +2173,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "upsssc-regional-youth-welfare-officer-recruitment-2026-apply-online-for-412-posts-3070585"
+        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
     },
     {
         "date": "05/09/2026",
@@ -2206,22 +2190,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.delhihighcourt.nic.in/",
         "official_notification": "https://www.delhihighcourt.nic.in/files/2026-09/recuritment/vacancy_circular_for_spa.pdf"
-    },
-    {
-        "date": "11/09/2026",
-        "board": "NCA - F Vacancy 2026 - 2 Teaching Associates PostsNCA - F Teaching Associates Vacancy 2026",
-        "title": "Teaching Associates",
-        "qualification": "Post Graduation or above in relevant discipline with first division",
-        "last_date": "01-10-2026",
-        "total_posts": "2",
-        "salary": "Rs. 60000 Per Month",
-        "age_limit": "Max: 40 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nicf.gov.in",
-        "official_notification": "https://img2.freejobalert.com/news/2026/09/148786-6aa3ed75f0b4427803406.pdf"
     },
     {
         "date": "11/09/2026",
@@ -2254,22 +2222,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.gailonline.com",
         "official_notification": "https://img2.freejobalert.com/news/2026/09/120365-6aa390da4cfc614179657.pdf"
-    },
-    {
-        "date": "11/09/2026",
-        "board": "SIDBI Vacancy 2026 - 2 Project Manager/ Project Coordinator PostsSIDBI Project Manager/ Project Coordinator Vacancy 2026",
-        "title": "Project Manager/ Project Coordinator",
-        "qualification": "Graduate degree in Engineering/Technology/Management/Economics/Finance/Environmental Science/Sustainability/Climate Change, Post-Graduate degree desirable, Relevant experience in climate finance/sustainable development",
-        "last_date": "01-10-2026",
-        "total_posts": "2",
-        "salary": "Not Available",
-        "age_limit": "Maximum Age Limit: 50 years for all posts. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Not Available",
-        "selection_process": "Personal Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.sidbi.in",
-        "official_notification": "https://www.sidbi.in/head/uploads/career_document/TOR_Hiring_10_09_2026.pdf"
     },
     {
         "date": "11/09/2026",
