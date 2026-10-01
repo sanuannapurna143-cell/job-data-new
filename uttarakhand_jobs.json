@@ -1,5 +1,53 @@
 [
     {
+        "date": "01/10/2026",
+        "board": "HNBGU Vacancy 2026 - 2 Guest Faculty PostsHNBGU Guest Faculty Vacancy 2026",
+        "title": "Guest Faculty",
+        "qualification": "Minimum eligibility for Assistant Professor as per UGC norms",
+        "last_date": "06-10-2026",
+        "total_posts": "2",
+        "salary": "As per university rules",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.hnbgu.ac.in",
+        "official_notification": "https://www.hnbgu.ac.in/sites/default/files/2026-09/Notification%20for%20Guest%20Faculty%20in%20School%20of%20Engineering%20&%20Technology.pdf"
+    },
+    {
+        "date": "01/10/2026",
+        "board": "Kalsi Forest Division Vacancy 2026 - 1 Junior Research Fellow PostsKalsi Forest Division Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow",
+        "qualification": "Post Graduate (PG) Degree in Forestry/Botany/Zoology/Life Science/Experimental Biology/Environmental Science/Biological Sciences/Wildlife Science/Hydrology/Geology/Allied Science/Remote Sensing & GIS, Geography, Surveying or similar discipline from recognized university with NET qualification",
+        "last_date": "05-10-2026",
+        "total_posts": "1",
+        "salary": "Junior Research Fellow:Rs. 37000 Per Month",
+        "age_limit": "Not Available",
+        "application_fee": "Nil",
+        "selection_process": "Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://forest.uk.gov.in",
+        "official_notification": "https://forest.uk.gov.in/uploads/recruitments/rec-7911_jrf.pdf"
+    },
+    {
+        "date": "01/10/2026",
+        "board": "IIT Roorkee Vacancy 2026 - 1 Senior Research Fellow (SRF) PostsIIT Roorkee Senior Research Fellow (SRF) Vacancy 2026",
+        "title": "Senior Research Fellow (SRF)",
+        "qualification": "Two years of research experience AND Post Graduate Degree in Basic Science OR Graduate / Post Graduate Degree in Professional Course selected through National Eligibility Tests.",
+        "last_date": "11-10-2026",
+        "total_posts": "1",
+        "salary": "SRF:Rs. 42000 + HRA",
+        "age_limit": "Please refer to the official notification for age limit details.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Shortlisting based on qualifications and experience || Interview (may be conducted online)",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/ECE/2026/adv01102026.pdf"
+    },
+    {
         "date": "30/09/2026",
         "board": "Amrita Vishwa Vidyapeetham Vacancy 2026 - 5 Embedded IoT Engineer, STEM Project Manager and More Posts PostsAmrita Vishwa Vidyapeetham Vacancy 2026",
         "title": "Postdoctoral Fellow-Snake venom Research, Embedded IoT Engineer, Soft Skills Trainer & Placement Officer, STEM Project Manager (PM)",
@@ -317,7 +365,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "csir-tkdl-recruitment-2026-apply-online-for-50-senior-project-associate-project-associate-posts-3070603"
     },
     {
         "date": "23/09/2026",

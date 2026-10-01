@@ -1,5 +1,21 @@
 [
     {
+        "date": "01/10/2026",
+        "board": "Himachal Pradesh Jal Shakti Vibhag Vacancy 2026 - 10 Multipurpose Worker, Para Pump Operator and More PostsHimachal Pradesh Jal Shakti Vibhag Vacancy 2026",
+        "title": "Para Pump Operator, Para Fitter and Multipurpose Worker",
+        "qualification": "8th Pass / Matric / ITI in relevant trade",
+        "last_date": "21-10-2026",
+        "total_posts": "10",
+        "salary": "₹6000 - ₹7100/PM",
+        "age_limit": "Minimum Age: 18 Years || Maximum Age: 45 Years || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on eligibility criteria || Skill test and physical test || Document evaluation",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://jsv.hp.nic.in",
+        "official_notification": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f+D9rWV0VhZ+dahwEOncXXlmc34oR/PcisPcfSvHhoDoX/CxwsAsmTL9C/VnROuu+CWEFqAcLBh9/QyjadPoTiFxrq6OS5FgIN7ezqDVeEdSrUnbzMH8="
+    },
+    {
         "date": "30/09/2026",
         "board": "IIT Mandi Vacancy 2026 - 2 Part Time Coach PostsIIT Mandi Part Time Coach Vacancy 2026",
         "title": "Part Time Coach",
@@ -14,22 +30,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iitmandi.ac.in",
         "official_notification": "https://iitmandi.ac.in/recruitment/Walkin_part_time_coaches.pdf"
-    },
-    {
-        "date": "10/09/2026",
-        "board": "SSC Vacancy 2026 - 1871 Sub-Inspector in Delhi Police and CAPFs PostsSSC Vacancy 2026",
-        "title": "Sub-Inspector in Delhi Police and CAPFs",
-        "qualification": "Bachelor's degree in Science with Physics, Chemistry and Mathematics from a recognised university or equivalent; OR Matriculation plus a 3-year diploma in Mechanical/Civil/Electrical/Automobile/Chemical/Mining/Aeronautical/Telecommunication Engineering or equivalent. A higher qualification (B.Tech/M.Tech) in relevant fields is treated as value addition, subject to the basic diploma being held.",
-        "last_date": "30-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Level-6 (₹35,400 – ₹1,12,400)",
-        "age_limit": "Age is reckoned as on the crucial date, 01.08.2026. || All posts except SI (Fire) in CISF:20–25 years (born not earlier than 02.08.2001 and not later than 01.08.2006). || SI (Fire) in CISF:18–30 years (born not earlier than 02.08.1996 and not later than 01.08.2008). || Departmental candidates among Constables, Head Constables and Assistant Sub-Inspectors of Delhi Police with a minimum of three years' service, not exceeding 30 years (33 for OBC, 35 for SC/ST) of age, may also apply for Open Vacancies of SI (Executive), Delhi Police-Male. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "Fee payable: ₹100 (Rupees One Hundred only). || Women candidates and candidates belonging to SC, ST and Ex-Servicemen (eligible for reservation) are exempted from fee payment. || Fee can be paid only through online modes: BHIM UPI, Net Banking, Visa, MasterCard, Maestro, or RuPay Debit card. || Fee payment closes 01.10.2026 (23:00 hrs); no other mode of payment is permitted. || Fee once paid is non-refundable and non-adjustable against any other examination. || Application Form Correction Window (08.10.2026 to 10.10.2026) charges: ₹200 for the first correction, ₹500 for the second correction - applicable to all candidates regardless of gender/category.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ssc.gov.in",
-        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_capf_2026.pdf"
     },
     {
         "date": "29/09/2026",
@@ -128,22 +128,6 @@
         "official_notification": "https://nith.ac.in/uploads/files/sept26/ng.pdf"
     },
     {
-        "date": "23/09/2026",
-        "board": "YSP University Nauni Vacancy 2026 - 3 Guest Faculty PostsYSP University Nauni Guest Faculty Vacancy 2026",
-        "title": "Guest Faculty",
-        "qualification": "3 Posts",
-        "last_date": "30-09-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://uhf.ac.in/",
-        "official_notification": "https://uhf.ac.in/storage/uploads/docs/1790059422.pdf"
-    },
-    {
         "date": "22/09/2026",
         "board": "HP Jal Shakti Vibhag Vacancy 2026 - 3 Para Cook and Para Helper PostsHP Jal Shakti Vibhag Vacancy 2026",
         "title": "Para Cook and Para Helper",
@@ -208,22 +192,6 @@
         "official_notification": "https://hppsc.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1wSGo29lXLTBfw1DHezN8KfEg%2BrikZhi%2FLLqiZME0%2BQRfdkGlH8WWht6jio4RtI57VmcB%2Ft0Fv2JsGkO6jHIfztzqluUezV4MI%3D"
     },
     {
-        "date": "15/09/2026",
-        "board": "CSIR IHBT Vacancy 2026 - 7 Project Assistant I, Project Associate PostsCSIR IHBT Vacancy 2026",
-        "title": "Post Name",
-        "qualification": "B.E./ B.Tech in Computer Science / Information Technology / Electronics (embedded programming); OR Master's in Remote Sensing / GIS / Geoinformatics / Geography / Forestry / Ecology / Computer Science / AI & Data Science, with 2 years' research experience",
-        "last_date": "30-09-2026",
-        "total_posts": "Not Available",
-        "salary": "The higher stipend slab applies to candidates who have qualified CSIR-UGC/ ICAR/ ICMR NET (including lectureship/ assistant professorship) or GATE, or who have qualified national-level examinations conducted by Central Government departments/ agencies such as DBT/ DST or equivalent.",
-        "age_limit": "The maximum age limit for all seven positions is 35 years as on 30 September 2026 . || Age relaxation for SC/ ST/ PwBD/ Women candidates:5 years || Age relaxation for OBC candidates:3 years || Or as per Government of India instructions issued from time to time",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ihbt.res.in/",
-        "official_notification": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20260915141709_Final_Advt._no._15_by__2026_with_Application_Form.pdf"
-    },
-    {
         "date": "09/09/2026",
         "board": "PGIMER Vacancy 2026 - 243 Nursing Officer PostsPGIMER Nursing Officer Vacancy 2026",
         "title": "Nursing Officer",
@@ -238,22 +206,6 @@
         "syllabus": "Not Available",
         "official_website": "https://pgimer.edu.in",
         "official_notification": "https://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/Vacancies/JSP/ViewAll.jsp?record=15617"
-    },
-    {
-        "date": "07/09/2026",
-        "board": "HPSCB Vacancy 2026 - 2 Cooperative Intern PostsHPSCB Cooperative Intern Vacancy 2026",
-        "title": "Cooperative Intern",
-        "qualification": "MBA or equivalent in Marketing Management / Cooperative Management / Agri Business Management.",
-        "last_date": "30-09-2026",
-        "total_posts": "2",
-        "salary": "Rs. 25000 Per Month",
-        "age_limit": "Minimum Age: 21 years || Maximum Age: 30 years || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Application Screening",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.hpscb.bank.in",
-        "official_notification": "https://hpscb.bank.in/upload/notification/doc/V4rVvuShovrM2F5CWU3sUHhQOX1IEwORYeIvOMVL.pdf"
     },
     {
         "date": "01/09/2026",
