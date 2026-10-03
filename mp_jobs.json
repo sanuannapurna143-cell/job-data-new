@@ -1,5 +1,21 @@
 [
     {
+        "date": "28/08/2026",
+        "board": "MPESB Vacancy 2026 - 1700 Sub Engineer, Draftsman and More PostsMPESB Vacancy 2026",
+        "title": "Sub Engineer (Upyantri), Draftsman/Cartographer, Laboratory Technician, Technical Assistant, Surveyor, Mineral Surveyor, and other equivalent posts",
+        "qualification": "Diploma/degree in the relevant engineering or technical discipline (varies by post code)",
+        "last_date": "27-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Pay scale varies by post, ranging from Level 4 to Level 8 of the Madhya Pradesh Pay Matrix, depending on the post code and department. Representative pay levels notified include: || The exact pay level applicable to each post code is specified individually in the notification. As per the Madhya Pradesh General Administration Department circular dated 12 December 2019, appointees will be paid a stipend during probation - 70% of the minimum of the pay scale in the first year, 80% in the second year, and 90% in the third year - with the full pay scale becoming payable on successful completion of probation.",
+        "age_limit": "Age is calculated as on 1 January 2026 for Madhya Pradesh domiciled candidates. || Economically Weaker Section (EWS) candidates are not eligible for age relaxation. || Additional age relaxation applicable to Ex-servicemen and Persons with Benchmark Disabilities is as per orders issued by the General Administration Department from time to time. || In no case will the maximum age limit exceed 45 years after including all applicable relaxations (except for contractual employees and categories mentioned in Rule 14 of the notification). || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
+        "application_fee": "In addition to the application fee, candidates applying online through an MP Online kiosk must pay a portal fee of ₹60; candidates applying by logging in as a registered citizen user must pay a portal fee of ₹20.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.esb.mp.gov.in",
+        "official_notification": "https://esb.mp.gov.in/Rulebooks/RB_2026/Group03_2026_Updated_27082026.pdf"
+    },
+    {
         "date": "01/10/2026",
         "board": "AIIMS Bhopal Vacancy 2026 - 45 Assistant Professor PostsAIIMS Bhopal Assistant Professor Vacancy 2026",
         "title": "Assistant Professor",
@@ -321,22 +337,6 @@
     },
     {
         "date": "26/09/2026",
-        "board": "AIIMS Bhopal Vacancy 2026 - 2 Technician, Project Research Scientist II PostsAIIMS Bhopal Vacancy 2026",
-        "title": "Project Research Scientist II (PRS II), Technician",
-        "qualification": "Post Graduate Degree or PhD for PRS II; Three-year Graduate in relevant subject/field /BMLT or PG for Technician",
-        "last_date": "02-10-2026",
-        "total_posts": "2",
-        "salary": "Rs 67,000/- per month for PRS II and Rs 32,000/- per month for Technician",
-        "age_limit": "All Posts:Maximum age 35 years. Age relaxation for SC/ST is applicable As per rule. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on number of applications received || Written test/skill test/interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://aiimsbhopal.edu.in",
-        "official_notification": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/Project_Advt_25092026.pdf"
-    },
-    {
-        "date": "26/09/2026",
         "board": "Ordnance Factory Itarsi Vacancy 2026 - 50 Graduate Apprentices PostsOrdnance Factory Itarsi Graduate Apprentices Vacancy 2026",
         "title": "Graduate Apprentices (General Stream)",
         "qualification": "Graduate in B.Sc, B.Com, BCA, BBA, BA",
@@ -370,18 +370,18 @@
     {
         "date": "24/09/2026",
         "board": "MPPGCL Vacancy 2026 - 27 Apprentice PostsMPPGCL Apprentice Vacancy 2026",
-        "title": "Apprentice",
+        "title": "Graduate Apprentice & Technician Apprentice",
         "qualification": "27 Posts",
         "last_date": "20-10-2026",
         "total_posts": "Not Available",
-        "salary": "Not Available",
+        "salary": "₹12,300/-",
         "age_limit": "Not Available",
         "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Not Available",
+        "selection_process": "The selection process will be conducted as per the rules and conditions mentioned in the official apprenticeship notification.",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "https://mppgcl.mp.gov.in",
+        "official_notification": "https://mppgcl.mp.gov.in/CAREER/APPRENTICE_ADVT_SGTPS_MPPGCL_BIRSINGHPUR_246_16092026.pdf"
     },
     {
         "date": "24/09/2026",

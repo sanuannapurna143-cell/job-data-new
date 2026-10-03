@@ -1,5 +1,37 @@
 [
     {
+        "date": "03/10/2026",
+        "board": "JRHMS Vacancy 2026 - 306 Specialist Medical Officer PostsJRHMS Specialist Medical Officer Vacancy 2026",
+        "title": "Specialist Medical Officer (SMO) / Non-Teaching Specialist Medical Officer",
+        "qualification": "MBBS with Post Graduate Degree/Diploma in the concerned specialty from an NMC-recognized institution, with valid Medical Council registration",
+        "last_date": "31-10-2026",
+        "total_posts": "306 (200 Non-Teaching SMO + 106 SMO under NHM)",
+        "salary": "There is no fixed pay scale. Remuneration is decided through the bidding process, and the details given in the advertisements are as follows: || Maximum Bid:Candidates quote the monthly remuneration separately for each selected facility, and the quoted amount shall not exceed Rs. 3,00,000/- per month. || Fixed Monthly Emoluments:The SMO is paid fixed monthly emoluments as prescribed under the terms of engagement. || Incentive:In addition, the SMO is entitled to an incentive against the health insurance claims generated and settled through services rendered by him/her, as per Government Sankalp No. 58(21) dated 11-04-2025, as amended from time to time. || Accommodation:Where Government accommodation is available, the selected SMO shall reside there. Otherwise, the officer shall ordinarily reside within a radius of 3 km from the District Hospital. || The engagement is purely contractual and does not confer any claim for regular appointment, absorption, seniority or other service benefits applicable to regular Government employees.",
+        "age_limit": "Minimum Age:23 years || Maximum Age:64 years || Age is calculated as on 31-10-2026. || Preference to Persons with Disabilities and reserved category candidates is given as per applicable Government provisions. The advertisements do not mention separate age relaxation.",
+        "application_fee": "Candidates must ensure that the application fee, wherever prescribed in the portal, is paid and the application is finally submitted within the stipulated time.",
+        "selection_process": "Selection is through a facility-wise bidding process based on the monthly remuneration quoted by candidates, subject to fulfilment of the eligibility criteria. There is no written test or interview mentioned in the advertisements.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://jrhms.jharkhand.gov.in/",
+        "official_notification": "https://jrhms.jharkhand.gov.in/uploads/reports/bfa901e9-3723-4307-96ca-78c10ca64855.pdf"
+    },
+    {
+        "date": "03/10/2026",
+        "board": "MECON Vacancy 2026 - 159 Jr. Engineer, Asst. Engineer and More PostsMECON Vacancy 2026",
+        "title": "Post Name",
+        "qualification": "Full-time Bachelor's in Environmental/Mechanical/Chemical Engineering, or Master's in Environmental Science",
+        "last_date": "17-10-2026",
+        "total_posts": "Not Available",
+        "salary": "The consolidated monthly pay for each post is given in the Vacancy table above (ranging from ₹41,190 to ₹78,390, depending on the post and experience slab). In addition, the following benefits apply: || Site/Metro Allowance:7.5% of pay as Site Allowance for postings at site/project locations, or 2.5% of pay as Metro Allowance for postings at Metro locations. || Annual Increment:3% of consolidated pay (rounded to the next ten rupees), as per company rules. || Medical Facilities:OPD/IPD coverage (including medicine) at Ispat Hospital for self, spouse, and 2 dependent children if posted at Ranchi; free consultation via the company's retainer doctor at other locations; reimbursement of annual Mediclaim premium up to ₹15,000 (₹4,00,000 floater cover) as per company policy. || Accommodation:Company/client residential accommodation where available, on prevailing charges; if not availed, House Rent Allowance (HRA) at 5% of consolidated pay. || Leave:12 days Casual Leave, 18 days Earned Leave (accumulable up to 45 days), 14 days Half Pay Leave, and Maternity Leave as applicable to regular employees, plus National/Festival/Restricted Holidays (4 nos.) as applicable to regular employees. || Group Personal Accident Policy:Sum insured of ₹25 lakhs.",
+        "age_limit": "The upper age limit for General and EWS category candidates is as specified against each post in the Vacancy table above (predominantly 50 years), with the cut-off date for age and experience being 25 September 2026 .",
+        "application_fee": "Fee is payable online only, through the payment gateway provided in the online application form; no other mode of payment is accepted. Fee once paid is non-refundable under any circumstances, and applications without the fee (or with a short-paid fee) will be rejected. After payment, candidates must click \"Verify\" to update their application status to \"Submitted.\"",
+        "selection_process": "The mode of selection is Personal Interview (subject to change at Management's discretion). Candidates should ensure they meet all eligibility criteria before applying, since candidature is subject to verification of documents when reporting for interview, if shortlisted, or at any later stage of the recruitment/appointment process. || The list of candidates called for interview, along with date, time, and venue, will be uploaded on MECON's official website and communicated to shortlisted candidates via their registered email. || The final list of selected candidates will also be published on MECON's website, and selected candidates will be informed about Document Verification and Medical Examination through the website and registered email only. || Scrutiny of the application is undertaken on the date of the interview; if any claim made in the application is not substantiated, the candidate will not be allowed to appear for interview, and no Travelling Allowance (TA) will be paid. || Before appointment, selected candidates must undergo a Medical Examination and be found medically fit; joining is subject to this outcome.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.meconlimited.co.in/",
+        "official_notification": "https://careers.meconlimited.co.in/api/download?file=20261001_192747_Final%20Advertisment_%20FTFT%20_%20159%20_Final%20Posts.pdf"
+    },
+    {
         "date": "08/09/2026",
         "board": "SSC Vacancy 2026 - 2536 CHSL PostsSSC CHSL Vacancy 2026",
         "title": "Post Name",
@@ -125,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/09/2026",

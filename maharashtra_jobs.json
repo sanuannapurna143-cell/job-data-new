@@ -1,5 +1,21 @@
 [
     {
+        "date": "28/09/2026",
+        "board": "CSIR NCL Vacancy 2026 - 24 Multi Tasking Staff PostsCSIR NCL Multi Tasking Staff Vacancy 2026",
+        "title": "Multi-Tasking Staff (MTS)",
+        "qualification": "SSC/Xth/Matriculation or equivalent (12th pass desirable)",
+        "last_date": "04-11-2026",
+        "total_posts": "24",
+        "salary": "The salary details given in the advertisement are as follows: || Pay Level:Level 1 as per the 7th CPC Pay Matrix (Rs. 18,000 - 56,900). || Total Emoluments:Approximately Rs. 40,000/- per month, calculated on the minimum of the scale including HRA in a Class 'X' city. || Allowances:Dearness Allowance (DA), House Rent Allowance (HRA), Transport Allowance (TA) and other allowances admissible to central government employees and made applicable to CSIR. Council employees are also eligible for accommodation as per CSIR allotment rules, depending on availability, in which case HRA is not admissible. || Other Benefits:New Pension Scheme (NPS), reimbursement of medical expenses, Leave Travel Concession (LTC) and career advancement opportunities as per extant CSIR rules. || Probation:2 years from the date of joining, which may be extended or curtailed at the discretion of the Competent Authority.",
+        "age_limit": "The upper age limit is 25 years as on the last date of submission of online applications (04-11-2026). The minimum age is not specified in the advertisement. Age relaxation beyond the upper age limit is as follows: || SC/ST:5 years || OBC (Non-Creamy Layer):3 years || PwBD (UR):10 years || PwBD (OBC):13 years || PwBD (SC/ST):15 years (maximum age of a PwBD applicant on the closing date must not exceed 56 years) || Ex-Servicemen (UR):3 years after deduction of the actual military service rendered from the actual age as on the closing date. || Ex-Servicemen (OBC/SC/ST):6 years for OBC and 8 years for SC/ST after deduction of the actual military service rendered. || Widows/Divorced Women/Women judicially separated and not remarried:Up to 35 years (UR/OBC) and up to 40 years (SC/ST). || Any other age relaxation is as per extant GoI/DoPT/CSIR recruitment rules. || SC/ST/OBC (NCL) age relaxation is available only for posts reserved for the respective category. Candidates applying against posts not reserved for them are treated on par with unreserved candidates, though fee exemption still applies to eligible candidates.",
+        "application_fee": "UR/OBC/EWS Candidates:Rs. 500/- (plus processing fee/transaction charges, wherever applicable) || Women/SC/ST/PwBD/Ex-Servicemen Candidates:Nil || Payment Mode:Online through RuPay Debit Card, Credit/Prepaid Cards, Net Banking, UPI, Wallets, NEFT and SBI Branch Payment only. || The fee is non-refundable under any circumstances and cannot be adjusted against any other examination or selection. || Payment attempts are limited to a maximum of six. If a payment transaction remains unresolved, the candidate must wait 20 minutes from the payment initiation time before a new attempt. || No fee exemption applies to departmental candidates or candidates employed under Central/State Government, Autonomous Bodies or PSUs.",
+        "selection_process": "A Competitive Written Examination will be conducted for all provisionally eligible candidates. The final merit list will be prepared only on the basis of performance in the written examination, followed by document verification. || Mode:OMR based or Computer Based objective type multiple choice examination. || Duration:2 hours.Standard:Class 10th. || Medium:Questions are set in both English and Hindi, except the questions on English Language. || Normalization:If the examination is held in multiple shifts, marks will be normalized as per the CSIR formula (Annexure-XIII). || Tie-break:Equal aggregate marks are resolved in this order: lesser negative marks, older candidate, candidate who acquired the essential degree earlier, and alphabetical order of first names. || Document Verification:Before the offer of appointment, candidates must produce the originals of the documents uploaded with the application, failing which the candidature is likely to be rejected. || No Travelling Allowance will be paid for the written examination or any other stage.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ncl.res.in/",
+        "official_notification": "https://recruit.ncl.res.in/View_Advertisement_PDF?AdvtId=19"
+    },
+    {
         "date": "01/10/2026",
         "board": "PDKV Vacancy 2026 - 12 Assistant Professor PostsPDKV Assistant Professor Vacancy 2026",
         "title": "Assistant Professor",
@@ -542,22 +558,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.tiss.ac.in",
         "official_notification": "https://tiss.ac.in/uploads/files/Final_advt_22_September_2026_-_Teaching-3.pdf"
-    },
-    {
-        "date": "28/09/2026",
-        "board": "CSIR NCL Vacancy 2026 - 24 Multi Tasking Staff PostsCSIR NCL Multi Tasking Staff Vacancy 2026",
-        "title": "Multi-Tasking Staff (MTS)",
-        "qualification": "24 Posts",
-        "last_date": "04-11-2026",
-        "total_posts": "24",
-        "salary": "Rs. 18000 - 56900 Per Month",
-        "age_limit": "All Posts: Maximum age is 25 years. || Age relaxation applicable as per CSIR/GoI guidelines. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Nil",
-        "selection_process": "Please refer to the official notification for Selection Process details.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ncl.res.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/09/5645984-6ab9ff767171d42852271.pdf"
     },
     {
         "date": "28/09/2026",
@@ -1517,7 +1517,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
+        "official_notification": "jrhms-specialist-medical-officer-recruitment-2026-apply-online-for-306-posts-3070778"
     },
     {
         "date": "11/09/2026",

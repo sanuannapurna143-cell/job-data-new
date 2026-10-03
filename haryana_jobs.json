@@ -1,5 +1,53 @@
 [
     {
+        "date": "03/10/2026",
+        "board": "ESIC Manesar Vacancy 2026 - 31 Specialists, Senior Resident & Part Time Contractual Super-Specialist PostsESIC Manesar Vacancy 2026",
+        "title": "Full Time/Part Time Contractual Specialists, Senior Resident (Three Year) & Part Time Contractual Super-Specialist",
+        "qualification": "PG Degree/Diploma or MBBS with experience",
+        "last_date": "12-10-2026",
+        "total_posts": "31",
+        "salary": "Junior Specialist: Rs. 1,48,263/-, Senior Specialist: Rs. 1,72,572/-",
+        "age_limit": "Full Time/Part Time Contractual Specialists:Maximum age 69 years. Age relaxation for SC/ST/OBC/PH/PWD/EWS as per central govt. rules. || Senior Residents (3 Year):Maximum age 45 years. Age relaxation for SC/ST/OBC/PH/PWD/EWS as per central govt. rules. || Part Time Contractual Super-Specialists:Maximum age 69 years. Age relaxation for SC/ST/OBC/PH/PWD/EWS as per central govt. rules.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Walk-in Interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.esic.gov.in",
+        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_recruitment_of_full_time_part_time_contractual_specialists_senior_resident_three_year_amp_part_time_contractual_super_specialist_through_Walk_in_Interview_1790875252.pdf"
+    },
+    {
+        "date": "03/10/2026",
+        "board": "DHFWS Ambala Vacancy 2026 - 1 Medical Officer PostsDHFWS Ambala Medical Officer Vacancy 2026",
+        "title": "Medical Officer",
+        "qualification": "MBBS with valid registration from the respective State Medical Council/NMC, 6 Months work experience, Post Graduates from Clinical Discipline, Good Working Knowledge of Computer",
+        "last_date": "08-10-2026",
+        "total_posts": "1",
+        "salary": "Medical Officer:Rs. 72000 Per Month",
+        "age_limit": "All Posts:Maximum age limit is 70 years.",
+        "application_fee": "Nil",
+        "selection_process": "Document Verification",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://nhmharyana.gov.in",
+        "official_notification": "https://nhmharyana.gov.in/Writereaddata/userfiles/file/pdfs/AmbalaNotice_01102026.pdf"
+    },
+    {
+        "date": "03/10/2026",
+        "board": "BECIL Vacancy 2026 - 23 DEO, MTS and More PostsBECIL Vacancy 2026",
+        "title": "Radiotherapy Technician, DEO, MTS and More Posts",
+        "qualification": "10th, 12th, Diploma, Bachelor's Degree in relevant fields",
+        "last_date": "16-10-2026",
+        "total_posts": "23",
+        "salary": "Rs. 21,502/- to Rs. 40,710/- per month",
+        "age_limit": "Patient Care Manager (PCM):Maximum Age: 40 years || Patient Care Coordinator (PCC):Maximum Age: 35 years || Medical Lab Technician (MLT):Minimum Age: 21 years, Maximum Age: 35 years || Data Entry Operator (DEO):Minimum Age: 18 years, Maximum Age: 40 years || Multi-tasking Staff (MTS):Minimum Age: 18 years, Maximum Age: 35 years",
+        "application_fee": "Rs. 295/-",
+        "selection_process": "Scrutiny and shortlisting based on eligibility criteria || Interview, assessment, skill test, or any other evaluation method as decided by the Client",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "www.becil.com",
+        "official_notification": "https://www.becil.com/uploads/topics/17908607471524.pdf"
+    },
+    {
         "date": "01/10/2026",
         "board": "RITES Vacancy 2026 - 1 Port Planning, Transport Planner and More PostsRITES Vacancy 2026",
         "title": "Port Planning, Transport Planner and More",
@@ -257,22 +305,6 @@
     },
     {
         "date": "22/09/2026",
-        "board": "NIFTEM Vacancy 2026 - 1 Senior Research Fellow PostsNIFTEM Senior Research Fellow Vacancy 2026",
-        "title": "Senior Research Fellow (SRF)",
-        "qualification": "Master's degree in Food Technology, Food Science and Nutrition, Food and Nutrition, Biochemistry, Toxicology and other allied sciences. PhD in the mentioned discipline and publications in peer-reviewed journals.",
-        "last_date": "02-10-2026",
-        "total_posts": "1",
-        "salary": "Senior Research Fellow (SRF): Rs. 42,000 + 10% HRA or co-terminus with the project, whichever is earlier",
-        "age_limit": "Senior Research Fellow (SRF):Maximum 35 years. || Age Relaxation:5 years for women/SC/ST/OBC/differently abled as per the Govt. of India Rules.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://niftem.ac.in",
-        "official_notification": "https://niftem.ac.in/storage/careers/openings/XLtDxGPjUeAtQ3wW7RibBzU4eD2Ij6FN1FVz1ySe.pdf"
-    },
-    {
-        "date": "22/09/2026",
         "board": "NIFTEM Vacancy 2026 - 1 Young Professional PostsNIFTEM Young Professional Vacancy 2026",
         "title": "Young Professional - Admin",
         "qualification": "Any Graduate preferably with an MBA (Regular) or Post-Graduation in any discipline.",
@@ -429,7 +461,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
+        "official_notification": "jrhms-specialist-medical-officer-recruitment-2026-apply-online-for-306-posts-3070778"
     },
     {
         "date": "11/09/2026",

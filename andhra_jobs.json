@@ -1,5 +1,21 @@
 [
     {
+        "date": "03/10/2026",
+        "board": "AP High Court Vacancy 2026 - 119 Civil Judge PostsAP High Court Civil Judge Vacancy 2026",
+        "title": "Civil Judge (Junior Division)",
+        "qualification": "A person who is not a citizen of India, or who is dismissed, removed or compulsorily retired from Judicial Service or any service of the Government, Statutory or Local Authority. || A person convicted of an offence involving moral turpitude, or arrested in connection with any such crime. || A person permanently debarred or disqualified by the High Court, UPSC or any State Public Service Commission from examinations or selections. || A person who directly or indirectly influences the recruitment authority for his/her candidature. || A person having more than one wife living, or a woman who marries knowingly a person having a wife. || A candidate who has committed copying or misconduct in a Screening Test/Written Examination, or could not successfully complete the probation period of any post in Judicial Service or other service. || An officer found to be of doubtful integrity in any year.",
+        "last_date": "26-10-2026",
+        "total_posts": "119 (96 Direct Recruitment + 23 Recruitment by Transfer)",
+        "salary": "The pay and stipend details given in the notification are as follows: || Pay Scale:Rs. 77,840 - 1,36,520 for Civil Judge (Junior Division). || Training Period (1 year at the Judicial Academy):Selected candidates are designated as \"Trainee Judicial Officers\" and are paid a fixed emolument equivalent to one-half of the remuneration payable to a Civil Judge (Junior Division), along with the facilities and benefits ordinarily available to trainees in the Academy. || Law Clerkship (1 year):After the training, Trainee Judicial Officers undergo one year of structured Law Clerkship, with the same emoluments as during their training and no further allowance. The first six months are under the supervision of the Principal District/District and Sessions Judges or Members of the Higher Judicial Services, and the remaining six months under an Hon'ble Judge of the High Court of Andhra Pradesh. || Regular Appointment:On completion of the Law Clerkship, the Hon'ble Judge places a reasoned evaluation report. If found satisfactory, the Trainee Judicial Officer is appointed to the regular post and is entitled to the regular pay scale and other service benefits.",
+        "age_limit": "Age is calculated as on 01-09-2026, the first day of the month in which the notification was published.",
+        "application_fee": "Open Category/EWS/BC Candidates:Rs. 1,500/- towards online application processing fee and examination fee. || SC/ST/Persons with Benchmark Disabilities:Rs. 750/-. Only applicants belonging to a community recognized as SC/ST in the State of Andhra Pradesh are entitled to this concession. || Payment Mode:Online only. || The application/examination fee once paid will not be refunded, even if the application is rejected for any reason or the notification is cancelled.",
+        "selection_process": "The selection process for Direct Recruitment consists of the following stages: Screening Test, Written Examination and Viva Voce.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aphc.gov.in/",
+        "official_notification": "https://g03.tcsion.com//per/g03/pub/726/EForms/image/ImageDocUpload/71161/7/3301224270.pdf"
+    },
+    {
         "date": "01/10/2026",
         "board": "HBCH&RC Visakhapatnam Vacancy 2026 - 1 Technician (CSSD) PostsHBCH&RC Visakhapatnam Technician (CSSD) Vacancy 2026",
         "title": "Technician (CSSD)",
@@ -269,7 +285,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
+        "official_notification": "jrhms-specialist-medical-officer-recruitment-2026-apply-online-for-306-posts-3070778"
     },
     {
         "date": "23/09/2026",
@@ -334,22 +350,6 @@
         "syllabus": "Not Available",
         "official_website": "https://anantapur.dcourts.gov.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec030655f117444fc1911ab9c6f6b013/uploads/2026/09/2026091981.pdf"
-    },
-    {
-        "date": "21/09/2026",
-        "board": "IIIT Sri City Vacancy 2026 - IT Support Engineer PostsIIIT Sri City IT Support Engineer Vacancy 2026",
-        "title": "IT Support Personnel",
-        "qualification": "Diploma / Bachelor's Degree in Engineering/Technology in Computer Science & Engineering",
-        "last_date": "02-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://iiits.ac.in/",
-        "official_notification": "https://iiits.ac.in/iiits-content/uploads/2026/09/IT-SUPPORT-ADVERTISEMENT.pdf"
     },
     {
         "date": "17/09/2026",
@@ -429,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "iffco-agt-recruitment-2026-apply-online-for-agriculture-graduate-trainee-posts-3070745"
+        "official_notification": "jkssb-class-iv-recruitment-2026-apply-online-for-2863-mts-sanitation-worker-posts-3065802"
     },
     {
         "date": "15/09/2026",
@@ -462,22 +462,6 @@
         "syllabus": "Not Available",
         "official_website": "https://portal-psc.ap.gov.in/",
         "official_notification": "https://psc.ap.gov.in/Documents/NotificationDocuments/Executive_Officer_Grade_III_232026.pdf"
-    },
-    {
-        "date": "11/09/2026",
-        "board": "Sainik School Korukonda Vacancy 2026 - 1 Trained Graduate Teacher PostsSainik School Korukonda Trained Graduate Teacher Vacancy 2026",
-        "title": "Trained Graduate Teacher (TGT) Mathematics",
-        "qualification": "B.Ed. component, Bachelors/Honours Degree, M.Ed.",
-        "last_date": "02-10-2026",
-        "total_posts": "1",
-        "salary": "Rs. 44900 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Rs. 500/-",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.sainikschoolkorukonda.org",
-        "official_notification": "https://img2.freejobalert.com/news/2026/09/145792-6aa3e7815f02367501092.pdf"
     },
     {
         "date": "09/09/2026",
