@@ -1,7 +1,23 @@
 [
     {
         "date": "05/10/2026",
-        "board": "CDAC Vacancy 2026 - Project Associate, Project Engineer and More PostsCDAC Vacancy 2026",
+        "board": "ICMR NIHR Vacancy 2026 - 2 Consultant, Senior Consultant PostsICMR NIHR Vacancy 2026",
+        "title": "Senior Consultant (Scientific - Non-Medical) and Consultant (Finance)",
+        "qualification": "M.Sc/ B.Tech/ BE/ MCA/ MPH/ B.Pharm/ BAMS/ BSMS/ MD",
+        "last_date": "22-10-2026",
+        "total_posts": "2",
+        "salary": "Rs. 1,00,000 to 1,50,000/ - for Senior Consultant and Rs. 80,000 to 1,20,000/ - for Consultant (Finance)",
+        "age_limit": "Senior Consultant (Scientific - Non-Medical):Minimum Age: 40 years, Maximum Age: 70 years || Consultant (Finance):Minimum Age: 40 years, Maximum Age: 60 years",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting of candidates || Written test/ interview/ personal discussion",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.icmr.gov.in",
+        "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791182844_engagementofseniorconsultantscientific-non-medicalandconsultantfinance_0001.pdf"
+    },
+    {
+        "date": "05/10/2026",
+        "board": "CDAC Vacancy 2026 - 844 Project Associate, Project Engineer and More PostsCDAC Vacancy 2026",
         "title": "Project Associate, Project Engineer and More",
         "qualification": "For all posts, candidates should have qualified from an AICTE/UGC-approved college/institute or recognized university. || Where a university follows CGPA/DGPA/OGPA or letter grades, the candidate must submit proof of the percentage equivalent and awarded class, along with the degree certificate. || Candidates in their final semester, who will complete the course before appointment, may also apply; if selected, joining is contingent on passing with the required minimum score.",
         "last_date": "26-10-2026",
@@ -96,22 +112,6 @@
         "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_chsl_2026.pdf"
     },
     {
-        "date": "30/09/2026",
-        "board": "IIT Guwahati Vacancy 2026 - 1 SRD PostsIIT Guwahati SRD Vacancy 2026",
-        "title": "SRD(Direct)",
-        "qualification": "M.Tech in Signal/ Imaging Processing or B.Tech in Electronics/ Electrical/ Computer Science",
-        "last_date": "05-10-2026",
-        "total_posts": "1",
-        "salary": "SRD(Direct):Rs. 51650.00 per month (Pay: 42000, HRA: 8400, Medical: 1250)",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Online Interview",
-        "apply_mode": "Walkin",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitg.ac.in/",
-        "official_notification": "https://www.iitg.ac.in/pdf/9a79480102e08aa25a2e692584160ed6.pdf"
-    },
-    {
         "date": "29/09/2026",
         "board": "DLSA Cachar Vacancy 2026 - Para Legal Volunteer PostsDLSA Cachar Para Legal Volunteer Vacancy 2026",
         "title": "Para Legal Volunteer",
@@ -141,7 +141,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://iocl.com/admin/img/Apprenticeships/Files/2794684a49d74953b8c77e6d21379c23.pdf",
-        "official_notification": "dbrau-agra-guest-faculty-recruitment-2026-apply-online-for-88-posts-3070880"
+        "official_notification": "Not Available"
     },
     {
         "date": "28/09/2026",
@@ -349,7 +349,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "iocl-apprentice-recruitment-2026-apply-online-for-335-posts-3070858"
+        "official_notification": "Not Available"
     },
     {
         "date": "23/09/2026",

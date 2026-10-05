@@ -1,6 +1,22 @@
 [
     {
         "date": "05/10/2026",
+        "board": "NIT Goa Vacancy 2026 - 1 Junior Research Fellow (JRF) PostsNIT Goa Junior Research Fellow (JRF) Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "B.Tech/B.E./M.Tech./M.E./equivalent in the relevant discipline with NET/GATE and at least 6.5 CGPA or 60 percent marks in aggregate",
+        "last_date": "15-10-2026",
+        "total_posts": "1",
+        "salary": "Junior Research Fellow (JRF):Rs. 37000 + 20% HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on merit and project requirements || Written test and/or interview",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.nitgoa.ac.in",
+        "official_notification": "https://nitgoa.ac.in/uploads/Advt_JRF_CSE%205oct2026.pdf"
+    },
+    {
+        "date": "05/10/2026",
         "board": "IOCL Vacancy 2026 - 335 Apprentice PostsIOCL Apprentice Vacancy 2026",
         "title": "Apprentice",
         "qualification": "Class 12th (below graduate) plus a 'Domestic Data Entry Operator' Skill Certificate (training under 1 year) from a body recognized under the National Skill Qualifications Framework or the Central Government",
@@ -126,21 +142,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.goa.gov.in/",
         "official_notification": "https://www.goa.gov.in/wp-content/uploads/2026/09/advt-18.09.26-1-1.pdf"
-    },
-    {
-        "date": "24/09/2026",
-        "board": "Goa College of Agriculture Vacancy 2026 - 3 Assistant Professor PostsGoa College of Agriculture Assistant Professor Vacancy 2026",
-        "title": "Assistant Professor",
-        "qualification": "3 Posts",
-        "last_date": "05-10-2026",
-        "total_posts": "3",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://goacollegeofagriculture.edu.in/",
-        "official_notification": "https://www.goa.gov.in/wp-content/uploads/2026/09/Advertisement_AGRO-FARM.pdf"
     }
 ]
