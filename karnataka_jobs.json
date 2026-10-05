@@ -1,5 +1,53 @@
 [
     {
+        "date": "05/10/2026",
+        "board": "CDAC Vacancy 2026 - Project Associate, Project Engineer and More PostsCDAC Vacancy 2026",
+        "title": "Project Associate, Project Engineer and More",
+        "qualification": "For all posts, candidates should have qualified from an AICTE/UGC-approved college/institute or recognized university. || Where a university follows CGPA/DGPA/OGPA or letter grades, the candidate must submit proof of the percentage equivalent and awarded class, along with the degree certificate. || Candidates in their final semester, who will complete the course before appointment, may also apply; if selected, joining is contingent on passing with the required minimum score.",
+        "last_date": "26-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "The upper age limit is specified against each individual post (see the Pay & Age Grades table above for typical ranges). || SC/ST/OBC, physically challenged (PwBD), and Ex-Servicemen candidates are eligible for age relaxation as per Government of India norms. || Government employees on a pay scale get a 5-year age relaxation, in addition to other applicable relaxations. || The cut-off date for age and experience is the last date of application submission for the respective centre. || SSLC/SSC/ISC mark sheet/certificate, or any other valid document, is accepted as proof of date of birth. || The EWS certificate must strictly follow the DoPT-prescribed format (available at www.persmin.nic.in); the OBC (Non-Creamy Layer) certificate must also be in the prescribed format.",
+        "application_fee": "Not Available",
+        "selection_process": "Initial screening based on academic records and other parameters declared in the online application; only screened-in candidates proceed further. || C-DAC may raise the minimum eligibility criteria/cut-offs at its discretion if the number of applicants is high for any post. || Candidates are evaluated on academic credentials, experience profile, written test marks (if applicable), and interview performance. || The selection process is carried out independently by each C-DAC centre, based on its own requirements; only shortlisted candidates are contacted. || All submitted information is verified against original documents at document verification or any later stage; false or non-conforming information leads to rejection/cancellation at any stage.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "29/09/2026",
+        "board": "MAHE Vacancy 2026 - 4 Project Research Scientist I, Project Technical Support III PostsMAHE Vacancy 2026",
+        "title": "Project Research Scientist I (Non-Medical) and Project Technical Support III",
+        "qualification": "First Class Post Graduate Degree / Post Graduate Degree in Pharmacy",
+        "last_date": "31-10-2026",
+        "total_posts": "4",
+        "salary": "Rs. 28,000 to Rs. 56,000 per month + 10% HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Shortlisting based on CV || Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.manipal.edu",
+        "official_notification": "https://www.manipal.edu/content/dam/manipal/mu/documents/mahe/Careers/j2026/research/Research%20MCOPS%20Mpl%20-%20Sep%2029%202026.pdf"
+    },
+    {
+        "date": "05/10/2026",
+        "board": "Spices Board Vacancy 2026 - 21 Trainee PostsSpices Board Trainee Vacancy 2026",
+        "title": "Trainee (Development)",
+        "qualification": "Bachelor's Degree in Agriculture / Horticulture / Forestry / Botany / Microbiology / Biotechnology",
+        "last_date": "19-10-2026",
+        "total_posts": "21",
+        "salary": "Stipend: Rs. 20,000 per month. || In case of travel to spice fields, TA will be paid. || Period of training: Two years from the date of joining. || Leave eligibility: 01 day per month. || The selection as Trainee (Development) is only a training and is not linked to regular appointment under any circumstances; it cannot be regularised at any stage.",
+        "age_limit": "Maximum Age: Not exceeding 35 years as on the date of the Written Test. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "Not Available",
+        "selection_process": "Selection is through a written test (walk-in test / computer proficiency) conducted at the designated centres. || Candidates must report at the venue before the scheduled time for certificate verification and must bring all original documents and certificates, along with one set of self-attested copies each, covering identity, age and educational qualifications. || Candidates who report after the specified time, or who fail to submit the application online, will not be permitted to take the test. || No TA/DA will be given to candidates who attend the written test.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.indianspices.com",
+        "official_notification": "https://www.indianspices.com/opportunities/details.html?id=906"
+    },
+    {
         "date": "12/09/2026",
         "board": "KEA Vacancy 2026 - 210 Electrician, Water Supply Operator and More PostsKEA Vacancy 2026",
         "title": "Post Name",
@@ -46,22 +94,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iimb.ac.in",
         "official_notification": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-Web-developer-2026.pdf"
-    },
-    {
-        "date": "01/10/2026",
-        "board": "MAHE Vacancy 2026 - 3 Project Research Scientist I, Project Technical Staff II PostsMAHE Vacancy 2026",
-        "title": "Project Research Scientist I / Project Technical Staff II",
-        "qualification": "PhD in Health Sciences OR 12th in Science + Diploma (MLT/DMLT) + Five Years Experience OR Bachelors in MLT",
-        "last_date": "04-10-2026",
-        "total_posts": "3",
-        "salary": "Rs. 20,000 to Rs. 56,000 + 10% HRA",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on qualification and experience || Interview for shortlisted candidates",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.manipal.edu",
-        "official_notification": "https://www.manipal.edu/content/dam/manipal/mu/documents/mahe/Careers/j2026/research/Research%20KMC%20Mpl%20-%20Oct%2001%202026.pdf"
     },
     {
         "date": "01/10/2026",
@@ -208,22 +240,6 @@
         "official_notification": "https://csb.gov.in/sites/default/files/2026-09/Walk%20in%20Interview%20PA%20CSTRI.pdf"
     },
     {
-        "date": "29/09/2026",
-        "board": "MAHE Vacancy 2026 - 4 Project Research Scientist I, Project Technical Support III PostsMAHE Vacancy 2026",
-        "title": "Project Research Scientist I (Non-Medical) and Project Technical Support III",
-        "qualification": "First Class Post Graduate Degree / Post Graduate Degree in Pharmacy",
-        "last_date": "31-10-2026",
-        "total_posts": "4",
-        "salary": "Rs. 28,000 to Rs. 56,000 per month + 10% HRA",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on CV || Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.manipal.edu",
-        "official_notification": "https://www.manipal.edu/content/dam/manipal/mu/documents/mahe/Careers/j2026/research/Research%20MCOPS%20Mpl%20-%20Sep%2029%202026.pdf"
-    },
-    {
         "date": "30/09/2026",
         "board": "IIM Bangalore Vacancy 2026 - Academic Associate PostsIIM Bangalore Academic Associate Vacancy 2026",
         "title": "Academic Associate - Marketing Area",
@@ -350,22 +366,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iimb.ac.in/",
         "official_notification": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-FT-Techno-Functional-Specialist-2026.pdf"
-    },
-    {
-        "date": "28/09/2026",
-        "board": "MAHE Vacancy 2026 - 1 Project Research Scientist I PostsMAHE Project Research Scientist I Vacancy 2026",
-        "title": "Project Research Scientist I (Non-Medical)",
-        "qualification": "M.Pharm/ MSc with specialization in Pharmaceutics/ Industrial Pharmacy/ Pharmacology/ Pharmaceutical Chemistry",
-        "last_date": "04-10-2026",
-        "total_posts": "1",
-        "salary": "Rs.56,000/ - P.M. + HRA (10%) = Rs 61,600",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.manipal.edu/",
-        "official_notification": "https://www.manipal.edu/content/dam/manipal/mu/documents/mahe/Careers/j2026/research/Research%20MCOPS%20Mpl%20-%20Sep%2025%202026.pdf"
     },
     {
         "date": "28/09/2026",
@@ -910,22 +910,6 @@
         "syllabus": "Not Available",
         "official_website": "https://csb.gov.in",
         "official_notification": "https://csb.gov.in/sites/default/files/what_s_new/files/Advertisement%20for%20Finance%2008.09.2026.pdf"
-    },
-    {
-        "date": "05/09/2026",
-        "board": "KEA Vacancy 2026 - 247 Principal PostsKEA Principal Vacancy 2026",
-        "title": "Principal, Government Pre-University Colleges",
-        "qualification": "The applicant must be a serving Lecturer in the Lecturer cadre of Government Pre-University Colleges under the School Education Department. || The applicant must have completed a minimum of 10 years of service in the Lecturer cadre. || The applicant must have satisfactorily completed the probation period in the Lecturer post. || The notification specifies that if an applicant participates in the recruitment process without holding the required educational/service qualification, their candidature may be rejected at any stage by the Government, the Department, or the Authority. || The prescribed qualification must be held as on the last date fixed for submission of applications.",
-        "last_date": "04-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Selected candidates will be placed in the revised 2024 Karnataka state pay scale of Rs. 90,200 – Rs. 1,59,200 (90200-2300-99400-2700-115600-3100-134200-3500-155200-4000-159200). Pension benefits for officers appointed as Principal will continue to be governed by the pension rules applicable to their original appointment as Lecturer.",
-        "age_limit": "Not Available",
-        "application_fee": "The fee must be paid online only, and once paid, it will not be refunded under any circumstances.",
-        "selection_process": "Selection is through a competitive examination conducted by KEA, either in Online (CBT) mode or Offline (OMR) mode. The exam consists of three papers. || A minimum of 50 marks in Paper 1 (Kannada) is required to qualify, but Paper 1 marks are not counted while preparing the merit list – qualifying nature only. || Only marks scored in Papers 2 and 3 are used to prepare the final merit list. || Negative marking of 0.25 marks applies for each wrong answer in Papers 2 and 3 (bilingual Kannada/English question papers). || Shortlisting for document verification is done at 1:2 ratio against vacancies, category-wise, based on Paper 2 & 3 scores.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://cetonline.karnataka.gov.in/kea/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/09/412587-6a9b99c57d54b14157211.pdf"
     },
     {
         "date": "03/09/2026",

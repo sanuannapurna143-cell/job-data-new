@@ -1,5 +1,21 @@
 [
     {
+        "date": "05/10/2026",
+        "board": "IOCL Vacancy 2026 - 335 Apprentice PostsIOCL Apprentice Vacancy 2026",
+        "title": "Apprentice",
+        "qualification": "Class 12th (below graduate) plus a 'Domestic Data Entry Operator' Skill Certificate (training under 1 year) from a body recognized under the National Skill Qualifications Framework or the Central Government",
+        "last_date": "04-11-2026",
+        "total_posts": "Not Available",
+        "salary": "The rate of stipend payable to apprentices per month shall be as prescribed under the Apprentices Act, 1961/1973, and the Apprentices Rules 1992/2019/2025, as amended from time to time. Not specified in the official notification: the exact per-month stipend figure for each apprentice category.",
+        "age_limit": "Age Limit (as on 30.09.2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
         "date": "01/10/2026",
         "board": "NCPOR Vacancy 2026 - 5 Officer PostsNCPOR Officer Vacancy 2026",
         "title": "Officer (Admn./F&A/P&S)",
@@ -65,22 +81,6 @@
     },
     {
         "date": "28/09/2026",
-        "board": "CSIR NIO Vacancy 2026 - 2 Principal Project Associate PostsCSIR NIO Principal Project Associate Vacancy 2026",
-        "title": "Principal Project Associate",
-        "qualification": "MSc in Marine Biology / Marine Sciences/Oceanography.",
-        "last_date": "04-10-2026",
-        "total_posts": "2",
-        "salary": "49000 per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nio.res.in/",
-        "official_notification": "https://www.nio.res.in/vacancies/temporary/1894450"
-    },
-    {
-        "date": "28/09/2026",
         "board": "GRB Vacancy 2026 - 13 MTS, LDC, Draughtsman and More PostsGRB Vacancy 2026",
         "title": "MTS, LDC, Draughtsman and More",
         "qualification": "Degree in Architecture, Degree/Diploma in Civil/Electrical Engineering, S.S.C., ITI, H.S.S.C.",
@@ -97,22 +97,6 @@
     },
     {
         "date": "28/09/2026",
-        "board": "CSIR NIO Vacancy 2026 - 1 Project Associate - I PostsCSIR NIO Project Associate - I Vacancy 2026",
-        "title": "Project Associate - I",
-        "qualification": "BTech/BE Mechanical Engineering/Aerospace Engineering/Production Engineering/Materials Engineering/Mechatronics/Robotics and Automation or equivalent with NET/GATE",
-        "last_date": "04-10-2026",
-        "total_posts": "1",
-        "salary": "Project Associate - I:Rs. 31000 Per Month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nio.res.in",
-        "official_notification": "https://www.nio.res.in/vacancies/temporary/1875710"
-    },
-    {
-        "date": "28/09/2026",
         "board": "Goa Dental College & Hospital Vacancy 2026 - 1 Staff Nurse PostsGoa Dental College & Hospital Staff Nurse Vacancy 2026",
         "title": "Staff Nurse",
         "qualification": "Certificate in Nursing/Midwifery or B.Sc. Nursing with Registration Certificate and Knowledge of Konkani",
@@ -126,22 +110,6 @@
         "syllabus": "Not Available",
         "official_website": "https://gdch.goa.gov.in/",
         "official_notification": "https://gdch.goa.gov.in/storage/2026/09/Walk-in-Interview-Staff-Nurse-Maternity-Leave-Vacancy.pdf"
-    },
-    {
-        "date": "28/09/2026",
-        "board": "NIO Vacancy 2026 - 2 Project Associate - I PostsNIO Project Associate - I Vacancy 2026",
-        "title": "Project Associate - I",
-        "qualification": "M.Sc Bioinformatics / Marine Science / Oceanography / Marine Biology / Marine Biotechnology / Marine Microbiology or equivalent",
-        "last_date": "04-10-2026",
-        "total_posts": "2",
-        "salary": "Project Associate - I:₹31,000/- per month",
-        "age_limit": "Project Associate - I:Please refer to the official notification for age limit details.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Please refer to the official notification for selection process details.",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nio.res.in/vacancies/temporary/1894451",
-        "official_notification": "https://www.nio.res.in/vacancies/temporary/1894451"
     },
     {
         "date": "25/09/2026",

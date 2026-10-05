@@ -1,5 +1,21 @@
 [
     {
+        "date": "05/10/2026",
+        "board": "IOCL Vacancy 2026 - 335 Apprentice PostsIOCL Apprentice Vacancy 2026",
+        "title": "Apprentice",
+        "qualification": "Class 12th (below graduate) plus a 'Domestic Data Entry Operator' Skill Certificate (training under 1 year) from a body recognized under the National Skill Qualifications Framework or the Central Government",
+        "last_date": "04-11-2026",
+        "total_posts": "Not Available",
+        "salary": "The rate of stipend payable to apprentices per month shall be as prescribed under the Apprentices Act, 1961/1973, and the Apprentices Rules 1992/2019/2025, as amended from time to time. Not specified in the official notification: the exact per-month stipend figure for each apprentice category.",
+        "age_limit": "Age Limit (as on 30.09.2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
         "date": "28/08/2026",
         "board": "MPESB Vacancy 2026 - 1700 Sub Engineer, Draftsman and More PostsMPESB Vacancy 2026",
         "title": "Sub Engineer (Upyantri), Draftsman/Cartographer, Laboratory Technician, Technical Assistant, Surveyor, Mineral Surveyor, and other equivalent posts",
@@ -81,22 +97,6 @@
     },
     {
         "date": "30/09/2026",
-        "board": "IIT Indore Vacancy 2026 - 1 Junior Research Fellow PostsIIT Indore Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow",
-        "qualification": "M.Sc Chemistry/Biochemistry, B.Tech Biological Sciences, B.Pharm/M.Pharm",
-        "last_date": "04-10-2026",
-        "total_posts": "1",
-        "salary": "Junior Research Fellow: INR 44,440/- per month (Inclusive 20% HRA)",
-        "age_limit": "All Posts: Minimum Age: 20 years, Maximum Age: 25 years",
-        "application_fee": "Not Available",
-        "selection_process": "Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iiti.ac.in/",
-        "official_notification": "https://www.iiti.ac.in/uploads/career/2026/Sep/f8399a69f164303cb445c5ab63d9bd35.pdf"
-    },
-    {
-        "date": "30/09/2026",
         "board": "IIT Indore Vacancy 2026 - 1 Research Project Specialist PostsIIT Indore Research Project Specialist Vacancy 2026",
         "title": "Research Project Specialist",
         "qualification": "PhD in Civil Engineering/Environmental Engineering",
@@ -142,22 +142,6 @@
         "syllabus": "Not Available",
         "official_website": "https://dhsgsu.edu.in/",
         "official_notification": "https://dhsgsu.edu.in/images/2026/September-26/29/Advertisement-for-Recruitment-of-JRF-under-DBT.pdf"
-    },
-    {
-        "date": "30/09/2026",
-        "board": "IISER Bhopal Vacancy 2026 - Project Technical Support Staff III PostsIISER Bhopal Project Technical Support Staff III Vacancy 2026",
-        "title": "Project Technical Support Staff III",
-        "qualification": "M.Sc. in Life Sciences or related subjects with research experience",
-        "last_date": "04-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Project Technical Support Staff III:Rs. 28000/Month+ 20% HRA",
-        "age_limit": "Project Technical Support Staff III:Maximum age limit is 35 years.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on applications || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iiserb.ac.in/",
-        "official_notification": "https://www.iiserb.ac.in/assets_external/vacancy/r&d/efc244f1c6a1639a44b560d73f80bae2.pdf"
     },
     {
         "date": "29/09/2026",
@@ -254,22 +238,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ddpdoo.gov.in/en/main/vacancies",
         "official_notification": "https://ddpdoo.gov.in/storage/document/6ab9f65e1134e.pdf"
-    },
-    {
-        "date": "28/09/2026",
-        "board": "IIT Indore Vacancy 2026 - 1 Senior Research Fellow PostsIIT Indore Senior Research Fellow Vacancy 2026",
-        "title": "Senior Research Fellow",
-        "qualification": "Post Graduate Degree in Basic Science OR Graduate / Post Graduate Degree in Professional Course with NET/GATE and 2 years of JRF experience",
-        "last_date": "04-10-2026",
-        "total_posts": "1",
-        "salary": "Senior Research Fellow:As per funding agency norms",
-        "age_limit": "Senior Research Fellow:Maximum Age: 32 years || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on CV and qualifications || Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iiti.ac.in/",
-        "official_notification": "https://www.iiti.ac.in/uploads/career/2026/Sep/4ec4a1426edd6ba9e7ac079a653da475.pdf"
     },
     {
         "date": "28/09/2026",
@@ -558,22 +526,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nclcil.in/",
         "official_notification": "https://www.nclcil.in/media/documents/Notification_Medical_Consultant.pdf"
-    },
-    {
-        "date": "21/09/2026",
-        "board": "AIIMS Bhopal Vacancy 2026 - 1 Project Technical Support - III PostsAIIMS Bhopal Project Technical Support - III Vacancy 2026",
-        "title": "Project Technical Support - III",
-        "qualification": "Three Years Graduate degree in relevant subject/field + three Years post qualification experience or PG in relevant subject/field OR Four Years Graduate Degree (Engineering/IT/CS). Desirable: Masters in Public Health (MPH)/Relevant degrees in public health/psychology/nursing/physiotherapy etc.",
-        "last_date": "04-10-2026",
-        "total_posts": "1",
-        "salary": "Rs. 33600 Per Month",
-        "age_limit": "Max: 35 years",
-        "application_fee": "Nil",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aiimsbhopal.edu.in",
-        "official_notification": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/Advertisement_Project_technical_support_-_III.pdf"
     },
     {
         "date": "15/09/2026",
