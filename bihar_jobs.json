@@ -1,6 +1,54 @@
 [
     {
         "date": "06/10/2026",
+        "board": "DSWO Munger Vacancy 2026 - 1 Gender Specialist PostsDSWO Munger Gender Specialist Vacancy 2026",
+        "title": "Gender Specialist",
+        "qualification": "Graduation in Social Work / other Social Science subjects (Sociology / Rural Development / Rural Management / LSW / Psychology / Women's Studies) with a minimum of 3 years of working experience in government or non-government organisations in gender-centric subjects.",
+        "last_date": "24-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Selected employees will receive EPF and ESIC as per rules in addition to the consolidated monthly remuneration.",
+        "age_limit": "The age limit for the Gender Specialist post is 21 to 40 years .",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process consists of scrutiny of educational qualifications, work experience, and an interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://munger.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3e0c641195b27425bb056ac56f8953d24/uploads/2026/10/17912718751181.pdf"
+    },
+    {
+        "date": "06/10/2026",
+        "board": "NIT Patna Vacancy 2026 - 2 Medical Officer PostsNIT Patna Medical Officer Vacancy 2026",
+        "title": "Medical Officer",
+        "qualification": "MBBS Degree with registration in a State Medical Council or Indian Medical Register.",
+        "last_date": "25-10-2026",
+        "total_posts": "2",
+        "salary": "Medical Officer:Rs. 80,000/- to Rs. 1,00,000/- per month",
+        "age_limit": "All Posts:No specific age limit has been prescribed in the notification.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Walk-in interview",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nitp.ac.in/",
+        "official_notification": "https://nitp-database-s3.s3.ap-south-1.amazonaws.com/notices/default/1791274903167-10e5cf176f13ac7d.pdf"
+    },
+    {
+        "date": "06/10/2026",
+        "board": "IIT Patna Vacancy 2026 - 2 Junior Research Fellow (JRF) PostsIIT Patna Junior Research Fellow (JRF) Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.Tech / B.Tech / M.Sc in relevant engineering/science discipline with GATE score",
+        "last_date": "22-10-2026",
+        "total_posts": "2",
+        "salary": "Junior Research Fellow (JRF):Rs. 37000 (for JRF) and Rs. 42000 (for SRF)",
+        "age_limit": "Junior Research Fellow (JRF):Maximum age is 32 years. Age relaxation for SC/ST/OBC/women/PD is applicable as per GOI rules.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Shortlisting based on application and GATE score || Written test || Personal Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitp.ac.in",
+        "official_notification": "https://iitp.ac.in/media/iitp-media/notices/1790944976875-Advertisement%20no%20631%20dated%2030.09.2026.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minioadmin%2F20261006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261006T095905Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=239d7760d8291e668c0cec16d98fd29ffd96bf5146957fe25a06e4b7355dd589"
+    },
+    {
+        "date": "06/10/2026",
         "board": "ICDS Kaimur Vacancy 2026 - 11 Woman Supervisor PostsICDS Kaimur Woman Supervisor Vacancy 2026",
         "title": "Woman Supervisor",
         "qualification": "Matriculation or equivalent pass from a recognized board",
@@ -221,7 +269,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "isro-iprc-recruitment-2026-apply-online-for-22-technical-assistant-technician-and-skilled-posts-3067463"
+        "official_notification": "Not Available"
     },
     {
         "date": "25/09/2026",
@@ -285,7 +333,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "icg-cgept-recruitment-2026-apply-online-for-365-posts-3071126"
+        "official_notification": "Not Available"
     },
     {
         "date": "24/09/2026",
@@ -301,7 +349,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "icg-cgept-recruitment-2026-apply-online-for-365-posts-3071126"
+        "official_notification": "Not Available"
     },
     {
         "date": "21/09/2026",
@@ -381,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "isro-iprc-recruitment-2026-apply-online-for-22-technical-assistant-technician-and-skilled-posts-3067463"
+        "official_notification": "Not Available"
     },
     {
         "date": "07/09/2026",

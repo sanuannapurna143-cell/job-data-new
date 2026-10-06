@@ -1,6 +1,38 @@
 [
     {
         "date": "06/10/2026",
+        "board": "CUH Vacancy 2026 - 3 Guest Faculty PostsCUH Guest Faculty Vacancy 2026",
+        "title": "Civil Engineering, Political Science",
+        "qualification": "As per UGC Regulations 2018/AICTE/NCTE/Other Regulatory Body",
+        "last_date": "16-10-2026",
+        "total_posts": "3",
+        "salary": "Rs. 1,500 per lecture subject to maximum of Rs. 50,000 per month",
+        "age_limit": "Not Available",
+        "application_fee": "The notification does not mention any application fee.",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cuh.ac.in",
+        "official_notification": "https://file.cuh.ac.in/recruitment/advt_no_6ac4c5eab5ec6.pdf"
+    },
+    {
+        "date": "06/10/2026",
+        "board": "RITES Vacancy 2026 - 1 Senior Manager (Mech) PostsRITES Senior Manager (Mech) Vacancy 2026",
+        "title": "Senior Manager (Mech.)- Bulk Material Handling Expert",
+        "qualification": "Full-time Bachelor's Degree in Mechanical Engineering / Technology in Mechanical / Production / Production & Industrial / Manufacturing / Mechanical / Railways / Mechatronics & Automobile or any of the above combinations.",
+        "last_date": "02-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "40 years (as on 2 November 2026)",
+        "application_fee": "Payment mode: Online. Last date to pay the fee: 2 November 2026.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rites.com",
+        "official_notification": "https://rites.com/Upload/Career/Advertisement_for_CP_17_26_pdf-2026-Oct-06-12-57-40.pdf"
+    },
+    {
+        "date": "06/10/2026",
         "board": "THSTI Vacancy 2026 - 33 Technician, Field Worker and More PostsTHSTI Vacancy 2026",
         "title": "Research Nurse, Technician, Field Worker",
         "qualification": "Standard 12th, Diploma in Nursing, GNM, BSc Nursing, B.Sc., DMLT, 10th, 12th, Graduate degree",
@@ -368,22 +400,6 @@
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2026/09/20260923432470358.pdf"
     },
     {
-        "date": "24/09/2026",
-        "board": "NIFTEM Vacancy 2026 - 2 Junior Research Fellow PostsNIFTEM Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "Master's degree with 60% marks in Food Science and Technology/ Food Technology/ Food Engineering/ closely allied fields.",
-        "last_date": "06-10-2026",
-        "total_posts": "2",
-        "salary": "Rs. 37,000/- + 10% HRA",
-        "age_limit": "Maximum 35 years (relaxation of 5 years for women/SC/ST/OBC/differently abled as per the govt. of India Rules).",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://niftem.ac.in",
-        "official_notification": "https://niftem.ac.in/storage/careers/openings/wAY4x7SVrXNejYlHue2DVbmXDPJjQJs6FvOhvW4k.pdf"
-    },
-    {
         "date": "23/09/2026",
         "board": "ESIC Vacancy 2026 - 6 Medical Officer PostsESIC Medical Officer Vacancy 2026",
         "title": "Medical Officer",
@@ -414,22 +430,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rites.com",
         "official_notification": "https://www.rites.com/Upload/Career/Advt_YP_26_28_30-R1_26_FINAL_pdf-2026-Sep-22-12-25-39.pdf"
-    },
-    {
-        "date": "22/09/2026",
-        "board": "NIFTEM Vacancy 2026 - 1 Young Professional PostsNIFTEM Young Professional Vacancy 2026",
-        "title": "Young Professional - Admin",
-        "qualification": "Any Graduate preferably with an MBA (Regular) or Post-Graduation in any discipline.",
-        "last_date": "06-10-2026",
-        "total_posts": "1",
-        "salary": "Rs. 42,000/- (Consolidated) Per Month",
-        "age_limit": "Maximum Age Limit: 32 years. || Age relaxation for women/SC/ST/OBC/differently abled will be as per the govt. of India Rules. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Not Available",
-        "selection_process": "Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.niftem.ac.in",
-        "official_notification": "https://niftem.ac.in/storage/careers/openings/2kxQXdY5i1gRzTO1uEfdc7YPAkM6LNKgxzS69QSo.pdf"
     },
     {
         "date": "22/09/2026",
@@ -557,7 +557,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "isro-iprc-recruitment-2026-apply-online-for-22-technical-assistant-technician-and-skilled-posts-3067463"
+        "official_notification": "Not Available"
     },
     {
         "date": "11/09/2026",

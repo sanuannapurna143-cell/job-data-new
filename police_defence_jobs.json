@@ -1,19 +1,35 @@
 [
     {
         "date": "06/10/2026",
-        "board": "Sainik School Chhingchhip",
-        "title": "Ward Boys and GE (Ayah)",
-        "qualification": "Passed Matriculation or equivalent from any recognized Board.",
-        "last_date": "23-10-2026",
-        "total_posts": "5",
-        "salary": "Ward Boys (Male Only): Rs 28800/- per Month || GE (Ayah) (Female Only): As per school norms",
-        "age_limit": "Minimum Age: 18 years || Maximum Age: 50 years || Age is calculated as on the last date for the receipt of the applications.",
+        "board": "Indian Army",
+        "title": "Commissioned Officer",
+        "qualification": "12TH",
+        "last_date": "12-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.joinindianarmy.nic.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/10/4489486456-6ac4e420b60ff46993925.pdf"
+    },
+    {
+        "date": "06/10/2026",
+        "board": "Sainik School Mainpuri",
+        "title": "TGT English and Counsellor",
+        "qualification": "Four years integrated degree / Bachelor's / Master's degree with B.Ed / CTET / Graduation in Psychology/Child Development",
+        "last_date": "25-10-2026",
+        "total_posts": "2",
+        "salary": "Rs 25,000/- to Rs 60,000/-",
+        "age_limit": "All Posts:Minimum Age: 21 Years, Maximum Age: 50 Years.",
         "application_fee": "Rs. 500/-",
-        "selection_process": "Written Exam || Interview",
+        "selection_process": "Written Test || Class Demonstration/Skill test || Interview",
         "apply_mode": "Offline",
         "syllabus": "Not Available",
-        "official_website": "https://sschhingchhip.mizoram.gov.in",
-        "official_notification": "https://sschhingchhip.mizoram.gov.in/uploads/attachments/2026/10/cdb8a93dda5dd479e723f71d10c69a2f/advertisement-ge-ward-boys.pdf"
+        "official_website": "https://www.sainikschoolmainpuri.com",
+        "official_notification": "https://www.sainikschoolmainpuri.com/files/news/NEWS_20261005_6ac3910bedb36.pdf"
     },
     {
         "date": "06/10/2026",
@@ -30,6 +46,22 @@
         "syllabus": "Not Available",
         "official_website": "https://indiancoastguard.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/10/125478-6ac49abceeb0269954425.pdf"
+    },
+    {
+        "date": "06/10/2026",
+        "board": "Sainik School Chhingchhip",
+        "title": "Ward Boys and GE (Ayah)",
+        "qualification": "Passed Matriculation or equivalent from any recognized Board.",
+        "last_date": "23-10-2026",
+        "total_posts": "5",
+        "salary": "Ward Boys (Male Only): Rs 28800/- per Month || GE (Ayah) (Female Only): As per school norms",
+        "age_limit": "Minimum Age: 18 years || Maximum Age: 50 years || Age is calculated as on the last date for the receipt of the applications.",
+        "application_fee": "Rs. 500/-",
+        "selection_process": "Written Exam || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://sschhingchhip.mizoram.gov.in",
+        "official_notification": "https://sschhingchhip.mizoram.gov.in/uploads/attachments/2026/10/cdb8a93dda5dd479e723f71d10c69a2f/advertisement-ge-ward-boys.pdf"
     },
     {
         "date": "06/10/2026",
@@ -77,7 +109,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "icg-cgept-recruitment-2026-apply-online-for-365-posts-3071126"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/10/2026",
