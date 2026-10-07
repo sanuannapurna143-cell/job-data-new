@@ -1,6 +1,38 @@
 [
     {
         "date": "07/10/2026",
+        "board": "OPGC Vacancy 2026 - 1 Additional General Manager PostsOPGC Additional General Manager Vacancy 2026",
+        "title": "Additional General Manager - Engineering",
+        "qualification": "Not specified in the notification (Refer to detailed advertisement on the official website)",
+        "last_date": "17-10-2026",
+        "total_posts": "Not Available",
+        "salary": "The official notification does not mention specific allowances or additional benefits.",
+        "age_limit": "The age limit and age relaxation details are not specified in the notification.",
+        "application_fee": "The notification does not mention any application fee.",
+        "selection_process": "The selection process details are not specified in the notification.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.opgc.co.in",
+        "official_notification": "https://career.opgc.co.in/pdf/OPGC_Paper_Adv_OPGC_CO_HR_03_2026.pdf"
+    },
+    {
+        "date": "07/10/2026",
+        "board": "Odisha Police Vacancy 2026 - 89 Special Police Officer PostsOdisha Police Special Police Officer Vacancy 2026",
+        "title": "Special Police Officer (SPO)",
+        "qualification": "89 Posts",
+        "last_date": "31-10-2026",
+        "total_posts": "Not Available",
+        "salary": "The remuneration for Special Police Officers will be fixed as per Government of Odisha, Finance Department Memo No.24533/F dtd 22.09.2022.",
+        "age_limit": "Not Available",
+        "application_fee": "The notification does not mention any application fee.",
+        "selection_process": "The selection test includes verification of original documents, medical test, physical test, and interview, held at Reserve Police Ground Sambalpur.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://police.odisha.gov.in",
+        "official_notification": "https://police.odisha.gov.in/storage/recruitment//1791356499_AdvertisementforEngagementofRetiredAsstSub-Inspectors_Sub-Inspectors_InspectorsofPoliceasSPOsinJharsuguda_Baragada_Balangir_SambalpurandSubarnapurDistrictsunderNorthernRangeSambalpur.pdf"
+    },
+    {
+        "date": "07/10/2026",
         "board": "CSB BTSSO Vacancy 2026 - 15 Sericulture Assistant PostsCSB BTSSO Sericulture Assistant Vacancy 2026",
         "title": "Sericulture Assistant (SA)",
         "qualification": "Candidates must possess any one of the following qualifications from a recognized university or institution:\r \t\t\t Sericulture (Sericulture) in three or four-year full-time degree, OR Three-year full-time degree + PG Diploma in Sericulture, OR Agriculture Sciences/Forestry in four-year full-time bachelor degree, OR Biological Science (Zoology or Botany or Biology) in three-year full-time degree + PG Diploma in Sericulture, OR Biological Sciences (Zoology or Botany or Biology) in three-year full-time bachelor degree or Biotechnology + One year experience in Sericultural project work.",
@@ -208,54 +240,6 @@
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec02747d3443e319a22747fbb873e8b2/uploads/2026/09/2026093027.pdf"
     },
     {
-        "date": "30/09/2026",
-        "board": "AIIMS Bhubaneswar Vacancy 2026 - 2 Project Technical Support-I PostsAIIMS Bhubaneswar Project Technical Support-I Vacancy 2026",
-        "title": "Project Technical Support-I",
-        "qualification": "10th + Diploma (MLT/DMLT/ITI) with 2 years experience OR Graduation with 1 year experience in research projects",
-        "last_date": "07-10-2026",
-        "total_posts": "2",
-        "salary": "Project Technical Support-I:Rs. 18,000/- + HRA, as admissible.",
-        "age_limit": "All Posts:Maximum 28 years. || Age Relaxation:SC/ST/OBC/PWD as per government rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting || Walk-In-Interview || Video Conferencing Interview || Document Verification",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://aiimsbhubaneswar.edu.in",
-        "official_notification": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/09/1e2671e0-d7e9-4823-9153-23acda7562e4.pdf"
-    },
-    {
-        "date": "30/09/2026",
-        "board": "AIIMS Bhubaneswar Vacancy 2026 - 1 Project Technical Support II PostsAIIMS Bhubaneswar Project Technical Support II Vacancy 2026",
-        "title": "Project Technical Support II",
-        "qualification": "Three years Graduate Degree in Life Sciences / Biochemistry / Bioinformatics / Microbiology",
-        "last_date": "07-10-2026",
-        "total_posts": "1",
-        "salary": "Project Technical Support II:Rs 20000/- +20% HRA, as admissible",
-        "age_limit": "Project Technical Support II:Maximum Age: 30 years. Age relaxation for SC/ST/OBC/PWD is applicable as per government rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting of candidates || Walk-In-Interview/Video Conferencing Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://aiimsbhubaneswar.edu.in",
-        "official_notification": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/09/c83c9fe1-2eec-4015-94a9-351f63b4b6d5-1.pdf"
-    },
-    {
-        "date": "08/09/2026",
-        "board": "SSC Vacancy 2026 - 2536 CHSL PostsSSC CHSL Vacancy 2026",
-        "title": "Post Name",
-        "qualification": "12th Standard pass in Science stream with Mathematics as a subject, from a recognised Board",
-        "last_date": "07-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Pay Level-4 (Rs. 25,500–81,100) and Level-5 (Rs. 29,200–92,300)",
-        "age_limit": "Only male candidates are eligible for any vacancies reported in the Border Roads Organization (BRO). || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
-        "application_fee": "Fee can be paid online through BHIM UPI, Net Banking, or Visa/MasterCard/Maestro/RuPay debit cards, up to 08 October 2026 (23:00 Hours). Fee once paid is not refundable or adjustable against any other exam.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ssc.gov.in/",
-        "official_notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_chsl_2026.pdf"
-    },
-    {
         "date": "29/09/2026",
         "board": "NISER Vacancy 2026 - 1 Junior Research Fellow PostsNISER Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow",
@@ -397,7 +381,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "nicl-ao-recruitment-2026-apply-online-for-321-posts-3071380"
+        "official_notification": "Not Available"
     },
     {
         "date": "23/09/2026",
@@ -414,22 +398,6 @@
         "syllabus": "Not Available",
         "official_website": "https://khurda.dcourts.gov.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec03e94fe9ac8dc10dd8b9a239e6abee/uploads/2026/09/2026092399.pdf"
-    },
-    {
-        "date": "23/09/2026",
-        "board": "OUAT Vacancy 2026 - 4 Guest Faculty PostsOUAT Guest Faculty Vacancy 2026",
-        "title": "Guest Faculty",
-        "qualification": "M.Sc. (Home Science/Community Science) in respective subject with minimum 55% marks or CGPA 5.5",
-        "last_date": "07-10-2026",
-        "total_posts": "4",
-        "salary": "Rs. 1200 per class, with a maximum of Rs. 60000 per month.",
-        "age_limit": "Maximum Age Limit: 64 years || Age as on 30-09-2026",
-        "application_fee": "Rs. 500",
-        "selection_process": "Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "www.ouat.ac.in",
-        "official_notification": "https://ouat.ac.in/wp-content/uploads/2026/09/864-CCS.pdf"
     },
     {
         "date": "23/09/2026",
@@ -461,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "supreme-court-junior-court-assistant-recruitment-2026-apply-online-for-250-posts-3070583"
+        "official_notification": "Not Available"
     },
     {
         "date": "23/09/2026",
@@ -478,22 +446,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.vssut.ac.in",
         "official_notification": "https://www.vssut.ac.in/images/documents/doc_1789722334.pdf"
-    },
-    {
-        "date": "22/09/2026",
-        "board": "Sainik School Bhubaneswar Vacancy 2026 - 1 TGT PostsSainik School Bhubaneswar TGT Vacancy 2026",
-        "title": "TGT (Science / Biology)",
-        "qualification": "Four years integrated degree, B Ed component, Bachelor / Honours Degree",
-        "last_date": "07-10-2026",
-        "total_posts": "1",
-        "salary": "Rs. 70500 Per Month",
-        "age_limit": "Min: 21 years, Max: 50 years",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-in Interview || Document Verification",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://sainikschoolbhubaneswar.edu.in",
-        "official_notification": "https://www.sainikschoolbhubaneswar.edu.in/adminlogin/uploads/a__Walk-in-interview_Advertisement1_1.pdf"
     },
     {
         "date": "17/09/2026",
