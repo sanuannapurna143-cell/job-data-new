@@ -1,6 +1,70 @@
 [
     {
         "date": "09/10/2026",
+        "board": "IRCTC",
+        "title": "Graduate Apprentice & COPA     – 44 Posts",
+        "qualification": "Graduate Apprentice:a graduate in any discipline from a recognised university with at least50% marks in aggregate. || COPA:Matriculation and an ITI certificate in COPA affiliated to NCVT or SCVT, with at least50% marks in aggregatefrom a recognised board.",
+        "last_date": "26-10-2026",
+        "total_posts": "44",
+        "salary": "Apprentices are released at the end of the training period and have no claim to regular employment in IRCTC in any form. Seat numbers may change; any change is published on the IRCTC website.",
+        "age_limit": "Not Available",
+        "application_fee": "Not mentioned",
+        "selection_process": "Merit listprepared on percentage of marks in the qualifying examination. There is no written test and no viva. || Tie-break:the older candidate is preferred; if dates of birth are the same, the candidate who passed Matriculation earlier. || Document verification:candidates bring originals and two sets of self-attested photocopies. The schedule is advised by email only, at short notice. No daily, conveyance or travelling allowance is paid. || Offersare issued strictly in merit order. A stand-by list is used only to fill places of absentees and rejected candidates. || Candidates are trained only in the trade for which they are selected.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.irctc.com/",
+        "official_notification": "https://www.irctc.com/assets/images2/FinalNotifiEngaKolkata(9oct26).pdf"
+    },
+    {
+        "date": "09/10/2026",
+        "board": "RITES",
+        "title": "Individual Consultant (Dy. Chief Signalling System Engineer, System Integration Expert, Quality Assurance Expert, and other posts)",
+        "qualification": "Graduate in any branch of Engineering. (Civil, Electrical, Mechanical or equivalent).",
+        "last_date": "08-11-2026",
+        "total_posts": "27",
+        "salary": "Goods and Service Tax, as applicable, shall be admissible to the Individual Consultant. No statutory benefits like PF, ESI, or Gratuity are applicable.",
+        "age_limit": "The upper age limit for all posts is not exceeding 63 years as on the last date of submission of application (8 November 2026).",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process consists of document scrutiny/verification followed by a personal interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.rites.com",
+        "official_notification": "https://rites.com/Upload/Career/Advt_YP_67_92_pdf-2026-Oct-09-17-9-38.pdf"
+    },
+    {
+        "date": "09/10/2026",
+        "board": "RailTel",
+        "title": "Server Expert",
+        "qualification": "B.E./B.Tech /MCA with minimum 7 Years of relevant experience",
+        "last_date": "16-10-2026",
+        "total_posts": "Post",
+        "salary": "CTC for each post has been indicated in Annexure-I.",
+        "age_limit": "Max Age Limit: Not more than 50 Years || OBCs (non-creamy layer)-3 years, SC/STs- 5 years.",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process involves an Interview (Offline & Online) and a medical examination.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.railtel.in",
+        "official_notification": "https://www.railtel.in/images/careers/Vacancy%20Notification%20Dt%2009.10.2026.pdf"
+    },
+    {
+        "date": "09/10/2026",
+        "board": "East Central Railway",
+        "title": "Sr. Section Engineer/Inspection/S&T (Ex-cadre & Tenure Based)",
+        "qualification": "(i) Sr. Section Engineer (Cadre Post) Pay Level-7 working in concerned department (S&T) of Zonal Railway/Production Unit.(ii) Sr. Section Engineers of the concerned dept. working in a Level higher than Level-7 may also apply. However, in case of their selection, he/she may be transferred to RDSO along with his substantive post of appropriate level (8 & above); and in lieu of this, a Level-7 post will be temporarily transferred from RDSO to his parent unit of the selected official for the duration of his/her tenure at RDSO.(iii) Minimum 05 Years of Service Experience as Sr. Section Engineer (Cadre Post) Pay Level-7 will be necessary.(iv) NO Case under D&AR, SPE/Vigilance should be pending/contemplated.(v) Total APAR Grading of last three years (22-23, 23-24 and 24-25) should not be less than 11 marks and Grading of APAR of last year should not be less than 'GOOD'.(vi) Candidate must have minimum 05 years' residual service.(vii) Medical Category: A-3 is required.(viii) Cooling-off period of three years will be maintained between two tenures in RDSO.(ix) Candidates against whom any penalty was imposed as outcome of vigilance case during the previous RDSO tenure will be debarred in the present selection.(x) Cut-off date: Cut-off date of eligibility, experience & criteria etc. will be reckoned as on the date of issue of this notification (21.09.2026).(xi) Application must reach through proper channel to this Office on or before 05.11.2026 by e-mail/Post etc.(xii) Experience in ex-cadre posts and pay level granted due to MACP will not be considered.",
+        "last_date": "05-11-2026",
+        "total_posts": "11",
+        "salary": "Sr. Section Engineer/Inspection/S&T, (Ex-cadre & tenure based post), Pay Level-7",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ecr.indianrailways.gov.in",
+        "official_notification": "https://ecr.indianrailways.gov.in/cris//uploads/files/1791531926213-document%20-%202026-10-09T100711.264.pdf"
+    },
+    {
+        "date": "09/10/2026",
         "board": "GMRC",
         "title": "Sr. Deputy General Manager (Traction), Deputy General Manager (Signalling), Manager (Signalling), Asst. Manager (Signalling), Asst. Manager (Rolling Stock), Sr. Section Engineer (Rolling Stock), Sr. Section Engineer (Signalling), and Section Engineer (Rolling Stock)",
         "qualification": "B.E. / B.Tech in Electrical / Electrical & Electronics / Electronics & Telecommunications / Applied Electronics / Industrial Electronics / Power Electronics / Instrumentation or equivalent engineering graduate from a Govt. recognized University/Institute.",
@@ -397,7 +461,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
     },
     {
         "date": "22/09/2026",
@@ -413,7 +477,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
     },
     {
         "date": "21/09/2026",

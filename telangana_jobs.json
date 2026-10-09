@@ -1,6 +1,86 @@
 [
     {
         "date": "09/10/2026",
+        "board": "IIT Hyderabad Vacancy 2026 - 3 Junior Research Fellow and Lab Support Engineer PostsIIT Hyderabad Vacancy 2026",
+        "title": "Junior Research Fellow (JRF) and Lab Support Engineer",
+        "qualification": "M.Sc. in Physics/Optics/Photonics or a related specialization AND Valid GATE score or UGC/CSIR NET-JRF",
+        "last_date": "15-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 25,000 per month (consolidated)",
+        "age_limit": "The maximum age limit varies by post as calculated on 30th October 2026:",
+        "application_fee": "The notification does not mention any application fee.",
+        "selection_process": "The selection process consists of the shortlisting of eligible candidates followed by an online interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iith.ac.in",
+        "official_notification": "https://www.iith.ac.in/assets/files/careers/staff/Advertisment-2JRF-2026.pdf"
+    },
+    {
+        "date": "09/10/2026",
+        "board": "BHEL Rajbhasha Vacancy 2026 - 1 Hindi Translator Gr III PostsBHEL Rajbhasha Hindi Translator Gr III Vacancy 2026",
+        "title": "Fixed Tenure Appointment of Rajbhasha- Hindi Translator Gr III",
+        "qualification": "Master’s Degree in Hindi with English at Graduation * Or Master’s Degree in English with Hindi * Or Master’s Degree in Hindi & English *. Or Bachelor’s Degree with Hindi & English * (*From Recognized University) with 2 years minimum experience.",
+        "last_date": "23-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Other benefits include leaves (one day of leave for every 20 days of work), medical benefits (reimbursement of premium for Mediclaim policy up to Rs. 5 Lakhs for self, spouse, and dependent children), group personal accident insurance under BHEL policy, and bachelor accommodation subject to availability (license fee is recoverable if company accommodation is allotted).",
+        "age_limit": "The upper age limit is 35 years as on 01/10/2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bhel.com/",
+        "official_notification": "https://careers.bhel.in/static/RAJBHASHA%20FTA%20LONG%20AD%202026%20Bilingual.pdf"
+    },
+    {
+        "date": "09/10/2026",
+        "board": "Warangal District Court Vacancy 2026 - 1 Court Assistant PostsWarangal District Court Court Assistant Vacancy 2026",
+        "title": "Court Assistant",
+        "qualification": "Any retired person who has not exceeded 64 years of age as on 01.07.2026 and has held any post in the Telangana Judicial Ministerial and Subordinate Service or any retired person who held the post of Assistant, Examiner, Typist, Copyist and above in the T.S High Court Service.",
+        "last_date": "24-10-2026",
+        "total_posts": "Not Available",
+        "salary": "The appointment is made on a purely temporary basis for a period of two years.",
+        "age_limit": "For outsiders applying for the post, the candidate must have completed the age of 18 years and must not have completed the age of 34 years as on 01.07.2026. For retired persons, the age must not have exceeded 64 years of age as on 01.07.2026.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://warangal.dcourts.gov.in/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0451e6d6e679953c6311757004d8cb/uploads/2026/10/2026100918.pdf"
+    },
+    {
+        "date": "09/10/2026",
+        "board": "NIMS Vacancy 2026 - 1 Project Nurse III PostsNIMS Project Nurse III Vacancy 2026",
+        "title": "Project Nurse - III",
+        "qualification": "Four-year Nursing Course. Minimum 1 or 2 years of research experience.",
+        "last_date": "10-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 28,000/- + HRA, as admissible per month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process consists of shortlisting candidates based on qualifications and experience, followed by an interview for the shortlisted candidates.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nims.edu.in",
+        "official_notification": "https://nims.edu.in/NIMSWP/upload/recruitment_uploads/2026-09-30/project_nurse_3_30-09-26.pdf"
+    },
+    {
+        "date": "09/10/2026",
+        "board": "PJTAU Vacancy 2026 - 3 Teaching Associate PostsPJTAU Teaching Associate Vacancy 2026",
+        "title": "Teaching Associate",
+        "qualification": "M.Sc. (Ag.) in Agronomy. Ph.D. in Agronomy is preferable.",
+        "last_date": "16-10-2026",
+        "total_posts": "Not Available",
+        "salary": "The notification does not mention any additional allowances or benefits.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process consists of a walk-in interview. The decision of the selection committee is final and binding in all aspects.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.pjtau.edu.in",
+        "official_notification": "https://pjtau.edu.in/wp-content/uploads/2026/10/walkin-interview-Agronomy-09.10.2026.pdf"
+    },
+    {
+        "date": "09/10/2026",
         "board": "IIT Hyderabad Vacancy 2026 - 2 Project Technical Support PostsIIT Hyderabad Project Technical Support Vacancy 2026",
         "title": "Project Technical Support-I (Non-Medical) and Project Technical Support-III (Non-Medical)",
         "qualification": "Desirable Qualifications: For Project Technical Support-III, prior research/laboratory experience in instrumentation, biomedical device development, optics/imaging, electronics, embedded systems, CAD/3D printing, data analysis, or related areas will be preferred.",
@@ -301,7 +381,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
     },
     {
         "date": "07/10/2026",
@@ -637,7 +717,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
     },
     {
         "date": "01/10/2026",
@@ -704,22 +784,6 @@
         "official_notification": "https://nbpgr.org.in/nbpgr2023/applications-are-invited-for-the-selection-of-senior-research-fellow-1-no-and-field-assistant2-nos-under-national-mission-on-high-yielding-seeds-nmhys-plant-quarantine-fieldfacility-component/"
     },
     {
-        "date": "30/09/2026",
-        "board": "DMHO Wanaparthy Vacancy 2026 - 27 Staff Nurse, ANM and More PostsDMHO Wanaparthy Vacancy 2026",
-        "title": "Pediatrician / Medical Officer, Staff Nurse, ANM and More Posts",
-        "qualification": "GNM, B.Sc. Nursing, ANM, MPHW, DMLT, B.Sc. MLT, BAMS, MBBS, MD, DNB, Diploma in Paediatrics, Anesthesiology, OBG",
-        "last_date": "09-10-2026",
-        "total_posts": "27",
-        "salary": "Not Available",
-        "age_limit": "Minimum Age:18 years || Maximum Age:44 years || SC/ST/BCs/EWS Relaxation:5 years || Ex-Service men Relaxation:3 years and length of service in armed forces || NCC Relaxation:3 years and length of service in NCC || Physically challenged persons Relaxation:10 years",
-        "application_fee": "Rupees 300/-",
-        "selection_process": "Merit List preparation based on qualifying examination marks (90 marks) and age (10 marks) || Rule of Reservation (RoR) and Presidential Orders",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://wanaparthy.telangana.gov.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s3fa7cdfad1a5aaf8370ebeda47a1ff1c3/uploads/2026/09/17906817279503.pdf"
-    },
-    {
         "date": "29/09/2026",
         "board": "NALSAR Vacancy 2026 - 3 Legal Consultant (Maritime Law) PostsNALSAR Legal Consultant (Maritime Law) Vacancy 2026",
         "title": "Legal Consultant (Maritime Law)",
@@ -750,22 +814,6 @@
         "syllabus": "Not Available",
         "official_website": "https://iith.ac.in/",
         "official_notification": "https://iith.ac.in/assets/files/careers/staff/Advertisement%20Draft%20copy_CLEANZ.COE.pdf"
-    },
-    {
-        "date": "28/09/2026",
-        "board": "NIMS Hyderabad Vacancy 2026 - 3 Project Nurse III, Project Technical Support III and More PostsNIMS Hyderabad Vacancy 2026",
-        "title": "Project Research Scientist III (Non-Medical)",
-        "qualification": "Postgraduate degree in Life Sciences / Health Sciences / Public Health / Clinical Research / allied",
-        "last_date": "09-10-2026",
-        "total_posts": "3",
-        "salary": "Rs. 1,01,400/month (Project Research Scientist III), Rs. 36,400/month (Project Nurse III & Project Technical Support III)",
-        "age_limit": "Project Research Scientist III (Non-Medical):Maximum Age: 45 years || Project Nurse III:Maximum Age: 30 years || Project Technical Support III:Maximum Age: 35 years || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nims.edu.in",
-        "official_notification": "https://nims.edu.in/NIMSWP/upload/recruitment_uploads/2026-09-26/Project_research_scientist_26-09-26.pdf"
     },
     {
         "date": "28/09/2026",
@@ -864,22 +912,6 @@
         "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/LEAD-AA-Advertisement.pdf"
     },
     {
-        "date": "21/09/2026",
-        "board": "NIAB Vacancy 2026 - 5 Project Research Scientist I, Technical Assistant PostsNIAB Vacancy 2026",
-        "title": "Project Research Scientist I, Technical Assistant",
-        "qualification": "PhD in Life sciences/Allied sciences for Scientist, Bachelor's or Master's in Life sciences /Allied sciences.",
-        "last_date": "09-10-2026",
-        "total_posts": "5",
-        "salary": "Rs. 56000/- + 30% HRA for Scientist, Rs. 20,000/- + 30% HRA for Assistant.",
-        "age_limit": "Project Research Scientist I:Maximum age is 35 years. || Technical Assistant:Maximum age is 50 years. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
-        "application_fee": "Not Available",
-        "selection_process": "Screening || Intimation through email || Interview by duly constituted selection committee",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.niab.org.in/",
-        "official_notification": "https://www.niab.org.in/Notifications/Advt_24_2026/Notification_24_2026.pdf"
-    },
-    {
         "date": "19/09/2026",
         "board": "C-MET Vacancy 2026 - 7 Research Associate, Junior Research Fellow and More PostsC-MET Vacancy 2026",
         "title": "Research Associate (RA), Junior Research Fellow (JRF), Project Assistant",
@@ -928,22 +960,6 @@
         "official_notification": "https://203.153.33.92/GDCE022026.pdf"
     },
     {
-        "date": "17/09/2026",
-        "board": "IRCTC Vacancy 2026 - 28 Hospitality Monitors and Tourism Monitors PostsIRCTC Vacancy 2026",
-        "title": "Hospitality Monitors and Tourism Monitors",
-        "qualification": "(1) Full time B.Sc. in Hospitality and Hotel Administration from a Central or State institute of Hotel Management (CIHM/SIHM/PIHM) affiliated to NCHM&CT/UGC/AICTE/Government of India\r\t\t\t(2) BBA/MBA (Culinary Arts) from Indian Culinary Institutes under Ministry of Tourism\r\t\t\t(3) B.Sc. Hotel Management and Catering Science from Government-recognized Universities affiliated to UGC/AICTE/Government of India/State Government\r\t\t\t(4) M.B.A (Tourism and Hotel Management) from Government-recognized Universities affiliated to UGC/AICTE/Government of India/State Government",
-        "last_date": "09-10-2026",
-        "total_posts": "Not Available",
-        "salary": "CTC:Rs. 30,000/- per month (incl. statutory deductions) and other allowances as applicable || Daily Allowance:Rs. 350/- per day for on-duty on-board in train(s) - 100% for more than 12 hours, 70% for 6 to 12 hours, and 30% for less than 6 hours || Lodging Charges:Rs. 240/- only if night stay is involved at an outstation || National Holiday Allowance (NHA):Rs. 384/- per National Holiday (if worked) || Medical Insurance:Rs. 1,400/- per month (up to 35 years), Rs. 2,000/- per month (36–50 years); reimbursement subject to submission of valid documents",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Selection for both Hospitality Monitors and Tourism Monitors is through Walk-in Interview, following the same broad process: || Candidates must fill in the application form (attached with the respective notification), completing it in all respects. || The completed application form must be submitted at the venue of the interview for verification, along with original documents, one set of attested copies of requisite documents, and two recent passport-size photographs. || An interview will be conducted, and candidates will be shortlisted based on their credentials and performance in the personal interview. || The offer of engagement will be issued to suitable candidates in order of merit and based on the number of vacancies, subject to verification of antecedents. || In addition to the shortlisted candidates (22 for Hospitality Monitors, including 4 OBC backlog vacancies; 6 for Tourism Monitors), an equal number of candidates will be placed on a Reserve Panel. || Medical Fitness: Engagement is subject to candidates being found fit in the medical test prescribed for the post. For Hospitality Monitors, candidates will have to undergo a pre-employment medical examination, and continuation in service will also be subject to remaining medically fit. For Tourism Monitors, engagement of selected candidates is subject to being medically fit as prescribed by IRCTC.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://www.irctc.com/assets/images2/Notification_Hospitality_Monitor_contractbasisSCZ%2816Sep26%29.pdf"
-    },
-    {
         "date": "16/09/2026",
         "board": "Exim Bank Vacancy 2026 - 12 Business Development Officer PostsExim Bank Business Development Officer Vacancy 2026",
         "title": "Business Development Officer (BDO)",
@@ -970,7 +986,7 @@
         "age_limit": "Professor, Associate Professor, Assistant Professor: below 69 years as on 31-07-2026 || Senior Resident, broad specialties: upper age limit 45 years || Senior Resident, in Anatomy, Biochemistry, Physiology, Pharmacology, Microbiology, Pathology, Forensic Medicine, and Community Medicine: upper age limit 50 years || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
         "application_fee": "Not Available",
         "selection_process": "Candidates will be selected based on merit, duration of teaching experience, and interview. || For Professor and Associate Professor posts, the duration of teaching experience in that cadre and total teaching experience will be considered. || Selection is nationwide, with first preference given to local candidates for Assistant Professor-level posts; candidates from elsewhere will be considered if local candidates are not available. Professor and Associate Professor posts belong to the state cadre. || DNB candidates will be selected as per the latest NMC guidelines. || Rule of Reservation will be followed.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://asifabad.telangana.gov.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s382cec96096d4281b7c95cd7e74623496/uploads/2026/09/17882612955235.pdf"

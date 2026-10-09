@@ -1,6 +1,22 @@
 [
     {
         "date": "09/10/2026",
+        "board": "CUH Vacancy 2026 - 1 Lab Assistant PostsCUH Lab Assistant Vacancy 2026",
+        "title": "Lab Assistant",
+        "qualification": "Candidate must have a Bachelor’s degree (with minimum 55% marks) in Microbiology or Life Sciences (Should have zoology/ botany as subjects). Preference will be given to candidates having post-graduation in life sciences/microbiology.",
+        "last_date": "13-10-2026",
+        "total_posts": "Not Available",
+        "salary": "No T.A/D.A or any other allowances will be paid for attending the interview.",
+        "age_limit": "Age limit for the post is as per DBT/GOI rules.",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process consists of an interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cuh.ac.in/",
+        "official_notification": "https://file.cuh.ac.in/recruitment/advt_no_6abbaf2d05e6e.pdf"
+    },
+    {
+        "date": "09/10/2026",
         "board": "AIIMS Rewari Vacancy 2026 - 15 Faculty (Group-A) PostsAIIMS Rewari Faculty (Group-A) Vacancy 2026",
         "title": "Associate Professor and Assistant Professor (and other posts)",
         "qualification": "For Medical Candidates: 1. Medical qualification under IMC Act 1956. 2. M.D./M.S. in Anatomy or equivalent. 3. Three years teaching/research experience after qualifying degree.For Non-Medical Candidates: 1. Master's Degree in Anatomy. 2. Doctorate degree from a recognized University. 3. Three years teaching/research experience after Doctorate degree.",
@@ -58,7 +74,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://rcb.res.in",
         "official_notification": "https://rcb.res.in/files/advertisement-files/advt._no.38_project_2026_hr.pdf"
@@ -320,22 +336,6 @@
         "official_notification": "https://www.becil.com/uploads/topics/17911788087200.pdf"
     },
     {
-        "date": "05/10/2026",
-        "board": "ESIC Faridabad Vacancy 2026 - 43 Senior Resident PostsESIC Faridabad Senior Resident Vacancy 2026",
-        "title": "Senior Resident (Non-PG Resident is also listed for the ICU department under specific conditions)",
-        "qualification": "The notification says the educational qualifications are \"in accordance with the latest guidelines of the National Medical Commission (NMC/MCI)\". It does not list specific degree names or speciality-wise requirements for Senior Resident. The required documents list refers to MBBS and MD/MS/DNB/other examination certificates, and the Non-PG Resident option applies to MBBS doctors as described above. Candidates should check the original notification before attending.",
-        "last_date": "09-10-2026",
-        "total_posts": "Not Available",
-        "salary": "The notification does not specify whether this amount is monthly or annual.",
-        "age_limit": "The age limit is not exceeding 45 years as on the date of the walk-in interview (09.10.2026). The notification does not mention age relaxation. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Fees, once paid, are non-refundable under any circumstances.",
-        "selection_process": "Candidates appear before the Document Verification Committee on the interview date with their offline application form and self-attested copies of documents. Only candidates whose documents are successfully verified are allowed before the Interview Board. || Selection is made on the basis of acquired academic credentials and performance in the interview, conducted by a duly constituted selection board. || The offer of appointment will be sent through E-mail only. || Selected candidates must join as per the instructions in the offer of appointment.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://esic.gov.in/",
-        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/alk_in_Interview_on_09_102026_for_Recruitment_of_Senior_Resident_Broad_Speciality_Departments_on_eon_tract_basis_at_ESIC_Medical_College_amp_Faridabad_NIT_mdash_3_1790838128.pdf"
-    },
-    {
         "date": "03/10/2026",
         "board": "ESIC Manesar Vacancy 2026 - 31 Specialists, Senior Resident & Part Time Contractual Super-Specialist PostsESIC Manesar Vacancy 2026",
         "title": "Full Time/Part Time Contractual Specialists, Senior Resident (Three Year) & Part Time Contractual Super-Specialist",
@@ -414,22 +414,6 @@
         "syllabus": "Not Available",
         "official_website": "https://aiimsrewari.edu.in/",
         "official_notification": "https://aiimsrewari.edu.in/assets/img/jobs/Final%20SR_02_advt.pdf"
-    },
-    {
-        "date": "01/10/2026",
-        "board": "NPCC Vacancy 2026 - 1 Consultant-Liaison PostsNPCC Consultant-Liaison Vacancy 2026",
-        "title": "Consultant Liaison",
-        "qualification": "Bachelor's degree in any discipline",
-        "last_date": "09-10-2026",
-        "total_posts": "1",
-        "salary": "Consultant Liaison:Rs. 70,000/- per month",
-        "age_limit": "Consultant Liaison:Maximum 60 years.",
-        "application_fee": "Not Available",
-        "selection_process": "Walk-In-Interview || Document Verification",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.npcc.gov.in",
-        "official_notification": "http://npcc.gov.in/writereaddata/others/Consultant-Detailed%20Advertisement.pdf"
     },
     {
         "date": "30/09/2026",
@@ -606,22 +590,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rites.com",
         "official_notification": "https://www.rites.com/Upload/Career/ADVT_YP_40-R1-58-R1_26_pdf-2026-Sep-15-15-52-6.pdf"
-    },
-    {
-        "date": "11/09/2026",
-        "board": "NCRTC Vacancy 2026 - 90 Supervisor-I and Junior Maintainer PostsNCRTC Vacancy 2026",
-        "title": "Post Name",
-        "qualification": "3 Years Diploma in Computer Science/IT or BCA/B.Sc. (IT) or B.E./B.Tech (CS/IT/Electronics) or MCA or equivalent (Full Time)",
-        "last_date": "09-10-2026",
-        "total_posts": "No. 33/2026 (Supervisors & Non-Supervisors, Contract basis) and No. 32/2026 (Operations & Maintenance Staff, Direct Recruitment basis)",
-        "salary": "In addition to Basic Pay, selected candidates will receive Variable Dearness Allowance (VDA), House Rent Allowance (HRA), and Perks and Allowances under the Cafeteria Approach, plus other benefits as per extant Company Rules.",
-        "age_limit": "The maximum age limit for all posts under both notices is 28 years , as on 10.09.2026. || Cumulative relaxation for candidates falling under more than one category is admissible. However, the maximum upper age of any candidate shall not exceed 50 years, including all possible age relaxations. Ex-servicemen relaxation is also capped at a maximum age of 50 years. NCRTC employees who have completed one year of service as on the date of the notice get age relaxation to the extent of completed years of service, plus relaxation in the Full-Time qualification requirement. || Candidates from SC/ST/OBC/EWS/PwBD categories who apply against unreserved posts will not get the benefit of age relaxation or relaxed qualifying marks at any stage of the process. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
-        "application_fee": "UR, OBC (NCL), EWS and Ex-Servicemen category candidates: ₹500 (non-refundable), exclusive of transaction processing charges and GST. || SC, ST and PwBD category candidates: No fee. || Fee once paid, including transaction charges and GST, is non-refundable under any circumstances. || Candidates applying for more than one post must pay the application fee separately for each post. || Payment modes: Credit Card, Debit Card, or Net Banking.",
-        "selection_process": "Selection under both notices follows a Computer Based Test (CBT) followed by a Medical Fitness Test. || The CBT will have 100 questions for 100 marks; each correct answer carries 1 mark, and there is no negative marking for wrong answers. || Duration of the CBT is 90 minutes, available in Hindi or English (candidate's choice). || Minimum qualifying percentage: 60% for UR/OBC (NCL)/EWS; 50% for SC/ST/PwBD/Ex-Servicemen. Final selection is on merit basis beyond the qualifying marks. || Candidates give a preference of 5 cities for their Test Centre; no change is permitted later. Test Centre options include Delhi-NCR, Lucknow, Ahmedabad, Bhopal, Mumbai, Kolkata, Bhubaneswar, Hyderabad, Bengaluru, Chennai, Kanpur, Agra, Vadodara, Indore, Thane, Pune, Guwahati, Raipur (Chhattisgarh), Cuttack, Harohalli, Jaipur, and Patiala. || Candidates applying for multiple posts should note that CBTs for different posts may clash in date/time - a candidate can appear in the CBT for one post only in such cases.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ncrtc.in",
-        "official_notification": "https://ncrtc.in/wp-content/uploads/2026/09/322026VacancyNoticeforOnM.pdf"
     },
     {
         "date": "16/07/2026",
