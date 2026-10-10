@@ -1,5 +1,85 @@
 [
     {
+        "date": "10/10/2026",
+        "board": "AIIMS Delhi Vacancy 2026 - 1 Staff Nurse PostsAIIMS Delhi Staff Nurse Vacancy 2026",
+        "title": "Staff Nurse",
+        "qualification": "Desired Qualifications: Msc in Nursing, Midwifery; Managerial skills in a Clinical Environment; Writing research articles and publish papers.",
+        "last_date": "25-10-2026",
+        "total_posts": "Not Available",
+        "salary": "The notification does not mention any additional allowances or benefits.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu/",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/jpnatc-10-10-26.pdf"
+    },
+    {
+        "date": "10/10/2026",
+        "board": "NLUD Vacancy 2026 - 1 Associate (Coordination) PostsNLUD Associate (Coordination) Vacancy 2026",
+        "title": "Associate (Coordination)",
+        "qualification": "MBA/Law Degree with a minimum of 55% aggregate marks. Relevant experience of minimum 5 years in administration, management support, secretarial work and/or project coordination roles in government or academic institutions, preferably in universities/higher education institutions. Advanced knowledge of MS Office: Word, Excel and PowerPoint.",
+        "last_date": "26-10-2026",
+        "total_posts": "Not Available",
+        "salary": "The selected candidates will receive monthly remuneration as per applicable norms with TDS @10% deducted. No additional benefits or perks shall be provided.",
+        "age_limit": "The candidate's age should preferably not exceed 50 years as on the closing date of application.",
+        "application_fee": "The application fee is non-refundable and must be paid online.",
+        "selection_process": "The selection process consists of an application review with relevant enclosures followed by an interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nludelhi.ac.in/",
+        "official_notification": "https://nludelhi.ac.in/wp-content/uploads/2026/10/Admin-Post-AssociateCoordination.pdf"
+    },
+    {
+        "date": "10/10/2026",
+        "board": "NLUD Vacancy 2026 - 2 Associate (Administration) PostsNLUD Associate (Administration) Vacancy 2026",
+        "title": "Associate (Administration)",
+        "qualification": "Post Graduate Degree in any discipline with a minimum of 55% aggregate marks. Preference will be given to candidates having Public Administration/Law/HR. Minimum 05 years’ work experience in administration, support to the management, and/or project coordination roles in government or academic institutions preferably in University/Government Offices/Higher Education Institutes etc. Advanced knowledge of the Office suite, including Word, Excel and Power Point. Typing Speed: 40 w.p.m.",
+        "last_date": "26-10-2026",
+        "total_posts": "Not Available",
+        "salary": "TDS @10% shall be deducted from the monthly remuneration as applicable under law.",
+        "age_limit": "Preferably not exceeding 50 years as on the closing date of application.",
+        "application_fee": "The non-refundable application fee is to be paid online.",
+        "selection_process": "The selection process consists of an application review with relevant enclosures followed by an interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nludelhi.ac.in/",
+        "official_notification": "https://nludelhi.ac.in/wp-content/uploads/2026/10/Admin-Post-AssociateAdministration.pdf"
+    },
+    {
+        "date": "10/10/2026",
+        "board": "GGSIPU Vacancy 2026 - 18 Veterinary Officer, Assistant Section Officer and More PostsGGSIPU Vacancy 2026",
+        "title": "Chief Training & Placement Officer, Deputy Controller of Finance, Training & Placement Officer, Veterinary Officer, Assistant Warden, Assistant Section Officer",
+        "qualification": "Master of Business Administration (MBA) or equivalent postgraduate management qualification from a recognized University or Institution with minimum 55% marks AND Bachelor’s Degree (B.E./B.Tech) in any branch of engineering. Minimum 10 years experience in relevant fields with at least 5 years in a senior leadership position.",
+        "last_date": "30-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Pay Level 12 (as per 7th CPC) / Pre-revised PB-3 of Rs. 15600-39100 with GP of Rs. 7600",
+        "age_limit": "Age Limit / Rule",
+        "application_fee": "The notification does not mention any application fee (No fee applicable).",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ipu.ac.in",
+        "official_notification": "https://www.ipu.ac.in/Pubinfo2026/nt091026300%20(2).pdf"
+    },
+    {
+        "date": "10/10/2026",
+        "board": "DERC Vacancy 2026 - 16 LDC, Clerk cum Computer Operator and More PostsDERC Vacancy 2026",
+        "title": "Advisor (Finance), Junior Law Officer, Private Secretary, Personal Assistant, Steno-cum-Computer Operator, Clerk-cum-Computer Operator, Lower Division Clerk",
+        "qualification": "MBA in Finance OR Chartered Accountant or Certified Cost Accountant preferably with Engineering Degree from a premier, reputed & recognized institution/university. Plus required regular service experience in specified pay levels.",
+        "last_date": "10-11-2026",
+        "total_posts": "Notice for Vacancy (Finance, Law and Other Opportunities)",
+        "salary": "Other facilities and reimbursements provided as per entitlement include Medical Allowance/Facility, Telephone Facility, Internet facility, Newspaper and periodicals, and Children Education Allowance.",
+        "age_limit": "The maximum age limit for Deputationist shall not exceed 56 years on the last date of submission of application. The maximum age limit for Contract employees shall not exceed 54 years on the last date of submission of application.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.derc.gov.in",
+        "official_notification": "https://www.derc.gov.in/app/uploads/pdf/1/general_instructions/DERC_Advertisement1.pdf"
+    },
+    {
         "date": "09/10/2026",
         "board": "DPCC Vacancy 2026 - 59 Legal Assistant, Scientific Assistant and More PostsDPCC Vacancy 2026",
         "title": "Legal Assistant, Scientific Assistant and More",
@@ -705,22 +785,6 @@
     },
     {
         "date": "08/10/2026",
-        "board": "GeM Vacancy 2026 - 1 Senior Manager PostsGeM Senior Manager Vacancy 2026",
-        "title": "Senior Manager – Vendor Validation",
-        "qualification": "Essential: Bachelor’s degree in Science / Engineering / Technology / Management / Economics / Commerce / Law from a recognized institution.Desirable: MBA/PGDM in Operations, Marketing, Business Analytics, Strategy. Additional qualifications/certifications in Procurement, Product Management, Quality Management, Data Analytics, Six Sigma, Project Management. Qualified Chartered Accountant (CA) or Company Secretary (CS). Experience in Corporate Law / Company Law / Corporate Governance.",
-        "last_date": "09-10-2026",
-        "total_posts": "View the official vacancy circular and recruitment notice",
-        "salary": "The notification does not mention any additional allowances, benefits, or in-hand salary calculations.",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://gem.gov.in/",
-        "official_notification": "https://assets-bg.gem.gov.in/resources/upload/shared_doc/jd-senior-manager-vendor-validation-1_1791434979.pdf"
-    },
-    {
-        "date": "08/10/2026",
         "board": "ICSIL Vacancy 2026 - 4 IT Assistant PostsICSIL IT Assistant Vacancy 2026",
         "title": "I.T. Assistant",
         "qualification": "Candidates must also possess 5 years of experience in any Government Organization / PSU / Deptt.",
@@ -730,7 +794,7 @@
         "age_limit": "The maximum age limit is Not more than 37 Years as on the date of walk-in.",
         "application_fee": "The One Time Registration (OTR) fee of Rs. 590/- must be paid online on the ICSIL website before attending the walk-in interview.",
         "selection_process": "The selection process includes scrutiny of documents (age, qualification, experience, etc.) as per prescribed criteria, followed by interaction or interview of the candidate with the department. The selection may also include a personal interview/skill test or written test depending on the position.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://icsil.in/",
         "official_notification": "https://icsil.in/sites/default/files/2026-10/DTTDC%20IT%20ASSISTANTS%20%20October%20%20%202026%20walk%20in%20advt.pdf"
@@ -830,22 +894,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.mohfw.gov.in/",
         "official_notification": "https://www.mohfw-dohfw.gov.in/static/uploads/2026/10/f68514b62a5d3190e7e68368a24ed2d0.pdf"
-    },
-    {
-        "date": "08/10/2026",
-        "board": "LBS Hospital Vacancy 2026 - 2 Senior Resident PostsLBS Hospital Senior Resident Vacancy 2026",
-        "title": "Senior Resident (Obs & Gynae)",
-        "qualification": "MBBS with Post Graduate Degree/DNB/Diploma or Post-Doctoral Degree (or equivalent) in the concerned specialty from an NMC/MCI recognized University/Institute and must possess DMC registration for the concerned specialty/super specialty. The tenure of the PG Degree/DNB/Diploma or post Doctoral Degree or equivalent should be completed as well as the result should be declared before the date of interview. If candidates with MBBS with Post Graduate Degree/DNB/Diploma or Post-Doctoral Degree or equivalent are not available then candidate with MBBS degree with 2 (Two) Years experience in the same specialty can be considered.",
-        "last_date": "09-10-2026",
-        "total_posts": "Vacancy",
-        "salary": "Other admissible allowances per month as per 7th CPC.",
-        "age_limit": "Not exceeding 45 years of age, as on the date of advertisement.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://health.delhi.gov.in",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wlbs_33.pdf"
     },
     {
         "date": "08/10/2026",
@@ -1021,7 +1069,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
+        "official_notification": "apssb-recruitment-2026-apply-online-for-217-constable-driver-driver-pharmacist-and-more-posts-3072472"
     },
     {
         "date": "05/10/2026",
@@ -1037,7 +1085,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
+        "official_notification": "opsc-aee-recruitment-2026-apply-online-for-758-posts-3072480"
     },
     {
         "date": "22/09/2026",
@@ -1053,7 +1101,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
+        "official_notification": "opsc-aee-recruitment-2026-apply-online-for-758-posts-3072480"
     },
     {
         "date": "01/10/2026",
@@ -1069,7 +1117,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
+        "official_notification": "ksrtc-swift-recruitment-2026-apply-online-for-1040-driver-conductor-and-more-posts-3072476"
     },
     {
         "date": "07/10/2026",
@@ -1518,38 +1566,6 @@
         "syllabus": "Not Available",
         "official_website": "https://health.delhi.gov.in/",
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wmvh_27.pdf"
-    },
-    {
-        "date": "06/10/2026",
-        "board": "GGSGH Vacancy 2026 - 2 Junior Resident PostsGGSGH Junior Resident Vacancy 2026",
-        "title": "Junior Resident (BDS)",
-        "qualification": "BDS degree with registration from Dental Council and completed internship.",
-        "last_date": "09-10-2026",
-        "total_posts": "2",
-        "salary": "Junior Resident (BDS):As per rules",
-        "age_limit": "Junior Resident (BDS):Maximum age is 30 years.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Written test for eligible registered candidates || Shortlisting of candidates numbering 5 times approx of vacancies based on written test marks || Final interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://health.delhi.gov.in/",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wggsgj_6.pdf"
-    },
-    {
-        "date": "06/10/2026",
-        "board": "ANH Vacancy 2026 - 2 Senior Resident PostsANH Senior Resident Vacancy 2026",
-        "title": "Senior Resident",
-        "qualification": "MBBS with PG Degree/Diploma or equivalent in concerned specialty, Registered with Delhi Medical Council",
-        "last_date": "09-10-2026",
-        "total_posts": "2",
-        "salary": "Rs. 67700 Per Month",
-        "age_limit": "All Posts: Please refer to the official notification for age limit details.",
-        "application_fee": "Nil",
-        "selection_process": "Walk-in Interview || Document Verification",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://anh.delhi.gov.in",
-        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wanh_48.pdf"
     },
     {
         "date": "05/10/2026",
@@ -2048,22 +2064,6 @@
         "official_notification": "https://wdra.gov.in/documents/d/wdra/consl_legal_advertisement_28_sep_2026"
     },
     {
-        "date": "30/09/2026",
-        "board": "MCD Vacancy 2026 - 3 Senior Resident PostsMCD Senior Resident Vacancy 2026",
-        "title": "Senior Resident",
-        "qualification": "MBBS with PG Degree/DNB/Diploma in concerned Specialty",
-        "last_date": "09-10-2026",
-        "total_posts": "3",
-        "salary": "Pay Matrix Level-11 + Usual Allowances",
-        "age_limit": "Senior Resident: Maximum age limit is 45 years. Age relaxation is applicable as follows: SC/ST: 5 years, OBC: 3 years, PwD: 10 years.",
-        "application_fee": "Rs. 1000/-",
-        "selection_process": "Walk-in Interview || Document verification",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://mcdonline.gov.in",
-        "official_notification": "https://mcdonline.nic.in/portal/downloadFile/walk-in-interview_for_the_post_of_senior_resident_on_against_regular_post_at_glmh_260928015015915.pdf"
-    },
-    {
         "date": "29/09/2026",
         "board": "Ministry of Culture Vacancy 2026 - 20 Intern PostsMinistry of Culture Intern Vacancy 2026",
         "title": "Intern",
@@ -2209,38 +2209,6 @@
     },
     {
         "date": "28/09/2026",
-        "board": "IIT Delhi Vacancy 2026 - 2 Jr Project Assistant, Sr Project Assistant PostsIIT Delhi Vacancy 2026",
-        "title": "Jr Project Assistant , Sr Project Assistant (Admin)",
-        "qualification": "Master's Degree with more than 50% marks and 11 years experience or Graduate Degree/Diploma with 8 years experience.",
-        "last_date": "09-10-2026",
-        "total_posts": "2",
-        "salary": "Rs. 47,790 - 62,350/- p.m. Plus HRA @30%",
-        "age_limit": "The official notification does not specify a minimum or maximum age limit for these positions.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Short-listing of eligible candidates || Online interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "http://ird.iitd.ac.in/rec",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1790226601508_3zgw0j8.pdf"
-    },
-    {
-        "date": "28/09/2026",
-        "board": "IIT Delhi Vacancy 2026 - 2 Programme Officer, Executive PostsIIT Delhi Vacancy 2026",
-        "title": "Programme Officer, Executive",
-        "qualification": "Masters with excellent performance or PhD in relevant field",
-        "last_date": "09-10-2026",
-        "total_posts": "2",
-        "salary": "Rs. 52,000/- to Rs. 60,000/- p.m. consolidated",
-        "age_limit": "All Posts: No specific age limit has been mentioned in the official notification.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Short-listing of eligible candidates || Online interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "http://ird.iitd.ac.in",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1790580589842_ib83p8t.pdf"
-    },
-    {
-        "date": "28/09/2026",
         "board": "AAI Vacancy 2026 - 1 Quality Manager/ Compliance Monitoring Manager PostsAAI Quality Manager/ Compliance Monitoring Manager Vacancy 2026",
         "title": "Quality Manager/Compliance Monitoring Manager",
         "qualification": "An engineering degree from aeronautical, mechanical, electrical, electronic, avionic or an aircraft maintenance technician, or Studies relevant to the maintenance and continuing airworthiness of aircraft/aircraft components",
@@ -2254,22 +2222,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aai.aero/",
         "official_notification": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Advertisement%20NSOP%20FIU%20AAI%202026-QM%28CMM%29.pdf"
-    },
-    {
-        "date": "28/09/2026",
-        "board": "IIT Delhi Vacancy 2026 - 1 Junior Research Fellow PostsIIT Delhi Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow",
-        "qualification": "BS/ MS/ M.Sc/ BE/ B.Tech or equivalent degree.",
-        "last_date": "09-10-2026",
-        "total_posts": "1",
-        "salary": "Junior Research Fellow:As per CSIR Guidelines",
-        "age_limit": "Junior Research Fellow:Maximum Age: 28 Years. Age relaxation: Up to 5 years for SC/ ST/ OBC/ Women/ Physically handicapped. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://ird.iitd.ac.in/",
-        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1790316531094_bx1uw28.pdf"
     },
     {
         "date": "28/09/2026",
@@ -2589,7 +2541,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
+        "official_notification": "opsc-aee-recruitment-2026-apply-online-for-758-posts-3072480"
     },
     {
         "date": "26/09/2026",
@@ -2688,22 +2640,6 @@
         "official_notification": "https://www.pmbi.co.in/vacancies/HR_Advt_No_022026_03092026.pdf"
     },
     {
-        "date": "22/09/2026",
-        "board": "Maitreyi College Vacancy 2026 - 52 Lab Assistant, Junior Assistant and More PostsMaitreyi College Vacancy 2026",
-        "title": "Administrative Officer, Senior Assistant, Junior Assistant, Library Attendant, Laboratory Assistant, Laboratory Attendant",
-        "qualification": "Bachelor's degree with minimum 2 years' working and maintenance experience of sophisticated scientific instruments in a laboratory, in the relevant subject as decided by the University for the concerned Department; experience in University/Research establishment/Central/State Govt./PSU/Autonomous Body or a private organisation of repute with annual turnover of at least ₹200 crore",
-        "last_date": "09-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Level 10",
-        "age_limit": "As per Central Government orders adopted by the University, for SC/ST/OBC (Central List)/PwD/Ex-servicemen and other specified categories || Up to a maximum of 5 years (or completed years of service, whichever is less) for candidates with at least 3 years' regular service in the same/allied field under Government Departments, Statutory/Autonomous Bodies, Universities, or affiliated/constituent colleges/PSUs || Upper age limit not insisted upon for departmental candidates of the University/colleges; a one-time exemption is available to those already working on contract/daily wages/ad-hoc basis in the University or its Colleges, with at least 1 year of service || Age is determined as on the closing date of the advertisement; documents for age relaxation must be submitted at the time of written examination/interview/skill test/document verification, even if submitted earlier || SC/ST/OBC(NCL)/PWD candidates who opt for unreserved vacancies are not eligible for age relaxation or relaxation in cut-off marks otherwise allowed to their category",
-        "application_fee": "₹1000",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Stage Syllabus in Brief Marks",
-        "official_website": "Not Available",
-        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
-    },
-    {
         "date": "24/09/2026",
         "board": "IGNOU Vacancy 2026 - 14 Technical Assistant, Technical Manager and More PostsIGNOU Vacancy 2026",
         "title": "Assistant Director, Technical Manager, Technical Assistant",
@@ -2733,7 +2669,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
+        "official_notification": "Not Available"
     },
     {
         "date": "23/09/2026",
@@ -2765,7 +2701,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
+        "official_notification": "opsc-aee-recruitment-2026-apply-online-for-758-posts-3072480"
     },
     {
         "date": "15/09/2026",
@@ -2797,7 +2733,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://presscouncil.nic.in/",
-        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/09/2026",
@@ -2861,7 +2797,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "dpcc-recruitment-2026-apply-offline-for-59-legal-assistant-scientific-assistant-more-posts-3072454"
+        "official_notification": "opsc-aee-recruitment-2026-apply-online-for-758-posts-3072480"
     },
     {
         "date": "21/09/2026",
@@ -2910,22 +2846,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.joinindiannavy.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/09/125478-6ab0c03645b9378505847.pdf"
-    },
-    {
-        "date": "21/09/2026",
-        "board": "GLMH MCD Vacancy 2026 - 4 Senior Resident PostsGLMH MCD Senior Resident Vacancy 2026",
-        "title": "Senior Resident",
-        "qualification": "MBBS Degree from MCI/NMC recognized University/Institution. PG Degree/DNB/Diploma or equivalent in concerned Specialty from a recognized University/Institution registered with Medical Council.",
-        "last_date": "09-10-2026",
-        "total_posts": "4",
-        "salary": "As per prevailing MCD norms/rules",
-        "age_limit": "Maximum Age Limit: 45 years || Age Relaxation: SC/ST/OBC/PwD - As per rules.",
-        "application_fee": "Rs. 1,000/-",
-        "selection_process": "Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://mcdonline.nic.in/",
-        "official_notification": "https://mcdonline.nic.in/portal/downloadFile/walk-in-interview_for_the_post_of_01_senior_resident_(pediatrics)_and_03_senior_residents_(anesthesia)_on_against_regular_post_at_glmh_26092112150090.pdf"
     },
     {
         "date": "21/09/2026",
@@ -3070,38 +2990,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.gailonline.com",
         "official_notification": "https://img2.freejobalert.com/news/2026/09/120365-6aa390da4cfc614179657.pdf"
-    },
-    {
-        "date": "11/09/2026",
-        "board": "Central Silk Board Vacancy 2026 - 17 Assistant Engineer, Joint Secretary and More PostsCentral Silk Board Vacancy 2026",
-        "title": "Various Posts on Deputation",
-        "qualification": "Bachelor's degree, Master's degree in Statistics, CA/Cost Accountant/CS/MBA, II Class B.E. Civil",
-        "last_date": "09-10-2026",
-        "total_posts": "17",
-        "salary": "Assistant Engineer: Level-06 (Rs. 35400-112400) Per Month || Assistant Director (Admn. & Accts.): Level-10 (Rs. 56100-177500) Per Month || Assistant Director (Statistics): Level-10 (Rs. 56100-177500) Per Month || Deputy Director (Technical): Level-12 (Rs. 78800-209200) Per Month || Deputy Director (Admn. & Accts.): Level-11 (Rs. 67700-208700) Per Month || Deputy Director (Statistics): Level-11 (Rs. 67700-208700) Per Month || Deputy Director (Official Language): Level-11 (Rs. 67700-208700) Per Month || Deputy Director (Finance): Level-11 (Rs. 67700-208700) Per Month",
-        "age_limit": "Maximum Age Limit: 56 years for all posts. || Age relaxation rules will be as per government norms. || Candidates should ensure that they fulfill the prescribed age criteria. Calculate your exact age using our Age Calculator before submitting your application to confirm your eligibility.",
-        "application_fee": "Not Available",
-        "selection_process": "Application Screening || Personal Discussion",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://csb.gov.in",
-        "official_notification": "https://csb.gov.in/sites/default/files/what_s_new/files/Deputation%20advt.%20CSB_01_2026.pdf"
-    },
-    {
-        "date": "11/09/2026",
-        "board": "NCRTC Vacancy 2026 - 90 Supervisor-I and Junior Maintainer PostsNCRTC Vacancy 2026",
-        "title": "Post Name",
-        "qualification": "3 Years Diploma in Computer Science/IT or BCA/B.Sc. (IT) or B.E./B.Tech (CS/IT/Electronics) or MCA or equivalent (Full Time)",
-        "last_date": "09-10-2026",
-        "total_posts": "No. 33/2026 (Supervisors & Non-Supervisors, Contract basis) and No. 32/2026 (Operations & Maintenance Staff, Direct Recruitment basis)",
-        "salary": "In addition to Basic Pay, selected candidates will receive Variable Dearness Allowance (VDA), House Rent Allowance (HRA), and Perks and Allowances under the Cafeteria Approach, plus other benefits as per extant Company Rules.",
-        "age_limit": "The maximum age limit for all posts under both notices is 28 years , as on 10.09.2026. || Cumulative relaxation for candidates falling under more than one category is admissible. However, the maximum upper age of any candidate shall not exceed 50 years, including all possible age relaxations. Ex-servicemen relaxation is also capped at a maximum age of 50 years. NCRTC employees who have completed one year of service as on the date of the notice get age relaxation to the extent of completed years of service, plus relaxation in the Full-Time qualification requirement. || Candidates from SC/ST/OBC/EWS/PwBD categories who apply against unreserved posts will not get the benefit of age relaxation or relaxed qualifying marks at any stage of the process. || To avoid any confusion regarding age eligibility, candidates can use our Age Calculator to calculate their exact age based on the prescribed cut-off date before applying.",
-        "application_fee": "UR, OBC (NCL), EWS and Ex-Servicemen category candidates: ₹500 (non-refundable), exclusive of transaction processing charges and GST. || SC, ST and PwBD category candidates: No fee. || Fee once paid, including transaction charges and GST, is non-refundable under any circumstances. || Candidates applying for more than one post must pay the application fee separately for each post. || Payment modes: Credit Card, Debit Card, or Net Banking.",
-        "selection_process": "Selection under both notices follows a Computer Based Test (CBT) followed by a Medical Fitness Test. || The CBT will have 100 questions for 100 marks; each correct answer carries 1 mark, and there is no negative marking for wrong answers. || Duration of the CBT is 90 minutes, available in Hindi or English (candidate's choice). || Minimum qualifying percentage: 60% for UR/OBC (NCL)/EWS; 50% for SC/ST/PwBD/Ex-Servicemen. Final selection is on merit basis beyond the qualifying marks. || Candidates give a preference of 5 cities for their Test Centre; no change is permitted later. Test Centre options include Delhi-NCR, Lucknow, Ahmedabad, Bhopal, Mumbai, Kolkata, Bhubaneswar, Hyderabad, Bengaluru, Chennai, Kanpur, Agra, Vadodara, Indore, Thane, Pune, Guwahati, Raipur (Chhattisgarh), Cuttack, Harohalli, Jaipur, and Patiala. || Candidates applying for multiple posts should note that CBTs for different posts may clash in date/time - a candidate can appear in the CBT for one post only in such cases.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ncrtc.in",
-        "official_notification": "https://ncrtc.in/wp-content/uploads/2026/09/322026VacancyNoticeforOnM.pdf"
     },
     {
         "date": "08/09/2026",
