@@ -186,7 +186,7 @@
         "age_limit": "Age Limit",
         "application_fee": "Rs. 800/-",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://vidyasagar.ac.in/",
         "official_notification": "https://vidyasagar.ac.in/api/website/ViewNoticeFileByRef?fileRefId=2026100115554"
@@ -605,7 +605,7 @@
         "apply_mode": "Email to [email protected]",
         "syllabus": "Not Available",
         "official_website": "https://www.indiarowing.com/",
-        "official_notification": "/cdn-cgi/l/email-protection#88f8faedfbe1ecede6fcfae7ffe1e6efc8efe5e9e1e4a6ebe7e5"
+        "official_notification": "/cdn-cgi/l/email-protection#26565443554f424348525449514f484166414b474f4a0845494b"
     },
     {
         "date": "06/10/2026",
@@ -798,22 +798,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.isical.ac.in/",
         "official_notification": "https://www.isical.ac.in/public/jobs_view?id=76"
-    },
-    {
-        "date": "30/09/2026",
-        "board": "IIEST Shibpur Vacancy 2026 - 2 Project Associate - I PostsIIEST Shibpur Project Associate - I Vacancy 2026",
-        "title": "Project Associate - I",
-        "qualification": "BTech/BSc/MSc in IT/CST/ETC or equivalent with good academic performance.",
-        "last_date": "10-10-2026",
-        "total_posts": "2",
-        "salary": "Project Associate - I:Rs. 30,500/- per month (consolidated)",
-        "age_limit": "Project Associate - I:Maximum age is 32 years.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Apply through Google Form and send soft copies of documents via email || Walk-in interview and verification of physical documents",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iiests.ac.in",
-        "official_notification": "https://data.iiests.ac.in/uploads/announcements/files/1790682807_Website%20Copy,%20Indrajit%20Banerjee,%20IT,%2024.09.2026.pdf"
     },
     {
         "date": "30/09/2026",

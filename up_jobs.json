@@ -1,6 +1,38 @@
 [
     {
         "date": "10/10/2026",
+        "board": "Territorial Army Vacancy 2026 - 74 Soldier, Junior Commissioned Officer and More PostsTerritorial Army Vacancy 2026",
+        "title": "Post Name",
+        "qualification": "74 Posts",
+        "last_date": "21-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://img2.freejobalert.com/news/2026/10/54514649987-6ac9bf8db044482778431.pdf"
+    },
+    {
+        "date": "10/10/2026",
+        "board": "Indian Coast Guard Vacancy 2026 - 3 Chargeman PostsIndian Coast Guard Chargeman Vacancy 2026",
+        "title": "Chargeman",
+        "qualification": "Diploma in Mechanical or Electrical or Marine or Electronics Engineering or Production Engineering",
+        "last_date": "24-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Level -6",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process comprises Scrutiny of applications, Document Verification, and Written Examination. || Written Examination: All shortlisted candidates will undergo a written examination on the basis of educational qualification prescribed for the post. The written examination will be pen-paper based and bilingual, consisting of 80 objective type questions with one mark for each correct answer and no negative marking. The subjects are Mathematics (20 questions, 20 marks), Science (20 questions, 20 marks), General Awareness (15 questions, 15 marks), English (15 questions, 15 marks), and Mental Ability/Reasoning (10 questions, 10 marks), with a duration of 01 Hour.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://indiancoastguard.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/10/5656655-6ac9bf8db044475689564.pdf"
+    },
+    {
+        "date": "10/10/2026",
         "board": "Lucknow University Vacancy 2026 - 3 Subject Expert PostsLucknow University Subject Expert Vacancy 2026",
         "title": "Subject Expert in Sociology",
         "qualification": "P.G in Sociology with UGC/ NET/ Ph.D. or as per University Norms.",
@@ -10,7 +42,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://lkouniv.ac.in/",
         "official_notification": "https://lkouniv.ac.in/site/writereaddata/siteContent/202610091813082920Department-sociology_091026.pdf"
@@ -253,7 +285,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "apssb-recruitment-2026-apply-online-for-217-constable-driver-driver-pharmacist-and-more-posts-3072472"
+        "official_notification": "Not Available"
     },
     {
         "date": "07/10/2026",
