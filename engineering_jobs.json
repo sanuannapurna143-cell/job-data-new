@@ -1,6 +1,22 @@
 [
     {
         "date": "12/10/2026",
+        "board": "BEL",
+        "title": "Graduate, Diploma and ITI Apprentice     – 29 Posts",
+        "qualification": "Certificate of completion issued by National Council for Vocational Training / State Council Vocational Training. Upper age limit: 21 years as on 01.10.2026.",
+        "last_date": "23-10-2026",
+        "total_posts": "29",
+        "salary": "Rs. 17,500",
+        "age_limit": "3",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bel-india.in",
+        "official_notification": "https://bel-india.in/wp-content/uploads/2026/10/Advertisement_App_final.pdf"
+    },
+    {
+        "date": "12/10/2026",
         "board": "CDAC",
         "title": "Project Associate, Project Engineer and More     – 844 Posts",
         "qualification": "For all posts, candidates should have qualified from an AICTE/UGC-approved college/institute or recognized university. || Where a university follows CGPA/DGPA/OGPA or letter grades, the candidate must submit proof of the percentage equivalent and awarded class, along with the degree certificate. || Candidates in their final semester, who will complete the course before appointment, may also apply; if selected, joining is contingent on passing with the required minimum score.",
@@ -13,7 +29,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "dsssb-delhi-district-courts-recruitment-2026-notification-out-apply-online-for-641-posts-3070579"
+        "official_notification": "Not Available"
     },
     {
         "date": "07/10/2026",
@@ -62,21 +78,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.lpsc.gov.in",
         "official_notification": "https://www.lpsc.gov.in/docs/03-2026%20-%20Detailed%20Bilingual.pdf"
-    },
-    {
-        "date": "26/09/2026",
-        "board": "EIL",
-        "title": "Associate Engineer Grade I",
-        "qualification": "BE/B.Tech/B.Sc. (Engg.) in Mechanical, Metallurgical, or Electrical Engineering",
-        "last_date": "12-10-2026",
-        "total_posts": "20",
-        "salary": "Rs. 57600 - 64000 per month",
-        "age_limit": "Associate Engineer Grade I:Maximum Age: 32 years. || Age Relaxation:SC/ST: 5 years, OBC: 3 years, PwD-General/EWS: 10 years, PwD-OBC(NCL): 13 years, PwD-SC/ST: 15 years, Persons with disabilities: 10 years.",
-        "application_fee": "Not Available",
-        "selection_process": "Screening of applications and certificates || Personal Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.engineersindia.com",
-        "official_notification": "https://recruitment.eil.co.in/hrdnew/others/77.pdf"
     }
 ]

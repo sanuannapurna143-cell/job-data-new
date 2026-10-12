@@ -1,6 +1,22 @@
 [
     {
         "date": "12/10/2026",
+        "board": "Mormugao Port Authority Vacancy 2026 - 1 Chief Engineer PostsMormugao Port Authority Chief Engineer Vacancy 2026",
+        "title": "Chief Engineer (Category-II ports)",
+        "qualification": "1 Posts",
+        "last_date": "12-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 1,00,000-2,60,000 (Revised)",
+        "age_limit": "45 years",
+        "application_fee": "Not stated in the notice",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://mormugaoport.gov.in/",
+        "official_notification": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/657"
+    },
+    {
+        "date": "12/10/2026",
         "board": "GTDC Vacancy 2026 - 1 Manager (Marketing) PostsGTDC Manager (Marketing) Vacancy 2026",
         "title": "Manager (Marketing)",
         "qualification": "Degree in any faculty and Full time PGDM/MBA in Marketing with experience",
@@ -238,21 +254,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ghb.goa.gov.in",
         "official_notification": "https://ghb.goa.gov.in/notices/wp-content/uploads/2026/09/Advertisement-GHB-1606-2026.pdf"
-    },
-    {
-        "date": "28/09/2026",
-        "board": "GRB Vacancy 2026 - 13 MTS, LDC, Draughtsman and More PostsGRB Vacancy 2026",
-        "title": "MTS, LDC, Draughtsman and More",
-        "qualification": "Degree in Architecture, Degree/Diploma in Civil/Electrical Engineering, S.S.C., ITI, H.S.S.C.",
-        "last_date": "12-10-2026",
-        "total_posts": "13",
-        "salary": "Level-1 to Level-7",
-        "age_limit": "All Posts:Maximum age limit is 45 years. || Age Relaxation:Age relaxation is applicable for Government servants and for candidates belonging to reserved categories in accordance with official instructions. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Written Examination || Computer Test",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.goa.gov.in",
-        "official_notification": "https://www.goa.gov.in/wp-content/uploads/2026/09/rehabilitation-board.pdf"
     }
 ]
