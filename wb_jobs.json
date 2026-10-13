@@ -1,6 +1,54 @@
 [
     {
         "date": "13/10/2026",
+        "board": "CSIR-CGCRI Vacancy 2026 - 1 Project Associate I PostsCSIR-CGCRI Project Associate I Vacancy 2026",
+        "title": "Project Associate - I (PAT - I)",
+        "qualification": "Experience on materials synthesis or manufacturing and physical / chemical / biological testing of materials will be given preference.",
+        "last_date": "03-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "35 Years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cgcri.res.in/",
+        "official_notification": "https://www.cgcri.res.in/wp-content/uploads/2026/career/58%20(2).pdf"
+    },
+    {
+        "date": "13/10/2026",
+        "board": "CSIR CGCRI Vacancy 2026 - 1 Project Assistant II PostsCSIR CGCRI Project Assistant II Vacancy 2026",
+        "title": "Project Assistant - II",
+        "qualification": "1 Posts",
+        "last_date": "01-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "35 Years",
+        "application_fee": "Not stated in the notice",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cgcri.res.in/",
+        "official_notification": "https://www.cgcri.res.in/wp-content/uploads/2026/career/56%20(2).pdf"
+    },
+    {
+        "date": "13/10/2026",
+        "board": "GRSE Vacancy 2026 - 1 Chairman & Managing Director PostsGRSE Chairman & Managing Director Vacancy 2026",
+        "title": "Chairman & Managing Director",
+        "qualification": "Engineering Graduate or Chartered Accountant or Cost Accountant or Post Graduate or Graduate with MBA/ PGDIM from a recognized institute.",
+        "last_date": "02-11-2026",
+        "total_posts": "45 years",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Candidates will be shortlisted for interview by the Board, keeping in view the extant guidelines issued from time to time.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://pesb.gov.in/",
+        "official_notification": "https://grse.in/career/PDFs/Selection%20of%20the%20post%20of%20Chairman%20&%20Managing%20Director,%20Garden%20Reach%20Shipbuilders%20&%20Engineers%20Limited.pdf"
+    },
+    {
+        "date": "13/10/2026",
         "board": "IIT Kharagpur Vacancy 2026 - 6 Junior Research Fellow PostsIIT Kharagpur Junior Research Fellow Vacancy 2026",
         "title": "Junior Research Fellow [JRF] - Research",
         "qualification": "Post Graduate Degree in Basic Science OR Graduate / Post Graduate Degree in Professional Course selected through a process described through any one of the following: a) Scholars who are selected through National Eligibility Tests - CSIR-UGC NET including lectureship (Assistant Professorship) and GATE. b) The selection process through National level examinations conducted by Central Government Departments and their Agencies and Institutions such as DST, DBT, DAE, DOS, DRDO, MoE, ICAR, ICMR, IIT, IISc, IISER, NISER etc.",
@@ -314,7 +362,7 @@
         "age_limit": "The upper age limit for direct recruitment is 35 years. Crucial date for determining eligibility is the last date of submission of application, i.e., 30 October 2026.",
         "application_fee": "The notification does not mention any application fee.",
         "selection_process": "The selection process is based on deputation / absorption from amongst eligible officers from Major Port Authorities, satisfying the provisions of the Recruitment Rules, along with verification of ACRs/APARs and required certificates.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://smportkolkata.shipping.gov.in",
         "official_notification": "https://smportkolkata.shipping.gov.in"
@@ -330,7 +378,7 @@
         "age_limit": "The upper age limit for the fellowship is 40 years on the date of submission of application.",
         "application_fee": "The application fee is non-refundable and should be paid before submitting the application form through online transfer in the bank account of IIIT Kalyani. The reference number of the bank transaction must be mentioned in the specified section of the application form.",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://iiitkalyani.ac.in",
         "official_notification": "https://iiitkalyani.ac.in"
@@ -497,22 +545,6 @@
     },
     {
         "date": "08/10/2026",
-        "board": "IIEST Shibpur Vacancy 2026 - 1 Junior Research Fellow PostsIIEST Shibpur Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow",
-        "qualification": "M.Sc. in Physics, or allied discipline from a recognized University/Institute with minimum 60% marks or 6.5 CGPA on a 10-point scale. For SC/ST/Person with Disability (PwD) category, a minimum 55% marks or 6.0 CGPA on 10-point scale. The candidate must have qualified GATE/NET.",
-        "last_date": "13-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Year 1-2: Rs. 37,000/- per monthYear 3: Rs. 42,000/- per month",
-        "age_limit": "The maximum age limit is 32 years .",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iiests.ac.in/",
-        "official_notification": "https://data.iiests.ac.in/uploads/announcements/files/1790682884_Website%20Copy,%20Debasis%20Sadhukhan,%2029.09.2026.pdf"
-    },
-    {
-        "date": "08/10/2026",
         "board": "IIT Kharagpur Vacancy 2026 - 1 Research Associate PostsIIT Kharagpur Research Associate Vacancy 2026",
         "title": "Research Associate (RA) - Research",
         "qualification": "Ph.D./MD/MS/MDS or equivalent degree or having 3 years of research, teaching and design and development experience after MVSc/M.Pharm/ME/M.Tech with at least one research paper in Science Citation Indexed (SCI) journal.",
@@ -605,7 +637,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "sahitya-akademi-recruitment-2026-apply-online-for-30-clerk-mts-and-more-posts-3063652"
     },
     {
         "date": "07/10/2026",
@@ -654,22 +686,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iitkgp.ac.in/",
         "official_notification": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/DQC/2026/102"
-    },
-    {
-        "date": "07/10/2026",
-        "board": "ESIC Medical College Kolkata Vacancy 2026 - 24 Professor, Associate Professor, Assistant Professor PostsESIC Medical College Kolkata Vacancy 2026",
-        "title": "Professor, Associate Professor, Assistant Professor",
-        "qualification": "The academic qualification, teaching, and research experience will be as per the latest guidelines of NMC vide Gazette notification no. CG-DL-E-05072025-264399 dated 30.06.2025 (Table C & Table D).",
-        "last_date": "13-10-2026",
-        "total_posts": "Not Available",
-        "salary": "In addition to the consolidated remuneration, Super Specialty Teaching Faculty will be entitled to transport allowance with DA on transport allowance as per rules. Consolidated remuneration is subject to revision matching DA rate changes as per Govt of India orders. No other allowances will be paid.",
-        "age_limit": "The age limit of candidates should not exceed 69 years on the date of document verification and interview.",
-        "application_fee": "Mode of payment: A Demand Draft of Rs. 500/- in favour of \"ESI Fund Account No. 1\", drawn on any scheduled bank payable at 'Kolkata' must be submitted along with the Application Form. Fee once paid will not be refunded under any circumstances.",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://esic.gov.in",
-        "official_notification": "https://esic.gov.in"
     },
     {
         "date": "07/10/2026",
@@ -797,7 +813,7 @@
         "apply_mode": "Email to [email protected]",
         "syllabus": "Not Available",
         "official_website": "https://www.indiarowing.com/",
-        "official_notification": "/cdn-cgi/l/email-protection#8efefcebfde7eaebe0fafce1f9e7e0e9cee9e3efe7e2a0ede1e3"
+        "official_notification": "/cdn-cgi/l/email-protection#cabab8afb9a3aeafa4beb8a5bda3a4ad8aada7aba3a6e4a9a5a7"
     },
     {
         "date": "06/10/2026",
@@ -1008,22 +1024,6 @@
         "official_notification": "/cdn-cgi/l/email-protection"
     },
     {
-        "date": "30/09/2026",
-        "board": "IIT Kharagpur Vacancy 2026 - 1 Junior Research Fellow PostsIIT Kharagpur Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow (JRF) - Research",
-        "qualification": "Post Graduate Degree in Basic Science OR Graduate/Post Graduate Degree in Professional Course with NET/GATE or National level exam qualification.",
-        "last_date": "13-10-2026",
-        "total_posts": "1",
-        "salary": "Junior Research Fellow : upto 37000 per month",
-        "age_limit": "Junior Research Fellow :Maximum age limit is 28 years.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on qualifications and experience || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitkgp.ac.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/09/485465-6abc86968185479762838.pdf"
-    },
-    {
         "date": "29/09/2026",
         "board": "Prabuddha Bharati Shishutirtha Vacancy 2026 - 3 Multipurpose Staff, Security Guard/ Night Guard PostsPrabuddha Bharati Shishutirtha Vacancy 2026",
         "title": "Multipurpose Staff / Security Guard",
@@ -1041,22 +1041,6 @@
     },
     {
         "date": "29/09/2026",
-        "board": "CSIR CGCRI Vacancy 2026 - 1 Project Associate - I PostsCSIR CGCRI Project Associate - I Vacancy 2026",
-        "title": "Project Associate - I",
-        "qualification": "DIPLOMA/B.E./B-TECH/BCA/MCA with Expertise in Database Management, PPT, EXCEL",
-        "last_date": "13-10-2026",
-        "total_posts": "1",
-        "salary": "Project Associate - I: Rs. 25,000/- + HRA",
-        "age_limit": "Project Associate - I: Maximum age limit is 35 years. Age relaxation is applicable: 5 years for SC/ST/Physically Handicapped and Female, 3 years for OBC (Non-Creamy layer).",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Walk-in-Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "http://www.cgcri.res.in",
-        "official_notification": "https://www.cgcri.res.in/wp-content/uploads/2026/career/Final%20Adv%2048_2627_01.pdf"
-    },
-    {
-        "date": "29/09/2026",
         "board": "Visva Bharati Vacancy 2026 - 14 Professor, Associate and Assistant Professor PostsVisva Bharati Vacancy 2026",
         "title": "Professor, Associate Professor, and Assistant Professor",
         "qualification": "Master's degree, Ph.D., and teaching/research experience as per UGC guidelines.",
@@ -1070,22 +1054,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.visvabharati.ac.in/",
         "official_notification": "https://www.visvabharati.ac.in/files/698290926_Advt._03-2026_dated_28.09.2026.pdf"
-    },
-    {
-        "date": "29/09/2026",
-        "board": "IIT Kharagpur Vacancy 2026 - 1 Project Associate-I PostsIIT Kharagpur Project Associate-I Vacancy 2026",
-        "title": "Project Associate-I",
-        "qualification": "B.E./B.Tech or M.E./M.Tech in Mechanical/Civil Engineering",
-        "last_date": "13-10-2026",
-        "total_posts": "1",
-        "salary": "Project Associate-I:upto 30000 per month",
-        "age_limit": "Project Associate-I:Maximum Age: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitkgp.ac.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/09/035555-6abb46a6d390a77589558.pdf"
     },
     {
         "date": "29/09/2026",
