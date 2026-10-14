@@ -1,6 +1,246 @@
 [
     {
         "date": "14/10/2026",
+        "board": "ICMR NIRDH Vacancy 2026 - 1 Consultant PostsICMR NIRDH Consultant Vacancy 2026",
+        "title": "Consultant (Technical - Non-Medical)",
+        "qualification": "1 Posts",
+        "last_date": "03-11-2026",
+        "total_posts": "Vacancy Notification and Application Form",
+        "salary": "Not Available",
+        "age_limit": "Minimum 40 years up to 70 years",
+        "application_fee": "Not stated in the notice",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.icmr.gov.in/",
+        "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791978216_notification14-10-2026.PDF"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "BHEL Vacancy 2026 - 660 Artisan PostsBHEL Artisan Vacancy 2026",
+        "title": "Artisan Grade IV",
+        "qualification": "The required qualification is Class X plus National Trade Certificate (NTC/ITI) plus National Apprenticeship Certificate (NAC) in the respective trade. Candidates need not less than 60% marks (General and OBC) or 55% marks (SC and ST) in both NTC/ITI and NAC. || The notification does not specify EWS or PwD minimum marks separately. It lists the marks requirement only for Gen and OBC candidates and for SC and ST candidates.",
+        "last_date": "N/A",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "The upper age limit is calculated as on 1 October 2026. The notification does not specify a minimum age limit. || PwD and Ex-Serviceman age relaxation will be as per Government rules. || Up to 07 years of age relaxation is available on the basis of relevant work experience in the prescribed format.",
+        "application_fee": "Not Available",
+        "selection_process": "The notification states that details of the Selection Process and instructions on how to apply will be hosted on the BHEL Careers website by 19 October 2026. It also mentions that the Computer Based Test (CBT) for all the above vacancies will be held on the same day, i.e. in December (Tentative). Any further selection stages are not specified in the provided notification.",
+        "apply_mode": "Online",
+        "syllabus": "BHEL Artisan Syllabus 2026 Click Here",
+        "official_website": "https://www.bhel.com/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/10/6454656645-6aceffb35839b1774720.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "NHSRC Vacancy 2026 - 1 Consultant PostsNHSRC Consultant Vacancy 2026",
+        "title": "Consultant – Certification Unit (Quality & Patient Safety)",
+        "qualification": "1 Posts",
+        "last_date": "03-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Up to 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nhsrcindia.org",
+        "official_notification": "https://recruitment.nhsrcindia.org/web/content/2925509?download=true"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "Delhi University Vacancy 2026 - Project Technical Support-I PostsDelhi University Project Technical Support-I Vacancy 2026",
+        "title": "Project Technical Support-I",
+        "qualification": "Not Mentioned",
+        "last_date": "05-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not stated in the notice",
+        "application_fee": "Not stated in the notice",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.du.ac.in/",
+        "official_notification": "https://www.du.ac.in/uploads/new-web/13102026_Zoology_Advertisement_ICMR.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "NCSC Vacancy 2026 - 11 Law Officer, Research Officer and More PostsNCSC Vacancy 2026",
+        "title": "Director, Law Officer, Assistant Director, Research Officer, Accountant",
+        "qualification": "11 Posts",
+        "last_date": "11-12-2026",
+        "total_posts": "Not Available",
+        "salary": "Level-12 in the pay matrix (Rs. 78800-209200/-)",
+        "age_limit": "Not exceeding 56 years as on the closing date of receipt of applications",
+        "application_fee": "Not stated in the notice",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ncsc.nic.in",
+        "official_notification": "https://ncsc.nic.in/storage/vacancies/NlqBv3VCNgmxKNsnpAEpC2SHozW4BWvOSfn7g0vo.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "IIT Delhi Vacancy 2026 - 7 Research Associate, Project Scientist and More PostsIIT Delhi Vacancy 2026",
+        "title": "Research Associate, Project Scientist, Jr. Research Fellow, Project Technical Support (II), Research Associate (a), Research Associate (b), Research Associate (c)",
+        "qualification": "Experience in climate-change adaptation, water governance, environmental or disaster governance, institutional analysis or mapping, public-policy research, qualitative data analysis software (NVivo, ATLAS.ti, MAXQOA).",
+        "last_date": "28-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 53,790/- p.m. (Consolidated)",
+        "age_limit": "Not stated in the notice",
+        "application_fee": "Not stated in the notice",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "Ambedkar Nagar Hospital Vacancy 2026 - 1 Junior Resident PostsAmbedkar Nagar Hospital Junior Resident Vacancy 2026",
+        "title": "Junior Resident",
+        "qualification": "1. MBBS Degree recognized by MCI.2. Registered with Delhi Medical Council and have not completed one year Junior Residency.3. Internship: Candidates who have completed internship beyond/more than two years from the date of Advertisement are not eligible.",
+        "last_date": "15-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Basic pay in level - 10 as per 7th Pay Commission",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://health.delhi.gov.in/",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wanhj_5.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "IIT Delhi Vacancy 2026 - 1 Project Assistant PostsIIT Delhi Project Assistant Vacancy 2026",
+        "title": "Project Assistant",
+        "qualification": "Masters degree in Mechanical or Metallurgical/materials Engg from NIT or IIT only with a CGPA of above 8.00. Project title: Design and development of nanocomposite filler rods for welding of high strength 7xxx series Al alloys (RP04669G). Funding agency: Naval Research Board.",
+        "last_date": "28-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 30,170/- p.m. Plus HRA @27%",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in/",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1791889179793_2zpgvwj.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "NCJMH Vacancy 2026 - 4 Senior Resident PostsNCJMH Senior Resident Vacancy 2026",
+        "title": "Senior Resident",
+        "qualification": "MBBS with PG Degree/Diploma or equivalent recognized by National Medical Commission; registered with Delhi Medical Council (DMC)",
+        "last_date": "19-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Pay matrix level 11 (Rs. 67,700-208700)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://health.delhi.gov.in/",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wncjm_5.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "IIT Delhi Vacancy 2026 - 1 Junior Research Fellow PostsIIT Delhi Junior Research Fellow Vacancy 2026",
+        "title": "Jr. Research Fellow",
+        "qualification": "1 Posts",
+        "last_date": "26-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not stated in the notice",
+        "application_fee": "Not stated in the notice",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://ird.iitd.ac.in",
+        "official_notification": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1791883913096_kk8vvmv.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "DRAT Vacancy 2026 - Chairperson PostsDRAT Chairperson Vacancy 2026",
+        "title": "Chairperson",
+        "qualification": "Not Mentioned",
+        "last_date": "02-11-2026",
+        "total_posts": "Allahabad and Kolkata (or any place of vacancy arising till 31.12.2026)",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "The Search-Cum-Section Committee constituted under the Tribunal Reforms Act 2021 will scrutinize or cause to be scrutinized the applications with respect to suitability, giving due weightage to qualifications and experience. Candidates will be shortlisted for personal interaction. Final selection will be based on the overall evaluation by the Committee covering qualifications, experience, and personal interaction.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.allahabadhighcourt.in/",
+        "official_notification": "https://www.allahabadhighcourt.in/event/event_27257_14-10-2026.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "PFI Vacancy 2026 - 4 Executive Trainee (Electrical) PostsPFI Executive Trainee (Electrical) Vacancy 2026",
+        "title": "Executive Trainee (Electrical)",
+        "qualification": "Candidates must possess a full-time Bachelor’s Degree in Electrical Engineering from a recognized University or Institution with a minimum of 60% marks or equivalent CGPA in the qualifying degree. Additionally, candidates must have appeared in GATE-2025 in Electrical Engineering (EE) and should possess a minimum 70% GATE-2025 score.",
+        "last_date": "03-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Selected candidates shall be appointed as Executive Trainee (Electrical) on a regular or full-time basis and shall undergo a structured one-year training programme. The proposed remuneration is tentatively Rs. 11 lakh per annum as per PFI policy, depending upon the candidate’s qualifications, relevant experience, competencies, and overall suitability. Trainees are also entitled to PF, gratuity, medical or insurance coverage, and other applicable benefits.",
+        "age_limit": "Upper age limit 27 years as on 01.10.2026",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process comprises two stages: || Stage-I: Shortlisting based on GATE-2025 score:Candidates are shortlisted for the next stage based on their GATE-2025 score in Electrical Engineering (EE). || Stage-II: Personal Interview:Shortlisted candidates are called for a personal interview. The final merit is prepared with 75% weightage given to the GATE-2025 score and 25% to the Personal Interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.powerfoundation.org.in",
+        "official_notification": "https://www.powerfoundation.org.in/assets/careers/et-advertisment.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "GIPMER Vacancy 2026 - 3 Senior Resident PostsGIPMER Senior Resident Vacancy 2026",
+        "title": "Senior Resident",
+        "qualification": "The applicant must have passed MBBS with P.G Degree or Diploma in the concerned specialty from a Recognized University/Institution and should be registered with the Delhi Medical Council. Candidates who have applied for registration to DMC shall be provisionally allowed to join on production of DMC fee receipt, but must produce DMC Certificate with P.G Qualification before joining.",
+        "last_date": "19-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 67,700/- plus usual allowances",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://health.delhi.gov.in/",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wgpimr_5.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "AIESL Vacancy 2026 - 11 Regional Security Officer, Assistant Supervisor PostsAIESL Vacancy 2026",
+        "title": "Regional Security Officer, Assistant Supervisor (Security)",
+        "qualification": "Experienced Candidates: Graduates in any discipline (minimum 3 years’ duration) from a Recognized University, ability to speak Hindi, English and conversant with local language, valid BCAS Basic AVSEC (13 day’s new pattern) Certificate with minimum 03 month’s validity as on 01.12.2026, and must have 01 Year of Security Supervisory Experience. OR Graduate Fresher / Ex-Servicemen: Graduate in any discipline (minimum 3 years’ duration) from a recognized University with ability to speak Hindi, English and conversant with local language.",
+        "last_date": "03-11-2026",
+        "total_posts": "Place of Vacancy",
+        "salary": "Those who qualify the BCAS Basic AVSEC Course will be paid an additional Rs. 2,000/- AVSEC allowance per month from the date of qualifying the course till the validity of the certificate.",
+        "age_limit": "RSO: 40 Years; Assistant Supervisor: 35 Years (as on 01.10.2026)",
+        "application_fee": "The notification does not mention any application fee.",
+        "selection_process": "Written Test || Personal Interaction || Pre-Employment Medical Examination",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://aiahl.in",
+        "official_notification": "https://aiahl.in/public/uploads/recruitments/ADVERTISEMENT%20RSO%20and%20Assistant%20Supervisor%20Security%20October%202026.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "SVBPH Delhi Vacancy 2026 - 1 Junior Resident PostsSVBPH Delhi Junior Resident Vacancy 2026",
+        "title": "Junior Resident",
+        "qualification": "1 Posts",
+        "last_date": "16-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://health.delhi.gov.in/",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsvbp_55.pdf"
+    },
+    {
+        "date": "14/10/2026",
         "board": "IIT Delhi Vacancy 2026 - 1 Jr. Project Attendant PostsIIT Delhi Jr. Project Attendant Vacancy 2026",
         "title": "Jr. Project Attendant",
         "qualification": "10th Pass with experience in assisting experimental work in a Fluid Mechanics laboratory, including operation of research experimental setups, handling of pumps, pressure-measuring instruments, basic tools and equipments, and assisting in data collection and routine maintenance of laboratory setups, including cleaning of the setup.",
@@ -94,22 +334,6 @@
         "syllabus": "Not Available",
         "official_website": "https://incometaxdelhi.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/10/1564684465-6aceffb35839b41422887.pdf"
-    },
-    {
-        "date": "14/10/2026",
-        "board": "BHEL Vacancy 2026 - 660 Artisan PostsBHEL Artisan Vacancy 2026",
-        "title": "Artisan Grade IV",
-        "qualification": "The required qualification is Class X plus National Trade Certificate (NTC/ITI) plus National Apprenticeship Certificate (NAC) in the respective trade. Candidates need not less than 60% marks (General and OBC) or 55% marks (SC and ST) in both NTC/ITI and NAC. || The notification does not specify EWS or PwD minimum marks separately. It lists the marks requirement only for Gen and OBC candidates and for SC and ST candidates.",
-        "last_date": "N/A",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "The upper age limit is calculated as on 1 October 2026. The notification does not specify a minimum age limit. || PwD and Ex-Serviceman age relaxation will be as per Government rules. || Up to 07 years of age relaxation is available on the basis of relevant work experience in the prescribed format.",
-        "application_fee": "Not Available",
-        "selection_process": "The notification states that details of the Selection Process and instructions on how to apply will be hosted on the BHEL Careers website by 19 October 2026. It also mentions that the Computer Based Test (CBT) for all the above vacancies will be held on the same day, i.e. in December (Tentative). Any further selection stages are not specified in the provided notification.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.bhel.com/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/10/6454656645-6aceffb35839b1774720.pdf"
     },
     {
         "date": "13/10/2026",
@@ -749,7 +973,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ap-dsc-teacher-notification-2026-3073393"
+        "official_notification": "Not Available"
     },
     {
         "date": "29/09/2026",
@@ -765,7 +989,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ap-dsc-teacher-notification-2026-3073393"
+        "official_notification": "Not Available"
     },
     {
         "date": "05/10/2026",
@@ -781,7 +1005,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ap-dsc-teacher-notification-2026-3073393"
+        "official_notification": "Not Available"
     },
     {
         "date": "01/10/2026",
@@ -797,7 +1021,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "ap-dsc-teacher-notification-2026-3073393"
+        "official_notification": "Not Available"
     },
     {
         "date": "06/10/2026",
@@ -2973,7 +3197,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "npcc-recruitment-2026-apply-online-for-52-assistant-junior-engineer-and-more-posts-3073611"
     },
     {
         "date": "26/09/2026",
@@ -3085,7 +3309,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "appsc-assistant-executive-engineer-aee-recruitment-2026-3073308"
+        "official_notification": "Not Available"
     },
     {
         "date": "08/09/2026",
@@ -3101,7 +3325,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "npcc-recruitment-2026-apply-online-for-52-assistant-junior-engineer-and-more-posts-3073611"
     },
     {
         "date": "15/09/2026",
@@ -3133,7 +3357,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://presscouncil.nic.in/",
-        "official_notification": "indian-army-tes-57-recruitment-2026-apply-online-for-10-2-technical-entry-scheme-3071328"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/09/2026",
@@ -3181,7 +3405,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://rrb.indianrailways.gov.in/",
-        "official_notification": "Not Available"
+        "official_notification": "npcc-recruitment-2026-apply-online-for-52-assistant-junior-engineer-and-more-posts-3073611"
     },
     {
         "date": "21/09/2026",

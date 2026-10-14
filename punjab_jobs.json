@@ -1,5 +1,21 @@
 [
     {
+        "date": "14/10/2026",
+        "board": "IIT Ropar Vacancy 2026 - 1 Senior Project Associate PostsIIT Ropar Senior Project Associate Vacancy 2026",
+        "title": "Senior Project Associate",
+        "qualification": "1 Posts",
+        "last_date": "28-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not more than 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitrpr.ac.in",
+        "official_notification": "https://www.iitrpr.ac.in/api/v2/files/download/220"
+    },
+    {
         "date": "13/10/2026",
         "board": "HBCH&RC Punjab Vacancy 2026 - 1 Research Assistant PostsHBCH&RC Punjab Research Assistant Vacancy 2026",
         "title": "Research Assistant",
@@ -106,7 +122,7 @@
         "age_limit": "Maximum up to 40 Years. Age & experience will be reckoned as on the date of the walk-in interview. Experience will be reckoned post required qualifications.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://tmc.gov.in",
         "official_notification": "https://tmc.gov.in/postmaster/ViewFile?FileId=xhNOMT+/PCk85eoiLndkCw=="
@@ -218,7 +234,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://sangrur.dcourts.gov.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2026/10/2026100692.pdf"
@@ -446,22 +462,6 @@
         "syllabus": "Not Available",
         "official_website": "https://sssb.punjab.gov.in",
         "official_notification": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/Advt.-12-of-2026.pdf"
-    },
-    {
-        "date": "08/09/2026",
-        "board": "RRB Vacancy 2026 - 590 Pharmacist, Lab Assistant and More PostsRRB Vacancy 2026",
-        "title": "Pharmacist, Lab Assistant and More",
-        "qualification": "Nursing Superintendent:Registered Nurse & Midwife (3-yr GNM course) or B.Sc. Nursing || Dialysis Technician:B.Sc. + Diploma in Haemodialysis, or 2 yrs experience/in-house training || Health & Malaria Inspector Gr II:B.Sc. (Chemistry) + 1-yr Diploma/NTC in Health/Sanitary Inspector || Audiologist & Speech Therapist:BASLP, registered with Rehabilitation Council of India || Pharmacist (Entry Grade):B.Pharm or Pharm.D, registered under the Pharmacy Act, 1948 || Radiographer X-Ray Technician:10+2 (PCM/PCB) + 2-yr Diploma in Radiography/X-Ray Technology, or equivalent B.Sc. || ECG Technician:10+2/Graduation in Science + Certificate/Diploma in ECG/Cardiology Technology || Optometrist:B.Sc. Optometry or Diploma in Ophthalmic Technician (3–4 yrs), registered with the concerned council || Lab Assistant Gr. II:12th (Science) + Diploma/Certificate in Medical Laboratory Technology (min. 1 yr), or B.Sc. MLT",
-        "last_date": "14-10-2026",
-        "total_posts": "Not Available",
-        "salary": "₹44,900 ( Pay Level 7)",
-        "age_limit": "Age limits are reckoned as on 01.01.2027 and vary by post (see the post table above, 18–40 years depending on post).",
-        "application_fee": "Fee is payable online only (net banking/debit/credit card/UPI). Refunds are credited only to an Aadhaar-seeded bank account and only to candidates who attend the CBT.",
-        "selection_process": "Duration:90 minutes(120 minutes for PwBD candidates eligible for scribe assistance). || Objective, multiple-choice, single-stage CBT;negative marking of 1/3 markper wrong answer. || Minimum qualifying marks:UR/EWS 40%, OBC-NCL & SC 30%, ST 25%(relaxable by 2 marks for PwBD where vacancies remain unfilled). || Candidates equal to the number of vacancies (RRB-wise, 1:1) are called for Document Verification based on CBT merit. || DV is followed by a Medical Examination as per the post's medical standard (B1/C1/C2); medically unfit candidates get no alternative post. || Final empanelment is based on CBT merit, subject to DV and medical fitness; selection does not itself confer a right to appointment.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
     },
     {
         "date": "22/09/2026",
