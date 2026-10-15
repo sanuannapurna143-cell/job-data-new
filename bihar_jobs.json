@@ -1,5 +1,37 @@
 [
     {
+        "date": "15/10/2026",
+        "board": "ICDS Buxar Vacancy 2026 - 22 Lady Supervisor PostsICDS Buxar Lady Supervisor Vacancy 2026",
+        "title": "Lady Supervisor",
+        "qualification": "22 Posts",
+        "last_date": "19-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Selection for the Lady Supervisor post is based on a merit list prepared according to the marks obtained in educational qualifications (Matric, Intermediate, graduation, and postgraduate exams) and bonus marks assigned for continuous service. Bonus marks are awarded at the rate of 1 mark for each completed year of continuous service as an Anganwadi Sevika up to a maximum of 10 years (10 marks). Additional bonus marks are granted for national or state awards received as an Anganwadi Sevika, and for higher educational degrees (intermediate, graduation, and post-graduation) and academic achievements for candidates with National/State awards, subject to prior official departmental permission for acquiring higher qualifications. Final selection excludes candidates with adverse records or disciplinary action.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://buxar.nic.in",
+        "official_notification": "http://125.16.175.140:83/WriteReaddata/Vacancy/2026/BUXAR/V20261014024852.pdf"
+    },
+    {
+        "date": "15/10/2026",
+        "board": "BTSC Vacancy 2026 - 105 Food Safety Officer PostsBTSC Food Safety Officer Vacancy 2026",
+        "title": "Food Safety Officer (FSO)",
+        "qualification": "Degree in Food Technology, Dairy Technology, Biotechnology, Oil Technology, Agricultural Science, Veterinary Science, Biochemistry, Microbiology, Chemistry, Food Science, Medicine or another specified recognized qualification",
+        "last_date": "24-10-2026",
+        "total_posts": "Not Available",
+        "salary": "The Food Safety Officer post carries Pay Level 6 under the revised Bihar Government pay structure. The notification also specifies unrevised Grade Pay Rs. 4,200 under Pay Band 2.",
+        "age_limit": "Age Reckoning Date: 01 August 2026.",
+        "application_fee": "The Bihar Technical Service Commission has prescribed an application fee of Rs. 100 for the recruitment. The payment must be completed online. || Applications without the required fee payment will not be considered. The application fee is non-refundable.",
+        "selection_process": "Selection for the Bihar Food Safety Officer posts will be based on a Computer Based Written Examination. Candidates will also have to fulfill the prescribed eligibility and document verification requirements. || Computer Based Test:Eligible candidates will appear for an objective-type competitive examination. || Document Verification:The Commission will verify educational, age, reservation and other supporting certificates.",
+        "apply_mode": "Apply Mode Online Only",
+        "syllabus": "Question Syllabus Food Safety Officer syllabus prescribed by the requisitioning department",
+        "official_website": "https://btsc.bihar.gov.in/",
+        "official_notification": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/29_2026.pdf"
+    },
+    {
         "date": "14/10/2026",
         "board": "IGIMS Vacancy 2026 - 6 Senior Resident PostsIGIMS Senior Resident Vacancy 2026",
         "title": "Senior Resident",
@@ -365,7 +397,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "npcc-recruitment-2026-apply-online-for-52-assistant-junior-engineer-and-more-posts-3073611"
+        "official_notification": "hpsc-fso-recruitment-2026-apply-online-for-45-food-safety-officer-posts-3068315"
     },
     {
         "date": "25/09/2026",
@@ -429,7 +461,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "npcc-recruitment-2026-apply-online-for-52-assistant-junior-engineer-and-more-posts-3073611"
+        "official_notification": "rrb-ntpc-ug-recruitment-2026-cen-07-2026-1688-posts-3068706"
     },
     {
         "date": "19/09/2026",
@@ -462,21 +494,5 @@
         "syllabus": "Not Available",
         "official_website": "https://ecr.indianrailways.gov.in/",
         "official_notification": "https://ecr.indianrailways.gov.in/cris//uploads/files/1789536720262-document%20(65).pdf"
-    },
-    {
-        "date": "16/09/2026",
-        "board": "NIPER Hajipur Vacancy 2026 - 1 Staff Nurse PostsNIPER Hajipur Staff Nurse Vacancy 2026",
-        "title": "Temporary Staff Nurse",
-        "qualification": "B.Sc. (Nursing), General Nursing and Midwifery (GNM)",
-        "last_date": "14-10-2026",
-        "total_posts": "1",
-        "salary": "Rs. 25,000/- Per month",
-        "age_limit": "Maximum Age Limit: 35 years",
-        "application_fee": "Nil",
-        "selection_process": "Certificate Verification || Personal Interview",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.niperhajipur.ac.in",
-        "official_notification": "https://niperhajipur.ac.in/wp-content/uploads/2026/09/NIPER-Hajipur-Temporary-Staff-Nurse-Notification-15092026-2.pdf"
     }
 ]
