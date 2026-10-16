@@ -346,7 +346,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://thalessery.kvs.ac.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3kv031a066727c4dd99d00c638861b921/uploads/2026/10/2026101382.pdf"
@@ -378,7 +378,7 @@
         "age_limit": "Minimum 3 years service remaining for DMC; Upto 50 years for ADMC Mission III",
         "application_fee": "Not stated in the notice",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.kudumbashree.org",
         "official_notification": "https://www.kudumbashree.org/storage//files/4kvhp_kudumbashree-dmc-admc-deputation-vacancies.pdf"
@@ -503,13 +503,13 @@
         "last_date": "28-10-2026",
         "total_posts": "Not Available",
         "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
+        "age_limit": "Not to exceed 40 years as of 01.01.2026",
+        "application_fee": "Rs. 250/- for General category, Rs. 125/- for SC/ST category",
         "selection_process": "Not Available",
-        "apply_mode": "Not Available",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "https://www.keralauniversity.ac.in/",
+        "official_notification": "https://www.keralauniversity.ac.in/pdfs/jobNoti/CasualConductorNotification1791804385.pdf"
     },
     {
         "date": "12/10/2026",
@@ -993,22 +993,6 @@
     },
     {
         "date": "08/10/2026",
-        "board": "NHM Kerala Vacancy 2026 - 2 Diabetes Educator PostsNHM Kerala Diabetes Educator Vacancy 2026",
-        "title": "Diabetes Educator (NCD)",
-        "qualification": "GNM / BSc Nursing from a recognized institution. Valid registration with Kerala Nurses & midwives Council (KNMC). At least 1 yr of work experience in the area of diabetes.",
-        "last_date": "16-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 35,000/- per month (Consolidated pay)",
-        "age_limit": "Age for contract basis shall not exceed 40 years as on 01.09.2026.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "www.arogyakeralam.gov.in",
-        "official_notification": "https://arogyakeralam.gov.in/wp-content/uploads/2020/04/3418-Notification-Diabetes-Educator-dtd-05.10.2026.pdf"
-    },
-    {
-        "date": "08/10/2026",
         "board": "SGOU Vacancy 2026 - 7 Data Entry Operator PostsSGOU Data Entry Operator Vacancy 2026",
         "title": "Data Entry Operator (on contract)",
         "qualification": "1. Degree / Diploma 2. Certificate in Computer Course of not less than 6 months from a Government recognised Institution (If computer is a subject of study for Degree Course, Certificate in Computer Course is exempted.)",
@@ -1105,22 +1089,6 @@
     },
     {
         "date": "07/10/2026",
-        "board": "MGU Vacancy 2026 - 8 Hardware Engineer, Software Developer and More PostsMGU Vacancy 2026",
-        "title": "Junior Software Developer, Senior Software Developer, Hardware Engineer and other posts",
-        "qualification": "Bachelors/Masters degree in Information Technology or Computer Science or Computer Applications / BE in Computer Science or IT/ BTech in Computer Science or IT / Diploma in Computer Science/Computer Application. Knowledge of PHP web frameworks including Yii/Laravel/CodeIgniter, front-end technologies including CSS3, JavaScript, and HTML5, understanding of object-oriented PHP programming, and familiarity with MySQL/Maria DB/ MSSQL. Minimum 5 years of professional PHP development experience. Technology certification, Docker, virtualization, and containerization are considered added advantages.",
-        "last_date": "16-10-2026",
-        "total_posts": "Not Available",
-        "salary": "₹ 23,000/- per month (Consolidated)",
-        "age_limit": "The age limit varies by post as on 01.01.2026:",
-        "application_fee": "Not Available",
-        "selection_process": "The selection process is based on an interview for shortlisted candidates.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.mgu.ac.in",
-        "official_notification": "https://www.mgu.ac.in/uploads/2026/10/46650-AD_A4-3-2026-AD_A_4-1.pdf?x94802"
-    },
-    {
-        "date": "07/10/2026",
         "board": "Kerala High Court Vacancy 2026 - 17 Office Attendant PostsKerala High Court Office Attendant Vacancy 2026",
         "title": "Office Attendant",
         "qualification": "Should have passed S.S.L.C or equivalent and should not have acquired graduation. All qualifications must be acquired on or before the date of closure of filing of online application.",
@@ -1134,22 +1102,6 @@
         "syllabus": "Not Available",
         "official_website": "https://highcourt.kerala.gov.in/",
         "official_notification": "/cdn-cgi/l/email-protection"
-    },
-    {
-        "date": "07/10/2026",
-        "board": "NAM Thrissur Vacancy 2026 - Pharmacist PostsNAM Thrissur Pharmacist Vacancy 2026",
-        "title": "Pharmacist (Homoeopathy)",
-        "qualification": "Diploma in Homoeyopathy Pharmacy (CCP) / Certificate Course in Homoeopathic Pharmacy (NCP) or equivalent qualification",
-        "last_date": "16-10-2026",
-        "total_posts": "Not Available",
-        "salary": "The official notification does not mention any additional allowances.",
-        "age_limit": "Candidates must be not more than 40 years of age.",
-        "application_fee": "Not Available",
-        "selection_process": "The selection process consists of an interview. If there are 20 or more applicants for the post, a written test will be conducted along with the interview.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.nam.kerala.gov.in",
-        "official_notification": "https://www.nam.kerala.gov.in/images/careers/1791278855190.pdf"
     },
     {
         "date": "07/10/2026",
@@ -1214,22 +1166,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ilpgt.com",
         "official_notification": "https://ilpgt.com/images/IL%20-%20FTE%20%20WEBSITE%20%20WORKER%20ADVERTISEMENT.PDF"
-    },
-    {
-        "date": "01/10/2026",
-        "board": "KVASU Vacancy 2026 - 3 Office Assistant, Laboratory Technician and More PostsKVASU Vacancy 2026",
-        "title": "Various Posts",
-        "qualification": "Plus Two/Degree/Diploma with relevant training",
-        "last_date": "16-10-2026",
-        "total_posts": "3",
-        "salary": "₹ 12,500/- to ₹ 17,000/- per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on number of applicants || Walk-in interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.kvasu.ac.in/",
-        "official_notification": "https://www.kvasu.ac.in/files/1790837059_Notification+RF+1+Oct+2026.pdf"
     },
     {
         "date": "01/10/2026",

@@ -42,7 +42,7 @@
         "age_limit": "Up to 7 years of previous temporary service deducted from age, subject to a maximum age limit cap of 3 years over the upper limit",
         "application_fee": "Not specified in the notification",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://korba.dcourts.gov.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0307f75d9144912970de5a09f5a305/uploads/2026/10/2026101628.pdf"
@@ -394,7 +394,7 @@
         "age_limit": "Assistant Programmer:Passed M.Sc. in Computer Science / Information Technology / MCA or equivalent from a recognized university, OR B.E. / B.Tech in Computer Science / Information Technology or equivalent. || Accountant:Passed graduation with 55% marks in B.Com. || Age Limit:Minimum 21 years and maximum 35 years as on 01 January 2026. Age relaxations are applicable for Chhattisgarh residents and various categories as per general administration department norms.",
         "application_fee": "Not Available",
         "selection_process": "Selection is based on a merit list prepared from weightage on educational qualification percentage, performance in a computer practical test, and work experience weightage in government rural development schemes. Candidates must secure a minimum of 60% marks in the computer practical test.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://durg.gov.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s3851ddf5058cf22df63d3344ad89919cf/uploads/2026/10/17919570372049.pdf"
@@ -449,22 +449,6 @@
     },
     {
         "date": "13/10/2026",
-        "board": "WCD Surguja Vacancy 2026 - 3 DEO, IT Assistant and More PostsWCD Surguja Vacancy 2026",
-        "title": "DEO, IT Assistant and More",
-        "qualification": "3 Posts",
-        "last_date": "16-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not stated in the notice",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://surguja.gov.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s38c7bbbba95c1025975e548cee86dfadc/uploads/2026/10/17918737925586.pdf"
-    },
-    {
-        "date": "13/10/2026",
         "board": "Zila Panchayat Mahasamund Vacancy 2026 - 5 Accountant, Programme Officer and More PostsZila Panchayat Mahasamund Vacancy 2026",
         "title": "Accountant, Programme Officer and More",
         "qualification": "Varies by post (Master's degree / BCA / B.Sc. / B.Com / MCA / B.E. / B.Tech)",
@@ -490,7 +474,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://sukma.gov.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17918073692532.pdf"
@@ -592,22 +576,6 @@
         "official_notification": "https://igkv.ac.in/_Attachment/web/news_notificaiton/2026/0/2/Recruitment_-_6854_20261005125331_0_5de37195.pdf"
     },
     {
-        "date": "04/09/2026",
-        "board": "Bank of Baroda Vacancy 2026 - 1100 Wealth Executive, Credit Analyst PostsBank of Baroda Vacancy 2026",
-        "title": "Post Name",
-        "qualification": "Note: Post-qualification experience of less than six months in any organisation as on 01.09.2026 will not be considered for eligibility, except when it is part of current employment. Experience in clerical cadre is not considered for determining eligibility. Educational qualifications must be from a college/institution/university recognised by the Government of India/Government bodies/AICTE.",
-        "last_date": "16-10-2026",
-        "total_posts": "Not Available",
-        "salary": "48480–2000/7–62480–2340/2–67160–2680/7–85920",
-        "age_limit": "Age is reckoned as on the cut-off date, 01.09.2026 . || Maximum age indicated above is for General category candidates. Age relaxation is available as per the table below. || Note: There is no reservation for Ex-Servicemen in the Officers' cadre. Candidates seeking age relaxation must submit the necessary certificates at the time of interview and any subsequent stage as required by the Bank. || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "The non-refundable application fee/intimation charges must be paid online, irrespective of whether the online test is conducted and irrespective of shortlisting outcome. || Payment can be made using Debit Card, Credit Card, Internet Banking, or UPI. Transaction charges, if any, are borne by the candidate.",
-        "selection_process": "The selection process may comprise Application Scrutiny, an Online Test, Psychometric Test, Group Discussion (GD) and/or Personal Interview (PI), or any other test deemed suitable by the Bank.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.bankofbaroda.bank.in",
-        "official_notification": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-09/Advertisement-WMS-CIC-04-09-2026-03-43.pdf"
-    },
-    {
         "date": "10/10/2026",
         "board": "Zila Panchayat Balodabazar Bhatapara Vacancy 2026 - 7 Accountant, Computer Programmer and More PostsZila Panchayat Balodabazar Bhatapara Vacancy 2026",
         "title": "Assistant Programmer, Programme Officer, Computer Programmer, and Accountant",
@@ -670,22 +638,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.igkv.ac.in",
         "official_notification": "https://igkv.ac.in/_Attachment/web/news_notificaiton/2026/0/2/Recruitment_236_6859_20261009123557_0_94cd0211.pdf"
-    },
-    {
-        "date": "09/10/2026",
-        "board": "IRCS Jashpur Vacancy 2026 - 3 Driver cum Support Staff PostsIRCS Jashpur Driver cum Support Staff Vacancy 2026",
-        "title": "Driver cum Support Staff",
-        "qualification": "8th passed and must possess a valid Live Heavy License. Experience certificate from a government office or institution is mandatory.",
-        "last_date": "16-10-2026",
-        "total_posts": "Not Available",
-        "salary": "The selected candidates will receive a consolidated monthly honorarium of Rs. 18000/-. No other type of honorarium or allowance will be paid.",
-        "age_limit": "The age limit for the post is 18 to 45 years .",
-        "application_fee": "The application fee of Rs. 300/- must be paid through a Demand Draft drawn in favour of Secretary Indian Red Cross Society Jashpur , payable at Jashpur. Attaching the original demand draft with the application form is compulsory, and applications without the fee or demand draft will be rejected outright.",
-        "selection_process": "The selection process consists of application submission, scrutiny and merit list publication, and a skill test.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "jashpur.nic.in",
-        "official_notification": "jashpur.nic.in"
     },
     {
         "date": "09/10/2026",
@@ -929,22 +881,6 @@
     },
     {
         "date": "30/09/2026",
-        "board": "Zila Panchayat Balod Vacancy 2026 - 7 Computer Programmer, Lekhapal and More PostsZila Panchayat Balod Vacancy 2026",
-        "title": "Computer Programmer (Male), Programme Officer (Male), Sahayak Programmer (Male), Lekhapal (Male)",
-        "qualification": "First Class B.E. Computer Science/M.C.A./M.Sc. (Computer Science)/B.E. (I.T.), First Class H.B.A./B.E./MRTM/Post Graduate in Mathematics/Physics, B.E./B.Tech. (Computer Science/IT), Higher Secondary with 50% marks and computer knowledge",
-        "last_date": "16-10-2026",
-        "total_posts": "7",
-        "salary": "Rs. 23350 - 51780 Per Month",
-        "age_limit": "All Posts:Minimum Age: 21 years, Maximum Age: 45 years. Age relaxation is applicable as per Chhattisgarh government rules for SC/ST/OBC/Ex-Servicemen/Women.",
-        "application_fee": "Nil",
-        "selection_process": "Merit List based on educational qualification and experience || Computer Practical/Skill Test",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.balod.gov.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s3c45147dee729311ef5b5c3003946c48f/uploads/2026/09/17907489987516.pdf"
-    },
-    {
-        "date": "30/09/2026",
         "board": "NIT Raipur Vacancy 2026 - 37 Technician, Office Attendant and More PostsNIT Raipur Vacancy 2026",
         "title": "Technician, Office Attendant and More",
         "qualification": "Bachelor's Degree, Master's Degree, Senior secondary (10+2), Diploma, ITI",
@@ -1038,22 +974,6 @@
         "syllabus": "Not Available",
         "official_website": "https://bemetara.gov.in",
         "official_notification": "https://cdn.s3waas.gov.in/s36a10bbd480e4c5573d8f3af73ae0454b/uploads/2026/09/17902999145628.pdf"
-    },
-    {
-        "date": "25/09/2026",
-        "board": "District Panchayat Gariaband Vacancy 2026 - 6 Program Officer, Assistant Programmer, Accountant PostsDistrict Panchayat Gariaband Vacancy 2026",
-        "title": "Program Officer, Assistant Programmer, Accountant",
-        "qualification": "First class MBA/BE/MRTM/Post Graduate in Mathematics/Physics, M.Sc (Computer Science/IT)/MCA or BE/B.Tech in Computer Science/IT, B.Com 55% (50% for SC/ST)",
-        "last_date": "16-10-2026",
-        "total_posts": "6",
-        "salary": "Pay Level 10/09/06",
-        "age_limit": "Min: 21 years, Max: 35 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.gariaband.gov.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s3f033ab37c30201f73f142449d037028d/uploads/2026/09/17902521635488.pdf"
     },
     {
         "date": "31/03/2026",
