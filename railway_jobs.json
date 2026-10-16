@@ -106,7 +106,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Selection involves preliminary screening of applications received by mail and post, followed by document verification and personal interview. Candidates equal to 5 times the notified vacancies will be called for document verification and interview based on their engineering marks and experience. The overall qualifying marks shall be minimum 60%.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://mrvc.indianrailways.gov.in/",
         "official_notification": "https://mrvc.indianrailways.gov.in/uploads/Notification%2026%20of%202026%20AM%20Plg%20%20Civil%20Direct%20in%20E2%20scale%2013102026.pdf"
@@ -334,22 +334,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.rites.com",
         "official_notification": "https://rites.com/Upload/Career/Advertisement_for_CP_17_26_pdf-2026-Oct-06-12-57-40.pdf"
-    },
-    {
-        "date": "06/10/2026",
-        "board": "RITES",
-        "title": "Manager, Assistant Manager and More     – 10 Posts",
-        "qualification": "Where the notification shows a dash (-) under educational qualification, no minimum educational qualification is specified for that post. Experience conditions are listed for every post. || Note: the \"Electrical/Electronics\" wording for VC 72/26(E) is partly garbled in the printed notification (it reads \"Electrical/Electronicsl\"); it is shown here as the evident intended text, so check the original circular.",
-        "last_date": "10 days",
-        "total_posts": "64/26(E) to 72/26(E)",
-        "salary": "The notification gives the salary as a percentage of the last basic pay and does not state a fixed rupee amount for any post.",
-        "age_limit": "Date of birth is to be proved with the High School certificate.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.rites.com",
-        "official_notification": "https://rites.com/Upload/Career/64_to_72_26E_pdf-2026-Oct-06-09-28-21.pdf"
     },
     {
         "date": "05/10/2026",
@@ -592,22 +576,6 @@
         "official_notification": "https://rrcmas.in/downloads/s-&-g-notification-2026-27-18-09-2026.pdf"
     },
     {
-        "date": "19/09/2026",
-        "board": "East Central Railway",
-        "title": "Instructor/P.Way",
-        "qualification": "Other",
-        "last_date": "15-10-2026",
-        "total_posts": "07",
-        "salary": "Selected employees will receive a Teaching Allowance equal to 12% of their Basic Pay while working as Instructor, subject to the applicable Railway Board instructions.",
-        "age_limit": "The candidate must be below 58 years of age on the date the notification was issued. The age condition is prescribed according to RBE No. 104/2023 dated 4 September 2023.",
-        "application_fee": "Not Available",
-        "selection_process": "The selection will carry a total of 100 marks and include the following stages: || Candidates must obtain at least 60% marks to qualify. A negative marking of one-third mark will apply for every incorrect answer in the objective examination.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ecr.indianrailways.gov.in",
-        "official_notification": "https://ecr.indianrailways.gov.in/cris//uploads/files/1789731105371-ECR-HQ0PERS(SEL)_1_2022-O_o%20Dy.CPO_HQ_ECR_correspondence_I_233624_2026_16-09-2026_11-03-01am.pdf"
-    },
-    {
         "date": "18/09/2026",
         "board": "RLDA",
         "title": "Homeopathy Doctor (Consultant)",
@@ -654,21 +622,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rites.com/",
         "official_notification": "https://www.rites.com/Upload/Career/RG_18-R3_25_final_adv_pdf-2026-Sep-17-11-52-21.pdf"
-    },
-    {
-        "date": "17/09/2026",
-        "board": "East Central Railway",
-        "title": "ALP, Technician, Junior Engineer, DMS, Station Master, Goods Train Manager, Clerk and other posts",
-        "qualification": "The 50% marks requirement for Commercial Cum Ticket Clerk will not apply to SC, ST, Persons with Benchmark Disabilities, ex-servicemen and candidates possessing a qualification higher than Class 12. || Candidates should check the post-wise trade, engineering discipline and medical-standard requirements in Annexure A of the official notification.",
-        "last_date": "15-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Level 2",
-        "age_limit": "The age limit will be calculated as of 1 January 2027 . || Reserved-category candidates applying against unreserved vacancies will not receive category-based age relaxation.",
-        "application_fee": "The official GDCE notification does not specify an application fee.",
-        "selection_process": "The exact selection stages depend on the post selected by the candidate. || Single-stage Computer Based Test || Computer Based Aptitude Test, where applicable || Computer Based Typing Skill Test, where applicable || Document verification || Medical examination || There will be a negative marking of one-third mark for each incorrect answer in the CBT. Marks may be normalized when the examination is conducted in multiple shifts.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ecr.indianrailways.gov.in/",
-        "official_notification": "https://ecr.indianrailways.gov.in/cris//uploads/files/1789536720262-document%20(65).pdf"
     }
 ]

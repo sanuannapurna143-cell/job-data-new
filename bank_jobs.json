@@ -161,35 +161,19 @@
     },
     {
         "date": "09/10/2026",
-        "board": "RNSB",
-        "title": "Apprentice - Peon",
-        "qualification": "Qualification Required",
-        "last_date": "15-10-2026",
-        "total_posts": "Not Available",
-        "salary": "The post will be filled up on a fixed term as per the rules of the Mukhyamantri Apprenticeship Scheme. Specific pay figures or stipends are not mentioned in the notification.",
-        "age_limit": "The maximum age limit is 30 years .",
-        "application_fee": "The notification does not mention any application fee.",
-        "selection_process": "The notification does not specify the complete selection process stages apart from the eligibility criteria and scheme rules.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://jobs.rnsb.bank.in/",
-        "official_notification": "https://jobs.rnsb.bank.in/CurrentOpening.aspx"
-    },
-    {
-        "date": "09/10/2026",
         "board": "J&K Bank",
         "title": "Credit Auditor",
-        "qualification": "Retired Staff",
+        "qualification": "Having retired honourably, either superannuated or through VRS (not having been awarded any punishment (major or minor), not charge sheeted & punished for serious lapses/offences in active service). Officers retired as Scale III or above and having minimum experience of 15 years as an Officer in the bank with satisfactory track record including 3 years of experience in dealing with high value credit, project finance, consortium lending, foreign exchange portfolio at Branches or at controlling office/s or as Credit Auditor. Must have adequate computer knowledge, ability to handle computers independently for online report punching, and familiarity with Finacle Core Banking Solution (CBS).",
         "last_date": "22-10-2026",
         "total_posts": "Not Available",
         "salary": "Not Available",
-        "age_limit": "Not Available",
+        "age_limit": "Candidates must not be above the age of 65 years as on 01.09.2026.",
         "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Not Available",
+        "selection_process": "The selection process details are not explicitly described in the official notification.",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "https://jkb.bank.in/",
+        "official_notification": "https://jkb.bank.in/sites/default/files/2026-10/ADVERTISEMENT%20NOTIFICATION%20Credit%20Auditors.pdf"
     },
     {
         "date": "08/10/2026",
@@ -352,22 +336,6 @@
         "official_notification": "https://www.nhb.org.in/wp-content/uploads/2026/09/Advertisement-26-27-01.pdf"
     },
     {
-        "date": "24/09/2026",
-        "board": "Central Bank of India",
-        "title": "Counselor - FLC",
-        "qualification": "Graduate in any discipline from recognized university",
-        "last_date": "15-10-2026",
-        "total_posts": "4",
-        "salary": "Rs. 25000 - 26000 Per Month",
-        "age_limit": "Min: 46 years, Max: 64 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://centralbank.bank.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/09/584748-6ab4bfad24f2d62234944.pdf"
-    },
-    {
         "date": "23/09/2026",
         "board": "RBI",
         "title": "Bank's Medical Consultant (BMC)",
@@ -382,21 +350,5 @@
         "syllabus": "Not Available",
         "official_website": "https://rbi.org.in/",
         "official_notification": "https://rbidocs.rbi.org.in/rdocs/Content/PDFs/BMCITANAGAR2309202697A31995261F484D8BA585F12A3FB3F1.PDF"
-    },
-    {
-        "date": "16/09/2026",
-        "board": "Exim Bank",
-        "title": "Business Development Officer (BDO)",
-        "qualification": "Any Post Graduate, MBA/PGDM",
-        "last_date": "15-10-2026",
-        "total_posts": "12",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.eximbankindia.in",
-        "official_notification": "https://www.eximbankindia.in/sites/default/files/2026-09/Advertisement%20for%20upload.pdf"
     }
 ]
