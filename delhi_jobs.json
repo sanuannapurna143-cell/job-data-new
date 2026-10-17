@@ -1,5 +1,53 @@
 [
     {
+        "date": "17/10/2026",
+        "board": "MAIDS Vacancy 2026 - 1 Dental Hygienist PostsMAIDS Dental Hygienist Vacancy 2026",
+        "title": "Dental Hygienist",
+        "qualification": "Senior Secondary + Dental Hygienist course + Delhi Dental Council registration + OBC (Delhi)",
+        "last_date": "06-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 21,917/- per month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process consists of the scrutiny of applications by the Competent Authority. Eligible candidates will be called for an interview. The call list for the interview/written exam will be displayed on the institutional website.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://maids.delhi.gov.in",
+        "official_notification": "https://maids.delhi.gov.in/sites/default/files/maids/circulars-orders/advertisement_and_application_form_for_the_post_of_dental_hygienist_0.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "BHEL Vacancy 2026 - 660 Artisan PostsBHEL Artisan Vacancy 2026",
+        "title": "Artisan Grade-IV",
+        "qualification": "Candidates must possess all three of the following qualifications in the relevant trade: || Class 10 or Matriculation. || National Trade Certificate (NTC/ITI). || National Apprenticeship Certificate (NAC). || The qualification cut-off date is 1 October 2026 . Candidates must have obtained the required ITI/NTC and NAC certificates or marksheets by this date.",
+        "last_date": "N/A",
+        "total_posts": "Official BHEL Recruitment Portal",
+        "salary": "Selected candidates will initially work as Temporary Artisans for one year with consolidated monthly wages of Rs. 24,000. || Upon successful completion of the temporary period, candidates will be regularized in the Artisan Grade-IV establishment according to the prevailing company rules. Applicable allowances will be provided as per the rules in force at regularization.",
+        "age_limit": "The upper age limit for General and EWS candidates is 27 years as of 1 October 2026 . || Maximum Age Ceiling: The age of a candidate, including all permissible relaxations, must not exceed 56 years as of 1 October 2026. || Applicants claiming work-experience-based relaxation must submit the relevant experience certificate in the format prescribed by BHEL.",
+        "application_fee": "The prescribed application and processing fees are non-refundable . Additional banking or payment transaction charges may apply depending on the payment method.",
+        "selection_process": "Selection is conducted through a two-stage process consisting of a Computer Based Examination followed by Document Verification and a qualifying Skill Test. || Stage I:Computer Based Examination (CBE). || Stage II:Document Verification and Skill Test. || Final Merit:Based on CBE marks among candidates found eligible in document verification and qualified in the Skill Test. || Candidates are generally shortlisted for the Skill Test in the ratio of 1:3 against the available category-wise vacancies for the relevant unit and trade. For a single vacancy in a trade/category, up to five candidates may be shortlisted.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://careers.bhel.in",
+        "official_notification": "https://careers.bhel.in/ar_2027/Artisan_Detailed%20AD.pdf"
+    },
+    {
+        "date": "14/10/2026",
+        "board": "Income Tax Delhi Vacancy 2026 - 119 MTS, Stenographer and More PostsIncome Tax Delhi Vacancy 2026",
+        "title": "Tax Assistant, Stenographer Grade-II and Multi-Tasking Staff",
+        "qualification": "Bachelor's Degree from a recognized university or equivalent qualification. Selected candidates must also pass the prescribed skill test requiring a data-entry speed of 8,000 key depressions per hour within the stipulated time.",
+        "last_date": "10-11-2026",
+        "total_posts": "Not Available",
+        "salary": "The notified posts carry the following 7th Central Pay Commission pay levels. || The above pay ranges correspond to the notified pay levels under the Central Government pay matrix. Applicable allowances and service conditions will be governed by relevant government rules.",
+        "age_limit": "18–27 Years for Tax Assistant and Stenographer; 18–25 Years for MTS, as of 31 August 2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.incometaxdelhi.gov.in",
+        "official_notification": "https://incometaxdelhi.gov.in/pdf/whatsnewfiles/101626131322Sports%20Quota%20Advertisement%20(Eng)%202026.pdf"
+    },
+    {
         "date": "16/10/2026",
         "board": "NeGD Vacancy 2026 - 1 Senior Manager PostsNeGD Senior Manager Vacancy 2026",
         "title": "Senior Manager – Training Development",
@@ -62,22 +110,6 @@
         "syllabus": "Not Available",
         "official_website": "https://bbmb.nic.in",
         "official_notification": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/127_1_O_M_BBMB_DELHI_2026-27.pdf"
-    },
-    {
-        "date": "14/10/2026",
-        "board": "Income Tax Delhi Vacancy 2026 - 119 MTS, Stenographer and More PostsIncome Tax Delhi Vacancy 2026",
-        "title": "Tax Assistant, Stenographer Grade-II and Multi-Tasking Staff",
-        "qualification": "Bachelor's Degree from a recognized university or equivalent qualification. Selected candidates must also pass the prescribed skill test requiring a data-entry speed of 8,000 key depressions per hour within the stipulated time.",
-        "last_date": "10-11-2026",
-        "total_posts": "Not Available",
-        "salary": "The notified posts carry the following 7th Central Pay Commission pay levels. || The above pay ranges correspond to the notified pay levels under the Central Government pay matrix. Applicable allowances and service conditions will be governed by relevant government rules.",
-        "age_limit": "18–27 Years for Tax Assistant and Stenographer; 18–25 Years for MTS, as of 31 August 2026",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.incometaxdelhi.gov.in",
-        "official_notification": "https://incometaxdelhi.gov.in/pdf/whatsnewfiles/101626131322Sports%20Quota%20Advertisement%20(Eng)%202026.pdf"
     },
     {
         "date": "16/10/2026",
@@ -218,7 +250,7 @@
         "age_limit": "The age limit is not exceeding 30 years. Age is counted as on the closing date. The upper age limit is relaxable for the identified categories, namely SC, ST, OBC, Central Government Employees and Ex-Servicemen, as per Central Government orders in force. The notification does not give the number of years of relaxation for each category.",
         "application_fee": "The application fee is not specified in the notification.",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://cabsec.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/10/6456151546-6acda9c86461737344807.pdf"
@@ -346,7 +378,7 @@
         "age_limit": "For general candidates, the maximum age limit is below 30 years as on the date of Interview. 4% seats shall be reserved for physically handicapped persons as per the rules.",
         "application_fee": "The notification does not mention any application fee.",
         "selection_process": "Selection will be made through a walk-in interview conducted on 22 October 2026 at the designated venue for eligible candidates reporting between 9:30 AM and 11:00 AM.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://dduh.delhi.gov.in/",
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wddu_28.pdf"
@@ -762,7 +794,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://sgmh.delhi.gov.in/",
         "official_notification": "https://sgmh.delhi.gov.in/"
@@ -814,22 +846,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.icmr.gov.in/",
         "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791978216_notification14-10-2026.PDF"
-    },
-    {
-        "date": "14/10/2026",
-        "board": "BHEL Vacancy 2026 - 660 Artisan PostsBHEL Artisan Vacancy 2026",
-        "title": "Artisan Grade IV",
-        "qualification": "The required qualification is Class X plus National Trade Certificate (NTC/ITI) plus National Apprenticeship Certificate (NAC) in the respective trade. Candidates need not less than 60% marks (General and OBC) or 55% marks (SC and ST) in both NTC/ITI and NAC. || The notification does not specify EWS or PwD minimum marks separately. It lists the marks requirement only for Gen and OBC candidates and for SC and ST candidates.",
-        "last_date": "N/A",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "The upper age limit is calculated as on 1 October 2026. The notification does not specify a minimum age limit. || PwD and Ex-Serviceman age relaxation will be as per Government rules. || Up to 07 years of age relaxation is available on the basis of relevant work experience in the prescribed format.",
-        "application_fee": "Not Available",
-        "selection_process": "The notification states that details of the Selection Process and instructions on how to apply will be hosted on the BHEL Careers website by 19 October 2026. It also mentions that the Computer Based Test (CBT) for all the above vacancies will be held on the same day, i.e. in December (Tentative). Any further selection stages are not specified in the provided notification.",
-        "apply_mode": "Online",
-        "syllabus": "BHEL Artisan Syllabus 2026 Click Here",
-        "official_website": "https://www.bhel.com/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/10/6454656645-6aceffb35839b1774720.pdf"
     },
     {
         "date": "14/10/2026",
@@ -893,7 +909,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://ird.iitd.ac.in",
-        "official_notification": "Not Available"
+        "official_notification": "south-indian-bank-junior-officer-recruitment-2026-3074295"
     },
     {
         "date": "14/10/2026",
@@ -1066,7 +1082,7 @@
         "age_limit": "The upper age limit is 28 years on the date of application. Age relaxation is applicable up to 5 years for candidates belonging to scheduled castes, scheduled tribes, OBC, women, and physically handicapped candidates.",
         "application_fee": "Not stated in the notice",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.du.ac.in",
         "official_notification": "https://www.du.ac.in/uploads/new-web/14102026-microbiology-genetics.pdf"
@@ -1514,7 +1530,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://ncert.nic.in",
         "official_notification": "https://ncert.nic.in/pdf/announcement/vacancies/projectstaffvacancy/revised_mpd0110.pdf"
@@ -1581,7 +1597,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bhel-artisan-recruitment-2026-3073301"
     },
     {
         "date": "29/09/2026",
@@ -1597,7 +1613,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bhel-artisan-recruitment-2026-3073301"
     },
     {
         "date": "05/10/2026",
@@ -1613,7 +1629,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bhel-artisan-recruitment-2026-3073301"
     },
     {
         "date": "06/10/2026",
@@ -1722,7 +1738,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://beeindia.gov.in/",
         "official_notification": "https://beeindia.gov.in/WriteReadData/RTF1984/RTF-PDF-03f8e843bb28fecf_1790836004.pdf"
@@ -2154,7 +2170,7 @@
         "age_limit": "The maximum age limit for engagement is 65 years.",
         "application_fee": "Not Available",
         "selection_process": "The selection process consists of an interview.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://rgssh.delhi.gov.in/",
         "official_notification": "https://rgssh.delhi.gov.in/sites/default/files/rgssh/universal/rect_notice13-2026_for_sub_fire_officer.pdf"
@@ -2666,7 +2682,7 @@
         "age_limit": "The upper age limit for Senior Resident is 45 years for General, 50 years for SC/ST, and 48 years for OBC (Delhi) Candidates, as on the date of interview.",
         "application_fee": "The notification does not mention any application fee.",
         "selection_process": "Candidates who fulfill the eligibility criteria may appear for the interview panel on every working Friday from 09-10-2026 to 30-10-2026, from 10:00 AM to 12:00 Noon.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://mvh.delhi.gov.in/",
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wmvh_28.pdf"
@@ -3469,7 +3485,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "south-indian-bank-junior-officer-recruitment-2026-3074295"
     },
     {
         "date": "15/09/2026",

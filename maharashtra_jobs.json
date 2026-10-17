@@ -1,5 +1,53 @@
 [
     {
+        "date": "17/10/2026",
+        "board": "TISS Vacancy 2026 - 1 Project Coordinator PostsTISS Project Coordinator Vacancy 2026",
+        "title": "Project Coordinator",
+        "qualification": "1 Posts",
+        "last_date": "25-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not stated in the notice",
+        "application_fee": "NIL (Not mentioned in the notification)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://tiss.ac.in",
+        "official_notification": "https://tiss.ac.in/uploads/files/Advt_TANDA_PC_Oct_26-2.pdf"
+    },
+    {
+        "date": "16/10/2026",
+        "board": "CSIR CFTRI Vacancy 2026 - 28 Technician PostsCSIR CFTRI Technician Vacancy 2026",
+        "title": "Technician (1)",
+        "qualification": "Important: ITI is not mandatory if the applicant qualifies through one of the other expressly permitted routes. The trade named in the certificate, apprenticeship training or work experience must correspond to the selected Technician post.",
+        "last_date": "18-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Technician (1) posts carry Pay Level 2 under the applicable CSIR pay structure. || The approximate monthly emoluments are calculated at the minimum of the pay scale, including admissible HRA at Mysuru headquarters. Other benefits may include DA, transport allowance, medical reimbursement, Leave Travel Concession, Children's Education Allowance and pension benefits under applicable rules.",
+        "age_limit": "18–28 years as of 18 November 2026; relaxations applicable",
+        "application_fee": "The Rs. 500 application fee is non-refundable and payable through SBI Collect. Candidates claiming fee exemption must upload the relevant supporting documents. || Fee Payment Requirement: Candidates required to pay the fee must enter the transaction details and upload the SBI Collect e-receipt on the recruitment portal by 18 November 2026 at 11:59 PM. Payment alone does not complete the application process.",
+        "selection_process": "Selection involves screening of applications, a qualifying Trade Test and a competitive Written Examination. || Screening of applications and eligibility documents. || Trade Test in the relevant trade, qualifying in nature. || Competitive Written Examination comprising Paper I, Paper II and Paper III. || Preparation of final merit based on Paper II and Paper III marks, subject to qualifying requirements. || Verification of eligibility and other appointment formalities. || Merit Rule: Paper I is qualifying in nature. Paper II and Paper III will be evaluated only for candidates securing the prescribed Paper I threshold. Final merit is based on the combined marks in Paper II and Paper III, not Paper I.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.cftri.res.in",
+        "official_notification": "https://www.cftri.res.in/ApplicationForm/0_02357700_1792207749.pdf"
+    },
+    {
+        "date": "17/10/2026",
+        "board": "ICAR CIRCOT Vacancy 2026 - 20 Young Professional-I PostsICAR CIRCOT Young Professional-I Vacancy 2026",
+        "title": "Young Professional – I (YP-I)",
+        "qualification": "Candidates must possess a Bachelor’s degree in Science, Engineering, Mathematics, Statistics, Commerce, or Information Technology, OR a Three-Year Diploma in Engineering and Technology. For Commerce and Information Technology categories, graduation with a minimum of 60% marks is required. For the Commerce category, a minimum of 1 year of experience in the relevant field is also required.",
+        "last_date": "30-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Minimum age will be 21 years and maximum age will be 45 years. Relaxation is applicable as per government rules: 5 years for SC/ST, 3 years for OBC, and 10 years for PH candidates.",
+        "application_fee": "Not mentioned in the notification",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://circot.icar.gov.in",
+        "official_notification": "https://circot.icar.gov.in/sites/default/files/Walk_In_Interview_YP_I_GOT_Study.pdf"
+    },
+    {
         "date": "16/10/2026",
         "board": "ESIC Mulund Vacancy 2026 - 9 Senior Resident, Part Time Specialist and More PostsESIC Mulund Vacancy 2026",
         "title": "Senior Resident, Part Time Specialist and More",
@@ -893,7 +941,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "bhel-artisan-recruitment-2026-3073301"
     },
     {
         "date": "07/09/2026",
