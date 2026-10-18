@@ -700,8 +700,8 @@
         "selection_process": "Not Available",
         "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "www.jashpur.nic.in",
-        "official_notification": "www.jashpur.nic.in"
+        "official_website": "https://www.jashpur.nic.in",
+        "official_notification": "https://www.jashpur.nic.in"
     },
     {
         "date": "08/10/2026",
@@ -765,7 +765,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://sukma.gov.in/",
-        "official_notification": "www.sukma.gov.in"
+        "official_notification": "https://www.sukma.gov.in"
     },
     {
         "date": "08/10/2026",
