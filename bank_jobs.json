@@ -1,6 +1,22 @@
 [
     {
         "date": "18/10/2026",
+        "board": "TMB",
+        "title": "Credit Trainer",
+        "qualification": "Other",
+        "last_date": "31-10-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not more than 62 years",
+        "application_fee": "Nil",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://apps.tmbdigital.bank.in/tmb_careers/",
+        "official_notification": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_CNR20262701.pdf"
+    },
+    {
+        "date": "18/10/2026",
         "board": "SBI",
         "title": "GM & Chief AI officer, DGM (Risk and Operational Analytics), DGM (AI Governance and Compliance), DGM (Data Engineering, Model Application Dev and AI Ops), AI Solution Architect, Enterprise AI Architect",
         "qualification": "Certification in AI Solution architecture; Any certification in business analysis or product management; Any certification in ML / AI / Natural Language Processing, web Crawling and Neural Networks.",
