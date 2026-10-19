@@ -1,5 +1,21 @@
 [
     {
+        "date": "19/10/2026",
+        "board": "TNMVMD Vacancy 2026 - 79 Graduate and Technician Apprentices PostsTNMVMD Vacancy 2026",
+        "title": "Graduate Apprentice - Mechanical Engineering / Automobile Engineering, Technician (Diploma) Apprentice - Mechanical Engineering / Automobile Engineering",
+        "qualification": "A Diploma in Engineering or Technology (Regular - Full time)",
+        "last_date": "29-10-2026",
+        "total_posts": "79",
+        "salary": "Rs. 12300",
+        "age_limit": "Age limit will be followed as per Apprenticeship Rules",
+        "application_fee": "The notification does not mention any application fee.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nats.education.gov.in",
+        "official_notification": "https://nats.education.gov.in/uploads/events/sr/TNMVMD%20Chennai%20-%20Notification%20-%202026%20-%2027.pdf"
+    },
+    {
         "date": "18/10/2026",
         "board": "TMB Vacancy 2026 - 1 Credit Trainer PostsTMB Credit Trainer Vacancy 2026",
         "title": "Credit Trainer",
@@ -976,22 +992,6 @@
         "official_notification": "https://cdn.s3waas.gov.in/s32723d092b63885e0d7c260cc007e8b9d/uploads/2026/10/17912699245985.pdf"
     },
     {
-        "date": "06/10/2026",
-        "board": "IIT Madras Vacancy 2026 - 1 Postdoctoral Researcher PostsIIT Madras Postdoctoral Researcher Vacancy 2026",
-        "title": "Postdoctoral Researcher",
-        "qualification": "PhD in mechanical or aerospace engineering with a thesis in turbomachinery, rotordynamics or closely related field.",
-        "last_date": "19-10-2026",
-        "total_posts": "1",
-        "salary": "Postdoctoral Researcher:Rs. 90,000-1,30,000 per month.",
-        "age_limit": "No specific age limit has been prescribed in the official notification for the Postdoctoral Researcher post.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Short-listing || Test / Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitm.ac.in/",
-        "official_notification": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1791201962.pdf"
-    },
-    {
         "date": "03/10/2026",
         "board": "RRC Southern Railway Vacancy 2026 - 2 Classical Dance and Mridangam PostsRRC Southern Railway Vacancy 2026",
         "title": "Classical Dance and Mridangam",
@@ -1134,21 +1134,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.szccindia.org/",
         "official_notification": "https://szccindia.org/images/Advertisement_inviting_applications_for_filling_the_Vacant_Posts_by_Direct_Recruitment__Short_term_Contract__Deputation_Last_date_for_submission_of_application__is_within_45_days_from_the_date_of_publication_of_the_ad.pdf"
-    },
-    {
-        "date": "07/09/2026",
-        "board": "TNFWCCB Vacancy 2026 - 12 DEO, Data Analyst and More Posts PostsTNFWCCB Vacancy 2026",
-        "title": "Post Name",
-        "qualification": "M.Tech./M.E. in Cyber Forensics / Digital Forensics / Cyber Security, or M.Sc. in Cyber Forensics / Digital Forensics / Cyber Security from a recognized University. CFA-01 requires a minimum of 2 years of relevant professional experience in digital/cyber forensics; CFA-02 requires a minimum of 3 years. Both require proficiency in Cellebrite Inseyets/UFED and C5 CDR Analyzer, and adequate knowledge of Digital Forensics including mobile, computer, network and cloud forensics.",
-        "last_date": "19-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "The notification does not mention any age relaxation for reserved categories; this detail is not specified in the provided document. || Candidates should ensure that they meet the prescribed age limit as on the specified cut-off date. You can use our Age Calculator to check your exact age and confirm your eligibility before applying.",
-        "application_fee": "The notification does not prescribe any application fee. It explicitly states that the selection process is transparent and free of cost, and that no fee or payment of any kind is to be made to any person or agency at any stage of the process. Candidates are cautioned to beware of touts and fraudulent offers, and any fraudulent practice can be reported to the Bureau's toll-free number 1800 599 7699.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://tnfwccb.com/",
-        "official_notification": "https://tnfwccb.com/recruitment/"
     }
 ]
