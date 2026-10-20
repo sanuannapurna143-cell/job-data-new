@@ -810,7 +810,7 @@
         "age_limit": "The notification does not mention any age limit or age restrictions.",
         "application_fee": "The notification does not mention any application fee.",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://no1cochin.kvs.ac.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3kv022d30000f1e2c06a5492fd512b8f2/uploads/2026/10/2026100955.pdf"
@@ -883,17 +883,17 @@
         "date": "09/10/2026",
         "board": "KUDSIT Vacancy 2026 - 3 Assistant Electronic Engineer PostsKUDSIT Assistant Electronic Engineer Vacancy 2026",
         "title": "Assistant Electronic Engineer",
-        "qualification": "3 Posts",
+        "qualification": "M.Sc. (completed at the time of joining) in Electronics/Physics/Nanotechnology/Materials Science / or related disciplines OR B.Tech/B.E. (completed at the time of joining) in Electronics/Electrical/VLSI/ECE/Nanotechnology / or related disciplines.",
         "last_date": "25-10-2026",
         "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
+        "salary": "Rs. 25,000/- Consolidated per month",
+        "age_limit": "Should not exceed 35 years as of the last date for submission of application.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Not Available",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "https://www.duk.ac.in",
+        "official_notification": "https://duk.ac.in/data/2026/10/Notification-Assistant-Electronic-Engineer-KUDSIT-184-AD_AIII-2026.pdf"
     },
     {
         "date": "09/10/2026",
