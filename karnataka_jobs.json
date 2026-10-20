@@ -1,6 +1,54 @@
 [
     {
         "date": "20/10/2026",
+        "board": "CSIR CFTRI Vacancy 2026 - 1 Project Associate – I PostsCSIR CFTRI Project Associate – I Vacancy 2026",
+        "title": "Project Associate – I (PAT-I)",
+        "qualification": "Masters in Biotechnology/Microbiology/Biochemistry/Molecular Biology/Botany/Zoology/Genetics or related subject from recognized University",
+        "last_date": "01-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Candidates should not have exceeded 35 years of age as on the last date of receiving the applications i.e 01.11.2026",
+        "application_fee": "Not specified in the notification",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://cftri.res.in/",
+        "official_notification": "https://cftri.res.in/ApplicationForm/0_95405800_1792480904.pdf"
+    },
+    {
+        "date": "20/10/2026",
+        "board": "Mandya University Vacancy 2026 - 4 Guest Faculty PostsMandya University Guest Faculty Vacancy 2026",
+        "title": "Commerce, Social Work (M.S.W), Sugar Technology and 1 more",
+        "qualification": "Post Graduation in Sugar Technology with NET/SLET/KSET/Ph.D",
+        "last_date": "27-10-2026",
+        "total_posts": "4",
+        "salary": "Rs. 16,000 to Rs. 28,000 per month",
+        "age_limit": "Not Available",
+        "application_fee": "Payment mode: Demand Draft (DD).",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://mandyajiversity.karnataka.gov.in/",
+        "official_notification": "https://mandyauniversity.karnataka.gov.in/uploads/media_to_upload1792391284.pdf"
+    },
+    {
+        "date": "20/10/2026",
+        "board": "NLSIU Vacancy 2026 - 1 Library Trainee PostsNLSIU Library Trainee Vacancy 2026",
+        "title": "Vacancies",
+        "qualification": "Applicants must possess a Master’s degree in library and information science or equivalent from a recognized University or Institute.",
+        "last_date": "09-11-2026",
+        "total_posts": "Not Available",
+        "salary": "The selected Library Trainee will receive a consolidated honorarium which will be commensurate with qualification and will be Rs. 20,000 per month. This is a contractual position for a period of six months from the date of appointment, based in Bengaluru, and may be extended if required. Selected candidates will be given training in all sections of the library. They are expected to spend a considerable amount of time cataloguing resources as per MARC & AACR II standards. The library operates from 9:00 AM to 12:00 Midnight, and the selected candidates may be required to work in shifts on a rotational basis, including weekends and holidays.",
+        "age_limit": "Not specified in the notification",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process involves shortlisting of applications received through the designated Google form. Candidates shortlisted for interview will be intimated through email. For any queries, please write to [email protected] .",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nls.ac.in",
+        "official_notification": "https://www.nls.ac.in/news-events/call-for-applications-library-trainee-01-position/"
+    },
+    {
+        "date": "20/10/2026",
         "board": "CSTRI Vacancy 2026 - 1 Project Associate PostsCSTRI Project Associate Vacancy 2026",
         "title": "Project Associate",
         "qualification": "Bachelor's Degree in Textile Technology, Textile & Fashion Technology, Fashion Design, Textile, Design or a related discipline",
@@ -381,7 +429,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "sci-senior-personal-assistant-recruitment-2026-apply-online-for-65-posts-3073095"
     },
     {
         "date": "12/10/2026",

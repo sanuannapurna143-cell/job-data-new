@@ -1,6 +1,54 @@
 [
     {
         "date": "20/10/2026",
+        "board": "GIMS Vacancy 2026 - 2 Medical Superintendent PostsGIMS Medical Superintendent Vacancy 2026",
+        "title": "Medical Superintendent (MS)",
+        "qualification": "2 Posts",
+        "last_date": "30-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "As per NMC Guidelines",
+        "application_fee": "Rs. 1180/- (1000+18%GST)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.gims.ac.in",
+        "official_notification": "https://www.gims.ac.in/assets/pdf/Notices/MS%20Contractual%20Advertisement%20details%20-%20Copy%20(2).pdf"
+    },
+    {
+        "date": "20/10/2026",
+        "board": "BECIL Vacancy 2026 - 1 Advisor PostsBECIL Advisor Vacancy 2026",
+        "title": "Advisor",
+        "qualification": "B. Tech in Electronics & Communication Engineering/ Electronics & Telecommunication Engineering",
+        "last_date": "02-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Maximum 63 years (as on 30 September 2026)",
+        "application_fee": "Rs. 295 (Rs. 250 (Basic fee) + Rs. 45 (18% GST))",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.becil.com",
+        "official_notification": "https://www.becil.com/uploads/topics/17924098715995.pdf"
+    },
+    {
+        "date": "20/10/2026",
+        "board": "CSIR NBRI Vacancy 2026 - 7 Project Associate-I, Project Assistant-II and More PostsCSIR NBRI Vacancy 2026",
+        "title": "Senior-PAT, Project Associate-I, Project Assistant-II and 1 more",
+        "qualification": "Masters / Integrated Masters in Natural/Agricultural/Pharmaceutical Sciences/Environment Science/Plant Sciences/Life Sciences/Biotechnology/Physics/Chemistry/Botany/Zoology or Bachelor's degree in Engineering/Technology or B.Sc./3 years Diploma",
+        "last_date": "27-10-2026",
+        "total_posts": "7",
+        "salary": "(a) 31,000 + HRA for NET/GATE qualified (b) 25,000 + HRA for others",
+        "age_limit": "Varies by post - see the table below",
+        "application_fee": "The notification does not mention any application fee.",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://nbri.res.in",
+        "official_notification": "https://nbri.res.in/uploads/RecruitmentFile/1792413068.pdf"
+    },
+    {
+        "date": "20/10/2026",
         "board": "ICSIL Vacancy 2026 - 3 Firemen PostsICSIL Firemen Vacancy 2026",
         "title": "Firemen",
         "qualification": "1. Should be 12th pass from the recognized board.2. Should have working knowledge of fire safety.Experience: One year experience of fireman in any reputed organization.",
@@ -765,7 +813,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "sci-senior-personal-assistant-recruitment-2026-apply-online-for-65-posts-3073095"
     },
     {
         "date": "10/10/2026",

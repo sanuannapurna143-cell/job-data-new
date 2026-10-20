@@ -1,5 +1,101 @@
 [
     {
+        "date": "13/10/2026",
+        "board": "SCI Vacancy 2026 - 65 Senior Personal Assistant PostsSCI Senior Personal Assistant Vacancy 2026",
+        "title": "Senior Personal Assistant (Group 'B' Non-Gazetted)",
+        "qualification": "Degree of a recognized University in India. Proficiency in Shorthand (English) with a speed of 110 w.p.m. Knowledge of Computer operation with typing speed of 40 w.p.m.",
+        "last_date": "10-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 47,600 - Rs. 1,51,100 (initial Basic Pay of Rs. 47,600/- plus allowances as admissible under the Rules)",
+        "age_limit": "Candidates should not be below 18 years of age and the upper age limit is 30 years as on 1st October, 2026.",
+        "application_fee": "The application fee is non-refundable and must be paid through online mode using the payment gateway provided by UCO Bank.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.sci.gov.in/",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/10/2026101325.pdf"
+    },
+    {
+        "date": "20/10/2026",
+        "board": "ANH Delhi Vacancy 2026 - 1 Junior Resident PostsANH Delhi Junior Resident Vacancy 2026",
+        "title": "Junior Resident",
+        "qualification": "MBBS Degree recognized by MCI and registered with Delhi Medical Council",
+        "last_date": "21-10-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "30 years for General candidates, 35 years for SC/ST candidate and 33 years for OBC candidates on the date of interview (as on date of interview)",
+        "application_fee": "The notification does not mention any application fee.",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://anh.delhi.gov.in/",
+        "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wanhj_6.pdf"
+    },
+    {
+        "date": "20/10/2026",
+        "board": "NCDC Vacancy 2026 - 1 Young Professional-II PostsNCDC Young Professional-II Vacancy 2026",
+        "title": "Young Professional-II (Sugar)",
+        "qualification": "Post Graduate Degree/Diploma in Sugar Engineering/Sugar Technology",
+        "last_date": "19-11-2026",
+        "total_posts": "1",
+        "salary": "Negotiable based on previous/current salary",
+        "age_limit": "Maximum 45 years (as on last date of receipt of application)",
+        "application_fee": "The notification does not mention any application fee.",
+        "selection_process": "Not Available",
+        "apply_mode": "Email to [email protected]",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ncdc.in",
+        "official_notification": "https://www.ncdc.in/documents/career/1613201026ADVT_YP-Sugar_HINDI.pdf"
+    },
+    {
+        "date": "20/10/2026",
+        "board": "AIIMS Delhi Vacancy 2026 - 1 Scientific Administrative Assistant / Field Worker PostsAIIMS Delhi Scientific Administrative Assistant / Field Worker Vacancy 2026",
+        "title": "Scientific Administrative Assistant / Field Worker",
+        "qualification": "Graduate degree from a recognised University.",
+        "last_date": "30-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "50 years as on the last date of application (relaxation as per Government of India rules)",
+        "application_fee": "The notice does not mention any application fee.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiims.edu",
+        "official_notification": "https://www.aiims.edu/images/pdf/recruitment/advertisement/biochem-19-10-26.pdf"
+    },
+    {
+        "date": "20/10/2026",
+        "board": "DERC Vacancy 2026 - 9 Senior Research Consultant, Consultant PostsDERC Vacancy 2026",
+        "title": "Senior Research Consultant (Tariff-Engg.), Senior Research Consultant (Tariff-Finance), Senior Research Consultant (Engineering) and 2 more",
+        "qualification": "Degree in Electrical/Power Engineering, Qualified Chartered Accountant/Cost Accountant/MBA (Finance)/MBA (Power Management), Qualified LLB, or Full-time MBA (HR)/PGDM (HR)",
+        "last_date": "24-11-2026",
+        "total_posts": "9",
+        "salary": "Rs.1,25,000 to Rs. 1,45,000 per month",
+        "age_limit": "Age is counted as on last date of publishing of advertisement in newspapers.",
+        "application_fee": "The notification does not mention any application fee.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.derc.gov.in",
+        "official_notification": "https://www.derc.gov.in/app/uploads/pdf/1/general_instructions/advertisment_164.pdf"
+    },
+    {
+        "date": "20/10/2026",
+        "board": "NFDC Vacancy 2026 - 6 Sr Executive & Assistant Coordinator PostsNFDC Sr Executive & Assistant Coordinator Vacancy 2026",
+        "title": "Sr Executive - Finance & Compliance (WAVES CIC), Assistant Coordinator (WAVES CIC)",
+        "qualification": "CA or Post Graduate Degree in Commerce/Finance/Accounting/Management for Sr Executive; Graduation in any Discipline for Assistant Coordinator",
+        "last_date": "30-10-2026",
+        "total_posts": "6",
+        "salary": "Rs. 1,00,000 per month all inclusive",
+        "age_limit": "Varies by post - see the table below",
+        "application_fee": "The notification does not mention any application fee.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nfdcindia.com",
+        "official_notification": "https://nfdcindia.com/nfdcapi/apifile/1792411998657_2195108.pdf"
+    },
+    {
         "date": "20/10/2026",
         "board": "DPSRU Vacancy 2026 - 3 Lab Technician, Junior Research Fellow and More PostsDPSRU Vacancy 2026",
         "title": "Research Associate-I, Lab Technician, Junior Research Fellow",
@@ -429,7 +525,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "eil-recruitment-2026-associate-engineer-and-associate-officer-3074393"
+        "official_notification": "sci-senior-personal-assistant-recruitment-2026-apply-online-for-65-posts-3073095"
     },
     {
         "date": "13/10/2026",
@@ -1085,7 +1181,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://ird.iitd.ac.in",
-        "official_notification": "eil-recruitment-2026-associate-engineer-and-associate-officer-3074393"
+        "official_notification": "sci-senior-personal-assistant-recruitment-2026-apply-online-for-65-posts-3073095"
     },
     {
         "date": "14/10/2026",
@@ -1390,22 +1486,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iitd.ac.in",
         "official_notification": "https://home.iitd.ac.in/jobs-iitd/uploads/Advt.%20No.%20E-II.33.2026(W)%20Dated%2013.10.2026.pdf"
-    },
-    {
-        "date": "13/10/2026",
-        "board": "SCI Vacancy 2026 - 65 Senior Personal Assistant PostsSCI Senior Personal Assistant Vacancy 2026",
-        "title": "Senior Personal Assistant (Group 'B' Non-Gazetted)",
-        "qualification": "Degree of a recognized University in India. Proficiency in Shorthand (English) with a speed of 110 w.p.m. Knowledge of Computer operation with typing speed of 40 w.p.m.",
-        "last_date": "10-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 47,600 - Rs. 1,51,100 (initial Basic Pay of Rs. 47,600/- plus allowances as admissible under the Rules)",
-        "age_limit": "Candidates should not be below 18 years of age and the upper age limit is 30 years as on 1st October, 2026.",
-        "application_fee": "The application fee is non-refundable and must be paid through online mode using the payment gateway provided by UCO Bank.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.sci.gov.in/",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/10/2026101325.pdf"
     },
     {
         "date": "13/10/2026",
@@ -1725,7 +1805,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "sci-senior-personal-assistant-recruitment-2026-apply-online-for-65-posts-3073095"
     },
     {
         "date": "29/09/2026",
@@ -1741,7 +1821,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "sci-senior-personal-assistant-recruitment-2026-apply-online-for-65-posts-3073095"
     },
     {
         "date": "05/10/2026",
@@ -1757,7 +1837,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "sci-senior-personal-assistant-recruitment-2026-apply-online-for-65-posts-3073095"
     },
     {
         "date": "06/10/2026",
@@ -3437,7 +3517,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "sci-senior-personal-assistant-recruitment-2026-apply-online-for-65-posts-3073095"
     },
     {
         "date": "15/09/2026",
@@ -3469,7 +3549,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://presscouncil.nic.in/",
-        "official_notification": "delhi-university-recruitment-2026-apply-online-for-126-senior-assistant-assistant-posts-3074407"
+        "official_notification": "sci-senior-personal-assistant-recruitment-2026-apply-online-for-65-posts-3073095"
     },
     {
         "date": "22/09/2026",
