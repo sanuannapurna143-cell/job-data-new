@@ -1,6 +1,38 @@
 [
     {
         "date": "21/10/2026",
+        "board": "IIT Roorkee Vacancy 2026 - 2 Junior Research Fellow PostsIIT Roorkee Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "ME/M.Tech. (RF and Microwave Engineering / Communication Systems / Signal Processing or equivalent) / M.Sc. (Electronics). Candidates should have qualified GATE/NET.",
+        "last_date": "05-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/ECE/2026/adv15102026.pdf"
+    },
+    {
+        "date": "21/10/2026",
+        "board": "GEU Vacancy 2026 - 1 Assistant Professor PostsGEU Assistant Professor Vacancy 2026",
+        "title": "Post Name",
+        "qualification": "Master’s Degree in Commerce/Accounting/Finance or a relevant/allied discipline with at least 60% marks. Professional qualification in ACCA/CA/CMA. Ph.D. is desirable.",
+        "last_date": "26-10-2026",
+        "total_posts": "Not Available",
+        "salary": "As per University norms. Extremely lucrative salary will be offered to exceptional candidates with a proven track record.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://geu.ac.in",
+        "official_notification": "https://geu.ac.in/careers/assistant-professor-01-one-3"
+    },
+    {
+        "date": "21/10/2026",
         "board": "GEU Vacancy 2026 - 1 Assistant Professor PostsGEU Assistant Professor Vacancy 2026",
         "title": "Assistant Professor",
         "qualification": "B.Tech, MBA/MCA with at least 60% marks (Candidates with Ph.D. Degree in relevant field will be preferred)",
@@ -462,21 +494,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nituk.ac.in/",
         "official_notification": "https://nituk.ac.in/uploads/topics/17899664463960.pdf"
-    },
-    {
-        "date": "18/09/2026",
-        "board": "GBPUAT Vacancy 2026 - 45 Associate Professor and Assistant Professor PostsGBPUAT Vacancy 2026",
-        "title": "Associate Professor and Assistant Professor",
-        "qualification": "A relaxation of 5% at Bachelor's and Master's levels is available to eligible SC, ST, OBC Non-Creamy Layer and differently-abled candidates. || The relaxation is based only on qualifying marks and does not include grace marks. || Eligible Ph.D. holders who obtained their Master's degree before 19 September 1991 may receive relaxation from 55% to 50%.",
-        "last_date": "21-10-2026",
-        "total_posts": "SC, ST and OBC backlog vacancies",
-        "salary": "Retirement benefits will be provided according to the applicable State Government orders adopted by the university.",
-        "age_limit": "Not Available",
-        "application_fee": "The fee must be paid through a Demand Draft drawn in favour of Comptroller, G.B. Pant University of Agriculture and Technology, Pantnagar . || The Demand Draft must be payable at any one of the following branches: || State Bank of India, Branch Code 1133 || Punjab National Bank, Branch Code 4446 || UCO Bank, Branch Code 0678 || The application fee is non-refundable. Candidates applying for more than one position must submit a separate application and fee for each post.",
-        "selection_process": "The university may use one or more of the following stages: || Screening of applications || Academic or research score assessment || Written or qualifying examination || Presentation || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.gbpuat.ac.in/",
-        "official_notification": "https://www.gbpuat.ac.in/employments/A-32-2026,%2016.09.2026,%2017.19.pdf"
     }
 ]
