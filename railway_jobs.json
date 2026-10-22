@@ -1,6 +1,38 @@
 [
     {
         "date": "22/10/2026",
+        "board": "RailTel",
+        "title": "JGM / SR DGM     – 1 Posts",
+        "qualification": "Other",
+        "last_date": "30 days",
+        "total_posts": "Vacancy Notice No. 17/2026 [No. RCIL-CO0HR(RENG)/11/2025 (Comp No.52850)]",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.railtel.in",
+        "official_notification": "https://www.railtel.in/images/careers/vacancy%20notice%2017%202026.pdf"
+    },
+    {
+        "date": "22/10/2026",
+        "board": "RVNL",
+        "title": "Executive Director (Civil)",
+        "qualification": "B. Tech in Civil Engineering or its equivalent.",
+        "last_date": "12-11-2026",
+        "total_posts": "1",
+        "salary": "Executive Director (Civil):IDA E-9 (Rs. 150000-300000/-)",
+        "age_limit": "All Posts:Maximum age limit is 57 years as on the closing date of the vacancy notice.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Shortlisting based on eligibility and experience || Interview || Medical examination",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rvnl.org",
+        "official_notification": "https://rvnl.org/RVNL_cms/uploads/careers/64_civil.pdf"
+    },
+    {
+        "date": "22/10/2026",
         "board": "RRB",
         "title": "Station Master",
         "qualification": "As per detailed CEN",
@@ -11,9 +43,25 @@
         "application_fee": "Not Available",
         "selection_process": "Not Available",
         "apply_mode": "Online",
-        "syllabus": "Not Available",
+        "syllabus": "RRB Station Master Syllabus & Exam Pattern Click Here",
         "official_website": "https://rrbapply.gov.in",
-        "official_notification": "bhel-artisan-recruitment-2026-3073301"
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "22/10/2026",
+        "board": "KMRL",
+        "title": "Trade, Graduate and Technician Apprentice     – 70 Posts",
+        "qualification": "Applicants must have completed a full-time regular four-year B.Tech or B.E. degree in one of the engineering disciplines notified by KMRL.",
+        "last_date": "10-11-2026",
+        "total_posts": "70",
+        "salary": "The monthly stipend depends on the apprentice's qualification category. Graduate apprentices receive Rs. 12,300, diploma apprentices Rs. 10,900 and ITI trade apprentices Rs. 9,600. An additional Rs. 1,200 per month is payable as food/messing allowance.",
+        "age_limit": "KMRL requires apprenticeship applicants to have completed 18 years of age. Candidates below 18 years are not eligible.",
+        "application_fee": "Kochi Metro Rail Limited has confirmed that there is no application fee for the Apprenticeship Programme 2026-27.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://kochimetro.org/",
+        "official_notification": "https://kochimetro.org/careers/site_media/notifications/217.pdf"
     },
     {
         "date": "22/10/2026",
@@ -29,7 +77,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://rrb.indianrailways.gov.in",
-        "official_notification": "bhel-artisan-recruitment-2026-3073301"
+        "official_notification": "Not Available"
     },
     {
         "date": "21/10/2026",
@@ -142,22 +190,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ircon.org",
         "official_notification": "https://ircon.org/sites/default/files/2026-10/Final_advt_of_apprentice_a01_2026.pdf"
-    },
-    {
-        "date": "16/10/2026",
-        "board": "KMRL",
-        "title": "Trade, Graduate and Technician Apprentice     – 70 Posts",
-        "qualification": "Applicants must have completed a full-time regular four-year B.Tech or B.E. degree in one of the engineering disciplines notified by KMRL.",
-        "last_date": "10-11-2026",
-        "total_posts": "70",
-        "salary": "The monthly stipend depends on the apprentice's qualification category. Graduate apprentices receive Rs. 12,300, diploma apprentices Rs. 10,900 and ITI trade apprentices Rs. 9,600. An additional Rs. 1,200 per month is payable as food/messing allowance.",
-        "age_limit": "KMRL requires apprenticeship applicants to have completed 18 years of age. Candidates below 18 years are not eligible.",
-        "application_fee": "Kochi Metro Rail Limited has confirmed that there is no application fee for the Apprenticeship Programme 2026-27.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://kochimetro.org/",
-        "official_notification": "https://kochimetro.org/careers/site_media/notifications/217.pdf"
     },
     {
         "date": "15/10/2026",
