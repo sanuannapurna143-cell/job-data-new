@@ -1,5 +1,21 @@
 [
     {
+        "date": "22/10/2026",
+        "board": "NRL Vacancy 2026 - 5 Advisor PostsNRL Advisor Vacancy 2026",
+        "title": "Advisor (Boiler Operation), Advisor (Operation - ETP), Advisor (Operation - Nitrogen Plant), Advisor (Operation - DM Plant)",
+        "qualification": "BE/B.Tech/BSc(Engg.)/BSc/Diploma in Engg with Boiler Operation Engineer (BOE) certification",
+        "last_date": "12-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 1,00,000/- to Rs. 1,25,000/- (based on last drawn pay and experience)",
+        "age_limit": "Maximum 65 years of age as on 12.11.2026",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nrl.co.in/",
+        "official_notification": "https://portal2.nrl.co.in/onlineapp/Home/DownloadFile?fileId=553&f=1"
+    },
+    {
         "date": "21/10/2026",
         "board": "RITES Vacancy 2026 - 1 Group General Manager / General Manager (Civil) PostsRITES Group General Manager / General Manager (Civil) Vacancy 2026",
         "title": "Group General Manager / General Manager (Civil)",
@@ -654,21 +670,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.tiss.ac.in",
         "official_notification": "https://tiss.ac.in/uploads/files/Final_advt_22_September_2026_-_Teaching-1.pdf"
-    },
-    {
-        "date": "21/09/2026",
-        "board": "DLRS Assam Vacancy 2026 - 579 Land Record Assistant PostsDLRS Assam Land Record Assistant Vacancy 2026",
-        "title": "Land Record Assistant",
-        "qualification": "579 Posts",
-        "last_date": "21-10-2026",
-        "total_posts": "Not Available",
-        "salary": "PB-2 (₹14,000 – ₹70,000) + Grade Pay ₹6,200, plus usual allowances admissible under Government of Assam rules",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://dlrs.assam.gov.in/",
-        "official_notification": "https://sebamis.sebaonline.org/landrecdpt/uploads/DLRS_19092026_Advertisement_for_Post_of_Land_Record_Assistant.pdf"
     }
 ]

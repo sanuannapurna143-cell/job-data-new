@@ -1,5 +1,37 @@
 [
     {
+        "date": "22/10/2026",
+        "board": "RRB",
+        "title": "Station Master",
+        "qualification": "As per detailed CEN",
+        "last_date": "25-11-2026",
+        "total_posts": "1250",
+        "salary": "Not Available",
+        "age_limit": "As per detailed CEN (as on 1 January 2027)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rrbapply.gov.in",
+        "official_notification": "bhel-artisan-recruitment-2026-3073301"
+    },
+    {
+        "date": "22/10/2026",
+        "board": "RRB",
+        "title": "Various Posts of Isolated Categories     – 195 Posts",
+        "qualification": "Not specified in the notice",
+        "last_date": "04-12-2026",
+        "total_posts": "195",
+        "salary": "The notice mentions the pay level as per the 7th CPC as Level 2 and Level 7 . The actual pay amount, allowances and post-wise pay level mapping are not specified in the indicative notice.",
+        "age_limit": "The age limit is listed as \"As per Detailed CEN\", with the age to be counted as on 01.01.2027. Minimum and maximum age limits and age relaxation details are not specified in the indicative notice.",
+        "application_fee": "The application fee, category-wise fee details and the payment mode are not specified in the indicative notice. These details are expected in the detailed CEN No. 09/2026.",
+        "selection_process": "The selection stages are not specified in the indicative notice. The notice refers to \"detailed scrutiny at every stage of recruitment process\" for Non-Aadhaar Verified applications, but it does not list the stages themselves. Candidates should wait for the detailed CEN No. 09/2026 for the selection process.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rrb.indianrailways.gov.in",
+        "official_notification": "bhel-artisan-recruitment-2026-3073301"
+    },
+    {
         "date": "21/10/2026",
         "board": "DFCCIL",
         "title": "Mechanical Department Employees     – 10 Posts",
@@ -14,22 +46,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.dfccil.com",
         "official_notification": "https://dfccil.com/upload/Static-one_merged-(18)_7GSG.pdf"
-    },
-    {
-        "date": "21/10/2026",
-        "board": "RRB",
-        "title": "Station Master",
-        "qualification": "As per detailed CEN",
-        "last_date": "25-11-2026",
-        "total_posts": "1250",
-        "salary": "Not Available",
-        "age_limit": "As per detailed CEN (as on 1 January 2027)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://rrbapply.gov.in",
-        "official_notification": "Not Available"
     },
     {
         "date": "21/10/2026",
@@ -62,22 +78,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rrcjaipur.in",
         "official_notification": "https://rrcjaipur.in/storeWebFiles/1008_11718187.PDF"
-    },
-    {
-        "date": "21/10/2026",
-        "board": "RRB",
-        "title": "Various Posts of Isolated Categories     – 195 Posts",
-        "qualification": "Not specified in the notice",
-        "last_date": "04-12-2026",
-        "total_posts": "195",
-        "salary": "The notice mentions the pay level as per the 7th CPC as Level 2 and Level 7 . The actual pay amount, allowances and post-wise pay level mapping are not specified in the indicative notice.",
-        "age_limit": "The age limit is listed as \"As per Detailed CEN\", with the age to be counted as on 01.01.2027. Minimum and maximum age limits and age relaxation details are not specified in the indicative notice.",
-        "application_fee": "The application fee, category-wise fee details and the payment mode are not specified in the indicative notice. These details are expected in the detailed CEN No. 09/2026.",
-        "selection_process": "The selection stages are not specified in the indicative notice. The notice refers to \"detailed scrutiny at every stage of recruitment process\" for Non-Aadhaar Verified applications, but it does not list the stages themselves. Candidates should wait for the detailed CEN No. 09/2026 for the selection process.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://rrb.indianrailways.gov.in",
-        "official_notification": "Not Available"
     },
     {
         "date": "21/10/2026",
@@ -368,22 +368,6 @@
         "official_notification": "https://ecr.indianrailways.gov.in/cris//uploads/files/1791531926213-document%20-%202026-10-09T100711.264.pdf"
     },
     {
-        "date": "09/10/2026",
-        "board": "GMRC",
-        "title": "Sr. Deputy General Manager (Traction), Deputy General Manager (Signalling), Manager (Signalling), Asst. Manager (Signalling), Asst. Manager (Rolling Stock), Sr. Section Engineer (Rolling Stock), Sr. Section Engineer (Signalling), and Section Engineer (Rolling Stock)",
-        "qualification": "B.E. / B.Tech in Electrical / Electrical & Electronics / Electronics & Telecommunications / Applied Electronics / Industrial Electronics / Power Electronics / Instrumentation or equivalent engineering graduate from a Govt. recognized University/Institute.",
-        "last_date": "21-10-2026",
-        "total_posts": "15",
-        "salary": "Apart from pay, other benefits like Group medical coverage and Group personal accident insurance coverage will be provided as per Company Policy.",
-        "age_limit": "Age limit will not be applicable to GMRCL employees. However, age relaxation will not apply to officials re-employed in GMRCL after superannuation.",
-        "application_fee": "The notification does not mention any application fee.",
-        "selection_process": "The selection process will comprise of Personal Interviews followed by Document Verification and Medical Examination as per the category prescribed for the post.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.gujaratmetrorail.com",
-        "official_notification": "https://www.gujaratmetrorail.com/wp-content/uploads/2026/10/Recruitment-notification-of-OM-1102026.pdf"
-    },
-    {
         "date": "07/10/2026",
         "board": "KRCL",
         "title": "Dy. Chief Electrical Engineer",
@@ -462,38 +446,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.rites.com",
         "official_notification": "https://rites.com/Upload/Career/Advertisement_for_CP_17_26_pdf-2026-Oct-06-12-57-40.pdf"
-    },
-    {
-        "date": "05/10/2026",
-        "board": "GMRC",
-        "title": "Assistant Manager, Sr. Executive/Executive     – 04 Posts",
-        "qualification": "Candidates applying for the Assistant Manager or Sr. Executive/Executive Land Acquisition and R&R posts must have a full-time postgraduate degree in MSW, or Master of Social Work, from a Government-recognised University or Institute.",
-        "last_date": "21-10-2026",
-        "total_posts": "04",
-        "salary": "For Assistant Manager, candidates from Government, PSU or Metro Rail organisations are required to meet the pay-scale conditions specified in the notification. || Candidates may presently be working in the revised IDA scale of ₹50,000–1,60,000 or an equivalent CDA scale in Government, PSU or Metro Rail Corporation. || Alternatively, candidates should have worked for at least two years in the revised IDA pay scale of ₹46,000–1,45,000 in a Non-Executive grade, ₹40,000–1,40,000 in an Executive grade, or Level 6 under the 7th CPC in Government, PSU or Metro Rail Corporation. || Another permitted condition is at least four years in the revised IDA pay scale of ₹40,000–1,25,000 in a Non-Executive grade, ₹35,000–1,10,000 in an Executive grade, or equivalent CDA scale. || Applicants from the private sector should have a minimum CTC of ₹70,000 per month.",
-        "age_limit": "Age and experience will be calculated as on 3 October 2026. || The notification states that the age limit will not apply to GMRCL employees. However, this age relaxation does not apply to officials re-employed in GMRCL after superannuation.",
-        "application_fee": "The available GMRC recruitment notification does not mention an application fee for these posts.",
-        "selection_process": "The official notification identifies Personal Interview, Document Verification and Medical Examination as the selection components. It also separately states that document verification of candidates will be conducted before the interview and that candidates must carry their original certificates. || Document Verification || Personal Interview || Medical Examination as prescribed for the post || The interview process will assess knowledge, skills, experience, expertise, aptitude and physical fitness. The date, time and venue will be communicated to shortlisted applicants in advance. Interview call letters will be sent through the registered email address.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.gujaratmetrorail.com",
-        "official_notification": "https://www.gujaratmetrorail.com/wp-content/uploads/2026/10/Recruitment-notification-LA-RR_3.10.2026.pdf"
-    },
-    {
-        "date": "03/10/2026",
-        "board": "KRCL",
-        "title": "Junior Technical Assistant / Mechanical",
-        "qualification": "Full time Degree/ Diploma in Electrical/ Electronics/ Mechanical Engineering from a recognized (AICTE) university or institute.",
-        "last_date": "21-10-2026",
-        "total_posts": "10",
-        "salary": "Junior Technical Assistant / Mechanical: Rs. 41380 - 47220 per month (Consolidated remuneration Rs. 47220 to 41380 depending on Class A, B, C)",
-        "age_limit": "Junior Technical Assistant / Mechanical: Maximum age 40 years. Age relaxations: OBC (NCL) - 3 years, SC/ST - 5 years.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Registration || Group Discussion (GD) or Written test (if required) || Walk-in Interview by Nominated Committee || Medical Examination",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://www.konkanrailway.com",
-        "official_notification": "https://konkanrailway.com/sites/default/files/2026-10/19c.pdf"
     },
     {
         "date": "03/10/2026",
