@@ -1,6 +1,22 @@
 [
     {
         "date": "23/10/2026",
+        "board": "PAU Vacancy 2026 - 1 Field Assistant PostsPAU Field Assistant Vacancy 2026",
+        "title": "Field Assistant",
+        "qualification": "1 Posts",
+        "last_date": "30-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://pau.edu/",
+        "official_notification": "https://forms.cloud.microsoft/r/4ibYS9CNsW"
+    },
+    {
+        "date": "23/10/2026",
         "board": "HBCH Vacancy 2026 - 4 Laundry Supervisor, Laundry Attendant PostsHBCH Vacancy 2026",
         "title": "Laundry Supervisor and Laundry Attendant",
         "qualification": "Graduate or 10+2 with 1 year experience in laundry",
@@ -78,22 +94,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iitrpr.ac.in",
         "official_notification": "https://www.iitrpr.ac.in/api/v2/files/download/225"
-    },
-    {
-        "date": "22/10/2026",
-        "board": "BRIC NABI Vacancy 2026 - 5 Research Associate, Senior Research Fellow and More PostsBRIC NABI Vacancy 2026",
-        "title": "Research Associate, Senior Research Fellow and More",
-        "qualification": "Ph.D. in any branch of Life Sciences or Biotechnology with at least two peer-reviewed international publications in Science Citation indexed (SCI) journal",
-        "last_date": "23-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 42,000/- per month (plus HRA, if hostel accommodation is unavailable in NABI)",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://nabi.res.in",
-        "official_notification": "https://nabi.res.in/backend/web/img/jobs/jobs-921-Advertisement%2013%20of%202026.pdf"
     },
     {
         "date": "22/10/2026",
