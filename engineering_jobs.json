@@ -1,22 +1,6 @@
 [
     {
         "date": "24/10/2026",
-        "board": "WAPCOS",
-        "title": "Post Name",
-        "qualification": "Commensurate with qualification and experience; to be discussed at the time of engagement",
-        "last_date": "07-11-2026",
-        "total_posts": "29",
-        "salary": "Salary will be commensurate with the qualification and experience of the Consultant and will be discussed at the time of engagement. The notification does not give a post-wise salary figure.",
-        "age_limit": "The maximum age limit for engagement of Consultants is 67 years. Age and experience will be counted as on 01.10.2026. The notification does not specify a minimum age limit or any age relaxation.",
-        "application_fee": "Not specified in the notification",
-        "selection_process": "The notification does not describe selection stages such as a written test or interview. It states that the Management reserves the right to fix the criteria to restrict the number of candidates if otherwise found suitable. Selected candidates must bring original certificates along with CVs at the time of joining, for verification purpose only.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.wapcos.co.in/",
-        "official_notification": "/cdn-cgi/l/email-protection"
-    },
-    {
-        "date": "24/10/2026",
         "board": "ISRO URSC",
         "title": "Technician-B, Heavy Vehicle Driver-A, Light Vehicle Driver-A, Staff Car Driver-A",
         "qualification": "Technician-B applicants must have passed SSLC/SSC/Matriculation and possess an ITI, National Trade Certificate (NTC) or National Apprenticeship Certificate (NAC) in the relevant trade from NCVT. || Candidates must possess a qualification corresponding to the advertised trade. A 10th Pass certificate alone is not sufficient for Technician-B eligibility.",
@@ -30,6 +14,22 @@
         "syllabus": "Not Available",
         "official_website": "https://www.isro.gov.in/",
         "official_notification": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Oct/URSClAdvt2410_24102026.pdf"
+    },
+    {
+        "date": "24/10/2026",
+        "board": "WAPCOS",
+        "title": "Post Name",
+        "qualification": "Commensurate with qualification and experience; to be discussed at the time of engagement",
+        "last_date": "07-11-2026",
+        "total_posts": "29",
+        "salary": "Salary will be commensurate with the qualification and experience of the Consultant and will be discussed at the time of engagement. The notification does not give a post-wise salary figure.",
+        "age_limit": "The maximum age limit for engagement of Consultants is 67 years. Age and experience will be counted as on 01.10.2026. The notification does not specify a minimum age limit or any age relaxation.",
+        "application_fee": "Not specified in the notification",
+        "selection_process": "The notification does not describe selection stages such as a written test or interview. It states that the Management reserves the right to fix the criteria to restrict the number of candidates if otherwise found suitable. Selected candidates must bring original certificates along with CVs at the time of joining, for verification purpose only.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.wapcos.co.in/",
+        "official_notification": "/cdn-cgi/l/email-protection"
     },
     {
         "date": "23/10/2026",
@@ -109,6 +109,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "irel-tradesman-trainee-recruitment-2026-3074241"
     }
 ]
