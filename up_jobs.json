@@ -1,5 +1,53 @@
 [
     {
+        "date": "16/09/2026",
+        "board": "AAI Vacancy 2026 - 39 Consultant PostsAAI Consultant Vacancy 2026",
+        "title": "Consultant",
+        "qualification": "Graduate in any discipline from a recognized university",
+        "last_date": "11-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "24/10/2026",
+        "board": "UPESSC Vacancy 2026 - 2647 Principal, Headmaster PostsUPESSC Vacancy 2026",
+        "title": "Posts in Boys' Schools",
+        "qualification": "A postgraduate (Master's) degree with at least 50% marks from a university, deemed university or institution established by law in India or recognised by the Government. || A Bachelor of Education (B.Ed.) degree from a course recognised by NCTE. || At least 4 years of teaching experience as Lecturer or Assistant Teacher in higher classes (Class 9 to 12) of an institution recognised by the Central or State Government,orat least 4 years of experience as Headmaster in a High School, issued by the competent authority.",
+        "last_date": "22-11-2026",
+        "total_posts": "Not Available",
+        "salary": "The notification gives only the pay level and pay range. Allowances and other benefits are not mentioned.",
+        "age_limit": "Applications without a date of birth, or from candidates who are over 62 years of age on 1 July 2026, will not be accepted. || Only the date of birth recorded in the High School or equivalent certificate is valid. No other document is accepted as proof of date of birth. || The notification does not give any age relaxation for any category.",
+        "application_fee": "The fee can be paid by credit card, debit card or net banking through the online payment gateway on the portal, right after registration. || When paying by card or net banking, the payment is valid only after the bank confirms it. || Keep the fee receipt safe after payment. || A candidate who does not complete the application by the last date after One Time Registration and payment will not have the application accepted. || Once the fee is paid, it will not be refunded in any situation and it will not be adjusted against another application.",
+        "selection_process": "Selection for both posts is based on a total of 400 marks: a written examination of 360 marks and an interview of 40 marks. The final merit list is prepared from the marks obtained out of these 400 marks.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.upessc.up.gov.in/",
+        "official_notification": "https://www.upessc.up.gov.in/Notice/e51a-5123-4329-4e57-72f0.pdf"
+    },
+    {
+        "date": "24/10/2026",
+        "board": "UPESSC Vacancy 2026 - 17735 Assistant Teacher (Graduate Pay Scale) PostsUPESSC Assistant Teacher (Graduate Pay Scale) Vacancy 2026",
+        "title": "Assistant Teacher (Graduate Pay Scale / TGT)",
+        "qualification": "For the standard academic subjects, the notification generally specifies a Bachelor's degree with at least 50% marks in the relevant subject or a Postgraduate degree with at least 45% marks, along with B.Ed. from an NCTE-recognized course and the prescribed TET qualification. Certain subjects have additional or different conditions. || Teacher Training and TET: Candidates must also satisfy the NCTE-recognized B.Ed. or other professional training requirement applicable to their subject and must have passed the Teacher Eligibility Test conducted for the upper-primary level (Classes 6 to 8) by the Government of Uttar Pradesh or Government of India, as specified in the notification. || The table summarizes the main academic requirements. Applicants must check the exact subject-wise alternatives and combinations in Section 7 of Advertisement No. 07/2026 before applying.",
+        "last_date": "23-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Selected Assistant Teachers will receive pay under Level 7, ranging from Rs. 44,900 to Rs. 1,42,400 , according to the official advertisement. || The notification specifies the Level 7 pay range but does not provide a fixed in-hand salary. Actual take-home pay will depend on the applicable allowances and deductions.",
+        "age_limit": "The minimum age for Assistant Teacher (Graduate Pay Scale) is 21 years as on 1 July 2026 . The advertisement also specifies the superannuation age as 62 years and states that applications from candidates older than 62 years on the reference date will not be accepted. || Candidates should refer to Section 6 of the official notification for age-related conditions and reservation provisions.",
+        "application_fee": "The application fee depends on the candidate's category and must be paid online through Credit Card, Debit Card or Net Banking. || Fee Payment Last Date: 23 November 2026. || Applicants should preserve the fee payment receipt. The notification specifies that the fee is not refundable or adjustable against another application where an incorrect application has been submitted.",
+        "selection_process": "The selection process is based on the merit of candidates in the 360-mark written examination , followed by the prescribed verification of educational qualifications, eligibility and supporting documents. || Written examination consisting of objective-type questions. || Preparation of merit based on written examination marks. || Application of the prescribed tie-breaking rules, where necessary. || Verification of original educational, teacher-training, TET and reservation certificates. || Further selection and recommendation according to the Commission's rules. || Where candidates obtain equal examination marks, the notification gives precedence to higher Graduation percentage, followed by training qualification percentage and then the older candidate, as applicable.",
+        "apply_mode": "Online",
+        "syllabus": "UP TGT Syllabus 2026 View Official Syllabus Information",
+        "official_website": "https://upessc.up.gov.in/",
+        "official_notification": "https://upessc.up.gov.in/"
+    },
+    {
         "date": "23/10/2026",
         "board": "IWAI Vacancy 2026 - 1 Principal Private Secretary PostsIWAI Principal Private Secretary Vacancy 2026",
         "title": "Principal Private Secretary",
@@ -141,7 +189,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://tmc.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "upessc-2647-principal-headmaster-recruitment-2026-3075555"
     },
     {
         "date": "22/10/2026",
@@ -173,7 +221,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://financialservices.gov.in",
-        "official_notification": "Not Available"
+        "official_notification": "irel-tradesman-trainee-recruitment-2026-3074241"
     },
     {
         "date": "22/10/2026",
@@ -682,7 +730,7 @@
         "age_limit": "Not Available",
         "application_fee": "The application fee must be paid via Demand Draft for Rs. 300/- drawn in favour of \"ESI Fund Account No. 1\" payable on any scheduled bank, to be submitted at the time of document verification cum walk-in interview. Fee once paid is non-refundable.",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://esic.gov.in",
         "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_on_26th_and_27th_October_2026_for_the_recruitment_of_Full_Time_Part_Time_Super_Specialist_Full_Time_Part_Time_Specialist_and_Senior_Residents_under_03_Years_Residency_Scheme_on_contract_basis_at_ESIC_1792061749.pdf"
@@ -1069,7 +1117,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "irel-tradesman-trainee-recruitment-2026-3074241"
     },
     {
         "date": "10/10/2026",
