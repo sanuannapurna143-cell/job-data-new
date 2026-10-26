@@ -1,6 +1,70 @@
 [
     {
         "date": "26/10/2026",
+        "board": "IIT Kanpur Vacancy 2026 - 1 Research Associate III PostsIIT Kanpur Research Associate III Vacancy 2026",
+        "title": "Research Associate III",
+        "qualification": "Ph.D. in any branch of Life Sciences.",
+        "last_date": "03-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://www.iitk.ac.in/dord/project/bsbe-ra-III-26-10-26.html"
+    },
+    {
+        "date": "26/10/2026",
+        "board": "Gautam Buddha University Vacancy 2026 - 1 Project Technical Support III PostsGautam Buddha University Project Technical Support III Vacancy 2026",
+        "title": "Project Technical Support III",
+        "qualification": "Post graduation (Biotechnology, Bioinformatics, Genomics, Microbiology, computational biology, Life sciences)",
+        "last_date": "02-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "35 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://manage.gbu.ac.in/Content/uploads/Notices/General/RP-Adv-ProjectTechnicalsupportIII.pdf"
+    },
+    {
+        "date": "26/10/2026",
+        "board": "HBTU Vacancy 2026 - 25 Faculty and Administrative Positions PostsHBTU Vacancy 2026",
+        "title": "Professor - Oil Technology, Assistant Professor - Electronics Engineering, Assistant Professor - Electrical Engineering and 18 more",
+        "qualification": "As per prevailing guidelines of AICTE/UGC / HBTU Recruitment Rules",
+        "last_date": "08-12-2026",
+        "total_posts": "25",
+        "salary": "Not Available",
+        "age_limit": "As per University / U.P. State Govt. norms",
+        "application_fee": "Payment mode: Online. Last date to pay the fee: 8 December 2026.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://hbtu.ac.in",
+        "official_notification": "https://hbtu.ac.in/Rec2026-27/updated-Regular%20Recruitment%202026.pdf"
+    },
+    {
+        "date": "26/10/2026",
+        "board": "IIT (BHU) Vacancy 2026 - 1 Junior Research Fellow PostsIIT (BHU) Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "The notice gives this essential qualification for the Junior Research Fellow (JRF): M. Pharm, M.S.(pharm.), M.Tech (pharm) in Pharma/Medicinal chemistry, Natural product Pharmacognosy, Analysis, etc with GATE/GPAT/CSIR-NET equivalent examination.",
+        "last_date": "21-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "The upper age limit for the Junior Research Fellow (JRF) is 28 years. The post table gives a relaxation of 5 years to \"SC/ST/Physically Handicapped Female candidates\". The general conditions add that relaxation of marks and age may be granted to SC/ST/OBC/EWS/Women/physically challenged candidates as per GOI norms. All things being equal, SC/ST candidates will be preferred as per GOI rules. || For the discipline-specific eligibility of the post, see the official notification.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_jrf_phe_ganga.pdf"
+    },
+    {
+        "date": "26/10/2026",
         "board": "UPPSC Vacancy 2026 - 501 Samiksha Adhikari, ARO, Care Taker and More PostsUPPSC Vacancy 2026",
         "title": "Post Name (Department)",
         "qualification": "For the post of Samiksha Adhikari, candidates must have a Bachelor's degree from a University established by law in India, or a qualification recognised by the Government as equivalent, up to the last date for receipt of online applications. Some posts have specific educational qualifications, listed below. Candidates for posts with specific educational qualifications must give their options clearly.",
@@ -301,7 +365,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://tmc.gov.in",
-        "official_notification": "bhel-artisan-recruitment-2026-3073301"
+        "official_notification": "Not Available"
     },
     {
         "date": "22/10/2026",
@@ -977,22 +1041,6 @@
     },
     {
         "date": "13/10/2026",
-        "board": "Ordnance Factory Hazratpur Vacancy 2026 - 1 Doctor PostsOrdnance Factory Hazratpur Doctor Vacancy 2026",
-        "title": "Doctor",
-        "qualification": "(i) M.B.B.S. Degree from MCI Recognised Medical collage. (ii) Medical Registration Certificate (National/State Medical Council)",
-        "last_date": "26-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 75000/- only per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://ddpdoo.gov.in/",
-        "official_notification": "https://ddpdoo.gov.in/storage/document/6accc3df6c10d.pdf"
-    },
-    {
-        "date": "13/10/2026",
         "board": "MNNIT Allahabad Vacancy 2026 - 12 Part Time General Duty Doctors PostsMNNIT Allahabad Part Time General Duty Doctors Vacancy 2026",
         "title": "Vacancies",
         "qualification": "MBBS, BAMS, BDS, MDS, BHMS, BPT, or MPT with relevant registration and experience as applicable per post",
@@ -1118,22 +1166,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rgipt.ac.in",
         "official_notification": "https://www.rgipt.ac.in/site/writereaddata/siteContent/202610011303374733RGIPT-NTS-October%202026.pdf"
-    },
-    {
-        "date": "05/10/2026",
-        "board": "CDAC Vacancy 2026 - 844 Project Associate, Project Engineer and More PostsCDAC Vacancy 2026",
-        "title": "Project Associate, Project Engineer and More",
-        "qualification": "For all posts, candidates should have qualified from an AICTE/UGC-approved college/institute or recognized university. || Where a university follows CGPA/DGPA/OGPA or letter grades, the candidate must submit proof of the percentage equivalent and awarded class, along with the degree certificate. || Candidates in their final semester, who will complete the course before appointment, may also apply; if selected, joining is contingent on passing with the required minimum score.",
-        "last_date": "26-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "The upper age limit is specified against each individual post (see the Pay & Age Grades table above for typical ranges). || SC/ST/OBC, physically challenged (PwBD), and Ex-Servicemen candidates are eligible for age relaxation as per Government of India norms. || Government employees on a pay scale get a 5-year age relaxation, in addition to other applicable relaxations. || The cut-off date for age and experience is the last date of application submission for the respective centre. || SSLC/SSC/ISC mark sheet/certificate, or any other valid document, is accepted as proof of date of birth. || The EWS certificate must strictly follow the DoPT-prescribed format (available at www.persmin.nic.in); the OBC (Non-Creamy Layer) certificate must also be in the prescribed format.",
-        "application_fee": "Not Available",
-        "selection_process": "Initial screening based on academic records and other parameters declared in the online application; only screened-in candidates proceed further. || C-DAC may raise the minimum eligibility criteria/cut-offs at its discretion if the number of applicants is high for any post. || Candidates are evaluated on academic credentials, experience profile, written test marks (if applicable), and interview performance. || The selection process is carried out independently by each C-DAC centre, based on its own requirements; only shortlisted candidates are contacted. || All submitted information is verified against original documents at document verification or any later stage; false or non-conforming information leads to rejection/cancellation at any stage.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
     },
     {
         "date": "10/10/2026",
@@ -1294,22 +1326,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iiml.ac.in/",
         "official_notification": "https://www.iiml.ac.in/sites/default/files/upload/jobs/1769900582JD_RA_Prof%20Ashutosh%20Jha.pdf"
-    },
-    {
-        "date": "06/10/2026",
-        "board": "IIT (BHU) Varanasi Vacancy 2026 - Project Research Scientist I PostsIIT (BHU) Varanasi Project Research Scientist I Vacancy 2026",
-        "title": "Project Research Scientist I",
-        "qualification": "First class M. Pharm/M. S. (Pharm.)/M. Tech (Pharm) in Pharmacology; PhD in Pharmacology.",
-        "last_date": "21 days",
-        "total_posts": "Not Available",
-        "salary": "Project Research Scientist I:Rs. 56,000 + 20% HRA per month for the first two years and a 5% hike in salary for the third year.",
-        "age_limit": "Project Research Scientist I:Maximum age 35 years. Age relaxation for SC/ST, Physically Handicapped/Female is applicable as per GoI rules.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on qualifications and experience || Interview of shortlisted candidates",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://iitbhu.ac.in",
-        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_prs_phe_novel.pdf"
     },
     {
         "date": "03/10/2026",
