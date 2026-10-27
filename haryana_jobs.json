@@ -1,26 +1,26 @@
 [
     {
         "date": "27/10/2026",
-        "board": "NHPC Vacancy 2026 - 1 Consultant (Safety) PostsNHPC Consultant (Safety) Vacancy 2026",
-        "title": "Consultant (Safety) – for retired officials only",
-        "qualification": "1 Posts",
-        "last_date": "23-11-2026",
-        "total_posts": "Not Available",
+        "board": "GJUS&T Vacancy 2026 - 1 Field Staff PostsGJUS&T Field Staff Vacancy 2026",
+        "title": "Field Staff",
+        "qualification": "Graduate in Life Sciences/ Environmental Science",
+        "last_date": "10-11-2026",
+        "total_posts": "1",
         "salary": "Not Available",
-        "age_limit": "Not more than 63 years on the closing date of application",
+        "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Email to [email protected]",
         "syllabus": "Not Available",
-        "official_website": "https://www.nhpcindia.com/",
-        "official_notification": "https://www.nhpcindia.com/assests/pzi_public/job/details_1793084987_4256.pdf"
+        "official_website": "https://www.gjust.ac.in",
+        "official_notification": "https://gjust.ac.in/portal/upload/DocScanner%20Oct%2027,%202026%204-48%20PM_27October2026_16-50-06-25.pdf"
     },
     {
         "date": "26/10/2026",
         "board": "THSTI Vacancy 2026 - 7 Lab Technician, Project Research Scientist and More PostsTHSTI Vacancy 2026",
         "title": "Lab Technician, Project Research Scientist and More",
         "qualification": "7 Posts",
-        "last_date": "04-11-2026",
+        "last_date": "17-11-2026",
         "total_posts": "Not Available",
         "salary": "Rs. 78,000/- plus HRA",
         "age_limit": "The notice gives the following age and other relaxations for direct recruits and departmental candidates: || For the discipline-specific eligibility of each post, check the official notification.",
@@ -30,6 +30,70 @@
         "syllabus": "Not Available",
         "official_website": "https://thsti.res.in/",
         "official_notification": "https://recruitment.thsti.in/public/upload/job_pdf/179292768678web-advt-RN-22.pdf"
+    },
+    {
+        "date": "12/10/2026",
+        "board": "GUG Vacancy 2026 - 1 Sports Officer/ Assistant Director Sports PostsGUG Sports Officer/ Assistant Director Sports Vacancy 2026",
+        "title": "Sports Officer/ Assistant Director Sports",
+        "qualification": "Candidate already holding same/equivalent post in same pay level on regular basis in Central/State Universities",
+        "last_date": "12-11-2026",
+        "total_posts": "Not Available",
+        "salary": "FPL-7 (Gross Up: B)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "The selection process includes scrutiny of applications followed by an interview.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://gurugramuniversity.ac.in/",
+        "official_notification": "https://gurugramuniversity.ac.in/Notice/Advertisement%20for%20the%20post%20Sports%20Officer%20or%20Assistant%20Director%20Sports%20(on%20deputation)_compressed%20(1).pdf"
+    },
+    {
+        "date": "18/09/2026",
+        "board": "SKAU Vacancy 2026 - 10 Non Teaching PostsSKAU Non Teaching Vacancy 2026",
+        "title": "Post Name",
+        "qualification": "10 Posts",
+        "last_date": "02-11-2026",
+        "total_posts": "Not Available",
+        "salary": "56,100 - 1,77,500",
+        "age_limit": "As per the Service Rules, no candidate who has not attained the age of 18 years shall be appointed to any post in the University, and the candidate should not be more than 42 years of age as on the last date of application. Relaxation in the maximum age for various categories will be given as per Haryana Government instructions No. 22/06/2021-1GS-III dated 25.03.2022, issued by the General Administration Department, Government of Haryana, as amended from time to time. || Before submitting the application, candidates are advised to verify that they meet the required age criteria. Use our Age Calculator to calculate your exact age as per the official cut-off date.",
+        "application_fee": "The category-wise application fee is payable through Net Banking, Debit Card, or Credit Card as detailed below. || Note: The fee once paid shall not be refunded under any circumstances, nor can it be held in reserve for any other examination or selection. Applications without the prescribed fee shall be summarily rejected.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://skau.ac.in",
+        "official_notification": "https://skau.ac.in/downloads/files/n6aaccdfd3d3a6.pdf"
+    },
+    {
+        "date": "27/10/2026",
+        "board": "GUG Vacancy 2026 - 9 Assistant Registrar and Clerk-cum-DEO PostsGUG Vacancy 2026",
+        "title": "Assistant Registrar, Clerk-cum-DEO",
+        "qualification": "Candidate already holding same/equivalent post in the same pay level OR Graduate with minimum 60% marks at metric or 50% marks at 10+2 level with having 02 years' experience s Daftri and Group D employee 05 years' experience in the university with minimum qualification of 10+2 or above. All applicant should have already cleared the SETC examinaton.",
+        "last_date": "12-11-2026",
+        "total_posts": "9",
+        "salary": "FPL-10",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email to [email protected]",
+        "syllabus": "Not Available",
+        "official_website": "https://www.gurugramuniversity.ac.in",
+        "official_notification": "https://gurugramuniversity.ac.in/Notice/Advertisement%20for%20the%20post%20of%20Assistant%20Registrar%20and%20Clerk-cum-D.E.O.%20(on%20deputation)_compressed.pdf"
+    },
+    {
+        "date": "27/10/2026",
+        "board": "NHPC Vacancy 2026 - 1 Consultant (Safety) PostsNHPC Consultant (Safety) Vacancy 2026",
+        "title": "Consultant (Safety) – for retired officials only",
+        "qualification": "1 Posts",
+        "last_date": "23-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not more than 63 years on the closing date of application",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.nhpcindia.com/",
+        "official_notification": "https://www.nhpcindia.com/assests/pzi_public/job/details_1793084987_4256.pdf"
     },
     {
         "date": "26/10/2026",
@@ -122,7 +186,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://recruitment.thsti.in/public/upload/job_pdf/Advertisement%20Dr.%20Amit%20Awasthi%20Oct%202026.pdf",
         "official_notification": "https://recruitment.thsti.in/public/upload/job_pdf/Advertisement%20Dr.%20Amit%20Awasthi%20Oct%202026.pdf"
@@ -173,7 +237,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://haryanapolice.gov.in/Public_Notice",
-        "official_notification": "goa-shipyard-limited-non-executive-recruitment-2026-3075885"
+        "official_notification": "Not Available"
     },
     {
         "date": "14/10/2026",
@@ -336,22 +400,6 @@
         "official_notification": "https://luvas.edu.in/downloads/files/n6ad0b9adc3e73.pdf"
     },
     {
-        "date": "15/10/2026",
-        "board": "KVS  No.1 AFS Sirsa Vacancy 2026 - PGT (Political Science) PostsKVS  No.1 AFS Sirsa PGT (Political Science) Vacancy 2026",
-        "title": "PGT (Political Science)",
-        "qualification": "Two-year Integrated Post Graduate Course of Regional College of Education of NCERT in Political Science with at least 50% marks in aggregate; OR a Master's Degree in Political Science from a recognized university with at least 50% marks in aggregate, along with a Bachelor of Education (B.Ed.) degree from an institution recognized by the NCTE. Proficiency in teaching in Hindi and English. Knowledge of computer applications is desirable.",
-        "last_date": "27-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not stated in the notice",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://afsno1sirsa.kvs.ac.in",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3kv05f56e8d17bf01bc4f9deedf4d7039/uploads/2026/10/2026101463.pdf"
-    },
-    {
         "date": "14/10/2026",
         "board": "NPCC Vacancy 2026 - 52 Jr. Engineer, Assistant and More PostsNPCC Vacancy 2026",
         "title": "Site Engineer (Civil), Site Engineer (Electrical), Sr. Associate (OS)-Finance, Sr. Associate (OS)-HR, Sr. Associate (OS)-Law, Sr. Associate (OS)-IT, Jr. Engineer (Civil), Assistant (OS), Assistant (OS)-Finance",
@@ -430,22 +478,6 @@
         "syllabus": "Not Available",
         "official_website": "https://thsti.res.in/",
         "official_notification": "https://recruitment.thsti.in/public/upload/job_pdf/179154379731Advertisement-THS-C-19-2026.pdf"
-    },
-    {
-        "date": "10/10/2026",
-        "board": "District AYUSH Society Bhiwani Vacancy 2026 - 25 Attendant, Yoga Instructor and More PostsDistrict AYUSH Society Bhiwani Vacancy 2026",
-        "title": "Specialist, Medical Officer, Pharmacist/Dispenser, Messours, Attendant, Yoga Instructor and other posts",
-        "qualification": "Up-Waidya from any recognized University/Institutions or Board or faculty of Indian System of Medicines established by law in India and recognized by the Government. Matric or its equivalent. Knowledge of Hindi and English up to Matric standard.",
-        "last_date": "27-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 50,000/- Per Month",
-        "age_limit": "The age limit for candidates is 18 to 42 years . Age relaxation is as per Haryana Govt. Instructions.",
-        "application_fee": "Not Available",
-        "selection_process": "Selection criteria consist of basic qualifications (weightage 30, calculated as 30 x Percentage / 100), post qualification relevant work experience in the same field any State Government/Semi Government/UT/Any Government Board/ Corporation NHM or private hospital/labs (weightage 10, with 02 marks for each completed year up to a maximum of 10 marks), and local area weightage (weightage 10, where 10 marks are awarded to candidates who are bonafide residents of the district and 0 marks for out of the district applicants), leading to a total of 50 marks.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://bhiwani.gov.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/10/654584-6ac9bf8db044435569749.pdf"
     },
     {
         "date": "09/10/2026",
@@ -544,22 +576,6 @@
         "official_notification": "https://aiimsrewari.edu.in/assets/img/jobs/AIIMS_Rewari_JR_Advertisement_FINAL.pdf"
     },
     {
-        "date": "28/09/2026",
-        "board": "RITES Vacancy 2026 - 2 Assistant Manager PostsRITES Assistant Manager Vacancy 2026",
-        "title": "Assistant Manager (IT/Network & security)",
-        "qualification": "Bachelor’s Degree / Post Graduate Degree in Computer Engineering/ Technology/ Science, IT, Electronics & Telecommunications, Communication, Instrumentation, or Computer Applications",
-        "last_date": "27-10-2026",
-        "total_posts": "2",
-        "salary": "Pay Scale:INR 40,000-1,40,000",
-        "age_limit": "Maximum Age:32 years || Age Relaxation:SC/ST Category: 5 years, OBC-NCL Category: 3 years, J&K Domicile: 5 years, PwBD: 10 Years.",
-        "application_fee": "Rs. 600/- plus Taxes as applicable",
-        "selection_process": "Written Test || Document Scrutiny || Interview",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://rites.com/",
-        "official_notification": "https://rites.com/Upload/Career/Final_Adv_(6)_pdf-2026-Sep-28-16-23-40.pdf"
-    },
-    {
         "date": "25/09/2026",
         "board": "Sainik School Kunjpura Vacancy 2026 - 15 TGT, Nursing Sister and More PostsSainik School Kunjpura Vacancy 2026",
         "title": "TGT, Horse Riding Instructor, Band Master, Mess Manager, Nursing Sister, Ward Boys",
@@ -570,7 +586,7 @@
         "age_limit": "Age Limit",
         "application_fee": "Candidates have to submit a non-refundable application fee of ₹500 through Bank Draft drawn in favour of Principal, Sainik School Kunjpura, Karnal (Haryana), payable at Karnal.",
         "selection_process": "Shortlisted candidates will be called for written test, practical test and interview as applicable. The list of shortlisted candidates will be published on the school website and candidates will also be informed through email and post.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://sskunjpura.org",
         "official_notification": "https://sskunjpura.org/admin/logged/images/academicupdate/Recruitment%20Notice.pdf"

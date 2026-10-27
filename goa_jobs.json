@@ -1,6 +1,38 @@
 [
     {
         "date": "27/10/2026",
+        "board": "GTDC Vacancy 2026 - 3 Technical Assistant (Civil) PostsGTDC Technical Assistant (Civil) Vacancy 2026",
+        "title": "Technical Assistant (Civil)",
+        "qualification": "Degree in Civil Engineering with 5 years practical experience",
+        "last_date": "17-11-2026",
+        "total_posts": "3",
+        "salary": "Not Available",
+        "age_limit": "Maximum 45 years (as on 17 November 2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.goa-tourism.com",
+        "official_notification": "https://www.goa.gov.in/wp-content/uploads/2026/10/Advertisment-for-the-post-of-TA-Civil.pdf"
+    },
+    {
+        "date": "27/10/2026",
+        "board": "DLL Vacancy 2026 - 1 Technician (Electronics) PostsDLL Technician (Electronics) Vacancy 2026",
+        "title": "Technician (Electronics)",
+        "qualification": "Diploma in Electronics Engineering or related field with 1 year experience",
+        "last_date": "08-12-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "18 to 27 years (as on 8 December 2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.dgll.nic.in",
+        "official_notification": "https://dgll.nic.in/sites/default/files/2026-10/Tech%20(Electronics)_0.pdf"
+    },
+    {
+        "date": "27/10/2026",
         "board": "DFS Goa Vacancy 2026 - 24 Scientific Assistant, Searcher and More PostsDFS Goa Vacancy 2026",
         "title": "Scientific Assistant, Searcher and More",
         "qualification": "Varies by post, from a Secondary School Certificate with photography training up to a Master's Degree in Science",
@@ -10,7 +42,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Selection has two stages: document scrutiny, then an interview.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.goa.gov.in/wp-content/uploads/2026/10/Directorate-of-Forensic-Sciences-Advertisment-Form.pdf"
@@ -26,7 +58,7 @@
         "age_limit": "Age not exceeding 45 years . || The cut-off date for determining the eligibility criteria towards educational qualifications, age limit, and experience will be as on the last date of application (29 October 2026).",
         "application_fee": "The notification does not mention any application fee.",
         "selection_process": "The selection process comprises document verification of essential documents followed by an examination.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.ghb.goa.gov.in",
         "official_notification": "https://www.goa.gov.in/wp-content/uploads/2026/10/Goa-Housing-Board-Avertisment-10-8-2026.pdf"
@@ -77,7 +109,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "bhel-artisan-recruitment-2026-3073301"
+        "official_notification": "Not Available"
     },
     {
         "date": "24/10/2026",
@@ -154,7 +186,7 @@
         "age_limit": "63 Years as on 30.09.2026",
         "application_fee": "Not Available",
         "selection_process": "GSL screens and shortlists the applications, and shortlisted candidates are called for a personal interview. || Screening and shortlisting:The Management reserves the right to decide the criteria for screening applications and to raise the eligibility criteria for shortlisting. Meeting the qualifications and other requirements does not by itself entitle a candidate to an interview call. || Interview call:Interview call letters will be sent only by email, to the registered email ID of shortlisted candidates. || Personal interview:No TA / DA will be paid to candidates called for the personal interview. || Updates:The names of eligible candidates, the interview date, and the roll numbers or names of selected candidates will be posted on www.goashipyard.in under \"Notice Board → Careers → Advertisement\".",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://goashipyard.in",
         "official_notification": "https://goashipyard.in/storage/clients_logo/1792643520.pdf"
@@ -190,22 +222,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.bits-pilani.ac.in",
         "official_notification": "https://www.bits-pilani.ac.in/wp-content/uploads/DST-H2-Valley-JRF-Advertisement.pdf"
-    },
-    {
-        "date": "13/10/2026",
-        "board": "IIT Goa Vacancy 2026 - 1 Part-Time Student Counsellor PostsIIT Goa Part-Time Student Counsellor Vacancy 2026",
-        "title": "Part-Time Student Counsellor",
-        "qualification": "1 Posts",
-        "last_date": "27-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitgoa.ac.in",
-        "official_notification": "https://iitgoa.ac.in/wp-content/uploads/IITGoaRECTNT-CON2026-09.pdf"
     },
     {
         "date": "12/10/2026",
