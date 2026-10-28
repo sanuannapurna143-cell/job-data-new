@@ -1,22 +1,6 @@
 [
     {
         "date": "27/10/2026",
-        "board": "PDPM IIITDM Jabalpur Vacancy 2026 - 1 Junior Research Fellow PostsPDPM IIITDM Jabalpur Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "Graduate / Post Graduate Degree (B.E./B.Tech/M.E./M.Tech) in Computer Science and Engineering, Information Technology or similar branches.",
-        "last_date": "09-11-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Below 35 years (on the date of written test and/or interview)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://forms.gle/iProoc6bb7Bu81gf9",
-        "official_notification": "https://www.iiitdmj.ac.in/jobs/download/JRF/JRF_Advertizement_ANRF_NA_27102026.pdf"
-    },
-    {
-        "date": "27/10/2026",
         "board": "AIIMS Bhopal Vacancy 2026 - 1 Multitasking Staff PostsAIIMS Bhopal Multitasking Staff Vacancy 2026",
         "title": "Multitasking Staff",
         "qualification": "1 Posts",
@@ -33,6 +17,22 @@
     },
     {
         "date": "27/10/2026",
+        "board": "PDPM IIITDM Jabalpur Vacancy 2026 - 1 Junior Research Fellow PostsPDPM IIITDM Jabalpur Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "Graduate / Post Graduate Degree (B.E./B.Tech/M.E./M.Tech) in Computer Science and Engineering, Information Technology or similar branches.",
+        "last_date": "09-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Below 35 years (on the date of written test and/or interview)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iiitdmj.ac.in",
+        "official_notification": "https://www.iiitdmj.ac.in/jobs/download/JRF/JRF_Advertizement_ANRF_NA_27102026.pdf"
+    },
+    {
+        "date": "27/10/2026",
         "board": "AIIMS Bhopal Vacancy 2026 - 20 Junior Resident PostsAIIMS Bhopal Junior Resident Vacancy 2026",
         "title": "Junior Resident",
         "qualification": "A Medical Degree viz. MBBS in respective disciplines recognized by NMC/Institute of National Importance. || Internship completed within 5 years of the date of interview. || Valid registration with NMC/State Medical Council. || Only candidates who have been declared passed in their qualifying degree exam and will complete their course tenure on or before the date of interview are eligible. || Foreign medical graduates must produce an FMGE certificate conducted by NBE. Candidates should check the official notification for the discipline-specific eligibility of each post.",
@@ -42,7 +42,7 @@
         "age_limit": "The upper age limit is 33 years as on the last date of submission of application, which is the date of interview (19 November 2026). The upper age limit is relaxed as follows:",
         "application_fee": "The fee is paid only by Demand Draft drawn in favour of \"EXECUTIVE DIRECTOR, AIIMS, Bhopal\", and the DD is brought to the interview. Once paid, the fee will not be refunded under any circumstances.",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.aiimsbhopal.edu.in",
         "official_notification": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/Download/Advertisement_JR_27102026.pdf"

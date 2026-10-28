@@ -1,5 +1,21 @@
 [
     {
+        "date": "28/10/2026",
+        "board": "IIT Roorkee Vacancy 2026 - 1 Junior Research Fellow PostsIIT Roorkee Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "Experience in cryptography and cybersecurity along with a solid background in programming. || For the full eligibility of the Junior Research Fellow post in each discipline, see the official notification.",
+        "last_date": "30-10-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitr.ac.in",
+        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CSE/2026/adv27102026.pdf"
+    },
+    {
         "date": "27/10/2026",
         "board": "IIT Roorkee Vacancy 2026 - 1 Post-Doctoral Fellow PostsIIT Roorkee Post-Doctoral Fellow Vacancy 2026",
         "title": "Post-Doctoral Fellow (PDF)",
@@ -330,7 +346,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Selection will be made through a personal interview conducted by a Committee headed by Director/HR IOL, with members from Operations and Finance divisions nominated by CMD/IOL. Scrutiny of applications will be done by a Scrutiny Committee, followed by shortlisting of candidates based on total experience and qualifications. Document verification from original certificates will be carried out before the personal interview, and shortcomings will lead to rejection of candidature. Provisional call letters for the interview will be issued via email only.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://indiaoptel.in",
         "official_notification": "https://indiaoptel.in/sites/default/files/2026-10/advertisement-for-director-dcc.pdf"

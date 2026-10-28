@@ -1,19 +1,51 @@
 [
     {
-        "date": "27/10/2026",
-        "board": "District Project Livelihood College Vacancy 2026 - 1 Solar Panel Installation Technician (Guest Trainer) PostsDistrict Project Livelihood College Solar Panel Installation Technician (Guest Trainer) Vacancy 2026",
-        "title": "Solar Panel Installation Technician",
-        "qualification": "Diploma/ITI (Mechanical/Electronics/Electrical) with 1 year industrial experience and 1 year training experience in Solar Panel Installation, or certified in relevant CITS Trade",
-        "last_date": "04-11-2026",
+        "date": "28/10/2026",
+        "board": "NIT Raipur Vacancy 2026 - 1 Project Fellow PostsNIT Raipur Project Fellow Vacancy 2026",
+        "title": "Project Fellow",
+        "qualification": "M.E./M.Tech./MCA/M.Sc. in Computer Science/Information Technology/Data Science/Artificial Intelligence or relevant discipline",
+        "last_date": "15-11-2026",
         "total_posts": "1",
         "salary": "Not Available",
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
+        "apply_mode": "Email to [email protected]",
+        "syllabus": "Not Available",
+        "official_website": "https://nitrr.ac.in",
+        "official_notification": "https://nitrr.ac.in/others/announcement_docs/1793170152_2050.pdf"
+    },
+    {
+        "date": "28/10/2026",
+        "board": "IGKV Vacancy 2026 - 1 Guest Teacher PostsIGKV Guest Teacher Vacancy 2026",
+        "title": "Guest Teacher",
+        "qualification": "Master's Degree in the relevant subject of Agriculture with 55% or equivalent grade 6.50 on a 10.0 scale, with a good academic record. || Candidates with a Master's degree must also have passed NET (National Eligibility Test) for recruitment to the post of Assistant Professor and equivalent, in the discipline in which NET is conducted. They also need one publication in a refereed journal related to NAAS (National Academy of Agricultural Sciences, New Delhi). || Ph.D. holders do not need NET if the Ph.D. was done with course work as prescribed by the UGC Regulation 2009. They must also have at least two full-length publications with a NAAS rating of not less than 4 on the last date of submission of the application. || A Ph.D. without course work does not qualify for the NET exemption. || If no eligible candidate is available, the college may, in extreme cases of exigency, consider PG candidates as part-time teachers on a period basis. This would be for only one semester and needs approval from the competent authority. || For the full eligibility conditions for the discipline, see the official notification.",
+        "last_date": "10-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 1200/- to Rs. 1800/- per working day, depending on qualification",
+        "age_limit": "The maximum age limit is 40 years. SC, ST, OBC and women candidates get 5 years of relaxation as per CG Government rules.",
+        "application_fee": "Not Available",
+        "selection_process": "Selection is by interview before a committee. The interview follows the university's 2019 guidelines and norms. The venue is the College of Agriculture, IGKV, Raipur (C.G.). Bring all your original documents for verification on the interview day. Candidates without them will not be allowed to appear. Canvassing in any form leads to disqualification. No TA/DA is paid for attending the interview. || After the committee selects a candidate, the candidate must submit an affidavit on stamp paper of Rs. 50/- in the prescribed format, agreeing to the terms and conditions set by the Vishwavidyalaya.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://igkv.ac.in",
+        "official_notification": "https://igkv.ac.in/_Attachment/web/news_notificaiton/2026/0/2/Recruitment_-_6889_20261027045417_0_e9e04b5a.pdf"
+    },
+    {
+        "date": "28/10/2026",
+        "board": "CMHO Raigarh Vacancy 2026 - 6 Lab Technician PostsCMHO Raigarh Lab Technician Vacancy 2026",
+        "title": "Lab Technician",
+        "qualification": "Intermediate (10+2) and Diploma of certified course in Medical Laboratory Technology or equivalent",
+        "last_date": "13-11-2026",
+        "total_posts": "6",
+        "salary": "Not Available",
+        "age_limit": "Minimum 18 years and maximum 70 years (for medical posts) (as on 1 January 2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
         "apply_mode": "Walk-in",
         "syllabus": "Not Available",
-        "official_website": "http://www.Bastar.gov.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17930974855338.pdf"
+        "official_website": "https://raigarh.gov.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s351d92be1c60d1db1d2e5e7a07da55b26/uploads/2026/10/17931683764021.pdf"
     },
     {
         "date": "27/10/2026",
@@ -30,6 +62,22 @@
         "syllabus": "Not Available",
         "official_website": "https://www.surajpur.nic.in",
         "official_notification": "https://cdn.s3waas.gov.in/s345645a27c4f1adc8a7a835976064a86d/uploads/2026/10/17930991031501.pdf"
+    },
+    {
+        "date": "27/10/2026",
+        "board": "District Project Livelihood College Vacancy 2026 - 1 Solar Panel Installation Technician (Guest Trainer) PostsDistrict Project Livelihood College Solar Panel Installation Technician (Guest Trainer) Vacancy 2026",
+        "title": "Solar Panel Installation Technician",
+        "qualification": "Diploma/ITI (Mechanical/Electronics/Electrical) with 1 year industrial experience and 1 year training experience in Solar Panel Installation, or certified in relevant CITS Trade",
+        "last_date": "04-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "http://www.Bastar.gov.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17930974855338.pdf"
     },
     {
         "date": "27/10/2026",
@@ -250,7 +298,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "The selection process comprises a merit list based on academic evaluation and work experience, followed by a written and skill test for shortlisted candidates. || Academic Qualification:70% weightage (70 marks) based on the percentage obtained in the mandatory minimum educational qualification. || Experience:No marks are awarded for the mandatory minimum experience period. For experience beyond the minimum requirement, 02 marks are awarded per completed year of experience, up to a maximum of 10 marks. || Shortlisting:Based on the combined marks of qualification and experience (out of 80 marks), candidates will be shortlisted for the written and skill examination in a 1:10 ratio (10 candidates per vacancy). || Written and Skill Test:Allocated 20 marks. || Final Merit List:Prepared on the basis of total marks obtained across academic qualification, experience, and the written/skill test (out of 100 marks). In case of a tie in marks, preference will be given to the candidate older in age; if age is also identical, preference will be given to the candidate with higher marks in the minimum educational qualification. || Waiting List:A waiting list of 25% or a minimum of 03 candidates (whichever is higher) will be maintained, valid for 01 year from the date of publication of the selection list.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://korba.gov.in/",
         "official_notification": "/cdn-cgi/l/email-protection"
@@ -266,7 +314,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://igkv.ac.in",
         "official_notification": "https://igkv.ac.in/_Attachment/web/news_notificaiton/2026/0/2/Recruitment_-_6879_20261022123220_0_d618fe17.pdf"
@@ -538,7 +586,7 @@
         "age_limit": "Minimum 21 years and maximum 35 years as on 01.01.2026. General Administration Department rules provide age relaxation up to 45 years for local residents of Chhattisgarh who are regular government servants, public sector/board/corporation/contract employees/ex-servicemen. An additional 5 years of age relaxation applies to local educated unemployed youth of Chhattisgarh under departmental norms, provided the total relaxation does not exceed 45 years.",
         "application_fee": "Not Available",
         "selection_process": "Selection is based on academic qualification weightage, practical computer tests, and experience marks. Merit lists are prepared and candidates are called for a skill test. For each vacancy, 10 candidates will be called based on merit ranking. Final selection combines academic/experience weightage and practical test scores. No waiting list is maintained beyond the reserve candidates formed during selection.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://jashpur.nic.in/",
         "official_notification": "https://jashpur.nic.in/"
@@ -650,7 +698,7 @@
         "age_limit": "Program Officer:First-class degree in MBA / BE / BTech / MRTM (Master of Rural Technology and Management) / Mathematics / Physics postgraduate. || Assistant Programmer:MCA (Computer Science / Information Technology) / MSc degree, or BE / BTech in Computer Science / Information Technology/Computer Science Engineering from a recognized university, or equivalent. || Accountant:BCom with at least 55% marks, or passed intermediate in ICWAI / CA, or post-graduation in BCom with 55% marks. || Age Limit:Minimum 21 years and maximum 35 years as of 01.01.2026, with an upper age relaxation up to 45 years for local resident unemployed youth of Chhattisgarh.",
         "application_fee": "Not Available",
         "selection_process": "Candidates are shortlisted on a merit basis derived from educational qualification weightage, computer practical tests, experience weightage, skill tests, and final document verification. For Assistant Programmer, 10 candidates are called per vacancy based on merit for skill tests. For other posts, shortlisting follows a merit ratio.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://bemetara.gov.in/en/",
         "official_notification": "https://bemetara.gov.in/en/"
@@ -666,7 +714,7 @@
         "age_limit": "Candidates must be between 21 and 40 years of age as of 01-01-2026. The upper age limit is 45 years for government servants, corporation/board/contract employees, and municipal soldiers as per Chhattisgarh government rules. Age relaxations apply to reserved categories (SC, ST, OBC, Ex-servicemen, and women) according to state government circulars.",
         "application_fee": "Not Available",
         "selection_process": "The selection process is based on merit prepared from minimum educational qualifications and work experience. For each post, 10 candidates per vacancy will be called for a skill test, following which the final selection list will be prepared. Equal marks will be resolved by giving preference to older candidates based on age.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://mungeli.gov.in",
         "official_notification": "https://cdn.s3waas.gov.in/s3051e4e127b92f5d98d3c79b195f2b291/uploads/2026/10/17919657811665.pdf"
@@ -682,7 +730,7 @@
         "age_limit": "Educational Qualification:Candidates must hold a degree from a recognised university in MCA (Computer Science / Information Technology) or M.Sc (Computer Science / IT) or B.E. / B.Tech in Computer Science / Information Technology or an equivalent degree from a recognised university. || Age Limit:Minimum age is 21 years and maximum age is 35 years as on 1 January 2026. || Age Relaxations:Age relaxations are applicable for Chhattisgarh native residents and various categories as per the rules and directives issued by the General Administration Department of Chhattisgarh from time to time, up to a maximum age limit of 45 years including all relaxations.",
         "application_fee": "Not Available",
         "selection_process": "The selection process consists of a merit list prepared by assigning weightage to educational qualifications, a computer practical test, and work experience: || Educational Qualification Weightage:Up to 45 marks based on the percentage obtained in the qualifying degree (minimum 60% marks required to be eligible). || Computer Practical Test:40 marks to test computer proficiency. || Experience Weightage:Up to 15 marks based on experience working in government rural development schemes in Chhattisgarh (5 marks for at least 1 to 2 years of experience, 10 marks for up to 5 years, and 15 marks for more than 5 years of experience). || Candidates will be called for the computer practical test in a 1:10 ratio based on merit.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://kondagaon.gov.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s36ea9ab1baa0efb9e19094440c317e21b/uploads/2026/10/17919650308759.pdf"
@@ -816,22 +864,6 @@
         "official_notification": "https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17915320444355.pdf"
     },
     {
-        "date": "09/10/2026",
-        "board": "Zila Panchayat Jashpur Vacancy 2026 - 2 Regional Coordinator, Accountant cum MIS Assistant PostsZila Panchayat Jashpur Vacancy 2026",
-        "title": "Regional Coordinator, Accountant cum MIS Assistant",
-        "qualification": "1. Graduation passed from a recognized university. 2. Graduation from a recognized institution/university with one-year diploma/certificate in computer. Experience: Minimum 1 year of experience in poverty alleviation / livelihood projects in poverty departments after graduation, or experience working in government / semi-government / state-aided / state-funded / non-governmental organizations.",
-        "last_date": "27-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 26,490/- per month (consolidated)",
-        "age_limit": "As per Chhattisgarh General Administration Department letter dated 16.09.2026, regular government servants working in government services under the state, employees of boards/corporations/mandis, contractual workers, and former soldiers will have their upper age limit relaxed from 38 years to 48 years.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.jashpur.nic.in",
-        "official_notification": "https://www.jashpur.nic.in"
-    },
-    {
         "date": "08/10/2026",
         "board": "Zila Panchayat Sukma Vacancy 2026 - 8 Accountant, Computer Programmer and More PostsZila Panchayat Sukma Vacancy 2026",
         "title": "Computer Programmer, Programme Officer, Assistant Programmer, Accountant and other posts",
@@ -842,7 +874,7 @@
         "age_limit": "Minimum age limit is 21 years and maximum age limit is 35 years for general administration department rules. Maximum age limit shall not exceed 45 years under any circumstances. Age is calculated as on 01.01.2026.",
         "application_fee": "Not Available",
         "selection_process": "The selection process comprises merit list preparation based on educational qualifications, followed by a practical or skill test where candidates are called in a 1:10 ratio based on merit.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://sukma.gov.in/",
         "official_notification": "https://www.sukma.gov.in"

@@ -1,5 +1,21 @@
 [
     {
+        "date": "28/10/2026",
+        "board": "ASBB Vacancy 2026 - 2 Project Associate, Project Assistant PostsASBB Vacancy 2026",
+        "title": "Project Associate (Agrobiodiversity), Project Assistant (Wildlife)",
+        "qualification": "M.Sc. in Agriculture or Zoology or Wildlife Sciences",
+        "last_date": "10-11-2026",
+        "total_posts": "2",
+        "salary": "Rs. 32,000",
+        "age_limit": "21 to 35 years (as on 1 October 2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.asbb.gov.in",
+        "official_notification": "https://www.asbb.gov.in/pdf/whats_new/281026/Advertisement_%20Project%20%20Staff%20of%20ASBB_27_10_2026.pdf"
+    },
+    {
         "date": "26/10/2026",
         "board": "IRCON Vacancy 2026 - 37 Manager PostsIRCON Manager Vacancy 2026",
         "title": "Manager",
@@ -30,22 +46,6 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.nits.ac.in/storage/CareerDocument/Career_6adf4b4dc7a8e.pdf"
-    },
-    {
-        "date": "23/10/2026",
-        "board": "ESIC Vacancy 2026 - 4 Senior Resident PostsESIC Senior Resident Vacancy 2026",
-        "title": "Senior Resident",
-        "qualification": "MBBS with PG Degree or equivalent/ PG Diploma in concerned specialty from recognized university. For Casualty department PG degree or diploma in any subject. However preference will be given to PG pass-out candidates. In case of non-availability of PG candidates, MBBS with at least 02 years working experience in the same discipline, out of which 1 year experience in the concerned field at Govt. Hospital /Private hospital (not a private clinic) for one year as Senior Resident on Contractual basis are required.",
-        "last_date": "27-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 1,14,955/- per month",
-        "age_limit": "Not exceeding 45 years as on the date of interview. Age relaxation is applicable for SC/ST/OBC and all others as per Central Government Rules, but no age relaxation will be available to SC/ST/OBC candidates applying for unreserved vacancies.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://esic.gov.in",
-        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/WALK_IN_INTERVIEW_FOR_RECRUITMENT_TO_THE_POST_SR_against_GDMO_ON_CONTRACT_BASIS_FOR_ESIC_HOSPITAL_TINSUKIA_ASSAM_1792728435.pdf"
     },
     {
         "date": "27/10/2026",
@@ -298,7 +298,7 @@
         "age_limit": "Minimum 18 years; maximum General 45 years, ST 50 years",
         "application_fee": "Not stated in the notice",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.oil-india.com",
         "official_notification": "https://www.oil-india.com/download-advertisement-document?detail=NlVXLw=="
@@ -334,22 +334,6 @@
         "syllabus": "Not Available",
         "official_website": "https://purabi.coop/",
         "official_notification": "https://recruitment.purabi.coop/files/REOI4b36f3.pdf"
-    },
-    {
-        "date": "16/10/2026",
-        "board": "IIT Guwahati Vacancy 2026 - 1 SRF PostsIIT Guwahati SRF Vacancy 2026",
-        "title": "SRF(Direct)",
-        "qualification": "1 Posts",
-        "last_date": "27-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not stated in the notice",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitg.ac.in/",
-        "official_notification": "https://www.iitg.ac.in/pdf/555ecd4e3d492893fdd78e298d10b531.pdf"
     },
     {
         "date": "16/10/2026",
@@ -522,7 +506,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://rtuassam.ac.in",
         "official_notification": "https://rtuassam.ac.in/upload/recruitment/1791886682.pdf"
@@ -538,7 +522,7 @@
         "age_limit": "Candidates must not be below 18 years and above 50 years of age as on 12 Nov 2026 for Quarter Master, Band Master, PTI Cum Matron (Female), Mess Manager, LDC, Ward Boy, Office Superintendent, System Administrator, and Horse Riding Instructor. For PGT and TGT posts, candidates must not be below 21 years and above 50 years of age as on 12 Nov 2026.",
         "application_fee": "The application fee is non-refundable and must be paid via a Demand Draft (DD) drawn in favour of “Principal, Sainik School, Goalpara” payable at State Bank of India, Mornai (Code No. 9148).",
         "selection_process": "Selection will be made based on an individual’s performance in a Written Test, Skill Test / Class Demonstration, and Interview (as applicable). Shortlisted candidates meeting eligibility criteria will be called for the written test. || Written Test Pattern: The written test will be of one hour duration comprising General Knowledge, General English, Basic Mathematics, and a Subject Test of appropriate level.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://sainikschoolgoalpara.org/",
         "official_notification": "https://sainikschoolgoalpara.org/wp-content/uploads/2026/10/Advt-Recruitment_03_2026_03Oct-26.pdf"
@@ -622,21 +606,5 @@
         "syllabus": "Not Available",
         "official_website": "https://animalhusbandry.assam.gov.in/",
         "official_notification": "https://animalhusbandry.assam.gov.in/sites/default/files/swf_utility_folder/departments/ahvetdept_webcomindia_org_oid_3/menu/right_menu/right_menu/advertisement_for_the_post_of_field_assistant_statistics-enumerator.pdf"
-    },
-    {
-        "date": "28/09/2026",
-        "board": "CSIR NEIST Vacancy 2026 - 1 Security Officer PostsCSIR NEIST Security Officer Vacancy 2026",
-        "title": "Security Officer",
-        "qualification": "Ex-Servicemen JCO (Subedar or higher rank) OR equivalent rank in other Para-military forces with minimum of 10 years experience in security (05 years in case of Short Service Commissioned Officers and Assistant Commandant in CRPF/BSF/ITBP etc., 10 years in case of Inspector from Para Military Forces).",
-        "last_date": "27-10-2026",
-        "total_posts": "1",
-        "salary": "Level-07 (Rs. 44,900-1,42,400) as per 7th CPC with usual allowances like DA, HRA, TA.",
-        "age_limit": "Security Officer:Maximum Age: 35 Years. Age relaxation: As per Govt. of India rules for Ex-Servicemen.",
-        "application_fee": "Exempted",
-        "selection_process": "Physical and personality assessment test (qualifying in nature) || Written test (Paper-I and Paper-II) || Final merit list based on performance in Paper-II",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.neist.res.in",
-        "official_notification": "https://neist.res.in/public/storage/documents/1790569561_ADVT%20ENGLISH%20Security%20Officer%20FINAL.pdf"
     }
 ]
