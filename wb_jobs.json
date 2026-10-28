@@ -1,6 +1,38 @@
 [
     {
         "date": "28/10/2026",
+        "board": "MJNMCH Vacancy 2026 - 1 House-staff (Junior Resident) PostsMJNMCH House-staff (Junior Resident) Vacancy 2026",
+        "title": "House-staff (Junior Resident)",
+        "qualification": "MBBS with completed internship and permanent or applied medical registration (WBMC or MCI)",
+        "last_date": "02-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Maximum 35 years (as on 31st November 2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mjnmch.ac.in",
+        "official_notification": "https://www.mjnmch.ac.in/auth/colFile/mjnmc_prin_2477_2026.pdf"
+    },
+    {
+        "date": "28/10/2026",
+        "board": "Visva-Bharati Vacancy 2026 - 1 Radiologist PostsVisva-Bharati Radiologist Vacancy 2026",
+        "title": "Radiologist",
+        "qualification": "MBBS with MD in Radio Diagnosis or equivalent and permanent registration with West Bengal Medical Council",
+        "last_date": "20-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Maximum 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.visvabharati.ac.in",
+        "official_notification": "https://www.visvabharati.ac.in/home/wp-content/uploads/2026/10/Advt.-to-upload-of-Radiologist.pdf"
+    },
+    {
+        "date": "28/10/2026",
         "board": "NIBMG Vacancy 2026 - 1 Research Associate-I PostsNIBMG Research Associate-I Vacancy 2026",
         "title": "Research Associate-I",
         "qualification": "Has at least one first author publication where the candidate has worked on human cells, animal models, biochemistry, molecular biology and imaging.",
@@ -110,22 +142,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iitkgp.ac.in/",
         "official_notification": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/UCP/2026/102"
-    },
-    {
-        "date": "27/10/2026",
-        "board": "ISI Vacancy 2026 - 2 Project Linked Research Assistant PostsISI Project Linked Research Assistant Vacancy 2026",
-        "title": "Project Linked Research Assistant",
-        "qualification": "MA/M.Sc in Population Studies/Public health/Anthropology/Health Management/Development Studies/Developmental Economics/Psychology/Applied Psychology or related disciplines.",
-        "last_date": "28-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "The age of the candidate should not exceed 35 years as on 3 November 2027. SC/ST/OBC/PwBD/Female candidates get the usual relaxation. Age relaxation may also be given to outstanding candidates with relevant experience. || For the discipline-specific eligibility of the post, see the official notification.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.isical.ac.in",
-        "official_notification": "https://www.isical.ac.in/isical_web/admin/uploads/jobs/20261026_171038_e730e2_RA%20PSU%20ADVT_12OCT26.pdf"
     },
     {
         "date": "27/10/2026",
@@ -243,17 +259,17 @@
         "date": "23/10/2026",
         "board": "IIM Calcutta Vacancy 2026 - Doctor PostsIIM Calcutta Doctor Vacancy 2026",
         "title": "Doctor",
-        "qualification": "MBBS degree from a recognized medical college, with the one-year compulsory internship completed and valid NMC or State Medical Council registration",
+        "qualification": "Not Mentioned",
         "last_date": "08-11-2026",
         "total_posts": "Not Available",
-        "salary": "Honorarium of maximum ₹800/- per hour. Each call or visit is for a minimum of 4 hours and a maximum of 8 hours, as required by the Institute.",
+        "salary": "Not Available",
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Not Available",
         "syllabus": "Not Available",
-        "official_website": "https://www.iimcal.ac.in",
-        "official_notification": "/cdn-cgi/l/email-protection"
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
     },
     {
         "date": "23/10/2026",
@@ -449,22 +465,6 @@
     },
     {
         "date": "21/10/2026",
-        "board": "Presidency University Vacancy 2026 - Junior Research Fellow PostsPresidency University Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "Not Mentioned",
-        "last_date": "28-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not specified in the notice",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.presiuniv.ac.in",
-        "official_notification": "https://www.presiuniv.ac.in/web/walkinihsmb141020261.php"
-    },
-    {
-        "date": "21/10/2026",
         "board": "CSB Vacancy 2026 - 5 Sericulture Assistant PostsCSB Sericulture Assistant Vacancy 2026",
         "title": "Sericulture Assistant (SA)",
         "qualification": "Prescribed qualifications in Sericulture, Agriculture Sciences, Forestry, Biological Sciences or Biotechnology, as applicable, including the required postgraduate diploma or relevant work experience where specified.",
@@ -494,22 +494,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.wbhealth.gov.in/",
         "official_notification": "https://hr.wbhealth.gov.in/Files/Recruitment%20Notification%20(RBSK%20&%20NUHM)_000346.pdf"
-    },
-    {
-        "date": "07/10/2026",
-        "board": "NICL Vacancy 2026 - 321 Administrative Officer PostsNICL Administrative Officer Vacancy 2026",
-        "title": "Administrative Officer (Generalist & Specialist)",
-        "qualification": "B.E./B.Tech./M.E./M.Tech in Automobile Engineering; OR Engineering degree/postgraduate degree in any branch along with a Diploma of at least one year in Automobile Engineering. Minimum 60% marks; 55% for SC/ST/PwBD.",
-        "last_date": "28-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Selected candidates will be appointed as Administrative Officer (Scale-I) . The starting basic pay is ₹82,485 per month . || Selected officers will also be eligible for applicable benefits under company rules, including New Pension Scheme benefits governed by PFRDA, Gratuity, Leave Travel Subsidy, Medical Benefits, Group Personal Accident Insurance and company or leased accommodation as per norms.",
-        "age_limit": "The age of candidates will be calculated as on 01 October 2026 .",
-        "application_fee": "The application fee must be paid online between 08 October and 28 October 2026 . || Applicable bank transaction charges must be borne by the candidate. The fee once paid will not be refunded or adjusted against any future recruitment.",
-        "selection_process": "The NICL AO selection process consists of the following stages: || Phase-I Preliminary Examination || Phase-II Main Examination || Interview || Final Merit List || Pre-Employment Medical Examination",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://nationalinsurance.nic.co.in/",
-        "official_notification": "https://nationalinsurance.nic.co.in/sites/default/files/2026-10/NICL%20AO%20Recruitment%20Advertisment%202026-27.pdf"
     },
     {
         "date": "16/10/2026",
@@ -578,18 +562,18 @@
     {
         "date": "15/10/2026",
         "board": "MIMUL Vacancy 2026 - 13 Management Trainee, Executive and More PostsMIMUL Vacancy 2026",
-        "title": "Vacancies",
-        "qualification": "Management Trainee (Field Extension Activity):Graduate in any discipline. Candidates with experience in milk procurement, working as secretary/milk tester at Dairy Co-operative Society, or field extension activity for Dairy Co-operative society formation are given priority. || Management Trainee (Plant Operation):Graduate in Science in any subject. Candidates with experience in milk chilling plant operation, dairy plant operation, and milk testing are given priority. || Account Assistant/Jr. Account Assistant:B.Com (Graduate) with knowledge in Tally entry and operation. At least two years of Tally entry and operation experience is mandatory. || Executive (Sales):Graduate in any discipline from a recognized University. MBA/BBA or higher qualification receives additional weightage. Must have a minimum of 02 years of experience in the field of marketing of packet milk and milk products of reputed brands.",
+        "title": "Management Trainee, Executive and More",
+        "qualification": "13 Posts",
         "last_date": "06-11-2026",
         "total_posts": "Not Available",
-        "salary": "Management Trainee positions carry a consolidated stipend of Rs. 15,000.00 per month along with other admissible benefits as per Milk Union's norms. Remuneration for Account Assistant and Executive (Sales) is negotiable based on qualification and experience, accompanied by admissible benefits as per Milk Union's norms for contractual engagements. All engagements are initially for a period of one year, and any extension is subject to satisfactory performance.",
-        "age_limit": "Maximum 40 years as on 01.01.2026 with relaxations as per Government norms",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
         "application_fee": "Not Available",
-        "selection_process": "The selection process consists of short-listing of candidates followed by an interview. || Shortlisting:Shortlists of eligible candidates are prepared based on the aggregate of marks obtained (ten percent) in Madhyamik Pariksha (MP), Higher Secondary Examination (HS), and Graduation. Vocational or distant courses are not considered for shortlisting. || Total Marks Distribution:Madhyamik Pariksha (MP) - 10 Marks, Higher Secondary (HS) - 10 Marks, Graduation - 10 Marks, and Interview - 10 Marks (covering experience, personal appearance, speaking ability, and knowledge), totaling 40 Marks. || Interview:Only short-listed eligible candidates will be called for an interview. Venues, dates, and times will be communicated directly to eligible candidates.",
-        "apply_mode": "Online",
+        "selection_process": "Not Available",
+        "apply_mode": "Not Available",
         "syllabus": "Not Available",
-        "official_website": "https://www.mimulmilk.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s319ca14e7ea6328a42e0eb13d585e4c22/uploads/2026/10/17920502923652.pdf"
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
     },
     {
         "date": "15/10/2026",
@@ -624,22 +608,6 @@
         "official_notification": "https://purbabardhaman.nic.in/notice_category/recruitment/"
     },
     {
-        "date": "15/10/2026",
-        "board": "IIT Kharagpur Vacancy 2026 - 1 Project Research Associate PostsIIT Kharagpur Project Research Associate Vacancy 2026",
-        "title": "Project Research Associate - Research",
-        "qualification": "M.Tech / ME / MDes / MD or equivalent degree; OR || B.Tech / BE / MBBS / MA / M.Sc / MCA / MBA or equivalent degree with 2 years relevant experience; OR || B.Sc./B.A./B.Com or equivalent degree with 5 years relevant experience.",
-        "last_date": "28-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "The upper age limit is 35 years as on the last date of the advertisement. Age rules may be relaxed upon fulfilling sponsor agency rules if any.",
-        "application_fee": "General / Male / OBC: 0, Female: 0, SC/ST: 0",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitkgp.ac.in/",
-        "official_notification": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/OWA/2026/101"
-    },
-    {
         "date": "14/10/2026",
         "board": "DH&FWS Purba Bardhaman Vacancy 2026 - 27 Block Data Manager and Staff Nurse PostsDH&FWS Purba Bardhaman Vacancy 2026",
         "title": "Block Data Manager and Staff Nurse",
@@ -654,22 +622,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.wbhealth.gov.in",
         "official_notification": "https://cdn.s3waas.gov.in/s3cf67355a3333e6e143439161adc2d82e/uploads/2026/10/17919808273924.pdf"
-    },
-    {
-        "date": "14/10/2026",
-        "board": "GAIL Vacancy 2026 - 1 Part-Time Medical Consultant PostsGAIL Part-Time Medical Consultant Vacancy 2026",
-        "title": "Part-Time Medical Consultant",
-        "qualification": "Medical Professional",
-        "last_date": "28-10-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "The notification does not mention any application fee.",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://www.gailonline.com/careers/currentOpnning/Advertisement-Hindi-14-10-2026.pdf"
     },
     {
         "date": "14/10/2026",
@@ -1040,22 +992,6 @@
         "official_notification": "https://www.shipindia.com/upload/Adv/Detailed_ad_HR_062026_final.pdf"
     },
     {
-        "date": "09/10/2026",
-        "board": "IIEST, Shibpur Vacancy 2026 - 5 Junior Assistant PostsIIEST, Shibpur Junior Assistant Vacancy 2026",
-        "title": "Junior Assistant",
-        "qualification": "Office Attendant (SG-II) with at least 2 years regular service with Grade Pay of Rs. 2,000/- through DPC and working performance record (APAR), through prescribed test and interview. Must possess at least 10+2 and have proficiency in Computer Word Processing.",
-        "last_date": "28-10-2026",
-        "total_posts": "Not Available",
-        "salary": "The official notification does not mention additional allowances or in-hand salary details.",
-        "age_limit": "Not Available",
-        "application_fee": "The notification does not mention any application fee.",
-        "selection_process": "The selection process consists of Departmental Promotion Committee (DPC), working performance record (APAR), a prescribed test, and an interview.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iiests.ac.in/",
-        "official_notification": "https://data.iiests.ac.in/uploads/announcements/files/1791481932_Junior%20Assistant%20-%20Internal%20Promotion.pdf"
-    },
-    {
         "date": "08/10/2026",
         "board": "AWEIL Vacancy 2026 - 40 Fitter, Machinist and More PostsAWEIL Vacancy 2026",
         "title": "Electrical Fitter, Mechanical Fitter, Machinist, Turner, Electroplater, Heat Treatment Operator",
@@ -1198,21 +1134,5 @@
         "syllabus": "Not Available",
         "official_website": "https://aiihph.gov.in/",
         "official_notification": "https://aiihph.gov.in/storage/uploads/media/e6fe95ae-80d5-4f0d-8a4a-202ba6850934.pdf"
-    },
-    {
-        "date": "22/09/2026",
-        "board": "Army Public School Sukna Vacancy 2026 - 8 TGT, PRT, Vice Principal and More PostsArmy Public School Sukna Vacancy 2026",
-        "title": "Vice Principal & Headmaster/ Headmistress",
-        "qualification": "Master's Degree with B.Ed. for Vice Principal. Graduate with B.Ed/ M.Ed/ Diploma for Headmaster/ Headmistress.",
-        "last_date": "28-10-2026",
-        "total_posts": "8",
-        "salary": "Basic-Rs 35,920/ - + DA & Other allowances (as applicable)",
-        "age_limit": "Vice Principal: Min 35, Max 45 (55 for APS employees/ Ex-servicemen).",
-        "application_fee": "Rs 250/ -",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.apssukna.com",
-        "official_notification": "https://apssukna.com/vacancy/ADV220926.pdf"
     }
 ]
