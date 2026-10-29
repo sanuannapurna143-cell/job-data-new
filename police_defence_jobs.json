@@ -1,19 +1,19 @@
 [
     {
-        "date": "28/10/2026",
-        "board": "DIAT",
-        "title": "Senior Project Associate, Junior Research Fellow     – 2 Posts",
-        "qualification": "B.E./B.Tech/M.Tech in CSE/IT/ECE/related domain from a recognized University or equivalent, and four years' experience in Research and Development, Industrial, Academic Institution or Science and Technology Organizations and Scientific activities and services.",
-        "last_date": "04-11-2026",
-        "total_posts": "2",
-        "salary": "Rs. 42,000/- + 30% HRA",
-        "age_limit": "The crucial date for determining the upper age limit is 4 November 2026.",
+        "date": "29/10/2026",
+        "board": "Civil Defence Delhi",
+        "title": "Civil Defence Volunteer",
+        "qualification": "Enrolled from Central North District as per new Jurisdiction and from erstwhile District Shahdara, valid tenure, submitted application for renewal as per SOP, completed Basic Training/Foundation Course",
+        "last_date": "30-10-2026",
+        "total_posts": "59",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://diat.ac.in/wp-content/uploads/2026/10/Advt-No.33-2026-SP-JRF-Walk-In-Interview-1.pdf"
+        "official_website": "https://dmcentralnorth.delhi.gov.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3c06d06da9666a219db15cf575aff2824/uploads/2026/10/17932579962494.pdf"
     },
     {
         "date": "28/10/2026",
@@ -323,17 +323,17 @@
         "date": "22/10/2026",
         "board": "Naval Dockyard Karwar",
         "title": "Trade Apprentice     – 210 Posts",
-        "qualification": "ITI, 10TH, 8TH",
+        "qualification": "Where the school board awarded grades or CGPA, the equivalent percentage as per that board's norms must be stated; without it the candidature is not considered. Candidates with a grade-point system must get the conversion done by the appropriate authority before applying.",
         "last_date": "08-11-2026",
         "total_posts": "210",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
+        "salary": "These are the minimum rates under Rule 11 of the Apprenticeship Rules, 1992. Selected candidates sign the apprenticeship contract online through the NAPS portal. The notice states clearly that neither establishment nor any government agency is obliged to offer employment after training .",
+        "age_limit": "No upper age limit; minimum 14 (non-hazardous trades) or 18 (hazardous trades) on 12 April 2027",
+        "application_fee": "None; the notice warns that no money is to be paid to anyone",
         "selection_process": "Not Available",
-        "apply_mode": "Not Available",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "https://indiannavy.gov.in/",
+        "official_notification": "https://img2.freejobalert.com/news/2026/10/5468451-6ac881813167b72065795.pdf"
     },
     {
         "date": "22/10/2026",
@@ -478,22 +478,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ddpdoo.gov.in",
         "official_notification": "https://ddpdoo.gov.in/storage/document/6ad079029685b.pdf"
-    },
-    {
-        "date": "15/10/2026",
-        "board": "Assam Rifles",
-        "title": "Warrant Officer (Cipher), Electrical Fitter Signal, Lineman Field, Armourer, Engineer Equipment Mechanic, Recovery Vehicle Mechanic, Electrician Motor Vehicle, Instrument Mechanic, Metalsmith, Upholster, Store Keeper Technical, Vehicle Mechanic, Welder, Draughtsman, Operation Theatre Technician, Physiotherapist and Mason",
-        "qualification": "The technical trades include Electrical Fitter Signal, Lineman Field, Armourer, Engineer Equipment Mechanic, Recovery Vehicle Mechanic, Electrician Motor Vehicle, Instrument Mechanic, Metalsmith, Upholster, Store Keeper Technical, Vehicle Mechanic, Welder and Mason. || Educational requirements vary by trade and generally include Matriculation with relevant ITI certification, technical training or a recognized diploma in the prescribed discipline.",
-        "last_date": "28-10-2026",
-        "total_posts": "No State-wise Quota",
-        "salary": "As per applicable Assam Rifles pay scales and government rules",
-        "age_limit": "18–23 Years or 18–25 Years, depending on the trade",
-        "application_fee": "Recruitment Rally 23 Nov 2026 Onwards (Tentative)",
-        "selection_process": "Not Available",
-        "apply_mode": "Apply Mode Online Only",
-        "syllabus": "Not Available",
-        "official_website": "https://www.assamrifles.gov.in/",
-        "official_notification": "https://www.assamrifles.gov.in/ar-recruitment-pdf-viewer/8215"
     },
     {
         "date": "14/10/2026",
@@ -734,21 +718,5 @@
         "syllabus": "Not Available",
         "official_website": "https://indiancoastguard.gov.in",
         "official_notification": "https://indiancoastguard.gov.in/sites/default/files/266_71_288-1.pdf"
-    },
-    {
-        "date": "22/09/2026",
-        "board": "Army Public School Sukna",
-        "title": "Vice Principal & Headmaster/ Headmistress",
-        "qualification": "Master's Degree with B.Ed. for Vice Principal. Graduate with B.Ed/ M.Ed/ Diploma for Headmaster/ Headmistress.",
-        "last_date": "28-10-2026",
-        "total_posts": "8",
-        "salary": "Basic-Rs 35,920/ - + DA & Other allowances (as applicable)",
-        "age_limit": "Vice Principal: Min 35, Max 45 (55 for APS employees/ Ex-servicemen).",
-        "application_fee": "Rs 250/ -",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.apssukna.com",
-        "official_notification": "https://apssukna.com/vacancy/ADV220926.pdf"
     }
 ]
