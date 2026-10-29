@@ -1,6 +1,38 @@
 [
     {
         "date": "29/10/2026",
+        "board": "DAO Gumla Vacancy 2026 - 11 Crop Guard (Kamdar) PostsDAO Gumla Crop Guard (Kamdar) Vacancy 2026",
+        "title": "Crop Guard (Kamdar)",
+        "qualification": "Minimum Matriculation / 10th pass with minimum 05 days training from Agriculture and Horticulture Directorate",
+        "last_date": "06-11-2026",
+        "total_posts": "11",
+        "salary": "Not Available",
+        "age_limit": "Minimum 18 years (as on 1 January 2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.gumla.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3389bc7bb1e1c2a5e7e147703232a88f6/uploads/2026/10/17932745758246.pdf"
+    },
+    {
+        "date": "29/10/2026",
+        "board": "DAAHC Jharkhand Vacancy 2026 - 8 Crop Guard (Kamdar) PostsDAAHC Jharkhand Crop Guard (Kamdar) Vacancy 2026",
+        "title": "Crop Guard (Kamdar)",
+        "qualification": "Minimum 10th pass with 05 days training in agriculture/horticulture",
+        "last_date": "14-11-2026",
+        "total_posts": "8",
+        "salary": "Not Available",
+        "age_limit": "Minimum 18 years and maximum age limit unreserved category 35 years and BC/SC/ST 40 years (as on 1 January 2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.seraikela.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3b337e84de8752b27eda3a12363109e80/uploads/2026/10/17932644369405.pdf"
+    },
+    {
+        "date": "29/10/2026",
         "board": "JSBCCL Vacancy 2026 - 1 Assistant Manager (Electrical) PostsJSBCCL Assistant Manager (Electrical) Vacancy 2026",
         "title": "Assistant Manager (Electrical)",
         "qualification": "1 Posts",
@@ -301,7 +333,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://jepc.jharkhand.gov.in/",
-        "official_notification": "bel-probationary-engineer-recruitment-2026-3076214"
+        "official_notification": "Not Available"
     },
     {
         "date": "17/10/2026",

@@ -1,6 +1,54 @@
 [
     {
         "date": "29/10/2026",
+        "board": "BEL Vacancy 2026 - 11 Management Industrial Trainees (Finance) PostsBEL Management Industrial Trainees (Finance) Vacancy 2026",
+        "title": "Management Industrial Trainees (Finance)",
+        "qualification": "11 Posts",
+        "last_date": "18-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://bel-india.in/wp-content/uploads/2026/10/MIT-Ad.-English.pdf"
+    },
+    {
+        "date": "29/10/2026",
+        "board": "IIT Kanpur Vacancy 2026 - 1 Research Analyst PostsIIT Kanpur Research Analyst Vacancy 2026",
+        "title": "Research Analyst",
+        "qualification": "Postgraduate in Computer Science and Engineering (CSE) or a relevant field + 3 years relevant experience.",
+        "last_date": "10-11-2026",
+        "total_posts": "Not Available",
+        "salary": "INR 31,600 to INR 78,400 per month, consolidated",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "The department reserves the right to set its own criteria for shortlisting eligible candidates who meet the qualification and experience requirements. Selection is by interview, which may be held online, in person, or both. Shortlisted candidates will be told the interview date by email.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitk.ac.in/dord/scientific-and-research-staff",
+        "official_notification": "https://iitk.ac.in/atman/"
+    },
+    {
+        "date": "29/10/2026",
+        "board": "Bhatkhande Sanskriti Vishwavidyalaya Vacancy 2026 - 13 Guest Teacher, Guest Accompanist PostsBhatkhande Sanskriti Vishwavidyalaya Vacancy 2026",
+        "title": "Guest Faculty (Musicology, Computer Science, Sitar, Tabla), Guest Accompanist (Tabla, Sarangi, Vocal)",
+        "qualification": "Passed Graduation / Visharad / equivalent examination in the relevant discipline with a minimum of 55% marks. Relaxation of 5% marks for SC/ST/OBC (non-creamy layer) category candidates. Preference given to All India Radio graded artists.",
+        "last_date": "05-11-2026",
+        "total_posts": "Not Available",
+        "salary": "As per UGC / University norms",
+        "age_limit": "For Guest Accompanist posts (Sl. No. 05 to 07): Minimum age is 18 years and maximum age is 35 years. For Scheduled Caste (SC), Scheduled Tribe (ST), and Other Backward Classes (OBC) category candidates, a 5-year age relaxation is applicable.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bhatkhandeuniversity.ac.in",
+        "official_notification": "https://www.bhatkhandeuniversity.ac.in/downloadmedia/UploadNews/pdf/C_202610291617024678.pdf"
+    },
+    {
+        "date": "29/10/2026",
         "board": "Shri Shastrarth Mahavidyalaya Vacancy 2026 - 9 Principal, Lecturer and More PostsShri Shastrarth Mahavidyalaya Vacancy 2026",
         "title": "Principal, Lecturer and More",
         "qualification": "9 Posts",
@@ -45,7 +93,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.bhu.ac.in",
-        "official_notification": "/cdn-cgi/l/email-protection#0d6c7f237f6c6e4d6f6578236c6e236463"
+        "official_notification": "/cdn-cgi/l/email-protection#3756451945565477555f42195654195e59"
     },
     {
         "date": "29/10/2026",
@@ -174,22 +222,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.amu.ac.in",
         "official_notification": "https://api.amu.ac.in/storage/file/8003/jobs/1793181216.pdf"
-    },
-    {
-        "date": "28/10/2026",
-        "board": "DLSA Balrampur Vacancy 2026 - 17 Para Legal Volunteer PostsDLSA Balrampur Para Legal Volunteer Vacancy 2026",
-        "title": "Para Legal Volunteer",
-        "qualification": "17 Posts",
-        "last_date": "29-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Honorarium per working day",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "The Authority will look at the applications it receives and then hold an interview on 30 October 2026 at the District and Sessions Court, Balrampur. No travel allowance is paid for attending the interview.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://balrampur.dcourts.gov.in/",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0514678db82874f1456031fcc05a3a/uploads/2026/10/2026102881.pdf"
     },
     {
         "date": "28/10/2026",
@@ -1233,22 +1265,6 @@
     },
     {
         "date": "14/10/2026",
-        "board": "BBAU Vacancy 2026 - 1 Research Assistant PostsBBAU Research Assistant Vacancy 2026",
-        "title": "Research Assistant (RA)",
-        "qualification": "1 Posts",
-        "last_date": "29-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Maximum 28 years as on 01.04.2026",
-        "application_fee": "Not stated in the notice",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.bbau.ac.in",
-        "official_notification": "https://www.bbau.ac.in"
-    },
-    {
-        "date": "14/10/2026",
         "board": "GBU Vacancy 2026 - 53 Professor, Associate Professor, and Assistant Professor PostsGBU Vacancy 2026",
         "title": "Professor, Associate Professor, and Assistant Professor",
         "qualification": "Master's degree with 55% marks in a relevant/allied subject from an Indian University or equivalent foreign degree (5% relaxation as per clause 3.4). Must have cleared NET/SLET/SET or hold a Ph.D. as per UGC Regulations 2009/2016, or Ph.D. from a foreign university ranked in top 500 in QS, THE, or ARWU.",
@@ -1536,38 +1552,6 @@
         "official_notification": "https://iwai.gov.in/"
     },
     {
-        "date": "09/10/2026",
-        "board": "IGRUA Vacancy 2026 - 1 Ground Instructor PostsIGRUA Ground Instructor Vacancy 2026",
-        "title": "Ground Instructor (Air Regulations)",
-        "qualification": "Post-Graduate degree in any discipline from recognized University; AND Held or holding CPL/ATPL; OR Air Traffic Controller from AAI/Defence Forces; OR Minimum 10 years professional experience in civil aviation regulatory domain, airline operations, or aviation safety management; AND Teaching Experience: Minimum 05 years teaching/instructional experience in aviation-related subjects at Flying Training Organisations (DGCA approved), Defence Aviation Training Establishments, Universities/Colleges offering aviation programmes, or AAI training centres.",
-        "last_date": "29-10-2026",
-        "total_posts": "Not Available",
-        "salary": "In addition to the monthly remuneration, candidates receive a Transport Allowance of ₹3,600 per month and an Aviation Allowance of ₹300 per month.",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://igrua.gov.in/",
-        "official_notification": "https://igrua.gov.in/sites/default/files/Revised_QR_GI%20(Air%20Regs).pdf"
-    },
-    {
-        "date": "08/10/2026",
-        "board": "IIT (BHU) Varanasi Vacancy 2026 - 8 Project Attendant, Project Assistant, Junior Research Fellow (JRF), Research Associate-I, Senior Project Scientist (Professional Grade-I) PostsIIT (BHU) Varanasi Vacancy 2026",
-        "title": "Project Attendant, Project Assistant, Junior Research Fellow (JRF), Research Associate-I, and Senior Project Scientist (Professional Grade-I)",
-        "qualification": "Ph.D. or equivalent degree or having 3 years of research and teaching experience after M.Sc./M.Tech. with at least 1 paper in SCI Journal. Essential Qualifications and Specialization: Related to design and implementation of Nature-based Solutions (NbS) for treating waste water AND Hydrological/Hydrogeological Modelling.",
-        "last_date": "29-10-2026",
-        "total_posts": "Not Available",
-        "salary": "HRA will be given as per the Government norms.",
-        "age_limit": "The upper age limits vary by post as specified in the official notification.",
-        "application_fee": "Not Available",
-        "selection_process": "The selection process involves screening of applications, followed by a Test and/or Interview for shortlisted candidates.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iitbhu.ac.in",
-        "official_notification": "https://iitbhu.ac.in/contents/institute/2026/project/project_civ_slcr.pdf"
-    },
-    {
         "date": "08/10/2026",
         "board": "AWEIL Vacancy 2026 - 1 Junior Translator PostsAWEIL Junior Translator Vacancy 2026",
         "title": "Junior Translator",
@@ -1806,22 +1790,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rgnau.ac.in",
         "official_notification": "https://rgnau.ac.in/sites/default/files/inline-files/Notification%20for%20Visiting%20Medical%20Consultant%20%26%20Visiting%20Health%20Inspector%20-%2003.09.2026.pdf"
-    },
-    {
-        "date": "08/09/2026",
-        "board": "GIMS Vacancy 2026 - 1 Scientist B PostsGIMS Scientist B Vacancy 2026",
-        "title": "Scientist B (Medical)",
-        "qualification": "MBBS/ BDS/ B.V.Sc. & AH recognized by MCI/ DCI/ VCI respectively, BDS/ B.V.Sc degree with one year experience",
-        "last_date": "29-10-2026",
-        "total_posts": "1",
-        "salary": "Rs. 67000 Per Month (Plus HRA)",
-        "age_limit": "Maximum Age Limit: 35 years || Candidates are advised to check whether they satisfy the prescribed age limit before applying. Use our online Age Calculator to calculate your exact age instantly.",
-        "application_fee": "1180",
-        "selection_process": "Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.gims.ac.in",
-        "official_notification": "https://www.gims.ac.in/assets/pdf/Advt%202025-VRDL%20Scientist%20B.pdf"
     },
     {
         "date": "10/08/2026",
