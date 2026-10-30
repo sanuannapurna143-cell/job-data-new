@@ -1,5 +1,37 @@
 [
     {
+        "date": "30/10/2026",
+        "board": "Amrita Vacancy 2026 - 1 Administrative Assistant PostsAmrita Administrative Assistant Vacancy 2026",
+        "title": "Administrative Assistant",
+        "qualification": "Post Graduation - MBA",
+        "last_date": "30-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.amrita.edu",
+        "official_notification": "/cdn-cgi/l/email-protection"
+    },
+    {
+        "date": "30/10/2026",
+        "board": "Amrita Vacancy 2026 - 5 Assistant Professor (Research) PostsAmrita Assistant Professor (Research) Vacancy 2026",
+        "title": "Assistant Professor (Research)",
+        "qualification": "5 Posts",
+        "last_date": "30-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Salary is paid as per university norms. The role offers: || A research-focused position with minimal teaching, no more than 6 hours a week || Opportunities to work with international researchers || Opportunities to mentor PhD scholars",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://www.amrita.edu/job/assistant-professor-research-amritapuri/"
+    },
+    {
         "date": "29/10/2026",
         "board": "CTCRI Vacancy 2026 - 1 Young Professional-II PostsCTCRI Young Professional-II Vacancy 2026",
         "title": "Young Professional-II",
@@ -14,6 +46,22 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ctcri.org",
         "official_notification": "https://www.ctcri.org/public/pdf/2026-10/recruitment-of-yp-ii-notification.pdf"
+    },
+    {
+        "date": "15/10/2026",
+        "board": "KUDSIT Vacancy 2026 - 1 Project Intern PostsKUDSIT Project Intern Vacancy 2026",
+        "title": "Project Intern",
+        "qualification": "1 Posts",
+        "last_date": "04-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "The candidate's age should not exceed 25 years as on the last date fixed for the submission of application. Age relaxation is applicable as follows:",
+        "application_fee": "Not stated in the notification",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.duk.ac.in",
+        "official_notification": "https://duk.ac.in/data/2026/10/Notification-Project-Intern-SEC-KUDSIT-465-AD_AIII-2026.pdf"
     },
     {
         "date": "29/10/2026",
@@ -147,17 +195,17 @@
         "date": "29/10/2026",
         "board": "Amrita Vishwa Vidyapeetham Vacancy 2026 - Post Doctoral Fellow PostsAmrita Vishwa Vidyapeetham Post Doctoral Fellow Vacancy 2026",
         "title": "Post Doctoral Fellow",
-        "qualification": "Not Mentioned",
+        "qualification": "PhD in Chemistry.",
         "last_date": "30-11-2026",
         "total_posts": "Not Available",
         "salary": "Not Available",
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Not Available",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_notification": "https://www.amrita.edu/job/post-doctoral-fellow-school-of-physical-sciences-amritapuri/"
     },
     {
         "date": "08/10/2026",
@@ -174,22 +222,6 @@
         "syllabus": "Not Available",
         "official_website": "https://nitc.ac.in",
         "official_notification": "https://nitc.ac.in/imgserver/uploads/attachments/engagement-of-apprentice-trainees-graduate-and-diploma-at-nitc-for-the-year-202627--extension-of-last-date-and-inclusion-of-additional-vacancy_90ffbdca-8f37-4d97-91c7-f63c635d1872_0.pdf"
-    },
-    {
-        "date": "15/10/2026",
-        "board": "KUDSIT Vacancy 2026 - 1 Project Intern PostsKUDSIT Project Intern Vacancy 2026",
-        "title": "Project Intern",
-        "qualification": "1 Posts",
-        "last_date": "04-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "The candidate's age should not exceed 25 years as on the last date fixed for the submission of application. Age relaxation is applicable as follows:",
-        "application_fee": "Not stated in the notification",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.duk.ac.in",
-        "official_notification": "https://duk.ac.in/data/2026/10/Notification-Project-Intern-SEC-KUDSIT-465-AD_AIII-2026.pdf"
     },
     {
         "date": "28/10/2026",
@@ -746,7 +778,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.sctimst.ac.in/",
         "official_notification": "https://www.sctimst.ac.in/Recruitment/RESOURCES/B_2026-27_2278.pdf"
