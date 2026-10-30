@@ -1,5 +1,37 @@
 [
     {
+        "date": "30/10/2026",
+        "board": "MZU Vacancy 2026 - 3 Guest Faculty PostsMZU Guest Faculty Vacancy 2026",
+        "title": "Guest Faculty",
+        "qualification": "Master's degree with 55% marks and NET/SLET/SET or Ph.D in concerned/relevant/allied subject.",
+        "last_date": "06-11-2026",
+        "total_posts": "3",
+        "salary": "Rs. 1,500/- per lecture subject to a maximum of Rs. 50,000/- per month.",
+        "age_limit": "All Posts:No specific age limit has been prescribed in the notification.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Interview",
+        "apply_mode": "Email",
+        "syllabus": "Not Available",
+        "official_website": "https://www.mzu.edu.in",
+        "official_notification": "https://mzu.edu.in/guest-faculty-advertisement-no-8-of-2026/"
+    },
+    {
+        "date": "30/10/2026",
+        "board": "MSCPS Vacancy 2026 - 95 Case Worker, Storekeeper cum Accountant and More PostsMSCPS Vacancy 2026",
+        "title": "Case Worker, Storekeeper cum Accountant and More",
+        "qualification": "M.Phil. in Clinical Psychology/ Rehabilitation Psychology, OR Bachelors' degree in Occupational Therapy/ Physio Therapy/ Speech Therapy, OR Diploma in Special Education (IDD/MD/VI/HI) or above. Each option needs a valid RCI CRR number. Proficiency in computer acquiring CCC/ DCA 1st Sem.",
+        "last_date": "19-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 25,000/- with no annual increment",
+        "age_limit": "Up to 5 years for ST: Case Worker (both units), Special Educator/ Therapist, Data Analyst, Storekeeper cum Accountant, Nurse, Paramedical Staff, Educator, Art & Craft cum Music Teacher, Care Taker cum Vocational Instructor, Helper cum Night Watchman and Housekeeper. || Up to 50 years for staff currently working under MSCPS: Case Worker (Child Care Institution), Special Educator/ Therapist, Data Analyst and Storekeeper cum Accountant.",
+        "application_fee": "Not Available",
+        "selection_process": "Interview will be conducted for all posts. Candidates shortlisted for interview will be notified at wcd.mizoram.gov.in , and the date of interview will be notified later on the same website.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://wcd.mizoram.gov.in/uploads/attachments/2026/10/69444f74bf38d43624ca53b2a12f03dd/95-posts-advertisment-under-mscpsdocx.pdf"
+    },
+    {
         "date": "27/10/2026",
         "board": "SWD Mizoram Vacancy 2026 - 1 Commissioner for Persons with Disabilities PostsSWD Mizoram Commissioner for Persons with Disabilities Vacancy 2026",
         "title": "Commissioner for Persons with Disabilities",
@@ -30,37 +62,5 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "http://drdo.mzu.edu.in/wp-content/uploads/2026/10/Advertisement-for-Director-DIA-CoE-MZU.pdf"
-    },
-    {
-        "date": "23/10/2026",
-        "board": "PM SHRI Kendriya Vidyalaya Champhai Vacancy 2026 - 5 TGT, ATL Instructor and More PostsPM SHRI Kendriya Vidyalaya Champhai Vacancy 2026",
-        "title": "ATL Instructor, TGT Sanskrit, Sports Coach, Balvatika Care Taker (Aaya), Balvatika Teacher",
-        "qualification": "Class X, Class XII, Bachelor's Degree, B.E./B.Tech, Diploma/Certificate in Physical Education, D.E.C.Ed",
-        "last_date": "30-10-2026",
-        "total_posts": "5",
-        "salary": "₹20,000 to ₹31,250 per month",
-        "age_limit": "Age limits for all posts are not explicitly specified in the official notification. Candidates are advised to check the official notification for any age criteria.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Walk-in Interview",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://champhai.kvs.ac.in",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3kv0522f03968ea11f71588a18a10158f/uploads/2026/10/2026102272.pdf"
-    },
-    {
-        "date": "07/10/2026",
-        "board": "CSB Vacancy 2026 - 16 Sericulture Assistant PostsCSB Sericulture Assistant Vacancy 2026",
-        "title": "Sericulture Assistant (SA)",
-        "qualification": "Three years full time degree in Sericulture OR Four years full time degree in Sericulture OR Three years full time degree + PG Diploma in Sericulture OR Four years full time bachelor degree in Agriculture Sciences/Forestry OR Three years full time degree in Biological Sciences (Zoology or Botany or Biology)/Biotechnology + PG diploma in Sericulture OR Three years full time bachelor degree in Biology Sciences (Zoology or Botany or Biology)/Biotechnology + one year experience in Sericultural project work",
-        "last_date": "30-10-2026",
-        "total_posts": "Name of Main Institute / Unit",
-        "salary": "Rs. 21,000/- + HRA (Consolidated Remuneration Per Month)",
-        "age_limit": "Upper age limit shall be 35 years as of the cut-off date 06.11.2026.",
-        "application_fee": "The notification does not mention any application fee.",
-        "selection_process": "The selection to the above contractual posts will be done, based on the performance of eligible candidates in the personal interview, only.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://messo.org.in/",
-        "official_notification": "https://csb.gov.in/sites/default/files/2026-10/SA%20MESSO.pdf"
     }
 ]

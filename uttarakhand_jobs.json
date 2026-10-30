@@ -1,6 +1,54 @@
 [
     {
         "date": "30/10/2026",
+        "board": "GBPNIHE Vacancy 2026 - 1 Junior Research Fellow / Junior Project Fellow PostsGBPNIHE Junior Research Fellow / Junior Project Fellow Vacancy 2026",
+        "title": "Junior Research Fellow / Junior Project Fellow",
+        "qualification": "1 Posts",
+        "last_date": "14-11-2026",
+        "total_posts": "GBPNIHE vacancy page",
+        "salary": "Rs 37,000/- month + HRA (as per norms)",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Applications are shortlisted first, and shortlisted candidates are informed separately about the mode, date and time of the interview. Meeting the minimum qualification and experience does not automatically entitle an applicant to an interview or test. || If a large number of applications is received, the Institute reserves the right to raise the minimum eligibility level to restrict the number called for interview or test, in line with the number of vacancies. It may also shortlist and select candidates in any suitable position, depending on the qualification and experience required for the post.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://gbpihed.gov.in/PDF/Recruitment/Rec_Doc1793361810Advt_No_NIHE_HQ_21_26_27.pdf"
+    },
+    {
+        "date": "30/10/2026",
+        "board": "President's Secretariat Vacancy 2026 - 1 Park Superintendent PostsPresident's Secretariat Park Superintendent Vacancy 2026",
+        "title": "Park Superintendent",
+        "qualification": "Bachelor's degree in any discipline from a recognised university.",
+        "last_date": "09-11-2026",
+        "total_posts": "Rashtrapati Bhavan vacancy circulars page",
+        "salary": "₹45,000/- a month",
+        "age_limit": "Candidates upto the age of 45 years as on 30 September 2026 are eligible. The notice separately says all eligibility conditions will be reckoned as on the last date of the application.",
+        "application_fee": "Not Available",
+        "selection_process": "A Selection Committee set up by the President's Secretariat carries out the entire selection process. || Shortlisted applicants are informed by mail, e-mail or telephonic message for interview/written test. || Eligible candidates have to appear for a Personal Interview before the Selection Committee. || A selected applicant cannot withdraw candidature and must join within the time set by the Secretariat.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://rashtrapatibhavan.gov.in/",
+        "official_notification": "https://rashtrapatibhavan.gov.in/files/2026-10/park_superintendent.pdf"
+    },
+    {
+        "date": "30/10/2026",
+        "board": "UDD Uttarakhand Vacancy 2026 - 3 Waste Water Expert, Procurement Specialist and More PostsUDD Uttarakhand Vacancy 2026",
+        "title": "Waste Water (Sewerage/Septage) Expert (State), Procurement Specialist (State), SWM Expert (State)",
+        "qualification": "Graduate civil engineering / Graduate Engineer / Post Graduate in civil engineering with relevant experience",
+        "last_date": "13-11-2026",
+        "total_posts": "3",
+        "salary": "Rs. 80,000/- per month",
+        "age_limit": "There is no specific age limit mentioned in the official notification for these contractual posts.",
+        "application_fee": "No application fee is mentioned in the official notification.",
+        "selection_process": "Shortlisting based on qualifications and relevant experience || Interview",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "http://www.udd.uk.gov.in",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s38208974663db80265e9bfe7b222dcb18/uploads/2026/10/20261030508166597.pdf"
+    },
+    {
+        "date": "30/10/2026",
         "board": "UDD Uttarakhand Vacancy 2026 - 15 GIS Planner, Lead Consultant and More PostsUDD Uttarakhand Vacancy 2026",
         "title": "GIS Planner (GIS), Lead Consultant (GIS), GIS technical specialist (with GIS server management skills) & IT Expert and 2 more",
         "qualification": "Masters Degree in Planning/Geographical Information System(GIS)/M. Tech in Civil Engg or Geo-Informatics or Geo- spatial related course or equivalent from any University Institute.",
@@ -128,22 +176,6 @@
         "official_notification": "https://geu.ac.in/careers/professor-associate-assistant-professor-ten"
     },
     {
-        "date": "28/10/2026",
-        "board": "IIT Roorkee Vacancy 2026 - 1 Junior Research Fellow PostsIIT Roorkee Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "Experience in cryptography and cybersecurity along with a solid background in programming. || For the full eligibility of the Junior Research Fellow post in each discipline, see the official notification.",
-        "last_date": "30-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in",
-        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CSE/2026/adv27102026.pdf"
-    },
-    {
         "date": "27/10/2026",
         "board": "IIT Roorkee Vacancy 2026 - 1 Post-Doctoral Fellow PostsIIT Roorkee Post-Doctoral Fellow Vacancy 2026",
         "title": "Post-Doctoral Fellow (PDF)",
@@ -202,7 +234,7 @@
         "age_limit": "The maximum age for Project Associate-I is 30 years as on the date of interview (16 November 2026).",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.nihroorkee.gov.in",
         "official_notification": "https://nihroorkee.gov.in/job27102026.pdf"
@@ -322,18 +354,18 @@
     {
         "date": "23/10/2026",
         "board": "IIT Roorkee Vacancy 2026 - 4 Project Fellow, Research Associate PostsIIT Roorkee Vacancy 2026",
-        "title": "Project Fellow and Research Associate",
-        "qualification": "Ph.D. in Mechanical/Civil/Hydropower Engineering or relevant discipline having CFD/design-based work in hydro turbine/ PumpOrM Tech in Mechanical/Civil/Hydropower Engineering or relevant discipline with 3-year experience in CFD/ design of hydro turbine / pump",
+        "title": "Project Fellow, Research Associate",
+        "qualification": "4 Posts",
         "last_date": "02-11-2026",
         "total_posts": "Not Available",
-        "salary": "Rs. 40,000/- to Rs. 1,00,000/- + HRA per month",
+        "salary": "Not Available",
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Not Available",
         "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in",
-        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/HRE/2026/adv231020261.pdf"
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
     },
     {
         "date": "23/10/2026",
@@ -414,22 +446,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iitr.ac.in",
         "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/CE/2026/adv221020262.pdf"
-    },
-    {
-        "date": "22/10/2026",
-        "board": "IIT Roorkee Vacancy 2026 - 1 Junior Research Fellow PostsIIT Roorkee Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "Applicants must possess B.E./B.Tech in Electronics and Communication Engineering (ECE) or Engineering Physics, or an equivalent qualification. || The current notification does not explicitly specify a GATE requirement, minimum percentage, CGPA, or maximum age limit. Candidates should verify their eligibility against the official notice before applying.",
-        "last_date": "30-10-2026",
-        "total_posts": "Not Available",
-        "salary": "The selected candidate will receive Rs. 37,000 per month plus House Rent Allowance (HRA), as per institute rules.",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "The recruitment notice provides for an interview. Candidates must ensure that they meet the eligibility requirements before appearing. || Applicants must bring original educational qualifications and experience certificates for verification at the interview. || Preference will be given to SC/ST candidates when qualifications and experience are equal. No TA/DA will be provided for attending the interview.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/ECE/2026/adv221020261.pdf"
     },
     {
         "date": "21/10/2026",
@@ -522,7 +538,7 @@
         "age_limit": "Maximum age limit of the applicant at the time of recommendation by the Search Committee shall not exceed65 years(as prescribed under the Uttarakhand State University norms).",
         "application_fee": "Not Available",
         "selection_process": "Applications received are evaluated by a Search and Selection Committee. The committee assesses candidates based on their curriculum vitae, qualifications, experience, administrative leadership, and a comprehensive 3-year vision statement. The maximum age of the applicant at the time of recommendation by the Search Committee shall not exceed 65 years.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://ayurved.uk.gov.in",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3a77c8fd7f48b9c859bbd5ed81c5f441f/uploads/2026/10/202610151943453049.pdf"

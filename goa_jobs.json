@@ -1,5 +1,21 @@
 [
     {
+        "date": "30/10/2026",
+        "board": "Goa Samagra Shiksha Vacancy 2026 - 41 Instructor (NSQF Sectors) PostsGoa Samagra Shiksha Instructor (NSQF Sectors) Vacancy 2026",
+        "title": "Instructor (NSQF Sectors)",
+        "qualification": "41 Posts",
+        "last_date": "06-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs. 20,000/- per month",
+        "age_limit": "As per Govt. Norms",
+        "application_fee": "Not Available",
+        "selection_process": "Selection is through the walk-in interview, during which original certificates and documents are verified. A candidate who fails to produce the required original and valid documents when called upon shall be eliminated. A shortlisted candidate's candidature shall be rejected at any time if he or she is found ineligible when essential documents are verified.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "https://scert.goa.gov.in/wp-content/uploads/2026/10/GSS-Advt-30.10.2026.pdf"
+    },
+    {
         "date": "27/10/2026",
         "board": "GTDC Vacancy 2026 - 3 Technical Assistant (Civil) PostsGTDC Technical Assistant (Civil) Vacancy 2026",
         "title": "Technical Assistant (Civil)",
@@ -237,38 +253,6 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "kea-fda-sda-recruitment-2026-3077035"
-    },
-    {
-        "date": "01/10/2026",
-        "board": "NCPOR Vacancy 2026 - 5 Officer PostsNCPOR Officer Vacancy 2026",
-        "title": "Officer (Admn./F&A/P&S)",
-        "qualification": "Master's Degree from recognized University with relevant experience",
-        "last_date": "30-10-2026",
-        "total_posts": "5",
-        "salary": "47600 + HRA",
-        "age_limit": "Officer (Admn./F&A/P&S):Maximum age is 50 years. Age relaxations are applicable as per GoI norms for OBC-NCL, Ex-Servicemen, and PwD candidates.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting based on qualifications, academic performance, and relevant experience || Interview of screened-in candidates",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ncpor.res.in",
-        "official_notification": "https://ncpor.res.in/upload/recruitments/adv_ncpor_2026_08_011026.PDF"
-    },
-    {
-        "date": "01/10/2026",
-        "board": "GSSC Vacancy 2026 - 32 Food Safety Officer; Veterinary Assistant PostsGSSC Food Safety Officer; Veterinary Assistant Vacancy 2026",
-        "title": "Food Safety Officer; Veterinary Assistant",
-        "qualification": "32 Posts",
-        "last_date": "30-10-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://gssc.goa.gov.in",
-        "official_notification": "https://gssc.goa.gov.in/wp-content/uploads/2026/09/advertisement-no.-4-of-year-2026-brief-advertisement_compressed.pdf"
+        "official_notification": "Not Available"
     }
 ]
