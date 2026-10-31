@@ -1,22 +1,6 @@
 [
     {
         "date": "30/10/2026",
-        "board": "DPA Vacancy 2026 - 1 Deputy Chief Vigilance Officer PostsDPA Deputy Chief Vigilance Officer Vacancy 2026",
-        "title": "Deputy Chief Vigilance Officer",
-        "qualification": "Officers holding analogous posts or officers holding posts in the pay scale of Rs. 20600-46500 with 3 years regular service",
-        "last_date": "30-11-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://deendayalport.gov.in",
-        "official_notification": "https://www.deendayalport.gov.in/uploads/Filling_up_the_post_of_Dy_CVO_in_DPA_on_Deputation_basis_1_d77cb08ff8.pdf"
-    },
-    {
-        "date": "30/10/2026",
         "board": "GNLU Vacancy 2026 - 1 Deputy Registrar PostsGNLU Deputy Registrar Vacancy 2026",
         "title": "Deputy Registrar",
         "qualification": "1 Posts",
@@ -30,22 +14,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.gnlus.ac.in",
         "official_notification": "https://gnlu.ac.in//Content/gnlu/pdf/careers/GNLU-S-RP-01-2026%20dated%2030.10.2026%20GNLU%20Silvassa%20Deputy%20Registrar%20advertisement.pdf"
-    },
-    {
-        "date": "30/10/2026",
-        "board": "Income Tax Department Gujarat Vacancy 2026 - 2 Senior Standing Counsel and Junior Standing Counsel PostsIncome Tax Department Gujarat Vacancy 2026",
-        "title": "Senior Standing Counsel, Junior Standing Counsel",
-        "qualification": "Eligible to appear before the High Court as an advocate, with minimum 5 years of handling direct tax matters before High Courts or ITAT as an advocate; or Junior Standing Counsel of the Department for 3 years; or an eligible retired/resigned officer or former ITAT member.",
-        "last_date": "30-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.incometaxgujarat.gov.in",
-        "official_notification": "http://incometaxgujarat.gov.in/uploads/documents/counclier_instruction_30_10_26_merged.pdf"
     },
     {
         "date": "30/10/2026",
@@ -64,6 +32,38 @@
         "official_notification": "https://iitgn.ac.in/assets/pdfs/careers/Advertisement-Media-Communication-Office-Oct-2026-02.pdf"
     },
     {
+        "date": "06/03/2026",
+        "board": "RMC Vacancy 2026 - 1 Additional Chief Fire Officer PostsRMC Additional Chief Fire Officer Vacancy 2026",
+        "title": "Additional Chief Fire Officer",
+        "qualification": "Bachelor’s degree + Divisional Officers Course or Fire Prevention Course from National Fire Service College, Nagpur OR Direct Fire Engineering/Technology degree (B.E./B.Tech (Fire), B.E./B.Tech (Fire & Safety), B.Sc. (Fire), etc.), Minimum 8 years experience in Fire Brigade field, at least 5 years in Station Officer / Assistant Divisional Fire Officer level or higher, Valid Heavy Motor Vehicle driving licence, Basic computer knowledge (Gujarat Civil Services Rules 1967), Adequate knowledge of Gujarati or Hindi or both, Physical Standards: Male - Height 165 cm, Chest 81-86 cm, Weight 50 kg; Female - Height 157 cm, Weight 46 kg (relaxations for ST)",
+        "last_date": "19-11-2026",
+        "total_posts": "1",
+        "salary": "Rs. ₹56,100 - ₹1,77,500 Per Month",
+        "age_limit": "Minimum Age: 21 years || Maximum Age: 45 years || Age Relaxation: 5 years for reserved category candidates of Gujarat origin only. No upper age limit for existing Rajkot Municipal Corporation employees. Maximum age (including relaxations) cannot exceed 45 years except for current RMC employees.",
+        "application_fee": "₹500/-",
+        "selection_process": "Shortlisting based on application data / merit || Written test / Online test (depending on number of applicants) || Physical test || Interview / Document verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rmc.gov.in",
+        "official_notification": "http://117.217.104.235/RMCRecruit/documents/upload/ADDITIONAL%20CFO%20ANNEXURE%20A.pdf"
+    },
+    {
+        "date": "31/10/2026",
+        "board": "RMC Vacancy 2026 - 825 Apprentice PostsRMC Apprentice Vacancy 2026",
+        "title": "Apprentice",
+        "qualification": "ITI Pass in Relevant Trade",
+        "last_date": "17-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Selected candidates will receive a monthly stipend at the rate prescribed by the Government for the applicable apprenticeship training. || The advertisement does not mention a fixed monthly stipend amount for individual trades. This is apprenticeship training, and the stipend should not be treated as a regular municipal employee salary.",
+        "age_limit": "The uploaded apprenticeship advertisement does not separately specify a minimum age, maximum age or age-calculation date. || Candidates should refer to the applicable Apprentices Act provisions and the eligibility instructions on the current RMC application portal before applying.",
+        "application_fee": "The uploaded advertisement does not specify an application fee or a separate payment procedure. || Candidates should follow the fee-related instructions, if any, displayed on the official RMC recruitment portal.",
+        "selection_process": "Selection for the 825 Apprentice positions will be conducted based on merit among eligible candidates , according to the vacancies available in the respective trades. || Online Application:Candidates must submit the prescribed application form through the RMC website. || Document Submission:Applicants must submit the printed form and required self-attested documents at the designated office. || Eligibility Verification:RMC will verify the relevant ITI qualification and other prescribed conditions. || Merit-Based Selection:Eligible applicants will be considered in merit order against the available apprenticeship positions. || Waiting List:RMC may operate a merit-based waiting list to fill positions becoming vacant from time to time. || The advertisement does not prescribe a separate written examination or interview. It also does not specify a numerical merit calculation formula.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.rmc.gov.in/",
+        "official_notification": "https://rmc.gov.in/rmcwebsite/docs/HomePage/ApprenticeAdvertisement.pdf"
+    },
+    {
         "date": "30/10/2026",
         "board": "IIT Gandhinagar Vacancy 2026 - 1 Research Associate II PostsIIT Gandhinagar Research Associate II Vacancy 2026",
         "title": "Research Associate II",
@@ -78,6 +78,38 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://drive.google.com/uc?export=download&id=1uGIMzGHQf88T8UeD-Rq4RWFSIT6DMI_U"
+    },
+    {
+        "date": "30/10/2026",
+        "board": "DPA Vacancy 2026 - 1 Deputy Chief Vigilance Officer PostsDPA Deputy Chief Vigilance Officer Vacancy 2026",
+        "title": "Deputy Chief Vigilance Officer",
+        "qualification": "Officers holding analogous posts or officers holding posts in the pay scale of Rs. 20600-46500 with 3 years regular service",
+        "last_date": "30-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://deendayalport.gov.in",
+        "official_notification": "https://www.deendayalport.gov.in/uploads/Filling_up_the_post_of_Dy_CVO_in_DPA_on_Deputation_basis_1_d77cb08ff8.pdf"
+    },
+    {
+        "date": "30/10/2026",
+        "board": "Income Tax Department Gujarat Vacancy 2026 - 2 Senior Standing Counsel and Junior Standing Counsel PostsIncome Tax Department Gujarat Vacancy 2026",
+        "title": "Senior Standing Counsel, Junior Standing Counsel",
+        "qualification": "Eligible to appear before the High Court as an advocate, with minimum 5 years of handling direct tax matters before High Courts or ITAT as an advocate; or Junior Standing Counsel of the Department for 3 years; or an eligible retired/resigned officer or former ITAT member.",
+        "last_date": "30-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.incometaxgujarat.gov.in",
+        "official_notification": "http://incometaxgujarat.gov.in/uploads/documents/counclier_instruction_30_10_26_merged.pdf"
     },
     {
         "date": "30/10/2026",
