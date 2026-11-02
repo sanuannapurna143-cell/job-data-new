@@ -1,5 +1,53 @@
 [
     {
+        "date": "02/11/2026",
+        "board": "IIT Ropar Vacancy 2026 - 1 Postdoctoral Fellow PostsIIT Ropar Postdoctoral Fellow Vacancy 2026",
+        "title": "Postdoctoral Fellow",
+        "qualification": "Ph.D. degree holders in Science or Engineering (or those having their thesis submission certificate), with expertise in experimental condensed matter physics; PhD completed within the past 5 years.",
+        "last_date": "15-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Below 35 years (as on the last date of submission of the application)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email to [email protected]",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitrpr.ac.in",
+        "official_notification": "https://www.iitrpr.ac.in/api/v2/files/download/229"
+    },
+    {
+        "date": "02/11/2026",
+        "board": "PRSC Vacancy 2026 - 26 Principal Project Associate, Research Scientist, Research Associate, Research Fellow, Jr. Research Fellow, Geospatial Assistant and Project Assistant PostsPRSC Vacancy 2026",
+        "title": "Principal Project Associate (Soil Science), Research Scientist (Soil Science), Research Associate (Soil Science), Research Fellow, Jr. Research Fellow, Geospatial Assistant, Project Assistant",
+        "qualification": "26 Posts",
+        "last_date": "17-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs 60,000/- (Consolidated) + HRA",
+        "age_limit": "Not Available",
+        "application_fee": "Rs.2000/-, Rs.1500/- or Rs.1000/- depending on the post (non-refundable)",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.prsc.punjab.gov.in",
+        "official_notification": "https://www.prsc.punjab.gov.in"
+    },
+    {
+        "date": "21/10/2026",
+        "board": "SCL Vacancy 2026 - 83 Technician, Technical Assistant and More PostsSCL Vacancy 2026",
+        "title": "Technician 'B', Technical Assistant, Junior Personal Assistant and Officer Posts",
+        "qualification": "For most Technical Assistant disciplines, candidates must possess a First Class three-year full-time Diploma in the respective engineering field with two years of post-qualification experience. || For Electronics, SCL also accepts a First Class B.Sc. in Electronics. For Computer Science, the notification provides an alternative through First Class BCA / Computer Science qualifications. For Physics and Chemistry, candidates need the prescribed First Class B.Sc. qualification in the relevant subject.",
+        "last_date": "30-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Note: The above monthly emoluments are approximate figures provided in the advertisement and may vary with allowances and applicable deductions. Eligible employees may also receive benefits as prescribed by SCL.",
+        "age_limit": "18 to 35 Years (Post-Wise Conditions)",
+        "application_fee": "The SCL examination fee includes a non-refundable processing fee of Rs. 600 and a post-wise application fee. Eligible women, SC, ST, PwBD and Ex-Servicemen candidates may receive a refund of the application fee component after appearing in the CBT, subject to the notification conditions. || All applicants must initially pay the applicable examination fee. The refundable application-fee component is Rs. 900 for Group A, Rs. 700 for Group B and Rs. 600 for Group C. The processing fee of Rs. 600 is non-refundable.",
+        "selection_process": "Computer Based Test (CBT) || Skill Test or Personal Interview, as applicable || Document Verification || Final Selection and Appointment Formalities",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.scl.gov.in/",
+        "official_notification": "https://www.scl.gov.in/career/Advertisement30102026.pdf"
+    },
+    {
         "date": "31/10/2026",
         "board": "PESCO Vacancy 2026 - Deputy General Manager PostsPESCO Deputy General Manager Vacancy 2026",
         "title": "Deputy General Manager",
@@ -45,7 +93,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.echs.gov.in",
-        "official_notification": "/cdn-cgi/l/email-protection#355754475b5459547550565d461b525a431b5c5b"
+        "official_notification": "/cdn-cgi/l/email-protection#e785869589868b86a782848f94c9808891c98e89"
     },
     {
         "date": "30/10/2026",
@@ -90,7 +138,7 @@
         "age_limit": "Age and experience are counted as on the date of the walk-in interview. || Age relaxation: candidates from reserved categories such as SC/ST/OBC get relaxation in the upper age limit as per Government of India instructions. The notice also says the norms can be relaxed for deserving candidates with relevant experience. Only Indian nationals can apply.",
         "application_fee": "Not Available",
         "selection_process": "Selection is through a walk-in interview. || If too many candidates turn up, an MCQ test will be held and the eligible candidates will be shortlisted for the interview based on it. || The agency may set a minimum eligibility standard or benchmark and cut-off marks (by group, stream, discipline or category) and may limit the number of candidates called for a written test, interview or skill test. It can base this on factors such as the number of vacancies, marks in graduation or post-graduation, and the applicants' qualifications and experience. || Meeting the prescribed qualifications alone does not entitle a candidate to be called for a test or interview. The competent authority's decision is final, and no correspondence will be entertained.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2516"
@@ -286,22 +334,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.sssc.gov.in/",
         "official_notification": "https://cdn3.digialm.com/EForms/configuredHtml/32046/100408/8QbduJv6oSbKw2p7dK/Index.html"
-    },
-    {
-        "date": "21/10/2026",
-        "board": "SCL Vacancy 2026 - 83 Technician, Technical Assistant and More PostsSCL Vacancy 2026",
-        "title": "Post Name (Post Code)",
-        "qualification": "(a) Graduate with 10 years of experience, OR Post Graduate with 5 years of experience, OR MBA (Material Management) with 2 years of experience. Experience should be in Purchase & Stores matters such as procurement of goods/services, import, local purchase or stores management, etc. at supervisory level. (b) Knowledge of Govt. rules and regulations. Desirable: Knowledge of computerized system.",
-        "last_date": "30-11-2026",
-        "total_posts": "Not Available",
-        "salary": "The notification gives the pay level as per the 7th CPC, the initial basic pay and the approximate total emoluments per month (as on date). || In addition to basic pay, Dearness Allowance (DA), House Rent Allowance (for those not availing the SCL housing facility) and Transport Allowance are paid at the prescribed rates in force. Employees are governed by the National Pension System (NPS). Other facilities available on employment in SCL include medical facilities for self and eligible dependents, a subsidized canteen facility subject to certain terms and conditions, Children Education Allowance, Group Insurance, Leave Travel Concession, and advances for purchase of a computer and construction of a house as per norms. || The present posting is at SCL, S.A.S. Nagar. SCL reserves the right to post employees anywhere in India as per requirement/public interest. The notification also states that the posts are temporary but likely to be continued, and that appointees are liable to work in round-the-clock shifts for technical positions.",
-        "age_limit": "The age limit is calculated as on the closing date for receipt of online applications (30.11.2026).",
-        "application_fee": "The examination fee has two parts: a non-refundable processing fee of Rs. 600 for all posts and an application fee. All candidates initially pay the full examination fee (refundable plus non-refundable) for each post. The application fee is refunded only to candidates who appear in the Computer Based Test and are exempted from the application fee, that is, Women, SC, ST, PwBD and Ex-Servicemen. || The fee must be paid online. The last date for fee payment is 30.11.2026 (17:00 Hrs.). Candidates can pay the fee immediately after submitting the application or on any day before the last date. || Refunds are made to the bank account entered in the application, so Bank Name, Branch, Name of Account Holder, Account Number and IFSC must be entered correctly. SCL is not responsible for refund issues caused by incorrect bank details. || Applicable service charges, if any, are borne by the applicant. || Do not click the REFRESH or BACK button during payment processing, otherwise the session will be aborted. || Payment status can be checked, and the receipt printed, on the portal after 24 hours of making or attempting payment. For technical issues with online payment, candidates may write to[email protected]. || SCL is not responsible for incomplete, pending or failed fee transactions.",
-        "selection_process": "The selection process depends on the post. In every case, the final selection is subject to meeting the advertised eligibility criteria and to merit in the Computer Based Test (CBT) and interview, wherever applicable. A Common Merit List is prepared and offers of appointment are issued in order of merit.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.scl.gov.in",
-        "official_notification": "https://www.scl.gov.in/career/Advertisement22102026.pdf"
     },
     {
         "date": "21/10/2026",

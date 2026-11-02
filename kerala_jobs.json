@@ -1,5 +1,85 @@
 [
     {
+        "date": "02/11/2026",
+        "board": "Kannur University Vacancy 2026 - 1 Lab Assistant PostsKannur University Lab Assistant Vacancy 2026",
+        "title": "Lab Assistant",
+        "qualification": "1 Posts",
+        "last_date": "04-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.kannuruniv.ac.in",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "02/11/2026",
+        "board": "PRD Kerala Vacancy 2026 - Reporter PostsPRD Kerala Reporter Vacancy 2026",
+        "title": "Reporter",
+        "qualification": "Not Mentioned",
+        "last_date": "06-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "syllabus": "Not Available",
+        "official_website": "https://prd.kerala.gov.in",
+        "official_notification": "https://prd.kerala.gov.in/sites/default/files/pdf/Reporter%20notification.pdf"
+    },
+    {
+        "date": "02/11/2026",
+        "board": "DUK Vacancy 2026 - 3 Lead Auditor, Cybersecurity Solutions Architect and More PostsDUK Vacancy 2026",
+        "title": "Lead Auditor, Cybersecurity Solutions Architect and More",
+        "qualification": "3 Posts",
+        "last_date": "15-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Rs.80,000 - 85,000 (consolidated)",
+        "age_limit": "Age Limit",
+        "application_fee": "Not Available",
+        "selection_process": "Selection will be based on a test and/or interview, held in Thiruvananthapuram district only. The schedule reaches candidates through their registered email only. Any selection or appointment is provisional and subject to physical verification of documents.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://duk.ac.in/",
+        "official_notification": "https://duk.ac.in/data/2026/11/Notification-KSAAC-KUDSIT-587-AD_AIII-2025.pdf"
+    },
+    {
+        "date": "02/11/2026",
+        "board": "Kerala High Court Vacancy 2026 - 48 Research Assistant PostsKerala High Court Research Assistant Vacancy 2026",
+        "title": "Research Assistant",
+        "qualification": "48 Posts",
+        "last_date": "30-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Born between 1 December 1994 and 30 November 2004 (both days inclusive)",
+        "application_fee": "The fee can be paid with the system generated Fee Payment Challan, or online through Debit Card, Credit Card or Net Banking by following the instructions on the screen. Bank transaction charges, if applicable, will have to be borne by the candidate. || Online fee payment closes on 30 November 2026, along with the online application. Offline fee payment runs from 4 December 2026 to 11 December 2026.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://hckrecruitment.keralacourts.in",
+        "official_notification": "https://hckrecruitment.keralacourts.in"
+    },
+    {
+        "date": "31/10/2026",
+        "board": "District Court Alappuzha Vacancy 2026 - 4 Confidential Assistant, Computer Assistant and Office Attendant PostsDistrict Court Alappuzha Vacancy 2026",
+        "title": "Confidential Assistant, Computer Assistant and Office Attendant",
+        "qualification": "4 Posts",
+        "last_date": "03-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://kannur.dcourts.gov.in",
+        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026103194.pdf"
+    },
+    {
         "date": "01/11/2026",
         "board": "Amrita Vishwa Vidyapeetham Vacancy 2026 - 1 Verbal and Communication Trainer PostsAmrita Vishwa Vidyapeetham Vacancy 2026",
         "title": "Verbal and Communication Trainer",
@@ -33,22 +113,6 @@
     },
     {
         "date": "31/10/2026",
-        "board": "District Court Alappuzha Vacancy 2026 - 4 Confidential Assistant, Computer Assistant and Office Attendant PostsDistrict Court Alappuzha Vacancy 2026",
-        "title": "Confidential Assistant, Computer Assistant and Office Attendant",
-        "qualification": "4 Posts",
-        "last_date": "03-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://kannur.dcourts.gov.in",
-        "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026103194.pdf"
-    },
-    {
-        "date": "31/10/2026",
         "board": "KAU Vacancy 2026 - 4 Skilled Assistant PostsKAU Skilled Assistant Vacancy 2026",
         "title": "Skilled Assistant",
         "qualification": "4 Posts",
@@ -77,7 +141,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.amrita.edu/",
-        "official_notification": "/cdn-cgi/l/email-protection#107a7169717b657d71627f7450717d3e717d627964713e757465"
+        "official_notification": "/cdn-cgi/l/email-protection#93f9f2eaf2f8e6fef2e1fcf7d3f2febdf2fee1fae7f2bdf6f7e6"
     },
     {
         "date": "31/10/2026",
@@ -93,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.amrita.edu",
-        "official_notification": "/cdn-cgi/l/email-protection#6802091109031d05091a070c2809054609051a011c09460d0c1d"
+        "official_notification": "/cdn-cgi/l/email-protection#b5dfd4ccd4dec0d8d4c7dad1f5d4d89bd4d8c7dcc1d49bd0d1c0"
     },
     {
         "date": "31/10/2026",
@@ -618,7 +682,7 @@
         "age_limit": "You must not be older than 50 years on 1 October 2026.",
         "application_fee": "Not Available",
         "selection_process": "Candidates are selected through an interview on 11 November 2026 at 10:00 AM. The notice says a written test may also be held. This notice is the only call for the interview, so applicants must come on the day without waiting for a letter. Bring the original certificates that prove your educational qualification and your age. || The interview venue is the Office of the District Programme Manager, National AYUSH Mission, 5th Floor, Arogya Bhavan Building, Thiruvananthapuram.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.nam.kerala.gov.in",
         "official_notification": "https://www.nam.kerala.gov.in"
