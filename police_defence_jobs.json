@@ -1,6 +1,22 @@
 [
     {
         "date": "03/11/2026",
+        "board": "College of Engineering Chengannur",
+        "title": "Tradesman, Demonstrator and More     – 3 Posts",
+        "qualification": "3-year Diploma in Computer (First Class) / First Class degree in BSc Computer Science",
+        "last_date": "05-11-2026",
+        "total_posts": "3",
+        "salary": "Not Available",
+        "age_limit": "The notice states that the age limit will be as per Government norms. It does not print a numeric limit or a cut-off date. Candidates should check the official notification for the eligibility of each post.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://ceconline.edu",
+        "official_notification": "https://ceconline.edu"
+    },
+    {
+        "date": "03/11/2026",
         "board": "ECHS",
         "title": "Officer-In-Charge (OIC)",
         "qualification": "Graduate",
@@ -14,22 +30,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.echs.gov.in",
         "official_notification": "https://www.echs.gov.in"
-    },
-    {
-        "date": "03/11/2026",
-        "board": "PM Shri KV AFS Chandinagar",
-        "title": "Special Educator     – 1 Posts",
-        "qualification": "",
-        "last_date": "04-11-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://afschandinagar.kvs.ac.in",
-        "official_notification": "Not Available"
     },
     {
         "date": "02/11/2026",
@@ -494,21 +494,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.iopb.res.in",
         "official_notification": "https://www.iopb.res.in/wp-content/uploads/2026/10/IOP_TADESMAN-A_Recruitment_Advertisement_2026__FINAL.pdf"
-    },
-    {
-        "date": "23/09/2026",
-        "board": "Indian Coast Guard",
-        "title": "Store Keeper, Engine Driver, Lascar, Driver, Peon and Chowkidar",
-        "qualification": "One year of experience in handling stores in a recognised firm, Central or State Government organisation or Public Sector Undertaking",
-        "last_date": "03-11-2026",
-        "total_posts": "06",
-        "salary": "Rs.19,900-63,200",
-        "age_limit": "SC candidates applying against the reserved Engine Driver vacancy: five years || OBC Non-Creamy Layer candidates applying against reserved vacancies: three years || Government servants applying for Store Keeper Grade II and Lascar: up to 40 years || Other age relaxation will be provided according to Central Government instructions.",
-        "application_fee": "Not Available",
-        "selection_process": "The Indian Coast Guard Group C selection process will include the following stages: || Scrutiny of applications || Shortlisting of eligible candidates || Document verification || Biometric verification || Written examination || Trade test, where applicable || Preparation of the final merit list",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://indiancoastguard.gov.in",
-        "official_notification": "https://indiancoastguard.gov.in/sites/default/files/266_71_288-1.pdf"
     }
 ]

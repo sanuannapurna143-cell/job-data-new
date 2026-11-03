@@ -1,6 +1,54 @@
 [
     {
         "date": "03/11/2026",
+        "board": "DHS Yadgiri Vacancy 2026 - 4 X-ray Technician/ Radiographers PostsDHS Yadgiri X-ray Technician/ Radiographers Vacancy 2026",
+        "title": "X-ray Technician/ Radiographers",
+        "qualification": "10th (SSLC) and Diploma in X-Ray/Medical Imaging Technology, or 10+2 (PUC) with Science (Physics, Chemistry & Biology) and Diploma in X-ray/Medical Imaging Technology, from an institution affiliated to RUGHS or approved by the Karnataka Paramedical Board",
+        "last_date": "13-11-2026",
+        "total_posts": "4",
+        "salary": "Not Available",
+        "age_limit": "Maximum 45 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://zpyadgiri.karnataka.gov.in",
+        "official_notification": "https://zpyadgiri.karnataka.gov.in/uploads/media_to_upload1793681022.pdf"
+    },
+    {
+        "date": "03/11/2026",
+        "board": "CRS Vacancy 2026 - 1 Sr. Inspector (Technical) PostsCRS Sr. Inspector (Technical) Vacancy 2026",
+        "title": "Sr. Inspector (Technical)",
+        "qualification": "Eligibility as mentioned in the Recruitment Rules (Column 11 of GSR 37 in Annexure 2); open on deputation to officials of Central/State Governments, UTs, Universities, recognized research institutes, PSUs and Statutory or Autonomous Organisations",
+        "last_date": "23-12-2026",
+        "total_posts": "19 October 2026",
+        "salary": "Not Available",
+        "age_limit": "Maximum 56 years (as on the closing date of receipt of application)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.civilaviation.gov.in/tenders-notices/recruitment",
+        "official_notification": "https://www.civilaviation.gov.in/sites/default/files/2026-11/request-to-upload-for-vacancy-circular-letter.pdf"
+    },
+    {
+        "date": "03/11/2026",
+        "board": "UAS Dharwad Vacancy 2026 - 1 Young Professional-II PostsUAS Dharwad Young Professional-II Vacancy 2026",
+        "title": "Young Professional-II",
+        "qualification": "1 Posts",
+        "last_date": "17-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://www.uasd.edu",
+        "official_notification": "https://drive.google.com/uc?export=download&id=1Q2Sl7TDt2zubU-9PJ11Sdgl--D6UUnHZ"
+    },
+    {
+        "date": "03/11/2026",
         "board": "IIITB Vacancy 2026 - 1 Admin Associate PostsIIITB Admin Associate Vacancy 2026",
         "title": "Admin Associate",
         "qualification": "Graduate degree in any discipline",
@@ -45,7 +93,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.manipal.edu",
-        "official_notification": "/cdn-cgi/l/email-protection#1973767b6a376b7c6a7c786b7a715974787770697875377c7d6c"
+        "official_notification": "/cdn-cgi/l/email-protection#e08a8f8293ce9285938581928388a08d818e8990818cce858495"
     },
     {
         "date": "03/11/2026",
@@ -80,54 +128,6 @@
         "official_notification": "https://kshrc.karnataka.gov.in/uploads/Kannada_Notification_0001_1793600399.pdf"
     },
     {
-        "date": "03/11/2026",
-        "board": "UAS Dharwad Vacancy 2026 - 1 Young Professional-II PostsUAS Dharwad Young Professional-II Vacancy 2026",
-        "title": "Young Professional-II",
-        "qualification": "1 Posts",
-        "last_date": "17-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.uasd.edu",
-        "official_notification": "https://drive.google.com/uc?export=download&id=1Q2Sl7TDt2zubU-9PJ11Sdgl--D6UUnHZ"
-    },
-    {
-        "date": "03/11/2026",
-        "board": "CRS Vacancy 2026 - 1 Sr. Inspector (Technical) PostsCRS Sr. Inspector (Technical) Vacancy 2026",
-        "title": "Sr. Inspector (Technical)",
-        "qualification": "Eligibility as mentioned in the Recruitment Rules (Column 11 of GSR 37 in Annexure 2); open on deputation to officials of Central/State Governments, UTs, Universities, recognized research institutes, PSUs and Statutory or Autonomous Organisations",
-        "last_date": "02-01-2027",
-        "total_posts": "19 October 2026",
-        "salary": "Not Available",
-        "age_limit": "Maximum 56 years (as on the closing date of receipt of application)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.civilaviation.gov.in/tenders-notices/recruitment",
-        "official_notification": "https://www.civilaviation.gov.in/sites/default/files/2026-11/request-to-upload-for-vacancy-circular-letter.pdf"
-    },
-    {
-        "date": "03/11/2026",
-        "board": "District Health Society Yadgiri Vacancy 2026 - 4 X-ray Technician/ Radiographers PostsDistrict Health Society Yadgiri X-ray Technician/ Radiographers Vacancy 2026",
-        "title": "X-ray Technician/ Radiographers",
-        "qualification": "10th (SSLC) and Diploma in X-Ray/Medical Imaging Technology, or 10+2 (PUC) with Science (Physics, Chemistry & Biology) and Diploma in X-ray/Medical Imaging Technology, from an institution affiliated to RUGHS or approved by the Karnataka Paramedical Board",
-        "last_date": "13-11-2026",
-        "total_posts": "4",
-        "salary": "Not Available",
-        "age_limit": "Maximum 45 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://zpyadgiri.karnataka.gov.in",
-        "official_notification": "https://zpyadgiri.karnataka.gov.in/uploads/media_to_upload1793681022.pdf"
-    },
-    {
         "date": "02/11/2026",
         "board": "IIT Dharwad Vacancy 2026 - 5 Project Associate I PostsIIT Dharwad Project Associate I Vacancy 2026",
         "title": "Project Associate I",
@@ -157,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.rites.com",
-        "official_notification": "/cdn-cgi/l/email-protection#3a5955544e14485f594e4e7a48534e5f4914595557"
+        "official_notification": "/cdn-cgi/l/email-protection#583b37362c762a3d3b2c2c182a312c3d2b763b3735"
     },
     {
         "date": "02/11/2026",
@@ -461,7 +461,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "/cdn-cgi/l/email-protection#01626e6f752f73646275754173687564722f626e6c"
+        "official_notification": "/cdn-cgi/l/email-protection#65060a0b114b170006111125170c1100164b060a08"
     },
     {
         "date": "29/10/2026",
@@ -800,22 +800,6 @@
         "official_notification": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-AA-Public_Policy-Area-2026.pdf"
     },
     {
-        "date": "29/09/2026",
-        "board": "HMT Vacancy 2026 - 5 Senior Adviser PostsHMT Senior Adviser Vacancy 2026",
-        "title": "Senior Adviser (Operations)",
-        "qualification": "Full-time regular Engineering Degree in Mechanical/Production/Electrical & Electronics/Electronics.",
-        "last_date": "03-11-2026",
-        "total_posts": "5",
-        "salary": "Senior Adviser :Rs. 55000/- to 115000/- per month.",
-        "age_limit": "Senior Adviser :Maximum age limit is 63 years as on 01.09.2026.",
-        "application_fee": "Not Available",
-        "selection_process": "Shortlisting of eligible candidates || Interview in person or through video conferencing",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.hmtindia.com/",
-        "official_notification": "https://www.hmtindia.com/wp-content/uploads/2026/09/Senior-Adviser-MTL-Units.pdf"
-    },
-    {
         "date": "27/10/2026",
         "board": "IIM Bangalore Vacancy 2026 - 1 Academic Associate PostsIIM Bangalore Academic Associate Vacancy 2026",
         "title": "Academic Associate - Public Policy Area",
@@ -1054,22 +1038,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.icmr.gov.in/",
         "official_notification": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792579269_notificationyp-ii.pdf"
-    },
-    {
-        "date": "21/10/2026",
-        "board": "IIMB Vacancy 2026 - 1 Research Manager PostsIIMB Research Manager Vacancy 2026",
-        "title": "Research Manager, The Centre for Health Economics and Policy",
-        "qualification": "1 Posts",
-        "last_date": "03-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not stated in the notice",
-        "application_fee": "Not stated in the notice",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://www.iimb.ac.in/sites/default/files/inline-files/Research_Manager-consultant_Health-2026.pdf"
     },
     {
         "date": "20/10/2026",

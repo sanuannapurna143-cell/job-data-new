@@ -1,7 +1,39 @@
 [
     {
+        "date": "04/11/2026",
+        "board": "TNJFU Vacancy 2026 - 1 Lab Technician PostsTNJFU Lab Technician Vacancy 2026",
+        "title": "Lab Technician",
+        "qualification": "Master's Degree in Aquaculture / M.Sc. (Fisheries Science / Life Sciences / Biotechnology / Zoology / Microbiology) or any other relevant allied discipline with laboratory analytical experience preferably in Aquaculture; *Completed research and thesis submitted",
+        "last_date": "18-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Email to [email protected]",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tnjfu.ac.in",
+        "official_notification": "https://tnjfu.ac.in/downloads/career-pdf/lab-technician.pdf"
+    },
+    {
+        "date": "04/11/2026",
+        "board": "TNJFU Vacancy 2026 - 2 Technical Experts PostsTNJFU Technical Experts Vacancy 2026",
+        "title": "Technical Experts",
+        "qualification": "2 Posts",
+        "last_date": "12-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.tnjfu.ac.in",
+        "official_notification": "https://tnjfu.ac.in/downloads/career-pdf/tech-expert.pdf"
+    },
+    {
         "date": "03/11/2026",
-        "board": "District Health Society Tirunelveli Vacancy 2026 - 3 Ayush Medical Officer (Homeopathy), Data Entry Operator, Microbiologist PostsDistrict Health Society Tirunelveli Vacancy 2026",
+        "board": "DHS Tirunelveli Vacancy 2026 - 3 Ayush Medical Officer, Data Entry Operator and More PostsDHS Tirunelveli Vacancy 2026",
         "title": "Ayush Medical Officer (Homeopathy), Data Entry Operator, Microbiologist",
         "qualification": "Ayush Medical Officer: Bachelor of Homeopathic Medicine & Surgery with State Board/Council registration; Data Entry Operator: Computer Graduate or any Graduate with Diploma in Computer Applications; Microbiologist: MBBS, M.D (Microbiology) or M.Sc. Medical Microbiology",
         "last_date": "23-11-2026",
@@ -14,6 +46,38 @@
         "syllabus": "Not Available",
         "official_website": "https://tirunelveli.nic.in",
         "official_notification": "https://cdn.s3waas.gov.in/s36a9aeddfc689c1d0e3b9ccc3ab651bc5/uploads/2026/11/17937017745219.pdf"
+    },
+    {
+        "date": "03/11/2026",
+        "board": "DHS Thanjavur Vacancy 2026 - 2 TB Health Visitor PostsDHS Thanjavur TB Health Visitor Vacancy 2026",
+        "title": "TB Health Visitor",
+        "qualification": "Graduate in Science OR Intermediate (10+2) in Science with experience as MPW/LHV/ANM/Health worker / certificate or higher course in health education/Counseling OR Tuberculosis Health Visitor's recognized course; and certificate course in computer operation (minimum two months)",
+        "last_date": "10-11-2026",
+        "total_posts": "2",
+        "salary": "Not Available",
+        "age_limit": "Maximum 60 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://thanjavur.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s3b7b16ecf8ca53723593894116071700c/uploads/2026/11/17936829435742.pdf"
+    },
+    {
+        "date": "03/11/2026",
+        "board": "IMSc Vacancy 2026 - 4 Upper Division Clerk PostsIMSc Upper Division Clerk Vacancy 2026",
+        "title": "Upper Division Clerk",
+        "qualification": "Graduation with minimum 50% marks.",
+        "last_date": "02-12-2026",
+        "total_posts": "4",
+        "salary": "Upper Division Clerk:Level - 4 under 7th CPC",
+        "age_limit": "All Posts:Minimum 18, Maximum 30 years (Age relaxation: OBC: 3 years)",
+        "application_fee": "Rs. 100/-",
+        "selection_process": "Written Tests in two levels (Level-1 test and Level-2 test) || Document verification",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.imsc.res.in/",
+        "official_notification": "https://www.imsc.res.in/~office/jobs/2026/AdvtNo_05-R_IMSc_2026_UDC.pdf"
     },
     {
         "date": "03/11/2026",
@@ -80,22 +144,6 @@
         "official_notification": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/650"
     },
     {
-        "date": "03/11/2026",
-        "board": "IMSc Vacancy 2026 - 1 Upper Division Clerk PostsIMSc Upper Division Clerk Vacancy 2026",
-        "title": "Upper Division Clerk (UDC)",
-        "qualification": "1 Posts",
-        "last_date": "02-12-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://jobs.imsc.res.in"
-    },
-    {
         "date": "02/11/2026",
         "board": "TMB Vacancy 2026 - 2 Specialist Officer PostsTMB Specialist Officer Vacancy 2026",
         "title": "Specialist Officer – Manager (Law); Specialist Officer – Assistant Manager (Law)",
@@ -110,22 +158,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.tmb.bank.in/",
         "official_notification": "https://apps.tmbdigital.bank.in/tmb_careers/"
-    },
-    {
-        "date": "03/11/2026",
-        "board": "District Health Society Thanjavur Vacancy 2026 - 2 TB Health Visitor PostsDistrict Health Society Thanjavur TB Health Visitor Vacancy 2026",
-        "title": "TB Health Visitor",
-        "qualification": "Graduate in Science OR Intermediate (10+2) in Science with experience as MPW/LHV/ANM/Health worker / certificate or higher course in health education/Counseling OR Tuberculosis Health Visitor's recognized course; and certificate course in computer operation (minimum two months)",
-        "last_date": "10-11-2026",
-        "total_posts": "2",
-        "salary": "Not Available",
-        "age_limit": "Maximum 60 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://thanjavur.nic.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s3b7b16ecf8ca53723593894116071700c/uploads/2026/11/17936829435742.pdf"
     },
     {
         "date": "03/11/2026",
@@ -234,7 +266,7 @@
         "age_limit": "Candidates should have completed 50 years but be below 57 years at the time of notification. The age of superannuation for the post is 60 years.",
         "application_fee": "This amount covers the registration fee and the application fee. Pay it by Demand Draft drawn in favour of the Registrar, Bharathiar University, Coimbatore. The fee is non-refundable under any circumstances.",
         "selection_process": "The selection procedure will be as per the decision of the Syndicate of Bharathiar University. Applicants should be prepared to come for an interview at their own cost. Anyone who attempts to canvas or influence their candidature in any manner will be disqualified. The Syndicate reserves the right to fill or not to fill up the post without assigning any reason.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://b-u.ac.in/sites/b-u.ac.in/files/Recruitment/2026/nov/cdoe/cdoe_director_instructions.pdf"
@@ -285,7 +317,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.amrita.edu",
-        "official_notification": "/cdn-cgi/l/email-protection#2c445e4d5f49024f44426c4f44024d415e45584d02494859"
+        "official_notification": "/cdn-cgi/l/email-protection#fb93899a889ed5989395bb9893d59a9689928f9ad59e9f8e"
     },
     {
         "date": "01/11/2026",
@@ -414,22 +446,6 @@
         "syllabus": "Not Available",
         "official_website": "https://mkuniversity.ac.in",
         "official_notification": "https://mkuniversity.ac.in//new/Notification_2026/Advertisement-%20%20JRF%20MoES%20(1).pdf"
-    },
-    {
-        "date": "31/10/2026",
-        "board": "Madurai Kamaraj University Vacancy 2026 - 1 Subject Expert / Professional PostsMadurai Kamaraj University Subject Expert / Professional Vacancy 2026",
-        "title": "Subject Expert / Professional",
-        "qualification": "M.Sc. in E. Media Communications / Media and Communication / Visual Communication or equivalent.",
-        "last_date": "03-11-2026",
-        "total_posts": "1",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://mkuniversity.ac.in",
-        "official_notification": "https://mkuniversity.ac.in//new/Notification_2026/Webiste%20Notification%202026.pdf"
     },
     {
         "date": "31/10/2026",
@@ -746,7 +762,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://ramanathapuram.nic.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s3f9b902fc3289af4dd08de5d1de54f68f/uploads/2026/10/17932018807903.pdf"
@@ -1098,10 +1114,10 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline",
+        "apply_mode": "Not Available",
         "syllabus": "Not Available",
-        "official_website": "https://ariyalur.nic.in/",
-        "official_notification": "https://cdn.s3waas.gov.in/s319f3cd308f1455b3fa09a282e0d496f4/uploads/2026/10/17930101358443.pdf"
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
     },
     {
         "date": "27/10/2026",
@@ -1134,22 +1150,6 @@
         "syllabus": "Not Available",
         "official_website": "https://cuddalore.nic.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s3a96b65a721e561e1e3de768ac819ffbb/uploads/2026/10/17930147665370.pdf"
-    },
-    {
-        "date": "27/10/2026",
-        "board": "TNSRLM Karur Vacancy 2026 - 2 Manager, Accountant PostsTNSRLM Karur Vacancy 2026",
-        "title": "Manager, Accountant",
-        "qualification": "Graduate (the field and skills differ by post)",
-        "last_date": "03-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs.15000/-",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://karur.nic.in",
-        "official_notification": "https://cdn.s3waas.gov.in/s3bbf94b34eb32268ada57a3be5062fe7d/uploads/2026/10/17930107339668.pdf"
     },
     {
         "date": "27/10/2026",
@@ -1358,22 +1358,6 @@
         "syllabus": "Not Available",
         "official_website": "https://kalakshetra.in",
         "official_notification": "https://kalakshetra.in/wp-content/uploads/2026/10/Advt-to-the-post-of-Professor-Bharatanatyam-on-Deputation-or-Short-term-contract.pdf"
-    },
-    {
-        "date": "27/10/2026",
-        "board": "Kalakshetra Foundation Vacancy 2026 - 4 Faculty PostsKalakshetra Foundation Faculty Vacancy 2026",
-        "title": "Faculty",
-        "qualification": "The 5 years of teaching experience is listed as desirable, not essential. The application form asks candidates to say \"Yes or No\" against this desirable qualification and to give their teaching experience in chronological order.",
-        "last_date": "03-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Consolidated Salary: Rs.20,000 p.m. to Rs.36,000 p.m.",
-        "age_limit": "Candidates must be not more than 60 years of age on the date of interview. The notice also says that the candidate should be in good physical health.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "https://kalakshetra.in/wp-content/uploads/2026/10/Guest-Faculty_Bharatanatyam_Oct_26-.pdf"
     },
     {
         "date": "27/10/2026",
@@ -1712,38 +1696,6 @@
         "official_notification": "https://www.cpcl.co.in/wp-content/uploads/2026/10/Notification-for-Engagement-of-Interns-under-The-Prime-Minister-Internship-Scheme-PMIS.pdf"
     },
     {
-        "date": "21/10/2026",
-        "board": "CMRL Vacancy 2026 - 6 Manager, Assistant Manager and More PostsCMRL Vacancy 2026",
-        "title": "General Manager, Additional General Manager, Manager, Assistant Manager",
-        "qualification": "B.E / B.Tech from a Govt. recognized University/Institute approved by AICTE / UGC, with working experience in safety organisation of Indian Railways / Metro.",
-        "last_date": "03-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 2,25,000/-",
-        "age_limit": "Maximum age limit taking into benefit of cumulative age relaxation shall not exceed 58 years as on date of notification.",
-        "application_fee": "The application fee is non-refundable and applies only to contract applicants. Payments must be made via electronic transfer (NEFT/UPI) to Beneficiary: M/S CHENNAI METRO RAIL LIMITED, Canara Bank Current Account: 0416214000030, IFSC: CNRB0000416, Branch: Teynampet, Chennai.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://chennaimetrorail.org/",
-        "official_notification": "https://chennaimetrorail.org/wp-content/uploads/2026/10/Detailed-Employment-Notification-No.-CMRL-HR-CON-DEP-06-2026-dated-14-10-2026-for-the-posts-of-GM-ST-AGM-Safety-OM-other-posts-Last-Date-03-11-2026.pdf"
-    },
-    {
-        "date": "16/10/2026",
-        "board": "ESIC Hospital, Tiruppur Vacancy 2026 - 18 Full Time Specialist & Senior Resident PostsESIC Hospital, Tiruppur Full Time Specialist & Senior Resident Vacancy 2026",
-        "title": "Full Time Specialist & Senior Resident",
-        "qualification": "MBBS with PG Degree or Equivalent/Diploma in concerned specialty from Recognized University and registered with Medical Council of India/State Medical Council with 3 years experience after PG Degree (OR) minimum 5 years experience after post graduate diploma.",
-        "last_date": "03-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Basic Pay in Level 11 and other allowances as per 7th CPC and ESIC Hqrs instructions (Consolidated remuneration Rs. 1,49,284/- approx for diploma/degree as per schedule)",
-        "age_limit": "Full Time Specialist: Not exceeding 67 years on the date of interview (As per OM No. U-13/14/38/2020-Med.I (ESIC/SC) dt. 01.09.2021). || Senior Residents: Not exceeding 45 years on the date of interview.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://esic.gov.in",
-        "official_notification": "https://esic.gov.in"
-    },
-    {
         "date": "15/10/2026",
         "board": "Cuddalore District Vacancy 2026 - Support Person, Translator and More PostsCuddalore District Vacancy 2026",
         "title": "Support Person, Translator and More",
@@ -1774,38 +1726,6 @@
         "syllabus": "Not Available",
         "official_website": "https://ramanathapuram.nic.in/",
         "official_notification": "https://cdn.s3waas.gov.in/s3f9b902fc3289af4dd08de5d1de54f68f/uploads/2026/10/17919994559893.pdf"
-    },
-    {
-        "date": "14/10/2026",
-        "board": "AIESL Vacancy 2026 - 11 Regional Security Officer, Assistant Supervisor PostsAIESL Vacancy 2026",
-        "title": "Regional Security Officer, Assistant Supervisor (Security)",
-        "qualification": "Experienced Candidates: Graduates in any discipline (minimum 3 years’ duration) from a Recognized University, ability to speak Hindi, English and conversant with local language, valid BCAS Basic AVSEC (13 day’s new pattern) Certificate with minimum 03 month’s validity as on 01.12.2026, and must have 01 Year of Security Supervisory Experience. OR Graduate Fresher / Ex-Servicemen: Graduate in any discipline (minimum 3 years’ duration) from a recognized University with ability to speak Hindi, English and conversant with local language.",
-        "last_date": "03-11-2026",
-        "total_posts": "Place of Vacancy",
-        "salary": "Those who qualify the BCAS Basic AVSEC Course will be paid an additional Rs. 2,000/- AVSEC allowance per month from the date of qualifying the course till the validity of the certificate.",
-        "age_limit": "RSO: 40 Years; Assistant Supervisor: 35 Years (as on 01.10.2026)",
-        "application_fee": "The notification does not mention any application fee.",
-        "selection_process": "Written Test || Personal Interaction || Pre-Employment Medical Examination",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://aiahl.in",
-        "official_notification": "https://aiahl.in/public/uploads/recruitments/ADVERTISEMENT%20RSO%20and%20Assistant%20Supervisor%20Security%20October%202026.pdf"
-    },
-    {
-        "date": "13/10/2026",
-        "board": "TNDALU Vacancy 2026 - 3 Residential Matron, Residential Supervisor PostsTNDALU Vacancy 2026",
-        "title": "Residential Matron, Residential Supervisor",
-        "qualification": "10th, 12th std or Diploma for Matron; Any degree with Type Writing and Computer Knowledge for Supervisor",
-        "last_date": "03-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 18,000/- per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not stated in the notice.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.tndalu.ac.in",
-        "official_notification": "https://www.tndalu.ac.in"
     },
     {
         "date": "13/10/2026",
@@ -1890,18 +1810,18 @@
     {
         "date": "08/10/2026",
         "board": "Chennai Port Authority Vacancy 2026 - 1 PS to Chairman PostsChennai Port Authority PS to Chairman Vacancy 2026",
-        "title": "PS to Chairman (Class I)",
-        "qualification": "(i) A Degree from a recognized University.(ii) Proficiency in stenography and typewriting with a speed of 120/40 w.p.m. respectively.(iii) Knowledge of Computer Application.(iv) Eight years experience as Stenographer / PA in an industrial / commercial / Govt. Undertaking.",
+        "title": "PS to Chairman",
+        "qualification": "1 Posts",
         "last_date": "11-11-2026",
         "total_posts": "Not Available",
-        "salary": "The post is filled on an Absorption / Deputation basis under the terms and conditions prescribed by the Central Government.",
-        "age_limit": "The upper age limit for direct recruitment is 35 years.",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
         "application_fee": "Not Available",
-        "selection_process": "The selection process for the PS to Chairman post is carried out through absorption / deputation, failing both by direct recruitment.",
-        "apply_mode": "Online",
+        "selection_process": "Not Available",
+        "apply_mode": "Not Available",
         "syllabus": "Not Available",
-        "official_website": "https://www.chennaiport.gov.in/",
-        "official_notification": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/652"
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
     },
     {
         "date": "08/10/2026",
@@ -1982,21 +1902,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.amrita.edu/",
         "official_notification": "https://www.amrita.edu/job/lab-assistant-lab-instructor-chennai/"
-    },
-    {
-        "date": "18/09/2026",
-        "board": "South Zone Cultural Centre Vacancy 2026 - 25 Assistant, Assistant Engineer and More PostsSouth Zone Cultural Centre Vacancy 2026",
-        "title": "Deputy Director, Assistant Director, Stenographer, Programme Executive, Assistant, Assistant Engineer, Documentation Officer, Junior Hindi Translator and other posts",
-        "qualification": "25 Posts",
-        "last_date": "03-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 15,600–39,100 with Grade Pay Rs. 6,600",
-        "age_limit": "18 to 65 years, depending on the post and recruitment mode",
-        "application_fee": "The non-refundable fee must be paid through a Demand Draft drawn in favour of Director, South Zone Cultural Centre, Thanjavur , payable at Thanjavur. Candidates applying for more than one post must submit separate applications and separate fees.",
-        "selection_process": "The Appointing Authority or Executive Board of SZCC will decide the post-wise selection procedure. Depending on the post, the process may include: || Written examination || Skill test || Interview || Document verification || A combination of the above stages || For deputation and short-term contract posts, the Executive Board or Appointing Authority will determine the applicable selection procedure.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.szccindia.org/",
-        "official_notification": "https://szccindia.org/images/Advertisement_inviting_applications_for_filling_the_Vacant_Posts_by_Direct_Recruitment__Short_term_Contract__Deputation_Last_date_for_submission_of_application__is_within_45_days_from_the_date_of_publication_of_the_ad.pdf"
     }
 ]

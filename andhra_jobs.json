@@ -1,5 +1,37 @@
 [
     {
+        "date": "03/11/2603/11/2026",
+        "board": "APPSC",
+        "title": "Post Name",
+        "qualification": "A Degree in Mechanical, Electrical, Chemical or Industrial Engineering from a recognised university, along with a minimum of two years of industrial work experience in medium and large-scale manufacturing process industries, preferably in Industrial Safety, Occupational Safety, Health and Environment Management. The experience certificate must be issued by the Chief Executive of the concerned industry.",
+        "last_date": "Any Bachelors Degree, B.Sc, B.Tech/B.E, M.Sc",
+        "total_posts": "255",
+        "salary": "The pay scale notified for each post is summarised below.",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://psc.ap.gov.in/",
+        "official_notification": "https://psc.ap.gov.in/Documents/NotificationDocuments/Webnote_Extension_02112026.pdf"
+    },
+    {
+        "date": "03/11/2603/11/2026",
+        "board": "APPSC",
+        "title": "Post Name",
+        "qualification": "Bachelor's Degree from a recognised university, or equivalent, in one of the following subjects: Agriculture, Botany, Chemistry, Computer Applications/Computer Science, Engineering (Agriculture/Chemical/Civil/Computer/Electrical/Electronics/Mechanical), Environmental Science, Forestry, Geology, Horticulture, Mathematics, Physics, Statistics, Veterinary Science, or Zoology. Physical requirements are detailed in the online Detailed Notification.",
+        "last_date": "Any Bachelors Degree, B.Sc, ITI, 10TH, BSW, M.A",
+        "total_posts": "299",
+        "salary": "54,060 – 1,40,540",
+        "age_limit": "Age limit is not specified in these Brief Notifications for any of the 8 posts. This information, along with community-wise reservation details, will be published in the Detailed Notification on or before 16 October 2026.",
+        "application_fee": "Application fee is not mentioned in any of these Brief Notifications. Fee details, if applicable, are expected to be published along with the Detailed Notification and the online application process.",
+        "selection_process": "As stated in each of the notifications, selection for all 8 posts will be through a single-level examination only - no Screening Test will be conducted, irrespective of the number of applications received. The examination will be conducted in online Computer-Based Recruitment Test (CBRT) mode. Where the single-level examination is held in multiple sessions, the Commission will apply a normalisation process to the marks, wherever considered necessary and applicable, as per a methodology to be notified by the Commission in due course. || For the Executive Officer Grade-III post, the notification additionally specifies the following examination scheme (as per Annexure-V of G.O.Ms.No.201, Finance (HR-I Plg. & Policy) Dept., dated 21/12/2017): || For this post, each wrong answer is penalised with 1/3rd of the marks prescribed for that question, as per G.O.Ms. No.235, Finance (HR-I, Plg & Policy) Dept., dated 06/12/2016. The detailed scheme and syllabus for each post's examination is annexed to its respective notification; candidates should refer to the specific notification for their post to see the complete subject-wise syllabus.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://portal-psc.ap.gov.in/",
+        "official_notification": "https://psc.ap.gov.in/Documents/NotificationDocuments/Executive_Officer_Grade_III_232026.pdf"
+    },
+    {
         "date": "20/10/2620/10/2026",
         "board": "ISRO SDSC SHAR",
         "title": "Technical Assistant, Scientific Assistant, Library Assistant A, Nurse B, Technician B, Draughtsman B, Fireman A, Light Vehicle Driver A, Heavy Vehicle Driver A and Multi-Tasking Staff",
@@ -94,21 +126,5 @@
         "syllabus": "Not Available",
         "official_website": "https://psc.ap.gov.in/",
         "official_notification": "https://psc.ap.gov.in/Documents/NotificationDocuments/Group_II_372026.pdf"
-    },
-    {
-        "date": "15/09/2615/09/2026",
-        "board": "APPSC",
-        "title": "Post Name",
-        "qualification": "Bachelor's Degree from a recognised university, or equivalent, in one of the following subjects: Agriculture, Botany, Chemistry, Computer Applications/Computer Science, Engineering (Agriculture/Chemical/Civil/Computer/Electrical/Electronics/Mechanical), Environmental Science, Forestry, Geology, Horticulture, Mathematics, Physics, Statistics, Veterinary Science, or Zoology. Physical requirements are detailed in the online Detailed Notification.",
-        "last_date": "Any Bachelors Degree, B.Sc, ITI, 10TH, BSW, M.A",
-        "total_posts": "299",
-        "salary": "54,060 – 1,40,540",
-        "age_limit": "Age limit is not specified in these Brief Notifications for any of the 8 posts. This information, along with community-wise reservation details, will be published in the Detailed Notification on or before 16 October 2026.",
-        "application_fee": "Application fee is not mentioned in any of these Brief Notifications. Fee details, if applicable, are expected to be published along with the Detailed Notification and the online application process.",
-        "selection_process": "As stated in each of the notifications, selection for all 8 posts will be through a single-level examination only - no Screening Test will be conducted, irrespective of the number of applications received. The examination will be conducted in online Computer-Based Recruitment Test (CBRT) mode. Where the single-level examination is held in multiple sessions, the Commission will apply a normalisation process to the marks, wherever considered necessary and applicable, as per a methodology to be notified by the Commission in due course. || For the Executive Officer Grade-III post, the notification additionally specifies the following examination scheme (as per Annexure-V of G.O.Ms.No.201, Finance (HR-I Plg. & Policy) Dept., dated 21/12/2017): || For this post, each wrong answer is penalised with 1/3rd of the marks prescribed for that question, as per G.O.Ms. No.235, Finance (HR-I, Plg & Policy) Dept., dated 06/12/2016. The detailed scheme and syllabus for each post's examination is annexed to its respective notification; candidates should refer to the specific notification for their post to see the complete subject-wise syllabus.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://portal-psc.ap.gov.in/",
-        "official_notification": "https://psc.ap.gov.in/Documents/NotificationDocuments/Executive_Officer_Grade_III_232026.pdf"
     }
 ]
