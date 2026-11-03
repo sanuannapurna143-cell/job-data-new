@@ -1,5 +1,69 @@
 [
     {
+        "date": "03/11/2026",
+        "board": "KSHRC Vacancy 2026 - 2 Registrar, Additional Registrar PostsKSHRC Vacancy 2026",
+        "title": "Registrar, Additional Registrar",
+        "qualification": "2 Posts",
+        "last_date": "17-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Suitable candidates for the Registrar and Additional Registrar posts will be selected through an interview. The notice does not mention a written test, and it does not give an interview date.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.kshrc.karnataka.gov.in",
+        "official_notification": "https://kshrc.karnataka.gov.in/uploads/Kannada_Notification_0001_1793600399.pdf"
+    },
+    {
+        "date": "02/11/2026",
+        "board": "IIT Dharwad Vacancy 2026 - 5 Project Associate I PostsIIT Dharwad Project Associate I Vacancy 2026",
+        "title": "Project Associate I",
+        "qualification": "Candidates must hold a B. Tech/M. Tech degree in Computer Science Engineering, Electrical & Communication Engineering, or a related stream from an accredited institution. They must also meet any ONE of the following additional requirements: || GATE qualification, or || The Selection process is through a national-level examination conducted by IIT. || The qualification must come from a recognized University/Institute. Age, qualification and experience will be considered as on the date of the Selection Process.",
+        "last_date": "17-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "The age must be not exceeding 35 years as on the date of the selection process. The notice does not mention any age relaxation. || Candidates should check the official notification for the full eligibility conditions of the post.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitdh.ac.in",
+        "official_notification": "https://www.iitdh.ac.in/sites/default/files/2026-11/Final%20Advertisement%20PA-I%20NLTM-LID.pdf"
+    },
+    {
+        "date": "02/11/2026",
+        "board": "UAS Dharwad Vacancy 2026 - 1 Junior Research Fellow PostsUAS Dharwad Junior Research Fellow Vacancy 2026",
+        "title": "Junior Research Fellow (JRF)",
+        "qualification": "M.Sc. (Agri.) in Molecular Biology and Biotechnology. If no such candidate is available, M.Sc. (Agri) in Plant Pathology / Agri. Microbiology / Genetics and Plant Breeding / Agricultural Entomology with strong background in molecular techniques is considered. CSIR-UGC-NET or selection through ICAR / national level examination (DST/DBT/UGC/ICAR/GATE/IIT, etc.) is also required.",
+        "last_date": "20-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Maximum 40 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.uasd.edu",
+        "official_notification": "https://drive.google.com/uc?export=download&id=1hTCqkn0WdsSW3ZjokOeLDkAoDIGm-oU6"
+    },
+    {
+        "date": "30/10/2026",
+        "board": "KEA Vacancy 2026 - SDA, FSA PostsKEA Vacancy 2026",
+        "title": "First Division Assistant, Second Division Assistant, Accounts Assistant, Warden, Hostel Supervisor and Other Posts",
+        "qualification": "Candidates applying for the Second Division Assistant and other PUC-level posts must possess the prescribed 2nd PUC, Class 12 or equivalent qualification recognized under the applicable recruitment rules. || Equivalent qualifications may include those recognized through Karnataka Government orders or the relevant education authorities, subject to the specific notification.",
+        "last_date": "25-11-2026",
+        "total_posts": "Not Available",
+        "salary": "The vacancies carry different Karnataka Government pay scales depending on the post, department and recruitment cadre. The notifications include pay ranges such as Rs. 34,100-67,600 , Rs. 44,425-83,700 and higher scales for certain specialized posts. || The salary for each vacancy must be checked against the relevant post entry in the official notification. The pay scales are not equivalent to a fixed in-hand salary, as applicable allowances and deductions will affect the amount received.",
+        "age_limit": "The general minimum age for the advertised recruitment is 18 years . The upper age limit is 40 years for General Merit candidates, with relaxation for eligible reserved categories. || The notifications refer to the applicable Karnataka Civil Services recruitment rules and government amendments, including a one-time age relaxation provision under the prescribed conditions. Other special-category relaxation provisions may also apply. || Candidates should calculate their age using the cut-off date and relaxation rules applicable to the relevant notification.",
+        "application_fee": "The application fee varies by reservation and concession category. The notifications provide fee amounts of Rs. 750, Rs. 500 and Rs. 250 for different eligible groups. || Applicants should select the correct category in the online application and follow the fee displayed by the official KEA portal. The last date for fee payment is 26 November 2026 .",
+        "selection_process": "Selection will be conducted through a competitive examination followed by verification of certificates and eligibility, in accordance with the applicable recruitment rules. || Competitive Written Examination:Candidates appear in the prescribed examination papers relevant to their recruitment category. || Merit and Shortlisting:Examination marks and the applicable selection rules determine candidates considered for further stages. || Document Verification:Candidates must produce original qualifications, identity documents and reservation or local-cadre certificates, as applicable. || Final Selection:Recommendations will be made under the applicable post-wise and category-wise recruitment rules. || Certain positions may have additional qualification or eligibility requirements. Candidates should refer to the respective notification for the full selection procedure.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://cetonline.karnataka.gov.in/kea/",
+        "official_notification": "https://cetonline.karnataka.gov.in/kea/"
+    },
+    {
         "date": "02/11/2026",
         "board": "UAS Dharwad Vacancy 2026 - 1 Project Assistant PostsUAS Dharwad Project Assistant Vacancy 2026",
         "title": "Project Assistant",
@@ -269,23 +333,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "/cdn-cgi/l/email-protection#95f6fafbe1bbe7f0f6e1e1d5e7fce1f0e6bbf6faf8"
-    },
-    {
-        "date": "30/10/2026",
-        "board": "KEA Vacancy 2026 - SDA, FSA PostsKEA Vacancy 2026",
-        "title": "First Division Assistant, Second Division Assistant, Accounts Assistant, Warden, Hostel Supervisor and Other Posts",
-        "qualification": "Candidates applying for the Second Division Assistant and other PUC-level posts must possess the prescribed 2nd PUC, Class 12 or equivalent qualification recognized under the applicable recruitment rules. || Equivalent qualifications may include those recognized through Karnataka Government orders or the relevant education authorities, subject to the specific notification.",
-        "last_date": "25-11-2026",
-        "total_posts": "Not Available",
-        "salary": "The vacancies carry different Karnataka Government pay scales depending on the post, department and recruitment cadre. The notifications include pay ranges such as Rs. 34,100-67,600 , Rs. 44,425-83,700 and higher scales for certain specialized posts. || The salary for each vacancy must be checked against the relevant post entry in the official notification. The pay scales are not equivalent to a fixed in-hand salary, as applicable allowances and deductions will affect the amount received.",
-        "age_limit": "The general minimum age for the advertised recruitment is 18 years . The upper age limit is 40 years for General Merit candidates, with relaxation for eligible reserved categories. || The notifications refer to the applicable Karnataka Civil Services recruitment rules and government amendments, including a one-time age relaxation provision under the prescribed conditions. Other special-category relaxation provisions may also apply. || Candidates should calculate their age using the cut-off date and relaxation rules applicable to the relevant notification.",
-        "application_fee": "The application fee varies by reservation and concession category. The notifications provide fee amounts of Rs. 750, Rs. 500 and Rs. 250 for different eligible groups. || Applicants should select the correct category in the online application and follow the fee displayed by the official KEA portal. The last date for fee payment is 26 November 2026 .",
-        "selection_process": "Selection will be conducted through a competitive examination followed by verification of certificates and eligibility, in accordance with the applicable recruitment rules. || Competitive Written Examination:Candidates appear in the prescribed examination papers relevant to their recruitment category. || Merit and Shortlisting:Examination marks and the applicable selection rules determine candidates considered for further stages. || Document Verification:Candidates must produce original qualifications, identity documents and reservation or local-cadre certificates, as applicable. || Final Selection:Recommendations will be made under the applicable post-wise and category-wise recruitment rules. || Certain positions may have additional qualification or eligibility requirements. Candidates should refer to the respective notification for the full selection procedure.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://cetonline.karnataka.gov.in/kea/",
-        "official_notification": "https://cetonline.karnataka.gov.in/kea/"
+        "official_notification": "/cdn-cgi/l/email-protection#80e3efeef4aef2e5e3f4f4c0f2e9f4e5f3aee3efed"
     },
     {
         "date": "29/10/2026",
@@ -458,7 +506,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.cftri.res.in",
         "official_notification": "https://cftri.res.in/sites/default/files/recruitments/2026-10/Advt%20No.%20PAT%2066.2026%20GAP634%20-Walk-in.pdf"
@@ -746,7 +794,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Selection will be made through a panel interview. Only shortlisted candidates will be called for the interview.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://apsbelagavi.in/",
         "official_notification": "https://apsbelagavi.in/storage/uploads/careers/pdf/careers_6adc385d54e8f4.84301884.pdf"
@@ -778,7 +826,7 @@
         "age_limit": "The RR prints an upper age limit of 35 years for direct recruitment. It also states that this age limit does not apply in the case of promotion/absorption/deputation.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://newmangaloreport.gov.in/",
         "official_notification": "https://newmangaloreport.gov.in/sites/default/files/2026-10/Letter%20Dtd.22.10.2026.pdf"
@@ -830,22 +878,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rwf.indianrailways.gov.in",
         "official_notification": "https://rwf.indianrailways.gov.in/uploads/uploads/Re-engagement_mech(1).pdf"
-    },
-    {
-        "date": "23/10/2026",
-        "board": "MAHE Vacancy 2026 - 1 Junior Research Fellow PostsMAHE Junior Research Fellow Vacancy 2026",
-        "title": "Junior Research Fellow (JRF)",
-        "qualification": "M.Sc / M.Tech / B.Tech in Physics / Chemistry / Life Sciences / Biotechnology / Microbiology / Nanotechnology and any branches of technology / life sciences in subjects relevant to the project.",
-        "last_date": "02-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Candidates will be evaluated and shortlisted based on their academic qualifications, mandatory requirements, desirable credentials such as NET/GATE/DBT-BET qualifications, and relevant research experience in microbiology, genetics, or nanomaterials.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.manipal.edu/",
-        "official_notification": "https://www.manipal.edu/career/faculty-positions-collection/junior-research-fellow-jrf-1"
     },
     {
         "date": "09/10/2026",
@@ -954,7 +986,7 @@
         "age_limit": "Candidates must have completed a minimum of 18 years of age as on 05-11-2026.",
         "application_fee": "The notice does not mention any application fee.",
         "selection_process": "The selection will be made based on merit, work experience, and personal interview as prescribed by the guidelines.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://hassan.nic.in",
         "official_notification": "/cdn-cgi/l/email-protection"
@@ -986,7 +1018,7 @@
         "age_limit": "The upper age limit as on the date of notification is 35 years of age for Junior Research Fellow and 30 years of age for Project Assistant.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://csb.gov.in",
         "official_notification": "https://csb.gov.in/sites/default/files/2026-10/JRF%20and%20SA%20Advertisement.pdf"
@@ -1018,7 +1050,7 @@
         "age_limit": "The maximum age limit for appointment by deputation shall not exceed 56 years as on the closing date of receipt of applications.",
         "application_fee": "The notification does not mention any application fee.",
         "selection_process": "Evaluation of service records and review of past performance by a Selection Committee constituted in the Department. || Preparation of a panel of selected candidates valid for a period of 01 year from the date of empanelment.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.isro.gov.in",
         "official_notification": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Oct/Deputation_advertisement_15102026.pdf"
@@ -1088,22 +1120,6 @@
         "official_notification": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-AA-Decision-Sciences-Area-2026.pdf"
     },
     {
-        "date": "13/10/2026",
-        "board": "ECHS Bangalore Vacancy 2026 - 35 Clerk, Peon, Driver and More PostsECHS Bangalore Vacancy 2026",
-        "title": "Clerk, Peon, Driver and More",
-        "qualification": "B Pharmacy /Diploma in Pharmacy and registered as Pharmacist under the Pharmacy Act 1948, Minimum 03 years Work Experience",
-        "last_date": "02-11-2026",
-        "total_posts": "Not Available",
-        "salary": "95,000/-",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.echs.gov.in/",
-        "official_notification": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Banglore%2002%20Nov.pdf"
-    },
-    {
         "date": "09/10/2026",
         "board": "ISRO HSFC Vacancy 2026 - 4 Medical Officer SD PostsISRO HSFC Medical Officer SD Vacancy 2026",
         "title": "Medical Officer SD (General Medicine, Physiology, Aerospace Medicine)",
@@ -1114,7 +1130,7 @@
         "age_limit": "There is no upper age limit for post codes 1 to 3.",
         "application_fee": "Candidates must remit the application fee using only the BharatKosh/NTRP portal and attach the payment receipt/challan with the application form. The fee payment deadline is 8 November 2026.",
         "selection_process": "The mode of selection is through Interview. Initial screening based on the application will be conducted for shortlisting candidates for the interview.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.hsfc.gov.in/",
         "official_notification": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Oct/HSFC_DETAILED_ADVERTISEMENT_09102026.pdf"

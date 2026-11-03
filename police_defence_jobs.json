@@ -1,6 +1,22 @@
 [
     {
         "date": "02/11/2026",
+        "board": "ECHS",
+        "title": "Officer-In-Charge (OIC)",
+        "qualification": "Graduate, M.Ed, Other",
+        "last_date": "20-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.echs.gov.in",
+        "official_notification": "https://www.echs.gov.in"
+    },
+    {
+        "date": "02/11/2026",
         "board": "IAF",
         "title": "Commissioned Officer",
         "qualification": "Branch-Specific Qualifications as per Detailed Notification",
@@ -14,6 +30,38 @@
         "syllabus": "Not Available",
         "official_website": "https://afcat.cdac.in",
         "official_notification": "https://img2.freejobalert.com/news/2026/11/12547-6ae843d6de10661139548.pdf"
+    },
+    {
+        "date": "02/11/2026",
+        "board": "CRPF",
+        "title": "Sports Quota     – 521 Posts",
+        "qualification": "Candidates who do not possess the prescribed educational qualification as on 11 November 2026 are not eligible to apply. Educational and sports qualification certificates other than from a Central/State Board must be accompanied by a Government notification declaring the equivalence of that qualification for Central Government service.",
+        "last_date": "11-11-2026",
+        "total_posts": "521",
+        "salary": "Dearness Allowance, HRA and other allowances are admissible as per Government orders applicable in CRPF from time to time. The New Defined Contributory Pension Scheme (implemented vide MoF OM No. 1(7)(2)/2003/TA dated 07.01.2004) applies to selected candidates.",
+        "age_limit": "Candidates seeking age relaxation must submit the requisite certificate from the competent authority, in the prescribed format, when sought by the Recruitment Board; otherwise their category claim will not be entertained and they will be considered under the General (UR) category. Date of Birth and Name as recorded in the Matriculation/Secondary Examination Certificate (or equivalent) alone will be accepted, with no scope for later change.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "02/11/2026",
+        "board": "Indian Army",
+        "title": "Commissioned Officer     – 90 Posts",
+        "qualification": "Must have passed Class 12 or an equivalent examination from a recognized education board. || Must have studied Physics, Chemistry and Mathematics (PCM). || Must have secured a minimum aggregate of 60% marks in PCM. || The PCM percentage is calculated using Class 12 marks in Physics, Chemistry and Mathematics. || Must have appeared in JEE Main 2026.",
+        "last_date": "12-11-2026",
+        "total_posts": "90",
+        "salary": "Promotion to higher ranks is subject to the relevant service conditions and selection requirements.",
+        "age_limit": "Age Proof: The date of birth recorded in the Matriculation or Class 10 certificate, or the accepted equivalent certificate, will be used. Changes to the recorded date of birth are not permitted.",
+        "application_fee": "Not Available",
+        "selection_process": "Selection for Indian Army TES 57 begins with shortlisting based on JEE Main 2026 CRL, followed by the Services Selection Board (SSB) interview, medical examination and final merit list. The final merit list is based on SSB marks, subject to medical fitness, eligibility and vacancy availability. || Application Shortlisting:The Indian Army will shortlist applicants based on JEE Main 2026 Common Rank List and the prescribed cut-off. || SSB Interview:Shortlisted candidates will undergo a five-day SSB assessment. || Medical Examination:Candidates recommended by the SSB will undergo a medical examination at a military hospital. || Final Merit List:Merit will be prepared based on marks obtained in the SSB interview. || Joining Letter:Medically fit candidates will receive joining instructions according to merit, eligibility and available vacancies.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://joinindianarmy.nic.in/",
+        "official_notification": "https://www.joinindianarmy.nic.in/writereaddata/Portal/NotificationPDF/NOTIFICATION_OF_TES-57.pdf"
     },
     {
         "date": "31/10/2026",
@@ -30,22 +78,6 @@
         "syllabus": "Not Available",
         "official_website": "http://www.apskamptee.in",
         "official_notification": "https://www.apskamptee.in/upload/news/news-20109.pdf"
-    },
-    {
-        "date": "28/10/2026",
-        "board": "DIAT",
-        "title": "Senior Research Fellow (SRF), Junior Research Fellow (JRF)",
-        "qualification": "B.E./B.Tech/M.Sc. in Electronics Engg, Electronics and Telecommunication, Electronics and Communication Engineering, Physics/Electronics Science/Applied Physics/Optics/Photonics or equivalent in First Division with NET/GATE OR M.E./M. Tech in First Division both at Graduate and Post graduate level, plus 02 years of research/teaching/industrial experience.",
-        "last_date": "02-11-2026",
-        "total_posts": "3",
-        "salary": "37,000 or 30,000 + 30% HRA",
-        "age_limit": "Age is counted as on 4 November 2026. || Age relaxation for all posts: SC/ST 5, Women 5, PwBD 5, OBC (NCL) 3.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
-        "syllabus": "Not Available",
-        "official_website": "https://diat.ac.in",
-        "official_notification": "https://diat.ac.in/wp-content/uploads/2026/10/Advt-No.34-2026-JRF-SRF-Walk-In-Interview-1.pdf"
     },
     {
         "date": "27/10/2026",
@@ -106,7 +138,7 @@
         "age_limit": "For all three notices, the age limit is not more than 50 years as on 30 June 2026.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "http://www.barc.gov.in/",
         "official_notification": "https://www.barc.gov.in/careers/vacancy24.pdf"
@@ -144,22 +176,6 @@
         "official_notification": "https://diat.ac.in/wp-content/uploads/2026/10/Advt-No.-31-2026-JRF.pdf"
     },
     {
-        "date": "26/10/2026",
-        "board": "CRPF",
-        "title": "Sports Quota     – 521 Posts",
-        "qualification": "Candidates who do not possess the prescribed educational qualification as on 11 November 2026 are not eligible to apply. Educational and sports qualification certificates other than from a Central/State Board must be accompanied by a Government notification declaring the equivalence of that qualification for Central Government service.",
-        "last_date": "11-11-2026",
-        "total_posts": "521",
-        "salary": "Dearness Allowance, HRA and other allowances are admissible as per Government orders applicable in CRPF from time to time. The New Defined Contributory Pension Scheme (implemented vide MoF OM No. 1(7)(2)/2003/TA dated 07.01.2004) applies to selected candidates.",
-        "age_limit": "Candidates seeking age relaxation must submit the requisite certificate from the competent authority, in the prescribed format, when sought by the Recruitment Board; otherwise their category claim will not be entertained and they will be considered under the General (UR) category. Date of Birth and Name as recorded in the Matriculation/Secondary Examination Certificate (or equivalent) alone will be accepted, with no scope for later change.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
-    },
-    {
         "date": "24/10/2026",
         "board": "Sainik School Kodagu",
         "title": "PGT Physics, TGT English, TGT Hindi, TGT Social Science, Nursing Sister, Ward Boy",
@@ -186,7 +202,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Selection will be made through a panel interview. Only shortlisted candidates will be called for the interview.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://apsbelagavi.in/",
         "official_notification": "https://apsbelagavi.in/storage/uploads/careers/pdf/careers_6adc385d54e8f4.84301884.pdf"
@@ -346,26 +362,10 @@
         "age_limit": "The age limit for Medical Officer, PEM/PTI cum Matron, and Nursing Assistant is 18 to 50 years, and for Counsellor and PGT (Physical Education) is 21 to 50 years, calculated as on 17 October 2026. The maximum age limit is increased by 5 years for candidates belonging to Scheduled Castes (SC) and Scheduled Tribes (ST), and by 3 years for candidates belonging to Other Backward Classes (OBC).",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://ssrw.org/",
         "official_notification": "https://ssrw.org/wp-content/uploads/2026/10/Website-Advertisement-Oct-2026.pdf"
-    },
-    {
-        "date": "16/10/2026",
-        "board": "Indian Army",
-        "title": "Commissioned Officer     – 90 Posts",
-        "qualification": "Must have passed Class 12 or an equivalent examination from a recognized education board. || Must have studied Physics, Chemistry and Mathematics (PCM). || Must have secured a minimum aggregate of 60% marks in PCM. || The PCM percentage is calculated using Class 12 marks in Physics, Chemistry and Mathematics. || Must have appeared in JEE Main 2026.",
-        "last_date": "12-11-2026",
-        "total_posts": "90",
-        "salary": "Promotion to higher ranks is subject to the relevant service conditions and selection requirements.",
-        "age_limit": "Age Proof: The date of birth recorded in the Matriculation or Class 10 certificate, or the accepted equivalent certificate, will be used. Changes to the recorded date of birth are not permitted.",
-        "application_fee": "Not Available",
-        "selection_process": "Selection for Indian Army TES 57 begins with shortlisting based on JEE Main 2026 CRL, followed by the Services Selection Board (SSB) interview, medical examination and final merit list. The final merit list is based on SSB marks, subject to medical fitness, eligibility and vacancy availability. || Application Shortlisting:The Indian Army will shortlist applicants based on JEE Main 2026 Common Rank List and the prescribed cut-off. || SSB Interview:Shortlisted candidates will undergo a five-day SSB assessment. || Medical Examination:Candidates recommended by the SSB will undergo a medical examination at a military hospital. || Final Merit List:Merit will be prepared based on marks obtained in the SSB interview. || Joining Letter:Medically fit candidates will receive joining instructions according to merit, eligibility and available vacancies.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://joinindianarmy.nic.in/",
-        "official_notification": "https://www.joinindianarmy.nic.in/writereaddata/Portal/NotificationPDF/NOTIFICATION_OF_TES-57.pdf"
     },
     {
         "date": "15/10/2026",
@@ -410,7 +410,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "The selection process comprises Scrutiny of applications, Document Verification, and Written Examination. || Written Examination: All shortlisted candidates will undergo a written examination on the basis of educational qualification prescribed for the post. The written examination will be pen-paper based and bilingual, consisting of 80 objective type questions with one mark for each correct answer and no negative marking. The subjects are Mathematics (20 questions, 20 marks), Science (20 questions, 20 marks), General Awareness (15 questions, 15 marks), English (15 questions, 15 marks), and Mental Ability/Reasoning (10 questions, 10 marks), with a duration of 01 Hour.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://indiancoastguard.gov.in/",
         "official_notification": "https://indiancoastguard.gov.in/sites/default/files/Chargeman%20Eng.pdf"
@@ -464,22 +464,6 @@
         "official_notification": "https://img2.freejobalert.com/news/2026/10/1545655-6ac9bf8db044457679306.pdf"
     },
     {
-        "date": "09/10/2026",
-        "board": "ITR DRDO",
-        "title": "Graduate Apprentice and Technician (Diploma) Apprentice",
-        "qualification": "Applicants must have completed the relevant qualification for the apprenticeship category and discipline selected. || Engineering Graduates:B.E./B.Tech in the specified engineering disciplines. || Diploma Holders:Diploma in the disciplines mentioned in the vacancy table. || BBA Graduates:Eligible for the Administration / HR category. || B.Com Graduates:Eligible for the Financial Accounting / Cost Accounting category. || Library Science Graduates:B.Lib.Sc for the Library Science category.",
-        "last_date": "02-11-2026",
-        "total_posts": "54",
-        "salary": "Selected candidates will receive the following monthly stipend during their apprenticeship training: || The training period is 12 months, beginning from the execution of the apprenticeship contract. The stipend is for apprenticeship training and should not be confused with the salary of a permanent DRDO employee.",
-        "age_limit": "The minimum age required is 18 years . || The maximum age limit and applicable relaxations will be governed by the Apprentices Act, 1961, Apprenticeship Rules, 1992, and applicable NATS 2.0 / NAPS guidelines. A specific maximum age figure is not provided in this advertisement.",
-        "application_fee": "Not Available",
-        "selection_process": "DRDO ITR will select candidates based on a Written Test, Personal Interview, or both , conducted for shortlisted candidates. || ITR reserves the right to determine the shortlisting method. Meeting the minimum qualification does not automatically guarantee that an applicant will be shortlisted. || Selected candidates must undergo document verification before the apprenticeship contract is created. They must also provide a Medical Fitness Certificate at the time of joining.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.drdo.gov.in/",
-        "official_notification": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtITR09102026.pdf"
-    },
-    {
         "date": "07/10/2026",
         "board": "IOPB",
         "title": "Tradesman (Electrical), Tradesman (Electrical/ Electronics), Tradesman (Mechanical/ Refrigeration & Air Conditioning) and 1 more",
@@ -506,7 +490,7 @@
         "age_limit": "SC candidates applying against the reserved Engine Driver vacancy: five years || OBC Non-Creamy Layer candidates applying against reserved vacancies: three years || Government servants applying for Store Keeper Grade II and Lascar: up to 40 years || Other age relaxation will be provided according to Central Government instructions.",
         "application_fee": "Not Available",
         "selection_process": "The Indian Coast Guard Group C selection process will include the following stages: || Scrutiny of applications || Shortlisting of eligible candidates || Document verification || Biometric verification || Written examination || Trade test, where applicable || Preparation of the final merit list",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://indiancoastguard.gov.in",
         "official_notification": "https://indiancoastguard.gov.in/sites/default/files/266_71_288-1.pdf"

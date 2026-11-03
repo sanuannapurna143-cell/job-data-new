@@ -1,6 +1,86 @@
 [
     {
         "date": "02/11/2026",
+        "board": "Junior Plant Protection Officer, Giridih Vacancy 2026 - 6 Fasal Rakshak (Kamdar) PostsJunior Plant Protection Officer, Giridih Fasal Rakshak (Kamdar) Vacancy 2026",
+        "title": "Fasal Rakshak (Kamdar)",
+        "qualification": "Minimum Matric/Secondary (10th) pass from a recognised institution; at least one 05-day training under the Directorate of Agriculture and Horticulture, Agriculture, Animal Husbandry and Cooperative Department, Jharkhand; knowledge of local language (Khortha and Santhali); proficiency in cycling and tree climbing; local resident of Giridih district.",
+        "last_date": "16-11-2026",
+        "total_posts": "6",
+        "salary": "Not Available",
+        "age_limit": "18 to 35 years (as on 1 January 2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.giridih.nic.in",
+        "official_notification": "https://cdn.s3waas.gov.in/s39b72e31dac81715466cd580a448cf823/uploads/2026/11/17936021877476.pdf"
+    },
+    {
+        "date": "02/11/2026",
+        "board": "IIT (ISM) Dhanbad Vacancy 2026 - 1 ANRF Project Assistant PostsIIT (ISM) Dhanbad ANRF Project Assistant Vacancy 2026",
+        "title": "ANRF Project Assistant (PA)",
+        "qualification": "1 Posts",
+        "last_date": "13-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "As per the norms of the Govt. of India/DST-ANRF for JRF recruitment",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.iitism.ac.in",
+        "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1448/Project%20Assistant_2026-11-02_19-04-54.pdf"
+    },
+    {
+        "date": "02/11/2026",
+        "board": "BCCL Vacancy 2026 - 1 Full-time Advisor (Excavation) PostsBCCL Full-time Advisor (Excavation) Vacancy 2026",
+        "title": "Full-time Advisor (Excavation)",
+        "qualification": "Engineering graduate in Mining Machinery/Mechanical Engineering/Electrical Engineering (BE/B.Tech).",
+        "last_date": "16-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "The maximum age limit for eligibility is not more than 65 years during the contract period. || Candidates should check the official notification for the full eligibility conditions of the post.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bcclweb.in",
+        "official_notification": "https://www.coalindia.in"
+    },
+    {
+        "date": "02/11/2026",
+        "board": "JSHPS Vacancy 2026 - 637 Assistant, Block Assistant and More PostsJSHPS Vacancy 2026",
+        "title": "Program Manager, Accountant, Data Entry Operator and Other Posts",
+        "qualification": "Important: Applicants must also meet the specific essential and desirable experience requirements mentioned in the official notification. Qualifications alone may not establish eligibility for positions requiring professional experience.",
+        "last_date": "04-12-2026",
+        "total_posts": "Not Available",
+        "salary": "JSHPS offers consolidated monthly remuneration ranging from ₹20,000 to ₹1,00,000, depending on the post. The advertisement also provides for a performance-linked annual increment of 5%, subject to the prescribed conditions.",
+        "age_limit": "The age limit varies depending on the post. Senior positions have higher prescribed age ranges, while block-level and data entry positions have different limits. || Candidates should verify the age calculation date, category-wise age relaxation and other applicable provisions in the official notification before applying.",
+        "application_fee": "Candidates must pay the prescribed application fee according to their category. The fee is non-refundable. || Candidates applying for more than one post must submit separate applications and pay the applicable fee for each application, where required.",
+        "selection_process": "Selection will be based on the provisions specified in the official recruitment notification. Candidates will be assessed according to their educational qualifications, relevant professional experience and the applicable selection criteria. || The recruitment procedure may include scrutiny of applications, preparation of a shortlist, assessment of eligible candidates and verification of original documents as prescribed by JSHPS. || Candidates should read the official notification carefully for the selection methodology, assessment weightage, tie-breaking provisions and applicable reservation rules.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://recruitment.jharkhand.gov.in/",
+        "official_notification": "https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/02-11-2026/02112026013436351JSHPS.PDF"
+    },
+    {
+        "date": "28/10/2026",
+        "board": "JRHMS Vacancy 2026 - 1038 Community Health Officer PostsJRHMS Community Health Officer Vacancy 2026",
+        "title": "Community Health Officer",
+        "qualification": "B.Sc. (Nursing) / Post Basic B.Sc. (Nursing) with integrated Curriculum of certificate program in Community Health (CPCH)",
+        "last_date": "22-11-2026",
+        "total_posts": "1038",
+        "salary": "Not Available",
+        "age_limit": "35 years for General, 37 years for OBC, 38 years for Female Unreserved, 40 years for ST/SC (as on 22 November 2026)",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "http://jrhms.jharkhand.gov.in",
+        "official_notification": "https://jrhms.jharkhand.gov.in/uploads/reports/a06bf5c1-c60c-49f8-b1dd-d18759428df7.pdf"
+    },
+    {
+        "date": "02/11/2026",
         "board": "JSERC Vacancy 2026 - 1 Director PostsJSERC Director Vacancy 2026",
         "title": "Director",
         "qualification": "The notice lists the same additional qualifications/experience for all routes: || Professional experience in developing tariff modules in the interest of electricity consumers and expertise in commercial analysis. || Professional experience in the power sector, including electricity generation, transmission and distribution in large public utilities, along with experience in developing electricity tariffs. || Experience in handling administrative and establishment-related matters in Central/State Government organizations. || Experience in managing litigation and related matters. || Specialization in Regulatory Law.",
@@ -10,7 +90,7 @@
         "age_limit": "Candidates claiming SC/ST/OBC benefits must furnish certificates; the validity of the certificate is the candidate's responsibility at the time of application and at verification. See the official notification for the full eligibility of each route.",
         "application_fee": "Not Available",
         "selection_process": "Selection will be done by the Commission through an interview, and its decision is final and binding. || Candidates may be provisionally admitted to the interview on the basis of the information in the application; an interview letter does not mean the candidature is finally cleared. || Eligibility will be verified with original documents at the time of the interview or earlier, if called for. || Deputation candidates must produce the No Objection Certificate from their organisation prior to or at the time of the interview; without it they will not be permitted to appear. || Those working in Public Sector/Government Sector/Autonomous bodies may apply through proper channel, or submit the NOC at the interview, or submit a proper relieving order from their present employer at joining.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://jserc.org",
         "official_notification": "https://jserc.org"
@@ -29,7 +109,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://iitism.ac.in",
-        "official_notification": "/cdn-cgi/l/email-protection#f998978a918c94989590b990908d908a94d7989ad79097"
+        "official_notification": "/cdn-cgi/l/email-protection#b2d3dcc1dac7dfd3dedbf2dbdbc6dbc1df9cd3d19cdbdc"
     },
     {
         "date": "02/11/2026",
@@ -42,7 +122,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://cdn.s3waas.gov.in/s30fcbc61acd0479dc77e3cccc0f5ffca7/uploads/2026/10/17934475156680.pdf"
@@ -170,7 +250,7 @@
         "age_limit": "The upper age limit is 28 years at the time of appointment.",
         "application_fee": "Not Available",
         "selection_process": "Eligible and selected candidates will be called for an interview, which will be in Hybrid Mode.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/922/Project%20JRF_2026-10-31_00-13-02.pdf"
@@ -256,22 +336,6 @@
         "official_notification": "https://cdn.s3waas.gov.in/s3b337e84de8752b27eda3a12363109e80/uploads/2026/10/17932644369405.pdf"
     },
     {
-        "date": "29/10/2026",
-        "board": "ESIC Ranchi Vacancy 2026 - 87 Professor, Associate Professor and More PostsESIC Ranchi Vacancy 2026",
-        "title": "Professor, Associate Professor and More",
-        "qualification": "All posts: as per the National Medical Commission (NMC, erstwhile MCI) guidelines dated 30.06.2025. || For the discipline-specific eligibility of each post, check the official notification and the NMC guidelines it refers to.",
-        "last_date": "02-11-2026",
-        "total_posts": "Vacancy (Category)",
-        "salary": "Rs. 123100/- (Level 13 of 7th CPC)",
-        "age_limit": "Age relaxation will be given under the prevailing norms of the Government of India.",
-        "application_fee": "Pay the fee by Demand Draft in favour of \"ESIC Saving Fund A/c No.-2\", payable at Namkum, and send it with the application form. The fee is not refunded under any circumstances.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://www.esic.gov.in",
-        "official_notification": "https://esic.gov.in/attachments/recruitmentfile/Recruitment_of_Teaching_Faculty_Professor_Associate_Professor_Assistant_Professor_Senior_Residents_on_a_contract_basis_at_ESIC_Medical_College_and_Hospital_Ranchi_Jharkhand_1793247072.pdf"
-    },
-    {
         "date": "28/10/2026",
         "board": "IIT(ISM) Dhanbad Vacancy 2026 - 2 Deputy Registrar PostsIIT(ISM) Dhanbad Deputy Registrar Vacancy 2026",
         "title": "Deputy Registrar",
@@ -302,22 +366,6 @@
         "syllabus": "Not Available",
         "official_website": "https://jbvnl.co.in",
         "official_notification": "https://jbvnl.co.in/notice/careers/Advertisement%20No.%20012026%20(VUSNF)%20%E2%80%93%20Notice%20for%20Requirement281026.pdf"
-    },
-    {
-        "date": "28/10/2026",
-        "board": "JRHMS Vacancy 2026 - 1038 Community Health Officer PostsJRHMS Community Health Officer Vacancy 2026",
-        "title": "Community Health Officer",
-        "qualification": "B.Sc. (Nursing) / Post Basic B.Sc. (Nursing) with integrated Curriculum of certificate program in Community Health (CPCH)",
-        "last_date": "22-11-2026",
-        "total_posts": "1038",
-        "salary": "Not Available",
-        "age_limit": "35 years for General, 37 years for OBC, 38 years for Female Unreserved, 40 years for ST/SC (as on 22 November 2026)",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "http://jrhms.jharkhand.gov.in",
-        "official_notification": "https://jrhms.jharkhand.gov.in/uploads/reports/a06bf5c1-c60c-49f8-b1dd-d18759428df7.pdf"
     },
     {
         "date": "03/10/2026",
@@ -394,7 +442,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Selection has four steps: scrutiny, shortlisting, a possible personal interaction / interview, and approval by the Competent Authority. || Scrutiny:A Screening / Evaluation Committee set up by NHM Jharkhand checks the applications received within the prescribed period. || Shortlisting:Eligible candidates may be shortlisted on qualification, professional experience, the nature and volume of relevant litigation handled, experience with Government / Health Institutions, professional standing and other relevant parameters. || Personal interaction / interview:Shortlisted candidates may be called for a personal interaction / interview, in person or online, at the discretion of the Competent Authority. || Final empanelment:Final empanelment / engagement needs the approval of the Competent Authority. || NHM Jharkhand may accept or reject any or all applications, wholly or partly, without giving a reason. It may also increase, decrease or cancel the requirement at any stage. Applying, being shortlisted or being empanelled gives no right to engagement, work or any minimum remuneration.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.jrhms.jharkhand.gov.in",
         "official_notification": "https://jrhms.jharkhand.gov.in/uploads/reports/9cd4a6e4-ffd7-4297-b229-96aed535953c.pdf"
@@ -426,7 +474,7 @@
         "age_limit": "Age is counted as on 30 September 2026. Only the date of birth on your Matric marksheet or certificate is accepted. The minimum age is 18 years for every category.",
         "application_fee": "Not Available",
         "selection_process": "All applications are first checked for eligibility and required documents. An application is rejected if details are missing, required certificates are not attached, the essential qualification is not met, or the information is false or misleading. Valid applications are then scored out of 100 marks. || If your marks are in CGPA or grades, they are turned into a percentage using the conversion formula set by your board or university. || No extra marks are given for a postgraduate or higher qualification. No extra marks are given for more than one degree or qualification at the same level. || Training length is counted by the full training days written on the certificate. || Only training certificates from these bodies are accepted: the Directorate of Agriculture and Horticulture under the Agriculture Department, the Krishi Vigyan Kendras of Birsa Agricultural University, and the ATMA office. || If the selection committee thinks it is needed, it may hold a practical test of bicycle riding and tree climbing after the provisional merit list. || Original certificates of selected or provisionally selected candidates will be checked before final selection, on a date to be fixed later. || The merit list will be prepared category-wise under the reservation rules. The final list will be published on dumka.nic.in and on the office notice board. || Centres are allotted first by the block on your local residence certificate and then by the preferences in your form. The final decision rests with JPPO Dumka based on administrative needs, and the allotment may be changed later. || Selected candidates must join on the terms set by JPPO Dumka. If you do not join in the given time, your selection ends on its own and the post may be filled from the waiting list.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://dumka.nic.in",
         "official_notification": "https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2026/10/17928331283465.pdf"
@@ -442,7 +490,7 @@
         "age_limit": "Minimum 18 years, maximum 35 years (as on the date of application)",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://palamu.dcourts.gov.in",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec05845f3cb43a07259b2e4724dfa5c5/uploads/2026/10/2026102482.pdf"
@@ -506,7 +554,7 @@
         "age_limit": "Minimum 18 years and maximum 35 years on the date of application",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://palamu.dcourts.gov.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec05845f3cb43a07259b2e4724dfa5c5/uploads/2026/10/2026102240.pdf"
@@ -526,22 +574,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.cmpdi.co.in",
         "official_notification": "https://www.cmpdi.co.in/sites/default/files/2026-10/Advertisement_Eligibility_Criteria.pdf"
-    },
-    {
-        "date": "17/10/2026",
-        "board": "IIM Ranchi Vacancy 2026 - 01 Doctor PostsIIM Ranchi Doctor Vacancy 2026",
-        "title": "Doctor",
-        "qualification": "MBBS degree from a recognised institution along with valid registration with the Medical Council, plus a minimum of 10 years of clinical experience.",
-        "last_date": "02-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 80,000/- per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iimranchi.ac.in",
-        "official_notification": "https://iimranchi.ac.in/media/2026/10/Advertisement.docx"
     },
     {
         "date": "15/10/2026",
@@ -586,7 +618,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "The selection process for the Peon / Orderly posts consists of a Screening Test (स्क्रीनिंग टेस्ट) followed by an Interview (साक्षात्कार).",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://gumla.dcourts.gov.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec05f095cedd23b99f1696fc8caecbcf/uploads/2026/10/2026101380.pdf"

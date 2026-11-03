@@ -1,6 +1,38 @@
 [
     {
         "date": "02/11/2026",
+        "board": "GBPUAT Vacancy 2026 - 1 Senior Research Fellow PostsGBPUAT Senior Research Fellow Vacancy 2026",
+        "title": "Senior Research Fellow (SRF)",
+        "qualification": "M. Sc. Ag (Agronomy/Soil Science/ Horticulture) with one year field experience in field crops and in laying demonstrations at farmer field",
+        "last_date": "12-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.gbpuat.ac.in",
+        "official_notification": "https://www.gbpuat.ac.in/employments/adv-2-11-26.pdf"
+    },
+    {
+        "date": "02/11/2026",
+        "board": "WII Vacancy 2026 - 3 Scientist-C PostsWII Scientist-C Vacancy 2026",
+        "title": "Scientist-C",
+        "qualification": "Ph.D. awarded in Wildlife Sciences",
+        "last_date": "02-12-2026",
+        "total_posts": "Not Available",
+        "salary": "Not Available",
+        "age_limit": "The age limit is minimum 21 years and maximum 35 years as on the last date for receipt of applications (the application form asks for age as on 02 December 2026). The upper age limit is relaxable for OBC/EWS/SC/ST/PwBD candidates in accordance with instructions/orders issued by the Department of Personnel and Training (DoPT), Government of India, from time to time.",
+        "application_fee": "The fee is non-refundable and must be deposited via Demand Draft (DD) drawn in favour of 'The Director, Wildlife Institute of India', payable at Dehradun.",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.wii.gov.in",
+        "official_notification": "https://wii.gov.in/uploads/media/pdf/recruitment/Advertisement_WII_ADM_2026_27_38_204.pdf"
+    },
+    {
+        "date": "02/11/2026",
         "board": "IIT Roorkee Vacancy 2026 - 2 Project Assistant PostsIIT Roorkee Project Assistant Vacancy 2026",
         "title": "Project Assistant",
         "qualification": "Postgraduate degree in Life Sciences / Biotechnology or related disciplines",
@@ -90,7 +122,7 @@
         "age_limit": "18 to 42 years",
         "application_fee": "Not Available",
         "selection_process": "A written examination will be held for the vacant posts. Only candidates who pass it are placed in the merit list, which is prepared according to project norms. The notice proposes to send examination details to shortlisted candidates on the mobile number given in the application form.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://cdn.s3waas.gov.in/s3e6b4b2a746ed40e1af829d1fa82daa10/uploads/2026/10/17931684895746.pdf"
@@ -170,7 +202,7 @@
         "age_limit": "Maximum Age for Junior Research Fellow shall be 30 years as on the date of interview.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.nihroorkee.gov.in",
         "official_notification": "https://nihroorkee.gov.in/job29102026.pdf"
@@ -330,7 +362,7 @@
         "age_limit": "The maximum age for Project Associate-I is 30 years as on the date of interview (16 November 2026).",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.nihroorkee.gov.in",
         "official_notification": "https://nihroorkee.gov.in/job27102026.pdf"
@@ -378,7 +410,7 @@
         "age_limit": "The maximum age limit for applying on deputation is 56 years as on the last date of receipt of application. Experience and age will be calculated as on 23 November 2026, the last date to receive application forms.",
         "application_fee": "Not Available",
         "selection_process": "The Institute will shortlist candidates based on their bio-data, and shortlisted candidates may be called for an interview. At the time of the interview, candidates have to produce all relevant original documents as proof of the details given in their application. An application received without the proper channel will not be considered for the interview.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://aiimsrishikesh.edu.in/",
         "official_notification": "https://aiimsrishikesh.edu.in/images/upload_documents/DEPUTATION%20ADVT%20FOR%20SAO%20POST.pdf"
@@ -410,26 +442,10 @@
         "age_limit": "The age limit is 28 years for Junior Project Fellow (JPF) and 42 years for Field Assistant. Age is counted as on 1 January 2026. Scheduled Caste, Scheduled Tribe and Other Backward Class candidates get age relaxation as per rules. || For the discipline-specific eligibility of each post, check the official notification.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://usac.uk.gov.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s39a806fdb0e5a5e6f973bfe985cae67a2/uploads/2026/10/20261024169755194.pdf"
-    },
-    {
-        "date": "23/10/2026",
-        "board": "GEU Vacancy 2026 - Hostel Superintendent (Girls) PostsGEU Hostel Superintendent (Girls) Vacancy 2026",
-        "title": "Hostel Superintendent (Girls)",
-        "qualification": "MBA is mandatory. || Strong team management and coordination skills. || Good command of English communication, both written and verbal.",
-        "last_date": "02-11-2026",
-        "total_posts": "Not Available",
-        "salary": "As per University norms (extremely lucrative salary for exceptional candidates)",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.geu.ac.in",
-        "official_notification": "https://geu.ac.in/careers/hostel-superintendent-girls"
     },
     {
         "date": "23/10/2026",
@@ -442,26 +458,10 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://www.gbpuat.ac.in",
         "official_notification": "https://www.gbpuat.ac.in/employments/adv-23-10-26.pdf"
-    },
-    {
-        "date": "23/10/2026",
-        "board": "IIT Roorkee Vacancy 2026 - 4 Project Fellow, Research Associate PostsIIT Roorkee Vacancy 2026",
-        "title": "Project Fellow and Research Associate",
-        "qualification": "Ph.D. in Mechanical/Civil/Hydropower Engineering or relevant discipline having CFD/design-based work in hydro turbine/ PumpOrM Tech in Mechanical/Civil/Hydropower Engineering or relevant discipline with 3-year experience in CFD/ design of hydro turbine / pump",
-        "last_date": "02-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Rs. 40,000/- to Rs. 1,00,000/- + HRA per month",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://iitr.ac.in",
-        "official_notification": "https://iitr.ac.in/Careers/static/Project_Jobs/HRE/2026/adv231020261.pdf"
     },
     {
         "date": "23/10/2026",
@@ -570,7 +570,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Selection will be made through a personal interview conducted by a Committee headed by Director/HR IOL, with members from Operations and Finance divisions nominated by CMD/IOL. Scrutiny of applications will be done by a Scrutiny Committee, followed by shortlisting of candidates based on total experience and qualifications. Document verification from original certificates will be carried out before the personal interview, and shortcomings will lead to rejection of candidature. Provisional call letters for the interview will be issued via email only.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://indiaoptel.in",
         "official_notification": "https://indiaoptel.in/sites/default/files/2026-10/advertisement-for-director-dcc.pdf"
@@ -586,7 +586,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://ccras.nic.in/",
         "official_notification": "https://ccras.nic.in/wp-content/uploads/2026/10/16102026-Vaccancy-RaniKhet.pdf"
@@ -602,7 +602,7 @@
         "age_limit": "Maximum age limit of the applicant at the time of recommendation by the Search Committee shall not exceed65 years(as prescribed under the Uttarakhand State University norms).",
         "application_fee": "Not Available",
         "selection_process": "Applications received are evaluated by a Search and Selection Committee. The committee assesses candidates based on their curriculum vitae, qualifications, experience, administrative leadership, and a comprehensive 3-year vision statement. The maximum age of the applicant at the time of recommendation by the Search Committee shall not exceed 65 years.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://ayurved.uk.gov.in",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3a77c8fd7f48b9c859bbd5ed81c5f441f/uploads/2026/10/202610151943453049.pdf"
@@ -618,7 +618,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://aiimsrishikesh.edu.in",
         "official_notification": "https://aiimsrishikesh.edu.in/images/upload_documents/SAO%20post.pdf"

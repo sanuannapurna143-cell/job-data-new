@@ -74,7 +74,7 @@
         "age_limit": "The application form asks for the candidate's age as on the last date of the advertisement.",
         "application_fee": "Not Available",
         "selection_process": "Candidates are selected through a walk-in interview held by a selection committee. The committee's decision is final. Candidates must produce original documents showing their qualifications, age, experience and so on at the interview. If any of these documents is later found to be incorrect, at any stage, the selection is cancelled automatically.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://nehu.ac.in/public/assets/files/advertisements/20261028030201_Walk-in-interview.pdf"
@@ -106,7 +106,7 @@
         "age_limit": "The age limit in the eligibility criteria is 18 – 32 years.",
         "application_fee": "Not Available",
         "selection_process": "An Interview Committee makes the selection for both posts, and its decision is final and binding on all candidates. Your documents for Essential Qualification and Work Experience will be assessed by the Selection Committee at the time of selection.",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://msdma.gov.in/",
         "official_notification": "https://msdma.gov.in/docs/Advertisement23oct2026.pdf"
@@ -122,7 +122,7 @@
         "age_limit": "Not exceeding 56 years as on the last date of receipt of application",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://necouncil.gov.in",
         "official_notification": "https://necouncil.gov.in/sites/default/files/document-663.pdf"
