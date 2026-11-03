@@ -1,5 +1,37 @@
 [
     {
+        "date": "03/11/2026",
+        "board": "IIT Jodhpur Vacancy 2026 - 1 Registrar PostsIIT Jodhpur Registrar Vacancy 2026",
+        "title": "Registrar",
+        "qualification": "Masters’ degree in any discipline with at least 55% marks plus required administrative/teaching experience",
+        "last_date": "18-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Maximum 57 years (as on 3 November 2026)",
+        "application_fee": "Payment mode: Online.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://iitj.ac.in/",
+        "official_notification": "https://iitj.ac.in/PageImages/RecruitmentAdvertisementMaster/09-2026/Registrar-1-639263852478274151.pdf"
+    },
+    {
+        "date": "23/10/2026",
+        "board": "CURAJ Vacancy 2026 - 9 Sports Coach PostsCURAJ Sports Coach Vacancy 2026",
+        "title": "Sports Coaches (Badminton, Basketball, Cricket, Football, Volleyball, Boxing, Table Tennis, Wushu)",
+        "qualification": "One-year Diploma/PG Diploma in Sports Coaching in the concerned sports discipline from a recognized institute/ university in India or abroad, along with a minimum of 02 years of coaching experience in the concerned sport in a reputed institution/organization.",
+        "last_date": "21-11-2026",
+        "total_posts": "Not Available",
+        "salary": "Consolidated Pay",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.curaj.ac.in",
+        "official_notification": "http://www.curaj.ac.in/"
+    },
+    {
         "date": "01/10/2026",
         "board": "RRC North Western Railway Vacancy 2026 - 2008 Act Apprentice PostsRRC North Western Railway Act Apprentice Vacancy 2026",
         "title": "Act Apprentice",
@@ -26,7 +58,7 @@
         "age_limit": "22-40 Years",
         "application_fee": "Not Available",
         "selection_process": "Eligible candidates will be called for a personal interview. The decision of the Society/Trust in this regard will be final. Submitting an application and appearing to meet the criteria does not give a candidate the right to be called for interview.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.centralbankofindia.co.in",
         "official_notification": "https://centralbank.bank.in/sites/default/files/application%20Watchman-cum-Gardener%20.zip"
@@ -42,7 +74,7 @@
         "age_limit": "Candidates with a three year General Nursing and Midwife (GNM) Course; age limit 35 years on the date of interview",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://aiimsjodhpur.edu.in/",
         "official_notification": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1793597230_Project%20Nurse%20Staff%20recruitment%2002%20Nov%202026_261102_101556.pdf"
@@ -106,7 +138,7 @@
         "age_limit": "Age Limit",
         "application_fee": "Not Available",
         "selection_process": "Candidates are selected by interview. The interview dates are tentatively in November 2026. Each candidate will be told the exact date by mobile, SMS, telephone or e-mail. Ex-servicemen get preference. No TA/DA is paid for attending the interview.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Ajmer,%20Bhilwara%2008%20Nov%202026.pdf"
@@ -170,7 +202,7 @@
         "age_limit": "The maximum age is 35 years. The notice says age, educational qualification and experience will be counted up to the last date of the advertisement.",
         "application_fee": "Not Available",
         "selection_process": "Candidates are selected through a walk-in interview at AIIMS Jodhpur. || If there are many applicants, the Competent Authority may also hold a screening or security test.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1793179996_Adobe%20Scan%2028%20Oct%202026%20(1).pdf"
@@ -186,7 +218,7 @@
         "age_limit": "Max. 60 years",
         "application_fee": "You can pay the fee by Demand Draft, Cash or Online, in favour of Dean, UCSSH, MLSU, Udaipur (Raj.).",
         "selection_process": "Visiting faculty will be engaged through a walk-in interview on 13 November 2026 at 11:00 am. The application form describes the interview as held \"if conducted\".",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://mlsu.ac.in",
         "official_notification": "https://mlsu.ac.in/jobs_data/1216_MergeResult_2026_10_26_12_43_56.docx"
@@ -202,7 +234,7 @@
         "age_limit": "The age limit for Project Technical Support-III is 35 Year, as printed in the notice. An age concession to the extent of service rendered in other research projects may be admissible for experienced and skilled persons on a case-to-case basis. The notice says this concession applies only to an ICMR project, and this project is funded by ICMR.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://aiimsjodhpur.edu.in",
         "official_notification": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1793093853_Adobe%20Scan%2027%20Oct%202026%20(1).pdf"
@@ -234,7 +266,7 @@
         "age_limit": "The upper age limit is 45 years. Age / Education qualification / Experience will be considered till the last date of the advertisement. Age concession to the extent of service rendered in other research projects may be admissible for experienced and skilled persons on a case-to-case basis (Only Applicable for ICMR Project).",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.aiimsjodhpur.edu.in",
         "official_notification": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1792836641_PRR-Res-Adv.43.pdf"
@@ -282,26 +314,10 @@
         "age_limit": "35 years (as on last date)",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://aiimsjodhpur.edu.in",
         "official_notification": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1792739120_Recruitment%20for%20the%20following%20posts%20(Occupational%20Therapist)%20on%20purely%20temporary%20basis%20in%20Extramural%20Research%20Project%20NCAHT.pdf"
-    },
-    {
-        "date": "23/10/2026",
-        "board": "CURAJ Vacancy 2026 - 8 Sports Coach PostsCURAJ Sports Coach Vacancy 2026",
-        "title": "Sports Coaches (Badminton, Basketball, Cricket, Football, Volleyball, Boxing, Table Tennis, Wushu)",
-        "qualification": "One-year Diploma/PG Diploma in Sports Coaching in the concerned sports discipline from a recognized institute/ university in India or abroad, along with a minimum of 02 years of coaching experience in the concerned sport in a reputed institution/organization.",
-        "last_date": "21-11-2026",
-        "total_posts": "Not Available",
-        "salary": "Consolidated Pay",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.curaj.ac.in",
-        "official_notification": "http://www.curaj.ac.in/"
     },
     {
         "date": "23/10/2026",
@@ -362,7 +378,7 @@
         "age_limit": "Not Available",
         "application_fee": "The application fee is non-refundable and must be paid through a Demand Draft drawn in favour of Sainik School Chittorgarh, payable at Chittorgarh.",
         "selection_process": "Selection is based on a Written Test, Class Demonstration, Proficiency/Skill Test, and Interview. Call letters are issued to eligible shortlisted candidates by email or through the School website. Candidates who secure minimum qualifying marks in the Written Exam are called for Class Demonstration, Proficiency/Skill Test, and Interview.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://sschittorgarh.edu.in",
         "official_notification": "https://sschittorgarh.edu.in/SSC_ADM/images/444967ADVERTISEMENT%20FOR%20TGT%20%20ENGLISH,%20SCIENCE,%20COMP%20SCEICNE%20MATHS%20AND%20MESS%20MANAGER%20REGULAR%20-%2017.10.26.pdf"
@@ -378,7 +394,7 @@
         "age_limit": "Applicants must be at least 21 years of age or above (Minimum 21 years).",
         "application_fee": "Not Available",
         "selection_process": "Applications received will be scrutinized. Eligible candidates will be called for an interview. Successful candidates in the interview will undergo training as Para Legal Volunteers.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://jalore.dcourts.gov.in/",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3ec02aac61539fd1fb209b44b9f9d0d8d/uploads/2026/10/2026101630.pdf"

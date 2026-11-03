@@ -1,9 +1,9 @@
 [
     {
-        "date": "02/11/2026",
+        "date": "03/11/2026",
         "board": "ECHS",
         "title": "Officer-In-Charge (OIC)",
-        "qualification": "Graduate, M.Ed, Other",
+        "qualification": "Graduate",
         "last_date": "20-11-2026",
         "total_posts": "1",
         "salary": "Not Available",
@@ -14,6 +14,22 @@
         "syllabus": "Not Available",
         "official_website": "https://www.echs.gov.in",
         "official_notification": "https://www.echs.gov.in"
+    },
+    {
+        "date": "03/11/2026",
+        "board": "PM Shri KV AFS Chandinagar",
+        "title": "Special Educator     – 1 Posts",
+        "qualification": "",
+        "last_date": "04-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://afschandinagar.kvs.ac.in",
+        "official_notification": "Not Available"
     },
     {
         "date": "02/11/2026",
@@ -138,7 +154,7 @@
         "age_limit": "For all three notices, the age limit is not more than 50 years as on 30 June 2026.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.barc.gov.in/",
         "official_notification": "https://www.barc.gov.in/careers/vacancy24.pdf"
@@ -202,7 +218,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Selection will be made through a panel interview. Only shortlisted candidates will be called for the interview.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://apsbelagavi.in/",
         "official_notification": "https://apsbelagavi.in/storage/uploads/careers/pdf/careers_6adc385d54e8f4.84301884.pdf"
@@ -362,7 +378,7 @@
         "age_limit": "The age limit for Medical Officer, PEM/PTI cum Matron, and Nursing Assistant is 18 to 50 years, and for Counsellor and PGT (Physical Education) is 21 to 50 years, calculated as on 17 October 2026. The maximum age limit is increased by 5 years for candidates belonging to Scheduled Castes (SC) and Scheduled Tribes (ST), and by 3 years for candidates belonging to Other Backward Classes (OBC).",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://ssrw.org/",
         "official_notification": "https://ssrw.org/wp-content/uploads/2026/10/Website-Advertisement-Oct-2026.pdf"
@@ -410,7 +426,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "The selection process comprises Scrutiny of applications, Document Verification, and Written Examination. || Written Examination: All shortlisted candidates will undergo a written examination on the basis of educational qualification prescribed for the post. The written examination will be pen-paper based and bilingual, consisting of 80 objective type questions with one mark for each correct answer and no negative marking. The subjects are Mathematics (20 questions, 20 marks), Science (20 questions, 20 marks), General Awareness (15 questions, 15 marks), English (15 questions, 15 marks), and Mental Ability/Reasoning (10 questions, 10 marks), with a duration of 01 Hour.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://indiancoastguard.gov.in/",
         "official_notification": "https://indiancoastguard.gov.in/sites/default/files/Chargeman%20Eng.pdf"
@@ -490,7 +506,7 @@
         "age_limit": "SC candidates applying against the reserved Engine Driver vacancy: five years || OBC Non-Creamy Layer candidates applying against reserved vacancies: three years || Government servants applying for Store Keeper Grade II and Lascar: up to 40 years || Other age relaxation will be provided according to Central Government instructions.",
         "application_fee": "Not Available",
         "selection_process": "The Indian Coast Guard Group C selection process will include the following stages: || Scrutiny of applications || Shortlisting of eligible candidates || Document verification || Biometric verification || Written examination || Trade test, where applicable || Preparation of the final merit list",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://indiancoastguard.gov.in",
         "official_notification": "https://indiancoastguard.gov.in/sites/default/files/266_71_288-1.pdf"
