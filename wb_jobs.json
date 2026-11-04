@@ -1,6 +1,22 @@
 [
     {
         "date": "04/11/2604/11/2026",
+        "board": "NICL",
+        "title": "Graduate Apprentice",
+        "qualification": "The notification includes graduation qualifications such as B.E., B.Tech., B.A., B.Sc., B.Com., BBA and BCA in its NATS application instructions. Candidates must satisfy the recognition, completion and other eligibility conditions.",
+        "last_date": "Any Graduate",
+        "total_posts": "200",
+        "salary": "Selected apprentices will receive a fixed monthly stipend of Rs. 15,000 during the 12-month apprenticeship period.",
+        "age_limit": "The age limit is 21 to 30 years as on 1 April 2026 , with applicable upper-age relaxation for eligible reserved categories. || Both dates in the notified General/EWS date-of-birth range are inclusive.",
+        "application_fee": "Not Specified in Notification",
+        "selection_process": "Selection will be based on percentage marks obtained in the qualifying graduation examination , followed by physical document verification. No separate written examination or interview is prescribed in the advertisement. || NATS Registration:Candidates register and complete their NATS student profile. || Online Application:Eligible candidates apply for the National Insurance Company Limited apprenticeship opportunity. || Merit-Based Shortlisting:BOPT (Eastern Region) shortlists candidates using graduation percentage marks. || Email Intimation:Shortlisted candidates receive instructions through their registered email address. || Document Verification:Candidates appear in person at the designated NICL office with original certificates and self-attested copies. || Final Engagement:Selection is subject to eligibility verification, state-wise seat availability and approval of the apprenticeship contract in NATS.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://nationalinsurance.nic.co.in/",
+        "official_notification": "https://nats.education.gov.in/"
+    },
+    {
+        "date": "04/11/2604/11/2026",
         "board": "DHFWS Purba Medinipur",
         "title": "DHFWS Purba Medinipur Vacancy 2026 - 67 Pharmacist, Staff Nurse and More PostsDHFWS Purba Medinipur Vacancy 2026",
         "qualification": "All applicants must be permanent residents of West Bengal and must know the local languages. Every essential qualification must be completed on or before the first date of online application.",
@@ -161,22 +177,6 @@
     },
     {
         "date": "16/10/2616/10/2026",
-        "board": "DHFWS Birbhum",
-        "title": "Total Vacancies",
-        "qualification": "Graduation in Dental/Nursing OR Master degree in Life Science (Botany, Zoology, Human Physiology, Micro-biology, Biochemistry, Bio-technology, Bioinformatics)/Master Degree in Economics OR Graduation in Social Science with Master in Public Health/Preventive & Social Medicine OR Graduation in any discipline with MBA in Human Resource/Health Care AND efficiency in computers including MS office and internet. Must read, write & speak in Bengali.",
-        "last_date": "BAMS, BHMS, BUMS, D.Pharm, GNM",
-        "total_posts": "48",
-        "salary": "Not Available",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.wbhealth.gov.in/",
-        "official_notification": "https://hr.wbhealth.gov.in/Files/Recruitment%20Notification%20(RBSK%20&%20NUHM)_000346.pdf"
-    },
-    {
-        "date": "16/10/2616/10/2026",
         "board": "DH&FWS Purba Bardhaman",
         "title": "Vacancies",
         "qualification": "BHMS/BAMS/BUMS degree from any institution recognised by respective Councils of that stream. Must have completed compulsory internship at the time of submission of application. Registration Certificate of the Respective Council must be obtained. (In case of BHMS: Qualification must be included in the second Schedule of Homoeopathic Central Council ACT 1973; registration required in Part-A of State Register of Homoeopathic Medical Practitioners, West Bengal or Part I of Central Register maintained by Central Council of Homoeopathy. Graded BHMS included.)",
@@ -238,21 +238,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.aiimskalyani.edu.in",
         "official_notification": "https://aiimskalyani.edu.in/aiimsapi/uploads/documents/general/pdcc_adv_january_2027_20261014_134803_75fdee9c.pdf"
-    },
-    {
-        "date": "07/10/2607/10/2026",
-        "board": "ESIC Medical College Kolkata",
-        "title": "Senior Resident under Residency Scheme (Clinical, Non-Clinical, and Super Specialties)",
-        "qualification": "Medical PG Degree (MD/MS/DNB) in concerned specialty from MCI/NMC recognized Medical Institution/Hospital; OR Postgraduate medical degree in Master of Science with Doctor of Philosophy in the subjects of Medical Anatomy or Medical Biochemistry or Medical Physiology. Candidates must be registered under MCI/NMC/State Medical Council. Candidates on bond are not eligible. Candidates need to provide Bond clearance certificate from Appointing Authority who has completed compulsory post PG Bond Service.",
-        "last_date": "DNB, MS/MD, M.Ch",
-        "total_posts": "85",
-        "salary": "In addition to the above cited consolidated remuneration, Senior Residents under the Residency Scheme (Clinical and Non-clinical) will be entitled to transport allowance and DA on transport allowance as per relevant rules from time to time. In the case of non-medical candidates, the Non-Practicing Allowance (NPA) will be deducted from the above-mentioned consolidated remuneration.",
-        "age_limit": "The upper age-limit for appointment as a Senior Resident in broad specialties shall be forty-five (45) years : Provided that for the subjects of Anatomy, Biochemistry, and Physiology, the upper age-limit shall be fifty (50) years as on the date of interview. Age relaxation is applicable as per Central Government rules in force.",
-        "application_fee": "Mode of Payment: A Demand Draft for Rs. 500/- (as applicable) in favour of ‘ESI Fund Account No. 1’ drawn on any scheduled bank payable at Kolkata has to be submitted along with the application form at the time of document verification cum walk-in interview. Fee once paid will not be refunded under any circumstances.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://esic.gov.in",
-        "official_notification": "https://esic.gov.in"
     }
 ]
