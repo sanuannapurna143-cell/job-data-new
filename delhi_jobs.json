@@ -1,10 +1,26 @@
 [
     {
-        "date": "04/11/2604/11/2026",
+        "date": "05/11/2605/11/2026",
+        "board": "BSF",
+        "title": "BSF Vacancy 2026 - 34 Sub-Inspector PostsBSF Sub-Inspector Vacancy 2026",
+        "qualification": "Medic or Nursing Assistant courses, or 12th plus a two-year diploma in the trade, with six years' experience",
+        "last_date": "12TH, Diploma",
+        "total_posts": "34",
+        "salary": "Pay Matrix Level-6 (Rs. 35400-112400)",
+        "age_limit": "For all three posts, the maximum age limit for appointment by deputation shall not exceed 56 years (fifty-six years) as on the closing date of receipt of applications. The notice lists no age relaxation. The crucial date for determining eligibility is the last date prescribed for receipt of nominations, in accordance with DoP&T OM No. AB-14017/71/89-Estt.RR dated 03.10.1989. || Candidates should check the official notification for the full eligibility conditions of each post.",
+        "application_fee": "Not Available",
+        "selection_process": "For candidates posted in BSF under-command Units/SHQrs, the circular directs the BSF Frontier HQrs, Training Institutions and Composite Hospitals to assemble a Departmental Screening Committee (DSC). The DSC assesses and selects candidates as per existing instructions/RRs and sends its proceedings to the Directorate. The notice does not describe the selection method for nominations from other organisations.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bsf.gov.in/",
+        "official_notification": "https://d3t79nicn48uzj.cloudfront.net/bsf/custom/1790339814.pdf"
+    },
+    {
+        "date": "05/11/2605/11/2026",
         "board": "SGMH",
         "title": "Senior Resident (Medicine), Senior Resident (Surgery), Senior Resident (Orthopaedics) and 8 more",
         "qualification": "MBBS with P.G. Degree/Diploma/DNB in the concerned specialty from a recognized University/Institution and registration with Delhi Medical Council (or proof of having applied). In shortage specialties, non-PG candidates with 02 years' experience in the specialty may also appear.",
-        "last_date": "MBBS, DNB, Diploma",
+        "last_date": "Diploma, DNB, MBBS",
         "total_posts": "38",
         "salary": "Pay matrix level 11, Rs. 67700-2,08,700 plus allowances",
         "age_limit": "45 years for General (as on date of interview)",
@@ -14,6 +30,22 @@
         "syllabus": "Not Available",
         "official_website": "https://www.health.delhigovt.nic.in",
         "official_notification": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsgm_16.pdf"
+    },
+    {
+        "date": "05/11/2605/11/2026",
+        "board": "RRB",
+        "title": "Chief Law Assistant, Public Prosecutor, Senior Publicity Inspector, Junior Translator, Staff and Welfare Inspector, Scientific Assistant and Lab Assistant",
+        "qualification": "University Degree in Law with 3 Years Standing Practice as a Pleader at Bar. Serving Railway Law Graduates with at Least 5 Years of Railway Service May Also Qualify Under the Notified Provision.",
+        "last_date": "Any Graduate",
+        "total_posts": "191",
+        "salary": "The initial basic pay ranges from Rs. 19,900 to Rs. 44,900 under the 7th Central Pay Commission, depending on the post and pay level.",
+        "age_limit": "The minimum age is 18 years for all seven categories. The upper age limit varies between 30 and 40 years, calculated as on 1 January 2027 .",
+        "application_fee": "The examination fee is Rs. 500 for most candidates and Rs. 250 for the eligible concession categories .",
+        "selection_process": "The recruitment involves a single-stage Computer Based Test (CBT) , followed by a Translation Test for Junior Translator candidates, where applicable, and subsequent Document Verification and Medical Examination. || Computer Based Test:Eligible candidates appear for the prescribed objective examination. || Translation Test:Junior Translator (Hindi) candidates shortlisted from CBT must qualify in the translation test. || Document Verification:Candidates are shortlisted according to merit, vacancy availability and applicable reservation rules. || Medical Examination:Candidates must meet the medical standards applicable to their selected post. || Final Empanelment:Subject to merit, qualifications, medical fitness and successful verification. || RRBs reserve the right to conduct additional recruitment stages where necessary under the notification.",
+        "apply_mode": "Online",
+        "syllabus": "Post Official Syllabus Annexure",
+        "official_website": "https://rrb.indianrailways.gov.in/",
+        "official_notification": "https://www.rrbapply.gov.in/#/auth/home"
     },
     {
         "date": "03/11/2603/11/2026",
@@ -158,22 +190,6 @@
         "syllabus": "Not Available",
         "official_website": "https://cabsec.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/10/6456151546-6acda9c86461737344807.pdf"
-    },
-    {
-        "date": "02/11/2602/11/2026",
-        "board": "RRB",
-        "title": "RRB Vacancy 2026 - 195 Various Posts of Isolated Categories PostsRRB Various Posts of Isolated Categories Vacancy 2026",
-        "qualification": "Various Posts of Isolated Categories – 195 Posts",
-        "last_date": "Any Graduate",
-        "total_posts": "195",
-        "salary": "The notice mentions the pay level as per the 7th CPC as Level 2 and Level 7 . The actual pay amount, allowances and post-wise pay level mapping are not specified in the indicative notice.",
-        "age_limit": "The age limit is listed as \"As per Detailed CEN\", with the age to be counted as on 01.01.2027. Minimum and maximum age limits and age relaxation details are not specified in the indicative notice.",
-        "application_fee": "The application fee, category-wise fee details and the payment mode are not specified in the indicative notice. These details are expected in the detailed CEN No. 09/2026.",
-        "selection_process": "The selection stages are not specified in the indicative notice. The notice refers to \"detailed scrutiny at every stage of recruitment process\" for Non-Aadhaar Verified applications, but it does not list the stages themselves. Candidates should wait for the detailed CEN No. 09/2026 for the selection process.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://rrb.indianrailways.gov.in",
-        "official_notification": "Not Available"
     },
     {
         "date": "02/11/2602/11/2026",
