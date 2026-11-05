@@ -1,6 +1,38 @@
 [
     {
         "date": "05/11/2605/11/2026",
+        "board": "Vijayapura District Court",
+        "title": "Peon",
+        "qualification": "Passed SSLC or equivalent examination and ability to read and write Kannada.",
+        "last_date": "10TH",
+        "total_posts": "30",
+        "salary": "Not Available",
+        "age_limit": "18 to 45 years (as on 4 December 2026)",
+        "application_fee": "Payment mode: Online payment through SBI E-Pay Payment Portal using net banking, credit card, debit card, UPI ID, or QR code. Last date to pay the fee: 4 December 2026.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://vijayapura.dcourts.gov.in/online-recruitment/",
+        "official_notification": "https://vijayapura.dcourts.gov.in"
+    },
+    {
+        "date": "05/11/2605/11/2026",
+        "board": "KEA",
+        "title": "Female Supervisor (Group-C)",
+        "qualification": "For Direct Recruitment (General) and in services as per clause (i): a Bachelor Degree in Home Science or Social Work or Home Science or Sociology or B.Sc. (Home Science/Community Science). || No qualification other than the one above will be considered. All candidates must hold the degree marks card or certificate by the last date for applications. || Original marks cards and certificates must be produced at document verification. Otherwise, the candidature will be cancelled. || If a candidate without the prescribed qualification is found at any stage, her candidature will be cancelled without notice.",
+        "last_date": "Graduate, B.Sc",
+        "total_posts": "30",
+        "salary": "Not Available",
+        "age_limit": "Under the Karnataka Civil Services (General Recruitment) Rules, 1977, applicants must have completed 18 years as on the last date fixed for submitting applications. Under Government Order No. ಸಿಆಸುಇ 262 ಸೇನೆನಿ 2025 dated 29.01.2026, a one-time relaxation of 5 years applies to the maximum age. The upper limits below already include it:",
+        "application_fee": "The fee is paid online only and is not refundable.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Paper-2Specific Paper (syllabus published separately)1001002 hours",
+        "official_website": "https://cetonline.karnataka.gov.in/kea/",
+        "official_notification": "https://www.cetonline.karnataka.gov.in/keawebentry456/wcwdkk2026/kk_detailednotificationkannada.pdf"
+    },
+    {
+        "date": "05/11/2605/11/2026",
         "board": "CSIR NAL",
         "title": "Project Associate-I (PAT-I) – Mechanical/Aerospace/Aeronautical, Project Associate-II (PAT-II) – Mechanical/Aerospace/Aeronautical/Thermal Design, Project Assistant-I (PA-I) – Fitter and 10 more",
         "qualification": "Bachelor's degree in Engineering or Technology from a recognized University OR equivalent and 3 years’ experience in Research and Development in Industrial and Academic Institutions or Science and Technology Organizations and Scientific activities and services OR (ii) Masters/Integrated Masters in Engineering OR Technology from a recognized University and 2 years’ experience in the same",
@@ -61,7 +93,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.rites.com",
-        "official_notification": "/cdn-cgi/l/email-protection#d7b4b8b9a3f9a5b2b4a3a397a5bea3b2a4f9b4b8ba"
+        "official_notification": "/cdn-cgi/l/email-protection#4c2f232238623e292f38380c3e2538293f622f2321"
     },
     {
         "date": "02/11/2602/11/2026",
