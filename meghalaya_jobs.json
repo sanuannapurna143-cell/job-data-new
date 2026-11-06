@@ -4,7 +4,7 @@
         "board": "NIT Meghalaya",
         "title": "Junior Assistant, Technician (Dept. of Civil Engg.), Lab Attendant (ME Workshop)",
         "qualification": "Senior secondary (10+2) with Science from a Government recognized board with at least 60% marks; OR Senior secondary (10+2) from a Government recognized board with at least 50% marks and ITI Course of one year or higher duration in Civil Engineering; OR Secondary (10) with at least 60% marks and ITI Certificate of 2 years duration in Civil Engineering; OR Diploma in Civil Engineering of three year's duration in relevant field from a Government recognized Polytechnic / Institute",
-        "last_date": "10TH, 12TH, Diploma, ITI",
+        "last_date": "12TH, Diploma, ITI",
         "total_posts": "3",
         "salary": "PB: 1 (Rs 5,200 - 20,200) with Grade Pay of Rs 2000",
         "age_limit": "Maximum 27 years",
@@ -58,7 +58,7 @@
         "age_limit": "Age Limit",
         "application_fee": "Not Available",
         "selection_process": "Only shortlisted candidates will be called for the test or interview, as the Institute deems fit. Those called may have to appear for a written test, skill test or interview at their own cost. The Director's decision on eligibility, acceptance or rejection of applications, mode of selection and allotment of posts is final and binding. || If no candidate is found suitable for appointment, the post will be filled by candidates eligible for a lower level post.",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://neiah.nic.in",
         "official_notification": "https://neiah.nic.in"
@@ -174,21 +174,5 @@
         "syllabus": "Not Available",
         "official_website": "https://necouncil.gov.in",
         "official_notification": "https://necouncil.gov.in/sites/default/files/document-663.pdf"
-    },
-    {
-        "date": "21/10/2621/10/2026",
-        "board": "CSB",
-        "title": "Sericulture Assistant (SA)",
-        "qualification": "Prescribed qualifications in Sericulture, Agriculture Sciences, Forestry, Biological Sciences or Biotechnology, as applicable, including the required postgraduate diploma or relevant work experience where specified.",
-        "last_date": "B.Sc, PG Diploma",
-        "total_posts": "5",
-        "salary": "Not Available",
-        "age_limit": "The upper age limit is 35 years",
-        "application_fee": "The notice does not mention application fee details.",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://csb.gov.in/",
-        "official_notification": "https://meghalaya.gov.in/sites/default/files/announcement/Press_Release_DIPR_Recruitment.pdf"
     }
 ]
