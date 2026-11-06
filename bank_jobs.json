@@ -1,5 +1,21 @@
 [
     {
+        "date": "06/11/2026",
+        "board": "Indian Bank",
+        "title": "Apprentice",
+        "qualification": "Degree from Recognized University or Government-Recognized Equivalent",
+        "last_date": "25-11-2026",
+        "total_posts": "1500",
+        "salary": "Selected apprentices will receive a monthly stipend of Rs. 15,000 in Metro/Urban branches or Rs. 12,300 in Rural/Semi-Urban branches during the 12-month training period.",
+        "age_limit": "Both dates in the prescribed General/EWS date-of-birth range are inclusive.",
+        "application_fee": "The application fee is Rs. 800 plus GST for General, OBC and EWS candidates . SC, ST and PwBD candidates must pay Rs. 175 plus GST. || Fee Payment Period: 5 November to 25 November 2026. || Payment Mode: Online through Debit Card, Credit Card or Internet Banking using the available payment gateway. || The application fee is non-refundable. Applicable bank transaction charges are additional.",
+        "selection_process": "The selection procedure includes an online objective examination and a Local Language Proficiency Test (LLPT) . Indian Bank may also conduct an interview at its discretion. || NATS Registration:Eligible candidates complete their apprenticeship registration and profile. || Online Application:Candidates submit the application and pay the applicable fee. || Online Written Test:Candidates appear in the 100-mark objective examination. || Local Language Proficiency Test:Qualified candidates must demonstrate proficiency in the selected State/UT language unless exempt. || Interview, If Conducted:The bank may include or dispense with an interview. || Merit List:Candidates are ranked according to the applicable State/UT and category-wise merit rules. || Document Verification:Eligibility and supporting certificates are verified. || Medical Fitness:Engagement is subject to the bank's prescribed medical fitness requirements. || Apprenticeship Contract:Selected candidates receive their digital engagement through NATS 2.0.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://indianbank.bank.in/",
+        "official_notification": "https://nats.education.gov.in/"
+    },
+    {
         "date": "04/11/2026",
         "board": "SBI",
         "title": "GM & Chief AI officer, DGM (Risk and Operational Analytics), DGM (AI Governance and Compliance), DGM (Data Engineering, Model Application Dev and AI Ops), AI Solution Architect, Enterprise AI Architect",
@@ -30,22 +46,6 @@
         "syllabus": "Not Available",
         "official_website": "https://cityunionbank.bank.in",
         "official_notification": "https://cityunionbank.bank.in/careers-cco"
-    },
-    {
-        "date": "04/11/2026",
-        "board": "Indian Bank",
-        "title": "Apprentice",
-        "qualification": "Degree from Recognized University or Government-Recognized Equivalent",
-        "last_date": "25-11-2026",
-        "total_posts": "1500",
-        "salary": "Selected apprentices will receive a monthly stipend of Rs. 15,000 in Metro/Urban branches or Rs. 12,300 in Rural/Semi-Urban branches during the 12-month training period.",
-        "age_limit": "Both dates in the prescribed General/EWS date-of-birth range are inclusive.",
-        "application_fee": "The application fee is Rs. 800 plus GST for General, OBC and EWS candidates . SC, ST and PwBD candidates must pay Rs. 175 plus GST. || Fee Payment Period: 5 November to 25 November 2026. || Payment Mode: Online through Debit Card, Credit Card or Internet Banking using the available payment gateway. || The application fee is non-refundable. Applicable bank transaction charges are additional.",
-        "selection_process": "The selection procedure includes an online objective examination and a Local Language Proficiency Test (LLPT) . Indian Bank may also conduct an interview at its discretion. || NATS Registration:Eligible candidates complete their apprenticeship registration and profile. || Online Application:Candidates submit the application and pay the applicable fee. || Online Written Test:Candidates appear in the 100-mark objective examination. || Local Language Proficiency Test:Qualified candidates must demonstrate proficiency in the selected State/UT language unless exempt. || Interview, If Conducted:The bank may include or dispense with an interview. || Merit List:Candidates are ranked according to the applicable State/UT and category-wise merit rules. || Document Verification:Eligibility and supporting certificates are verified. || Medical Fitness:Engagement is subject to the bank's prescribed medical fitness requirements. || Apprenticeship Contract:Selected candidates receive their digital engagement through NATS 2.0.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://indianbank.bank.in/",
-        "official_notification": "https://nats.education.gov.in/"
     },
     {
         "date": "04/11/2026",
