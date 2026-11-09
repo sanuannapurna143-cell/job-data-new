@@ -1,5 +1,21 @@
 [
     {
+        "date": "09/11/2026",
+        "board": "AFMS",
+        "title": "Medical Officer (Short Service Commission)",
+        "qualification": "MBBS Included in the National Medical Commission Act, 2019",
+        "last_date": "18-11-2026",
+        "total_posts": "120",
+        "salary": "Selected candidates will be commissioned in the rank of Captain or equivalent rank in the Navy or Air Force , under Level 10B of the Defence Pay Matrix. || The initial basic pay is Rs. 61,300 per month , with Military Service Pay of Rs. 15,500 and other applicable allowances.",
+        "age_limit": "The age limit depends on whether the applicant holds an MBBS degree or an eligible postgraduate medical qualification. Age is assessed as on 31 December 2026 . || Important: Candidates must use the qualification-specific age condition. The notification does not specify a separate category-wise age relaxation table.",
+        "application_fee": "The official notification prescribes a non-refundable application processing fee of Rs. 200 . || Payment must be made at the end of the online application process. The payment transaction number should be saved and quoted in further recruitment-related enquiries.",
+        "selection_process": "Selection involves NEET PG-based shortlisting, interview, medical examination and preparation of separate male and female final merit lists . || Online application and eligibility scrutiny. || Shortlisting using calculated NEET PG marks. || Viva-voce / Personal Interview. || Special Medical Examination Board. || Final merit list preparation. || Joining instructions for medically fit candidates selected against available vacancies.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://join.afms.gov.in/",
+        "official_notification": "https://join.afms.gov.in/"
+    },
+    {
         "date": "07/11/2026",
         "board": "NDC",
         "title": "Consultant (Subject Matter Expert) – Consultant (SME)",
@@ -26,7 +42,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://barc.gov.in/",
         "official_notification": "https://www.barc.gov.in/careers/vacancy27.pdf"
@@ -122,7 +138,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Online",
+        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
         "syllabus": "Not Available",
         "official_website": "https://www.echs.gov.in",
         "official_notification": "https://www.echs.gov.in"
@@ -320,22 +336,6 @@
         "official_notification": "https://diat.ac.in/wp-content/uploads/2026/10/23.10.2026_1140_Advt.No_.01-FP-2026.pdf"
     },
     {
-        "date": "22/10/2026",
-        "board": "Naval Dockyard Karwar",
-        "title": "Trade Apprentice     – 210 Posts",
-        "qualification": "Where the school board awarded grades or CGPA, the equivalent percentage as per that board's norms must be stated; without it the candidature is not considered. Candidates with a grade-point system must get the conversion done by the appropriate authority before applying.",
-        "last_date": "08-11-2026",
-        "total_posts": "210",
-        "salary": "These are the minimum rates under Rule 11 of the Apprenticeship Rules, 1992. Selected candidates sign the apprenticeship contract online through the NAPS portal. The notice states clearly that neither establishment nor any government agency is obliged to offer employment after training .",
-        "age_limit": "No upper age limit; minimum 14 (non-hazardous trades) or 18 (hazardous trades) on 12 April 2027",
-        "application_fee": "None; the notice warns that no money is to be paid to anyone",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://indiannavy.gov.in/",
-        "official_notification": "https://img2.freejobalert.com/news/2026/10/5468451-6ac881813167b72065795.pdf"
-    },
-    {
         "date": "19/10/2026",
         "board": "DRDE",
         "title": "Paid Intern (Biological Sciences, Chemical Sciences, Engineering)",
@@ -382,22 +382,6 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "https://img2.freejobalert.com/news/2026/10/54514649987-6ac9bf8db044482778431.pdf"
-    },
-    {
-        "date": "10/10/2026",
-        "board": "Ordnance Factory Tiruchirappalli",
-        "title": "Category",
-        "qualification": "The short advertisements refer candidates to the detailed information available on the AWEIL website. Specific qualifications and experience requirements for Automation and AI Expert, Industrial Engineering, Inspection Automation, Product Development Manager (Technical), Junior Translation Officer and Hindi Typist are not stated in the supplied images.",
-        "last_date": "08-11-2026",
-        "total_posts": "11",
-        "salary": "The remuneration differs according to the position and recruitment advertisement.",
-        "age_limit": "Age relaxation details are not provided in the supplied short advertisements. Refer to the detailed notification for the applicable conditions.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.aweil.in/notice",
-        "official_notification": "https://www.aweil.in/notice"
     },
     {
         "date": "10/10/2026",
