@@ -42,7 +42,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://barc.gov.in/",
         "official_notification": "https://www.barc.gov.in/careers/vacancy27.pdf"
@@ -138,7 +138,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Offline / Notification ଦେଖନ୍ତୁ",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.echs.gov.in",
         "official_notification": "https://www.echs.gov.in"
@@ -222,22 +222,6 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "Not Available"
-    },
-    {
-        "date": "27/10/2026",
-        "board": "DIAT",
-        "title": "Senior Research Fellow (SRF) OR Junior Research Fellow (JRF)",
-        "qualification": "B.E./B.Tech/M.Sc. in First Division with NET/GATE, OR BS-MS/M.E./M.Tech. with First Division both at Graduate & Post Graduate level",
-        "last_date": "09-11-2026",
-        "total_posts": "2",
-        "salary": "₹42,000/- + 30% HRA per month",
-        "age_limit": "The crucial date for the upper age limit is 9 November 2026.",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://diat.ac.in",
-        "official_notification": "https://diat.ac.in/wp-content/uploads/2026/10/Advt-No.32-SRF-JRF-DIAT.pdf"
     },
     {
         "date": "26/10/2026",
