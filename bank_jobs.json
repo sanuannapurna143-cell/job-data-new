@@ -1,6 +1,38 @@
 [
     {
         "date": "10/11/2026",
+        "board": "APCOB",
+        "title": "Chief Business Development Officer (CBDO)",
+        "qualification": "Graduate from recognised University/Institution",
+        "last_date": "19-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Minimum 40 years, maximum 62 years (as on 01.09.2026)",
+        "application_fee": "Rs.1000/-",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.apcob.bank.in",
+        "official_notification": "https://apcob.bank.in/wp-content/uploads/2026/11/Notification_CBDO-approved_-09.11.2026.pdf"
+    },
+    {
+        "date": "10/11/2026",
+        "board": "JK Bank",
+        "title": "Probationary Officer",
+        "qualification": "Graduate in any discipline from a university recognized by Government of India or any other equivalent qualification recognized by the Central Government/UGC, as on the last date of registration.",
+        "last_date": "26-11-2026",
+        "total_posts": "323",
+        "salary": "Not Available",
+        "age_limit": "The age limit is minimum 20 years and maximum 30 years as on 01-01-2026, that is, a candidate must have been born not earlier than 01.01.1996 and not later than 01.01.2006 (both dates inclusive). The maximum age limit applies to General and EWS candidates.",
+        "application_fee": "Rs. 1000/- (SC/ST/SEBC/PwBD); Rs. 1200/- (all others), excluding GST",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://jkb.bank.in/",
+        "official_notification": "https://jkb.bank.in/"
+    },
+    {
+        "date": "10/11/2026",
         "board": "Central Bank of India",
         "title": "Counselor (FLC)     – 1 Posts",
         "qualification": "Must be Graduate in any discipline from recognized university. || Shall be computer literate, shall be proficient in basic knowledge of MS Office, internet, typing in local language.",
@@ -321,22 +353,6 @@
     },
     {
         "date": "29/10/2026",
-        "board": "TMB Bank",
-        "title": "Manager (Generalist)",
-        "qualification": "Any Graduate / Post Graduate from a recognized university under regular curriculum.",
-        "last_date": "10-11-2026",
-        "total_posts": "Not Available",
-        "salary": "As applicable to Manager",
-        "age_limit": "Not more than 35 years as on 30/09/2026.",
-        "application_fee": "The application fee is Nil, so you pay nothing to apply.",
-        "selection_process": "The bank checks every e-application and draws up a shortlist. || Shortlisted applicants are told the interview details individually, by post or e-mail. || The personal interview is held either in person (Direct) or by Video Conferencing. The bank tells eligible candidates the mode, date and time individually. || The bank's decision on eligibility, the interview and selection is final. It can remove ineligible candidates at any time before, during or after the interview.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.tmb.bank.in/",
-        "official_notification": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_MRG20262701.pdf"
-    },
-    {
-        "date": "29/10/2026",
         "board": "IBPS",
         "title": "Assistant, Programming Assistant and More",
         "qualification": "B.Tech/B.E, Graduate, B.Sc, BCA",
@@ -350,21 +366,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.ibps.in",
         "official_notification": "https://www.ibps.in/wp-content/uploads/Advertisement-for-Server-Administrator-Programming-Assistant-and-Assistant-Oct._Nov.-2026.pdf"
-    },
-    {
-        "date": "23/10/2026",
-        "board": "PNB Bank Rohtak",
-        "title": "Faculty, Watchman / Gardener",
-        "qualification": "Graduate (any i.e., Science/Commerce/Arts) or Post Graduate",
-        "last_date": "10-11-2026",
-        "total_posts": "2",
-        "salary": "Rs. 30,000 per month",
-        "age_limit": "22 to 40 years",
-        "application_fee": "Not Available",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://pnb.bank.in/",
-        "official_notification": "Not Available"
     }
 ]

@@ -1,6 +1,22 @@
 [
     {
         "date": "10/11/2026",
+        "board": "Cantonment Board Ramgarh",
+        "title": "General Duty Medical Officer (GDMO)",
+        "qualification": "MBBS from an institution recognised by the Medical Council of India",
+        "last_date": "12-11-2026",
+        "total_posts": "1",
+        "salary": "Not Available",
+        "age_limit": "Maximum 65 years",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Walk-in",
+        "syllabus": "Not Available",
+        "official_website": "https://www.ramgarh.cantt.gov.in",
+        "official_notification": "https://ramgarh.cantt.gov.in/wp-content/uploads/sites/25/2026/11/Doctor-Notice-1.pdf"
+    },
+    {
+        "date": "10/11/2026",
         "board": "DGRE",
         "title": "Paid Internship     – 6 Posts",
         "qualification": "Category (a), CSE and CIE: students pursuing B.Tech Final Year. || Category (b), RS: students pursuing IInd Year M.Sc/ M.Tech. || Minimum education as printed: pursuing Graduate/Post Graduate in Engineering and Science, full time course in the respective discipline from a recognized Indian University/Institute. || Good academic record with 75% and above marks (or 7.5 CGPA and above) from an AICTE/UGC approved college or university. || Applicants must be Indian citizens.",
@@ -106,7 +122,7 @@
         "age_limit": "Not Available",
         "application_fee": "No application form or bank draft/fee to be submitted",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.apssangrur.edu.in",
         "official_notification": "https://www.apssangrur.edu.in/Vacanies.pdf"
@@ -131,17 +147,17 @@
         "date": "05/11/2026",
         "board": "BSF",
         "title": "Sub-Inspector     – 34 Posts",
-        "qualification": "Medic or Nursing Assistant courses, or 12th plus a two-year diploma in the trade, with six years' experience",
+        "qualification": "12TH, Diploma",
         "last_date": "16-11-2026",
         "total_posts": "34",
-        "salary": "Pay Matrix Level-6 (Rs. 35400-112400)",
-        "age_limit": "For all three posts, the maximum age limit for appointment by deputation shall not exceed 56 years (fifty-six years) as on the closing date of receipt of applications. The notice lists no age relaxation. The crucial date for determining eligibility is the last date prescribed for receipt of nominations, in accordance with DoP&T OM No. AB-14017/71/89-Estt.RR dated 03.10.1989. || Candidates should check the official notification for the full eligibility conditions of each post.",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
         "application_fee": "Not Available",
-        "selection_process": "For candidates posted in BSF under-command Units/SHQrs, the circular directs the BSF Frontier HQrs, Training Institutions and Composite Hospitals to assemble a Departmental Screening Committee (DSC). The DSC assesses and selects candidates as per existing instructions/RRs and sends its proceedings to the Directorate. The notice does not describe the selection method for nominations from other organisations.",
-        "apply_mode": "Online",
+        "selection_process": "Not Available",
+        "apply_mode": "Not Available",
         "syllabus": "Not Available",
-        "official_website": "https://www.bsf.gov.in/",
-        "official_notification": "https://d3t79nicn48uzj.cloudfront.net/bsf/custom/1790339814.pdf"
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
     },
     {
         "date": "04/11/2026",
@@ -414,21 +430,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.bsf.gov.in/",
         "official_notification": "https://img2.freejobalert.com/news/2026/10/1545655-6ac9bf8db044457679306.pdf"
-    },
-    {
-        "date": "07/10/2026",
-        "board": "IOPB",
-        "title": "Tradesman (Electrical), Tradesman (Electrical/ Electronics), Tradesman (Mechanical/ Refrigeration & Air Conditioning) and 1 more",
-        "qualification": "SSC/ 10th with minimum 60% marks OR HSC/ 12th with Science & Mathematics, together with ITI/ Trade Certificate of at least one year duration in Mechanical/ Refrigeration & Air conditioning Trade",
-        "last_date": "10-11-2026",
-        "total_posts": "5",
-        "salary": "Level 2 Pay Matrix of the 7th CPC",
-        "age_limit": "18 to 25 years (as on the last date for receipt of applications)",
-        "application_fee": "The notification does not mention any application fee.",
-        "selection_process": "Not Available",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://www.iopb.res.in",
-        "official_notification": "https://www.iopb.res.in/wp-content/uploads/2026/10/IOP_TADESMAN-A_Recruitment_Advertisement_2026__FINAL.pdf"
     }
 ]

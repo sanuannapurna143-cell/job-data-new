@@ -1,5 +1,15 @@
 [
     {
+        "board": "OSSC",
+        "title": "Download Admit Card",
+        "link": "https://www.ossc.gov.in/Pages/View_Content.aspx?id=C9b2YKMBT/uqqeRzU3B22A=="
+    },
+    {
+        "board": "OSSC",
+        "title": "Rejection Notice",
+        "link": "https://www.ossc.gov.in/Pages/View_Content.aspx?id=8zxSBRLoU4YlFzqaEDuEzw=="
+    },
+    {
         "board": "OSSSC",
         "title": "Functionaries in Position",
         "link": "https://www.osssc.gov.in/Pages/Functionaries_Position.aspx"
