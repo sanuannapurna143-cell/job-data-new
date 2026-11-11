@@ -1,5 +1,37 @@
 [
     {
+        "date": "11/11/2611/11/2026",
+        "board": "AIIMS Mangalagiri",
+        "title": "AIIMS Mangalagiri Vacancy 2026 - 45 Senior Resident / Senior Demonstrator PostsAIIMS Mangalagiri Senior Resident / Senior Demonstrator Vacancy 2026",
+        "qualification": "The qualification for each department, as printed in the revised matrix, is below. Experience is not specified in the addendum. || Age, qualifications and experience are counted as on the closing date of application, 21 November 2026. Candidates should check the official notification for the discipline-specific eligibility of each post.",
+        "last_date": "DM, DNB, M.Ch, M.Phil/Ph.D, M.Sc, MS/MD",
+        "total_posts": "Revised vacancy matrix dated 10-11-2026",
+        "salary": "Not Available",
+        "age_limit": "Not Available",
+        "application_fee": "The fee is paid through NEFT to the bank account below and is non-refundable. A candidate applying to more than one department, as per the Essential Qualification of the post, has to pay the fee separately for each.",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.aiimsmangalagiri.edu.in",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "11/11/2611/11/2026",
+        "board": "APPSC",
+        "title": "Post Name",
+        "qualification": "Prescribed Degree Qualification with Specified Computer Certificate or Accepted Computer-Related Degree",
+        "last_date": "Any Bachelors Degree",
+        "total_posts": "720",
+        "salary": "APPSC Group-II posts carry different pay scales under the applicable Andhra Pradesh Government pay structure. The starting basic pay ranges from Rs. 25,220 to Rs. 45,830 , depending on the post.",
+        "age_limit": "The age limit varies according to the position. Age is calculated as on 1 July 2026 .",
+        "application_fee": "The standard application fee is Rs. 330 , comprising a Rs. 250 application processing fee and Rs. 80 examination fee.",
+        "selection_process": "The selection process includes a Screening Test, Main Examination, qualifying Computer Proficiency Test and applicable certificate verification. || Screening Test:Offline OMR-based objective examination for shortlisting. || Main Examination:Computer-based objective examination carrying 300 marks. || Computer Proficiency Test:Qualifying test for shortlisted candidates. || Certificate Verification:Verification of qualifications, age, category and local status. || Final Selection:Merit based on Main Examination marks, subject to qualifying CPT and fulfilling all eligibility conditions. || The Commission proposes to admit candidates to the Main Examination in a ratio of 50 times the number of vacancies , irrespective of community, subject to the notification's provisions.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://psc.ap.gov.in/",
+        "official_notification": "https://psc.ap.gov.in/"
+    },
+    {
         "date": "09/11/2609/11/2026",
         "board": "AP High Court",
         "title": "Civil Judge (Junior Division)",
@@ -126,21 +158,5 @@
         "syllabus": "Not Available",
         "official_website": "https://psc.ap.gov.in/",
         "official_notification": "https://psc.ap.gov.in/Documents/NotificationDocuments/DIET_302026.pdf"
-    },
-    {
-        "date": "14/10/2614/10/2026",
-        "board": "APPSC",
-        "title": "Municipal Commissioner Grade-III, Sub-Registrar Grade-II, Deputy Tahsildar, Goods and Service Tax Officer, Assistant Registrar of Cooperative Societies, Deputy Mandal Parishad Development Officer, Prohibition and Excise Sub-Inspector, Assistant Section Officer, Senior Accountant and Junior Accountant",
-        "qualification": "Degree in Commerce, Economics or Mathematics, or another degree as allowed under the notification, together with the prescribed certificate course; alternatively, specified computer-related degrees are accepted.",
-        "last_date": "Any Bachelors Degree",
-        "total_posts": "Deputy Mandal Parishad Development Officer - 176 Posts",
-        "salary": "The APPSC Group 2 salary varies by post. The highest advertised pay-scale range is Rs. 45,830–1,30,580 for posts such as Municipal Commissioner Grade-III, GST Officer, Assistant Registrar and Deputy Mandal Parishad Development Officer. || These figures are the advertised pay scales and should not be interpreted as monthly take-home salary.",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "The APPSC Group 2 recruitment notification provides for an offline OMR-based Screening Test and a Main Examination. The annexure also contains a Computer Proficiency Test scheme. Candidates should check the detailed notification for the complete post-wise selection rules.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://psc.ap.gov.in/",
-        "official_notification": "https://psc.ap.gov.in/Documents/NotificationDocuments/Group_II_372026.pdf"
     }
 ]
