@@ -1,18 +1,34 @@
 [
     {
+        "date": "12/11/2612/11/2026",
+        "board": "Assam Rifles",
+        "title": "Vacancies",
+        "qualification": "12th Pass or Equivalent with Two-Year ITI Certificate in Radio and Television or Electronics, or Bachelor's Degree in Electronics or Information Technology",
+        "last_date": "Diploma, ITI, 12TH, 10TH",
+        "total_posts": "354",
+        "salary": "Selected candidates will receive pay and allowances according to the applicable salary structure for Assam Rifles personnel. || The uploaded recruitment notice states that the pay scale and allowances will be admissible according to the pay scales applicable to Assam Rifles personnel. It does not provide a separate numerical pay matrix for each advertised trade. || Salary Note: Applicants should not assume that Warrant Officer, Havildar and Rifleman posts have identical pay. Exact basic pay, allowances and service benefits depend on the applicable rank and appointment rules.",
+        "age_limit": "The minimum age is generally 18 years , and the upper age limit is 23 or 25 years , depending on the advertised trade. || Age is calculated as on 1 July 2026 .",
+        "application_fee": "The application fee for the notified Group-C positions is Rs. 100 . Eligible SC, ST and Ex-Servicemen candidates are exempt from payment. || Payment Mode: Candidates may pay through the online payment link or use the prescribed SBI bank-counter payment procedure. || Applicants using bank-counter payment must upload a copy of the payment challan or receipt while completing the online application and produce the original during the recruitment rally. || The application fee, once paid, is non-refundable and cannot be adjusted against another recruitment expense.",
+        "selection_process": "The selection process includes physical fitness, academic and technical assessments, document verification and medical examination. || Online Application Submission. || RFID-Based Physical Standard Test (PST). || Physical Efficiency Test (PET). || Initial Document Verification. || Computer Based Test (CBT). || Trade Skill Test. || Detailed Document Verification. || Detailed Medical Examination (DME). || Review Medical Examination (RME), Where Applicable. || Final Merit List and Training Call. || Important: Candidates must qualify at each applicable stage to remain eligible for further consideration. Merely passing the physical tests or CBT does not guarantee selection.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.assamrifles.gov.in/",
+        "official_notification": "https://www.assamrifles.gov.in/"
+    },
+    {
         "date": "09/11/2609/11/2026",
         "board": "NEIGRIHMS",
         "title": "NEIGRIHMS Vacancy 2026 - 58 Senior Resident Doctor PostsNEIGRIHMS Senior Resident Doctor Vacancy 2026",
-        "qualification": "Senior Resident Doctor – 58 Posts",
+        "qualification": "Post graduate degree (MD/MS/DNB) in respective fields/subject after obtaining a medical qualification included in Schedule I & II of 3rd Schedule to the Indian Medical Council Act of 1956; satisfactory completion of the compulsory internship after MBBS; registration with any State Medical Council/NMC.",
         "last_date": "Post Graduate, DNB, MBBS, MS/MD",
-        "total_posts": "58",
+        "total_posts": "25 departments, listed in the vacancy table below",
         "salary": "Not Available",
-        "age_limit": "Not Available",
+        "age_limit": "The age limit is 45 years. Age is counted on the last date of submission of applications, 20.11.2026 up to 5:30 p.m., which the notice calls the crucial date for age, educational qualification and experience.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Not Available",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "Not Available",
-        "official_notification": "Not Available"
+        "official_website": "https://neigrihms.gov.in",
+        "official_notification": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/091126/Recruitment%20Notice%20-%20Rolling%20Advertisement%20for%20recruitment%20of%20SRD%20vide%20Advt.No.EST-II-RSRD0APSR-1-2024-Estt.II%20dated%2019.05.2026%20(3rd%20Cut%20Off%20Date).pdf"
     }
 ]
