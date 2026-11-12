@@ -1,6 +1,22 @@
 [
     {
         "date": "12/11/2026",
+        "board": "J&K Bank",
+        "title": "Banking Associate and Probationary Officer",
+        "qualification": "Both posts require a Bachelor's degree in any discipline from a university recognized by the Government of India or an equivalent qualification recognized by the Central Government or UGC. || Candidates must possess a valid graduation marksheet or degree certificate by 26 November 2026 , the last date of online registration. || Applicants must enter their graduation marks percentage while applying. Candidates whose universities award CGPA or OGPA must convert their grades into percentages according to the university's official conversion formula and provide documentary proof when required.",
+        "last_date": "26-11-2026",
+        "total_posts": "1053",
+        "salary": "Selected Banking Associates will receive a starting basic pay of Rs. 24,050 per month under the notified Banking Associate pay scale, along with applicable allowances and other benefits.",
+        "age_limit": "The base age limit for both Banking Associate and Probationary Officer is 20 to 30 years as on 1 January 2026 , before applicable relaxation.",
+        "application_fee": "Separate application fees are prescribed for Banking Associate and Probationary Officer recruitment. All stated fees are exclusive of GST and applicable bank transaction charges. || Payment Mode: Online through the application payment gateway using Debit Card, Credit Card, Internet Banking, IMPS or accepted mobile wallet/payment facilities. || Last Date for Fee Payment: 26 November 2026. || The application fee is non-refundable. Registration is considered complete only after successful online fee payment.",
+        "selection_process": "The Banking Associate recruitment involves an online examination conducted by IBPS , followed by provisional selection and document verification according to the bank's recruitment rules. || The notification does not prescribe a separate interview or Main Examination for Banking Associates.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://jkb.bank.in/",
+        "official_notification": "https://jkb.bank.in/"
+    },
+    {
+        "date": "12/11/2026",
         "board": "JK Bank",
         "title": "Probationary Officer",
         "qualification": "Graduate in any discipline from a university recognized by Government of India or any other equivalent qualification recognized by the Central Government/UGC, as on the last date of registration.",
@@ -382,21 +398,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.nabard.org",
         "official_notification": "https://ddcsbl.bank.in"
-    },
-    {
-        "date": "29/10/2026",
-        "board": "IBPS",
-        "title": "Assistant, Programming Assistant and More",
-        "qualification": "B.Tech/B.E, Graduate, B.Sc, BCA",
-        "last_date": "12-11-2026",
-        "total_posts": "Not Available",
-        "salary": "The CTC includes the PF Employer's Contribution, Medical Benefits, Medi-Claim, Newspaper bill Reimbursement, Canteen Subsidy, a Performance Linked incentive, Gratuity and Superannuation. The following benefits are given under the Institute's rules in force at the time of appointment: || LTC/HTC || Children Education Subsidy || Interest Subsidy on Housing Loan || Group Personal Accident Insurance || House Furnishing Loan Scheme || Conveyance and Computer Loan Scheme || Incentives Scheme for pursuing higher studies || IBPS does not provide housing or accommodation.",
-        "age_limit": "Only the date of birth recorded in the Matriculation / Secondary Examination Certificate or an equivalent certificate is accepted, and no later request to change it will be considered.",
-        "application_fee": "The fee (intimation charges) is Rs. 250/- per candidate. It is paid online only, between 29 October 2026 and 12 November 2026, by Debit Card (RuPay/Visa/MasterCard/Maestro), Credit Card, Internet Banking, IMPS, Cash Card, Mobile Wallet or UPI. The candidate pays any bank transaction charges. To apply for more than one post, submit a separate form and fee for each post. If you apply more than once for the same post, only your latest complete application counts and the other fees are forfeited.",
-        "selection_process": "IBPS first screens the applications against the minimum eligibility criteria and gives preference to candidates staying in Mumbai. Shortlisted candidates are called for document verification, an online examination and a personal interview. All of these take place at IBPS House, 90 Ft DP Road, Behind Thakur Polytechnic, Off. W E Highway, Kandivali (East), Mumbai 400101. The exam is in English, with a composite time of 90 minutes for each post. IBPS may change the exam structure.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ibps.in",
-        "official_notification": "https://www.ibps.in/wp-content/uploads/Advertisement-for-Server-Administrator-Programming-Assistant-and-Assistant-Oct._Nov.-2026.pdf"
     }
 ]

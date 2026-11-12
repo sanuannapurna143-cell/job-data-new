@@ -1,18 +1,18 @@
 [
     {
-        "date": "11/11/2026",
+        "date": "12/11/2026",
         "board": "RRC NR",
-        "title": "Act Apprentice - Cluster Lucknow (LKO), Act Apprentice - Cluster Delhi (DLI), Act Apprentice - Cluster Firozpur (FZR) and 3 more",
-        "qualification": "10th class (10+2 system) with minimum 50% marks in aggregate from a recognised Board, and ITI in the relevant trade (NCVT/SCVT), passed by 06/11/2026",
+        "title": "Act Apprentice",
+        "qualification": "Must have passed Class 10 (Matriculation) or equivalent under the 10+2 examination system from a recognised board. || Must have secured at least 50% aggregate marks in Class 10. || Must possess an ITI qualification in the relevant trade recognised by NCVT/SCVT. || Both Class 10 and ITI qualifications must have been completed on or before 06 November 2026.",
         "last_date": "11-12-2026",
         "total_posts": "4651",
-        "salary": "As per extant rules applicable",
-        "age_limit": "Should have completed 15 years of age and should not have completed 24 years of age (as on 11 December 2026)",
-        "application_fee": "Payment mode: Online only, as part of the online application; cash, cheque, money order, IPO, DD and fee stamps not accepted. Last date to pay the fee: 11 December 2026.",
-        "selection_process": "Not Available",
+        "salary": "Selected apprentices will receive a stipend during their training according to the applicable Apprenticeship Rules. The official RRC NR notification does not specify a fixed monthly stipend amount for each trade. || Apprenticeship training does not guarantee permanent employment in Northern Railway after completion of the training period.",
+        "age_limit": "SC/ST: 5 Years || OBC: 3 Years || PwBD: 10 Years || Ex-Servicemen: As per the conditions mentioned in the official notification",
+        "application_fee": "The application fee must be paid online while submitting the RRC NR Apprentice application form. || The application fee is non-refundable. Applicable online transaction charges, if any, must be paid by the candidate.",
+        "selection_process": "Screening and scrutiny of online applications. || Preparation of merit lists based on the average percentage of Class 10 and ITI marks, with equal weightage. || Document verification of shortlisted candidates. || Fulfilment of prescribed medical fitness requirements. || Merit Calculation: (Class 10 Percentage + ITI Percentage) / 2 || If two candidates receive the same merit score, preference will be given to the older candidate. If their dates of birth are also the same, the candidate who passed Matriculation earlier will be preferred.",
         "apply_mode": "Online",
         "syllabus": "Not Available",
-        "official_website": "https://www.rrcnr.org",
+        "official_website": "https://rrcnr.org/",
         "official_notification": "https://rrcnr.org/downloads/Notification_Act_Appretice_2026.pdf"
     },
     {
@@ -29,7 +29,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://rites.com",
-        "official_notification": "/cdn-cgi/l/email-protection#396a716c6f7874177b7874766d6b78796b706d7c6a177a7674"
+        "official_notification": "/cdn-cgi/l/email-protection#f0a3b8a5a6b1bddeb2b1bdbfa4a2b1b0a2b9a4b5a3deb3bfbd"
     },
     {
         "date": "11/11/2026",
@@ -42,7 +42,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Eligible candidates will be called for an interview at Lucknow. Selection is based on Interview basis. The Uttar Pradesh Metro Rail Corporation Limited reserves the right to shortlist candidates for interview.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://upmetrorail.com/",
         "official_notification": "https://upmrcl-media.s3.amazonaws.com/media/documents/Notification-Project_Director_rotated_YZ0HoAu.pdf"
@@ -381,7 +381,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.rites.com",
-        "official_notification": "/cdn-cgi/l/email-protection#a5c6cacbd18bd7c0c6d1d1e5d7ccd1c0d68bc6cac8"
+        "official_notification": "/cdn-cgi/l/email-protection#98fbf7f6ecb6eafdfbececd8eaf1ecfdebb6fbf7f5"
     },
     {
         "date": "02/11/2026",
@@ -477,7 +477,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
-        "official_notification": "/cdn-cgi/l/email-protection#54373b3a207a263137202014263d2031277a373b39"
+        "official_notification": "/cdn-cgi/l/email-protection#41222e2f356f33242235350133283524326f222e2c"
     },
     {
         "date": "29/10/2026",
@@ -576,22 +576,6 @@
         "official_notification": "https://konkanrailway.com/sites/default/files/2026-10/1JKNOTIFICATION.pdf"
     },
     {
-        "date": "23/10/2026",
-        "board": "MRVC",
-        "title": "Assistant Manager (Electrical)",
-        "qualification": "Full Time B.E./B.Tech in Electrical Engineering or Electronics & Telecommunication Engineering",
-        "last_date": "12-11-2026",
-        "total_posts": "3",
-        "salary": "IDA E2/50000-160000",
-        "age_limit": "All Posts:Maximum age limit is 35 years as on the date of issue of vacancy notification. The upper age should not exceed 35 years.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Preliminary screening of applications received by mail and post || Shortlisting of eligible candidates up to 5 times the notified vacancies || Personal Interview",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "http://www.mrvc.indianrailways.gov.in",
-        "official_notification": "https://mrvc.indianrailways.gov.in/uploads/Notification%20No_27%20-%202026%20dated%2022_10_2026%20for%20the%20post%20of%20AM%20(Elect)%20%20(ST)%20Direct%20Recruitment%20in%20E2%20IDA%20Scale.pdf"
-    },
-    {
         "date": "22/10/2026",
         "board": "RailTel",
         "title": "JGM / SR DGM     – 1 Posts",
@@ -606,22 +590,6 @@
         "syllabus": "Not Available",
         "official_website": "https://www.railtel.in",
         "official_notification": "https://www.railtel.in/images/careers/vacancy%20notice%2017%202026.pdf"
-    },
-    {
-        "date": "22/10/2026",
-        "board": "RVNL",
-        "title": "Executive Director (Civil)",
-        "qualification": "B. Tech in Civil Engineering or its equivalent.",
-        "last_date": "12-11-2026",
-        "total_posts": "1",
-        "salary": "Executive Director (Civil):IDA E-9 (Rs. 150000-300000/-)",
-        "age_limit": "All Posts:Maximum age limit is 57 years as on the closing date of the vacancy notice.",
-        "application_fee": "No application fee is mentioned in the official notification.",
-        "selection_process": "Shortlisting based on eligibility and experience || Interview || Medical examination",
-        "apply_mode": "Email",
-        "syllabus": "Not Available",
-        "official_website": "https://www.rvnl.org",
-        "official_notification": "https://rvnl.org/RVNL_cms/uploads/careers/64_civil.pdf"
     },
     {
         "date": "21/10/2026",
