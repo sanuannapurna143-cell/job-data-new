@@ -1,6 +1,22 @@
 [
     {
         "date": "13/11/2613/11/2026",
+        "board": "BEML",
+        "title": "ITI Trainee (Fitter and Electrician)",
+        "qualification": "Relevant ITI Trade Qualification - Detailed Eligibility Awaited",
+        "last_date": "ITI",
+        "total_posts": "44 Posts",
+        "salary": "To be confirmed",
+        "age_limit": "Minimum Age:To be confirmed. || Maximum Age:To be confirmed. || Age Relaxation:As specified in the detailed recruitment advertisement and applicable rules. || Candidates should refer to the detailed notification for the category-wise age limit, age calculation date and applicable relaxations.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.bemlindia.in/",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "13/11/2613/11/2026",
         "board": "DWCD Bidar",
         "title": "DWCD Bidar Vacancy 2026 - 441 Anganwadi Worker, Anganwadi Helper PostsDWCD Bidar Vacancy 2026",
         "qualification": "Other qualification rules in the notice: || Anganwadi Worker: certain courses from government-recognised institutions get first preference and +5 bonus marks. These are the ECCE diploma course from D.S.E.R.T, the JOC course, NTT courses, and, for Anganwadi activities, Diploma Nutrition, the Home Science certificate course, and one-year nursery or pre-primary training. || Open school SSLC from the Karnataka Secondary Education Examination Board: the candidate must have compulsorily studied Kannada as first or second language, General Mathematics and Social Science/Social Studies. The certificate or marks card must show maximum 625 and minimum 219 marks. Only such candidates will be considered. || Studies in another state: candidates who studied in another state with Kannada as first or second language are covered by a separate rule. If the maximum and minimum SSLC marks fixed in that state differ, only candidates who studied in Karnataka will be considered. || Anganwadi Helper: candidates whose mother tongue is not Kannada may be interviewed by the selection committee at the time of selection. If needed, they will be asked to read and write so that their Kannada can be tested. The district-level selection committee will decide on their selection.",
@@ -45,7 +61,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://haveri.nic.in/",
-        "official_notification": "/cdn-cgi/l/email-protection#beccddd6d1d6dfc8dbccd7fed9d3dfd7d290ddd1d3"
+        "official_notification": "/cdn-cgi/l/email-protection#7705141f181f160112051e37101a161e1b5914181a"
     },
     {
         "date": "05/11/2605/11/2026",
@@ -141,7 +157,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "http://www.rites.com",
-        "official_notification": "/cdn-cgi/l/email-protection#5f3c30312b712d3a3c2b2b1f2d362b3a2c713c3032"
+        "official_notification": "/cdn-cgi/l/email-protection#ccafa3a2b8e2bea9afb8b88cbea5b8a9bfe2afa3a1"
     },
     {
         "date": "02/11/2602/11/2026",
@@ -222,21 +238,5 @@
         "syllabus": "Not Available",
         "official_website": "https://schooleducation.karnataka.gov.in/",
         "official_notification": "https://erajyapatra.karnataka.gov.in/%28S%28opczidrprdv4yhn2gn1d3ayc%29%29/RecentUploads.aspx?Category=6"
-    },
-    {
-        "date": "24/10/2624/10/2026",
-        "board": "ISRO URSC",
-        "title": "Technician-B, Heavy Vehicle Driver-A, Light Vehicle Driver-A, Staff Car Driver-A",
-        "qualification": "Technician-B applicants must have passed SSLC/SSC/Matriculation and possess an ITI, National Trade Certificate (NTC) or National Apprenticeship Certificate (NAC) in the relevant trade from NCVT. || Candidates must possess a qualification corresponding to the advertised trade. A 10th Pass certificate alone is not sufficient for Technician-B eligibility.",
-        "last_date": "ITI, 10TH",
-        "total_posts": "61",
-        "salary": "The starting basic pay is Rs. 21,700 per month for Technician-B under Level 3 and Rs. 19,900 per month for driver posts under Level 2, plus admissible allowances. || Selected employees will be governed by the applicable National Pension System or Unified Pension Scheme provisions. URSC/ISRO also provides eligible employees with benefits such as medical facilities, subsidized canteen facilities, leave travel concession and other facilities subject to the prescribed conditions. || The advertised posts are described as temporary but likely to continue. Candidates should not confuse this classification with a short-term outsourced contract.",
-        "age_limit": "The age limit for Technician-B and all advertised driver posts is 18 to 35 years as on 13 November 2026 .",
-        "application_fee": "All applicants must initially pay Rs. 500 per application . The recruitment carries a non-refundable application fee of Rs. 100 for applicable candidates, with refunds processed only for candidates who appear in the written examination. || Important: The refundable amount is conditional on appearing in the written examination. Candidates who do not appear in the written test are not eligible for the refund. || Payment is accepted online through the Bharatkosh payment gateway using Internet Banking, Debit Card, Credit Card or UPI. Applicable payment service charges are borne by the applicant. || Refunds will normally be made to the original payment method. Candidates should provide correct bank account details for cases where the original refund method fails.",
-        "selection_process": "The selection process includes initial application screening, a Written Test or Computer Based Test (CBT), and a qualifying Skill Test. For driver posts, the Skill Test is a practical driving assessment. || Initial Screening:Applications will be screened using academic performance and other prescribed parameters. || Written Examination / CBT:Screened-in candidates will appear for the applicable objective examination. || Skill Test:Candidates shortlisted based on written examination performance will be called for a qualifying skill or driving test. || Document Verification:Original educational, experience, reservation and other eligibility documents will be verified. || Final Selection:Selection will follow the prescribed written examination merit and qualifying skill test requirements.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.isro.gov.in/",
-        "official_notification": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Oct/URSClAdvt2410_24102026.pdf"
     }
 ]
