@@ -33,22 +33,6 @@
     },
     {
         "date": "13/11/2026",
-        "board": "ISRO SDSC SHAR",
-        "title": "Technical Assistant, Scientific Assistant, Library Assistant A, Nurse B, Technician B, Draughtsman B, Fireman A, Light Vehicle Driver A, Heavy Vehicle Driver A and Multi-Tasking Staff",
-        "qualification": "Technician B applicants must have the NCVT trade qualification corresponding to their selected post code. || Important: Boiler Attendant applicants must possess both the prescribed NAC in Boiler Attendant trade and a First Class Boiler Attendant Certificate. A general ITI certificate alone does not meet this specific requirement.",
-        "last_date": "16-11-2026",
-        "total_posts": "97",
-        "salary": "Selected candidates will receive the pay scale applicable to their post under the Central Government pay structure.",
-        "age_limit": "18–35 Years for most posts; 18–25 Years for Fireman A and MTS",
-        "application_fee": "The notification prescribes different processing fees according to the post code. All applicants must initially pay the specified processing fee online. || For post codes 07–15, the effective application fee after refund is Rs. 250 for other candidates and nil for the exempt categories. For post codes 16–30, it is Rs. 100 for other candidates and nil for the exempt categories, provided they appear in the written examination and meet the refund conditions. || Important Fee Refund Condition: The refund is available only to candidates who appear in the Written Test. Candidates absent from the examination will not receive a refund. Applicants must enter their bank account details accurately to receive any eligible refund.",
-        "selection_process": "The selection procedure differs according to the notified post. || For posts with qualifying skill or physical tests, the final merit is prepared according to the written examination performance of candidates who qualify in the required subsequent stages.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.shar.gov.in",
-        "official_notification": "https://apps.shar.gov.in/sdscshar/advt_03_2026/Notice%20dated%2013.11.2026.pdf"
-    },
-    {
-        "date": "13/11/2026",
         "board": "POWERGRID",
         "title": "Trainee Engineer (Electronics)     – 33 Posts",
         "qualification": "Candidates must have appeared in the EC paper of GATE 2026 and qualified in it with a valid score; the qualifying marks declared by the GATE 2026 Organizing Body will be considered. Only the GATE 2026 score (Normalized Marks out of 100) is valid for this recruitment. || The essential qualification must be recognised in India and from a recognised Institution or University. || The date of issue of the final mark sheet is taken as the date of acquiring the essential qualification. || Where CGPA/OGPA/DGPA or a letter grade is awarded, the equivalent percentage must be entered in the form as per the norms of the University/Institute. If there is no conversion scheme, CGPA is divided by the maximum possible CGPA and multiplied by 100. || Marks in the essential qualification will not be rounded off. || Qualifying marks in the essential qualification are relaxed to pass marks for posts reserved for the respective category. || All computations of age and qualification are as on the closing date of online application; the cut-off date for eligibility is 27.11.2026. || Candidates should check the official notification for the full discipline-specific eligibility of the post.",
@@ -206,21 +190,5 @@
         "syllabus": "Not Available",
         "official_website": "https://arci.res.in/careers/vacancies",
         "official_notification": "https://arci.res.in/sites/default/files/2026-10/Final%20Regular%20Advertisement%20for%20Website%2022102026.pdf"
-    },
-    {
-        "date": "22/10/2026",
-        "board": "IPR",
-        "title": "Project Scientific Officer, Project Scientific Assistant, Project Administrative Staff",
-        "qualification": "Graduate in Arts/ Commerce / Management/ Science/ Law /Computer Application with minimum 50% marks and Certified Course in Computer",
-        "last_date": "16-11-2026",
-        "total_posts": "58",
-        "salary": "In addition to the remuneration mentioned above, Medical Scheme facility under Contributory Health Service Scheme – CHSS facility (self only) is admissible, and necessary deductions will be made every month from salary/remuneration as per IPR CHSS rules. The official notification does not mention the in-hand salary.",
-        "age_limit": "The age limit is calculated with reference to 16-11-2026.",
-        "application_fee": "Application fee must be paid through online mode only via SBI Collect. Candidates claiming fee exemption must submit the relevant certificate, failing which their candidature will not be considered. Fee once paid shall not be refunded under any circumstance nor held in reserve.",
-        "selection_process": "The selection process comprises the following stages: || Scrutiny of online applications based on age, educational qualification, category certificate, fee receipt, and other criteria. || For Project Scientific Officer & Project Scientific Assistant (Post Code 01 & 02): Selection is solely based upon performance in personal interview. A written test may be conducted for screening purpose only, if required. || For Project Administrative Staff (Post Code 03): Selection is based on written test and computer skill test.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://www.ipr.res.in",
-        "official_notification": "https://www.ipr.res.in/storage/uploads/careers/20261019_111010_S4CQNrszDSyKUI8.pdf"
     }
 ]
