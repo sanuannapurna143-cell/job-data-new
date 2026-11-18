@@ -1,6 +1,38 @@
 [
     {
         "date": "18/11/2026",
+        "board": "HG&CD",
+        "title": "Home Guard Volunteer, Marine Home Guard     – 176 Posts",
+        "qualification": "For both posts: S.S.C.E. passed from a recognized Board or equivalent qualification.",
+        "last_date": "31-12-2026",
+        "total_posts": "176",
+        "salary": "Not Available",
+        "age_limit": "Age is counted as on the last date of receipt of application forms, i.e. 31.12.2026. || The notice does not mention any age relaxation.",
+        "application_fee": "Not Available",
+        "selection_process": "The notice names these stages: verification of original documents before the Enrolment Boards, physical measurement, physical fitness test and a written test. Marine Home Guard candidates also take a swimming test. Enrolment is done strictly for candidates who qualify in documents verification, physical measurement and the physical fitness test, and is based on merit in the written test.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "Not Available",
+        "official_notification": "Not Available"
+    },
+    {
+        "date": "18/11/2026",
+        "board": "KVS",
+        "title": "PGT (English); Primary Teacher (PRT)",
+        "qualification": "Graduate",
+        "last_date": "01-12-2026",
+        "total_posts": "2",
+        "salary": "Consolidated pay – 27500/- per month",
+        "age_limit": "Not Available",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://samvida-sathi.kvs.gov.in/",
+        "official_notification": "https://samvida-sathi.kvs.gov.in/"
+    },
+    {
+        "date": "18/11/2026",
         "board": "KV No.1 AFS Jorhat",
         "title": "PGT (Biology), PRT, ATL Instructor and 3 more",
         "qualification": "Eligibility as per applicable KVS norms and relevant scheme guidelines",
@@ -10,7 +42,7 @@
         "age_limit": "As per applicable KVS norms and relevant scheme guidelines",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online (KVS Samvida Sathi portal) and Walk-in",
         "syllabus": "Not Available",
         "official_website": "https://no1afsjorhat.kvs.ac.in",
         "official_notification": "https://cdnbbsr.s3waas.gov.in/s3kv05ca3e7b700083f511dbed1a36c18b/uploads/2026/11/2026111720.pdf"
@@ -304,22 +336,6 @@
         "official_notification": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtDGRE10112026.pdf"
     },
     {
-        "date": "09/11/2026",
-        "board": "AFMS",
-        "title": "Medical Officer (Short Service Commission)",
-        "qualification": "MBBS Included in the National Medical Commission Act, 2019",
-        "last_date": "18-11-2026",
-        "total_posts": "120",
-        "salary": "Selected candidates will be commissioned in the rank of Captain or equivalent rank in the Navy or Air Force , under Level 10B of the Defence Pay Matrix. || The initial basic pay is Rs. 61,300 per month , with Military Service Pay of Rs. 15,500 and other applicable allowances.",
-        "age_limit": "The age limit depends on whether the applicant holds an MBBS degree or an eligible postgraduate medical qualification. Age is assessed as on 31 December 2026 . || Important: Candidates must use the qualification-specific age condition. The notification does not specify a separate category-wise age relaxation table.",
-        "application_fee": "The official notification prescribes a non-refundable application processing fee of Rs. 200 . || Payment must be made at the end of the online application process. The payment transaction number should be saved and quoted in further recruitment-related enquiries.",
-        "selection_process": "Selection involves NEET PG-based shortlisting, interview, medical examination and preparation of separate male and female final merit lists . || Online application and eligibility scrutiny. || Shortlisting using calculated NEET PG marks. || Viva-voce / Personal Interview. || Special Medical Examination Board. || Final merit list preparation. || Joining instructions for medically fit candidates selected against available vacancies.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://join.afms.gov.in/",
-        "official_notification": "https://join.afms.gov.in/"
-    },
-    {
         "date": "07/11/2026",
         "board": "NDC",
         "title": "Consultant (Subject Matter Expert) – Consultant (SME)",
@@ -414,22 +430,6 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "Not Available"
-    },
-    {
-        "date": "24/10/2026",
-        "board": "APS Belagavi",
-        "title": "Science Laboratory Attendant",
-        "qualification": "10 + 2 with Science and computer literacy.",
-        "last_date": "18-11-2026",
-        "total_posts": "Not Available",
-        "salary": "13,939/- to 16,536/- per month (All inclusive) as per experience",
-        "age_limit": "Not Available",
-        "application_fee": "Not Available",
-        "selection_process": "Selection will be made through a panel interview. Only shortlisted candidates will be called for the interview.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://apsbelagavi.in/",
-        "official_notification": "https://apsbelagavi.in/storage/uploads/careers/pdf/careers_6adc385d54e8f4.84301884.pdf"
     },
     {
         "date": "24/10/2026",
