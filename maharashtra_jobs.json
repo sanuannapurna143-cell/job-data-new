@@ -1,10 +1,10 @@
 [
     {
-        "date": "18/11/2618/11/2026",
+        "date": "19/11/2619/11/2026",
         "board": "MbPA",
         "title": "MbPA Vacancy 2026 - 48 Graduate Apprentice PostsMbPA Graduate Apprentice Vacancy 2026",
         "qualification": "Graduate in any stream (viz. BE, B.Com., BA, Bsc, BCA, etc.) from a recognized University or Institute as prescribed by All India Council for Technical Education or University Grants Commission. The applicant should NOT have completed three years after passing the minimum qualification examination as on 01/11/2026.",
-        "last_date": "B.Sc, B.Com, B.A, BCA",
+        "last_date": "B.A, BCA, B.Com, B.Sc",
         "total_posts": "48",
         "salary": "The training period is 12 months. The stipend per month is Establishment Share Rs. 6150 and Government Share Rs. 6150 (direct through DBT). Each apprentice gets Casual Leave of 12 days and Medical Leave of 15 days during the training. An apprentice who cannot complete the course in the prescribed period because of illness or other circumstances beyond his/her control will have the period extended as per the Apprentices Act, 1961. After satisfactory completion of training, a Certificate of Proficiency is issued by the Board of Apprenticeship Training (BOAT).",
         "age_limit": "Minimum 18 years, upper age limit 25 years",
@@ -14,6 +14,22 @@
         "syllabus": "Not Available",
         "official_website": "https://www.mumbaiport.gov.in",
         "official_notification": "https://mumbaiport.gov.in/WriteReadData/RTF1984/1795013754.pdf"
+    },
+    {
+        "date": "19/11/2619/11/2026",
+        "board": "Mumbai Port Authority",
+        "title": "Computer Operator and Programming Assistant (COPA) Apprentice",
+        "qualification": "1. Passed 10th Class examination under 10+2 system of education or its equivalent. 2. COPA Trade Certificate issued by National Council of Vocational Training.",
+        "last_date": "10TH, ITI, 12TH",
+        "total_posts": "96",
+        "salary": "Rs.10,560/- per month",
+        "age_limit": "The minimum age limit is 18 years and the upper age limit is 25 years for apprenticeship training. The application form asks for the applicant's age on 01/11/2026.",
+        "application_fee": "The fee is accepted in NEFT mode only; fees in any other mode will not be accepted. The UTR receipt must be attached to the offline form, and the UTR number must be written in the form. The beneficiary details printed in the notice are: || Name of the beneficiary: The Board of Mumbai Port Authority || Bank Account No.: 10996685430 (Current A/c) || Bank: State Bank of India, Mumbai Main Branch, Horniman Circle, Mumbai Samachar Marg, Mumbai -400001 || MICR Number: 400002010 || IFSC Code No.: SBIN0000300",
+        "selection_process": "The stages are a merit list, verification of original documents and selection procedure at the ATC office, and a physical fitness test.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://mumbaiport.gov.in",
+        "official_notification": "Not Available"
     },
     {
         "date": "17/11/2617/11/2026",
