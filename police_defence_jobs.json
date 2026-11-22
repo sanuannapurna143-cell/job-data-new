@@ -42,7 +42,7 @@
         "age_limit": "Age is counted as on the last date of receipt of application forms, i.e. 31.12.2026. || The notice does not mention any age relaxation.",
         "application_fee": "Not Available",
         "selection_process": "The notice names these stages: verification of original documents before the Enrolment Boards, physical measurement, physical fitness test and a written test. Marine Home Guard candidates also take a swimming test. Enrolment is done strictly for candidates who qualify in documents verification, physical measurement and the physical fitness test, and is based on merit in the written test.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "Not Available"
@@ -170,7 +170,7 @@
         "age_limit": "The age limit for the PRT(Primary Teacher) post is between 21 – 45 years as on 01 November 2026. The notice does not mention any age relaxation.",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://www.facebook.com",
         "official_notification": "https://www.instagram.com/sainikshikshaniketan"
@@ -186,7 +186,7 @@
         "age_limit": "Below 28 Years",
         "application_fee": "Not Available",
         "selection_process": "The selection procedure will be decided by the Selection Committee on the basis of Merit / Interview / Interaction. No communication will be undertaken for rejected candidates. || Only shortlisted students will be notified about the joining procedures and the undertaking forms and indemnity bond to be filled by them and by the head of the institution. || The management reserves the right to change the vacancy positions or selection criteria at any point during the selection process without assigning any reason. || The notice does not describe the interview or interaction (date, venue or marks) in more detail.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://drdo.gov.in/",
         "official_notification": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtACEM17112026.pdf"
@@ -298,7 +298,7 @@
         "age_limit": "Not Available",
         "application_fee": "Not Available",
         "selection_process": "Selection runs through scrutiny of applications, document verification, a written examination, a trade test where applicable, and a merit list.",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://indiancoastguard.gov.in",
         "official_notification": "https://indiancoastguard.gov.in/sites/default/files/1855.pdf"
@@ -314,7 +314,7 @@
         "age_limit": "JCO: Up to 55 Years of Service; Other Ranks: Up to 50 Years of Service",
         "application_fee": "Not Available",
         "selection_process": "Not Available",
-        "apply_mode": "Walk-in",
+        "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://territorialarmy.in/",
         "official_notification": "Not Available"
@@ -494,22 +494,6 @@
         "syllabus": "Not Available",
         "official_website": "Not Available",
         "official_notification": "Not Available"
-    },
-    {
-        "date": "24/10/2026",
-        "board": "NIA",
-        "title": "Inspector & Sub-Inspector",
-        "qualification": "Bachelor's degree in any discipline from a recognized university with experience in handling of cases of investigation of criminal cases, intelligence work, operations, IT cases, or training in counter terrorism.",
-        "last_date": "22-11-2026",
-        "total_posts": "57",
-        "salary": "Pay Matrix Level-6 (Rs. 35,400 - 1,12,400) and Level-7 (Rs. 44,900 - 1,42,400)",
-        "age_limit": "Inspector:Maximum age limit for appointment by deputation shall be not exceeding 56 years. || Sub-Inspector:Maximum age limit for appointment by deputation shall be not exceeding 56 years.",
-        "application_fee": "Not Available",
-        "selection_process": "Scrutiny of applications and documents || Appointment on deputation basis",
-        "apply_mode": "Offline",
-        "syllabus": "Not Available",
-        "official_website": "https://nia.mha.gov.in/",
-        "official_notification": "https://nia.mha.gov.in/en/secure-pdf/view/f4ee93b1255b675ea64a9505182df8c4"
     },
     {
         "date": "24/10/2026",
