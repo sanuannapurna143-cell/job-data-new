@@ -1,5 +1,21 @@
 [
     {
+        "date": "23/11/2623/11/2026",
+        "board": "SVSU",
+        "title": "SVSU Vacancy 2026 - 45 Skill Instructor PostsSVSU Skill Instructor Vacancy 2026",
+        "qualification": "All qualifications must be from recognized Boards, Universities or Institutes. Qualifications from any body declared fake or not recognized by the respective regulatory bodies are not accepted. || B. Voc and M. Voc are recognized where the criteria ask for a Bachelor or Master degree in any discipline. || Experience is counted only after the prescribed essential qualification is obtained. || Under a Grade Point System, CGPA will be converted into equivalent marks, and the conversion document must be submitted with the application. || Degrees through open universities or distance education must have been recognized by the Distance Education Council for the period in which they were acquired. || Candidates whose essential degrees are from Singhania University (Rajasthan), EIILM University (Sikkim), Manav Bharti University (Himachal Pradesh), Vinayaka Mission University (Sikkim), Global Open University (Nagaland) and Vinayaka Mission University, Salem, Tamilnadu have been declared ineligible for appointment. Holders of such degrees through Distance Education Mode must upload a certificate verified by the Distance Education Council/Distance Education Bureau, New Delhi. || The essential qualifications are the bare minimum, and holding them does not by itself entitle a candidate to be shortlisted.",
+        "last_date": "Graduate, Post Graduate, B.A, B.Des, B.Pharma, B.Sc, B.Tech/B.E, B.Voc, BCA, M.A, M.Des, M.E/M.Tech, M.Phil/Ph.D, M.Sc, M.Voc, MCA",
+        "total_posts": "45",
+        "salary": "FPL-6 (under 7th CPC)",
+        "age_limit": "Not Available",
+        "application_fee": "The fee is accepted online only, through the link in the online application form. Once deposited, it is not transferable, refundable or adjustable. The University will refund it, however, if an advertised post is withdrawn.",
+        "selection_process": "The written test is mandatory, and all applicants may sit it without their eligibility being checked first. Those who qualify go on to the Skill Test. The minimum marks are: || Candidates who reach these marks move to the checking of eligibility and documents verification. Candidates found eligible by the Screening Committee and shortlisted by the University are called for documents verification, while those declared ineligible are not informed of their status.",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://svsu.ac.in/",
+        "official_notification": "https://svsu.ac.in/wp-content/uploads/2026/10/Advt%20for%20Skill%20Instructor.pdf"
+    },
+    {
         "date": "21/11/2621/11/2026",
         "board": "CRSU",
         "title": "Assistant Professor, Associate Professor, Professor",
@@ -45,7 +61,7 @@
         "apply_mode": "Online",
         "syllabus": "Not Available",
         "official_website": "https://hau.ac.in",
-        "official_notification": "/cdn-cgi/l/email-protection#80e1e4f6e9f3eff2aef2e3c0e7ede1e9ecaee3efed"
+        "official_notification": "/cdn-cgi/l/email-protection#c2a3a6b4abb1adb0ecb0a182a5afa3abaeeca1adaf"
     },
     {
         "date": "05/11/2605/11/2026",
@@ -62,21 +78,5 @@
         "syllabus": "Not Available",
         "official_website": "https://www.rites.com/",
         "official_notification": "https://rites.com/Upload/Career/Advertisment_for_Engagement_of_Apprentices_for_FY_2026_27_(2)_pdf-2026-Nov-04-16-7-17.pdf"
-    },
-    {
-        "date": "31/10/2631/10/2026",
-        "board": "SVSU",
-        "title": "SVSU Vacancy 2026 - 45 Skill Instructor PostsSVSU Skill Instructor Vacancy 2026",
-        "qualification": "All qualifications must be from recognized Boards, Universities or Institutes. Qualifications from any body declared fake or not recognized by the respective regulatory bodies are not accepted. || B. Voc and M. Voc are recognized where the criteria ask for a Bachelor or Master degree in any discipline. || Experience is counted only after the prescribed essential qualification is obtained. || Under a Grade Point System, CGPA will be converted into equivalent marks, and the conversion document must be submitted with the application. || Degrees through open universities or distance education must have been recognized by the Distance Education Council for the period in which they were acquired. || Candidates whose essential degrees are from Singhania University (Rajasthan), EIILM University (Sikkim), Manav Bharti University (Himachal Pradesh), Vinayaka Mission University (Sikkim), Global Open University (Nagaland) and Vinayaka Mission University, Salem, Tamilnadu have been declared ineligible for appointment. Holders of such degrees through Distance Education Mode must upload a certificate verified by the Distance Education Council/Distance Education Bureau, New Delhi. || The essential qualifications are the bare minimum, and holding them does not by itself entitle a candidate to be shortlisted.",
-        "last_date": "Graduate, Post Graduate, B.A, B.Des, B.Pharma, B.Sc, B.Tech/B.E, B.Voc, BCA, M.A, M.Des, M.E/M.Tech, M.Phil/Ph.D, M.Sc, M.Voc, MCA",
-        "total_posts": "45",
-        "salary": "FPL-6 (under 7th CPC)",
-        "age_limit": "Not Available",
-        "application_fee": "The fee is accepted online only, through the link in the online application form. Once deposited, it is not transferable, refundable or adjustable. The University will refund it, however, if an advertised post is withdrawn.",
-        "selection_process": "The written test is mandatory, and all applicants may sit it without their eligibility being checked first. Those who qualify go on to the Skill Test. The minimum marks are: || Candidates who reach these marks move to the checking of eligibility and documents verification. Candidates found eligible by the Screening Committee and shortlisted by the University are called for documents verification, while those declared ineligible are not informed of their status.",
-        "apply_mode": "Online",
-        "syllabus": "Not Available",
-        "official_website": "https://svsu.ac.in/",
-        "official_notification": "https://svsu.ac.in/wp-content/uploads/2026/10/Advt%20for%20Skill%20Instructor.pdf"
     }
 ]
