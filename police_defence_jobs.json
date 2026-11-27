@@ -1,6 +1,38 @@
 [
     {
         "date": "27/11/2026",
+        "board": "DEAL",
+        "title": "Junior Research Fellow (Computer Science engineering (CSE)), Junior Research Fellow (Physics)",
+        "qualification": "At least First Division Bachelor's Degree in Engineering or Technology in Computer Science & Engineering from a recognized university with valid GATE score with paper code (CS); Or M.Tech (CS) First division with specialization in Post Quantum Cryptography/ Quantum Computing; Equivalent: Computer Science & System Engg.; Software Engg./ Technology; Information Science & Engg.; Computer & Communication; any other relevant discipline with qualifying essential degree which mentions 'Computer' as the main discipline",
+        "last_date": "27-12-2026",
+        "total_posts": "3",
+        "salary": "Rs. 37,000 per month plus House Rent Allowance (HRA) as applicable",
+        "age_limit": "Age relaxation for all posts: SC/ST 5 years, OBC 3 years.",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Offline",
+        "syllabus": "Not Available",
+        "official_website": "https://www.drdo.gov.in",
+        "official_notification": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtDEAL27112026.pdf"
+    },
+    {
+        "date": "27/11/2026",
+        "board": "DRDO CABS",
+        "title": "Consultant (Technical); Consultant (Admin)",
+        "qualification": "Graduate in any discipline and prior experience in procurements / Accounts (Pay & Equipment) / Govt. Audit with computer knowledge is essential",
+        "last_date": "17-12-2026",
+        "total_posts": "3",
+        "salary": "A fixed monthly amount, arrived at by deducting the basic pension from the pay drawn at the time of retirement",
+        "age_limit": "Not more than 63 years as on the closing date for receipt of applications",
+        "application_fee": "Not Available",
+        "selection_process": "Not Available",
+        "apply_mode": "Online",
+        "syllabus": "Not Available",
+        "official_website": "https://www.drdo.gov.in",
+        "official_notification": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtCABS27112026.pdf"
+    },
+    {
+        "date": "27/11/2026",
         "board": "DIHAR",
         "title": "Paid Intern     – 3 Posts",
         "qualification": "BE/B.Tech 7th/8th Semester or M.Tech 1st/2nd year, with 7.5 CGPA or equivalent or more",
